@@ -20,11 +20,13 @@ jobs:
         run: |
           python main.py
           python taf.py
+          python pfingsten2024.py
           git config user.name Github Action
           git config user.email actions@github.com
           git add data/*
           git add taf.csv
           git add taf.xlsx
+          git add pfingsten2024.xlsx
           timestamp=$(date -u)
           git commit -m "update records data: ${timestamp}" || exit 0
           git push
