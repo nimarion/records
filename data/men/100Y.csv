@@ -1,2 +1,2 @@
-result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
-9.21,USA,Provo UT,USA,1967-06-16,Charlie Greene,1945,Male,100Y,NR
+result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
+9.21,+1.5,USA,Provo UT,USA,1967-06-16,Charlie Greene,1945,Male,100Y,NR

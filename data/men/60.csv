@@ -1,2 +1,2 @@
-result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
-6.53,RSA,Pretoria,RSA,2023-02-18,Akani Simbine,1993,Male,60,NR
+result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
+6.53,0.0,RSA,Pretoria,RSA,2023-02-18,Akani Simbine,1993,Male,60,NR

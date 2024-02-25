@@ -1,2 +1,2 @@
-result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
-7.47,MLT,Marsa,MLT,2024-01-27,Carla Scicluna,2001,Female,60,NR
+result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
+7.47,+1.5,MLT,Marsa,MLT,2024-01-27,Carla Scicluna,2001,Female,60,NR
