@@ -1,0 +1,55 @@
+result,nation,venue,venueCountry,date,name,sex,event,type
+4:01.55,AND,Castellón,ESP,2022-09-17,Andorra,Male,4x4MX,NR
+3:17.00,AUS,Gold Coast,AUS,2021-06-12,Australia,Male,4x4MX,NR
+3:11.51,BEL,Tokyo,JPN,2021-07-31,Belgium,Male,4x4MX,NR
+3:16.65,BLR,Erzurum,TUR,2021-06-13,Belarus,Male,4x4MX,NR
+3:29.25,BUL,Minsk,BLR,2019-06-23,Bulgaria,Male,4x4MX,NR
+3:38.81,BUR,Ouagadougou,BUR,2021-05-15,Burkina Faso,Male,4x4MX,NR
+3:15.20,CAN,Langley,CAN,2023-07-14,Canada,Male,4x4MX,NR
+3:46.37,CIV,Cape Coast,GHA,2022-05-21,Ivory Coast,Male,4x4MX,NR
+3:14.79,COL,São Paulo,BRA,2023-07-28,Colombia,Male,4x4MX,NR
+3:32.61,CYP,Minsk,BLR,2019-06-23,Cyprus,Male,4x4MX,NR
+3:11.98,CZE,Budapest,HUN,2023-08-19,Czech Republic,Male,4x4MX,NR
+3:24.72,DEN,Minsk,BLR,2019-06-25,Denmark,Male,4x4MX,NR
+3:13.29,ESP,Tokyo,JPN,2021-07-30,Spain,Male,4x4MX,NR
+3:24.11,EST,Minsk,BLR,2019-06-25,Estonia,Male,4x4MX,NR
+3:24.5,ETH,Addis Ababa,ETH,2021-12-26,Ethiopia,Male,4x4MX,NR
+3:12.25,FRA,Budapest,HUN,2023-08-19,France,Male,4x4MX,NR
+3:11.06,GBR,Budapest,HUN,2023-08-19,Great Britain,Male,4x4MX,NR
+3:12.94,GER,Tokyo,JPN,2021-07-30,Germany,Male,4x4MX,NR
+3:24.86,GHA,Kumasi,GHA,2022-11-10,Ghana,Male,4x4MX,NR
+3:20.81,GRE,Minsk,BLR,2019-06-26,Greece,Male,4x4MX,NR
+3:27.71,GUY,Port of Spain,TTO,2023-08-09,Guyana,Male,4x4MX,NR
+3:14.08,HUN,Budapest,HUN,2023-08-19,Hungary,Male,4x4MX,NR
+3:14.34,IND,Hangzhou,CHN,2023-10-02,India,Male,4x4MX,NR
+3:12.88,IRL,Tokyo,JPN,2021-07-30,Ireland,Male,4x4MX,NR
+3:13.51,ITA,Tokyo,JPN,2021-07-30,Italy,Male,4x4MX,NR
+3:15.71,JPN,Bangkok,THA,2023-07-15,Japan,Male,4x4MX,NR
+3:15.47,KEN,Budapest,HUN,2023-08-19,Kenya,Male,4x4MX,NR
+3:40.22,KGZ,Almaty,KAZ,2023-07-02,Kyrghizstan,Male,4x4MX,NR
+3:52.0,LBR,Monrovia,LBR,2022-01-16,Liberia,Male,4x4MX,NR
+4:01.53,LES,Maseru,LES,2021-12-09,Lesotho,Male,4x4MX,NR
+3:23.75,LTU,Minsk,BLR,2019-06-23,Lithuania,Male,4x4MX,NR
+3:20.29,MAR,Konya,TUR,2022-08-11,Morocco,Male,4x4MX,NR
+3:38.86,MAW,Lilongwe,MAW,2022-12-09,Malawi,Male,4x4MX,NR
+3:17.83,MEX,Puebla,MEX,2023-07-23,Mexico,Male,4x4MX,NR
+3:40.16,NAM,Lilongwe,MAW,2022-12-09,Namibia,Male,4x4MX,NR
+3:13.60,NGR,Tokyo,JPN,2021-07-30,Nigeria,Male,4x4MX,NR
+3:35.95,NIG,Kaduna,NGR,2021-05-29,Niger,Male,4x4MX,NR
+3:22.53,PHI,Bangkok,THA,2023-07-15,Philippines,Male,4x4MX,NR
+3:09.87,POL,Tokyo,JPN,2021-07-31,Poland,Male,4x4MX,NR
+3:21.68,ROU,Minsk,BLR,2019-06-25,Romania,Male,4x4MX,NR
+3:19.18,RSA,Chorzów,POL,2021-05-01,South Africa,Male,4x4MX,NR
+3:20.19,SEN,Lagos,NGR,2021-06-27,Senegal,Male,4x4MX,NR
+3:33.26,SGP,Singapore,SGP,2021-06-11,Singapore,Male,4x4MX,NR
+3:29.93,SLE,Kaduna,NGR,2021-05-29,Sierra Leone,Male,4x4MX,NR
+3:20.66,SLO,Minsk,BLR,2019-06-23,Slovenia,Male,4x4MX,NR
+3:15.41,SRI,Bangkok,THA,2023-07-15,Sri Lanka,Male,4x4MX,NR
+3:57.35,SWZ,Maseru,LES,2021-12-09,Swaziland,Male,4x4MX,NR
+3:19.29,THA,Hanoi,VIE,2022-05-14,Thailand,Male,4x4MX,NR
+3:25.73,TPE,Tainan,TPE,2023-10-24,Chinese Taipei,Male,4x4MX,NR
+3:14.80,TUR,Erzurum,TUR,2021-06-27,Türkiye,Male,4x4MX,NR
+3:29.80,UGA,Kampala,UGA,2022-03-19,Uganda,Male,4x4MX,NR
+3:14.06,UKR,Erzurum,TUR,2021-06-27,Ukraine,Male,4x4MX,NR
+3:08.80,USA,Budapest,HUN,2023-08-19,United States,Male,4x4MX,NR
+3:23.28,ZAM,Lagos,NGR,2021-06-19,Zambia,Male,4x4MX,NR

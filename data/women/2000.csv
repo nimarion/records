@@ -1,0 +1,55 @@
+result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
+6:17.34,ALB,Chorzów,POL,2023-06-20,Luiza Gega,1988,Female,2000,NR
+5:37.71,AUS,Ostrava,CZE,2003-06-12,Benita Willis,1979,Female,2000,NR
+5:21.56,BDI,Zagreb,CRO,2021-09-14,Francine Niyonsaba,1993,Female,2000,NR
+5:42.15,BEL,Heusden,BEL,2001-07-14,Veerle Dejaeghere,1973,Female,2000,NR
+5:29.64,BLR,Moskva,URS,1984-08-04,Tetyana Pozdnyakova,1956,Female,2000,NR
+5:35.83,BUL,Sofia,BUL,2004-07-08,Daniela Yordanova,1976,Female,2000,NR
+7:51.9,BUR,Marostica,ITA,2012-05-12,Fatimata Nonni,,Female,2000,NR
+7:18.50,CIV,Chiari,ITA,2014-04-05,Mariam Dosso,,Female,2000,NR
+6:17.0,COD,Seoul,KOR,1988-09-23,Diba Dikanda,,Female,2000,NR
+5:36.06,CZE,Zagreb,CRO,2021-09-14,Kristiina Sasínek Mäki,1991,Female,2000,NR
+5:43.7,DEN,Søllerød,DEN,1991-09-18,Gitte Karlshøj,1959,Female,2000,NR
+5:58.87,ERI,Eugene OR,USA,2022-07-20,Rahel Daniel,2001,Female,2000,NR
+5:41.30,ESP,Olot,ESP,2020-07-21,Esther Guerrero,1990,Female,2000,NR
+5:56.8,EST,Tallinn,URS,1988-09-07,Sirje Eichelmann,1955,Female,2000,NR
+5:25.86,ETH,Zagreb,CRO,2021-09-14,Freweyni Hailu,2001,Female,2000,NR
+6:54.0,FIJ,Suva,FIJ,1995-07-07,Salome Tabuatalei,,Female,2000,NR
+5:39.00,FRA,London,GBR,1986-07-11,Annette Sergent,1962,Female,2000,NR
+5:26.93,GBR,Edinburgh,GBR,1994-07-08,Yvonne Murray,1964,Female,2000,NR
+5:34.53,GER,Trier,GER,2021-09-17,Konstanze Klosterhalfen,1997,Female,2000,NR
+7:51.2,GHA,Palermo,ITA,2005-04-09,Sabine Sobo Blay,1990,Female,2000,NR
+5:49.73,HUN,Berlin,GER,1991-06-23,Zita Ágoston,1965,Female,2000,NR
+5:25.36,IRL,Edinburgh,GBR,1994-07-08,Sonia O'Sullivan,1969,Female,2000,NR
+6:17.50,ISL,Greve,DEN,1992-07-16,Frída Rún þÓrðardóttir,1970,Female,2000,NR
+5:52.3,ISR,Tel Aviv,ISR,2019-02-02,Lonah Chemtai Salpeter,1988,Female,2000,NR
+5:32.83,ITA,Torino,ITA,1996-09-14,Roberta Brunet,1965,Female,2000,NR
+5:47.17,JPN,Marseille,FRA,2016-09-13,Tomoka Kimura,1994,Female,2000,NR
+5:29.70,KEN,Doha,QAT,2020-09-25,Hellen Obiri,1989,Female,2000,NR
+5:37.55,MAR,Bruxelles,BEL,1999-09-03,Zahra Ouaziz,1969,Female,2000,NR
+6:16.2,MAW,Beijing,CHN,2008-08-19,Lucia Chandamale,1988,Female,2000,NR
+6:29.17,MNE,Berane,MNE,2019-07-31,Sladjana Perunović,1984,Female,2000,NR
+6:03.84,MOZ,London,GBR,1992-07-10,Maria Mutola,1972,Female,2000,NR
+6:25.5,MRI,Réduit,MRI,1992-03-26,Corinne Saramandif,,Female,2000,NR
+5:38.37,NED,Amsterdam,NED,2013-08-31,Susan Krumins,1986,Female,2000,NR
+6:55.24,NGR,Latina,ITA,2019-03-31,Vittoria Osawaru,,Female,2000,NR
+5:41.04,NOR,Florø,NOR,2018-06-02,Karoline Bjerkeli Grøvdal,1990,Female,2000,NR
+5:44.67,NZL,London,GBR,1986-11-07,Anne Hare,1964,Female,2000,NR
+6:42.9,PNG,Victoria,CAN,1994-08-19,Rosemary Turare,1964,Female,2000,NR
+5:38.44,POL,Bruxelles,BEL,2009-09-04,Lidia Chojecka,1977,Female,2000,NR
+5:37.88,POR,Lisboa,POR,1996-06-21,Fernanda Ribeiro,1969,Female,2000,NR
+5:28.69,ROU,London,GBR,1986-07-11,Maricica Puica,1950,Female,2000,NR
+5:38.07,RSA,Cap-Haïtien,HAI,1991-08-04,Zola Budd-Pieterse,,Female,2000,NR
+5:28.72,RUS,Moskva,URS,1984-08-04,Tatyana Kazankina,1951,Female,2000,NR
+6:47.4,SEY,Victoria,CAN,2007-03-17,Simone Jaffa,,Female,2000,NR
+5:40.91,SLO,Zagreb,CRO,2021-09-14,Klara Lukan,2000,Female,2000,NR
+7:41.30,SMR,Serravalle,SMR,2012-04-21,Monica Randi,1967,Female,2000,NR
+5:55.62,SRB,Ostrava,CZE,2014-06-17,Amela Ljajić,1993,Female,2000,NR
+6:26.4,STP,Beijing,CHN,2008-08-19,Celma Bonfim Soares,,Female,2000,NR
+5:35.59,SUI,London,GBR,1986-07-11,Cornelia Bürki,1953,Female,2000,NR
+5:53.28,SVK,Bratislava,SVK,1992-06-01,Andrea Sollárova,1971,Female,2000,NR
+5:47.17,SWE,Zagreb,CRO,2021-09-14,Meraf Bahta,1989,Female,2000,NR
+6:20.54,TUN,Tunis,TUN,2002-04-14,Habiba Ghribi,,Female,2000,NR
+5:33.83,TUR,Istanbul,TUR,2003-06-07,Elvan Abeylegesse,1982,Female,2000,NR
+5:58.87,UGA,Eugene OR,USA,2022-07-20,Esther Chebet,1997,Female,2000,NR
+5:37.55,UZB,London,GBR,1984-08-04,Zamira Zaytseva,1953,Female,2000,NR

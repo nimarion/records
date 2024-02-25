@@ -1,0 +1,107 @@
+result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
+3:57.56,ALB,Milano,ITA,2022-06-11,David Nikolli,1994,Male,Mile,NR
+3:44.39,ALG,Rieti,ITA,1993-09-05,Noureddine Morceli,1970,Male,Mile,NR
+4:15.53,AND,Barcelona,ESP,1987-07-15,Josep Graells,1964,Male,Mile,NR
+3:59.27,ARG,Concordia,ARG,2021-03-31,Federico Bruno,1993,Male,Mile,NR
+3:47.48,AUS,Oslo,NOR,2022-06-16,Olli Hoare,1997,Male,Mile,NR
+3:52.42,AUT,Rieti,ITA,1981-09-09,Robert Nemeth,1958,Male,Mile,NR
+3:46.70,BDI,Berlin,GER,1997-08-26,Vénuste Niyongabo,1973,Male,Mile,NR
+3:51.84,BEL,Oslo,NOR,2015-06-11,Pieter-Jan Hannes,1992,Male,Mile,NR
+3:58.41,BIH,Karlovac,YUG,1981-06-04,Vinko Pokrajcic,1958,Male,Mile,NR
+3:57.88,BLR,Sankt Peterburg,RUS,1994-07-26,Azat Rakipau,1968,Male,Mile,NR
+3:51.05,BRA,Oslo,NOR,2005-07-29,Hudson de Souza,1977,Male,Mile,NR
+3:51.33,BRN,Eugene OR,USA,2005-06-04,Rashid Ramzi,1980,Male,Mile,NR
+3:58.9,BUL,København,DEN,1974-07-08,Moncho Marinov,1953,Male,Mile,NR
+3:50.26,CAN,Oslo,NOR,2000-07-28,Kevin Sullivan,1974,Male,Mile,NR
+4:02.51,CAY,Westwood CA,USA,2011-04-09,Jon Rankin,1982,Male,Mile,NR
+4:05.12,CHI,Belfast,GBR,2022-07-09,Juan Ignacio Peña,1991,Male,Mile,NR
+3:59.75,CHN,New York NY,USA,2006-06-03,Gu Ming,1983,Male,Mile,NR
+5:07.1,COK,UNKNOWN,???,1980-01-01,Alan Jordon,,Male,Mile,NR
+4:12.3,COL,Villavicencio,COL,1984-04-19,Alberto Ospina,,Male,Mile,NR
+4:03.0,CRC,Berkeley CA,USA,1963-05-02,Julio Marin,1941,Male,Mile,NR
+3:52.64,CRO,Stockholm/S,SWE,1998-08-05,Branko Zorko,1967,Male,Mile,NR
+3:58.1,CUB,Kingston,JAM,1979-05-11,Luis Medina,1952,Male,Mile,NR
+3:59.33,CYP,Cork,IRL,2017-07-18,Amine Khadiri,1988,Male,Mile,NR
+3:52.59,CZE,Stockholm/S,SWE,1978-07-03,Jozef Plachý,1949,Male,Mile,NR
+3:50.79,DEN,Berlin,GER,1997-08-26,Robert K. Andersen,1972,Male,Mile,NR
+3:47.32,DJI,Eugene OR,USA,2014-05-31,Ayanleh Souleiman,1992,Male,Mile,NR
+3:57.37,DMA,Portland OR,USA,1997-05-11,Steve Agar,1968,Male,Mile,NR
+4:07.42,DOM,Holmdel NJ,USA,2001-06-13,José Zayas,1978,Male,Mile,NR
+4:01.67,ERI,Brunswick ME,USA,2001-07-07,Bolota Asmerom,1978,Male,Mile,NR
+4:24.8,ESA,Santa Ana CA,USA,2007-02-10,Francis Jiménez,1985,Male,Mile,NR
+3:47.69,ESP,Eugene OR,USA,2023-09-16,Mario García,1999,Male,Mile,NR
+3:59.74,EST,Viljandi,EST,2011-08-09,Tiidrek Nurme,1985,Male,Mile,NR
+3:48.60,ETH,Eugene OR,USA,2014-05-31,Aman Wote,1984,Male,Mile,NR
+4:11.4,FIJ,Lyngby,DEN,1981-07-07,Richard Kermode,1955,Male,Mile,NR
+3:55.65,FIN,London,GBR,1977-06-26,Ari Paunonen,1958,Male,Mile,NR
+3:48.64,FRA,Eugene OR,USA,2023-09-16,Azeddine Habz,1993,Male,Mile,NR
+3:46.32,GBR,Oslo,NOR,1985-07-27,Steve Cram,1960,Male,Mile,NR
+3:49.22,GER,Oslo,NOR,1988-07-02,Jens-Peter Herold,1965,Male,Mile,NR
+4:00.34,GHA,Atlanta GA,USA,2018-05-22,Sampson Laari,1993,Male,Mile,NR
+4:05.57,GIB,Concord MA,USA,2014-06-05,Harvey Dixon,1993,Male,Mile,NR
+3:56.11,GRE,San Donato Milanese,ITA,1992-05-30,Spirídon Christopoulos,1964,Male,Mile,NR
+4:06.0,GUY,Westwood CA,USA,1975-05-03,Rayfield Beaton,1951,Male,Mile,NR
+4:22.63,HKG,Hongkong,HKG,1989-07-23,Yap Kai Tak,,Male,Mile,NR
+3:55.13,HUN,Koblenz,FRG,1984-08-29,István Knipl,1961,Male,Mile,NR
+3:49.77,IRL,Oslo,NOR,1982-07-07,Ray Flynn,1957,Male,Mile,NR
+3:57.63,ISL,Koblenz,FRG,1982-08-25,Jón Didriksson,1955,Male,Mile,NR
+4:03.40,ISR,Hamburg,GER,1984-08-20,Ronnie Maoz,1961,Male,Mile,NR
+3:51.96,ITA,San Donato Milanese,ITA,1992-05-30,Gennaro Di Napoli,1968,Male,Mile,NR
+3:57.34,JAM,Stockholm/S,SWE,1974-07-01,Byron Dyce,1948,Male,Mile,NR
+3:58.89,JPN,Osaka,JPN,1996-05-11,Kiyonari Shibata,1973,Male,Mile,NR
+3:43.40,KEN,Roma,ITA,1999-07-07,Noah Ngeny,1978,Male,Mile,NR
+4:16.7,KOS,Mitrovice,KOS,2014-09-27,Musa Hajdari,1987,Male,Mile,NR
+3:52.00,KSA,Oslo,NOR,2011-06-09,Mohamed Othman Shahween,1986,Male,Mile,NR
+3:59.55,KUW,Des Moines IA,USA,2001-04-28,Bashir Ibrahim,1979,Male,Mile,NR
+4:01.05,LAT,Tartu,EST,2013-05-28,Dmitrijs Jurkevičs,1987,Male,Mile,NR
+4:09.86,LBN,Melbourne,AUS,2024-02-06,Zaid Al Sayed,2001,Male,Mile,NR
+4:40.4,LIE,Gisingen,AUT,1960-06-11,Hugo Walser,1940,Male,Mile,NR
+3:59.25,LTU,Vilnius,LTU,2020-08-22,Simas Bertašius,1993,Male,Mile,NR
+3:52.57,LUX,Pfungstadt,GER,2023-09-06,Charles Grethen,1992,Male,Mile,NR
+3:43.13,MAR,Roma,ITA,1999-07-07,Hicham El Guerrouj,1974,Male,Mile,NR
+3:56.13,MEX,Concord MA,USA,2017-06-01,Daniel Herrera,1992,Male,Mile,NR
+4:22.1,MLT,Marsa,MLT,1995-01-01,Xandru Grech,1974,Male,Mile,NR
+4:01.56,MOZ,Paarl,RSA,2018-03-22,Flávio Seholhe,1990,Male,Mile,NR
+4:18.20,MRI,Rose Hill NC,USA,1984-06-14,Jacques Legrand,,Male,Mile,NR
+3:48.93,NED,Eugene OR,USA,2023-09-16,Niels Laros,2005,Male,Mile,NR
+4:04.79,NGR,USA,USA,1994-01-01,Tony Osheku,1966,Male,Mile,NR
+3:43.73,NOR,Eugene OR,USA,2023-09-16,Jakob Ingebrigtsen,2000,Male,Mile,NR
+3:49.08,NZL,Oslo,NOR,1982-07-07,John Walker,1952,Male,Mile,NR
+4:16.72,PAR,Asunción,PAR,2013-02-09,Derlis Ayala,1990,Male,Mile,NR
+3:53.21,PER,Concord MA,USA,2017-06-01,David Torrence,1985,Male,Mile,NR
+4:27.29,PNG,Brisbane,AUS,2005-06-05,Sapolai Yao,1982,Male,Mile,NR
+3:49.11,POL,Oslo,NOR,2021-07-01,Marcin Lewandowski,1987,Male,Mile,NR
+3:49.50,POR,Roma,ITA,2002-07-12,Rui Silva,1977,Male,Mile,NR
+3:56.4,PUR,Ponce,PUR,1975-08-16,Antonio Colon,1953,Male,Mile,NR
+3:47.97,QAT,Oslo,NOR,2005-07-29,Dahame Najem Bashir,1979,Male,Mile,NR
+3:57.73,ROU,Dublin,IRL,2013-07-17,Ioan Zaizan,1983,Male,Mile,NR
+3:50.70,RSA,Eugene OR,USA,2014-05-31,Johan Cronje,1982,Male,Mile,NR
+3:49.83,RUS,Roma,ITA,2001-06-29,Vyacheslav Shabunin,1969,Male,Mile,NR
+3:57.82,RWA,Falmouth MA,USA,2000-08-19,Alexis Sharangabo,1978,Male,Mile,NR
+3:59.91,SAM,Wanganui,NZL,2008-02-16,Aunese Curreen,1985,Male,Mile,NR
+4:02.48,SGP,Auckland,NZL,2005-02-24,Stu Foo Kerr,,Male,Mile,NR
+3:58.89,SLO,Linz,AUT,1993-08-25,Bekim Bahtiri,1972,Male,Mile,NR
+4:30.60,SMR,San Marino,SMR,1998-04-04,Gian Luigi Macina,1963,Male,Mile,NR
+3:49.40,SOM,Oslo,NOR,1988-07-02,Abdi Bile,1962,Male,Mile,NR
+3:52.24,SRB,Berlin,FRG,1983-08-17,Dragan Zdravkovic,1959,Male,Mile,NR
+4:08.84,SSD,Des Moines IA,USA,2018-04-28,Dey Tuach Dey,1989,Male,Mile,NR
+3:53.74,SUD,Berlin,FRG,1984-08-17,Omar Khalifa,1956,Male,Mile,NR
+3:50.38,SUI,Koblenz,FRG,1982-08-25,Pierre Délèze,1958,Male,Mile,NR
+4:33.1,SUR,Paramaribo,SUR,1990-03-23,Tommy Asinga,1968,Male,Mile,NR
+3:58.20,SVK,Zagreb,CRO,1998-07-07,Róbert Štefko,1968,Male,Mile,NR
+3:53.83,SWE,Oslo,NOR,2019-06-13,Kalle Berglund,1996,Male,Mile,NR
+4:09.60,SWZ,Des Moines IA,USA,2000-04-29,Ozzie Mdziniso,1970,Male,Mile,NR
+3:51.00,TAN,Kingston,JAM,1975-05-17,Filbert Bayi,1953,Male,Mile,NR
+3:57.87,THA,Nashville TN,USA,2020-08-15,Kieran Tuntivate,1997,Male,Mile,NR
+4:07.72,TJK,Tula,RUS,2004-06-06,Yevgeniy Stakanov,1980,Male,Mile,NR
+4:02.43,TTO,Port of Spain,TTO,2000-01-01,Sheldon Monderoy,1972,Male,Mile,NR
+3:50.57,TUN,Berlin,GER,1997-08-26,Ali Hakimi,1976,Male,Mile,NR
+3:51.71,TUR,Oslo,NOR,2014-06-11,İlham Tanui Özbilen,1990,Male,Mile,NR
+3:53.04,UGA,Oslo,NOR,2021-07-01,Ronald Musagala,1992,Male,Mile,NR
+3:50.04,UKR,London,GBR,2004-07-30,Ivan Heshko,1979,Male,Mile,NR
+4:01.98,URU,Irvine CA,USA,2023-04-28,Valentin Soca,2002,Male,Mile,NR
+3:43.97,USA,Eugene OR,USA,2023-09-16,Yared Nuguse,1999,Male,Mile,NR
+4:03.03,VEN,Baton Rouge LA,USA,1990-03-31,Germán Beltrán,1967,Male,Mile,NR
+4:13.31,VIN,Port of Spain,TTO,2002-05-05,Pamenos Ballantyne,1973,Male,Mile,NR
+4:02.77,ZAM,Tempe AZ,USA,2015-04-11,Harry Mulenga,1994,Male,Mile,NR
+3:53.13,ZIM,San Donato M.,USA,1992-05-30,Philemon Hanneck,1971,Male,Mile,NR

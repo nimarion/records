@@ -1,0 +1,215 @@
+result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
+4.78,AFG,Helsinki,FIN,2017-09-20,Yalda Amini,1999,Female,SP,NR
+12.70,AHO,San Juan,PUR,1989-07-27,Barbara Francisco,,Female,SP,NR
+9.27,AIA,Glasgow,GBR,2014-07-29,Dee-Ann Rogers,1993,Female,SP,NR
+16.36,ALB,Tirane,ALB,1984-04-29,Antoneta Koçi,1962,Female,SP,NR
+16.16,ALG,Annaba,ALG,1995-07-13,Yasmina Azzizi,1966,Female,SP,NR
+9.70,AND,Andorra,AND,2002-02-23,Joana Santamaria,1986,Female,SP,NR
+12.90,ANG,Luanda,ANG,1981-08-24,Carla Carvalho,,Female,SP,NR
+17.32,ANT,Gold Coast,AUS,2018-04-13,Jess St. John,1995,Female,SP,NR
+16.59,ARG,São Caetano do Sul,BRA,2006-07-22,Rocío Comba,1987,Female,SP,NR
+18.51,ARM,Helsinki,FIN,1973-09-15,Faina Melnik,1945,Female,SP,NR
+11.68,ARU,Ottawa,CAN,2013-06-01,Julianne Dorothal,1997,Female,SP,NR
+17.34,ASA,Honiara,SOL,2023-11-27,Nu'u Tuilefano,2000,Female,SP,NR
+19.74,AUS,Berkeley CA,USA,1984-07-14,Gael Martin,1956,Female,SP,NR
+19.21,AUT,Casablanca,MAR,1999-07-13,Valentina Fedjuschina,1965,Female,SP,NR
+16.31,AZE,Donetsk,URS,1978-07-16,Valentina Podgornova,,Female,SP,NR
+17.23,BAH,Knoxville TN,USA,2006-05-26,Aymara Albury,1985,Female,SP,NR
+12.14,BAN,Dhaka,BAN,1992-09-08,Nelly Jesmin,,Female,SP,NR
+17.14,BAR,Lincoln NE,USA,2007-05-13,Shernelle Nicholls,1984,Female,SP,NR
+12.56,BDI,Bujumbura,BDI,1992-08-23,Tsizéyimana,,Female,SP,NR
+17.16,BEL,Sittard,NED,2023-06-18,Jolien Boumkwo,1993,Female,SP,NR
+15.79,BEN,Ratingen,GER,2021-06-19,Odile Ahouanwanou,1991,Female,SP,NR
+14.30,BER,Hattiesburg MS,USA,2019-03-30,Tiara DeRosa,1998,Female,SP,NR
+11.74,BHU,Punakha,BHU,2000-12-28,Phup Lhamngmo,,Female,SP,NR
+14.91,BIH,Sarajevo,YUG,1966-09-17,Katica Tosic-Sporer,1944,Female,SP,NR
+16.20,BIZ,San Salvador,ESA,2016-07-16,Itohan Aikhonbare,1994,Female,SP,NR
+21.09,BLR,Minsk,BLR,2005-07-21,Nadzeya Ostapchuk,1980,Female,SP,NR
+15.42,BOL,Tarija,BOL,2015-04-18,Grace Conley,1996,Female,SP,NR
+12.26,BOT,Ndola,ZAM,2023-05-02,Tumelo Ratlhogo,2004,Female,SP,NR
+19.30,BRA,Tunja,COL,2001-07-14,Elisângela Adriano,1972,Female,SP,NR
+18.00,BRN,Doha,QAT,2019-04-21,Noora Salem Jassem,1996,Female,SP,NR
+13.92,BRU,Bandar Seri Begawan,BRU,1997-08-08,Tea Ai Seng,1971,Female,SP,NR
+21.89,BUL,Belmeken,USA,1976-07-04,Ivanka Khristova,1941,Female,SP,NR
+14.20,BUR,Langley,CAN,2023-07-29,Ivonne Coulibaly,1991,Female,SP,NR
+14.68,CAF,Dreux,FRA,1999-10-17,Nadege Nakombo,,Female,SP,NR
+11.85,CAM,Phnom Penh,CAM,1967-07-13,Sao Thin,,Female,SP,NR
+20.33,CAN,Langley,CAN,2022-06-25,Sarah Mitton,1996,Female,SP,NR
+15.53,CAY,San Antonio TX,USA,2022-04-02,Lacee Barnes,1999,Female,SP,NR
+13.95,CGO,Taverny,FRA,2003-05-31,Christiane Diabakana,1985,Female,SP,NR
+13.03,CHA,St-Brieuc,FRA,1992-01-05,Patricia Bourmanda,,Female,SP,NR
+18.80,CHI,London,GBR,2012-08-06,Natalia Ducó,1989,Female,SP,NR
+21.76,CHN,Shijiazhuang,CHN,1988-04-23,Li Meisu,1959,Female,SP,NR
+14.74,CIV,Evreux,FRA,1998-12-07,Angeline Gbahy,1976,Female,SP,NR
+18.37,CMR,São Bernardo do Campo,BRA,2017-06-03,Auriol Dongmo,1990,Female,SP,NR
+12.99,COD,Aix-les-Bains,FRA,2011-06-24,Amadine Kandi Masakidi,,Female,SP,NR
+14.96,COK,Nikao,COK,2006-10-11,Tereapii Tapoki,1984,Female,SP,NR
+18.03,COL,Uberlândia,BRA,2013-05-16,Sandra Lemus,1989,Female,SP,NR
+10.78,COM,Mutsamudu,COM,2014-06-15,Samira Moussa,,Female,SP,NR
+15.12,CPV,Huelva,ESP,2004-08-08,Maria Antónia Borges,1983,Female,SP,NR
+14.90,CRC,San José3,CRC,2021-07-09,Deisheline Yoshielka Mayers,2000,Female,SP,NR
+17.52,CRO,Greensboro NC,USA,2013-05-25,Valentina Mužarić,1992,Female,SP,NR
+20.96,CUB,Ciudad de México,MEX,1992-05-02,Belsis Laza,1967,Female,SP,NR
+16.71,CYP,Limassol,CYP,2001-03-25,Olimpia Menelaou,1966,Female,SP,NR
+22.32,CZE,Nitra,TCH,1977-08-20,Helena Fibingerová,1949,Female,SP,NR
+16.97,DEN,Bloomington IN,USA,2022-05-26,Thea Jensen,1999,Female,SP,NR
+9.45,DJI,Djibouti,DJI,2000-05-20,Fimiro Aden Okieh,,Female,SP,NR
+16.48,DMA,Fairfax VA,USA,2012-04-14,Vannessa Henry,1990,Female,SP,NR
+18.39,DOM,La Jolla CA,USA,2023-04-08,Rosa Ramírez,1999,Female,SP,NR
+15.67,ECU,Valledupar,COL,2022-07-03,Lorna Zurita,2001,Female,SP,NR
+16.50,EGY,Al Qâhira,EGY,2000-06-20,Hanaa Salah El Melegi,1975,Female,SP,NR
+8.51,ERI,Asmara,ERI,2011-04-29,Adiam Fissehaye,,Female,SP,NR
+14.60,ESA,San Salvador,ESA,2006-03-18,Eva Maria Dimas,1973,Female,SP,NR
+18.80,ESP,Castellón,ESP,2021-06-29,María Belén Toimil,1994,Female,SP,NR
+18.03,EST,Nokia,FIN,1980-05-25,Veronika Minina,1955,Female,SP,NR
+13.64,ETH,Addis Ababa,ETH,2018-02-02,Zurga Usman,1996,Female,SP,NR
+14.73,FIJ,San Marcos CA,USA,2015-04-11,Milika Tuivanuavou,1990,Female,SP,NR
+18.57,FIN,Stockholm/S,SWE,1989-08-20,Asta Ovaska,1963,Female,SP,NR
+11.45,FSM,Abay,FSM,2001-07-24,Scholasmara Fathaangin,,Female,SP,NR
+15.87,GAB,St Pierre,MRI,2022-06-08,Carine Mekam,1985,Female,SP,NR
+10.72,GAM,Conakry,GUI,2017-05-13,Mariama Conteh,1997,Female,SP,NR
+19.36,GBR,Gateshead,GBR,1988-08-14,Judy Oakes,1958,Female,SP,NR
+17.54,GBS,Leiria,POR,2019-08-04,Jessica Inchude,1996,Female,SP,NR
+19.30,GEO,Sochi,URS,1984-06-09,Aleksandra Abashidze,1958,Female,SP,NR
+11.42,GEQ,San Sebastián,ESP,2018-05-26,María Felisa Okomo,2002,Female,SP,NR
+22.45,GER,Potsdam,GER,1980-05-11,Ilona Slupianek,1956,Female,SP,NR
+16.01,GHA,Tampa FL,USA,2018-05-24,Claudia Ababio,,Female,SP,NR
+8.50,GIB,Gibraltar,GIB,1992-08-17,Nicole Baker,1977,Female,SP,NR
+19.10,GRE,Trikala,GRE,2003-06-14,Iríni Terzóglou,1979,Female,SP,NR
+16.18,GRN,St. Georges,GRN,2021-04-24,Kelsie Murrel-Ross,2002,Female,SP,NR
+13.52,GUA,Ciudad de Guatemala,GUA,2009-11-06,Doroty Lopez,1984,Female,SP,NR
+13.74,GUI,Lisses,FRA,2009-05-29,Mahawa Camara,,Female,SP,NR
+11.66,GUM,Saipan2,NMI,2022-06-21,Genie Gerardo,1988,Female,SP,NR
+13.15,GUY,Georgetown2,GUY,2016-11-02,Tiffany Pilgram,,Female,SP,NR
+16.80,HAI,Wickliffe,USA,1988-06-27,Debbie St. Phard,1964,Female,SP,NR
+13.59,HKG,Hongkong,HKG,2021-05-23,To Yuen Kwan,1997,Female,SP,NR
+11.45,HON,San José3,CRC,2021-06-26,Gabrielle Figueroa,1996,Female,SP,NR
+19.87,HUN,Río de Janeiro,BRA,2016-08-12,Anita Márton,1989,Female,SP,NR
+15.77,INA,Timika,INA,2021-10-14,Eki Febri Ekawati,1992,Female,SP,NR
+18.06,IND,Bangkok,THA,2023-07-16,Abha Khatua,1995,Female,SP,NR
+18.06,IND,Chennai,IND,2022-06-11,Manpreet Kaur,1990,Female,SP,NR
+18.18,IRI,Pune,IND,2013-07-06,Leyla Rajabi,1983,Female,SP,NR
+16.99,IRL,Stanford CA,USA,1983-04-02,Marita Lanigan,1960,Female,SP,NR
+11.60,IRQ,Baghdad,IRQ,1979-10-26,Raida Oudeh Nazzal,1960,Female,SP,NR
+17.39,ISL,Houston TX,USA,2023-04-22,Erna Sóley Gunnarsdóttir,2000,Female,SP,NR
+17.22,ISR,Tel Aviv,ISR,2012-04-28,Annastasia Muchkaev,1991,Female,SP,NR
+17.33,ISV,Murfreesboro TN,USA,2021-05-16,Maia Campbell,1998,Female,SP,NR
+19.15,ITA,Milano,ITA,2007-06-24,Chiara Rosa,1983,Female,SP,NR
+15.38,IVB,St. Georges,GRN,2018-05-20,Trevia Gumbs,1996,Female,SP,NR
+19.77,JAM,Westwood CA,USA,2023-05-27,Danniel Thomas-Dodd,1992,Female,SP,NR
+17.83,JOR,Westwood CA,USA,2000-05-06,Nada Kawar,1975,Female,SP,NR
+18.22,JPN,Hamamatsu,JPN,2004-04-18,Chinatsu Mori,1980,Female,SP,NR
+19.26,KAZ,Chelyabinsk,URS,1986-08-10,Yelena Ortina,,Female,SP,NR
+15.60,KEN,Nakuru,KEN,1987-06-27,Elizabeth Olaba-Anjala-Tum,1954,Female,SP,NR
+15.38,KGZ,Frunze,USA,1974-05-11,Svetlana Pechenyuk,,Female,SP,NR
+10.16,KIR,Bairiki,KIR,2005-02-09,Kimaia Dan Murdoch,,Female,SP,NR
+19.36,KOR,Shanghai,CHN,2000-04-19,Lee Myung-Sun,1976,Female,SP,NR
+13.33,KOS,Prizren,YUG,1979-07-01,Lirije Veselaj,,Female,SP,NR
+11.87,KUW,Al-Kuwait,KUW,2022-05-16,Khaled Abd. Al-Sakaan Sheikha,,Female,SP,NR
+11.51,LAO,Vientiane,LAO,2014-09-20,Soudphasone Phanvadvongsouk,,Female,SP,NR
+18.75,LAT,Riga,URS,1984-06-02,Skaidrite Baikova,1950,Female,SP,NR
+11.57,LBA,Radès,TUN,2021-06-20,Rijaj Salem,,Female,SP,NR
+12.39,LBN,Beyrouth,LBN,2003-05-16,Leila Karhani,,Female,SP,NR
+13.97,LBR,Princeton NJ,USA,2007-05-13,Tetee Kuyateh,1984,Female,SP,NR
+14.67,LCA,Coatzacoalcos,MEX,2004-06-27,Tressa-Anne Charles,1986,Female,SP,NR
+11.99,LES,Maputo,MOZ,2011-09-13,Selloane Ts'oaeli,,Female,SP,NR
+13.53,LIE,Götzis,AUT,1995-05-27,Manuela Marxer,1965,Female,SP,NR
+20.27,LTU,Leselidze,URS,1987-05-13,Danguolé Urbikiené,1962,Female,SP,NR
+14.87,LUX,Serravalle,SMR,2021-06-05,Stéphanie Krumlovsky,1995,Female,SP,NR
+12.74,MAC,Macau,MAC,2005-03-13,Wong Kit Man,1988,Female,SP,NR
+14.98,MAD,Colombes,FRA,2005-06-11,Ange-Doris Ratsimbazafy,1974,Female,SP,NR
+16.60,MAR,Sydney,AUS,1985-09-28,Souad Malloussi,1957,Female,SP,NR
+15.22,MAS,Ipoh,MAS,2023-04-29,Nani Shahirah Maryata,2001,Female,SP,NR
+11.46,MAW,Mombasa,KEN,1975-05-09,Rose Chamangwana,,Female,SP,NR
+19.59,MDA,Baku,URS,1985-09-21,Alexandra Marghieva,1959,Female,SP,NR
+8.92,MDV,Male,MDV,2021-11-19,Aishath Shaya Shafeeu,,Female,SP,NR
+18.04,MEX,Queretaro,MEX,2018-05-26,Maria Fernanda Orozco,1998,Female,SP,NR
+14.68,MGL,Ulan Bator,MGL,1966-07-16,Namjilma Dashzeveg,1944,Female,SP,NR
+11.13,MHL,Abay,FSM,2018-07-17,Sidra Triplett,,Female,SP,NR
+14.49,MKD,Trikala,GRE,2001-07-08,Vesna Cadikovska,1980,Female,SP,NR
+13.82,MLI,Adelaide,AUS,1996-02-17,Oumou Traore,1969,Female,SP,NR
+12.51,MLT,Windsor,CAN,1977-10-22,Jennifer Pace,1958,Female,SP,NR
+15.44,MNE,Bar,MNE,2019-05-30,Kristina Rakočević,1998,Female,SP,NR
+11.52,MNT,Plymouth,GBR,1982-07-24,Jenita Shields,,Female,SP,NR
+10.54,MON,Puteaux,FRA,1991-06-23,Carine Cresto,1973,Female,SP,NR
+15.63,MOZ,Gold Coast,AUS,2018-04-12,Salome Mugabe,1989,Female,SP,NR
+13.79,MRI,Réduit,MRI,1997-10-08,Bernadette Perrine,,Female,SP,NR
+15.83,MTN,Villeneuve d'Ascq,FRA,2015-07-11,Binta Diagana,1976,Female,SP,NR
+14.38,MYA,Yangon,MYA,1973-02-03,Jennifer Tin Lay,,Female,SP,NR
+15.95,NAM,Cali,COL,2022-08-02,Tuane Silver,2004,Female,SP,NR
+13.73,NCA,Managua,NCA,2019-06-01,Dalila Rugama,1984,Female,SP,NR
+20.24,NED,München,GER,2022-08-15,Jessica Schilder,1999,Female,SP,NR
+12.52,NEP,Kathmandu,NEP,2019-12-06,Chandra Kala Lamgade,1993,Female,SP,NR
+10.92,NFI,Auckland,NZL,1995-01-01,Zinta Flitten,,Female,SP,NR
+18.43,NGR,Walnut CA,USA,2003-04-19,Vivian Chukwuemeka,1975,Female,SP,NR
+13.37,NIG,Niamey,NIG,2019-07-25,Leila Yahaya,,Female,SP,NR
+10.97,NIU,Auckland,NZL,2008-03-29,Sinead Misiagi,,Female,SP,NR
+10.61,NMI,Port Vila,VAN,1993-12-15,Emiliana Quitugua,,Female,SP,NR
+17.11,NOR,Hämeenkyrö,FIN,1998-07-04,Katarina Hoff,1968,Female,SP,NR
+11.36,NRU,Gold Coast,AUS,2011-08-13,Nina Grundler,,Female,SP,NR
+21.24,NZL,Daegu,KOR,2011-08-29,Valerie Adams,1984,Female,SP,NR
+11.55,OMA,Cairo,EGY,2014-04-26,Raghad Nabil Al-Zubaidi,,Female,SP,NR
+14.57,PAK,Islamabad,PAK,2005-08-12,Zeenat Parveen,1974,Female,SP,NR
+14.16,PAN,Medford MA,USA,1996-05-11,Theresa Findlay,1974,Female,SP,NR
+14.87,PAR,Fort Lauderdale FL,USA,2019-07-12,Camila Pirelli,1989,Female,SP,NR
+16.66,PER,Lima,PER,2016-04-16,Alessandra Gamboa,1992,Female,SP,NR
+15.94,PHI,Fullerton CA,USA,2023-05-13,Shiloh Corrales-Nelson,2001,Female,SP,NR
+10.86,PLE,Gaza,PLE,1999-02-19,Jawaher Aaed,,Female,SP,NR
+11.24,PLW,Susupe,NMI,2006-06-26,Chandis Cooper,,Female,SP,NR
+13.50,PNG,Port Moresby,PNG,1991-09-17,Iammogapi Launa,1957,Female,SP,NR
+19.58,POL,Bydgoszcz,POL,1976-06-26,Ludvika Chewinska,1948,Female,SP,NR
+19.92,POR,Eugene OR,USA,2023-09-16,Auriol Dongmo,1990,Female,SP,NR
+15.80,PRK,Pyongyang,PRK,1983-04-11,So Bok Hui,,Female,SP,NR
+16.40,PUR,Coral Gables FL,USA,2011-03-19,Kim Barrett,1981,Female,SP,NR
+11.97,QAT,Tlemcen,ALG,2016-05-08,Sara Ahmed Al-Mannai,1996,Female,SP,NR
+21.00,ROU,Formia,ITA,1984-06-30,Mihaela Loghin,1952,Female,SP,NR
+17.88,RSA,Germiston,RSA,2002-01-25,Drienkie van Wyk,1971,Female,SP,NR
+22.63,RUS,Moskva,URS,1987-06-07,Natalya Lisovskaya,1962,Female,SP,NR
+10.26,RWA,Namur,BEL,2007-04-28,Félicité Uwilingiyimana,,Female,SP,NR
+16.43,SAM,Delhi,IND,2010-10-09,Margaret Satupai,1992,Female,SP,NR
+13.10,SEN,Mâcon,FRA,1998-05-08,Nafissatou Mboup,,Female,SP,NR
+13.94,SEY,Germiston,RSA,2002-06-08,Helda Marie,1984,Female,SP,NR
+18.57,SGP,Incheon,KOR,2005-09-01,Zhang Guirong,1978,Female,SP,NR
+13.59,SKN,St. Georges,GRN,1996-05-25,Touvia Arrindell,,Female,SP,NR
+12.87,SLE,Atlanta GA,USA,1996-07-27,Eunice Barber,1974,Female,SP,NR
+18.10,SLO,Nova Gorica,SLO,1994-05-14,Natasha Erjavec,1968,Female,SP,NR
+10.37,SMR,Modena,ITA,2009-05-09,Barbara Rustignoli,1984,Female,SP,NR
+10.67,SOL,Honiara,SOL,1981-09-11,Saleima Kataina,,Female,SP,NR
+8.67,SOM,Mogadishu,SOM,1979-09-04,Amina Ali,,Female,SP,NR
+18.86,SRB,Subotica,SRB,1998-07-19,Daniela Curovic,1974,Female,SP,NR
+15.25,SRI,Jaffna,SRI,2016-09-30,W.T. Kumudumali Fernando,1990,Female,SP,NR
+8.99,SSD,Aweil,SSD,2021-12-27,Nyajok Tole,,Female,SP,NR
+13.22,STP,Almada,POR,2001-02-10,Enezenaide Gomes,,Female,SP,NR
+10.60,SUD,Khartoum,SUD,2004-10-10,Kassima Ismail,,Female,SP,NR
+18.02,SUI,Zug,SUI,1988-08-14,Ursula Stäheli,1957,Female,SP,NR
+14.38,SUR,Mol,BEL,1992-07-05,Helen Weidum,1960,Female,SP,NR
+16.96,SVK,Bratislava,TCH,1985-07-14,Gabriela Hanuláková,1957,Female,SP,NR
+19.54,SWE,Bloomington IN,USA,2023-05-13,Axelina Johansson,2000,Female,SP,NR
+12.40,SWZ,Nampa ID,USA,2022-04-02,Esther Ezeogu,,Female,SP,NR
+16.25,SYR,Irbid,JOR,1999-08-12,Ghada Shouaa,1972,Female,SP,NR
+12.90,TAN,Dar-es-Salaam,TAN,1983-10-01,Catherine Nyamko,,Female,SP,NR
+18.03,TGA,Albertville,FRA,2008-07-10,Ana Po'uhila-Kisina,1979,Female,SP,NR
+18.24,THA,Bangkok,THA,1998-12-15,Jutaporn Krasaeyan,1972,Female,SP,NR
+18.52,TJK,Dushanbe,URS,1987-05-31,Svetlana Tatichek,,Female,SP,NR
+14.25,TKM,Ashgabat,TKM,2008-05-23,Muhabbat Rajapova,,Female,SP,NR
+12.19,TKS,Spanish Town,JAM,2005-04-09,Varlene Francis,,Female,SP,NR
+10.01,TLS,Dili,TLS,2005-03-20,Ana Maria,,Female,SP,NR
+15.74,TOG,Adelaide,AUS,2005-02-19,Alifatou Djibril,1980,Female,SP,NR
+17.48,TPE,Incheon,KOR,2014-09-27,Lin Chia-Ying,1982,Female,SP,NR
+19.42,TTO,Saint-Denis,FRA,2011-07-08,Cleopatra Borel,1979,Female,SP,NR
+16.72,TUN,Jablonec,CZE,2002-06-11,Amel Ben Khaled,1974,Female,SP,NR
+18.57,TUR,Doha,QAT,2016-05-06,Emel Dereli,1996,Female,SP,NR
+10.41,TUV,Funafuti,TUV,2012-06-30,Inara Sioni,,Female,SP,NR
+12.64,UAE,Amman,JOR,2018-07-11,Fatima Youssef Al-Hosani,1998,Female,SP,NR
+14.47,UGA,El Djezair,ALG,1978-07-24,Joyce Aciro,,Female,SP,NR
+21.69,UKR,Budapest,HUN,1998-08-20,Vita Pavlysh,1969,Female,SP,NR
+15.85,URU,Buenos Aires,ARG,1988-09-25,Berenice Da Silva,,Female,SP,NR
+20.76,USA,Eugene OR,USA,2023-09-16,Chase Jackson,1994,Female,SP,NR
+19.40,UZB,Riga,URS,1983-06-04,Irina Bogomolova,,Female,SP,NR
+12.05,VAN,Port Vila,VAN,1979-09-06,Madeleine Nirua-Lesines,,Female,SP,NR
+18.19,VEN,Río de Janeiro,BRA,2016-05-15,Ahymará Espinoza,1985,Female,SP,NR
+15.27,VIE,Hanoi,VIE,2023-10-24,Kim Thi Huyen,2003,Female,SP,NR
+12.94,VIN,Bridgetown,BAR,1988-05-21,Jacqueline Ross,1969,Female,SP,NR
+8.95,YEM,Sanaa,YEM,2005-05-17,Majita Ahmed Shawgi,,Female,SP,NR
+13.50,ZAM,Lusaka,ZAM,2024-02-10,Mary Fwambo,1998,Female,SP,NR
+15.58,ZIM,Salisbury,GBR,1974-01-20,Mariette van Heerden,1952,Female,SP,NR

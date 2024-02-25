@@ -1,0 +1,157 @@
+result,nation,venue,venueCountry,date,name,sex,event,type
+47.39,AHO,Ponce,PUR,2010-05-08,Netherlands Antilles,Female,4x1,NR
+50.60,AIA,Port of Spain,TTO,1987-04-20,Anguilla,Female,4x1,NR
+47.16,ALB,Ankara,TUR,1988-07-16,Albania,Female,4x1,NR
+46.83,ALG,Alger,ALG,2012-07-07,Algeria,Female,4x1,NR
+48.61,AND,Chorzów,POL,2023-06-21,Andorra,Female,4x1,NR
+46.22,ANT,Port of Spain,TTO,2004-05-02,Antigua & Barbuda,Female,4x1,NR
+44.72,ARG,Santiago de Chile,CHI,2023-11-02,Argentina,Female,4x1,NR
+47.11,ARM,Moskva,URS,1979-07-29,Armenia,Female,4x1,NR
+42.99,AUS,Pietersburg,RSA,2000-03-18,Australia,Female,4x1,NR
+44.18,AUT,Chorzów,POL,2023-06-21,Austria,Female,4x1,NR
+46.10,AZE,Baku,AZE,2015-06-21,Azerbaijan,Female,4x1,NR
+41.92,BAH,Sevilla,ESP,1999-08-29,Bahamas,Female,4x1,NR
+46.80,BAN,Dhaka,BAN,2010-02-07,Bangladesh,Female,4x1,NR
+44.34,BAR,Sherbrooke,CAN,2004-08-01,Barbados,Female,4x1,NR
+51.8,BDI,Bujumbura,BDI,1993-05-16,Burundi,Female,4x1,NR
+42.54,BEL,Beijing,CHN,2008-08-22,Belgium,Female,4x1,NR
+46.45,BEN,Abuja,NGR,2003-10-13,Benin,Female,4x1,NR
+47.83,BIH,Beograd,SRB,2012-07-14,Bosnia-Herzegovina,Female,4x1,NR
+47.44,BIZ,Managua,NCA,2017-12-11,Belize,Female,4x1,NR
+42.56,BLR,Helsinki,FIN,2005-08-13,Belarus,Female,4x1,NR
+45.54,BOL,Cochabamba,BOL,2023-06-03,Bolivia,Female,4x1,NR
+45.02,BOT,St Pierre,MRI,2022-06-09,Botswana,Female,4x1,NR
+42.29,BRA,Moskva,RUS,2013-08-18,Brazil,Female,4x1,NR
+42.73,BRN,Jakarta,INA,2018-08-30,Bahrain,Female,4x1,NR
+42.29,BUL,Sofia,BUL,1988-07-24,Bulgaria,Female,4x1,NR
+45.99,BUR,Niamey,NIG,2005-12-13,Burkina Faso,Female,4x1,NR
+49.3,CAF,Garoua,CMR,1999-07-31,Central African Republic,Female,4x1,NR
+42.60,CAN,Beijing,CHN,2015-08-29,Canada,Female,4x1,NR
+45.49,CGO,Kinshasa,COD,2023-08-02,Congo,Female,4x1,NR
+48.88,CHA,Addis Ababa,ETH,2008-05-01,Chad,Female,4x1,NR
+44.19,CHI,Santiago de Chile,CHI,2023-11-02,Chile,Female,4x1,NR
+42.23,CHN,Shanghai,CHN,1997-10-23,China,Female,4x1,NR
+41.90,CIV,Budapest,HUN,2023-08-25,Ivory Coast,Female,4x1,NR
+44.58,CMR,Marietta GA,USA,1996-07-21,Cameroon,Female,4x1,NR
+51.23,COD,Brazzaville,CGO,2010-06-19,Democratic Republic of Congo,Female,4x1,NR
+43.03,COL,Bogotá,COL,2004-07-10,Colombia,Female,4x1,NR
+53.73,COM,Saint-Denis,FRA,1979-08-31,Comoros,Female,4x1,NR
+49.8,CPV,Espargos,CPV,2016-07-10,Cape Verde Islands,Female,4x1,NR
+46.09,CRC,Xalapa,MEX,2014-11-28,Costa Rica,Female,4x1,NR
+45.14,CRO,Izmir,TUR,2011-06-18,Croatia,Female,4x1,NR
+42.89,CUB,Stuttgart,GER,1993-08-22,Cuba,Female,4x1,NR
+43.87,CYP,Amsterdam,NED,2016-07-09,Cyprus,Female,4x1,NR
+42.98,CZE,Zürich,SUI,1982-08-18,Czech Republic,Female,4x1,NR
+43.46,DEN,Eugene OR,USA,2022-07-22,Denmark,Female,4x1,NR
+56.9,DJI,Djibouti,DJI,2008-04-18,Djibouti,Female,4x1,NR
+43.28,DOM,Moskva,RUS,2013-08-18,Dominican Republic,Female,4x1,NR
+43.69,ECU,Tokyo,JPN,2021-08-05,Ecuador,Female,4x1,NR
+46.62,EGY,Marrakech,MAR,2023-06-23,Egypt,Female,4x1,NR
+52.8,ERI,Nairobi,KEN,2006-12-03,Eritrea,Female,4x1,NR
+42.58,ESP,Eugene OR,USA,2022-07-23,Spain,Female,4x1,NR
+44.21,EST,Chorzów,POL,2023-06-22,Estonia,Female,4x1,NR
+46.46,ETH,Nairobi,KEN,2010-07-30,Ethiopia,Female,4x1,NR
+44.86,FIJ,Suva,FIJ,2003-07-12,Fiji,Female,4x1,NR
+43.37,FIN,Stuttgart,GER,1993-08-22,Finland,Female,4x1,NR
+41.78,FRA,Saint-Denis,FRA,2003-08-30,France,Female,4x1,NR
+47.9,GAB,Yaoundé,CMR,1996-06-14,Gabon,Female,4x1,NR
+43.83,GAM,Konya,TUR,2022-08-12,Gambia,Female,4x1,NR
+41.55,GBR,Tokyo,JPN,2021-08-05,Great Britain,Female,4x1,NR
+51.41,GBS,Bissau,GBS,2007-06-02,Guinea Bissau,Female,4x1,NR
+44.90,GEO,Tashkent,URS,1986-09-16,Georgia,Female,4x1,NR
+52.2,GEQ,Malabo,GEQ,1999-06-11,Equatorial Guinea,Female,4x1,NR
+41.37,GER,Canberra,AUS,1985-10-06,Germany,Female,4x1,NR
+42.67,GHA,Cape Coast,GHA,2016-07-08,Ghana,Female,4x1,NR
+49.3,GIB,Gibraltar,GIB,1995-07-20,Gibraltar,Female,4x1,NR
+43.07,GRE,Bari,ITA,1997-06-18,Greece,Female,4x1,NR
+44.72,GRN,Port of Spain,TTO,2012-06-24,Grenada,Female,4x1,NR
+45.17,HKG,Shenyang,CHN,2023-06-28,Hong Kong,Female,4x1,NR
+43.38,HUN,Budapest,HUN,2023-08-25,Hungary,Female,4x1,NR
+45.00,INA,Palembang,INA,2011-11-15,Indonesia,Female,4x1,NR
+43.37,IND,Patiala,IND,2021-06-21,India,Female,4x1,NR
+43.80,IRL,Berlin,GER,2018-08-12,Ireland,Female,4x1,NR
+45.31,ISL,Serravalle,SMR,2017-06-04,Iceland,Female,4x1,NR
+44.79,ISR,Paris,FRA,2019-08-24,Israel,Female,4x1,NR
+42.14,ITA,Budapest,HUN,2023-08-25,Italy,Female,4x1,NR
+43.45,IVB,Road Town,IVB,2016-07-03,British Virgin Islands,Female,4x1,NR
+41.02,JAM,Tokyo,JPN,2021-08-06,Jamaica,Female,4x1,NR
+43.33,JPN,Eugene OR,USA,2022-07-22,Japan,Female,4x1,NR
+42.92,KAZ,Almaty,KAZ,2016-07-04,Kazakhstan,Female,4x1,NR
+44.75,KEN,Brazzaville,CGO,2015-09-15,Kenya,Female,4x1,NR
+44.60,KOR,Incheon,KOR,2014-10-02,South Korea,Female,4x1,NR
+49.99,KOS,Skopje,MKD,2019-08-10,Kosovo,Female,4x1,NR
+49.12,KUW,Al-Kuwait,KUW,2022-05-17,Kuwait,Female,4x1,NR
+49.22,LAO,Singapore,SGP,2016-07-16,Laos,Female,4x1,NR
+44.42,LAT,Moskva,URS,1983-06-20,Latvia,Female,4x1,NR
+55.1,LBA,Tripoli LBA,LBA,1991-09-30,Libya,Female,4x1,NR
+50.61,LBR,Abuja,NGR,2006-11-18,Liberia,Female,4x1,NR
+46.78,LCA,Bridgetown,BAR,1999-06-26,Saint Lucia,Female,4x1,NR
+50.68,LES,Gaborone,BOT,2019-04-27,Lesotho,Female,4x1,NR
+46.92,LIE,Nicosia,CYP,1989-05-20,Liechtenstein,Female,4x1,NR
+43.95,LTU,Madrid,ESP,2008-07-05,Lithuania,Female,4x1,NR
+45.34,LUX,Luxembourg,LUX,2022-07-26,Luxembourg,Female,4x1,NR
+48.40,MAC,Guangzhou,CHN,2017-04-09,Macao,Female,4x1,NR
+43.61,MAD,Sydney,AUS,2000-09-29,Madagascar,Female,4x1,NR
+46.04,MAR,Marrakech,MAR,2023-06-23,Morocco,Female,4x1,NR
+44.58,MAS,Phnom Penh,CAM,2023-05-10,Malaysia,Female,4x1,NR
+52.1,MAW,Dar-es-Salaam,TAN,1972-12-03,Malawi,Female,4x1,NR
+45.43,MDA,Dnipropetrovsk,URS,1985-09-08,Moldova,Female,4x1,NR
+47.03,MDV,Antananarivo,MAD,2023-09-01,Maldives,Female,4x1,NR
+44.79,MEX,Taipei,TPE,2017-08-28,Mexico,Female,4x1,NR
+48.35,MIX,Radès,TUN,2005-09-17,Mixed team,Female,4x1,NR
+47.97,MKD,Trikala,GRE,2001-07-07,Former Yugoslav Republic of Macedonia,Female,4x1,NR
+46.71,MLI,Bamako,MLI,2008-04-13,Mali,Female,4x1,NR
+44.98,MLT,Firenze,ITA,2023-05-07,Malta,Female,4x1,NR
+48.86,MNE,Zenica,BIH,2007-06-23,Montenegro,Female,4x1,NR
+47.5,MOZ,Lisboa,POR,1973-07-29,Mozambique,Female,4x1,NR
+45.89,MRI,Saint-Paul,FRA,2015-08-05,Mauritius,Female,4x1,NR
+51.1,MTN,Nouakchott,MTN,1995-12-22,Mauritania,Female,4x1,NR
+43.76,NAM,Nairobi,KEN,2021-08-22,Namibia,Female,4x1,NR
+42.04,NED,Amsterdam,NED,2016-07-10,Netherlands,Female,4x1,NR
+42.10,NGR,Birmingham,GBR,2022-08-07,Nigeria,Female,4x1,NR
+49.08,NIG,Ouagadougou,BUR,2001-05-19,Niger,Female,4x1,NR
+43.94,NOR,Cheboksary,RUS,2015-06-20,Norway,Female,4x1,NR
+43.79,NZL,Mackay,AUS,2022-06-04,New Zealand,Female,4x1,NR
+47.67,OMA,Manama,BRN,2015-04-26,Oman,Female,4x1,NR
+46.74,PAK,Kathmandu,NEP,2019-12-06,Pakistan,Female,4x1,NR
+44.57,PHI,New Clark City,PHI,2019-12-09,Philippines,Female,4x1,NR
+45.38,PNG,Birmingham,GBR,2022-08-06,Papua-New Guinea,Female,4x1,NR
+42.61,POL,München,GER,2022-08-21,Poland,Female,4x1,NR
+44.27,POR,Chorzów,POL,2023-06-24,Portugal,Female,4x1,NR
+43.43,PUR,Road Town,IVB,2016-07-03,Puerto Rico,Female,4x1,NR
+44.18,ROU,Stara Zagora,BUL,1985-08-02,Romania,Female,4x1,NR
+43.25,RSA,Pietersburg,RSA,2000-03-18,South Africa,Female,4x1,NR
+41.49,RUS,Stuttgart,GER,1993-08-22,Russia,Female,4x1,NR
+51.2,RWA,Eldoret,KEN,2016-09-03,Rwanda,Female,4x1,NR
+44.59,SEN,Dakar,SEN,1998-08-20,Senegal,Female,4x1,NR
+47.75,SEY,Victoria2,SEY,2011-08-12,Seychelles,Female,4x1,NR
+44.96,SGP,Kuala Lumpur,MAS,2017-08-25,Singapore,Female,4x1,NR
+43.53,SKN,La Habana,CUB,2009-07-04,Saint Kitts & Nevis,Female,4x1,NR
+46.97,SLE,Ouagadougou,BUR,2013-07-20,Sierra Leone,Female,4x1,NR
+43.91,SLO,Pergine Valsugana,ITA,2003-07-25,Slovenia,Female,4x1,NR
+48.45,SMR,Marsa,MLT,2023-06-03,San Marino,Female,4x1,NR
+50.6,SOM,Mogadishu,SOM,1977-11-18,Somalia,Female,4x1,NR
+44.65,SRB,Kraljevo,SRB,2023-07-22,Serbia,Female,4x1,NR
+43.89,SRI,Edmonton,CAN,2001-08-11,Sri Lanka,Female,4x1,NR
+60.4,SSD,Gulu,UGA,2017-08-24,South Sudan,Female,4x1,NR
+51.3,STP,Folha Féde,STP,2014-09-14,São Tomé & Principé,Female,4x1,NR
+47.43,SUD,Cairo,EGY,2007-11-23,Sudan,Female,4x1,NR
+42.05,SUI,Tokyo,JPN,2021-08-05,Switzerland,Female,4x1,NR
+44.65,SVK,Šamorín,SVK,2016-06-04,Slovak Republic,Female,4x1,NR
+43.61,SWE,Göteborg/U,SWE,2005-08-27,Sweden,Female,4x1,NR
+48.20,SWZ,Bloemfontein,RSA,2019-04-13,Swaziland,Female,4x1,NR
+46.43,TAN,Christchurch,NZL,1974-02-02,Tanzania,Female,4x1,NR
+43.38,THA,Nakhon Ratchasima,THA,2008-06-26,Thailand,Female,4x1,NR
+46.92,TOG,Cape Coast,GHA,2016-06-11,Togo,Female,4x1,NR
+44.58,TPE,Hiroshima,JPN,1994-10-16,Chinese Taipei,Female,4x1,NR
+42.03,TTO,Beijing,CHN,2015-08-29,Trinidad & Tobago,Female,4x1,NR
+46.98,TUN,Tunis,TUN,1999-07-25,Tunisia,Female,4x1,NR
+44.49,TUR,Konya,TUR,2022-08-12,Türkiye,Female,4x1,NR
+45.84,UGA,Nairobi,KEN,1987-08-09,Uganda,Female,4x1,NR
+42.04,UKR,London,GBR,2012-08-10,Ukraine,Female,4x1,NR
+40.82,USA,London,GBR,2012-08-10,United States,Female,4x1,NR
+43.82,UZB,Moskva,URS,1983-06-20,Uzbekistan,Female,4x1,NR
+43.53,VEN,Xalapa,MEX,2014-11-28,Venezuela,Female,4x1,NR
+43.88,VIE,Kuala Lumpur,MAS,2017-08-25,Vietnam,Female,4x1,NR
+43.85,ZAM,Lusaka,ZAM,2021-04-11,Zambia,Female,4x1,NR
+45.74,ZIM,Harare,ZIM,1995-09-16,Zimbabwe,Female,4x1,NR

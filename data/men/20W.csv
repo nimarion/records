@@ -1,0 +1,143 @@
+result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
+1:27:40,ALB,Pomigliano,ITA,2005-04-02,Orest Laniku,1987,Male,20W,NR
+1:22:52,ALG,Hildesheim,GER,1992-08-23,Abdelwahab Ferguène,1958,Male,20W,NR
+1:39:36,AND,Barcelona,ESP,1984-01-29,Antoni Martinez,,Male,20W,NR
+1:22:10,ARG,London,GBR,2012-08-04,Juan Manuel Cano,1987,Male,20W,NR
+1:27:01,ARM,Leningrad,URS,1988-06-11,Vartan Tumasyan,1964,Male,20W,NR
+2:04:09,ARU,San Sebastián,ESP,2005-08-31,Harlen Manuel Villar,,Male,20W,NR
+1:17:33,AUS,Cixi,CHN,2005-04-23,Nathan Deakes,1977,Male,20W,NR
+1:25:46,AUT,Fredrikstad,NOR,1984-06-09,Martin Toporek,1961,Male,20W,NR
+1:24:57,AZE,Novopolotsk,URS,1987-04-25,Sergey Shildkret,1962,Male,20W,NR
+1:30:40,BAN,Dhaka,BAN,1996-12-21,Shafiuddin Titu,,Male,20W,NR
+1:43:25,BAR,Bridgetown,BAR,1999-06-25,Eron Mitchell,,Male,20W,NR
+1:23:13,BEL,Goirle,USA,1988-04-10,Jos Martens,1964,Male,20W,NR
+1:28:52,BIH,Ruse,BUL,1988-04-17,Mico Cvetkovic,,Male,20W,NR
+1:18:12,BLR,Brest,BLR,2001-03-10,Artur Meleshkevich,1975,Male,20W,NR
+1:23:35,BOL,Arica,CHI,2015-05-09,Marco Antonio Rodríguez,1994,Male,20W,NR
+1:18:29,BRA,La Coruña,ESP,2023-06-03,Caio Bonfim,1991,Male,20W,NR
+1:18:47,BRA,La Coruña,ESP,2019-06-08,Caio Bonfim,1991,Male,20W,NR
+1:17:47,BRA,Budapest,HUN,2023-08-19,Caio Bonfim,1991,Male,20W,NR
+2:13:24,BRN,Doha,QAT,1982-03-04,Rashid Dawass,,Male,20W,NR
+1:20:43,BUL,Sofia,BUL,1988-06-26,Lyubomir Ivanov,1960,Male,20W,NR
+1:54:31,CAM,La Habana,CUB,2006-05-06,Sinn Siravut,,Male,20W,NR
+1:18:03,CAN,Budapest,HUN,2023-08-19,Evan Dunfee,1990,Male,20W,NR
+1:19:20,CAN,Nomi,JPN,2016-03-20,Inaki Gomez,1988,Male,20W,NR
+1:39:08,CGO,Brazzaville,CGO,2019-02-08,Armand Bazoungoula,,Male,20W,NR
+1:21:26,CHI,Adelaide,AUS,2016-02-21,Yerko Araya,1986,Male,20W,NR
+1:16:54,CHN,Huangshan,CHN,2021-03-20,Wang Kaihua,1994,Male,20W,NR
+1:30:12,CMR,Bafoussam,CMR,2014-06-20,Herve Nzossie,1982,Male,20W,NR
+1:38:35,COD,Brazzaville,CGO,2015-09-15,Harouna Loleko Mboyo,,Male,20W,NR
+1:52:33,COK,Avarua,COK,1980-01-05,Uaongo Areai,1961,Male,20W,NR
+1:18:53,COL,London,GBR,2017-08-13,Eider Arévalo,1993,Male,20W,NR
+2:47:39,COM,Mutsamudu,COM,2016-04-17,Abdoulkarim Saïd Ahamada,,Male,20W,NR
+1:57:45,CPV,Maputo,MOZ,2011-09-14,Nilson Tavares,1992,Male,20W,NR
+1:23:12,CRC,Cheboksary,RUS,2008-05-10,Allan Segura,1980,Male,20W,NR
+1:28:26,CRO,Balassagyarmat,HUN,1991-09-21,Aleksandar Raković,1968,Male,20W,NR
+1:21:45,CUB,Matanzas,CUB,2002-07-30,Jorge Pino,1969,Male,20W,NR
+1:47:29,CYP,Athína,GRE,1959-03-08,Ioannis Karpasitis,1936,Male,20W,NR
+1:19:18,CZE,Eisenhüttenstadt,GER,2000-06-17,Jiří Malysa,1966,Male,20W,NR
+1:22:18,DEN,Eisenhüttenstadt,GER,1996-05-11,Claus Jørgensen,1974,Male,20W,NR
+1:27:08,DOM,Santo Domingo,DOM,2017-05-20,Jorge Mendez,1990,Male,20W,NR
+1:17:21,ECU,Saint-Denis,FRA,2003-08-23,Jefferson Pérez,1974,Male,20W,NR
+1:22:14,EGY,El Maadi,EGY,2022-03-27,Mohamed Ragab Saleh,1994,Male,20W,NR
+1:25:20,ESA,Ciudad de Guatemala,GUA,2009-06-13,Walter Sandoval,1984,Male,20W,NR
+1:17:22,ESP,Turku,FIN,2002-04-28,Francisco Javier Fernández,1977,Male,20W,NR
+1:23:01,EST,Alushta,URS,1985-10-13,Vassili Matvejev,1957,Male,20W,NR
+1:22:21,ETH,St Pierre,MRI,2022-06-12,Yohanis Algaw,1999,Male,20W,NR
+1:18:57,ETH,Addis Ababa,ETH,2024-02-03,Misganaw Wakuma,2004,Male,20W,NR
+1:44:14,FIJ,Melbourne,AUS,2019-06-23,Pramesh Prasad,1974,Male,20W,NR
+1:18:22,FIN,Budapest,HUN,2023-08-19,Veli-Matti Partanen,1991,Male,20W,NR
+1:19:25,FIN,Lahti,FIN,2023-07-27,Veli-Matti Partanen,1991,Male,20W,NR
+1:20:42,FIN,Heinola,FIN,2000-05-07,Valentin Kononen,1969,Male,20W,NR
+1:17:02,FRA,Arles,FRA,2015-03-08,Yohann Diniz,1978,Male,20W,NR
+1:19:38,GBR,Gold Coast,AUS,2018-04-08,Tom Bosworth,1990,Male,20W,NR
+1:26:23,GEO,Zaniemysl,POL,2013-04-20,Maciej Rosiewicz,1977,Male,20W,NR
+1:18:42,GER,Eisenhüttenstadt,GER,2000-06-17,Andreas Erm,1976,Male,20W,NR
+1:18:12,GER,Budapest,HUN,2023-08-19,Christopher Linke,1988,Male,20W,NR
+1:18:42,GER,La Coruña,ESP,2019-06-08,Christopher Linke,1988,Male,20W,NR
+1:32:54,GHA,Cape Coast,GHA,2006-04-29,Ahmed-Tijani Sanni,,Male,20W,NR
+1:21:12,GRE,London,GBR,2012-08-04,Aléxandros Papamihaíl,1988,Male,20W,NR
+1:17:46,GUA,Eisenhüttenstadt,GER,1999-05-08,Julio Martínez,1973,Male,20W,NR
+1:29:25,HKG,Takahata,JPN,2022-10-23,Chin Man Kit,1991,Male,20W,NR
+1:28:44,HKG,Nomi,JPN,2023-03-19,Chin Man Kit,1991,Male,20W,NR
+1:25:25,HON,Danlí,HON,1988-05-15,Santiago Fonseca,1953,Male,20W,NR
+1:20:41,HUN,Podébrady,CZE,1997-04-19,Sándor Urbanik,1964,Male,20W,NR
+1:27:24,INA,Nomi,JPN,2016-03-20,Hendro,1990,Male,20W,NR
+1:19:38,IND,Chandigarh,IND,2024-01-30,Akashdeep Singh,1999,Male,20W,NR
+1:19:55,IND,Ranchi,IND,2023-02-14,Akashdeep Singh,1999,Male,20W,NR
+1:22:52,IRI,Nomi,JPN,2016-03-20,Hamid Reza Zouravand,1990,Male,20W,NR
+1:19:22,IRL,Cheboksary,RUS,2008-05-10,Robert Heffernan,1978,Male,20W,NR
+1:37:27,IRQ,Manama,BRN,2015-04-24,Abdul Amir Razak,,Male,20W,NR
+1:23:01,ISR,Ein Gedi,ISR,1992-02-15,Vladimir Ostrovskiy,1966,Male,20W,NR
+1:43:58,ISV,Malmö,SWE,1976-09-18,Henry Klein,1952,Male,20W,NR
+1:17:45,ITA,La Coruña,ESP,2019-06-08,Massimo Stano,1992,Male,20W,NR
+1:40:11,JAM,Brighton,GBR,1972-04-15,Byron Williams,,Male,20W,NR
+1:40:53,JOR,Fukuoka,JPN,1995-09-02,Muein Taa Al-Khalaf,1971,Male,20W,NR
+1:16:36,JPN,Nomi,JPN,2015-03-15,Yusuke Suzuki,1988,Male,20W,NR
+1:19:55,KAZ,Sochi,RUS,1996-04-20,Valeriy Borisov,1966,Male,20W,NR
+1:18:23,KEN,Nairobi,KEN,2021-06-18,Samuel Gathimba,1987,Male,20W,NR
+1:24:13,KGZ,Kyiv,URS,1976-06-11,Otto Barch,,Male,20W,NR
+1:19:13,KOR,Nomi,JPN,2015-03-15,Kim Hyun-Sub,1985,Male,20W,NR
+2:10:24,KSA,Doha,QAT,1986-03-06,Hazam Al-Otaibi,,Male,20W,NR
+1:51:25,KUW,Al-Kuwait,KUW,1983-11-06,Ateya Seoud Khallaf,,Male,20W,NR
+1:48:01,LAO,Luang Prabang,LAO,1997-02-01,Saleumphol Sopraseuth,,Male,20W,NR
+1:19:25,LAT,Hildesheim,GER,2002-08-25,Aigars Fadejevs,1975,Male,20W,NR
+1:44:26,LBA,Trípoli,GRE,1985-04-26,Idriss Bakloul,,Male,20W,NR
+1:35:20,LBN,Sumy,UKR,2012-06-09,Ali Hassan Ismail,,Male,20W,NR
+1:19:29,LTU,Sochi,URS,1989-02-19,Valdas Kazlauskas,1958,Male,20W,NR
+1:26:13,LUX,Ruse,BUL,1980-04-13,Lucien Faber,1952,Male,20W,NR
+1:34:33,MAD,Bambous,MRI,2006-08-13,Pietron Randrianandrasana,,Male,20W,NR
+1:30:08,MAR,Rabat,MAR,2019-08-28,Othman Allouch,1998,Male,20W,NR
+1:24:50,MAS,Podébrady,CZE,1997-04-19,Harbas Narinder Singh,1975,Male,20W,NR
+1:19:32,MDA,New York NY,USA,1987-05-03,Viktor Mostovik,1963,Male,20W,NR
+1:28:49,MRI,La Roche-sur-Yon,FRA,2017-03-12,Jérome Caprice,1983,Male,20W,NR
+1:29:43,MYA,Yangon,MYA,1997-02-24,Nyunt Win,,Male,20W,NR
+1:42:05,NAM,Windhoek,NAM,1995-01-07,Elvin Alberts,,Male,20W,NR
+1:29:30,NCA,Ranchuelo,CUB,1989-01-23,Luis Canelo,,Male,20W,NR
+1:24:52,NED,Vigneulles,FRA,1992-05-01,Harold van Beek,1962,Male,20W,NR
+1:40:48,NEP,Bhadrapur,NEP,1997-01-10,Ganga Bahadur Shahi,,Male,20W,NR
+1:31:27,NGR,Abuja,NGR,2015-03-14,Elegbede Bamidele,,Male,20W,NR
+1:19:11,NOR,Cheboksary,RUS,2008-05-10,Erik Tysse,1980,Male,20W,NR
+1:21:12,NZL,Adelaide,AUS,2017-02-19,Quentin Rew,1984,Male,20W,NR
+1:40:11,PAK,Rawalpindi,USA,1971-02-18,Kajal Khan,,Male,20W,NR
+1:23:43,PAN,La Coruña,ESP,2019-06-08,Yassir Cabrera,1988,Male,20W,NR
+1:39:20,PAR,Xalapa,MEX,2001-07-15,Oscar Meza,1979,Male,20W,NR
+1:20:45,PER,La Coruña,ESP,2022-05-28,César Augusto Rodríguez,1997,Male,20W,NR
+1:19:52,PER,Budapest,HUN,2023-08-19,César Augusto Rodríguez,1997,Male,20W,NR
+1:31:22,PLE,Cairo,EGY,2000-02-04,Rami Abdelhadi Al-Deeb,,Male,20W,NR
+2:12:13,PNG,Port Moresby,PNG,1991-09-14,Joe Kaikai,,Male,20W,NR
+1:18:22,POL,Hildesheim,GER,2000-07-09,Robert Korzeniowski,1968,Male,20W,NR
+1:20:09,POR,Göteborg/U,SWE,2006-08-08,João Vieira,1976,Male,20W,NR
+1:24:08,PUR,Adelaide,AUS,2019-02-10,José Israel Meléndez,1995,Male,20W,NR
+1:26:26,QAT,Nice,FRA,2013-09-14,Mabrouk Mohammed Saleh Nasser,1983,Male,20W,NR
+1:21:06,ROU,Bucureşti,ROU,1996-06-14,Costică Bălan,1964,Male,20W,NR
+1:19:18,RSA,London,GBR,2017-08-13,Lebogang Shange,1990,Male,20W,NR
+1:17:16,RUS,Saransk,RUS,2007-09-29,Vladimir Kanaykin,1985,Male,20W,NR
+2:12:52,SEY,Bambous,MRI,2013-04-19,Rennick Wayne Pierre Bélize,,Male,20W,NR
+1:34:49,SGP,Nomi,JPN,2016-03-20,Edmund Sim Soon Chye,,Male,20W,NR
+1:28:04,SLO,Postojna,YUG,1983-08-28,Milan Balek,1950,Male,20W,NR
+1:33:56,SMR,Ferrara,ITA,1985-04-14,Stefano Casali,1962,Male,20W,NR
+1:21:50,SRB,Surcin,SRB,2003-03-22,Predrag Filipović,1978,Male,20W,NR
+1:30:10,SRI,New Delhi,IND,2017-02-18,G. S. Chamila Chandika,,Male,20W,NR
+1:44:12,STP,Leiria,POR,2017-12-17,Sidney Santos,,Male,20W,NR
+1:25:20,SUI,Podébrady,CZE,2013-04-13,Alex Flórez,1971,Male,20W,NR
+1:18:13,SVK,Hildesheim,GER,1990-09-16,Pavol Blazek,1958,Male,20W,NR
+1:17:39,SWE,Budapest,HUN,2023-08-19,Perseus Karlström,1990,Male,20W,NR
+1:18:07,SWE,La Coruña,ESP,2019-06-08,Perseus Karlström,1990,Male,20W,NR
+1:32:04,SYR,Damascus,SYR,1987-07-24,Haytham Assaf,,Male,20W,NR
+1:29:40,THA,Manila,PHI,2003-09-22,Sakchai Samutkoa,1961,Male,20W,NR
+1:22:16,TJK,Cherkassy,URS,1980-04-27,Vladimir Gerus,1949,Male,20W,NR
+1:29:15,TKM,Riga,URS,1971-10-10,Aivars Zviedris,1944,Male,20W,NR
+1:26:47,TPE,Tokyo,JPN,2023-01-01,Hsu Chia-Wei,2000,Male,20W,NR
+1:47:34,TTO,Coventry,GBR,1978-05-13,Nolan Simmonds,,Male,20W,NR
+1:19:02,TUN,Eisenhüttenstadt,GER,1997-05-10,Hatem Ghoula,1973,Male,20W,NR
+1:18:42,TUR,Antalya,TUR,2021-03-06,Salih Korkmaz,1997,Male,20W,NR
+1:36:41,UAE,Guangzhou,CHN,2010-11-21,Ayoub Mohamed Serwash,,Male,20W,NR
+1:57:02,UGA,Al Qâhira,EGY,1982-08-27,Nelsensio Byingingo,1950,Male,20W,NR
+1:18:37,UKR,Taicang,CHN,2014-05-04,Ruslan Dmytrenko,1986,Male,20W,NR
+1:22:02,USA,Vallensbæk,DEN,2004-05-22,Tim Seaman,1972,Male,20W,NR
+1:23:22,UZB,Cheboksary,URS,1984-05-13,Nikolai Bashkirtsev,,Male,20W,NR
+1:22:10,VEN,Roma,ITA,2016-05-07,Richard Egrey Vargas,1994,Male,20W,NR
+1:23:29,VIE,Nomi,JPN,2016-03-20,Nguyen Thanh Ngung,1992,Male,20W,NR
+2:06:11,ZAM,San José,GUA,1991-01-06,Feston Bwalya,,Male,20W,NR
+2:07:55,ZIM,Hannover,GER,1979-07-31,A. Johnston,,Male,20W,NR
