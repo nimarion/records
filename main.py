@@ -64,7 +64,7 @@ def getRecords(sex, event):
     df['result'] = df['result'].str.replace(r'[^0-9:.]', '', regex=True)
 
     # only keep rows result, nation, venue, venueCountry, date, name, yearOfBirth, sex, event, type, environment
-    desired_columns = ['result', 'nation', 'venue', 'venueCountry', 'date', 'name', 'yearOfBirth', 'sex', 'event', 'type', 'environment']
+    desired_columns = ['result', 'wind', 'nation', 'venue', 'venueCountry', 'date', 'name', 'yearOfBirth', 'sex', 'event', 'type', 'environment']
 
     valid_columns = []
 

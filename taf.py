@@ -29,5 +29,6 @@ if __name__ == '__main__':
 
 
     taf_df.to_csv("taf.csv", index=False)
+    taf_df.to_excel("taf.xlsx", index=False)
 
             
