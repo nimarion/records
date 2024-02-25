@@ -1,0 +1,27 @@
+name: Update Records
+
+on: 
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Setting up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+      - name: Install requirements
+        run: pip install -r requirements.txt
+      - name: Run
+        run: |
+          python main.py
+          git config user.name Github Action
+          git config user.email actions@github.com
+          git add data/*
+          timestamp=$(date -u)
+          git commit -m "update records data: ${timestamp}" || exit 0
+          git push
