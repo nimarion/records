@@ -2,7 +2,7 @@ import pathlib
 import pandas as pd
 
 if __name__ == '__main__':
-    folder_path = pathlib.Path("data")
+    folder_path = pathlib.Path("nationalrecords")
     csv_files = folder_path.rglob("*.csv")
 
     tafDisciplines = pd.read_csv("disciplines.csv")
@@ -15,7 +15,7 @@ if __name__ == '__main__':
         tilastopajaDiscipline = row['tilastopaja']
 
         for s in ["women", "men"]:
-            filename = f"data/{s}/{tilastopajaDiscipline}.csv"
+            filename = f"nationalrecords/{s}/{tilastopajaDiscipline}.csv"
 
             if not pathlib.Path(filename).exists():
                 continue

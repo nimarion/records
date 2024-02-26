@@ -21,9 +21,13 @@ jobs:
           python main.py
           python taf.py
           python pfingsten2024.py
+          python worldrecords.py
+          python nationalrecords.py
           git config user.name Github Action
           git config user.email actions@github.com
-          git add data/*
+          git add nationalrecords/*
+          git add worldrecords/*
+          git add arearecords/*
           git add taf.csv
           git add taf.xlsx
           git add pfingsten2024.xlsx
