@@ -1,2 +1,2 @@
-result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
-14.08,FIN,Pedersöre,FIN,2023-07-30,Jenny Ek,1985,Female,HT2.5,NR
+result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,environment
+14.08,FIN,Pedersöre,FIN,2023-07-30,Jenny Ek,1985,Female,HT2.5,NR,Outdoor

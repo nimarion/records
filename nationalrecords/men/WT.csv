@@ -1,0 +1,35 @@
+result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,environment
+22.25,AUS,Nampa ID,USA,2008-12-06,Simon Wardhaugh,1986.0,Male,WT,NR,Indoor
+21.82,AUT,Birmingham AL,USA,2024-02-09,Will Youssef Dibo,2001.0,Male,WT,NR,Indoor
+20.02,BEL,Ashland OH,USA,2024-02-23,Orry Willems,2002.0,Male,WT,NR,Indoor
+19.13,BUL,Lynchburg VA,USA,2024-02-23,Aleks Khristov,2000.0,Male,WT,NR,Indoor
+24.72,CAN,Ames IA,USA,2002-02-08,Scott Russell,1979.0,Male,WT,NR,Indoor
+21.15,CRC,New York NY,USA,2013-02-16,Roberto Sawyers,1986.0,Male,WT,NR,Indoor
+24.43,CRO,Fayetteville AR,USA,2001-03-09,Andras Haklits,1977.0,Male,WT,NR,Indoor
+22.25,CYP,Nashville TN,USA,2017-02-24,Alexandros Poursanidis,1993.0,Male,WT,NR,Indoor
+18.45,DEN,Hvidovre,DEN,2022-01-22,Brian Nielsen,1984.0,Male,WT,NR,Indoor
+22.95,EGY,Blacksburg VA,USA,2006-02-24,Mohsen Anani,1985.0,Male,WT,NR,Indoor
+21.82,ESP,Lubbock TX,USA,2020-02-01,Kevin Arreaga,1995.0,Male,WT,NR,Indoor
+22.81,FIN,Uppsala,SWE,2022-02-12,Henri Liipola,1994.0,Male,WT,NR,Indoor
+24.39,GBR,Cambridge MA,USA,2024-02-24,Kenneth Ikeji,2002.0,Male,WT,NR,Indoor
+24.06,GRE,Minneapolis MN,USA,2024-01-27,Konstadínos Záltos,2000.0,Male,WT,NR,Indoor
+18.08,GUY,Newport News VA,USA,2001-12-07,Patrick Harding,1980.0,Male,WT,NR,Indoor
+20.40,IRI,Albuquerque NM,USA,2015-02-13,Masoud Moghaddam,1988.0,Male,WT,NR,Indoor
+21.93,IRL,Boston MA,USA,2019-02-23,Owen Russell,1997.0,Male,WT,NR,Indoor
+21.87,ITA,Fayetteville AR,USA,2006-02-11,Pellegrino Delli Carri,1976.0,Male,WT,NR,Indoor
+19.57,IVB,Birmingham AL,USA,2022-02-27,Diamante Gumbs,2000.0,Male,WT,NR,Indoor
+22.75,JAM,Clemson SC,USA,2024-01-26,Daniel Cope,2000.0,Male,WT,NR,Indoor
+14.81,LAT,Toruń,POL,2019-03-27,Jānis Podnieks,1977.0,Male,WT,NR,Indoor
+15.56,LUX,Budapest,HUN,2014-03-30,Stéphane Tonizzo,1971.0,Male,WT,NR,Indoor
+24.46,NOR,Fayetteville AR,USA,2021-03-11,Thomas Mardal,1997.0,Male,WT,NR,Indoor
+21.94,PUR,Kent OH,USA,2020-02-15,Luis Rivera,1994.0,Male,WT,NR,Indoor
+13.36,ROU,Toruń,POL,2019-03-27,Alexandru-Daniel Pascal,,Male,WT,NR,Indoor
+20.65,RSA,Lincoln NE,USA,2020-02-21,Burger Lambrechts Jr,1998.0,Male,WT,NR,Indoor
+23.60,RUS,Fayetteville AR,USA,2007-03-09,Yegor Agafonov,1983.0,Male,WT,NR,Indoor
+15.26,SKN,Lamoni IA,USA,2002-02-16,Elvis Williams,1979.0,Male,WT,NR,Indoor
+14.35,SLO,Ancona,ITA,2016-03-30,Joze Pirnat,1970.0,Male,WT,NR,Indoor
+25.68,SVK,Sterling IL,USA,2005-03-05,Libor Charfreitag,1977.0,Male,WT,NR,Indoor
+19.78,SWE,Gävle,SWE,2019-03-11,Robert Alneroth,1984.0,Male,WT,NR,Indoor
+19.63,TTO,Landover MD,USA,2014-02-14,Emmanuel Stewart,1989.0,Male,WT,NR,Indoor
+26.35,USA,Albuquerque NM,USA,2024-02-16,Daniel Haugh,1995.0,Male,WT,NR,Indoor
+22.33,VIN,Baton Rouge LA,USA,2011-03-04,Adonson Shallow,1986.0,Male,WT,NR,Indoor

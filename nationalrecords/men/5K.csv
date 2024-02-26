@@ -1,53 +1,53 @@
-result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
-13:40,ALG,Monaco,MON,2024-02-11,Said Ameri,2003,Male,5K,NR
-13:44,ANG,Los Angeles CA,USA,1997-11-23,Aurelio Miti,1973,Male,5K,NR
-13:20,AUS,Carlsbad CA,USA,2005-04-03,Craig Mottram,1980,Male,5K,NR
-13:11,BDI,Herzogenaurach,GER,2023-04-29,Rodrigue Kwizéra,1999,Male,5K,NR
-13:54,BEL,Barcelona,ESP,2023-12-31,Rémi Schyns,1999,Male,5K,NR
-13:35,BOT,Carlsbad CA,USA,1988-03-27,Matthews Motshwarateu,1958,Male,5K,NR
-13:30,BRA,Carlsbad CA,USA,1995-04-02,Valdenor dos Santos,1969,Male,5K,NR
-13:05,BRN,Al Khobar,KSA,2023-12-09,Birhanu Balew,1996,Male,5K,NR
-13:36,CAN,Carlsbad CA,USA,1986-06-01,Paul Williams,1956,Male,5K,NR
-13:52,CHN,Barcelona,ESP,2023-12-31,Mao Jinhu,2002,Male,5K,NR
-14:12,COD,Toronto,CAN,2003-07-11,Danny Tshindind Kassap,1982,Male,5K,NR
-14:07,COL,Oakland CA,USA,1985-06-16,Domingo Tibaduiza,1949,Male,5K,NR
-13:48,DEN,Monaco,MON,2021-02-14,Thijs Nijhuis,1992,Male,5K,NR
-13:47,ECU,Chicago IL,USA,1991-10-27,Silvio Guerra,1968,Male,5K,NR
-13:21,ERI,Riga,LAT,2023-10-01,Seare Dawit,2004,Male,5K,NR
-13:19,ESP,Nijmegen,NED,2020-07-19,Ouassim Oumaiz,1999,Male,5K,NR
-12:50,ETH,Lille,FRA,2023-03-19,Yomif Kejelcha,1997,Male,5K,NR
-13:42,FIN,Providence RI,USA,1993-10-17,Risto Ulmala,1963,Male,5K,NR
-13:18,FRA,Monaco,MON,2020-02-16,Jimmy Gressier,1997,Male,5K,NR
-13:20,GBR,Barrowford,GBR,2020-08-08,Marc Scott,1993,Male,5K,NR
-13:31,GER,Monaco,MON,2024-02-11,Nils Voigt,1997,Male,5K,NR
-14:09,GRE,Thessaloníki,GRE,2019-10-19,Konstadínos Gelaoúzos,1990,Male,5K,NR
-14:14,GUA,Toronto,CAN,1993-07-03,Ivan Gomez,1969,Male,5K,NR
-13:24,IRL,Westfield MA,USA,2013-03-30,Alistair Cragg,1980,Male,5K,NR
-13:43,ITA,Monaco,MON,2024-02-11,Pietro Riva,1997,Male,5K,NR
-14:20,JAM,Freeport,BAH,1991-02-02,Mark Elliott,1966,Male,5K,NR
-13:59,JPN,Boulder CO,USA,1997-09-01,Yasuaki Yamamoto,1972,Male,5K,NR
-13:00,KEN,Carlsbad CA,USA,2000-03-26,Sammy Kipketer,1981,Male,5K,NR
-13:16,MAR,Al Khobar,KSA,2023-12-09,Hicham Amghar,1994,Male,5K,NR
-13:18,MEX,Carlsbad CA,USA,1996-03-31,Juan Armando Quintanilla,1968,Male,5K,NR
-14:04,NAM,Carlsbad CA,USA,1995-04-02,Luketz Swartbooi,1966,Male,5K,NR
-13:26,NED,Monaco,MON,2024-02-11,Niels Laros,2005,Male,5K,NR
-13:24,NOR,Monaco,MON,2024-02-11,Abdullahi Dahir Rabi,2003,Male,5K,NR
-13:46,NZL,Gardena CA,USA,2000-06-04,Jonathon Wyatt,1972,Male,5K,NR
-13:46,NZL,Boston MA,USA,2012-04-15,Adrian Blincoe,1979,Male,5K,NR
-13:46,NZL,New York NY,USA,2013-11-02,Nick Willis,1983,Male,5K,NR
-13:39,POL,Los Angeles CA,USA,1993-03-07,Michał Bartoszak,1970,Male,5K,NR
-13:51,POR,Portsmouth,GBR,1996-04-13,Paulo Guerra,1970,Male,5K,NR
-13:18,RSA,Al Khobar,KSA,2023-12-09,Maxime Chaymeton,2000,Male,5K,NR
-13:38,RUS,Serpukhov,RUS,2023-08-12,Vladimir Nikitin,1992,Male,5K,NR
-14:08,SOM,Carlsbad CA,USA,2000-03-26,Ibrahim Aden,1972,Male,5K,NR
-13:52,SRB,Dallas TX,USA,2000-06-17,Jan Benša,1977,Male,5K,NR
-13:12,SUI,Barcelona,ESP,2023-12-31,Dominic Lokinyomo Lobalu,1998,Male,5K,NR
-13:42,SWE,Nijmegen,NED,2020-07-19,David Nilsson,1987,Male,5K,NR
-13:36,TAN,London,GBR,1995-04-23,Sambu Andre Sipe,1972,Male,5K,NR
-14:21,TTO,Jacksonville FL,USA,1994-06-11,Ronnie Holassie,1971,Male,5K,NR
-12:51,UGA,Monaco,MON,2020-02-16,Joshua Cheptegei,1996,Male,5K,NR
-13:35,UKR,Balmoral,GBR,2004-05-08,Serhiy Lebid,1975,Male,5K,NR
-14:00,URU,Carlsbad CA,USA,2000-03-26,Néstor García,1975,Male,5K,NR
-13:49,VEN,Fort Myers FL,USA,1991-02-16,Eduardo Navas,1958,Male,5K,NR
-13:40,ZAM,Providence RI,USA,1997-09-14,Charles Mulinga,1968,Male,5K,NR
-13:22,ZIM,Carlsbad CA,USA,1993-03-28,Philemon Hanneck,1971,Male,5K,NR
+result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,environment
+13:40,ALG,Monaco,MON,2024-02-11,Said Ameri,2003,Male,5K,NR,Outdoor
+13:44,ANG,Los Angeles CA,USA,1997-11-23,Aurelio Miti,1973,Male,5K,NR,Outdoor
+13:20,AUS,Carlsbad CA,USA,2005-04-03,Craig Mottram,1980,Male,5K,NR,Outdoor
+13:11,BDI,Herzogenaurach,GER,2023-04-29,Rodrigue Kwizéra,1999,Male,5K,NR,Outdoor
+13:54,BEL,Barcelona,ESP,2023-12-31,Rémi Schyns,1999,Male,5K,NR,Outdoor
+13:35,BOT,Carlsbad CA,USA,1988-03-27,Matthews Motshwarateu,1958,Male,5K,NR,Outdoor
+13:30,BRA,Carlsbad CA,USA,1995-04-02,Valdenor dos Santos,1969,Male,5K,NR,Outdoor
+13:05,BRN,Al Khobar,KSA,2023-12-09,Birhanu Balew,1996,Male,5K,NR,Outdoor
+13:36,CAN,Carlsbad CA,USA,1986-06-01,Paul Williams,1956,Male,5K,NR,Outdoor
+13:52,CHN,Barcelona,ESP,2023-12-31,Mao Jinhu,2002,Male,5K,NR,Outdoor
+14:12,COD,Toronto,CAN,2003-07-11,Danny Tshindind Kassap,1982,Male,5K,NR,Outdoor
+14:07,COL,Oakland CA,USA,1985-06-16,Domingo Tibaduiza,1949,Male,5K,NR,Outdoor
+13:48,DEN,Monaco,MON,2021-02-14,Thijs Nijhuis,1992,Male,5K,NR,Outdoor
+13:47,ECU,Chicago IL,USA,1991-10-27,Silvio Guerra,1968,Male,5K,NR,Outdoor
+13:21,ERI,Riga,LAT,2023-10-01,Seare Dawit,2004,Male,5K,NR,Outdoor
+13:19,ESP,Nijmegen,NED,2020-07-19,Ouassim Oumaiz,1999,Male,5K,NR,Outdoor
+12:50,ETH,Lille,FRA,2023-03-19,Yomif Kejelcha,1997,Male,5K,NR,Outdoor
+13:42,FIN,Providence RI,USA,1993-10-17,Risto Ulmala,1963,Male,5K,NR,Outdoor
+13:18,FRA,Monaco,MON,2020-02-16,Jimmy Gressier,1997,Male,5K,NR,Outdoor
+13:20,GBR,Barrowford,GBR,2020-08-08,Marc Scott,1993,Male,5K,NR,Outdoor
+13:31,GER,Monaco,MON,2024-02-11,Nils Voigt,1997,Male,5K,NR,Outdoor
+14:09,GRE,Thessaloníki,GRE,2019-10-19,Konstadínos Gelaoúzos,1990,Male,5K,NR,Outdoor
+14:14,GUA,Toronto,CAN,1993-07-03,Ivan Gomez,1969,Male,5K,NR,Outdoor
+13:24,IRL,Westfield MA,USA,2013-03-30,Alistair Cragg,1980,Male,5K,NR,Outdoor
+13:43,ITA,Monaco,MON,2024-02-11,Pietro Riva,1997,Male,5K,NR,Outdoor
+14:20,JAM,Freeport,BAH,1991-02-02,Mark Elliott,1966,Male,5K,NR,Outdoor
+13:59,JPN,Boulder CO,USA,1997-09-01,Yasuaki Yamamoto,1972,Male,5K,NR,Outdoor
+13:00,KEN,Carlsbad CA,USA,2000-03-26,Sammy Kipketer,1981,Male,5K,NR,Outdoor
+13:16,MAR,Al Khobar,KSA,2023-12-09,Hicham Amghar,1994,Male,5K,NR,Outdoor
+13:18,MEX,Carlsbad CA,USA,1996-03-31,Juan Armando Quintanilla,1968,Male,5K,NR,Outdoor
+14:04,NAM,Carlsbad CA,USA,1995-04-02,Luketz Swartbooi,1966,Male,5K,NR,Outdoor
+13:26,NED,Monaco,MON,2024-02-11,Niels Laros,2005,Male,5K,NR,Outdoor
+13:24,NOR,Monaco,MON,2024-02-11,Abdullahi Dahir Rabi,2003,Male,5K,NR,Outdoor
+13:46,NZL,Gardena CA,USA,2000-06-04,Jonathon Wyatt,1972,Male,5K,NR,Outdoor
+13:46,NZL,Boston MA,USA,2012-04-15,Adrian Blincoe,1979,Male,5K,NR,Outdoor
+13:46,NZL,New York NY,USA,2013-11-02,Nick Willis,1983,Male,5K,NR,Outdoor
+13:39,POL,Los Angeles CA,USA,1993-03-07,Michał Bartoszak,1970,Male,5K,NR,Outdoor
+13:51,POR,Portsmouth,GBR,1996-04-13,Paulo Guerra,1970,Male,5K,NR,Outdoor
+13:18,RSA,Al Khobar,KSA,2023-12-09,Maxime Chaymeton,2000,Male,5K,NR,Outdoor
+13:38,RUS,Serpukhov,RUS,2023-08-12,Vladimir Nikitin,1992,Male,5K,NR,Outdoor
+14:08,SOM,Carlsbad CA,USA,2000-03-26,Ibrahim Aden,1972,Male,5K,NR,Outdoor
+13:52,SRB,Dallas TX,USA,2000-06-17,Jan Benša,1977,Male,5K,NR,Outdoor
+13:12,SUI,Barcelona,ESP,2023-12-31,Dominic Lokinyomo Lobalu,1998,Male,5K,NR,Outdoor
+13:42,SWE,Nijmegen,NED,2020-07-19,David Nilsson,1987,Male,5K,NR,Outdoor
+13:36,TAN,London,GBR,1995-04-23,Sambu Andre Sipe,1972,Male,5K,NR,Outdoor
+14:21,TTO,Jacksonville FL,USA,1994-06-11,Ronnie Holassie,1971,Male,5K,NR,Outdoor
+12:51,UGA,Monaco,MON,2020-02-16,Joshua Cheptegei,1996,Male,5K,NR,Outdoor
+13:35,UKR,Balmoral,GBR,2004-05-08,Serhiy Lebid,1975,Male,5K,NR,Outdoor
+14:00,URU,Carlsbad CA,USA,2000-03-26,Néstor García,1975,Male,5K,NR,Outdoor
+13:49,VEN,Fort Myers FL,USA,1991-02-16,Eduardo Navas,1958,Male,5K,NR,Outdoor
+13:40,ZAM,Providence RI,USA,1997-09-14,Charles Mulinga,1968,Male,5K,NR,Outdoor
+13:22,ZIM,Carlsbad CA,USA,1993-03-28,Philemon Hanneck,1971,Male,5K,NR,Outdoor

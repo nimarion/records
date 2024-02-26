@@ -1,3 +1,39 @@
-result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
-20.81,DEN,Esbjerg,DEN,2023-09-16,Katrine Koch Jacobsen,1999,Female,WT,NR
-21.60,GBR,Swindon,GBR,2023-11-18,Charlotte Payne,2002,Female,WT,NR
+result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,environment
+20.81,DEN,Esbjerg,DEN,2023-09-16,Katrine Koch Jacobsen,1999.0,Female,WT,NR,Outdoor
+21.60,GBR,Swindon,GBR,2023-11-18,Charlotte Payne,2002.0,Female,WT,NR,Outdoor
+24.04,ARG,Fayetteville AR,USA,2006-03-10,Jenny Dahlgren,1984.0,Female,WT,NR,Indoor
+22.40,ASA,New York NY,USA,1999-02-05,Lisa Misipeka,1975.0,Female,WT,NR,Indoor
+21.84,AUS,Cambridge MA,USA,2023-01-28,Stephanie Ratcliffe,2000.0,Female,WT,NR,Indoor
+19.02,BAH,Albuquerque NM,USA,2020-02-29,Acacia Astwood,2000.0,Female,WT,NR,Indoor
+19.38,BAR,Ames IA,USA,2008-02-15,Shernelle Nicholls,1984.0,Female,WT,NR,Indoor
+13.03,BEL,Aubière,FRA,2008-03-18,Kathleen De Wolf,1967.0,Female,WT,NR,Indoor
+21.76,BLR,New York NY,USA,2013-02-01,Alena Krechyk,1987.0,Female,WT,NR,Indoor
+24.06,CAN,Birmingham AL,USA,2022-03-11,Camryn Rogers,1999.0,Female,WT,NR,Indoor
+20.81,CRO,Blacksburg VA,USA,2011-03-05,Dorotea Habazin,1988.0,Female,WT,NR,Indoor
+19.45,CYP,Cambridge MA,USA,2024-02-24,Emilia Kolokotroni,2005.0,Female,WT,NR,Indoor
+18.02,DEN,Växjö/Ti,SWE,2013-03-16,Meiken Greve,1980.0,Female,WT,NR,Indoor
+19.73,DMA,New York NY,USA,2012-01-20,Vannessa Henry,1990.0,Female,WT,NR,Indoor
+18.39,ESA,Reno NV,USA,2002-02-22,Nancy Guillén,1976.0,Female,WT,NR,Indoor
+22.66,FIN,Louisville KY,USA,2023-02-23,Sara Killinen,2001.0,Female,WT,NR,Indoor
+22.24,FRA,Reno NV,USA,2001-02-23,Florence Ezeh,1977.0,Female,WT,NR,Indoor
+19.41,GHA,Nashville TN,USA,2018-01-20,Effua Ampadu,1985.0,Female,WT,NR,Indoor
+24.06,GRE,Fayetteville AR,USA,2019-02-23,Stamatía Skarvélis,1995.0,Female,WT,NR,Indoor
+19.86,GRN,New York NY,USA,2002-02-01,Sheba George,,Female,WT,NR,Indoor
+19.30,HUN,Nashville TN,USA,2024-01-19,Petra Gombás,2001.0,Female,WT,NR,Indoor
+19.02,IRL,New York NY,USA,2024-02-10,Margaret Hayden,1997.0,Female,WT,NR,Indoor
+18.68,ISV,Birmingham AL,USA,2020-02-23,Maia Campbell,1998.0,Female,WT,NR,Indoor
+20.66,ITA,Boston MA,USA,2020-03-07,Michella Obijiaku,1997.0,Female,WT,NR,Indoor
+21.45,IVB,Findlay OH,USA,2017-02-25,Tynelle Gumbs,1996.0,Female,WT,NR,Indoor
+23.08,JAM,Kingston RI,USA,2024-02-10,Erica Belvit,1998.0,Female,WT,NR,Indoor
+20.35,KEN,Jamaica NY,USA,2002-02-08,Ruth Kura,1980.0,Female,WT,NR,Indoor
+17.55,LBR,Boston MA,USA,2007-03-04,Tetee Kuyateh,1984.0,Female,WT,NR,Indoor
+14.84,LUX,Ancona,ITA,2016-04-01,Mireille Kosmala,1968.0,Female,WT,NR,Indoor
+12.87,MNE,Winston-Salem NC,USA,2016-02-26,Marija Bogavac,1996.0,Female,WT,NR,Indoor
+25.32,NGR,Nashville TN,USA,2023-02-10,Sade Olatoye,1997.0,Female,WT,NR,Indoor
+20.45,NZL,New York NY,USA,2017-02-25,Julia Ratcliffe,1993.0,Female,WT,NR,Indoor
+18.67,PUR,Boston MA,USA,2013-03-02,Rachel Pena,1991.0,Female,WT,NR,Indoor
+17.35,SUI,New York NY,USA,2014-01-17,Lydia Wehrli,1990.0,Female,WT,NR,Indoor
+23.73,SWE,Malmö/A,SWE,2017-02-15,Ida Storm,1991.0,Female,WT,NR,Indoor
+18.25,TJK,Montréal,CAN,2011-02-19,Galina Mityayeva,1991.0,Female,WT,NR,Indoor
+24.17,TTO,Fayetteville AR,USA,2005-03-12,Candice Scott,1980.0,Female,WT,NR,Indoor
+26.02,USA,Albuquerque NM,USA,2023-02-17,DeAnna Price,1993.0,Female,WT,NR,Indoor

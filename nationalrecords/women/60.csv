@@ -1,2 +1,159 @@
-result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
-7.47,+1.5,MLT,Marsa,MLT,2024-01-27,Carla Scicluna,2001,Female,60,NR
+result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,environment
+7.47,1.5,MLT,Marsa,MLT,2024-01-27,Carla Scicluna,2001.0,Female,60,NR,Outdoor
+8.90,,AFG,Ashgabat,TKM,2017-09-19,Kimia Yousufi,1996.0,Female,60,NR,Indoor
+7.62,,ALB,Air Force Academy CO,USA,1999-01-09,Ermelinda Shehu,1974.0,Female,60,NR,Indoor
+7.90,,ALG,Val-de-Reuil,FRA,2024-01-06,Manel Benkaci,1997.0,Female,60,NR,Indoor
+7.73,,AND,Salamanca,ESP,2018-02-11,Cristina Llovera,1996.0,Female,60,NR,Indoor
+7.53,,ANG,Espinho,POR,2004-01-31,Antónia Margarete de Jesus,1974.0,Female,60,NR,Indoor
+7.15,,ANT,Fayetteville AR,USA,2021-02-27,Joella Lloyd,2002.0,Female,60,NR,Indoor
+7.42,,ARG,Cochabamba,BOL,2024-01-27,María Florencia Lamboglia,1992.0,Female,60,NR,Indoor
+7.56,,ARM,Beograd,SRB,2017-02-25,Gayane Chiloyan,2000.0,Female,60,NR,Indoor
+8.04,,ARU,Lisboa,POR,2001-03-11,Silvienne Krosendijk,1986.0,Female,60,NR,Indoor
+7.30,,AUS,Boston MA,USA,2009-02-07,Sally Pearson,1986.0,Female,60,NR,Indoor
+7.15,,AUT,Wien,AUT,2001-02-24,Karin Mayr-Krifka,1971.0,Female,60,NR,Indoor
+7.37,,AZE,Istanbul,TUR,2019-02-16,Zakiyya Hasanova,1995.0,Female,60,NR,Indoor
+7.01,,BAH,Maebashi,JPN,1999-03-07,Savatheda Fynes,1974.0,Female,60,NR,Indoor
+7.86,,BAN,Tehran,IRI,2024-02-18,Shirin Akter,1994.0,Female,60,NR,Indoor
+7.10,,BAR,Houston TX,USA,2024-02-09,Tristan Evelyn,1998.0,Female,60,NR,Indoor
+7.10,,BEL,Birmingham,GBR,2007-03-03,Kim Gevaert,1978.0,Female,60,NR,Indoor
+7.44,,BEN,Eaubonne,FRA,2005-02-04,Fabienne Féraez,1976.0,Female,60,NR,Indoor
+7.67,,BIH,Nyíregyháza,HUN,2024-01-27,Ajla Reizbegovic,1999.0,Female,60,NR,Indoor
+7.67,,BIH,Nyíregyháza,HUN,2024-01-27,Ajla Rezbegović,1999.0,Female,60,NR,Indoor
+7.10,,BLR,Minsk,BLR,2003-02-07,Natallia Safronnikava,1973.0,Female,60,NR,Indoor
+7.10,,BLR,Minsk,BLR,2004-01-30,Yulia Nestsiarenka,1979.0,Female,60,NR,Indoor
+7.32,,BOL,Cochabamba,BOL,2024-01-13,Guadalupe Torrez,2001.0,Female,60,NR,Indoor
+7.14,,BRA,Beograd,SRB,2022-03-18,Vitoria Cristina Rosa,1996.0,Female,60,NR,Indoor
+7.23,,BRN,Blacksburg VA,USA,2022-02-25,Ofonime Odiong,1997.0,Female,60,NR,Indoor
+7.50,,BRU,Tehran,IRI,2005-09-27,Nur Sari Hafizazh Matasan,1987.0,Female,60,NR,Indoor
+7.03,,BUL,Liévin,FRA,1987-02-22,Anelia Nuneva,1962.0,Female,60,NR,Indoor
+8.44,,CAM,Pattaya,THA,2006-02-10,Sry Hang,1984.0,Female,60,NR,Indoor
+7.02,,CAN,Maebashi,JPN,1999-03-07,Philomena Mensah,1975.0,Female,60,NR,Indoor
+7.36,,CAY,Fayetteville AR,USA,2003-02-14,Cydonie Mothersill,1978.0,Female,60,NR,Indoor
+7.30,,CGO,Jamor,POR,2016-01-09,Lorène Dorcas Bazolo,1983.0,Female,60,NR,Indoor
+7.30,,CGO,Gent,BEL,2024-02-03,Natacha Ngoye,1993.0,Female,60,NR,Indoor
+7.50,,CHA,Edmonton,CAN,2002-02-10,Kaltouma Nadjina,1976.0,Female,60,NR,Indoor
+7.29,,CHI,São Caetano do Sul,BRA,2018-02-03,Isidora Jiménez,1993.0,Female,60,NR,Indoor
+7.10,,CHN,Hangzhou,CHN,2019-03-19,Ge Manqi,1997.0,Female,60,NR,Indoor
+6.97,,CIV,Birmingham,GBR,2018-03-02,Murielle Ahouré-Demps,1987.0,Female,60,NR,Indoor
+7.18,,CMR,Dortmund,GER,2000-01-30,Myriam Mani,1977.0,Female,60,NR,Indoor
+7.93,,COK,Sopot,POL,2014-03-08,Patricia Taea,1993.0,Female,60,NR,Indoor
+7.40,,COL,Cochabamba,BOL,2024-01-27,Laura Martínez,2004.0,Female,60,NR,Indoor
+7.39,,COM,Paris,FRA,2009-02-15,Feta Ahamada,1987.0,Female,60,NR,Indoor
+7.29,,CRO,Rijeka,CRO,2015-03-01,Andrea Ivančević,1984.0,Female,60,NR,Indoor
+7.26,,CYP,Madrid,ESP,2023-02-22,Olivia Fotopoulou,1996.0,Female,60,NR,Indoor
+7.15,,CZE,Ostrava,CZE,2024-02-17,Karolína Maňasová,2003.0,Female,60,NR,Indoor
+7.24,,DEN,Aarhus,DEN,2022-03-02,Ida Kathrine Karstoft,1995.0,Female,60,NR,Indoor
+7.45,,DOM,Staten Island NY,USA,2018-02-03,Marileidy Paulino,1996.0,Female,60,NR,Indoor
+7.16,,ESP,Ourense,ESP,2022-02-26,Maria Isabel Pérez,1993.0,Female,60,NR,Indoor
+7.28,,EST,Tallinn,EST,2024-02-17,Õilme Võro,1996.0,Female,60,NR,Indoor
+7.16,,FIN,Jyväskylä,FIN,2021-02-20,Lotta Kemppinen,1998.0,Female,60,NR,Indoor
+7.06,,FRA,Aubière,FRA,2006-02-26,Christine Arron,1973.0,Female,60,NR,Indoor
+7.12,,GAB,Moskva,RUS,2013-02-03,Ruddy Zang Milama,1987.0,Female,60,NR,Indoor
+7.03,,GBR,Birmingham,GBR,2023-02-25,Dina Asher-Smith,1995.0,Female,60,NR,Indoor
+7.27,,GEO,Mannheim,GER,1994-02-11,Maya Azarashvili,1964.0,Female,60,NR,Indoor
+7.68,,GEQ,San Sebastián,ESP,2015-03-14,Teresa Mangue,1998.0,Female,60,NR,Indoor
+7.68,,GEQ,Clemson SC,USA,2024-02-09,Alma de Miguel Evuna Eki,2003.0,Female,60,NR,Indoor
+7.04,,GER,Senftenberg,GER,1985-02-16,Marita Koch,1957.0,Female,60,NR,Indoor
+7.04,,GER,Budapest,HUN,1988-03-06,Silke Möller,1964.0,Female,60,NR,Indoor
+7.18,,GHA,Chemnitz,GER,2004-02-27,Vida Anim,1983.0,Female,60,NR,Indoor
+7.18,,GHA,New York NY,USA,2015-01-16,Flings Owusu-Agyapong,1988.0,Female,60,NR,Indoor
+8.18,,GIB,Antequera,ESP,2023-01-14,Norcady Reyes,2003.0,Female,60,NR,Indoor
+6.96,,GRE,Maebashi,JPN,1999-03-07,Ekateríni Thánou,1975.0,Female,60,NR,Indoor
+7.23,,GRN,Fayetteville AR,USA,2021-03-12,Halle Hazzard,1999.0,Female,60,NR,Indoor
+7.58,,GUA,Gainesville FL,USA,2023-02-10,Mariandre Chacón,2004.0,Female,60,NR,Indoor
+7.56,,GUM,Bethlehem PA,USA,2020-03-01,Regine Tugade,1998.0,Female,60,NR,Indoor
+7.26,,GUY,Albuquerque NM,USA,2022-02-12,Jasmine Abrams,1994.0,Female,60,NR,Indoor
+7.18,,HAI,State College PA,USA,2010-01-29,Barbara Pierre,1987.0,Female,60,NR,Indoor
+7.44,,HKG,Tehran,IRI,2024-02-18,Chloe Chan Pui Kei,2000.0,Female,60,NR,Indoor
+7.20,,HUN,Nyíregyháza,HUN,2024-02-17,Boglárka Takács,2001.0,Female,60,NR,Indoor
+7.28,,IND,Doha,QAT,2016-02-19,Dutee Chand,1996.0,Female,60,NR,Indoor
+7.20,,IRI,Tehran,IRI,2024-02-18,Farzaneh Fasihi,1993.0,Female,60,NR,Indoor
+7.15,,IRL,Albuquerque NM,USA,2024-01-20,Rhasidat Adeleke,2002.0,Female,60,NR,Indoor
+7.50,,IRQ,Tehran,IRI,2019-03-03,Dana Abdulrazak,1986.0,Female,60,NR,Indoor
+7.35,,ISL,Aarhus,DEN,2023-01-25,Gudbjörg Jóna Bjarnadóttir,2001.0,Female,60,NR,Indoor
+7.20,,ISR,Beograd,SRB,2022-03-18,Diana Vaisman,1998.0,Female,60,NR,Indoor
+6.97,,ISV,Stuttgart,GER,2010-02-06,Laverne Jones-Ferrette,1981.0,Female,60,NR,Indoor
+7.02,,ITA,Toruń,POL,2024-02-06,Zaynab Dosso,1999.0,Female,60,NR,Indoor
+7.09,,IVB,Valencia,ESP,2008-03-07,Tahesia Harrigan,1982.0,Female,60,NR,Indoor
+6.98,,JAM,Sopot,POL,2014-03-09,Shelly-Ann Fraser-Pryce,1986.0,Female,60,NR,Indoor
+7.29,,JPN,Istanbul,TUR,2012-03-10,Chisato Fukushima,1988.0,Female,60,NR,Indoor
+7.20,,KAZ,Ust-Kamenogorsk,KAZ,2016-01-29,Viktoriya Zyabkina,1992.0,Female,60,NR,Indoor
+7.32,,KGZ,Bishkek,KGZ,2004-02-07,Yelena Bobrovskaya,1975.0,Female,60,NR,Indoor
+7.63,,KOR,Daegu,KOR,2014-02-26,Kim Min-Ji,1995.0,Female,60,NR,Indoor
+7.89,,KOS,Tirane,ALB,2015-02-02,Rita Hajdini,1998.0,Female,60,NR,Indoor
+8.15,,KSA,Astana,KAZ,2023-02-10,Lujain Ibrahim Alhumaid,1999.0,Female,60,NR,Indoor
+8.16,,LAO,Hanoi,VIE,2009-10-31,Phody Sithideth,1987.0,Female,60,NR,Indoor
+7.32,,LAT,Moskva,URS,1988-02-20,Vineta Ikauniece,1962.0,Female,60,NR,Indoor
+7.51,,LBN,Miramas,FRA,2020-01-25,Aziza Sbaity,1991.0,Female,60,NR,Indoor
+7.33,,LBR,New Haven CT,USA,2015-01-10,Ada Udaya,1992.0,Female,60,NR,Indoor
+6.94,,LCA,Albuquerque NM,USA,2023-03-11,Julien Alfred,2001.0,Female,60,NR,Indoor
+7.79,,LIE,Magglingen,SUI,1991-02-10,Manuela Marxer,1965.0,Female,60,NR,Indoor
+7.23,,LTU,Kaunas,LTU,2003-02-21,Agnė Eggerth,1978.0,Female,60,NR,Indoor
+7.09,,LUX,Luxembourg,LUX,2024-01-21,Patrizia van der Weken,1999.0,Female,60,NR,Indoor
+7.45,,MAC,Astana,KAZ,2023-02-10,Loi Im Lan,1998.0,Female,60,NR,Indoor
+7.21,,MAD,Barcelona,ESP,1995-03-10,Laloa Ravaonirina,1963.0,Female,60,NR,Indoor
+7.56,,MAR,Oviedo,ESP,2003-02-01,Fatima Zahra Dkouk,1977.0,Female,60,NR,Indoor
+7.42,,MDA,Chelyabinsk,URS,1990-02-06,Lilia Mocanu,,Female,60,NR,Indoor
+7.66,,MDV,Astana,KAZ,2023-02-10,Mariyam Ru'ya Ali,2005.0,Female,60,NR,Indoor
+7.08,,MEX,Liévin,FRA,2000-02-13,Liliana Allen,1970.0,Female,60,NR,Indoor
+8.26,,MGL,Macau,MAC,2007-10-30,Erdenebileg Ariuntungalag,1984.0,Female,60,NR,Indoor
+7.71,,MKD,Sofia,BUL,1995-02-11,Marina Damcevska,1962.0,Female,60,NR,Indoor
+7.35,,MLI,Moskva,RUS,2003-02-22,Kadiatou Camara,1981.0,Female,60,NR,Indoor
+7.44,,MLT,Cardiff,GBR,2017-01-28,Charlotte Wingfield,1994.0,Female,60,NR,Indoor
+7.88,,MNE,Beograd,SRB,2009-01-24,Milena Milašević,1984.0,Female,60,NR,Indoor
+7.85,,MON,Miramas,FRA,2019-12-08,Charlotte Afriat,2002.0,Female,60,NR,Indoor
+7.79,,NCA,Moskva,RUS,2006-03-10,Auxiliadora Bonilla Lacayo,1980.0,Female,60,NR,Indoor
+7.00,,NED,Madrid,ESP,1986-02-23,Nelli Cooman,1964.0,Female,60,NR,Indoor
+7.00,,NED,Berlin,GER,2016-02-13,Dafne Schippers,1992.0,Female,60,NR,Indoor
+7.02,,NGR,Liévin,FRA,1998-02-22,Chioma Ajunwa,1970.0,Female,60,NR,Indoor
+7.10,,NOR,Praha,CZE,2015-03-08,Ezinne Okparaebo,1988.0,Female,60,NR,Indoor
+7.94,,NRU,Sopot,POL,2014-03-08,Lovelite Detenamo,1993.0,Female,60,NR,Indoor
+7.13,,NZL,Beograd,SRB,2022-03-18,Zoe Hobbs,1997.0,Female,60,NR,Indoor
+7.78,,OMA,Birmingham,GBR,2018-03-02,Mazoon Al-Alawi,1997.0,Female,60,NR,Indoor
+7.83,,PAK,Pattaya,THA,2005-11-13,Naseem Hameed,1986.0,Female,60,NR,Indoor
+7.63,,PER,Zaragoza,ESP,2022-01-29,Ana Meyrella Cuello,2003.0,Female,60,NR,Indoor
+7.26,,PHI,Fayetteville AR,USA,2021-01-31,Kristina Knott,1995.0,Female,60,NR,Indoor
+7.78,,PLE,Kingston RI,USA,2018-01-20,Hanna Barakat,1999.0,Female,60,NR,Indoor
+7.46,,PNG,Gunnison CO,USA,2024-02-16,Isila Manukip Apkup,1998.0,Female,60,NR,Indoor
+6.99,,POL,Toruń,POL,2022-03-05,Ewa Swoboda,1997.0,Female,60,NR,Indoor
+7.17,,POR,Lisboa,POR,2022-03-06,Lorène Dorcas Bazolo,1983.0,Female,60,NR,Indoor
+7.17,,POR,Istanbul,TUR,2023-03-03,Arialis Martinez,1995.0,Female,60,NR,Indoor
+7.90,,PRK,Macau,MAC,2007-10-30,Choe Son Hwa,1991.0,Female,60,NR,Indoor
+7.37,,PUR,Staten Island NY,USA,2020-02-28,Genoiska Cancel,1988.0,Female,60,NR,Indoor
+8.11,,QAT,Doha,QAT,2016-02-19,Bashair Obaid Al-Manwari,1997.0,Female,60,NR,Indoor
+7.22,,ROU,Bucureşti,ROU,1992-02-07,Iolanda Oanta,1965.0,Female,60,NR,Indoor
+7.22,,ROU,Bacau,ROU,1993-01-23,Mirela Renda,1966.0,Female,60,NR,Indoor
+7.09,,RSA,Metz,FRA,2018-02-11,Carina Horn,1989.0,Female,60,NR,Indoor
+6.92,,RUS,Madrid,ESP,1993-02-11,Irina Privalova,1968.0,Female,60,NR,Indoor
+7.59,,SEY,Lisboa,POR,2001-03-11,Joanna Houareau,1979.0,Female,60,NR,Indoor
+7.74,,SGP,Valencia,ESP,2008-03-07,Amanda Choo Sze-Min,1987.0,Female,60,NR,Indoor
+7.24,,SKN,Karlsruhe,GER,2012-02-12,Tameka Williams,1989.0,Female,60,NR,Indoor
+7.40,,SLE,Albuquerque NM,USA,2016-02-13,Ngozi Musa,1996.0,Female,60,NR,Indoor
+7.17,,SLO,Linz,AUT,2003-03-07,Merlene Ottey,1960.0,Female,60,NR,Indoor
+7.37,,SMR,Ancona,ITA,2024-01-20,Alessandra Gasparelli,2004.0,Female,60,NR,Indoor
+7.31,,SRB,Novi Sad,SRB,2015-01-31,Ivana Španović,1990.0,Female,60,NR,Indoor
+7.09,,SRI,Stuttgart,GER,1999-02-07,Susanthika Jayasinghe,1975.0,Female,60,NR,Indoor
+7.33,,STP,Lisboa,POR,2022-01-16,Gorete Semedo,1996.0,Female,60,NR,Indoor
+6.96,,SUI,Beograd,SRB,2022-03-18,Mujinga Kambundji,1992.0,Female,60,NR,Indoor
+7.43,,SUR,Alamosa CO,USA,2017-02-04,Sunayna Wahi,1990.0,Female,60,NR,Indoor
+7.21,,SVK,Jablonec,TCH,1985-02-09,Eva Murková,1962.0,Female,60,NR,Indoor
+7.13,,SWE,Milano,ITA,1978-03-12,Linda Haglund,1956.0,Female,60,NR,Indoor
+7.54,,SYR,Hanoi,VIE,2009-10-31,Mounira Al-Saleh,1986.0,Female,60,NR,Indoor
+7.28,,THA,Macau,MAC,2007-10-30,Nongnuch Saenrat,1983.0,Female,60,NR,Indoor
+7.44,,TKM,Tehran,IRI,2024-02-18,Valentina Meredova,1984.0,Female,60,NR,Indoor
+7.52,,TOG,Storm Lake IA,USA,2024-02-16,Akouvi Judith Koumedzina,2001.0,Female,60,NR,Indoor
+7.37,,TPE,Barcelona,ESP,1995-03-10,Wang Huei-Chen,1970.0,Female,60,NR,Indoor
+7.09,,TTO,Portland OR,USA,2016-03-19,Michelle-Lee Ahye,1992.0,Female,60,NR,Indoor
+7.21,,TUR,Karlsruhe,GER,2001-01-27,Nora Ivanova-Edletzberger,1977.0,Female,60,NR,Indoor
+7.42,,UGA,Pittsburg KS,USA,2024-01-27,Jacent Nyamahunge,1997.0,Female,60,NR,Indoor
+7.07,,UKR,Madrid,ESP,1993-02-11,Zhanna Block,1972.0,Female,60,NR,Indoor
+7.07,,UKR,Erfurt,GER,2000-02-02,Anzhela Kravchenko,1971.0,Female,60,NR,Indoor
+7.69,,URU,Cochabamba,BOL,2024-01-27,Martina Coronato,2001.0,Female,60,NR,Indoor
+6.94,,USA,Albuquerque NM,USA,2023-02-18,Aleia Hobbs,1996.0,Female,60,NR,Indoor
+7.19,,UZB,Samara,RUS,2005-02-02,Guzel Khubbieva,1976.0,Female,60,NR,Indoor
+7.20,,VEN,Ostrava,CZE,2017-02-14,Andrea Purica,1995.0,Female,60,NR,Indoor
+7.24,,VIE,Hanoi,VIE,2009-10-31,Vu Thi Huong,1986.0,Female,60,NR,Indoor
+7.18,,VIN,Flagstaff AZ,USA,2002-02-09,Natasha Joe-Mayers,1979.0,Female,60,NR,Indoor
+8.91,,YEM,Paris,FRA,1985-01-19,Hikmat Bartouche,,Female,60,NR,Indoor
+8.19,,ZAM,Istanbul,TUR,2012-03-10,Chauzje Choosha,1992.0,Female,60,NR,Indoor
+7.52,,ZIM,Calgary,CAN,2008-01-12,Winnet Dube,1972.0,Female,60,NR,Indoor

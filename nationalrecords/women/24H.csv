@@ -1,2 +1,2 @@
-result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
-67490,DEN,Sæby,DEN,2015-05-30,Bente Jønch Hansen,1967,Female,24H,NR
+result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,environment
+67490,DEN,Sæby,DEN,2015-05-30,Bente Jønch Hansen,1967,Female,24H,NR,Outdoor

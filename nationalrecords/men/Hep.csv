@@ -1,0 +1,75 @@
+result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,environment
+5911,ALG,Paris,FRA,2010-02-28,Larbi Bouraada,1988.0,Male,Hep,NR,Indoor
+4766,AND,Vilafranca,ESP,1998-01-25,Esteve Martín,1975.0,Male,Hep,NR,Indoor
+5608,ARG,Madison WI,USA,2002-01-26,Santiago Lorenzo,1978.0,Male,Hep,NR,Indoor
+6344,AUS,Beograd,SRB,2022-03-19,Ashley Moloney,2000.0,Male,Hep,NR,Indoor
+6065,AUT,Wien,AUT,2010-02-21,Roland Schwarzl,1980.0,Male,Hep,NR,Indoor
+6340,BAH,Champaign IL,USA,2024-01-27,Ken Mullings,1997.0,Male,Hep,NR,Indoor
+5604,BAR,Virginia Beach VA,USA,2023-03-11,Aaron Worrell,1995.0,Male,Hep,NR,Indoor
+6259,BEL,Sopot,POL,2014-03-08,Thomas Van Der Plaetsen,1990.0,Male,Hep,NR,Indoor
+4721,BIH,Beograd,SRB,2024-02-24,Luka Ivicic,2003.0,Male,Hep,NR,Indoor
+6303,BLR,Sopot,POL,2014-03-08,Andrei Krauchanka,1986.0,Male,Hep,NR,Indoor
+5951,BRA,Tallinn,EST,2014-02-08,Carlos Chinin,1985.0,Male,Hep,NR,Indoor
+5853,BUL,Sofia,BUL,1981-03-11,Atanas Andonov,1955.0,Male,Hep,NR,Indoor
+6489,CAN,Beograd,SRB,2022-03-19,Damian Warner,1989.0,Male,Hep,NR,Indoor
+5951,CHI,Fayetteville AR,USA,2008-03-15,Gonzalo Barroilhet,1986.0,Male,Hep,NR,Indoor
+5813,CHN,Chengdu,CHN,2021-03-13,Sun Qihao,2000.0,Male,Hep,NR,Indoor
+5381,CIV,Eaubonne,FRA,2001-02-11,Yves N'Dabian,1983.0,Male,Hep,NR,Indoor
+5667,CRO,Lubbock TX,USA,2022-01-29,Trpimir Široki,1998.0,Male,Hep,NR,Indoor
+5964,CUB,Tallinn,EST,2010-02-13,Leonel Suárez,1987.0,Male,Hep,NR,Indoor
+5895,CYP,Pireás,GRE,2000-02-12,Georgios Andréou,1974.0,Male,Hep,NR,Indoor
+6438,CZE,Budapest,HUN,2004-03-07,Roman Šebrle,1974.0,Male,Hep,NR,Indoor
+5613,DEN,Randers,DEN,2024-02-04,Christian Gundersen,1999.0,Male,Hep,NR,Indoor
+6249,ESP,Praha,CZE,2017-01-29,Jorge Ureña,1993.0,Male,Hep,NR,Indoor
+6374,EST,Maebashi,JPN,1999-03-07,Erki Nool,1970.0,Male,Hep,NR,Indoor
+6479,FRA,Beograd,SRB,2017-03-05,Kevin Mayer,1992.0,Male,Hep,NR,Indoor
+6188,GBR,College Station TX,USA,2018-03-10,Tim Duckworth,1996.0,Male,Hep,NR,Indoor
+6291,GER,Tallinn,EST,2002-02-03,Frank Busemann,1975.0,Male,Hep,NR,Indoor
+6032,GRE,Pireás,GRE,2000-02-12,Pródromos Korkízoglou,1975.0,Male,Hep,NR,Indoor
+6029,GRN,Beograd,SRB,2022-03-19,Lindon Victor,1993.0,Male,Hep,NR,Indoor
+5218,GUA,Lincoln NE,USA,2005-02-05,Octavius Gillespie,1979.0,Male,Hep,NR,Indoor
+5167,GUI,Fayetteville AR,USA,2015-01-31,Moussa Conde,1996.0,Male,Hep,NR,Indoor
+6249,HUN,Valencia,ESP,1998-03-01,Dezsõ Szabó,1967.0,Male,Hep,NR,Indoor
+5650,IND,Manhattan KS,USA,2021-01-30,Tejaswin Shankar,1998.0,Male,Hep,NR,Indoor
+5387,IRI,Tehran,IRI,2004-02-07,Mohammad Ahmad Hosseini,,Male,Hep,NR,Indoor
+5560,IRL,Tallinn,EST,2002-02-03,Joe Naughton,1974.0,Male,Hep,NR,Indoor
+6293,ISL,Maebashi,JPN,1999-03-07,Jón Arnar Magnússon,1969.0,Male,Hep,NR,Indoor
+5680,ISR,Fayetteville AR,USA,2021-01-30,Itamar Basteker,1995.0,Male,Hep,NR,Indoor
+6076,ITA,Ancona,ITA,2021-02-21,Dario Dester,2000.0,Male,Hep,NR,Indoor
+6035,JAM,Fayetteville AR,USA,2005-02-26,Maurice Smith,1980.0,Male,Hep,NR,Indoor
+5831,JPN,Doha,QAT,2016-02-21,Akihiko Nakamura,1990.0,Male,Hep,NR,Indoor
+6229,KAZ,Tallinn,EST,2008-02-16,Dmitriy Karpov,1981.0,Male,Hep,NR,Indoor
+5791,KSA,Hanoi,VIE,2009-11-02,Mohammed Al-Qaree,1988.0,Male,Hep,NR,Indoor
+5228,KUW,Tehran,IRI,2018-02-02,Majed Radhi Mubarak Al-Sayed,1993.0,Male,Hep,NR,Indoor
+4069,LAO,Hanoi,VIE,2009-11-02,Oudomsack Chanthavong,1986.0,Male,Hep,NR,Indoor
+5787,LAT,Riga,LAT,2008-02-23,Edgars Eriņš,1986.0,Male,Hep,NR,Indoor
+4813,LBN,Tehran,IRI,2010-02-25,Ali Hazer,1984.0,Male,Hep,NR,Indoor
+5675,LCA,Manhattan KS,USA,1999-01-16,Dominic Johnson,1975.0,Male,Hep,NR,Indoor
+5937,LTU,Tallinn,EST,2023-02-05,Edgaras Benkunskas,1999.0,Male,Hep,NR,Indoor
+5382,LUX,Ludwigshafen,GER,1996-03-03,Bernard Felten,1965.0,Male,Hep,NR,Indoor
+5175,MDA,Chisinau,MDA,2002-02-09,Victor Covalenco,1975.0,Male,Hep,NR,Indoor
+3733,MLT,London,GBR,2016-12-18,Kevin Cranmer,1979.0,Male,Hep,NR,Indoor
+6036,MNE,Beograd,SRB,2021-02-07,Darko Pešić,1992.0,Male,Hep,NR,Indoor
+6372,NED,Göteborg/Sc,SWE,2013-03-03,Eelco Sintnicolaas,1987.0,Male,Hep,NR,Indoor
+4631,NGR,Cardiff,GBR,2003-03-23,Lee Okoroafor,1976.0,Male,Hep,NR,Indoor
+6318,NOR,Istanbul,TUR,2023-03-05,Sander Aae Skotheim,2002.0,Male,Hep,NR,Indoor
+5819,NZL,Fayetteville AR,USA,2019-01-26,Aaron Booth,1996.0,Male,Hep,NR,Indoor
+4211,OMA,Rasht,IRI,2001-02-09,Yahya Al-Hashmi,,Male,Hep,NR,Indoor
+6415,POL,Valencia,ESP,1998-03-01,Sebastian Chmara,1971.0,Male,Hep,NR,Indoor
+5980,POR,Pombal,POR,2018-02-11,Samuel Remédios,1992.0,Male,Hep,NR,Indoor
+5391,QAT,Doha,QAT,2016-02-21,Mohammed R.A. Al-Mannai,1992.0,Male,Hep,NR,Indoor
+5562,ROU,Bucureşti,ROU,2012-02-29,Bogdan Popa,1985.0,Male,Hep,NR,Indoor
+6412,RUS,Moskva,RUS,2003-02-08,Lev Lobodin,1969.0,Male,Hep,NR,Indoor
+5475,SKN,Norman OK,USA,2010-02-27,Adolphus Jones,1984.0,Male,Hep,NR,Indoor
+5894,SLO,Linz,AUT,2004-02-15,Ranko Leskovar,1977.0,Male,Hep,NR,Indoor
+6099,SRB,Göteborg/Sc,SWE,2013-03-03,Mihail Dudaš,1989.0,Male,Hep,NR,Indoor
+6363,SUI,Beograd,SRB,2022-03-19,Simon Ehammer,2000.0,Male,Hep,NR,Indoor
+5712,SVK,Praha,CZE,2009-02-08,Slaven Dizdarevič,1981.0,Male,Hep,NR,Indoor
+6142,SWE,Barcelona,ESP,1995-03-12,Henrik Dagård,1969.0,Male,Hep,NR,Indoor
+5332,THA,Ashgabat,TKM,2017-09-20,Sutthisak Singkhon,1996.0,Male,Hep,NR,Indoor
+5563,TPE,Pattaya,THA,2006-02-12,Hsiao Szu-Pin,1980.0,Male,Hep,NR,Indoor
+5733,TUN,Aubière,FRA,2003-03-01,Hamdi Dhouibi,1982.0,Male,Hep,NR,Indoor
+5639,TUR,Bursa,TUR,2022-12-25,Ilkay Aydemir,1998.0,Male,Hep,NR,Indoor
+6254,UKR,Zaporizhzhya,UKR,2010-01-30,Oleksiy Kasyanov,1985.0,Male,Hep,NR,Indoor
+6645,USA,Istanbul,TUR,2012-03-10,Ashton Eaton,1988.0,Male,Hep,NR,Indoor
+5542,YUG,Budapest,HUN,2000-01-30,Fedja Kamasi,1975.0,Male,Hep,NR,Indoor

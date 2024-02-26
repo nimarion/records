@@ -1,74 +1,78 @@
-result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
-26:58.30,ALB,Korçe,ALB,1996-08-01,Mimoza Xhafa,1975,Female,5000W,NR
-22:58.04,ALG,Bejaia,ALG,2021-02-27,Souad Azzi,1999,Female,5000W,NR
-31:10.95,AND,Andorra,AND,1990-06-17,Montserrat Sanchez,1973,Female,5000W,NR
-20:03.0,AUS,Sydney,AUS,1996-02-11,Kerry Saxby-Junna,1961,Female,5000W,NR
-22:10.32,AUT,Schwechat,AUT,1992-07-01,Vera Toporek,1967,Female,5000W,NR
-22:55.0,AZE,Baku,URS,1988-01-01,Albina Lesnikova,1965,Female,5000W,NR
-23:18.2,BEL,Villeneuve d'Ascq,FRA,1987-05-28,Sabine Desmet,1971,Female,5000W,NR
-22:11.27,BOL,Xalapa,MEX,2002-06-29,Ariana Quino,1983,Female,5000W,NR
-34:24.22,BOT,Gaborone,BOT,2011-05-15,Ogomoditse Mbodza,,Female,5000W,NR
-20:34.76,CHN,Tianjin,CHN,2012-09-16,Liu Hong,1987,Female,5000W,NR
-29:03.9,CIV,Abidjan,CIV,2008-06-08,Agnes Kra-Bou,,Female,5000W,NR
-24:39.3,CMR,Yaoundé,CMR,2000-07-01,Anne Hortense Ebena,,Female,5000W,NR
-29:30.81,COD,Alger,ALG,2018-05-25,Gracia Ladisa,,Female,5000W,NR
-33:46.1,COM,Antananarivo,MAD,2007-08-16,Bafakihi Nouher,,Female,5000W,NR
-23:18.14,CRC,San José3,CRC,2021-07-10,Sharon Lisseth Herrera Soto,2004,Female,5000W,NR
-22:33.93,CRO,Budapest,HUN,2019-06-21,Ivana Renić,1996,Female,5000W,NR
-22:39.0,CUB,Sancti Spiritus,CUB,1998-06-07,Oslaidis Cruz,1974,Female,5000W,NR
-20:48.75,CZE,Uherské Hradiště,CZE,2018-08-26,Anežka Drahotová,1995,Female,5000W,NR
-23:25.4,DEN,Taastrup,DEN,1985-09-21,Gunhild Kristiansen,1963,Female,5000W,NR
-23:23.2,EGY,El Maadi,EGY,1999-09-30,Nagwa Ibrahim Ali,1975,Female,5000W,NR
-20:28.17,ESP,Andújar,ESP,2022-04-30,Mária Pérez,1996,Female,5000W,NR
-21:43.45,EST,Valmiera,LAT,2022-07-30,Jekaterina Mirotvortseva,2002,Female,5000W,NR
-22:48.25,ETH,Cali,COL,2015-07-18,Ayalnesh Dejene,1998,Female,5000W,NR
-20:28.62,FIN,Tuusula,FIN,1994-07-09,Sari Essayah,1967,Female,5000W,NR
-21:26.05,FRA,Blois,FRA,2017-06-17,Émilie Menuet,1991,Female,5000W,NR
-20:46.58,GBR,Sydney,AUS,2009-02-14,Jo Atkinson,1985,Female,5000W,NR
-20:11.45,GER,Wattenscheid,GER,2005-07-02,Sabine Krantz,1981,Female,5000W,NR
-25:48.08,GHA,Cesenatico,ITA,2007-10-06,Sabine Sobo Blay,1990,Female,5000W,NR
-21:37.7,GRE,Thessaloníki,GRE,1999-04-17,Hristína Deskou,1973,Female,5000W,NR
-22:17.57,HKG,Abashiri,JPN,2018-07-04,Jessica Ching Siu Nga,1987,Female,5000W,NR
-21:01.41,HUN,Székesfehérvár,HUN,2020-09-05,Viktória Madarász,1985,Female,5000W,NR
-22:05.75,IND,Moodbridi,IND,2015-01-19,Khushbir Kaur,1993,Female,5000W,NR
-27:53.4,IRI,Tehran,IRI,2005-07-17,Ameneh Safavi,,Female,5000W,NR
-20:02.60,IRL,Dublin,IRL,2002-07-14,Gillian O'Sullivan,1976,Female,5000W,NR
-23:44.10,ISR,Tel Aviv,ISR,1998-04-28,Yulia Kotler,1976,Female,5000W,NR
-20:01.80,ITA,Misterbianco,ITA,2014-05-18,Eleonora Giorgi,1989,Female,5000W,NR
-20:42.25,JPN,Kumagaya,JPN,2019-05-19,Kumiko Okada,1991,Female,5000W,NR
-21:01.11,KAZ,Almaty,KAZ,1999-05-23,Svetlana Tolstaya,1971,Female,5000W,NR
-21:53.31,KOR,Sokcho,KOR,2001-04-18,Kim Mi-Jung,1979,Female,5000W,NR
-21:03.15,LAT,Valmiera,LAT,2013-07-20,Agnese Pastare,1988,Female,5000W,NR
-21:17.8,LTU,Valga,EST,2014-05-17,Brigita Virbalytė-Dimšienė,1985,Female,5000W,NR
-25:52.00,MAD,Antananarivo,MAD,2007-06-22,Lucie Raharimirja,,Female,5000W,NR
-22:34.7,MAR,Tivoli,ITA,2018-05-27,Fatima Lotfi,1992,Female,5000W,NR
-21:30.9,MAS,Kuala Lumpur,MAS,1998-03-08,Yuan Yufang,1976,Female,5000W,NR
-21:52.01,MEX,Xalapa,MEX,2002-06-29,Rosario Sánchez,1973,Female,5000W,NR
-32:49.00,MLT,UNKNOWN,???,2002-05-04,Catherine Caruana,,Female,5000W,NR
-23:22.62,MNE,Beograd,SRB,2001-06-16,Ankica Barzut,1982,Female,5000W,NR
-27:03.1,MOZ,Maputo,MOZ,2001-06-02,Hamida Mabunda,,Female,5000W,NR
-24:44.49,MRI,Bambous,MRI,2003-08-23,Yolande Raffin,1981,Female,5000W,NR
-23:52.6,NED,Sittard,NED,1983-05-22,Marcia Onos-Zethof,1956,Female,5000W,NR
-29:25.04,NEP,Sudbury,CAN,1988-07-31,Indra Mala,1969,Female,5000W,NR
-28:19.0,NFI,Middlegate,USA,1997-03-16,Angela Keogh,1962,Female,5000W,NR
-23:20.30,NGR,Akure,NGR,2021-01-30,Olude Fadekemi,1998,Female,5000W,NR
-20:37.83,NOR,Førde,NOR,2001-08-09,Kjersti Tysse Plätzer,1972,Female,5000W,NR
-20:59.7,NZL,Brunflo,SWE,1992-06-28,Anne-Marie Judkins,1964,Female,5000W,NR
-20:51.93,POL,Sopot,POL,1993-06-20,Katarzyna Radtke,1969,Female,5000W,NR
-20:36.40,POR,Kraków,POL,2001-09-06,Susana Feitor,1975,Female,5000W,NR
-20:29.63,ROU,Istanbul,TUR,1999-06-19,Claudia Ştef,1978,Female,5000W,NR
-22:19.64,RSA,Durban,RSA,2004-03-05,Nicolene Cronje,1983,Female,5000W,NR
-20:28.05,RUS,Ostrava,CZE,2007-07-12,Tatyana Kalmykova,1990,Female,5000W,NR
-28:45.22,SEN,Bovisio Masciago,ITA,2015-05-10,Ami Sow,,Female,5000W,NR
-25:30.39,SLO,Trieste,ITA,2019-09-14,Eva Čanadi,2000,Female,5000W,NR
-26:05.60,STP,São Tome,STP,2005-03-15,Fumilay Fonseca,1988,Female,5000W,NR
-21:49.3,SUI,Tesserete,SUI,2014-07-27,Laura Polli,1983,Female,5000W,NR
-21:19.95,SVK,Banská Bystrica,SVK,2007-05-06,Zuzana Malíková,1983,Female,5000W,NR
-21:09.26,SWE,København,DEN,1992-08-25,Madelein Svensson,1969,Female,5000W,NR
-31:38.1,TAN,Mwanza,TAN,1989-07-06,Eliza Msalu,,Female,5000W,NR
-20:50.03,TUN,Radès,TUN,2021-06-23,Chahineze Nasri,1996,Female,5000W,NR
-21:35.87,TUR,Ankara,TUR,2019-05-25,Meryem Bekmez,2000,Female,5000W,NR
-27:56.2,UGA,Kampala,UGA,2005-07-29,Jane Suuto,1978,Female,5000W,NR
-20:15.71,UKR,Kyiv,UKR,2014-06-04,Lyudmyla Olyanovska,1993,Female,5000W,NR
-20:56.88,USA,Philadelphia PA,USA,1996-04-27,Michelle Rohl,1965,Female,5000W,NR
-22:35.76,VIE,Ho Chi Minh,VIE,2013-07-21,Phuc Nguyen Thi Thanh,1990,Female,5000W,NR
+result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,environment
+26:58.30,ALB,Korçe,ALB,1996-08-01,Mimoza Xhafa,1975.0,Female,5000W,NR,Outdoor
+22:58.04,ALG,Bejaia,ALG,2021-02-27,Souad Azzi,1999.0,Female,5000W,NR,Outdoor
+31:10.95,AND,Andorra,AND,1990-06-17,Montserrat Sanchez,1973.0,Female,5000W,NR,Outdoor
+20:03.0,AUS,Sydney,AUS,1996-02-11,Kerry Saxby-Junna,1961.0,Female,5000W,NR,Outdoor
+22:10.32,AUT,Schwechat,AUT,1992-07-01,Vera Toporek,1967.0,Female,5000W,NR,Outdoor
+22:55.0,AZE,Baku,URS,1988-01-01,Albina Lesnikova,1965.0,Female,5000W,NR,Outdoor
+23:18.2,BEL,Villeneuve d'Ascq,FRA,1987-05-28,Sabine Desmet,1971.0,Female,5000W,NR,Outdoor
+22:11.27,BOL,Xalapa,MEX,2002-06-29,Ariana Quino,1983.0,Female,5000W,NR,Outdoor
+34:24.22,BOT,Gaborone,BOT,2011-05-15,Ogomoditse Mbodza,,Female,5000W,NR,Outdoor
+20:34.76,CHN,Tianjin,CHN,2012-09-16,Liu Hong,1987.0,Female,5000W,NR,Outdoor
+29:03.9,CIV,Abidjan,CIV,2008-06-08,Agnes Kra-Bou,,Female,5000W,NR,Outdoor
+24:39.3,CMR,Yaoundé,CMR,2000-07-01,Anne Hortense Ebena,,Female,5000W,NR,Outdoor
+29:30.81,COD,Alger,ALG,2018-05-25,Gracia Ladisa,,Female,5000W,NR,Outdoor
+33:46.1,COM,Antananarivo,MAD,2007-08-16,Bafakihi Nouher,,Female,5000W,NR,Outdoor
+23:18.14,CRC,San José3,CRC,2021-07-10,Sharon Lisseth Herrera Soto,2004.0,Female,5000W,NR,Outdoor
+22:33.93,CRO,Budapest,HUN,2019-06-21,Ivana Renić,1996.0,Female,5000W,NR,Outdoor
+22:39.0,CUB,Sancti Spiritus,CUB,1998-06-07,Oslaidis Cruz,1974.0,Female,5000W,NR,Outdoor
+20:48.75,CZE,Uherské Hradiště,CZE,2018-08-26,Anežka Drahotová,1995.0,Female,5000W,NR,Outdoor
+23:25.4,DEN,Taastrup,DEN,1985-09-21,Gunhild Kristiansen,1963.0,Female,5000W,NR,Outdoor
+23:23.2,EGY,El Maadi,EGY,1999-09-30,Nagwa Ibrahim Ali,1975.0,Female,5000W,NR,Outdoor
+20:28.17,ESP,Andújar,ESP,2022-04-30,Mária Pérez,1996.0,Female,5000W,NR,Outdoor
+21:43.45,EST,Valmiera,LAT,2022-07-30,Jekaterina Mirotvortseva,2002.0,Female,5000W,NR,Outdoor
+22:48.25,ETH,Cali,COL,2015-07-18,Ayalnesh Dejene,1998.0,Female,5000W,NR,Outdoor
+20:28.62,FIN,Tuusula,FIN,1994-07-09,Sari Essayah,1967.0,Female,5000W,NR,Outdoor
+21:26.05,FRA,Blois,FRA,2017-06-17,Émilie Menuet,1991.0,Female,5000W,NR,Outdoor
+20:46.58,GBR,Sydney,AUS,2009-02-14,Jo Atkinson,1985.0,Female,5000W,NR,Outdoor
+20:11.45,GER,Wattenscheid,GER,2005-07-02,Sabine Krantz,1981.0,Female,5000W,NR,Outdoor
+25:48.08,GHA,Cesenatico,ITA,2007-10-06,Sabine Sobo Blay,1990.0,Female,5000W,NR,Outdoor
+21:37.7,GRE,Thessaloníki,GRE,1999-04-17,Hristína Deskou,1973.0,Female,5000W,NR,Outdoor
+22:17.57,HKG,Abashiri,JPN,2018-07-04,Jessica Ching Siu Nga,1987.0,Female,5000W,NR,Outdoor
+21:01.41,HUN,Székesfehérvár,HUN,2020-09-05,Viktória Madarász,1985.0,Female,5000W,NR,Outdoor
+22:05.75,IND,Moodbridi,IND,2015-01-19,Khushbir Kaur,1993.0,Female,5000W,NR,Outdoor
+27:53.4,IRI,Tehran,IRI,2005-07-17,Ameneh Safavi,,Female,5000W,NR,Outdoor
+20:02.60,IRL,Dublin,IRL,2002-07-14,Gillian O'Sullivan,1976.0,Female,5000W,NR,Outdoor
+23:44.10,ISR,Tel Aviv,ISR,1998-04-28,Yulia Kotler,1976.0,Female,5000W,NR,Outdoor
+20:01.80,ITA,Misterbianco,ITA,2014-05-18,Eleonora Giorgi,1989.0,Female,5000W,NR,Outdoor
+20:42.25,JPN,Kumagaya,JPN,2019-05-19,Kumiko Okada,1991.0,Female,5000W,NR,Outdoor
+21:01.11,KAZ,Almaty,KAZ,1999-05-23,Svetlana Tolstaya,1971.0,Female,5000W,NR,Outdoor
+21:53.31,KOR,Sokcho,KOR,2001-04-18,Kim Mi-Jung,1979.0,Female,5000W,NR,Outdoor
+21:03.15,LAT,Valmiera,LAT,2013-07-20,Agnese Pastare,1988.0,Female,5000W,NR,Outdoor
+21:17.8,LTU,Valga,EST,2014-05-17,Brigita Virbalytė-Dimšienė,1985.0,Female,5000W,NR,Outdoor
+25:52.00,MAD,Antananarivo,MAD,2007-06-22,Lucie Raharimirja,,Female,5000W,NR,Outdoor
+22:34.7,MAR,Tivoli,ITA,2018-05-27,Fatima Lotfi,1992.0,Female,5000W,NR,Outdoor
+21:30.9,MAS,Kuala Lumpur,MAS,1998-03-08,Yuan Yufang,1976.0,Female,5000W,NR,Outdoor
+21:52.01,MEX,Xalapa,MEX,2002-06-29,Rosario Sánchez,1973.0,Female,5000W,NR,Outdoor
+32:49.00,MLT,UNKNOWN,???,2002-05-04,Catherine Caruana,,Female,5000W,NR,Outdoor
+23:22.62,MNE,Beograd,SRB,2001-06-16,Ankica Barzut,1982.0,Female,5000W,NR,Outdoor
+27:03.1,MOZ,Maputo,MOZ,2001-06-02,Hamida Mabunda,,Female,5000W,NR,Outdoor
+24:44.49,MRI,Bambous,MRI,2003-08-23,Yolande Raffin,1981.0,Female,5000W,NR,Outdoor
+23:52.6,NED,Sittard,NED,1983-05-22,Marcia Onos-Zethof,1956.0,Female,5000W,NR,Outdoor
+29:25.04,NEP,Sudbury,CAN,1988-07-31,Indra Mala,1969.0,Female,5000W,NR,Outdoor
+28:19.0,NFI,Middlegate,USA,1997-03-16,Angela Keogh,1962.0,Female,5000W,NR,Outdoor
+23:20.30,NGR,Akure,NGR,2021-01-30,Olude Fadekemi,1998.0,Female,5000W,NR,Outdoor
+20:37.83,NOR,Førde,NOR,2001-08-09,Kjersti Tysse Plätzer,1972.0,Female,5000W,NR,Outdoor
+20:59.7,NZL,Brunflo,SWE,1992-06-28,Anne-Marie Judkins,1964.0,Female,5000W,NR,Outdoor
+20:51.93,POL,Sopot,POL,1993-06-20,Katarzyna Radtke,1969.0,Female,5000W,NR,Outdoor
+20:36.40,POR,Kraków,POL,2001-09-06,Susana Feitor,1975.0,Female,5000W,NR,Outdoor
+20:29.63,ROU,Istanbul,TUR,1999-06-19,Claudia Ştef,1978.0,Female,5000W,NR,Outdoor
+22:19.64,RSA,Durban,RSA,2004-03-05,Nicolene Cronje,1983.0,Female,5000W,NR,Outdoor
+20:28.05,RUS,Ostrava,CZE,2007-07-12,Tatyana Kalmykova,1990.0,Female,5000W,NR,Outdoor
+28:45.22,SEN,Bovisio Masciago,ITA,2015-05-10,Ami Sow,,Female,5000W,NR,Outdoor
+25:30.39,SLO,Trieste,ITA,2019-09-14,Eva Čanadi,2000.0,Female,5000W,NR,Outdoor
+26:05.60,STP,São Tome,STP,2005-03-15,Fumilay Fonseca,1988.0,Female,5000W,NR,Outdoor
+21:49.3,SUI,Tesserete,SUI,2014-07-27,Laura Polli,1983.0,Female,5000W,NR,Outdoor
+21:19.95,SVK,Banská Bystrica,SVK,2007-05-06,Zuzana Malíková,1983.0,Female,5000W,NR,Outdoor
+21:09.26,SWE,København,DEN,1992-08-25,Madelein Svensson,1969.0,Female,5000W,NR,Outdoor
+31:38.1,TAN,Mwanza,TAN,1989-07-06,Eliza Msalu,,Female,5000W,NR,Outdoor
+20:50.03,TUN,Radès,TUN,2021-06-23,Chahineze Nasri,1996.0,Female,5000W,NR,Outdoor
+21:35.87,TUR,Ankara,TUR,2019-05-25,Meryem Bekmez,2000.0,Female,5000W,NR,Outdoor
+27:56.2,UGA,Kampala,UGA,2005-07-29,Jane Suuto,1978.0,Female,5000W,NR,Outdoor
+20:15.71,UKR,Kyiv,UKR,2014-06-04,Lyudmyla Olyanovska,1993.0,Female,5000W,NR,Outdoor
+20:56.88,USA,Philadelphia PA,USA,1996-04-27,Michelle Rohl,1965.0,Female,5000W,NR,Outdoor
+22:35.76,VIE,Ho Chi Minh,VIE,2013-07-21,Phuc Nguyen Thi Thanh,1990.0,Female,5000W,NR,Outdoor
+20:37.73,BLR,Minsk,BLR,2001-02-02,Ryta Turava,1980.0,Female,5000W,NR,Indoor
+21:44.52,ITA,Torino,ITA,1985-02-20,Giuliana Salce,1955.0,Female,5000W,NR,Indoor
+22:26.33,POL,Yaroslavl,RUS,2015-01-17,Agnieszka Yarokhau,1986.0,Female,5000W,NR,Indoor
+20:50.56,UKR,Kyiv,UKR,2024-01-20,Lyudmyla Olyanovska,1993.0,Female,5000W,NR,Indoor

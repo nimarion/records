@@ -18,19 +18,19 @@ jobs:
         run: pip install -r requirements.txt
       - name: Run
         run: |
-          python main.py
-          python taf.py
-          python pfingsten2024.py
           python worldrecords.py
+          python arearecords.py
           python nationalrecords.py
+          python cleanup.py --input worldrecords
+          python cleanup.py --input nationalrecords
+          python cleanup.py --input arearecords
+          python taf.py
           git config user.name Github Action
           git config user.email actions@github.com
           git add nationalrecords/*
           git add worldrecords/*
           git add arearecords/*
           git add taf.csv
-          git add taf.xlsx
-          git add pfingsten2024.xlsx
           timestamp=$(date -u)
           git commit -m "update records data: ${timestamp}" || exit 0
           git push

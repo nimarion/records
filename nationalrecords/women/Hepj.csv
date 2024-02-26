@@ -1,2 +1,2 @@
-result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
-4888,CZE,Warszawa,POL,2023-05-14,Sofia Wydra,2006,Female,Hepj,NR
+result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,environment
+4888,CZE,Warszawa,POL,2023-05-14,Sofia Wydra,2006,Female,Hepj,NR,Outdoor

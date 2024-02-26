@@ -1,162 +1,229 @@
-result,nation,venue,venueCountry,date,name,sex,event,type
-3:20.77,AFG,Bhubaneswar,IND,2017-07-09,Afghanistan,Male,4x4,NR
-3:15.66,AHO,Miramar FL,USA,2010-07-11,Netherlands Antilles,Male,4x4,NR
-3:17.30,ALB,Pitesti,ROU,2016-06-26,Albania,Male,4x4,NR
-3:02.78,ALG,Bari,ITA,1997-06-18,Algeria,Male,4x4,NR
-3:22.68,AND,Limassol,CYP,2021-06-20,Andorra,Male,4x4,NR
-3:12.92,ANG,Cairo,EGY,1991-09-26,Angola,Male,4x4,NR
-3:09.46,ANT,Atlanta GA,USA,1996-08-02,Antigua & Barbuda,Male,4x4,NR
-3:04.39,ARG,Cascavel,BRA,2022-10-01,Argentina,Male,4x4,NR
-3:16.0,ARM,Moskva,URS,1967-07-30,Armenia,Male,4x4,NR
-2:59.70,AUS,Los Angeles CA,USA,1984-08-11,Australia,Male,4x4,NR
-3:02.95,AUT,Athína,GRE,1997-08-09,Austria,Male,4x4,NR
-3:09.15,AZE,Tashkent,URS,1986-09-20,Azerbaijan,Male,4x4,NR
-2:56.72,BAH,London,GBR,2012-08-10,Bahamas,Male,4x4,NR
-3:12.41,BAN,Dhaka,BAN,1993-12-25,Bangladesh,Male,4x4,NR
-3:01.60,BAR,Los Angeles CA,USA,1984-08-11,Barbados,Male,4x4,NR
-3:06.19,BDI,Nairobi,KEN,1987-08-11,Burundi,Male,4x4,NR
-2:57.88,BEL,Tokyo,JPN,2021-08-07,Belgium,Male,4x4,NR
-3:11.71,BEN,Ouagadougou,BUR,2007-05-27,Benin,Male,4x4,NR
-3:11.30,BER,Indianapolis IN,USA,1987-08-16,Bermuda,Male,4x4,NR
-3:09.47,BIH,Pitesti,ROU,2016-06-26,Bosnia-Herzegovina,Male,4x4,NR
-3:16.80,BIZ,San Pedro Sula,USA,1997-12-13,Belize,Male,4x4,NR
-3:03.78,BLR,Plovdiv,BUL,2004-06-20,Belarus,Male,4x4,NR
-3:17.25,BOL,La Paz,BOL,1977-10-22,Bolivia,Male,4x4,NR
-2:57.27,BOT,Tokyo,JPN,2021-08-07,Botswana,Male,4x4,NR
-2:58.56,BRA,Winnipeg,CAN,1999-07-30,Brazil,Male,4x4,NR
-3:03.97,BRN,Jakarta,INA,2018-08-30,Bahrain,Male,4x4,NR
-3:21.41,BRU,Manila,PHI,1991-03-12,Brunei,Male,4x4,NR
-3:01.61,BUL,Stuttgart,GER,1993-08-21,Bulgaria,Male,4x4,NR
-3:13.91,BUR,Lomé,TOG,2006-05-14,Burkina Faso,Male,4x4,NR
-3:11.91,CAF,Bondoufle,FRA,1994-07-13,Central African Republic,Male,4x4,NR
-3:02.64,CAN,Montréal,CAN,1976-07-31,Canada,Male,4x4,NR
-3:11.28,CGO,Bucureşti,ROU,1981-07-26,Congo,Male,4x4,NR
-3:14.9,CHA,Libreville,GAB,1976-07-08,Chad,Male,4x4,NR
-3:03.55,CHN,Doha,QAT,2019-04-24,China,Male,4x4,NR
-3:03.50,CIV,Los Angeles CA,USA,1984-08-10,Ivory Coast,Male,4x4,NR
-3:20.4,COD,Kinshasa,CMR,2000-08-15,Democratic Republic of Congo,Male,4x4,NR
-2:59.50,COL,Doha,QAT,2019-10-06,Colombia,Male,4x4,NR
-3:15.75,COM,Victoria2,SEY,2011-08-14,Comoros,Male,4x4,NR
-3:20.62,CPV,Goa,IND,2014-01-25,Cape Verde Islands,Male,4x4,NR
-3:05.11,CRC,Toronto,CAN,2015-07-24,Costa Rica,Male,4x4,NR
-3:05.42,CRO,Ljubljana,SLO,2000-07-25,Croatia,Male,4x4,NR
-3:11.16,CYP,Beograd,SRB,1998-06-07,Cyprus,Male,4x4,NR
-3:00.99,CZE,Budapest,HUN,2023-08-26,Czech Republic,Male,4x4,NR
-3:07.08,DEN,Uden,NED,2011-07-02,Denmark,Male,4x4,NR
-3:28.4,DJI,Djibouti,DJI,2008-04-19,Djibouti,Male,4x4,NR
-3:00.15,DOM,Beijing,CHN,2015-08-29,Dominican Republic,Male,4x4,NR
-3:06.94,ECU,Nairobi,KEN,2021-08-21,Ecuador,Male,4x4,NR
-3:08.18,EGY,Cairo,EGY,1985-08-12,Egypt,Male,4x4,NR
-3:18.3,ERI,Asmara,ERI,2013-06-09,Eritrea,Male,4x4,NR
-3:00.54,ESP,München,GER,2022-08-20,Spain,Male,4x4,NR
-3:06.07,EST,Iráklio,GRE,2015-06-21,Estonia,Male,4x4,NR
-3:05.6,ETH,Addis Ababa,ETH,2014-05-15,Ethiopia,Male,4x4,NR
-3:07.15,FIJ,Kuala Lumpur,MAS,1998-09-20,Fiji,Male,4x4,NR
-3:01.12,FIN,München,FRG,1972-09-10,Finland,Male,4x4,NR
-2:58.45,FRA,Budapest,HUN,2023-08-27,France,Male,4x4,NR
-3:14.1,GAB,Yaoundé,CMR,1995-04-16,Gabon,Male,4x4,NR
-3:10.44,GAM,Warri,NGR,2014-06-13,Gambia,Male,4x4,NR
-2:56.60,GBR,Atlanta GA,USA,1996-08-03,Great Britain,Male,4x4,NR
-3:28.69,GBS,Bissau,GBS,2007-06-03,Guinea Bissau,Male,4x4,NR
-3:10.80,GEO,Tashkent,URS,1967-08-22,Georgia,Male,4x4,NR
-3:42.93,GEQ,Yaoundé,CMR,2002-04-20,Equatorial Guinea,Male,4x4,NR
-2:59.86,GER,Erfurt,GER,1985-06-23,Germany,Male,4x4,NR
-3:04.76,GHA,Warri,NGR,2015-07-24,Ghana,Male,4x4,NR
-3:20.29,GIB,Rhodes,GRE,2007-07-06,Gibraltar,Male,4x4,NR
-3:02.21,GRE,München,GER,2007-06-24,Greece,Male,4x4,NR
-3:04.27,GRN,Mayaguez,PUR,2011-07-17,Grenada,Male,4x4,NR
-3:22.4,GUI,Conakry,GUI,1988-05-28,Guinea,Male,4x4,NR
-3:11.28,HKG,Incheon,KOR,2014-09-29,Hong Kong,Male,4x4,NR
-3:02.65,HUN,Budapest,HUN,2023-08-26,Hungary,Male,4x4,NR
-2:59.05,IND,Budapest,HUN,2023-08-26,India,Male,4x4,NR
-3:07.87,IRI,Aleppo,SYR,2010-09-20,Iran,Male,4x4,NR
-3:01.26,IRL,Beijing,CHN,2015-08-29,Ireland,Male,4x4,NR
-3:10.36,ISL,Edinburgh,GBR,1983-07-31,Iceland,Male,4x4,NR
-3:09.93,ISR,Kaunas,LTU,2013-06-23,Israel,Male,4x4,NR
-2:58.81,ITA,Tokyo,JPN,2021-08-07,Italy,Male,4x4,NR
-3:11.03,IVB,St. Georges,GRN,2017-07-02,British Virgin Islands,Male,4x4,NR
-2:56.75,JAM,Athína,GRE,1997-08-10,Jamaica,Male,4x4,NR
-2:59.51,JPN,Eugene OR,USA,2022-07-24,Japan,Male,4x4,NR
-3:07.66,KAZ,Napoli,ITA,2019-07-13,Kazakhstan,Male,4x4,NR
-2:59.63,KEN,Barcelona,ESP,1992-08-07,Kenya,Male,4x4,NR
-3:04.03,KOR,Incheon,KOR,2014-10-02,South Korea,Male,4x4,NR
-3:16.87,KOS,Pitesti,ROU,2016-06-26,Kosovo,Male,4x4,NR
-3:02.30,KSA,Guangzhou,CHN,2010-11-26,Saudi Arabia,Male,4x4,NR
-3:04.82,KUW,Beyrouth,LBN,2001-04-07,Kuwait,Male,4x4,NR
-3:04.30,LAT,Athína,GRE,1997-08-09,Latvia,Male,4x4,NR
-3:10.00,LBA,Pescara,ITA,2009-07-03,Libya,Male,4x4,NR
-3:11.74,LBN,Kinshasa,COD,2023-08-04,Lebanon,Male,4x4,NR
-3:09.25,LBR,Burnaby,CAN,2005-06-14,Liberia,Male,4x4,NR
-3:15.67,LES,Atlanta GA,USA,1996-08-02,Lesotho,Male,4x4,NR
-3:25.20,LIE,Andorra,AND,1991-05-25,Liechtenstein,Male,4x4,NR
-3:09.65,LTU,Vilnius,LTU,2023-07-07,Lithuania,Male,4x4,NR
-3:14.45,LUX,Luxembourg,LUX,2013-06-01,Luxembourg,Male,4x4,NR
-3:21.64,MAC,Zhongshan,CHN,2005-04-24,Macao,Male,4x4,NR
-3:08.0,MAD,Antananarivo,MAD,1997-09-05,Madagascar,Male,4x4,NR
-3:02.11,MAR,Tokyo,JPN,1991-08-31,Morocco,Male,4x4,NR
-3:11.97,MAW,Nairobi,KEN,1987-08-11,Malawi,Male,4x4,NR
-3:07.65,MDA,Kyiv,URS,1988-08-16,Moldova,Male,4x4,NR
-3:02.89,MEX,Napoli,ITA,2019-07-13,Mexico,Male,4x4,NR
-3:12.42,MIX,Marsa,MLT,2023-06-03,Mixed team,Male,4x4,NR
-3:17.9,MKD,Kraljevo,YUG,1980-05-31,Former Yugoslav Republic of Macedonia,Male,4x4,NR
-3:11.84,MLI,Niamey,NIG,2019-07-19,Mali,Male,4x4,NR
-3:16.18,MLT,Marsa,MLT,2003-06-07,Malta,Male,4x4,NR
-3:19.87,MNE,Baku,AZE,2015-06-22,Montenegro,Male,4x4,NR
-3:15.46,MON,Serravalle,SMR,2017-06-04,Monaco,Male,4x4,NR
-3:08.95,MOZ,Los Angeles CA,USA,1984-08-10,Mozambique,Male,4x4,NR
-3:06.21,MRI,Harare,ZIM,1995-09-13,Mauritius,Male,4x4,NR
-3:20.42,MTN,Nouakchott,MTN,2004-04-17,Mauritania,Male,4x4,NR
-3:07.83,NAM,Gaborone,BOT,2019-04-27,Namibia,Male,4x4,NR
-2:57.18,NED,Tokyo,JPN,2021-08-07,Netherlands,Male,4x4,NR
-3:14.89,NEP,Kathmandu,NEP,1999-09-29,Nepal,Male,4x4,NR
-2:58.68,NGR,Sydney,AUS,2000-09-30,Nigeria,Male,4x4,NR
-3:14.07,NIG,Niamey,NIG,2019-07-19,Niger,Male,4x4,NR
-3:06.67,NOR,Helsinki,FIN,1971-08-14,Norway,Male,4x4,NR
-3:05.84,NZL,Stuttgart,GER,1993-08-21,New Zealand,Male,4x4,NR
-3:05.94,OMA,Wuhan,CHN,2015-06-07,Oman,Male,4x4,NR
-3:07.03,PAK,Islamabad,PAK,2004-04-06,Pakistan,Male,4x4,NR
-3:09.67,PAN,São Paulo,BRA,2007-06-09,Panama,Male,4x4,NR
-3:17.31,PAR,Cascavel,BRA,2022-10-01,Paraguay,Male,4x4,NR
-3:04.89,PHI,Hangzhou,CHN,2023-10-04,Philippines,Male,4x4,NR
-3:09.55,PNG,Port Moresby,PNG,1991-09-21,Papua-New Guinea,Male,4x4,NR
-2:58.00,POL,Uniondale NY,USA,1998-07-22,Poland,Male,4x4,NR
-3:03.59,POR,München,GER,2022-08-19,Portugal,Male,4x4,NR
-3:04.87,PUR,Ponce,PUR,2009-05-16,Puerto Rico,Male,4x4,NR
-3:00.56,QAT,Jakarta,INA,2018-08-30,Qatar,Male,4x4,NR
-3:04.23,ROU,Göteborg/U,SWE,2006-08-12,Romania,Male,4x4,NR
-2:59.21,RSA,Daegu,KOR,2011-09-01,South Africa,Male,4x4,NR
-2:59.45,RUS,Beijing,CHN,2015-08-29,Russia,Male,4x4,NR
-3:21.01,RWA,Nairobi,KEN,2010-07-31,Rwanda,Male,4x4,NR
-3:00.64,SEN,Atlanta GA,USA,1996-08-03,Senegal,Male,4x4,NR
-3:11.28,SEY,Antananarivo,MAD,1990-08-30,Seychelles,Male,4x4,NR
-3:07.32,SKN,Cartagena2,COL,2006-07-29,Saint Kitts & Nevis,Male,4x4,NR
-3:10.47,SLE,Seoul,KOR,1988-09-30,Sierra Leone,Male,4x4,NR
-3:02.70,SLO,Sevilla,ESP,1999-08-28,Slovenia,Male,4x4,NR
-3:17.44,SMR,Andorra,AND,1991-05-25,San Marino,Male,4x4,NR
-3:10.85,SOM,Nairobi,KEN,1987-08-11,Somalia,Male,4x4,NR
-3:01.56,SRI,Bangkok,THA,2023-07-16,Sri Lanka,Male,4x4,NR
-3:22.56,SSD,Durban,RSA,2016-06-26,South Sudan,Male,4x4,NR
-3:20.7,STP,Luanda,ANG,1981-08-27,São Tomé & Principé,Male,4x4,NR
-3:04.00,SUD,Addis Ababa,ETH,2008-05-04,Sudan,Male,4x4,NR
-3:02.46,SUI,Sevilla,ESP,1999-08-28,Switzerland,Male,4x4,NR
-3:05.72,SVK,Košice,SVK,2022-05-21,Slovak Republic,Male,4x4,NR
-3:02.57,SWE,München,FRG,1972-09-10,Sweden,Male,4x4,NR
-3:11.51,SWZ,Germiston,RSA,2017-03-22,Swaziland,Male,4x4,NR
-3:10.12,TAN,München,FRG,1972-09-09,Tanzania,Male,4x4,NR
-3:04.23,THA,Hangzhou,CHN,2023-10-04,Thailand,Male,4x4,NR
-3:13.70,TKS,Gold Coast,AUS,2018-04-13,Turks & Caicos Islands,Male,4x4,NR
-3:17.7,TOG,Lomé,TOG,2000-05-21,Togo,Male,4x4,NR
-3:06.51,TPE,Bhubaneswar,IND,2017-07-09,Chinese Taipei,Male,4x4,NR
-2:58.12,TTO,London,GBR,2017-08-13,Trinidad & Tobago,Male,4x4,NR
-3:05.19,TUN,Rabat,MAR,2005-06-18,Tunisia,Male,4x4,NR
-3:02.22,TUR,Erzurum,TUR,2016-06-12,Türkiye,Male,4x4,NR
-3:09.21,UAE,Qatif,KSA,2009-05-01,United Arab Emirates,Male,4x4,NR
-3:02.09,UGA,Los Angeles CA,USA,1984-08-11,Uganda,Male,4x4,NR
-3:02.35,UKR,Edmonton,CAN,2001-08-11,Ukraine,Male,4x4,NR
-3:11.59,URU,Montevideo,URU,2002-05-19,Uruguay,Male,4x4,NR
-2:54.29,USA,Stuttgart,GER,1993-08-22,United States,Male,4x4,NR
-3:00.82,VEN,Guadalajara2,MEX,2011-10-28,Venezuela,Male,4x4,NR
-3:18.18,YEM,Amman,JOR,2003-09-09,Yemen,Male,4x4,NR
-2:59.95,YUG,Tokyo,JPN,1991-08-31,Yugoslavia,Male,4x4,NR
-3:04.76,ZAM,Birmingham,GBR,2022-08-07,Zambia,Male,4x4,NR
-3:00.79,ZIM,Athína,GRE,1997-08-09,Zimbabwe,Male,4x4,NR
+result,nation,venue,venueCountry,date,name,sex,discipline,type,environment
+3:20.77,AFG,Bhubaneswar,IND,2017-07-09,Afghanistan,Male,4x4,NR,Outdoor
+3:15.66,AHO,Miramar FL,USA,2010-07-11,Netherlands Antilles,Male,4x4,NR,Outdoor
+3:17.30,ALB,Pitesti,ROU,2016-06-26,Albania,Male,4x4,NR,Outdoor
+3:02.78,ALG,Bari,ITA,1997-06-18,Algeria,Male,4x4,NR,Outdoor
+3:22.68,AND,Limassol,CYP,2021-06-20,Andorra,Male,4x4,NR,Outdoor
+3:12.92,ANG,Cairo,EGY,1991-09-26,Angola,Male,4x4,NR,Outdoor
+3:09.46,ANT,Atlanta GA,USA,1996-08-02,Antigua & Barbuda,Male,4x4,NR,Outdoor
+3:04.39,ARG,Cascavel,BRA,2022-10-01,Argentina,Male,4x4,NR,Outdoor
+3:16.0,ARM,Moskva,URS,1967-07-30,Armenia,Male,4x4,NR,Outdoor
+2:59.70,AUS,Los Angeles CA,USA,1984-08-11,Australia,Male,4x4,NR,Outdoor
+3:02.95,AUT,Athína,GRE,1997-08-09,Austria,Male,4x4,NR,Outdoor
+3:09.15,AZE,Tashkent,URS,1986-09-20,Azerbaijan,Male,4x4,NR,Outdoor
+2:56.72,BAH,London,GBR,2012-08-10,Bahamas,Male,4x4,NR,Outdoor
+3:12.41,BAN,Dhaka,BAN,1993-12-25,Bangladesh,Male,4x4,NR,Outdoor
+3:01.60,BAR,Los Angeles CA,USA,1984-08-11,Barbados,Male,4x4,NR,Outdoor
+3:06.19,BDI,Nairobi,KEN,1987-08-11,Burundi,Male,4x4,NR,Outdoor
+2:57.88,BEL,Tokyo,JPN,2021-08-07,Belgium,Male,4x4,NR,Outdoor
+3:11.71,BEN,Ouagadougou,BUR,2007-05-27,Benin,Male,4x4,NR,Outdoor
+3:11.30,BER,Indianapolis IN,USA,1987-08-16,Bermuda,Male,4x4,NR,Outdoor
+3:09.47,BIH,Pitesti,ROU,2016-06-26,Bosnia-Herzegovina,Male,4x4,NR,Outdoor
+3:16.80,BIZ,San Pedro Sula,USA,1997-12-13,Belize,Male,4x4,NR,Outdoor
+3:03.78,BLR,Plovdiv,BUL,2004-06-20,Belarus,Male,4x4,NR,Outdoor
+3:17.25,BOL,La Paz,BOL,1977-10-22,Bolivia,Male,4x4,NR,Outdoor
+2:57.27,BOT,Tokyo,JPN,2021-08-07,Botswana,Male,4x4,NR,Outdoor
+2:58.56,BRA,Winnipeg,CAN,1999-07-30,Brazil,Male,4x4,NR,Outdoor
+3:03.97,BRN,Jakarta,INA,2018-08-30,Bahrain,Male,4x4,NR,Outdoor
+3:21.41,BRU,Manila,PHI,1991-03-12,Brunei,Male,4x4,NR,Outdoor
+3:01.61,BUL,Stuttgart,GER,1993-08-21,Bulgaria,Male,4x4,NR,Outdoor
+3:13.91,BUR,Lomé,TOG,2006-05-14,Burkina Faso,Male,4x4,NR,Outdoor
+3:11.91,CAF,Bondoufle,FRA,1994-07-13,Central African Republic,Male,4x4,NR,Outdoor
+3:02.64,CAN,Montréal,CAN,1976-07-31,Canada,Male,4x4,NR,Outdoor
+3:11.28,CGO,Bucureşti,ROU,1981-07-26,Congo,Male,4x4,NR,Outdoor
+3:14.9,CHA,Libreville,GAB,1976-07-08,Chad,Male,4x4,NR,Outdoor
+3:03.55,CHN,Doha,QAT,2019-04-24,China,Male,4x4,NR,Outdoor
+3:03.50,CIV,Los Angeles CA,USA,1984-08-10,Ivory Coast,Male,4x4,NR,Outdoor
+3:20.4,COD,Kinshasa,CMR,2000-08-15,Democratic Republic of Congo,Male,4x4,NR,Outdoor
+2:59.50,COL,Doha,QAT,2019-10-06,Colombia,Male,4x4,NR,Outdoor
+3:15.75,COM,Victoria2,SEY,2011-08-14,Comoros,Male,4x4,NR,Outdoor
+3:20.62,CPV,Goa,IND,2014-01-25,Cape Verde Islands,Male,4x4,NR,Outdoor
+3:05.11,CRC,Toronto,CAN,2015-07-24,Costa Rica,Male,4x4,NR,Outdoor
+3:05.42,CRO,Ljubljana,SLO,2000-07-25,Croatia,Male,4x4,NR,Outdoor
+3:11.16,CYP,Beograd,SRB,1998-06-07,Cyprus,Male,4x4,NR,Outdoor
+3:00.99,CZE,Budapest,HUN,2023-08-26,Czech Republic,Male,4x4,NR,Outdoor
+3:07.08,DEN,Uden,NED,2011-07-02,Denmark,Male,4x4,NR,Outdoor
+3:28.4,DJI,Djibouti,DJI,2008-04-19,Djibouti,Male,4x4,NR,Outdoor
+3:00.15,DOM,Beijing,CHN,2015-08-29,Dominican Republic,Male,4x4,NR,Outdoor
+3:06.94,ECU,Nairobi,KEN,2021-08-21,Ecuador,Male,4x4,NR,Outdoor
+3:08.18,EGY,Cairo,EGY,1985-08-12,Egypt,Male,4x4,NR,Outdoor
+3:18.3,ERI,Asmara,ERI,2013-06-09,Eritrea,Male,4x4,NR,Outdoor
+3:00.54,ESP,München,GER,2022-08-20,Spain,Male,4x4,NR,Outdoor
+3:06.07,EST,Iráklio,GRE,2015-06-21,Estonia,Male,4x4,NR,Outdoor
+3:05.6,ETH,Addis Ababa,ETH,2014-05-15,Ethiopia,Male,4x4,NR,Outdoor
+3:07.15,FIJ,Kuala Lumpur,MAS,1998-09-20,Fiji,Male,4x4,NR,Outdoor
+3:01.12,FIN,München,FRG,1972-09-10,Finland,Male,4x4,NR,Outdoor
+2:58.45,FRA,Budapest,HUN,2023-08-27,France,Male,4x4,NR,Outdoor
+3:14.1,GAB,Yaoundé,CMR,1995-04-16,Gabon,Male,4x4,NR,Outdoor
+3:10.44,GAM,Warri,NGR,2014-06-13,Gambia,Male,4x4,NR,Outdoor
+2:56.60,GBR,Atlanta GA,USA,1996-08-03,Great Britain,Male,4x4,NR,Outdoor
+3:28.69,GBS,Bissau,GBS,2007-06-03,Guinea Bissau,Male,4x4,NR,Outdoor
+3:10.80,GEO,Tashkent,URS,1967-08-22,Georgia,Male,4x4,NR,Outdoor
+3:42.93,GEQ,Yaoundé,CMR,2002-04-20,Equatorial Guinea,Male,4x4,NR,Outdoor
+2:59.86,GER,Erfurt,GER,1985-06-23,Germany,Male,4x4,NR,Outdoor
+3:04.76,GHA,Warri,NGR,2015-07-24,Ghana,Male,4x4,NR,Outdoor
+3:20.29,GIB,Rhodes,GRE,2007-07-06,Gibraltar,Male,4x4,NR,Outdoor
+3:02.21,GRE,München,GER,2007-06-24,Greece,Male,4x4,NR,Outdoor
+3:04.27,GRN,Mayaguez,PUR,2011-07-17,Grenada,Male,4x4,NR,Outdoor
+3:22.4,GUI,Conakry,GUI,1988-05-28,Guinea,Male,4x4,NR,Outdoor
+3:11.28,HKG,Incheon,KOR,2014-09-29,Hong Kong,Male,4x4,NR,Outdoor
+3:02.65,HUN,Budapest,HUN,2023-08-26,Hungary,Male,4x4,NR,Outdoor
+2:59.05,IND,Budapest,HUN,2023-08-26,India,Male,4x4,NR,Outdoor
+3:07.87,IRI,Aleppo,SYR,2010-09-20,Iran,Male,4x4,NR,Outdoor
+3:01.26,IRL,Beijing,CHN,2015-08-29,Ireland,Male,4x4,NR,Outdoor
+3:10.36,ISL,Edinburgh,GBR,1983-07-31,Iceland,Male,4x4,NR,Outdoor
+3:09.93,ISR,Kaunas,LTU,2013-06-23,Israel,Male,4x4,NR,Outdoor
+2:58.81,ITA,Tokyo,JPN,2021-08-07,Italy,Male,4x4,NR,Outdoor
+3:11.03,IVB,St. Georges,GRN,2017-07-02,British Virgin Islands,Male,4x4,NR,Outdoor
+2:56.75,JAM,Athína,GRE,1997-08-10,Jamaica,Male,4x4,NR,Outdoor
+2:59.51,JPN,Eugene OR,USA,2022-07-24,Japan,Male,4x4,NR,Outdoor
+3:07.66,KAZ,Napoli,ITA,2019-07-13,Kazakhstan,Male,4x4,NR,Outdoor
+2:59.63,KEN,Barcelona,ESP,1992-08-07,Kenya,Male,4x4,NR,Outdoor
+3:04.03,KOR,Incheon,KOR,2014-10-02,South Korea,Male,4x4,NR,Outdoor
+3:16.87,KOS,Pitesti,ROU,2016-06-26,Kosovo,Male,4x4,NR,Outdoor
+3:02.30,KSA,Guangzhou,CHN,2010-11-26,Saudi Arabia,Male,4x4,NR,Outdoor
+3:04.82,KUW,Beyrouth,LBN,2001-04-07,Kuwait,Male,4x4,NR,Outdoor
+3:04.30,LAT,Athína,GRE,1997-08-09,Latvia,Male,4x4,NR,Outdoor
+3:10.00,LBA,Pescara,ITA,2009-07-03,Libya,Male,4x4,NR,Outdoor
+3:11.74,LBN,Kinshasa,COD,2023-08-04,Lebanon,Male,4x4,NR,Outdoor
+3:09.25,LBR,Burnaby,CAN,2005-06-14,Liberia,Male,4x4,NR,Outdoor
+3:15.67,LES,Atlanta GA,USA,1996-08-02,Lesotho,Male,4x4,NR,Outdoor
+3:25.20,LIE,Andorra,AND,1991-05-25,Liechtenstein,Male,4x4,NR,Outdoor
+3:09.65,LTU,Vilnius,LTU,2023-07-07,Lithuania,Male,4x4,NR,Outdoor
+3:14.45,LUX,Luxembourg,LUX,2013-06-01,Luxembourg,Male,4x4,NR,Outdoor
+3:21.64,MAC,Zhongshan,CHN,2005-04-24,Macao,Male,4x4,NR,Outdoor
+3:08.0,MAD,Antananarivo,MAD,1997-09-05,Madagascar,Male,4x4,NR,Outdoor
+3:02.11,MAR,Tokyo,JPN,1991-08-31,Morocco,Male,4x4,NR,Outdoor
+3:11.97,MAW,Nairobi,KEN,1987-08-11,Malawi,Male,4x4,NR,Outdoor
+3:07.65,MDA,Kyiv,URS,1988-08-16,Moldova,Male,4x4,NR,Outdoor
+3:02.89,MEX,Napoli,ITA,2019-07-13,Mexico,Male,4x4,NR,Outdoor
+3:12.42,MIX,Marsa,MLT,2023-06-03,Mixed team,Male,4x4,NR,Outdoor
+3:17.9,MKD,Kraljevo,YUG,1980-05-31,Former Yugoslav Republic of Macedonia,Male,4x4,NR,Outdoor
+3:11.84,MLI,Niamey,NIG,2019-07-19,Mali,Male,4x4,NR,Outdoor
+3:16.18,MLT,Marsa,MLT,2003-06-07,Malta,Male,4x4,NR,Outdoor
+3:19.87,MNE,Baku,AZE,2015-06-22,Montenegro,Male,4x4,NR,Outdoor
+3:15.46,MON,Serravalle,SMR,2017-06-04,Monaco,Male,4x4,NR,Outdoor
+3:08.95,MOZ,Los Angeles CA,USA,1984-08-10,Mozambique,Male,4x4,NR,Outdoor
+3:06.21,MRI,Harare,ZIM,1995-09-13,Mauritius,Male,4x4,NR,Outdoor
+3:20.42,MTN,Nouakchott,MTN,2004-04-17,Mauritania,Male,4x4,NR,Outdoor
+3:07.83,NAM,Gaborone,BOT,2019-04-27,Namibia,Male,4x4,NR,Outdoor
+2:57.18,NED,Tokyo,JPN,2021-08-07,Netherlands,Male,4x4,NR,Outdoor
+3:14.89,NEP,Kathmandu,NEP,1999-09-29,Nepal,Male,4x4,NR,Outdoor
+2:58.68,NGR,Sydney,AUS,2000-09-30,Nigeria,Male,4x4,NR,Outdoor
+3:14.07,NIG,Niamey,NIG,2019-07-19,Niger,Male,4x4,NR,Outdoor
+3:06.67,NOR,Helsinki,FIN,1971-08-14,Norway,Male,4x4,NR,Outdoor
+3:05.84,NZL,Stuttgart,GER,1993-08-21,New Zealand,Male,4x4,NR,Outdoor
+3:05.94,OMA,Wuhan,CHN,2015-06-07,Oman,Male,4x4,NR,Outdoor
+3:07.03,PAK,Islamabad,PAK,2004-04-06,Pakistan,Male,4x4,NR,Outdoor
+3:09.67,PAN,São Paulo,BRA,2007-06-09,Panama,Male,4x4,NR,Outdoor
+3:17.31,PAR,Cascavel,BRA,2022-10-01,Paraguay,Male,4x4,NR,Outdoor
+3:04.89,PHI,Hangzhou,CHN,2023-10-04,Philippines,Male,4x4,NR,Outdoor
+3:09.55,PNG,Port Moresby,PNG,1991-09-21,Papua-New Guinea,Male,4x4,NR,Outdoor
+2:58.00,POL,Uniondale NY,USA,1998-07-22,Poland,Male,4x4,NR,Outdoor
+3:03.59,POR,München,GER,2022-08-19,Portugal,Male,4x4,NR,Outdoor
+3:04.87,PUR,Ponce,PUR,2009-05-16,Puerto Rico,Male,4x4,NR,Outdoor
+3:00.56,QAT,Jakarta,INA,2018-08-30,Qatar,Male,4x4,NR,Outdoor
+3:04.23,ROU,Göteborg/U,SWE,2006-08-12,Romania,Male,4x4,NR,Outdoor
+2:59.21,RSA,Daegu,KOR,2011-09-01,South Africa,Male,4x4,NR,Outdoor
+2:59.45,RUS,Beijing,CHN,2015-08-29,Russia,Male,4x4,NR,Outdoor
+3:21.01,RWA,Nairobi,KEN,2010-07-31,Rwanda,Male,4x4,NR,Outdoor
+3:00.64,SEN,Atlanta GA,USA,1996-08-03,Senegal,Male,4x4,NR,Outdoor
+3:11.28,SEY,Antananarivo,MAD,1990-08-30,Seychelles,Male,4x4,NR,Outdoor
+3:07.32,SKN,Cartagena2,COL,2006-07-29,Saint Kitts & Nevis,Male,4x4,NR,Outdoor
+3:10.47,SLE,Seoul,KOR,1988-09-30,Sierra Leone,Male,4x4,NR,Outdoor
+3:02.70,SLO,Sevilla,ESP,1999-08-28,Slovenia,Male,4x4,NR,Outdoor
+3:17.44,SMR,Andorra,AND,1991-05-25,San Marino,Male,4x4,NR,Outdoor
+3:10.85,SOM,Nairobi,KEN,1987-08-11,Somalia,Male,4x4,NR,Outdoor
+3:01.56,SRI,Bangkok,THA,2023-07-16,Sri Lanka,Male,4x4,NR,Outdoor
+3:22.56,SSD,Durban,RSA,2016-06-26,South Sudan,Male,4x4,NR,Outdoor
+3:20.7,STP,Luanda,ANG,1981-08-27,São Tomé & Principé,Male,4x4,NR,Outdoor
+3:04.00,SUD,Addis Ababa,ETH,2008-05-04,Sudan,Male,4x4,NR,Outdoor
+3:02.46,SUI,Sevilla,ESP,1999-08-28,Switzerland,Male,4x4,NR,Outdoor
+3:05.72,SVK,Košice,SVK,2022-05-21,Slovak Republic,Male,4x4,NR,Outdoor
+3:02.57,SWE,München,FRG,1972-09-10,Sweden,Male,4x4,NR,Outdoor
+3:11.51,SWZ,Germiston,RSA,2017-03-22,Swaziland,Male,4x4,NR,Outdoor
+3:10.12,TAN,München,FRG,1972-09-09,Tanzania,Male,4x4,NR,Outdoor
+3:04.23,THA,Hangzhou,CHN,2023-10-04,Thailand,Male,4x4,NR,Outdoor
+3:13.70,TKS,Gold Coast,AUS,2018-04-13,Turks & Caicos Islands,Male,4x4,NR,Outdoor
+3:17.7,TOG,Lomé,TOG,2000-05-21,Togo,Male,4x4,NR,Outdoor
+3:06.51,TPE,Bhubaneswar,IND,2017-07-09,Chinese Taipei,Male,4x4,NR,Outdoor
+2:58.12,TTO,London,GBR,2017-08-13,Trinidad & Tobago,Male,4x4,NR,Outdoor
+3:05.19,TUN,Rabat,MAR,2005-06-18,Tunisia,Male,4x4,NR,Outdoor
+3:02.22,TUR,Erzurum,TUR,2016-06-12,Türkiye,Male,4x4,NR,Outdoor
+3:09.21,UAE,Qatif,KSA,2009-05-01,United Arab Emirates,Male,4x4,NR,Outdoor
+3:02.09,UGA,Los Angeles CA,USA,1984-08-11,Uganda,Male,4x4,NR,Outdoor
+3:02.35,UKR,Edmonton,CAN,2001-08-11,Ukraine,Male,4x4,NR,Outdoor
+3:11.59,URU,Montevideo,URU,2002-05-19,Uruguay,Male,4x4,NR,Outdoor
+2:54.29,USA,Stuttgart,GER,1993-08-22,United States,Male,4x4,NR,Outdoor
+3:00.82,VEN,Guadalajara2,MEX,2011-10-28,Venezuela,Male,4x4,NR,Outdoor
+3:18.18,YEM,Amman,JOR,2003-09-09,Yemen,Male,4x4,NR,Outdoor
+2:59.95,YUG,Tokyo,JPN,1991-08-31,Yugoslavia,Male,4x4,NR,Outdoor
+3:04.76,ZAM,Birmingham,GBR,2022-08-07,Zambia,Male,4x4,NR,Outdoor
+3:00.79,ZIM,Athína,GRE,1997-08-09,Zimbabwe,Male,4x4,NR,Outdoor
+3:27.08,ALB,Istanbul,TUR,2016-02-27,Albania,Male,4x4,NR,Indoor
+3:37.40,AND,Sabadell,ESP,2020-12-01,Andorra,Male,4x4,NR,Indoor
+3:26.76,ARM,Istanbul,TUR,2015-02-21,Armenia,Male,4x4,NR,Indoor
+3:08.49,AUS,Sevilla,ESP,1991-03-10,Australia,Male,4x4,NR,Indoor
+3:08.37,AUT,Paris,FRA,1997-03-08,Austria,Male,4x4,NR,Indoor
+3:17.44,AZE,Tehran,IRI,2007-02-22,Azerbaijan,Male,4x4,NR,Indoor
+3:04.75,BAH,Portland OR,USA,2016-03-20,Bahamas,Male,4x4,NR,Indoor
+3:02.51,BEL,Birmingham,GBR,2018-03-04,Belgium,Male,4x4,NR,Indoor
+3:18.12,BIH,Beograd,SRB,2017-02-25,Bosnia-Herzegovina,Male,4x4,NR,Indoor
+3:12.69,BLR,Mogilyov,BLR,2011-02-12,Belarus,Male,4x4,NR,Indoor
+3:13.21,BOT,Istanbul,TUR,2012-03-10,Botswana,Male,4x4,NR,Indoor
+3:10.50,BRA,Paris,FRA,1997-03-08,Brazil,Male,4x4,NR,Indoor
+3:22.21,BRN,Tehran,IRI,2004-02-08,Bahrain,Male,4x4,NR,Indoor
+3:15.0,BUL,Sofia,BUL,1974-02-17,Bulgaria,Male,4x4,NR,Indoor
+3:07.77,CAN,Toronto,CAN,1993-03-13,Canada,Male,4x4,NR,Indoor
+3:10.82,CHN,Tianjin,CHN,2023-03-17,China,Male,4x4,NR,Indoor
+3:34.73,CYP,Athína,GRE,2009-03-14,Cyprus,Male,4x4,NR,Indoor
+3:04.09,CZE,Praha,CZE,2015-03-08,Czech Republic,Male,4x4,NR,Indoor
+3:06.30,DOM,Doha,QAT,2010-03-13,Dominican Republic,Male,4x4,NR,Indoor
+3:06.32,ESP,Glasgow,GBR,2019-03-03,Spain,Male,4x4,NR,Indoor
+3:16.61,EST,Tallinn,EST,2015-02-22,Estonia,Male,4x4,NR,Indoor
+3:18.16,FIN,Jyväskylä,FIN,1994-02-27,Finland,Male,4x4,NR,Indoor
+3:06.17,FRA,Paris,FRA,2011-03-06,France,Male,4x4,NR,Indoor
+3:03.20,GBR,Maebashi,JPN,1999-03-07,Great Britain,Male,4x4,NR,Indoor
+3:03.05,GER,Sevilla,ESP,1991-03-10,Germany,Male,4x4,NR,Indoor
+3:10.16,GRE,Lisboa,POR,2001-03-10,Greece,Male,4x4,NR,Indoor
+3:31.65,HKG,Macau,MAC,2007-02-10,Hong Kong,Male,4x4,NR,Indoor
+3:08.58,HUN,Nyíregyháza,HUN,2023-01-28,Hungary,Male,4x4,NR,Indoor
+3:13.01,IND,Hanoi,VIE,2009-11-02,India,Male,4x4,NR,Indoor
+3:11.74,IRI,Tehran,IRI,2018-02-03,Iran,Male,4x4,NR,Indoor
+3:08.63,IRL,Beograd,SRB,2022-03-20,Ireland,Male,4x4,NR,Indoor
+3:23.32,IRQ,Hanoi,VIE,2009-11-02,Iraq,Male,4x4,NR,Indoor
+3:19.11,ISL,Reykjavik,ISL,2012-02-18,Iceland,Male,4x4,NR,Indoor
+3:05.51,ITA,Sevilla,ESP,1991-03-10,Italy,Male,4x4,NR,Indoor
+3:03.69,JAM,Sopot,POL,2014-03-07,Jamaica,Male,4x4,NR,Indoor
+3:05.90,JPN,Maebashi,JPN,1999-03-06,Japan,Male,4x4,NR,Indoor
+3:11.68,KAZ,Tehran,IRI,2018-02-03,Kazakhstan,Male,4x4,NR,Indoor
+3:10.31,KSA,Hanoi,VIE,2009-11-02,Saudi Arabia,Male,4x4,NR,Indoor
+3:14.14,KUW,Lisboa,POR,2001-03-10,Kuwait,Male,4x4,NR,Indoor
+3:38.65,LBN,Tehran,IRI,2018-02-03,Lebanon,Male,4x4,NR,Indoor
+3:12.14,LBR,Valencia,ESP,2008-03-09,Liberia,Male,4x4,NR,Indoor
+3:23.46,LTU,Kaunas,LTU,2006-02-18,Lithuania,Male,4x4,NR,Indoor
+3:18.59,LUX,Luxembourg,LUX,2012-12-21,Luxembourg,Male,4x4,NR,Indoor
+3:25.93,MAC,Macau,MAC,2007-10-31,Macao,Male,4x4,NR,Indoor
+3:17.64,MDA,Istanbul,TUR,2016-02-27,Moldova,Male,4x4,NR,Indoor
+3:11.41,MEX,Paris,FRA,1997-03-08,Mexico,Male,4x4,NR,Indoor
+3:09.18,MIX,Lubbock TX,USA,2018-02-10,Mixed team,Male,4x4,NR,Indoor
+3:31.61,MKD,Istanbul,TUR,2015-02-21,Former Yugoslav Republic of Macedonia,Male,4x4,NR,Indoor
+3:41.87,MNE,Beograd,SRB,2018-01-28,Montenegro,Male,4x4,NR,Indoor
+3:06.06,NED,Toruń,POL,2021-03-07,Netherlands,Male,4x4,NR,Indoor
+3:07.95,NGR,Sopot,POL,2014-03-08,Nigeria,Male,4x4,NR,Indoor
+3:13.49,OMA,Hangzhou,CHN,2014-02-16,Oman,Male,4x4,NR,Indoor
+3:01.77,POL,Birmingham,GBR,2018-03-04,Poland,Male,4x4,NR,Indoor
+3:08.20,QAT,Doha,QAT,2016-02-21,Qatar,Male,4x4,NR,Indoor
+3:08.45,RSA,Portland OR,USA,2016-03-19,South Africa,Male,4x4,NR,Indoor
+3:04.82,RUS,Lisboa,POR,2001-03-11,Russia,Male,4x4,NR,Indoor
+3:10.47,SLO,Istanbul,TUR,2022-03-05,Slovenia,Male,4x4,NR,Indoor
+3:14.19,SRB,Beograd,SRB,2024-01-24,Serbia,Male,4x4,NR,Indoor
+3:11.29,SRI,Macau,MAC,2007-11-01,Sri Lanka,Male,4x4,NR,Indoor
+3:09.04,SUI,Budapest,HUN,2004-03-07,Switzerland,Male,4x4,NR,Indoor
+3:09.79,SVK,Beograd,SRB,2022-03-20,Slovak Republic,Male,4x4,NR,Indoor
+3:07.10,SWE,Moskva,RUS,2006-03-12,Sweden,Male,4x4,NR,Indoor
+3:02.52,TTO,Birmingham,GBR,2018-03-04,Trinidad & Tobago,Male,4x4,NR,Indoor
+3:09.41,TUR,Istanbul,TUR,2023-03-05,Türkiye,Male,4x4,NR,Indoor
+3:11.40,UAE,Hanoi,VIE,2009-11-02,United Arab Emirates,Male,4x4,NR,Indoor
+3:07.54,UKR,Sopot,POL,2014-03-08,Ukraine,Male,4x4,NR,Indoor
+3:01.39,USA,College Station TX,USA,2018-03-10,United States,Male,4x4,NR,Indoor

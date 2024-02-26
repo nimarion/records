@@ -1,62 +1,62 @@
-result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
-6:00.07,ALB,Berlin,GER,2019-09-01,Luiza Gega,1988,Female,2000S,NR
-7:33.33,AND,Chorzów,POL,2023-06-22,Xenia Mourelo,1989,Female,2000S,NR
-7:06.71,ARM,Tbilisi,GEO,2016-07-14,Ellada Alaverdyan,2000,Female,2000S,NR
-6:09.48,AUS,Berlin,GER,2019-09-01,Genevieve Gregson,1989,Female,2000S,NR
-6:15.60,BEL,Huizingen,BEL,2008-08-17,Sigrid Vanden Bempt,1981,Female,2000S,NR
-6:53.68,BIH,Katerini,GRE,2005-09-24,Jasmina Delić,1988,Female,2000S,NR
-6:08.0,BLR,Gdańsk,POL,2002-07-27,Alesia Turava,1979,Female,2000S,NR
-5:54.16,BRN,St Denis,FRA,2016-08-27,Ruth Jebet,1996,Female,2000S,NR
-6:26.45,BUL,Sofia,BUL,2016-05-18,Silvia Danekova,1983,Female,2000S,NR
-8:11.81,CMR,Garoua,CMR,2003-08-02,Julienne Ngo-Manyim,,Female,2000S,NR
-6:37.94,CRO,Novo Mesto,SLO,2015-09-18,Matea Parlov Koštro,1992,Female,2000S,NR
-6:23.58,CZE,Maribor,SLO,2023-07-27,Karolína Jarošová,2006,Female,2000S,NR
-6:17.78,DEN,Birmingham,GBR,2023-07-29,Juliane Hvid,1998,Female,2000S,NR
-6:56.98,EGY,Beyrouth,LBN,2010-08-01,Heba Saad Ibrahim,1995,Female,2000S,NR
-6:13.03,ESP,Pontoise,FRA,2020-08-15,Irene Sánchez-Escribano,1992,Female,2000S,NR
-6:32.96,EST,Pärnu,EST,2021-06-05,Laura Maasik,1993,Female,2000S,NR
-6:11.83,ETH,Bressanone,ITA,2009-07-10,Korahubish Itaa,1992,Female,2000S,NR
-6:18.09,FIN,Tampere,FIN,2006-07-17,Johanna Lehtinen,1979,Female,2000S,NR
-6:16.60,FRA,Pliezhausen,GER,2018-05-13,Ophélie Claude-Boxberger,1988,Female,2000S,NR
-6:11.79,GBR,Pontoise,FRA,2020-08-15,Elizabeth Bird,1994,Female,2000S,NR
-5:52.80,GER,Berlin,GER,2019-09-01,Gesa-Felicitas Krause,1992,Female,2000S,NR
-6:35.19,GRE,Kórinthos,GRE,2003-07-05,Xénia Kazimírova,1984,Female,2000S,NR
-6:09.48,HUN,Berlin,GER,2019-09-01,Viktória Wagner-Gyürkes,1992,Female,2000S,NR
-7:24.89,INA,Jakarta,INA,2017-04-22,Nani Dwi Purwati,2001,Female,2000S,NR
-6:13.50,IRL,Dublin,IRL,2021-06-13,Eilish Flanagan,1997,Female,2000S,NR
-6:34.80,ISL,Växjö,SWE,2012-08-19,Aníta Hinriksdóttir,1996,Female,2000S,NR
-6:28.65,ISR,Zagreb,CRO,2023-09-10,Adva Cohen,1996,Female,2000S,NR
-6:19.55,JPN,Kobe,JPN,2021-04-25,Yuno Yamanaka,2000,Female,2000S,NR
-5:47.42,KEN,Zagreb,CRO,2023-09-10,Beatrice Chepkoech,1991,Female,2000S,NR
-6:19.8,LAT,Kaunas,LTU,2003-08-10,Inna Poluškina,1984,Female,2000S,NR
-6:56.11,LBA,Milano,ITA,2018-04-18,Najla Aqdeir Ali Salem,,Female,2000S,NR
-7:36.76,LBN,Jamhour,LBN,2011-08-02,Hoda El Awadi,,Female,2000S,NR
-7:19.43,LES,Nanjing,CHN,2014-08-25,Thakane Mapoho,1998,Female,2000S,NR
-6:22.03,LTU,Gorkiy,URS,1989-07-23,Stefanija Statkuviene,1962,Female,2000S,NR
-6:04.05,MAR,Toulon,FRA,2023-05-12,Maroua Bouziani,1997,Female,2000S,NR
-6:21.42,MDA,Moskva,URS,1991-06-11,Antonina Grishayeva,1959,Female,2000S,NR
-7:39.0,MLT,Marsa,MLT,2021-02-06,Tara Abdilla,1985,Female,2000S,NR
-7:19.47,MYA,Nanjing,CHN,2014-08-21,Hnin Yu Soe,1997,Female,2000S,NR
-6:18.04,NED,Pliezhausen,GER,2021-05-08,Irene Van Der Reijken,1993,Female,2000S,NR
-6:21.39,NOR,Stavanger,NOR,2008-08-10,Karoline Bjerkeli Grøvdal,1990,Female,2000S,NR
-6:32.38,NZL,Inglewood,NZL,2017-03-08,Hannah O'Connor,2001,Female,2000S,NR
-6:03.38,POL,Gdańsk,POL,2006-07-15,Wioletta Frankiewicz,1977,Female,2000S,NR
-6:09.59,POR,Ribeira Brava,POR,2020-08-08,Joana Soares,1993,Female,2000S,NR
-6:16.58,ROU,Milano,ITA,2005-06-01,Cristina Casandra,1977,Female,2000S,NR
-6:34.72,RSA,Rehlingen,GER,2016-05-16,Nolene Conrad,1985,Female,2000S,NR
-6:01.20,RUS,Beijing,CHN,2008-08-17,Gulnara Galkina,1978,Female,2000S,NR
-5:56.28,SLO,Ljubljana,SLO,2020-07-16,Maruša Mišmaš-Zrimsek,1994,Female,2000S,NR
-6:35.72,SRB,Kragujevac,SRB,2005-07-08,Biljana Jović,1985,Female,2000S,NR
-6:33.06,SRI,Buenos Aires,ARG,2018-10-12,K.M.P.Wasanthi Maristela,2001,Female,2000S,NR
-7:02.40,STP,Lisboa,POR,2020-08-15,D’jamila Correia-Tavares,,Female,2000S,NR
-6:44.17,SUD,Eton,GBR,2003-06-14,Durka Mana Kalameya,1988,Female,2000S,NR
-6:12.44,SUI,Uster,SUI,2022-06-10,Chiara Scherrer,1996,Female,2000S,NR
-6:22.99,SWE,Täby,SWE,2022-05-14,Emilia Lillemo,2000,Female,2000S,NR
-6:58.65,SYR,Nanjing,CHN,2014-08-25,Fatima Ghassan Rayya,1997,Female,2000S,NR
-7:09.85,TPE,Taoyuan,TPE,2022-09-25,Chu Chieh-Yu,2007,Female,2000S,NR
-6:08.62,TUN,Eugene OR,USA,2022-07-16,Marwa Bouzayani,1997,Female,2000S,NR
-6:04.46,UGA,Milano,ITA,2005-06-01,Dorcus Inzikuru,1982,Female,2000S,NR
-6:21.16,UKR,Moskva,RUS,1992-06-24,Lyudmila Pushkina,1965,Female,2000S,NR
-6:09.81,USA,Birmingham,GBR,2023-07-29,Madie Boreman,1998,Female,2000S,NR
-6:24.26,UZB,Gorkiy,URS,1989-07-23,Irina Matrosova,1962,Female,2000S,NR
-6:45.34,VIE,Thua Thien Hue,VIE,2008-09-15,Le Thi Hang,1990,Female,2000S,NR
+result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,environment
+6:00.07,ALB,Berlin,GER,2019-09-01,Luiza Gega,1988.0,Female,2000S,NR,Outdoor
+7:33.33,AND,Chorzów,POL,2023-06-22,Xenia Mourelo,1989.0,Female,2000S,NR,Outdoor
+7:06.71,ARM,Tbilisi,GEO,2016-07-14,Ellada Alaverdyan,2000.0,Female,2000S,NR,Outdoor
+6:09.48,AUS,Berlin,GER,2019-09-01,Genevieve Gregson,1989.0,Female,2000S,NR,Outdoor
+6:15.60,BEL,Huizingen,BEL,2008-08-17,Sigrid Vanden Bempt,1981.0,Female,2000S,NR,Outdoor
+6:53.68,BIH,Katerini,GRE,2005-09-24,Jasmina Delić,1988.0,Female,2000S,NR,Outdoor
+6:08.0,BLR,Gdańsk,POL,2002-07-27,Alesia Turava,1979.0,Female,2000S,NR,Outdoor
+5:54.16,BRN,St Denis,FRA,2016-08-27,Ruth Jebet,1996.0,Female,2000S,NR,Outdoor
+6:26.45,BUL,Sofia,BUL,2016-05-18,Silvia Danekova,1983.0,Female,2000S,NR,Outdoor
+8:11.81,CMR,Garoua,CMR,2003-08-02,Julienne Ngo-Manyim,,Female,2000S,NR,Outdoor
+6:37.94,CRO,Novo Mesto,SLO,2015-09-18,Matea Parlov Koštro,1992.0,Female,2000S,NR,Outdoor
+6:23.58,CZE,Maribor,SLO,2023-07-27,Karolína Jarošová,2006.0,Female,2000S,NR,Outdoor
+6:17.78,DEN,Birmingham,GBR,2023-07-29,Juliane Hvid,1998.0,Female,2000S,NR,Outdoor
+6:56.98,EGY,Beyrouth,LBN,2010-08-01,Heba Saad Ibrahim,1995.0,Female,2000S,NR,Outdoor
+6:13.03,ESP,Pontoise,FRA,2020-08-15,Irene Sánchez-Escribano,1992.0,Female,2000S,NR,Outdoor
+6:32.96,EST,Pärnu,EST,2021-06-05,Laura Maasik,1993.0,Female,2000S,NR,Outdoor
+6:11.83,ETH,Bressanone,ITA,2009-07-10,Korahubish Itaa,1992.0,Female,2000S,NR,Outdoor
+6:18.09,FIN,Tampere,FIN,2006-07-17,Johanna Lehtinen,1979.0,Female,2000S,NR,Outdoor
+6:16.60,FRA,Pliezhausen,GER,2018-05-13,Ophélie Claude-Boxberger,1988.0,Female,2000S,NR,Outdoor
+6:11.79,GBR,Pontoise,FRA,2020-08-15,Elizabeth Bird,1994.0,Female,2000S,NR,Outdoor
+5:52.80,GER,Berlin,GER,2019-09-01,Gesa-Felicitas Krause,1992.0,Female,2000S,NR,Outdoor
+6:35.19,GRE,Kórinthos,GRE,2003-07-05,Xénia Kazimírova,1984.0,Female,2000S,NR,Outdoor
+6:09.48,HUN,Berlin,GER,2019-09-01,Viktória Wagner-Gyürkes,1992.0,Female,2000S,NR,Outdoor
+7:24.89,INA,Jakarta,INA,2017-04-22,Nani Dwi Purwati,2001.0,Female,2000S,NR,Outdoor
+6:13.50,IRL,Dublin,IRL,2021-06-13,Eilish Flanagan,1997.0,Female,2000S,NR,Outdoor
+6:34.80,ISL,Växjö,SWE,2012-08-19,Aníta Hinriksdóttir,1996.0,Female,2000S,NR,Outdoor
+6:28.65,ISR,Zagreb,CRO,2023-09-10,Adva Cohen,1996.0,Female,2000S,NR,Outdoor
+6:19.55,JPN,Kobe,JPN,2021-04-25,Yuno Yamanaka,2000.0,Female,2000S,NR,Outdoor
+5:47.42,KEN,Zagreb,CRO,2023-09-10,Beatrice Chepkoech,1991.0,Female,2000S,NR,Outdoor
+6:19.8,LAT,Kaunas,LTU,2003-08-10,Inna Poluškina,1984.0,Female,2000S,NR,Outdoor
+6:56.11,LBA,Milano,ITA,2018-04-18,Najla Aqdeir Ali Salem,,Female,2000S,NR,Outdoor
+7:36.76,LBN,Jamhour,LBN,2011-08-02,Hoda El Awadi,,Female,2000S,NR,Outdoor
+7:19.43,LES,Nanjing,CHN,2014-08-25,Thakane Mapoho,1998.0,Female,2000S,NR,Outdoor
+6:22.03,LTU,Gorkiy,URS,1989-07-23,Stefanija Statkuviene,1962.0,Female,2000S,NR,Outdoor
+6:04.05,MAR,Toulon,FRA,2023-05-12,Maroua Bouziani,1997.0,Female,2000S,NR,Outdoor
+6:21.42,MDA,Moskva,URS,1991-06-11,Antonina Grishayeva,1959.0,Female,2000S,NR,Outdoor
+7:39.0,MLT,Marsa,MLT,2021-02-06,Tara Abdilla,1985.0,Female,2000S,NR,Outdoor
+7:19.47,MYA,Nanjing,CHN,2014-08-21,Hnin Yu Soe,1997.0,Female,2000S,NR,Outdoor
+6:18.04,NED,Pliezhausen,GER,2021-05-08,Irene Van Der Reijken,1993.0,Female,2000S,NR,Outdoor
+6:21.39,NOR,Stavanger,NOR,2008-08-10,Karoline Bjerkeli Grøvdal,1990.0,Female,2000S,NR,Outdoor
+6:32.38,NZL,Inglewood,NZL,2017-03-08,Hannah O'Connor,2001.0,Female,2000S,NR,Outdoor
+6:03.38,POL,Gdańsk,POL,2006-07-15,Wioletta Frankiewicz,1977.0,Female,2000S,NR,Outdoor
+6:09.59,POR,Ribeira Brava,POR,2020-08-08,Joana Soares,1993.0,Female,2000S,NR,Outdoor
+6:16.58,ROU,Milano,ITA,2005-06-01,Cristina Casandra,1977.0,Female,2000S,NR,Outdoor
+6:34.72,RSA,Rehlingen,GER,2016-05-16,Nolene Conrad,1985.0,Female,2000S,NR,Outdoor
+6:01.20,RUS,Beijing,CHN,2008-08-17,Gulnara Galkina,1978.0,Female,2000S,NR,Outdoor
+5:56.28,SLO,Ljubljana,SLO,2020-07-16,Maruša Mišmaš-Zrimsek,1994.0,Female,2000S,NR,Outdoor
+6:35.72,SRB,Kragujevac,SRB,2005-07-08,Biljana Jović,1985.0,Female,2000S,NR,Outdoor
+6:33.06,SRI,Buenos Aires,ARG,2018-10-12,K.M.P.Wasanthi Maristela,2001.0,Female,2000S,NR,Outdoor
+7:02.40,STP,Lisboa,POR,2020-08-15,D’jamila Correia-Tavares,,Female,2000S,NR,Outdoor
+6:44.17,SUD,Eton,GBR,2003-06-14,Durka Mana Kalameya,1988.0,Female,2000S,NR,Outdoor
+6:12.44,SUI,Uster,SUI,2022-06-10,Chiara Scherrer,1996.0,Female,2000S,NR,Outdoor
+6:22.99,SWE,Täby,SWE,2022-05-14,Emilia Lillemo,2000.0,Female,2000S,NR,Outdoor
+6:58.65,SYR,Nanjing,CHN,2014-08-25,Fatima Ghassan Rayya,1997.0,Female,2000S,NR,Outdoor
+7:09.85,TPE,Taoyuan,TPE,2022-09-25,Chu Chieh-Yu,2007.0,Female,2000S,NR,Outdoor
+6:08.62,TUN,Eugene OR,USA,2022-07-16,Marwa Bouzayani,1997.0,Female,2000S,NR,Outdoor
+6:04.46,UGA,Milano,ITA,2005-06-01,Dorcus Inzikuru,1982.0,Female,2000S,NR,Outdoor
+6:21.16,UKR,Moskva,RUS,1992-06-24,Lyudmila Pushkina,1965.0,Female,2000S,NR,Outdoor
+6:09.81,USA,Birmingham,GBR,2023-07-29,Madie Boreman,1998.0,Female,2000S,NR,Outdoor
+6:24.26,UZB,Gorkiy,URS,1989-07-23,Irina Matrosova,1962.0,Female,2000S,NR,Outdoor
+6:45.34,VIE,Thua Thien Hue,VIE,2008-09-15,Le Thi Hang,1990.0,Female,2000S,NR,Outdoor

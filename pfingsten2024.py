@@ -12,4 +12,5 @@ women_df = df[(df['event'].isin(women)) & (df['class'] == 'W')]
 
 df = pd.concat([men_df, women_df])
 
+df.to_csv('pfingsten2024.csv', index=False)
 df.to_excel('pfingsten2024.xlsx', index=False)

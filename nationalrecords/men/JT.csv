@@ -1,213 +1,214 @@
-result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
-49.59,AFG,Papenburg,GER,2014-06-29,Said Gilani,1996,Male,JT,NR
-55.90,AHO,Eindhoven,NED,1987-09-02,James Sharpe,1962,Male,JT,NR
-62.58,AIA,Edwardsville IL,USA,2009-05-21,Samek Connor,,Male,JT,NR
-67.32,ALB,Tirane,ALB,1999-05-04,Vladimir Sokoli,1976,Male,JT,NR
-70.20,ALG,Tunis,TUN,1986-08-07,Ahmed Mahour Bacha,1961,Male,JT,NR
-61.64,AND,Pamplona,ESP,1998-07-18,Adriàn Pérez,1966,Male,JT,NR
-64.73,ANG,Lisboa,POR,2018-05-09,Esmeraldino Trigo,1996,Male,JT,NR
-66.10,ANT,Basseterre,SKN,2014-07-06,Jeffrey Skerrit,,Male,JT,NR
-83.32,ARG,Beijing,CHN,2015-08-24,Braian Toledo,1993,Male,JT,NR
-79.71,ARM,Adler,RUS,2012-02-18,Melik Janoyan,1985,Male,JT,NR
-61.29,ARU,Den Haag,NED,2017-05-20,Pierre de Windt,1983,Male,JT,NR
-89.02,AUS,Brisbane,AUS,2008-02-29,Jarrod Bannister,1984,Male,JT,NR
-84.03,AUT,Kapfenberg,AUT,1999-07-18,Gregor Högler,1972,Male,JT,NR
-61.18,AZE,Baku,AZE,2019-05-25,Orkhan Gasimov,1993,Male,JT,NR
-84.27,BAH,Austin TX,USA,2023-03-31,Keyshawn Strachan,2003,Male,JT,NR
-64.05,BAN,Dhaka,BAN,2017-12-23,Mohamed Moniruzzaman,,Male,JT,NR
-78.71,BAR,St. Georges,GRN,2017-04-08,Janeil Craigg,1994,Male,JT,NR
-61.95,BDI,Bujumbura,BDI,1992-09-06,Joseph Kanjobi,,Male,JT,NR
-87.35,BEL,Nairobi,KEN,2023-05-13,Timothy Herman,1990,Male,JT,NR
-64.95,BEN,Kinshasa,COD,2023-08-04,Romaric Huoénou,1998,Male,JT,NR
-62.12,BER,Tuscaloosa AL,USA,1987-05-15,Brooke Onley,,Male,JT,NR
-50.50,BHU,Thimphu,BHU,2005-02-05,Tzehi Wangshan,,Male,JT,NR
-81.63,BIH,Zenica,BIH,2016-06-18,Dejan Mileusnic,1991,Male,JT,NR
-51.93,BIZ,Managua,NCA,2012-06-17,Arlen Kyle Pou,,Male,JT,NR
-87.53,BLR,Minsk,BLR,2022-02-08,Aliaksei Katkavets,1998,Male,JT,NR
-67.93,BOL,Cochabamba,BOL,2021-06-17,Melbin Soto,1997,Male,JT,NR
-80.49,BOT,Gaborone,BOT,2015-05-31,Adriaan Beukes,1994,Male,JT,NR
-83.89,BRA,São Paulo,BRA,2023-05-10,Pedro Henrique Rodrigues,1999,Male,JT,NR
-64.38,BRN,Tallinn,EST,1994-08-02,Youcef Bou Khamas,,Male,JT,NR
-55.84,BRU,Kota Kinabalu,MAS,2002-09-12,Jean Merbai Ak Biju,1984,Male,JT,NR
-83.40,BUL,Cluj-Napoca,ROU,2020-09-20,Mark Slavov,1994,Male,JT,NR
-61.00,BUR,Ouagadougou,BUR,1993-05-30,Calixte Quedraogo,,Male,JT,NR
-62.62,CAF,Argentan,FRA,1999-12-06,Mickaël Conjungo,1968,Male,JT,NR
-42.30,CAM,Phnom Penh,CAM,2016-10-30,Kompeak Chorn,,Male,JT,NR
-84.81,CAN,Toronto,CAN,2011-07-13,Scott Russell,1979,Male,JT,NR
-75.38,CAY,Eugene OR,USA,2017-06-07,Alexander Pascal,1994,Male,JT,NR
-68.61,CGO,Brazzaville,CGO,2010-05-24,Jean Michel Matsounga,,Male,JT,NR
-54.42,CHA,N'Djamena,CHA,1996-06-04,Dillah Naiwala,,Male,JT,NR
-78.69,CHI,Gainesville FL,USA,2011-04-01,Ignacio Guerra,1987,Male,JT,NR
-89.15,CHN,Incheon,KOR,2014-10-02,Zhao Qinggang,1985,Male,JT,NR
-71.56,CIV,Tours,FRA,1987-07-14,Leonard Koffi Kouadio,,Male,JT,NR
-71.44,CMR,Rabat,MAR,2019-08-30,Claude Chamaken,1988,Male,JT,NR
-60.76,COD,Kinshasa,CMR,1996-06-23,Otanda Kinimalebo,,Male,JT,NR
-57.18,COK,Nikao,COK,2009-09-24,Daniel Tutai,1992,Male,JT,NR
-82.39,COL,Medellín,COL,2016-07-10,Dairon Márquez,1983,Male,JT,NR
-53.97,COM,Miramas,FRA,2010-05-23,Maoulida Daroueche,1990,Male,JT,NR
-65.54,CPV,Lisboa,POR,2014-02-01,Egner Tavares,1993,Male,JT,NR
-73.22,CRC,San José3,CRC,2023-05-07,Ivan Jose Sibaja,2000,Male,JT,NR
-82.70,CRO,Zagreb,CRO,1992-07-25,Ivan Mustapić,1966,Male,JT,NR
-87.20,CUB,Guadalajara2,MEX,2011-10-28,Guillermo Martínez,1981,Male,JT,NR
-77.65,CYP,Nicosia,CYP,2019-05-19,Paraskevás Batzávalis,1994,Male,JT,NR
-98.48,CZE,Jena,GER,1996-05-25,Jan Železný,1966,Male,JT,NR
-81.22,DEN,København,DEN,1989-08-05,Kenneth Petersen,1965,Male,JT,NR
-36.49,DJI,Djibouti,DJI,2008-04-18,Saad Ali Farah,,Male,JT,NR
-68.79,DMA,Chihuahua,MEX,2019-06-01,Andre Bazil,1991,Male,JT,NR
-71.00,DOM,Montclair NJ,USA,2000-03-24,Daniel Alonso,,Male,JT,NR
-74.68,ECU,Cuenca,ECU,2015-03-15,José Escobar,1991,Male,JT,NR
-89.21,EGY,Shanghai,CHN,2014-05-18,Ihab Abdelrahman,1989,Male,JT,NR
-49.25,ERI,Aarau,SUI,2021-09-18,Tesfay Misgun,,Male,JT,NR
-72.70,ESA,Maracaibo,VEN,1998-08-19,Fernando Palomo,1972,Male,JT,NR
-84.80,ESP,Chorzów,POL,2021-05-29,Odel Jainaga,1997,Male,JT,NR
-90.61,EST,Kuortane,FIN,2019-06-22,Magnus Kirt,1990,Male,JT,NR
-73.28,ETH,Hawassa,ETH,2022-04-01,Otag Ubang,,Male,JT,NR
-81.76,FIJ,Sydney,AUS,2016-04-03,Leslie Copeland,1988,Male,JT,NR
-93.09,FIN,Kuortane,FIN,1999-06-26,Aki Parviainen,1974,Male,JT,NR
-82.56,FRA,Duisburg,FRG,1989-08-28,Pascal Lefèvre,1965,Male,JT,NR
-56.94,FSM,Santa Rita,GUM,2003-06-14,Clayton Maluwelgiye,,Male,JT,NR
-60.40,GAB,Abidjan,CIV,1990-02-25,Jean-Louismézui Assa,,Male,JT,NR
-50.26,GAM,Cervia,ITA,2019-09-07,Abdourahman Gumaneh,,Male,JT,NR
-91.46,GBR,Auckland,NZL,1992-01-25,Steve Backley,1969,Male,JT,NR
-52.71,GBS,Lisboa,POR,2016-05-14,Otoniel Badjana,1998,Male,JT,NR
-75.48,GEO,Moskva,URS,1990-07-18,Ambrosiy Matiashvili,1971,Male,JT,NR
-46.70,GEQ,Malabo,GEQ,2002-07-12,Manases Mba Micha,,Male,JT,NR
-97.76,GER,Chorzów,POL,2020-09-06,Johannes Vetter,1993,Male,JT,NR
-83.09,GHA,Cape Coast,GHA,2016-07-08,John Ampomah,1990,Male,JT,NR
-38.76,GIB,Gibraltar,GIB,1995-07-17,Andy Storey,,Male,JT,NR
-91.69,GRE,Kuortane,FIN,2000-06-24,Konstandínos Gatsioúdis,1973,Male,JT,NR
-93.07,GRN,Doha,QAT,2022-05-13,Anderson Peters,1997,Male,JT,NR
-72.21,GUA,San Salvador,ESA,2019-03-30,Luis Mario Taracena,1989,Male,JT,NR
-56.00,GUI,Fria,GUI,1992-06-26,Fode Sidibe,,Male,JT,NR
-71.19,GUM,Tucson AZ,USA,2008-05-24,Jon Rozborski,1981,Male,JT,NR
-78.65,GUY,Cochabamba,BOL,2018-06-06,Leslain Baird,1987,Male,JT,NR
-58.97,HAI,Nacogdoches TX,USA,2018-04-07,Brian Donna,,Male,JT,NR
-71.78,HKG,Jakarta,INA,2018-08-27,Ricky Hui Wai Hei,1992,Male,JT,NR
-55.70,HON,Tegucigalpa,HON,1989-10-28,Ner Gonzales,,Male,JT,NR
-84.98,HUN,Eisenstadt,AUT,2023-07-26,György Herczeg,2004,Male,JT,NR
-75.58,INA,Kuala Lumpur,MAS,1991-10-22,Frans Mahuse,1964,Male,JT,NR
-89.94,IND,Stockholm/S,SWE,2022-06-30,Neeraj Chopra,1997,Male,JT,NR
-76.65,IRI,Tehran,IRI,2022-09-11,Ali Fathi Ganji,2001,Male,JT,NR
-82.75,IRL,London,GBR,2000-08-05,Terry McHugh,1963,Male,JT,NR
-76.82,IRQ,Mashhad,IRI,2021-04-12,Younis Mohsen Saleh,1997,Male,JT,NR
-86.80,ISL,Reykjavik,ISL,1992-08-29,Einar Vilhjálmsson,1960,Male,JT,NR
-81.94,ISR,Zaragoza,ESP,2004-06-08,Vadim Bavikin,1970,Male,JT,NR
-62.05,ISV,Buffalo NY,USA,2018-05-10,Avery Joseph,1997,Male,JT,NR
-84.60,ITA,Osaka,JPN,1999-05-08,Carlo Sonego,1972,Male,JT,NR
-65.41,IVB,Hutchinson KS,USA,2009-05-22,Omar Jones,1988,Male,JT,NR
-77.31,JAM,Kingston,JAM,2023-06-10,Elvis Graham,1996,Male,JT,NR
-58.48,JOR,Irbid,JOR,1995-06-08,Khaled Jaber,,Male,JT,NR
-87.60,JPN,San José CA,USA,1989-05-27,Kazuhiro Mizoguchi,1962,Male,JT,NR
-85.16,KAZ,Karl-Marx-Stadt,GER,1987-06-21,Viktor Yevsyukov,1956,Male,JT,NR
-92.72,KEN,Beijing,CHN,2015-08-26,Julius Yego,1989,Male,JT,NR
-77.77,KGZ,Bishkek,KGZ,2000-07-01,Dmitriy Shnayder,1976,Male,JT,NR
-55.89,KIR,Apia,SAM,2006-12-12,Rabangaki Nawai,1985,Male,JT,NR
-83.99,KOR,Wellington,NZL,2004-03-13,Park Jae-Myong,1981,Male,JT,NR
-61.65,KOS,Mitrovice,KOS,2010-07-10,Besart Gashi,1992,Male,JT,NR
-77.85,KSA,Irbid,JOR,1999-08-14,Ali Al-Jadani,1977,Male,JT,NR
-73.10,KUW,Budapest,HUN,1995-08-11,Ghanen Mabrouk Goher Zaid,,Male,JT,NR
-61.07,LAO,Vientiane,LAO,2009-12-17,Khongma Korakant,,Male,JT,NR
-90.73,LAT,Tallinn,EST,2007-07-22,Vadims Vasiļevskis,1982,Male,JT,NR
-66.87,LBA,Al Qâhira,EGY,2014-04-25,Abdallah Mohieddine Al Taghdi,,Male,JT,NR
-65.16,LBN,Beyrouth,LBN,2022-08-13,Nabil Al-Akoumi,1996,Male,JT,NR
-57.20,LBR,Ratingen,GER,2011-07-17,Jangy Addy,1985,Male,JT,NR
-82.19,LCA,Lima,PER,2019-08-10,Albert Reynolds,1988,Male,JT,NR
-52.00,LES,Maseru,LES,2002-12-14,Mefi Tsietso,,Male,JT,NR
-71.68,LIE,Monaco,MON,2007-06-07,René Michlig,1980,Male,JT,NR
-89.17,LTU,Palanga,LTU,2019-07-27,Edis Matusevičius,1996,Male,JT,NR
-75.39,LUX,Castellón,ESP,2013-03-17,Tun Wagner,1988,Male,JT,NR
-60.46,MAC,Guangzhou,CHN,2001-11-19,Ning Zi Heng,1963,Male,JT,NR
-69.92,MAD,Mahitsy,MAD,1990-10-06,Fidele Rakotonirina,,Male,JT,NR
-76.45,MAR,Zaragoza,ESP,2017-05-20,Bilal Nouali,1994,Male,JT,NR
-73.34,MAS,Singapore,SGP,1995-09-02,Mohamed Yazid Imran,1966,Male,JT,NR
-56.93,MAW,Harare,ZIM,2005-03-07,Stanley Mutali,,Male,JT,NR
-86.66,MDA,Split,CRO,2021-05-08,Andrian Mardare,1995,Male,JT,NR
-47.60,MDV,Male,MDV,2010-08-06,Abdullah Mahir,,Male,JT,NR
-81.71,MEX,Tucson AZ,USA,2022-05-19,David Carreon,1994,Male,JT,NR
-46.83,MHL,Cairns,AUS,2010-09-25,Emilado Jr Digno,,Male,JT,NR
-76.50,MKD,Skopje,MKD,2002-07-15,Dejan Angelovski,1976,Male,JT,NR
-64.87,MLI,Bamako,MLI,2010-04-27,Moctar Djigui,1984,Male,JT,NR
-66.47,MLT,Andorra,AND,2021-05-29,Bradley Mifsud,1996,Male,JT,NR
-69.14,MNE,Bar,MNE,2022-08-28,Amir Papazi,2001,Male,JT,NR
-42.48,MON,Nice,FRA,2005-05-12,Anthony de Sevelinges,1978,Male,JT,NR
-60.16,MOZ,Maputo,MOZ,2016-08-28,Filipe Chaimita,,Male,JT,NR
-69.70,MRI,Réduit,MRI,2005-05-15,Fabio Ramsamy,1984,Male,JT,NR
-49.52,MTN,Al-Kuwait,KUW,1989-10-31,Abdul Kader,,Male,JT,NR
-67.24,MYA,Nay Pyi Taw,MYA,2023-12-08,Nan Htet Maung,2001,Male,JT,NR
-78.32,NAM,Potchefstroom,RSA,2015-05-08,Strydom van der Wath,1991,Male,JT,NR
-71.62,NCA,Guadalajara,ESP,1997-07-17,Rigoberto Calderón,1970,Male,JT,NR
-80.70,NED,Castricum,NED,2017-06-07,Thomas Van Ophem,1992,Male,JT,NR
-70.39,NEP,Kathmandu,NEP,1999-09-29,Khurshed Ahmad Khan,1969,Male,JT,NR
-51.00,NFI,Nikao,COK,2001-10-24,Micheal Dowling,,Male,JT,NR
-81.22,NGR,Fayetteville AR,USA,2022-05-25,Chinecherem Nnamdi,2002,Male,JT,NR
-59.93,NIG,Zaria,NGR,2021-05-30,Abdulaziz Garba,,Male,JT,NR
-53.91,NIU,Port Vila,VAN,2017-11-12,Misinia Misikea,1993,Male,JT,NR
-59.74,NMI,Valley City ND,USA,2002-05-13,Nick Gross,,Male,JT,NR
-91.59,NOR,Oslo,NOR,2006-06-02,Andreas Thorkildsen,1982,Male,JT,NR
-49.50,NRU,Meneng,NRU,1994-09-17,Fine Olsson,,Male,JT,NR
-88.20,NZL,Oslo,NOR,1996-07-05,Gavin Lovegrove,1967,Male,JT,NR
-70.11,OMA,Zgorzelec,POL,2011-06-18,Khamis Ghabish Al-Outeibi,1988,Male,JT,NR
-90.18,PAK,Birmingham,GBR,2022-08-07,Arshad Nadeem,1997,Male,JT,NR
-71.63,PAN,Encarnación,PAR,2023-08-19,Jonathan Cedeño,1995,Male,JT,NR
-84.70,PAR,San Marcos CA,USA,1999-10-17,Edgar Baumann,1970,Male,JT,NR
-69.46,PER,Lima,PER,1999-09-04,Jorge Quiñones,1975,Male,JT,NR
-72.93,PHI,Vientiane,LAO,2009-12-17,Danilo Fresnido,1972,Male,JT,NR
-52.12,PLE,Gaza,PLE,2000-09-29,Mohamed Thabet,,Male,JT,NR
-60.86,PLW,Koror,PLW,2010-05-08,Dougwin Franz,,Male,JT,NR
-66.39,PNG,Saipan2,NMI,2022-06-22,Lakona Gerega,1996,Male,JT,NR
-89.55,POL,Turku,FIN,2021-06-08,Marcin Krukowski,1992,Male,JT,NR
-84.78,POR,Doha,QAT,2022-05-13,Leandro Ramos,2000,Male,JT,NR
-63.82,PRK,Pyongyang,PRK,1994-05-21,Kim Chol-Nam,,Male,JT,NR
-76.07,PUR,Bradenton FL,USA,2016-05-28,Caleb Nieves,,Male,JT,NR
-85.23,QAT,Turku,FIN,2017-06-13,Ahmed Bader Magour,1996,Male,JT,NR
-86.37,ROU,Nembro,ITA,2018-07-05,Alexandru Novac,1997,Male,JT,NR
-88.75,RSA,Kuala Lumpur,MAS,1998-09-21,Marius Corbett,1975,Male,JT,NR
-92.61,RUS,Sheffield,GBR,2002-06-30,Sergey Makarov,1973,Male,JT,NR
-47.15,RWA,Kigali,RWA,2020-12-13,Eric Muringa,,Male,JT,NR
-70.97,SAM,Wellington,NZL,2024-02-03,Donny Tuimaseve,1999,Male,JT,NR
-79.30,SEN,Fort-de-France,FRA,1997-07-06,Bouna Diop,1976,Male,JT,NR
-56.85,SEY,Réduit,MRI,1989-05-14,Gonzague Boniface,,Male,JT,NR
-61.07,SGP,Singapore,SGP,2020-11-29,Justyn Phoa Zairen,1999,Male,JT,NR
-69.34,SKN,Lubbock TX,USA,2017-05-06,Adrian Williams,1995,Male,JT,NR
-52.41,SLE,Freetown,SLE,2012-12-26,Alpha Turay,,Male,JT,NR
-81.13,SLO,Brežice,SLO,2016-06-23,Matija Kranjc,1984,Male,JT,NR
-73.31,SMR,Roma,ITA,2004-06-26,Gabriele Mazza,1972,Male,JT,NR
-60.58,SOL,Tulagi,SOL,2013-09-26,Ezekiel Rangi,,Male,JT,NR
-36.31,SOM,Wien,AUT,2019-09-29,Ahmed Abdi Fatah,,Male,JT,NR
-83.34,SRB,Beograd,YUG,1987-05-30,Sejad Krdžalic,1960,Male,JT,NR
-83.04,SRI,Diyagama,SRI,2015-12-03,R.M.S.J. Ranasinghe,1991,Male,JT,NR
-60.55,SSD,Nairobi,KEN,2019-09-13,Atem Deng Alier,,Male,JT,NR
-55.79,STP,Leiria,POR,2017-05-06,Adeonaldo Freitas,1999,Male,JT,NR
-61.82,SUD,Nairobi,KEN,1988-08-02,Garang Malong,,Male,JT,NR
-82.07,SUI,Bern,SUI,2006-09-16,Stefan Müller,1979,Male,JT,NR
-56.20,SUR,Remire Montjoly,FRA,2015-06-20,Juan Dahl,1995,Male,JT,NR
-87.66,SVK,Nitra,TCH,1987-05-31,Jan Železný,1966,Male,JT,NR
-89.10,SWE,Austin TX,USA,1990-03-24,Patrik Bodén,1967,Male,JT,NR
-55.73,SWZ,Lobamba,SWZ,2001-04-28,Mzwandile Mazibuko,,Male,JT,NR
-80.50,SYR,Beyrouth,LBN,1999-06-30,Firass Zaal Al-Mohamed,1975,Male,JT,NR
-76.48,TAN,Arlington TX,USA,1986-05-10,Zakayo Malekwa,1951,Male,JT,NR
-59.03,TGA,Adelaide,AUS,1993-01-16,Homelo Vi,1967,Male,JT,NR
-76.98,THA,Mokpo,KOR,2016-09-03,Peerachet Janthra,1990,Male,JT,NR
-56.26,TJK,Dushanbe,TJK,2019-06-28,Buzurgmehr Kholikov,,Male,JT,NR
-66.95,TKM,Ashgabat,TKM,2011-04-30,Serdar Mamedov,1994,Male,JT,NR
-55.76,TKS,Woodbury MN,USA,2018-04-21,Yvandy Rigby,,Male,JT,NR
-33.44,TLS,Dili,TLS,2015-08-11,Felisimo M. Alipio,,Male,JT,NR
-64.90,TOG,Niamey,NIG,1998-05-31,Kambour Agorou,,Male,JT,NR
-91.36,TPE,Taipei,TPE,2017-08-26,Cheng Chao-Tsun,1993,Male,JT,NR
-90.16,TTO,Lausanne,SUI,2015-07-09,Keshorn Walcott,1993,Male,JT,NR
-77.98,TUN,Tunis,TUN,1995-05-20,Maher Ridane,1971,Male,JT,NR
-85.60,TUR,Izmir,TUR,2012-05-20,Fatih Avan,1989,Male,JT,NR
-53.62,TUV,Port Vila,VAN,2017-11-12,Imo Fiamalua,1986,Male,JT,NR
-65.26,UAE,Meknès,MAR,1999-06-19,Said Salem Saber Baiha,,Male,JT,NR
-75.52,UGA,Ulm,GER,1988-08-06,Justin Arop,1958,Male,JT,NR
-86.12,UKR,Kyiv,UKR,2012-05-20,Oleksandr Pyatnytsya,1985,Male,JT,NR
-71.96,URU,Montevideo,URU,2022-09-03,Techera Lautaro,2002,Male,JT,NR
-91.29,USA,Indianapolis IN,USA,2007-06-21,Breaux Greer,1976,Male,JT,NR
-87.20,UZB,Moskva,RUS,1992-06-23,Viktor Zaytsev,1966,Male,JT,NR
-60.98,VAN,Port Vila,VAN,2017-11-12,Jack Nasawa,1997,Male,JT,NR
-77.94,VEN,Maracaibo,VEN,2004-06-05,Manuel Fuenmayor,1980,Male,JT,NR
-73.18,VIE,Ho Chi Minh,VIE,2019-07-18,Nguyen Hoai Van,1993,Male,JT,NR
-60.97,VIN,Arlington VA,USA,2010-05-14,Adonson Shallow,1986,Male,JT,NR
-55.70,YEM,Sana’a,YEM,2010-04-26,Atig Mohamed Nasir,,Male,JT,NR
-64.67,ZAM,Lusaka,ZAM,2024-02-10,Nayoya Sisamu,2005,Male,JT,NR
-66.18,ZIM,Harare,ZIM,1997-07-19,Roland Vermeulen,,Male,JT,NR
+result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,environment
+49.59,AFG,Papenburg,GER,2014-06-29,Said Gilani,1996.0,Male,JT,NR,Outdoor
+55.90,AHO,Eindhoven,NED,1987-09-02,James Sharpe,1962.0,Male,JT,NR,Outdoor
+62.58,AIA,Edwardsville IL,USA,2009-05-21,Samek Connor,,Male,JT,NR,Outdoor
+67.32,ALB,Tirane,ALB,1999-05-04,Vladimir Sokoli,1976.0,Male,JT,NR,Outdoor
+70.20,ALG,Tunis,TUN,1986-08-07,Ahmed Mahour Bacha,1961.0,Male,JT,NR,Outdoor
+61.64,AND,Pamplona,ESP,1998-07-18,Adriàn Pérez,1966.0,Male,JT,NR,Outdoor
+64.73,ANG,Lisboa,POR,2018-05-09,Esmeraldino Trigo,1996.0,Male,JT,NR,Outdoor
+66.10,ANT,Basseterre,SKN,2014-07-06,Jeffrey Skerrit,,Male,JT,NR,Outdoor
+83.32,ARG,Beijing,CHN,2015-08-24,Braian Toledo,1993.0,Male,JT,NR,Outdoor
+79.71,ARM,Adler,RUS,2012-02-18,Melik Janoyan,1985.0,Male,JT,NR,Outdoor
+61.29,ARU,Den Haag,NED,2017-05-20,Pierre de Windt,1983.0,Male,JT,NR,Outdoor
+89.02,AUS,Brisbane,AUS,2008-02-29,Jarrod Bannister,1984.0,Male,JT,NR,Outdoor
+84.03,AUT,Kapfenberg,AUT,1999-07-18,Gregor Högler,1972.0,Male,JT,NR,Outdoor
+61.18,AZE,Baku,AZE,2019-05-25,Orkhan Gasimov,1993.0,Male,JT,NR,Outdoor
+84.27,BAH,Austin TX,USA,2023-03-31,Keyshawn Strachan,2003.0,Male,JT,NR,Outdoor
+64.05,BAN,Dhaka,BAN,2017-12-23,Mohamed Moniruzzaman,,Male,JT,NR,Outdoor
+78.71,BAR,St. Georges,GRN,2017-04-08,Janeil Craigg,1994.0,Male,JT,NR,Outdoor
+61.95,BDI,Bujumbura,BDI,1992-09-06,Joseph Kanjobi,,Male,JT,NR,Outdoor
+87.35,BEL,Nairobi,KEN,2023-05-13,Timothy Herman,1990.0,Male,JT,NR,Outdoor
+64.95,BEN,Kinshasa,COD,2023-08-04,Romaric Huoénou,1998.0,Male,JT,NR,Outdoor
+62.12,BER,Tuscaloosa AL,USA,1987-05-15,Brooke Onley,,Male,JT,NR,Outdoor
+50.50,BHU,Thimphu,BHU,2005-02-05,Tzehi Wangshan,,Male,JT,NR,Outdoor
+81.63,BIH,Zenica,BIH,2016-06-18,Dejan Mileusnic,1991.0,Male,JT,NR,Outdoor
+51.93,BIZ,Managua,NCA,2012-06-17,Arlen Kyle Pou,,Male,JT,NR,Outdoor
+87.53,BLR,Minsk,BLR,2022-02-08,Aliaksei Katkavets,1998.0,Male,JT,NR,Outdoor
+67.93,BOL,Cochabamba,BOL,2021-06-17,Melbin Soto,1997.0,Male,JT,NR,Outdoor
+80.49,BOT,Gaborone,BOT,2015-05-31,Adriaan Beukes,1994.0,Male,JT,NR,Outdoor
+83.89,BRA,São Paulo,BRA,2023-05-10,Pedro Henrique Rodrigues,1999.0,Male,JT,NR,Outdoor
+64.38,BRN,Tallinn,EST,1994-08-02,Youcef Bou Khamas,,Male,JT,NR,Outdoor
+55.84,BRU,Kota Kinabalu,MAS,2002-09-12,Jean Merbai Ak Biju,1984.0,Male,JT,NR,Outdoor
+83.40,BUL,Cluj-Napoca,ROU,2020-09-20,Mark Slavov,1994.0,Male,JT,NR,Outdoor
+61.00,BUR,Ouagadougou,BUR,1993-05-30,Calixte Quedraogo,,Male,JT,NR,Outdoor
+62.62,CAF,Argentan,FRA,1999-12-06,Mickaël Conjungo,1968.0,Male,JT,NR,Outdoor
+42.30,CAM,Phnom Penh,CAM,2016-10-30,Kompeak Chorn,,Male,JT,NR,Outdoor
+84.81,CAN,Toronto,CAN,2011-07-13,Scott Russell,1979.0,Male,JT,NR,Outdoor
+75.38,CAY,Eugene OR,USA,2017-06-07,Alexander Pascal,1994.0,Male,JT,NR,Outdoor
+68.61,CGO,Brazzaville,CGO,2010-05-24,Jean Michel Matsounga,,Male,JT,NR,Outdoor
+54.42,CHA,N'Djamena,CHA,1996-06-04,Dillah Naiwala,,Male,JT,NR,Outdoor
+78.69,CHI,Gainesville FL,USA,2011-04-01,Ignacio Guerra,1987.0,Male,JT,NR,Outdoor
+89.15,CHN,Incheon,KOR,2014-10-02,Zhao Qinggang,1985.0,Male,JT,NR,Outdoor
+71.56,CIV,Tours,FRA,1987-07-14,Leonard Koffi Kouadio,,Male,JT,NR,Outdoor
+71.44,CMR,Rabat,MAR,2019-08-30,Claude Chamaken,1988.0,Male,JT,NR,Outdoor
+60.76,COD,Kinshasa,CMR,1996-06-23,Otanda Kinimalebo,,Male,JT,NR,Outdoor
+57.18,COK,Nikao,COK,2009-09-24,Daniel Tutai,1992.0,Male,JT,NR,Outdoor
+82.39,COL,Medellín,COL,2016-07-10,Dairon Márquez,1983.0,Male,JT,NR,Outdoor
+53.97,COM,Miramas,FRA,2010-05-23,Maoulida Daroueche,1990.0,Male,JT,NR,Outdoor
+65.54,CPV,Lisboa,POR,2014-02-01,Egner Tavares,1993.0,Male,JT,NR,Outdoor
+73.22,CRC,San José3,CRC,2023-05-07,Ivan Jose Sibaja,2000.0,Male,JT,NR,Outdoor
+82.70,CRO,Zagreb,CRO,1992-07-25,Ivan Mustapić,1966.0,Male,JT,NR,Outdoor
+87.20,CUB,Guadalajara2,MEX,2011-10-28,Guillermo Martínez,1981.0,Male,JT,NR,Outdoor
+77.65,CYP,Nicosia,CYP,2019-05-19,Paraskevás Batzávalis,1994.0,Male,JT,NR,Outdoor
+98.48,CZE,Jena,GER,1996-05-25,Jan Železný,1966.0,Male,JT,NR,Outdoor
+81.22,DEN,København,DEN,1989-08-05,Kenneth Petersen,1965.0,Male,JT,NR,Outdoor
+36.49,DJI,Djibouti,DJI,2008-04-18,Saad Ali Farah,,Male,JT,NR,Outdoor
+68.79,DMA,Chihuahua,MEX,2019-06-01,Andre Bazil,1991.0,Male,JT,NR,Outdoor
+71.00,DOM,Montclair NJ,USA,2000-03-24,Daniel Alonso,,Male,JT,NR,Outdoor
+74.68,ECU,Cuenca,ECU,2015-03-15,José Escobar,1991.0,Male,JT,NR,Outdoor
+89.21,EGY,Shanghai,CHN,2014-05-18,Ihab Abdelrahman,1989.0,Male,JT,NR,Outdoor
+49.25,ERI,Aarau,SUI,2021-09-18,Tesfay Misgun,,Male,JT,NR,Outdoor
+72.70,ESA,Maracaibo,VEN,1998-08-19,Fernando Palomo,1972.0,Male,JT,NR,Outdoor
+84.80,ESP,Chorzów,POL,2021-05-29,Odel Jainaga,1997.0,Male,JT,NR,Outdoor
+90.61,EST,Kuortane,FIN,2019-06-22,Magnus Kirt,1990.0,Male,JT,NR,Outdoor
+73.28,ETH,Hawassa,ETH,2022-04-01,Otag Ubang,,Male,JT,NR,Outdoor
+81.76,FIJ,Sydney,AUS,2016-04-03,Leslie Copeland,1988.0,Male,JT,NR,Outdoor
+93.09,FIN,Kuortane,FIN,1999-06-26,Aki Parviainen,1974.0,Male,JT,NR,Outdoor
+82.56,FRA,Duisburg,FRG,1989-08-28,Pascal Lefèvre,1965.0,Male,JT,NR,Outdoor
+56.94,FSM,Santa Rita,GUM,2003-06-14,Clayton Maluwelgiye,,Male,JT,NR,Outdoor
+60.40,GAB,Abidjan,CIV,1990-02-25,Jean-Louismézui Assa,,Male,JT,NR,Outdoor
+50.26,GAM,Cervia,ITA,2019-09-07,Abdourahman Gumaneh,,Male,JT,NR,Outdoor
+91.46,GBR,Auckland,NZL,1992-01-25,Steve Backley,1969.0,Male,JT,NR,Outdoor
+52.71,GBS,Lisboa,POR,2016-05-14,Otoniel Badjana,1998.0,Male,JT,NR,Outdoor
+75.48,GEO,Moskva,URS,1990-07-18,Ambrosiy Matiashvili,1971.0,Male,JT,NR,Outdoor
+46.70,GEQ,Malabo,GEQ,2002-07-12,Manases Mba Micha,,Male,JT,NR,Outdoor
+97.76,GER,Chorzów,POL,2020-09-06,Johannes Vetter,1993.0,Male,JT,NR,Outdoor
+83.09,GHA,Cape Coast,GHA,2016-07-08,John Ampomah,1990.0,Male,JT,NR,Outdoor
+38.76,GIB,Gibraltar,GIB,1995-07-17,Andy Storey,,Male,JT,NR,Outdoor
+91.69,GRE,Kuortane,FIN,2000-06-24,Konstandínos Gatsioúdis,1973.0,Male,JT,NR,Outdoor
+93.07,GRN,Doha,QAT,2022-05-13,Anderson Peters,1997.0,Male,JT,NR,Outdoor
+72.21,GUA,San Salvador,ESA,2019-03-30,Luis Mario Taracena,1989.0,Male,JT,NR,Outdoor
+56.00,GUI,Fria,GUI,1992-06-26,Fode Sidibe,,Male,JT,NR,Outdoor
+71.19,GUM,Tucson AZ,USA,2008-05-24,Jon Rozborski,1981.0,Male,JT,NR,Outdoor
+78.65,GUY,Cochabamba,BOL,2018-06-06,Leslain Baird,1987.0,Male,JT,NR,Outdoor
+58.97,HAI,Nacogdoches TX,USA,2018-04-07,Brian Donna,,Male,JT,NR,Outdoor
+71.78,HKG,Jakarta,INA,2018-08-27,Ricky Hui Wai Hei,1992.0,Male,JT,NR,Outdoor
+55.70,HON,Tegucigalpa,HON,1989-10-28,Ner Gonzales,,Male,JT,NR,Outdoor
+84.98,HUN,Eisenstadt,AUT,2023-07-26,György Herczeg,2004.0,Male,JT,NR,Outdoor
+75.58,INA,Kuala Lumpur,MAS,1991-10-22,Frans Mahuse,1964.0,Male,JT,NR,Outdoor
+89.94,IND,Stockholm/S,SWE,2022-06-30,Neeraj Chopra,1997.0,Male,JT,NR,Outdoor
+76.65,IRI,Tehran,IRI,2022-09-11,Ali Fathi Ganji,2001.0,Male,JT,NR,Outdoor
+82.75,IRL,London,GBR,2000-08-05,Terry McHugh,1963.0,Male,JT,NR,Outdoor
+76.82,IRQ,Mashhad,IRI,2021-04-12,Younis Mohsen Saleh,1997.0,Male,JT,NR,Outdoor
+86.80,ISL,Reykjavik,ISL,1992-08-29,Einar Vilhjálmsson,1960.0,Male,JT,NR,Outdoor
+81.94,ISR,Zaragoza,ESP,2004-06-08,Vadim Bavikin,1970.0,Male,JT,NR,Outdoor
+62.05,ISV,Buffalo NY,USA,2018-05-10,Avery Joseph,1997.0,Male,JT,NR,Outdoor
+84.60,ITA,Osaka,JPN,1999-05-08,Carlo Sonego,1972.0,Male,JT,NR,Outdoor
+65.41,IVB,Hutchinson KS,USA,2009-05-22,Omar Jones,1988.0,Male,JT,NR,Outdoor
+77.31,JAM,Kingston,JAM,2023-06-10,Elvis Graham,1996.0,Male,JT,NR,Outdoor
+58.48,JOR,Irbid,JOR,1995-06-08,Khaled Jaber,,Male,JT,NR,Outdoor
+87.60,JPN,San José CA,USA,1989-05-27,Kazuhiro Mizoguchi,1962.0,Male,JT,NR,Outdoor
+85.16,KAZ,Karl-Marx-Stadt,GER,1987-06-21,Viktor Yevsyukov,1956.0,Male,JT,NR,Outdoor
+92.72,KEN,Beijing,CHN,2015-08-26,Julius Yego,1989.0,Male,JT,NR,Outdoor
+77.77,KGZ,Bishkek,KGZ,2000-07-01,Dmitriy Shnayder,1976.0,Male,JT,NR,Outdoor
+55.89,KIR,Apia,SAM,2006-12-12,Rabangaki Nawai,1985.0,Male,JT,NR,Outdoor
+83.99,KOR,Wellington,NZL,2004-03-13,Park Jae-Myong,1981.0,Male,JT,NR,Outdoor
+61.65,KOS,Mitrovice,KOS,2010-07-10,Besart Gashi,1992.0,Male,JT,NR,Outdoor
+77.85,KSA,Irbid,JOR,1999-08-14,Ali Al-Jadani,1977.0,Male,JT,NR,Outdoor
+73.10,KUW,Budapest,HUN,1995-08-11,Ghanen Mabrouk Goher Zaid,,Male,JT,NR,Outdoor
+61.07,LAO,Vientiane,LAO,2009-12-17,Khongma Korakant,,Male,JT,NR,Outdoor
+90.73,LAT,Tallinn,EST,2007-07-22,Vadims Vasiļevskis,1982.0,Male,JT,NR,Outdoor
+66.87,LBA,Al Qâhira,EGY,2014-04-25,Abdallah Mohieddine Al Taghdi,,Male,JT,NR,Outdoor
+65.16,LBN,Beyrouth,LBN,2022-08-13,Nabil Al-Akoumi,1996.0,Male,JT,NR,Outdoor
+57.20,LBR,Ratingen,GER,2011-07-17,Jangy Addy,1985.0,Male,JT,NR,Outdoor
+82.19,LCA,Lima,PER,2019-08-10,Albert Reynolds,1988.0,Male,JT,NR,Outdoor
+52.00,LES,Maseru,LES,2002-12-14,Mefi Tsietso,,Male,JT,NR,Outdoor
+71.68,LIE,Monaco,MON,2007-06-07,René Michlig,1980.0,Male,JT,NR,Outdoor
+89.17,LTU,Palanga,LTU,2019-07-27,Edis Matusevičius,1996.0,Male,JT,NR,Outdoor
+75.39,LUX,Castellón,ESP,2013-03-17,Tun Wagner,1988.0,Male,JT,NR,Outdoor
+60.46,MAC,Guangzhou,CHN,2001-11-19,Ning Zi Heng,1963.0,Male,JT,NR,Outdoor
+69.92,MAD,Mahitsy,MAD,1990-10-06,Fidele Rakotonirina,,Male,JT,NR,Outdoor
+76.45,MAR,Zaragoza,ESP,2017-05-20,Bilal Nouali,1994.0,Male,JT,NR,Outdoor
+73.34,MAS,Singapore,SGP,1995-09-02,Mohamed Yazid Imran,1966.0,Male,JT,NR,Outdoor
+56.93,MAW,Harare,ZIM,2005-03-07,Stanley Mutali,,Male,JT,NR,Outdoor
+86.66,MDA,Split,CRO,2021-05-08,Andrian Mardare,1995.0,Male,JT,NR,Outdoor
+47.60,MDV,Male,MDV,2010-08-06,Abdullah Mahir,,Male,JT,NR,Outdoor
+81.71,MEX,Tucson AZ,USA,2022-05-19,David Carreon,1994.0,Male,JT,NR,Outdoor
+46.83,MHL,Cairns,AUS,2010-09-25,Emilado Jr Digno,,Male,JT,NR,Outdoor
+76.50,MKD,Skopje,MKD,2002-07-15,Dejan Angelovski,1976.0,Male,JT,NR,Outdoor
+64.87,MLI,Bamako,MLI,2010-04-27,Moctar Djigui,1984.0,Male,JT,NR,Outdoor
+66.47,MLT,Andorra,AND,2021-05-29,Bradley Mifsud,1996.0,Male,JT,NR,Outdoor
+69.14,MNE,Bar,MNE,2022-08-28,Amir Papazi,2001.0,Male,JT,NR,Outdoor
+42.48,MON,Nice,FRA,2005-05-12,Anthony de Sevelinges,1978.0,Male,JT,NR,Outdoor
+60.16,MOZ,Maputo,MOZ,2016-08-28,Filipe Chaimita,,Male,JT,NR,Outdoor
+69.70,MRI,Réduit,MRI,2005-05-15,Fabio Ramsamy,1984.0,Male,JT,NR,Outdoor
+49.52,MTN,Al-Kuwait,KUW,1989-10-31,Abdul Kader,,Male,JT,NR,Outdoor
+67.24,MYA,Nay Pyi Taw,MYA,2023-12-08,Nan Htet Maung,2001.0,Male,JT,NR,Outdoor
+78.32,NAM,Potchefstroom,RSA,2015-05-08,Strydom van der Wath,1991.0,Male,JT,NR,Outdoor
+71.62,NCA,Guadalajara,ESP,1997-07-17,Rigoberto Calderón,1970.0,Male,JT,NR,Outdoor
+80.70,NED,Castricum,NED,2017-06-07,Thomas Van Ophem,1992.0,Male,JT,NR,Outdoor
+70.39,NEP,Kathmandu,NEP,1999-09-29,Khurshed Ahmad Khan,1969.0,Male,JT,NR,Outdoor
+51.00,NFI,Nikao,COK,2001-10-24,Micheal Dowling,,Male,JT,NR,Outdoor
+81.22,NGR,Fayetteville AR,USA,2022-05-25,Chinecherem Nnamdi,2002.0,Male,JT,NR,Outdoor
+59.93,NIG,Zaria,NGR,2021-05-30,Abdulaziz Garba,,Male,JT,NR,Outdoor
+53.91,NIU,Port Vila,VAN,2017-11-12,Misinia Misikea,1993.0,Male,JT,NR,Outdoor
+59.74,NMI,Valley City ND,USA,2002-05-13,Nick Gross,,Male,JT,NR,Outdoor
+91.59,NOR,Oslo,NOR,2006-06-02,Andreas Thorkildsen,1982.0,Male,JT,NR,Outdoor
+49.50,NRU,Meneng,NRU,1994-09-17,Fine Olsson,,Male,JT,NR,Outdoor
+88.20,NZL,Oslo,NOR,1996-07-05,Gavin Lovegrove,1967.0,Male,JT,NR,Outdoor
+70.11,OMA,Zgorzelec,POL,2011-06-18,Khamis Ghabish Al-Outeibi,1988.0,Male,JT,NR,Outdoor
+90.18,PAK,Birmingham,GBR,2022-08-07,Arshad Nadeem,1997.0,Male,JT,NR,Outdoor
+71.63,PAN,Encarnación,PAR,2023-08-19,Jonathan Cedeño,1995.0,Male,JT,NR,Outdoor
+84.70,PAR,San Marcos CA,USA,1999-10-17,Edgar Baumann,1970.0,Male,JT,NR,Outdoor
+69.46,PER,Lima,PER,1999-09-04,Jorge Quiñones,1975.0,Male,JT,NR,Outdoor
+72.93,PHI,Vientiane,LAO,2009-12-17,Danilo Fresnido,1972.0,Male,JT,NR,Outdoor
+52.12,PLE,Gaza,PLE,2000-09-29,Mohamed Thabet,,Male,JT,NR,Outdoor
+60.86,PLW,Koror,PLW,2010-05-08,Dougwin Franz,,Male,JT,NR,Outdoor
+66.39,PNG,Saipan2,NMI,2022-06-22,Lakona Gerega,1996.0,Male,JT,NR,Outdoor
+89.55,POL,Turku,FIN,2021-06-08,Marcin Krukowski,1992.0,Male,JT,NR,Outdoor
+84.78,POR,Doha,QAT,2022-05-13,Leandro Ramos,2000.0,Male,JT,NR,Outdoor
+63.82,PRK,Pyongyang,PRK,1994-05-21,Kim Chol-Nam,,Male,JT,NR,Outdoor
+76.07,PUR,Bradenton FL,USA,2016-05-28,Caleb Nieves,,Male,JT,NR,Outdoor
+85.23,QAT,Turku,FIN,2017-06-13,Ahmed Bader Magour,1996.0,Male,JT,NR,Outdoor
+86.37,ROU,Nembro,ITA,2018-07-05,Alexandru Novac,1997.0,Male,JT,NR,Outdoor
+88.75,RSA,Kuala Lumpur,MAS,1998-09-21,Marius Corbett,1975.0,Male,JT,NR,Outdoor
+92.61,RUS,Sheffield,GBR,2002-06-30,Sergey Makarov,1973.0,Male,JT,NR,Outdoor
+47.15,RWA,Kigali,RWA,2020-12-13,Eric Muringa,,Male,JT,NR,Outdoor
+70.97,SAM,Wellington,NZL,2024-02-03,Donny Tuimaseve,1999.0,Male,JT,NR,Outdoor
+79.30,SEN,Fort-de-France,FRA,1997-07-06,Bouna Diop,1976.0,Male,JT,NR,Outdoor
+56.85,SEY,Réduit,MRI,1989-05-14,Gonzague Boniface,,Male,JT,NR,Outdoor
+61.07,SGP,Singapore,SGP,2020-11-29,Justyn Phoa Zairen,1999.0,Male,JT,NR,Outdoor
+69.34,SKN,Lubbock TX,USA,2017-05-06,Adrian Williams,1995.0,Male,JT,NR,Outdoor
+52.41,SLE,Freetown,SLE,2012-12-26,Alpha Turay,,Male,JT,NR,Outdoor
+81.13,SLO,Brežice,SLO,2016-06-23,Matija Kranjc,1984.0,Male,JT,NR,Outdoor
+73.31,SMR,Roma,ITA,2004-06-26,Gabriele Mazza,1972.0,Male,JT,NR,Outdoor
+60.58,SOL,Tulagi,SOL,2013-09-26,Ezekiel Rangi,,Male,JT,NR,Outdoor
+36.31,SOM,Wien,AUT,2019-09-29,Ahmed Abdi Fatah,,Male,JT,NR,Outdoor
+83.34,SRB,Beograd,YUG,1987-05-30,Sejad Krdžalic,1960.0,Male,JT,NR,Outdoor
+83.04,SRI,Diyagama,SRI,2015-12-03,R.M.S.J. Ranasinghe,1991.0,Male,JT,NR,Outdoor
+60.55,SSD,Nairobi,KEN,2019-09-13,Atem Deng Alier,,Male,JT,NR,Outdoor
+55.79,STP,Leiria,POR,2017-05-06,Adeonaldo Freitas,1999.0,Male,JT,NR,Outdoor
+61.82,SUD,Nairobi,KEN,1988-08-02,Garang Malong,,Male,JT,NR,Outdoor
+82.07,SUI,Bern,SUI,2006-09-16,Stefan Müller,1979.0,Male,JT,NR,Outdoor
+56.20,SUR,Remire Montjoly,FRA,2015-06-20,Juan Dahl,1995.0,Male,JT,NR,Outdoor
+87.66,SVK,Nitra,TCH,1987-05-31,Jan Železný,1966.0,Male,JT,NR,Outdoor
+89.10,SWE,Austin TX,USA,1990-03-24,Patrik Bodén,1967.0,Male,JT,NR,Outdoor
+55.73,SWZ,Lobamba,SWZ,2001-04-28,Mzwandile Mazibuko,,Male,JT,NR,Outdoor
+80.50,SYR,Beyrouth,LBN,1999-06-30,Firass Zaal Al-Mohamed,1975.0,Male,JT,NR,Outdoor
+76.48,TAN,Arlington TX,USA,1986-05-10,Zakayo Malekwa,1951.0,Male,JT,NR,Outdoor
+59.03,TGA,Adelaide,AUS,1993-01-16,Homelo Vi,1967.0,Male,JT,NR,Outdoor
+76.98,THA,Mokpo,KOR,2016-09-03,Peerachet Janthra,1990.0,Male,JT,NR,Outdoor
+56.26,TJK,Dushanbe,TJK,2019-06-28,Buzurgmehr Kholikov,,Male,JT,NR,Outdoor
+66.95,TKM,Ashgabat,TKM,2011-04-30,Serdar Mamedov,1994.0,Male,JT,NR,Outdoor
+55.76,TKS,Woodbury MN,USA,2018-04-21,Yvandy Rigby,,Male,JT,NR,Outdoor
+33.44,TLS,Dili,TLS,2015-08-11,Felisimo M. Alipio,,Male,JT,NR,Outdoor
+64.90,TOG,Niamey,NIG,1998-05-31,Kambour Agorou,,Male,JT,NR,Outdoor
+91.36,TPE,Taipei,TPE,2017-08-26,Cheng Chao-Tsun,1993.0,Male,JT,NR,Outdoor
+90.16,TTO,Lausanne,SUI,2015-07-09,Keshorn Walcott,1993.0,Male,JT,NR,Outdoor
+77.98,TUN,Tunis,TUN,1995-05-20,Maher Ridane,1971.0,Male,JT,NR,Outdoor
+85.60,TUR,Izmir,TUR,2012-05-20,Fatih Avan,1989.0,Male,JT,NR,Outdoor
+53.62,TUV,Port Vila,VAN,2017-11-12,Imo Fiamalua,1986.0,Male,JT,NR,Outdoor
+65.26,UAE,Meknès,MAR,1999-06-19,Said Salem Saber Baiha,,Male,JT,NR,Outdoor
+75.52,UGA,Ulm,GER,1988-08-06,Justin Arop,1958.0,Male,JT,NR,Outdoor
+86.12,UKR,Kyiv,UKR,2012-05-20,Oleksandr Pyatnytsya,1985.0,Male,JT,NR,Outdoor
+71.96,URU,Montevideo,URU,2022-09-03,Techera Lautaro,2002.0,Male,JT,NR,Outdoor
+91.29,USA,Indianapolis IN,USA,2007-06-21,Breaux Greer,1976.0,Male,JT,NR,Outdoor
+87.20,UZB,Moskva,RUS,1992-06-23,Viktor Zaytsev,1966.0,Male,JT,NR,Outdoor
+60.98,VAN,Port Vila,VAN,2017-11-12,Jack Nasawa,1997.0,Male,JT,NR,Outdoor
+77.94,VEN,Maracaibo,VEN,2004-06-05,Manuel Fuenmayor,1980.0,Male,JT,NR,Outdoor
+73.18,VIE,Ho Chi Minh,VIE,2019-07-18,Nguyen Hoai Van,1993.0,Male,JT,NR,Outdoor
+60.97,VIN,Arlington VA,USA,2010-05-14,Adonson Shallow,1986.0,Male,JT,NR,Outdoor
+55.70,YEM,Sana’a,YEM,2010-04-26,Atig Mohamed Nasir,,Male,JT,NR,Outdoor
+64.67,ZAM,Lusaka,ZAM,2024-02-10,Nayoya Sisamu,2005.0,Male,JT,NR,Outdoor
+66.18,ZIM,Harare,ZIM,1997-07-19,Roland Vermeulen,,Male,JT,NR,Outdoor
+85.78,FIN,Kajaani,FIN,1996-03-03,Matti Närhi,1975.0,Male,JT,NR,Indoor

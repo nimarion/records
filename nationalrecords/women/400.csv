@@ -1,215 +1,338 @@
-result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
-1:12.72,AFG,Sipoo,FIN,2018-06-13,Yalda Amini,1999,Female,400,NR
-53.97,AHO,Fairfax VA,USA,2001-05-05,Florencia Hunt,1978,Female,400,NR
-55.41,AIA,El Paso TX,USA,2017-05-13,Artesha Richardson,1998,Female,400,NR
-52.86,ALB,Göteborg/U,SWE,2006-08-08,Klodiana Shala,1979,Female,400,NR
-52.98,ALG,Rehlingen,GER,2009-06-01,Zahra Bouras,1987,Female,400,NR
-58.51,AND,Gavà,ESP,2021-06-16,Carlota Meritxell Málaga Morán,2002,Female,400,NR
-55.34,ANG,Stuttgart,GER,1993-08-15,Guilhermina Da Cruz,1970,Female,400,NR
-52.49,ANT,Houston TX,USA,2013-05-12,Afia Charles,1992,Female,400,NR
-52.50,ARG,Buenos Aires,ARG,1997-03-22,Olga Conte,1966,Female,400,NR
-53.48,ARM,Sochi,RUS,2015-05-28,Amaliya Sharoyan,1988,Female,400,NR
-57.78,ARU,Willemstad,NED,2011-07-08,Jelissa Nedd,,Female,400,NR
-1:01.62,ASA,San Diego CA,USA,2012-04-19,Jordan Mageo,1997,Female,400,NR
-48.63,AUS,Atlanta GA,USA,1996-07-29,Cathy Freeman,1973,Female,400,NR
-50.62,AUT,Klagenfurt,AUT,1977-06-18,Karoline Käfer,1954,Female,400,NR
-54.83,AZE,Chengdu,CHN,2023-08-02,Lamiya Valiyeva,2002,Female,400,NR
-48.36,BAH,Tokyo,JPN,2021-08-06,Shaunae Miller-Uibo,1994,Female,400,NR
-55.46,BAN,Islamabad,PAK,2004-04-05,Nazmun Nahar Beauty,1986,Female,400,NR
-49.58,BAR,Budapest,HUN,2023-08-21,Sada Williams,1997,Female,400,NR
-53.48,BDI,Eugene OR,USA,2018-05-04,Francine Niyonsaba,1993,Female,400,NR
-49.96,BEL,Budapest,HUN,2023-08-21,Cynthia Bolingo Mbongo,1993,Female,400,NR
-51.47,BEN,Roma,ITA,2006-07-14,Fabienne Féraez,1976,Female,400,NR
-51.84,BER,Eugene OR,USA,2022-06-09,Caitlyn Bobb,2003,Female,400,NR
-54.28,BIH,Komotini,GRE,1999-07-24,Dijana Kojic,1982,Female,400,NR
-53.19,BIZ,Riverside CA,USA,2015-05-16,Sam Dirks,1992,Female,400,NR
-50.31,BLR,Osaka,JPN,2007-08-27,Ilona Usovich,1982,Female,400,NR
-53.90,BOL,Cochabamba,BOL,2021-04-18,Cecilia Evangelina,1993,Female,400,NR
-49.33,BOT,Monaco,MON,2013-07-19,Amantle Montsho,1983,Female,400,NR
-50.62,BRA,Rovereto,ITA,1990-08-21,Maria Magnólia Figueirêdo,1963,Female,400,NR
-48.14,BRN,Doha,QAT,2019-10-03,Salwa Eid Naser,1998,Female,400,NR
-59.20,BRU,Labuan,MAS,2014-12-08,Maziah Binti Mahusin,,Female,400,NR
-49.53,BUL,Rieti,ITA,2006-08-27,Vania Stambolova,1983,Female,400,NR
-53.13,BUR,Kinshasa,COD,2023-08-01,Sita Sibiri,2004,Female,400,NR
-54.61,CAF,Saint-Etienne,FRA,2001-06-30,Emmanuelle Kogalama,1968,Female,400,NR
-1:00.91,CAM,Kuala Lumpur,MAS,2018-07-22,Seyha Ben,,Female,400,NR
-49.91,CAN,Los Angeles CA,USA,1984-08-06,Marita Payne,1960,Female,400,NR
-49.91,CAN,Seoul,KOR,1988-09-25,Jillian Richardson Briscoe,1965,Female,400,NR
-52.17,CAY,Lubbock TX,USA,2022-05-14,Shalysa Wray,1999,Female,400,NR
-54.13,CGO,Brazzaville,CGO,2014-07-26,Natacha Ngoye,1993,Female,400,NR
-50.38,CHA,Edmonton,CAN,2001-08-06,Kaltouma Nadjina,1976,Female,400,NR
-51.07,CHI,Chorzów,POL,2023-07-16,Martina Weil,1999,Female,400,NR
-49.81,CHN,Beijing,CHN,1993-09-11,Ma Yuqin,1972,Female,400,NR
-52.04,CIV,Seoul,KOR,1988-09-24,Celestine N'Drin,1963,Female,400,NR
-50.69,CMR,La Chaux-de-Fonds,SUI,2000-08-13,Mireille Nguimgo,1976,Female,400,NR
-54.88,COD,Nashville TN,USA,2022-04-30,Maria Bangala,1999,Female,400,NR
-1:01.65,COK,Apia,SAM,1983-09-13,Attina Sawtell,1964,Female,400,NR
-49.64,COL,Barcelona,ESP,1992-08-05,Ximena Restrepo,1969,Female,400,NR
-55.91,COM,Radès,TUN,2003-06-28,Salhate Djamalidine,1978,Female,400,NR
-54.50,CPV,Osaka,JPN,2009-05-09,Vera Barbosa,1989,Female,400,NR
-52.57,CRC,Ponce,PUR,1993-11-25,Zoila Rosa Stewart,,Female,400,NR
-50.78,CRO,Beijing,CHN,2006-08-17,Danijela Grgić,1988,Female,400,NR
-49.61,CUB,La Habana,CUB,1991-08-05,Ana Fidelia Quirot,1963,Female,400,NR
-53.84,CUR,Greensboro NC,USA,2012-05-04,Emmy Fraenk,1992,Female,400,NR
-50.80,CYP,Tokyo,JPN,2021-08-04,Eleni Artymata,1986,Female,400,NR
-47.99,CZE,Helsinki,FIN,1983-08-10,Jarmila Kratochvílová,1951,Female,400,NR
-52.84,DEN,Aarhus,DEN,2006-07-06,Rikke Rønholt,1976,Female,400,NR
-59.79,DJI,Djibouti,DJI,2019-03-15,Mariam Isman Waiss,,Female,400,NR
-53.40,DMA,Jonesboro AR,USA,1996-04-13,Dawn Williams-Sewer,1973,Female,400,NR
-48.76,DOM,Budapest,HUN,2023-08-23,Marileidy Paulino,1996,Female,400,NR
-51.53,ECU,São Paulo,BRA,2023-07-29,Nicole Caicedo,2000,Female,400,NR
-52.84,EGY,El Maadi,EGY,2021-12-23,Bassant Hemida,1996,Female,400,NR
-54.99,ERI,Khartoum,SUD,2007-05-24,Nazret Weldu,1990,Female,400,NR
-54.72,ESA,Ciudad de Guatemala,GUA,2001-11-29,Veronica Quijano,1982,Female,400,NR
-49.67,ESP,Oslo,NOR,1991-07-06,Sandra Myers,1961,Female,400,NR
-51.91,EST,Athína,GRE,2004-08-21,Egle Uljas,1984,Female,400,NR
-52.09,ETH,Gaborone,BOT,2011-05-13,Fantu Magiso,1992,Female,400,NR
-51.89,FIJ,Brisbane,AUS,2004-06-26,Makelesi Batimala,1977,Female,400,NR
-50.14,FIN,Roma,ITA,1974-09-04,Riitta Salin,1950,Female,400,NR
-48.25,FRA,Atlanta GA,USA,1996-07-29,Marie-José Pérec,1968,Female,400,NR
-1:03.58,FSM,Abay,FSM,2018-07-17,Emiko Leit,,Female,400,NR
-56.73,GAB,Avellino,ITA,2007-06-13,Marlyse Nsourou,,Female,400,NR
-54.98,GAM,Abidjan,CIV,2019-04-17,Binta Jallow,,Female,400,NR
-49.41,GBR,Moskva,RUS,2013-08-12,Christine Ohuruogu,1984,Female,400,NR
-57.02,GBS,Guarda,POR,2003-05-07,Artimiza Sá,1984,Female,400,NR
-52.13,GEO,Leningrad,URS,1988-06-11,Maya Azarashvili,1964,Female,400,NR
-56.37,GEQ,Madrid,ESP,2003-07-20,Frida Pilar Ondo Mbang,,Female,400,NR
-47.60,GER,Canberra,AUS,1985-10-06,Marita Koch,1957,Female,400,NR
-51.82,GHA,Tampa FL,USA,2018-05-25,Akua Obeng-Akrofi,1996,Female,400,NR
-57.66,GIB,Mariehamn,FIN,1991-06-25,Sharon Mifsud,1969,Female,400,NR
-50.45,GRE,Berlin,GER,2018-08-11,María Belibasáki,1991,Female,400,NR
-50.64,GRN,Oxford MS,USA,2004-05-16,Hazel-Ann Regis-Buckels,1981,Female,400,NR
-55.64,GUA,Los Angeles CA,USA,1984-08-04,Patricia Meigham,1954,Female,400,NR
-54.50,GUI,Aix-les-Bains,FRA,2012-05-20,Asta Dramé,1990,Female,400,NR
-57.89,GUM,Dededo,GUM,2016-06-05,Regine Tugade,1998,Female,400,NR
-50.20,GUY,Freeport,BAH,2023-05-13,Aliyah Abrams,1997,Female,400,NR
-51.23,HAI,Irapuato,MEX,2012-07-07,Marlena Wesh,1991,Female,400,NR
-55.03,HKG,Zhuhai,CHN,1999-03-20,Wan Kin Yee,1975,Female,400,NR
-55.24,HON,Managua,NCA,2012-06-17,Heidy Palacios,1990,Female,400,NR
-51.50,HUN,Budapest,HUN,1980-08-11,Ilona Pál,1954,Female,400,NR
-53.22,INA,Timika,INA,2021-10-12,Sri Mayasari,1994,Female,400,NR
-50.79,IND,Jakarta,INA,2018-08-26,Hima Das,2000,Female,400,NR
-52.95,IRI,Bangkok,THA,2012-05-08,Maryam Toosi,1988,Female,400,NR
-49.20,IRL,Austin TX,USA,2023-06-10,Rhasidat Adeleke,2002,Female,400,NR
-53.44,IRQ,Guangzhou,CHN,2010-11-21,Kolestane Mahmood Ieso,,Female,400,NR
-52.83,ISL,London,GBR,1997-08-17,Gudrún Arnardóttir,1971,Female,400,NR
-52.06,ISR,Saint-Denis,FRA,2003-08-24,Anna Tkach,1975,Female,400,NR
-51.47,ISV,Lawrence KS,USA,2007-04-21,Laverne Jones-Ferrette,1981,Female,400,NR
-50.30,ITA,Pescara,ITA,2009-07-02,Libania Grenot,1983,Female,400,NR
-51.63,IVB,Miami FL,USA,2017-07-08,Ashley Kelly,1991,Female,400,NR
-49.30,JAM,Monaco,MON,2002-07-19,Lorraine Fenton,1973,Female,400,NR
-55.38,JOR,Nairobi,KEN,2017-07-12,Aliya Khattab Omar Boshnak,2000,Female,400,NR
-51.75,JPN,Fukuroi,JPN,2008-05-03,Asami Chiba,1985,Female,400,NR
-50.68,KAZ,Almaty,KAZ,2004-06-05,Tatyana Khadjimuratova,1980,Female,400,NR
-50.38,KEN,Nairobi,KEN,2023-07-07,Mary Moraa,2000,Female,400,NR
-50.07,KGZ,Helsinki,FIN,1983-08-09,Mariya Pinigina,1958,Female,400,NR
-1:07.01,KIR,Cairns,AUS,2010-09-23,Kaingaue David,1995,Female,400,NR
-53.67,KOR,Taebaek,KOR,2003-08-12,Lee Yun-Kyong,1977,Female,400,NR
-54.30,KOS,Río de Janeiro,BRA,2016-08-13,Vijona Kryeziu,1997,Female,400,NR
-1:06.33,KSA,Jakarta,INA,2018-08-25,Dana Al-Shehri,1997,Female,400,NR
-57.00,KUW,Al-Kuwait,KUW,2019-10-27,Mudhawi Al-Shammari,1998,Female,400,NR
-1:00.42,LAO,Oudomxay,LAO,2014-12-15,Boudsady Vongdala,,Female,400,NR
-50.71,LAT,Moskva,URS,1988-09-04,Vineta Ikauniece,1962,Female,400,NR
-56.89,LBA,Lodi,ITA,2016-05-22,Najla Aqdeir,1994,Female,400,NR
-53.43,LBN,Pune,IND,2013-07-04,Greta Taslakian,1985,Female,400,NR
-51.55,LBR,Ponce,PUR,2008-05-17,Kia Davis,1976,Female,400,NR
-52.21,LCA,Bridgetown,BAR,1999-06-25,Verneta Lesforis,1975,Female,400,NR
-54.91,LES,Manzini,SWZ,2019-03-05,Mamakoli Senauoane,2003,Female,400,NR
-54.47,LIE,Zürich,SUI,1978-08-20,Maria Ritter,1957,Female,400,NR
-50.49,LTU,Huelva,ESP,2022-05-25,Modesta Morauskaitė,1995,Female,400,NR
-54.05,LUX,Rieti,ITA,2013-07-18,Frédérique Hansen,1994,Female,400,NR
-57.07,MAC,Incheon,KOR,2014-09-27,Leong Ka Man,1990,Female,400,NR
-52.05,MAD,Paris,FRA,1998-07-19,Ony Paule Ratsimbazafy,,Female,400,NR
-51.67,MAR,Berlin,GER,1998-09-01,Nezha Bidouane,1969,Female,400,NR
-51.80,MAS,Walnut CA,USA,2023-04-15,Sheeren Samson Vallybouy,1998,Female,400,NR
-51.55,MAW,Birmingham,GBR,2022-08-07,Asimenye Simwaka,1997,Female,400,NR
-52.00,MDA,Bucureşti,ROU,2012-06-15,Olesea Cojuhari,1990,Female,400,NR
-56.24,MDV,Kingston,JAM,2023-06-24,Aishath Himna Hassan,2002,Female,400,NR
-48.89,MEX,Saint-Denis,FRA,2003-08-27,Ana Guevara,1977,Female,400,NR
-56.75,MGL,Hangzhou,CHN,2023-09-29,Solongo Batbold,1996,Female,400,NR
-58.96,MHL,Cairns,AUS,2012-06-28,Haley Nemra,1989,Female,400,NR
-53.77,MKD,Nova Gorica,YUG,1983-06-14,Elizabeta Bozinovska,1963,Female,400,NR
-52.16,MLI,Marseille,FRA,2017-07-16,Djénébou Danté,1989,Female,400,NR
-52.37,MLT,Chorzów,POL,2023-06-20,Janet Richard,1998,Female,400,NR
-56.47,MNE,Beograd,SRB,1992-07-04,Danijela Srdanovic,1965,Female,400,NR
-1:00.53,MON,Marsa,MLT,2022-06-11,Marie Charlotte Gastaud,1999,Female,400,NR
-51.37,MOZ,Monaco,MON,1994-08-02,Maria Mutola,1972,Female,400,NR
-54.62,MRI,Belle Vue Mauricia,MRI,1992-06-25,Sandra Govinden,1969,Female,400,NR
-52.69,MYA,Manila,PHI,2005-11-29,Yin Yin Khine,1977,Female,400,NR
-49.22,NAM,Windhoek,NAM,2021-04-17,Christine Mboma,2003,Female,400,NR
-55.18,NCA,Tegucigalpa,HON,2017-07-02,Ingrid Yahoska Narváez,1994,Female,400,NR
-49.44,NED,München,GER,2022-08-17,Femke Bol,2000,Female,400,NR
-59.57,NEP,Wuhan,CHN,2019-10-22,Tulasa Khatri,,Female,400,NR
-1:02.54,NFI,Suva,FIJ,1979-01-09,April Quintal,,Female,400,NR
-49.10,NGR,Atlanta GA,USA,1996-07-29,Falilat Ogunkoya,1968,Female,400,NR
-49.19,NIG,Lausanne,SUI,2019-07-05,Aminatou Seyni,1996,Female,400,NR
-1:04.36,NIU,Port Vila,VAN,1993-12-13,Zelda Folau Brown,,Female,400,NR
-56.24,NMI,Ogden UT,USA,2013-04-13,Yvonne Bennett,1990,Female,400,NR
-51.03,NOR,Berlin,GER,2023-09-03,Henriette Jæger,2003,Female,400,NR
-1:06.80,NRU,Koror,PLW,1998-06-08,Trudy Duburiya,,Female,400,NR
-51.60,NZL,Christchurch,NZL,1980-01-19,Kim Robertson,1957,Female,400,NR
-58.34,OMA,Muscat,OMA,2024-01-26,Hanaa Al-Qassimi,1996,Female,400,NR
-53.63,PAK,Peshawar,PAK,2019-11-11,Najma Parveen,1990,Female,400,NR
-52.43,PAN,Waco TX,USA,2022-04-23,Gianna Woodruff,1993,Female,400,NR
-56.62,PAR,Asunción,PAR,2019-03-02,Camila Pirelli,1989,Female,400,NR
-53.86,PER,Cuenca,ECU,2017-05-20,Maitte Torres,1993,Female,400,NR
-53.81,PHI,Torrance CA,USA,2017-04-14,Kayla Richardson,1998,Female,400,NR
-58.08,PLE,Norwalk CA,USA,2017-05-20,Hanna Barakat,1999,Female,400,NR
-59.31,PLW,Oak Harbor WA,USA,2011-05-13,Christina Wicker,1996,Female,400,NR
-53.19,PNG,Gold Coast,AUS,2010-08-14,Toea Wisil,1988,Female,400,NR
-49.29,POL,Montréal,CAN,1976-07-29,Irena Szewińska,1946,Female,400,NR
-50.59,POR,Huelva,ESP,2021-06-03,Cátia Azevedo,1994,Female,400,NR
-56.23,PRK,Pyongyang,PRK,1991-10-15,Chi Jong Ok,,Female,400,NR
-50.97,PUR,Génève,SUI,2022-06-11,Gabby Scott,1997,Female,400,NR
-1:01.88,QAT,Doha,QAT,2019-04-21,Kinza El Alaoui Al-Susi,,Female,400,NR
-49.88,ROU,Palma de Mallorca,ESP,1999-07-12,Ionela Tîrlea,1976,Female,400,NR
-49.62,RSA,Ostrava,CZE,2018-09-08,Caster Semenya,1991,Female,400,NR
-49.11,RUS,Seoul,KOR,1988-09-25,Olga V. Nazarova,1965,Female,400,NR
-58.26,RWA,El Djezair,ALG,2007-07-18,Epiphanie Uwintije,,Female,400,NR
-56.32,SAM,Auckland,NZL,1990-10-02,Kim Peterson,1967,Female,400,NR
-49.86,SEN,Edmonton,CAN,2001-08-07,Amy Mbacké Thiam,1976,Female,400,NR
-57.05,SEY,La Grange IL,USA,1993-04-04,Mirenda Francourt,,Female,400,NR
-54.18,SGP,Kuala Lumpur,MAS,2017-08-24,Dipna Lim Prasad,1991,Female,400,NR
-50.83,SKN,Sacramento CA,USA,2005-06-11,Tiandra Ponteen,1984,Female,400,NR
-51.36,SLE,Bloomington IN,USA,2018-05-13,Maggie Barrie,1996,Female,400,NR
-51.22,SLO,Monaco,MON,2018-07-20,Anita Horvat,1996,Female,400,NR
-58.23,SMR,Castelfranco Emilia,ITA,2023-06-28,Beatrice Berti,1999,Female,400,NR
-58.88,SOL,Suva,FIJ,2016-07-07,Samantha Rofo,1999,Female,400,NR
-1:04.89,SOM,Nairobi,KEN,1987-08-07,Jamad Oismail Abdi,,Female,400,NR
-51.89,SRB,Stara Zagora,BUL,2016-06-09,Tamara Salaški,1988,Female,400,NR
-51.05,SRI,Jakarta,INA,2000-08-30,Damayanthi Dharsha,1975,Female,400,NR
-55.53,SSD,Namboole,UGA,2023-07-01,Lucia William,2001,Female,400,NR
-53.48,STP,Huelva,ESP,2022-05-25,Gorete Semedo,1996,Female,400,NR
-51.19,SUD,Marrakech,MAR,2005-07-15,Nawal Al-Jak,1988,Female,400,NR
-50.52,SUI,La Chaux-de-Fonds,SUI,2018-07-01,Léa Sprunger,1990,Female,400,NR
-52.01,SUR,Arnhem,NED,1997-07-12,Letitia Vriesde,1964,Female,400,NR
-51.98,SVK,Edinburgh,GBR,1974-07-27,Jozefina Cerchlanová,1952,Female,400,NR
-51.13,SWE,Helsinki,FIN,2012-06-29,Moa Hjelmer,1990,Female,400,NR
-53.02,SWZ,Brazzaville,CGO,2015-09-14,Phumlile Ndzinisa,1992,Female,400,NR
-53.55,SYR,Alger,ALG,2006-09-10,Ghofrane Mohammad,1989,Female,400,NR
-54.99,TAN,Nairobi,KEN,1987-08-07,Leticia Athanas,1960,Female,400,NR
-57.98,TGA,Sydney,AUS,1994-01-30,Vasa Tulahe,1973,Female,400,NR
-52.60,THA,Singapore,SGP,1993-06-14,Noodang Phimphoo,1968,Female,400,NR
-52.70,TJK,Almaty,KAZ,2019-07-07,Gulsunbi Sharifova,1997,Female,400,NR
-52.10,TKM,Almaty,KAZ,2001-06-24,Alyona Litvinova,1979,Female,400,NR
-52.50,TKS,Greensboro NC,USA,2021-04-10,Yanique Haye-Smith,1990,Female,400,NR
-59.48,TLS,Jakarta,INA,1996-09-15,Odete Belo,,Female,400,NR
-52.50,TOG,Saint-Denis,FRA,2003-08-24,Sandrine Thiébaud-Kangni,1976,Female,400,NR
-52.74,TPE,Stockholm,SWE,1970-07-29,Chi Cheng,1944,Female,400,NR
-51.83,TTO,Port of Spain,TTO,2014-06-21,Janeil Bellille,1989,Female,400,NR
-52.22,TUN,Radès,TUN,2002-08-08,Aoutef Benhassine,1980,Female,400,NR
-52.15,TUR,Ankara,TUR,2011-07-30,Birsen Engin,1980,Female,400,NR
-1:11.71,TUV,Mata-Utu,FRA,2013-04-09,Asenate Manoa,1992,Female,400,NR
-58.07,UAE,Manama,BRN,2013-03-08,Betlehem Desalegn,1991,Female,400,NR
-51.47,UGA,Kampala,UGA,2019-07-26,Leni Shida,1994,Female,400,NR
-48.27,UKR,Canberra,AUS,1985-10-06,Olga Bryzgina,1963,Female,400,NR
-52.53,URU,Montevideo,URU,2014-10-03,Déborah Rodríguez,1992,Female,400,NR
-48.70,USA,Athína,GRE,2006-09-16,Sanya Richards-Ross,1985,Female,400,NR
-50.52,UZB,Kyiv,URS,1990-07-06,Marina Shmonina,1965,Female,400,NR
-53.92,VAN,Göteborg,SWE,1995-05-08,Mary Estelle Kapalu,1966,Female,400,NR
-51.94,VEN,Trujillo2,PER,2013-11-26,Nercely Soto,1990,Female,400,NR
-51.83,VIE,Hanoi,VIE,2003-12-08,Nguyen Thi Tinh,1982,Female,400,NR
-51.23,VIN,San Marcos TX,USA,2014-04-26,Kineke Alexander,1986,Female,400,NR
-1:05.22,YEM,Amman,JOR,2008-10-10,Fatima Suleiman Al-Dahman,1991,Female,400,NR
-50.22,ZAM,Brazzaville,CGO,2015-09-15,Kabange Mupopo,1992,Female,400,NR
-52.46,ZIM,Hobbs NM,USA,2023-05-20,Vimbayi Maisvorewa,2000,Female,400,NR
+result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,environment
+1:12.72,AFG,Sipoo,FIN,2018-06-13,Yalda Amini,1999.0,Female,400,NR,Outdoor
+53.97,AHO,Fairfax VA,USA,2001-05-05,Florencia Hunt,1978.0,Female,400,NR,Outdoor
+55.41,AIA,El Paso TX,USA,2017-05-13,Artesha Richardson,1998.0,Female,400,NR,Outdoor
+52.86,ALB,Göteborg/U,SWE,2006-08-08,Klodiana Shala,1979.0,Female,400,NR,Outdoor
+52.98,ALG,Rehlingen,GER,2009-06-01,Zahra Bouras,1987.0,Female,400,NR,Outdoor
+58.51,AND,Gavà,ESP,2021-06-16,Carlota Meritxell Málaga Morán,2002.0,Female,400,NR,Outdoor
+55.34,ANG,Stuttgart,GER,1993-08-15,Guilhermina Da Cruz,1970.0,Female,400,NR,Outdoor
+52.49,ANT,Houston TX,USA,2013-05-12,Afia Charles,1992.0,Female,400,NR,Outdoor
+52.50,ARG,Buenos Aires,ARG,1997-03-22,Olga Conte,1966.0,Female,400,NR,Outdoor
+53.48,ARM,Sochi,RUS,2015-05-28,Amaliya Sharoyan,1988.0,Female,400,NR,Outdoor
+57.78,ARU,Willemstad,NED,2011-07-08,Jelissa Nedd,,Female,400,NR,Outdoor
+1:01.62,ASA,San Diego CA,USA,2012-04-19,Jordan Mageo,1997.0,Female,400,NR,Outdoor
+48.63,AUS,Atlanta GA,USA,1996-07-29,Cathy Freeman,1973.0,Female,400,NR,Outdoor
+50.62,AUT,Klagenfurt,AUT,1977-06-18,Karoline Käfer,1954.0,Female,400,NR,Outdoor
+54.83,AZE,Chengdu,CHN,2023-08-02,Lamiya Valiyeva,2002.0,Female,400,NR,Outdoor
+48.36,BAH,Tokyo,JPN,2021-08-06,Shaunae Miller-Uibo,1994.0,Female,400,NR,Outdoor
+55.46,BAN,Islamabad,PAK,2004-04-05,Nazmun Nahar Beauty,1986.0,Female,400,NR,Outdoor
+49.58,BAR,Budapest,HUN,2023-08-21,Sada Williams,1997.0,Female,400,NR,Outdoor
+53.48,BDI,Eugene OR,USA,2018-05-04,Francine Niyonsaba,1993.0,Female,400,NR,Outdoor
+49.96,BEL,Budapest,HUN,2023-08-21,Cynthia Bolingo Mbongo,1993.0,Female,400,NR,Outdoor
+51.47,BEN,Roma,ITA,2006-07-14,Fabienne Féraez,1976.0,Female,400,NR,Outdoor
+51.84,BER,Eugene OR,USA,2022-06-09,Caitlyn Bobb,2003.0,Female,400,NR,Outdoor
+54.28,BIH,Komotini,GRE,1999-07-24,Dijana Kojic,1982.0,Female,400,NR,Outdoor
+53.19,BIZ,Riverside CA,USA,2015-05-16,Sam Dirks,1992.0,Female,400,NR,Outdoor
+50.31,BLR,Osaka,JPN,2007-08-27,Ilona Usovich,1982.0,Female,400,NR,Outdoor
+53.90,BOL,Cochabamba,BOL,2021-04-18,Cecilia Evangelina,1993.0,Female,400,NR,Outdoor
+49.33,BOT,Monaco,MON,2013-07-19,Amantle Montsho,1983.0,Female,400,NR,Outdoor
+50.62,BRA,Rovereto,ITA,1990-08-21,Maria Magnólia Figueirêdo,1963.0,Female,400,NR,Outdoor
+48.14,BRN,Doha,QAT,2019-10-03,Salwa Eid Naser,1998.0,Female,400,NR,Outdoor
+59.20,BRU,Labuan,MAS,2014-12-08,Maziah Binti Mahusin,,Female,400,NR,Outdoor
+49.53,BUL,Rieti,ITA,2006-08-27,Vania Stambolova,1983.0,Female,400,NR,Outdoor
+53.13,BUR,Kinshasa,COD,2023-08-01,Sita Sibiri,2004.0,Female,400,NR,Outdoor
+54.61,CAF,Saint-Etienne,FRA,2001-06-30,Emmanuelle Kogalama,1968.0,Female,400,NR,Outdoor
+1:00.91,CAM,Kuala Lumpur,MAS,2018-07-22,Seyha Ben,,Female,400,NR,Outdoor
+49.91,CAN,Los Angeles CA,USA,1984-08-06,Marita Payne,1960.0,Female,400,NR,Outdoor
+49.91,CAN,Seoul,KOR,1988-09-25,Jillian Richardson Briscoe,1965.0,Female,400,NR,Outdoor
+52.17,CAY,Lubbock TX,USA,2022-05-14,Shalysa Wray,1999.0,Female,400,NR,Outdoor
+54.13,CGO,Brazzaville,CGO,2014-07-26,Natacha Ngoye,1993.0,Female,400,NR,Outdoor
+50.38,CHA,Edmonton,CAN,2001-08-06,Kaltouma Nadjina,1976.0,Female,400,NR,Outdoor
+51.07,CHI,Chorzów,POL,2023-07-16,Martina Weil,1999.0,Female,400,NR,Outdoor
+49.81,CHN,Beijing,CHN,1993-09-11,Ma Yuqin,1972.0,Female,400,NR,Outdoor
+52.04,CIV,Seoul,KOR,1988-09-24,Celestine N'Drin,1963.0,Female,400,NR,Outdoor
+50.69,CMR,La Chaux-de-Fonds,SUI,2000-08-13,Mireille Nguimgo,1976.0,Female,400,NR,Outdoor
+54.88,COD,Nashville TN,USA,2022-04-30,Maria Bangala,1999.0,Female,400,NR,Outdoor
+1:01.65,COK,Apia,SAM,1983-09-13,Attina Sawtell,1964.0,Female,400,NR,Outdoor
+49.64,COL,Barcelona,ESP,1992-08-05,Ximena Restrepo,1969.0,Female,400,NR,Outdoor
+55.91,COM,Radès,TUN,2003-06-28,Salhate Djamalidine,1978.0,Female,400,NR,Outdoor
+54.50,CPV,Osaka,JPN,2009-05-09,Vera Barbosa,1989.0,Female,400,NR,Outdoor
+52.57,CRC,Ponce,PUR,1993-11-25,Zoila Rosa Stewart,,Female,400,NR,Outdoor
+50.78,CRO,Beijing,CHN,2006-08-17,Danijela Grgić,1988.0,Female,400,NR,Outdoor
+49.61,CUB,La Habana,CUB,1991-08-05,Ana Fidelia Quirot,1963.0,Female,400,NR,Outdoor
+53.84,CUR,Greensboro NC,USA,2012-05-04,Emmy Fraenk,1992.0,Female,400,NR,Outdoor
+50.80,CYP,Tokyo,JPN,2021-08-04,Eleni Artymata,1986.0,Female,400,NR,Outdoor
+47.99,CZE,Helsinki,FIN,1983-08-10,Jarmila Kratochvílová,1951.0,Female,400,NR,Outdoor
+52.84,DEN,Aarhus,DEN,2006-07-06,Rikke Rønholt,1976.0,Female,400,NR,Outdoor
+59.79,DJI,Djibouti,DJI,2019-03-15,Mariam Isman Waiss,,Female,400,NR,Outdoor
+53.40,DMA,Jonesboro AR,USA,1996-04-13,Dawn Williams-Sewer,1973.0,Female,400,NR,Outdoor
+48.76,DOM,Budapest,HUN,2023-08-23,Marileidy Paulino,1996.0,Female,400,NR,Outdoor
+51.53,ECU,São Paulo,BRA,2023-07-29,Nicole Caicedo,2000.0,Female,400,NR,Outdoor
+52.84,EGY,El Maadi,EGY,2021-12-23,Bassant Hemida,1996.0,Female,400,NR,Outdoor
+54.99,ERI,Khartoum,SUD,2007-05-24,Nazret Weldu,1990.0,Female,400,NR,Outdoor
+54.72,ESA,Ciudad de Guatemala,GUA,2001-11-29,Veronica Quijano,1982.0,Female,400,NR,Outdoor
+49.67,ESP,Oslo,NOR,1991-07-06,Sandra Myers,1961.0,Female,400,NR,Outdoor
+51.91,EST,Athína,GRE,2004-08-21,Egle Uljas,1984.0,Female,400,NR,Outdoor
+52.09,ETH,Gaborone,BOT,2011-05-13,Fantu Magiso,1992.0,Female,400,NR,Outdoor
+51.89,FIJ,Brisbane,AUS,2004-06-26,Makelesi Batimala,1977.0,Female,400,NR,Outdoor
+50.14,FIN,Roma,ITA,1974-09-04,Riitta Salin,1950.0,Female,400,NR,Outdoor
+48.25,FRA,Atlanta GA,USA,1996-07-29,Marie-José Pérec,1968.0,Female,400,NR,Outdoor
+1:03.58,FSM,Abay,FSM,2018-07-17,Emiko Leit,,Female,400,NR,Outdoor
+56.73,GAB,Avellino,ITA,2007-06-13,Marlyse Nsourou,,Female,400,NR,Outdoor
+54.98,GAM,Abidjan,CIV,2019-04-17,Binta Jallow,,Female,400,NR,Outdoor
+49.41,GBR,Moskva,RUS,2013-08-12,Christine Ohuruogu,1984.0,Female,400,NR,Outdoor
+57.02,GBS,Guarda,POR,2003-05-07,Artimiza Sá,1984.0,Female,400,NR,Outdoor
+52.13,GEO,Leningrad,URS,1988-06-11,Maya Azarashvili,1964.0,Female,400,NR,Outdoor
+56.37,GEQ,Madrid,ESP,2003-07-20,Frida Pilar Ondo Mbang,,Female,400,NR,Outdoor
+47.60,GER,Canberra,AUS,1985-10-06,Marita Koch,1957.0,Female,400,NR,Outdoor
+51.82,GHA,Tampa FL,USA,2018-05-25,Akua Obeng-Akrofi,1996.0,Female,400,NR,Outdoor
+57.66,GIB,Mariehamn,FIN,1991-06-25,Sharon Mifsud,1969.0,Female,400,NR,Outdoor
+50.45,GRE,Berlin,GER,2018-08-11,María Belibasáki,1991.0,Female,400,NR,Outdoor
+50.64,GRN,Oxford MS,USA,2004-05-16,Hazel-Ann Regis-Buckels,1981.0,Female,400,NR,Outdoor
+55.64,GUA,Los Angeles CA,USA,1984-08-04,Patricia Meigham,1954.0,Female,400,NR,Outdoor
+54.50,GUI,Aix-les-Bains,FRA,2012-05-20,Asta Dramé,1990.0,Female,400,NR,Outdoor
+57.89,GUM,Dededo,GUM,2016-06-05,Regine Tugade,1998.0,Female,400,NR,Outdoor
+50.20,GUY,Freeport,BAH,2023-05-13,Aliyah Abrams,1997.0,Female,400,NR,Outdoor
+51.23,HAI,Irapuato,MEX,2012-07-07,Marlena Wesh,1991.0,Female,400,NR,Outdoor
+55.03,HKG,Zhuhai,CHN,1999-03-20,Wan Kin Yee,1975.0,Female,400,NR,Outdoor
+55.24,HON,Managua,NCA,2012-06-17,Heidy Palacios,1990.0,Female,400,NR,Outdoor
+51.50,HUN,Budapest,HUN,1980-08-11,Ilona Pál,1954.0,Female,400,NR,Outdoor
+53.22,INA,Timika,INA,2021-10-12,Sri Mayasari,1994.0,Female,400,NR,Outdoor
+50.79,IND,Jakarta,INA,2018-08-26,Hima Das,2000.0,Female,400,NR,Outdoor
+52.95,IRI,Bangkok,THA,2012-05-08,Maryam Toosi,1988.0,Female,400,NR,Outdoor
+49.20,IRL,Austin TX,USA,2023-06-10,Rhasidat Adeleke,2002.0,Female,400,NR,Outdoor
+53.44,IRQ,Guangzhou,CHN,2010-11-21,Kolestane Mahmood Ieso,,Female,400,NR,Outdoor
+52.83,ISL,London,GBR,1997-08-17,Gudrún Arnardóttir,1971.0,Female,400,NR,Outdoor
+52.06,ISR,Saint-Denis,FRA,2003-08-24,Anna Tkach,1975.0,Female,400,NR,Outdoor
+51.47,ISV,Lawrence KS,USA,2007-04-21,Laverne Jones-Ferrette,1981.0,Female,400,NR,Outdoor
+50.30,ITA,Pescara,ITA,2009-07-02,Libania Grenot,1983.0,Female,400,NR,Outdoor
+51.63,IVB,Miami FL,USA,2017-07-08,Ashley Kelly,1991.0,Female,400,NR,Outdoor
+49.30,JAM,Monaco,MON,2002-07-19,Lorraine Fenton,1973.0,Female,400,NR,Outdoor
+55.38,JOR,Nairobi,KEN,2017-07-12,Aliya Khattab Omar Boshnak,2000.0,Female,400,NR,Outdoor
+51.75,JPN,Fukuroi,JPN,2008-05-03,Asami Chiba,1985.0,Female,400,NR,Outdoor
+50.68,KAZ,Almaty,KAZ,2004-06-05,Tatyana Khadjimuratova,1980.0,Female,400,NR,Outdoor
+50.38,KEN,Nairobi,KEN,2023-07-07,Mary Moraa,2000.0,Female,400,NR,Outdoor
+50.07,KGZ,Helsinki,FIN,1983-08-09,Mariya Pinigina,1958.0,Female,400,NR,Outdoor
+1:07.01,KIR,Cairns,AUS,2010-09-23,Kaingaue David,1995.0,Female,400,NR,Outdoor
+53.67,KOR,Taebaek,KOR,2003-08-12,Lee Yun-Kyong,1977.0,Female,400,NR,Outdoor
+54.30,KOS,Río de Janeiro,BRA,2016-08-13,Vijona Kryeziu,1997.0,Female,400,NR,Outdoor
+1:06.33,KSA,Jakarta,INA,2018-08-25,Dana Al-Shehri,1997.0,Female,400,NR,Outdoor
+57.00,KUW,Al-Kuwait,KUW,2019-10-27,Mudhawi Al-Shammari,1998.0,Female,400,NR,Outdoor
+1:00.42,LAO,Oudomxay,LAO,2014-12-15,Boudsady Vongdala,,Female,400,NR,Outdoor
+50.71,LAT,Moskva,URS,1988-09-04,Vineta Ikauniece,1962.0,Female,400,NR,Outdoor
+56.89,LBA,Lodi,ITA,2016-05-22,Najla Aqdeir,1994.0,Female,400,NR,Outdoor
+53.43,LBN,Pune,IND,2013-07-04,Greta Taslakian,1985.0,Female,400,NR,Outdoor
+51.55,LBR,Ponce,PUR,2008-05-17,Kia Davis,1976.0,Female,400,NR,Outdoor
+52.21,LCA,Bridgetown,BAR,1999-06-25,Verneta Lesforis,1975.0,Female,400,NR,Outdoor
+54.91,LES,Manzini,SWZ,2019-03-05,Mamakoli Senauoane,2003.0,Female,400,NR,Outdoor
+54.47,LIE,Zürich,SUI,1978-08-20,Maria Ritter,1957.0,Female,400,NR,Outdoor
+50.49,LTU,Huelva,ESP,2022-05-25,Modesta Morauskaitė,1995.0,Female,400,NR,Outdoor
+54.05,LUX,Rieti,ITA,2013-07-18,Frédérique Hansen,1994.0,Female,400,NR,Outdoor
+57.07,MAC,Incheon,KOR,2014-09-27,Leong Ka Man,1990.0,Female,400,NR,Outdoor
+52.05,MAD,Paris,FRA,1998-07-19,Ony Paule Ratsimbazafy,,Female,400,NR,Outdoor
+51.67,MAR,Berlin,GER,1998-09-01,Nezha Bidouane,1969.0,Female,400,NR,Outdoor
+51.80,MAS,Walnut CA,USA,2023-04-15,Sheeren Samson Vallybouy,1998.0,Female,400,NR,Outdoor
+51.55,MAW,Birmingham,GBR,2022-08-07,Asimenye Simwaka,1997.0,Female,400,NR,Outdoor
+52.00,MDA,Bucureşti,ROU,2012-06-15,Olesea Cojuhari,1990.0,Female,400,NR,Outdoor
+56.24,MDV,Kingston,JAM,2023-06-24,Aishath Himna Hassan,2002.0,Female,400,NR,Outdoor
+48.89,MEX,Saint-Denis,FRA,2003-08-27,Ana Guevara,1977.0,Female,400,NR,Outdoor
+56.75,MGL,Hangzhou,CHN,2023-09-29,Solongo Batbold,1996.0,Female,400,NR,Outdoor
+58.96,MHL,Cairns,AUS,2012-06-28,Haley Nemra,1989.0,Female,400,NR,Outdoor
+53.77,MKD,Nova Gorica,YUG,1983-06-14,Elizabeta Bozinovska,1963.0,Female,400,NR,Outdoor
+52.16,MLI,Marseille,FRA,2017-07-16,Djénébou Danté,1989.0,Female,400,NR,Outdoor
+52.37,MLT,Chorzów,POL,2023-06-20,Janet Richard,1998.0,Female,400,NR,Outdoor
+56.47,MNE,Beograd,SRB,1992-07-04,Danijela Srdanovic,1965.0,Female,400,NR,Outdoor
+1:00.53,MON,Marsa,MLT,2022-06-11,Marie Charlotte Gastaud,1999.0,Female,400,NR,Outdoor
+51.37,MOZ,Monaco,MON,1994-08-02,Maria Mutola,1972.0,Female,400,NR,Outdoor
+54.62,MRI,Belle Vue Mauricia,MRI,1992-06-25,Sandra Govinden,1969.0,Female,400,NR,Outdoor
+52.69,MYA,Manila,PHI,2005-11-29,Yin Yin Khine,1977.0,Female,400,NR,Outdoor
+49.22,NAM,Windhoek,NAM,2021-04-17,Christine Mboma,2003.0,Female,400,NR,Outdoor
+55.18,NCA,Tegucigalpa,HON,2017-07-02,Ingrid Yahoska Narváez,1994.0,Female,400,NR,Outdoor
+49.44,NED,München,GER,2022-08-17,Femke Bol,2000.0,Female,400,NR,Outdoor
+59.57,NEP,Wuhan,CHN,2019-10-22,Tulasa Khatri,,Female,400,NR,Outdoor
+1:02.54,NFI,Suva,FIJ,1979-01-09,April Quintal,,Female,400,NR,Outdoor
+49.10,NGR,Atlanta GA,USA,1996-07-29,Falilat Ogunkoya,1968.0,Female,400,NR,Outdoor
+49.19,NIG,Lausanne,SUI,2019-07-05,Aminatou Seyni,1996.0,Female,400,NR,Outdoor
+1:04.36,NIU,Port Vila,VAN,1993-12-13,Zelda Folau Brown,,Female,400,NR,Outdoor
+56.24,NMI,Ogden UT,USA,2013-04-13,Yvonne Bennett,1990.0,Female,400,NR,Outdoor
+51.03,NOR,Berlin,GER,2023-09-03,Henriette Jæger,2003.0,Female,400,NR,Outdoor
+1:06.80,NRU,Koror,PLW,1998-06-08,Trudy Duburiya,,Female,400,NR,Outdoor
+51.60,NZL,Christchurch,NZL,1980-01-19,Kim Robertson,1957.0,Female,400,NR,Outdoor
+58.34,OMA,Muscat,OMA,2024-01-26,Hanaa Al-Qassimi,1996.0,Female,400,NR,Outdoor
+53.63,PAK,Peshawar,PAK,2019-11-11,Najma Parveen,1990.0,Female,400,NR,Outdoor
+52.43,PAN,Waco TX,USA,2022-04-23,Gianna Woodruff,1993.0,Female,400,NR,Outdoor
+56.62,PAR,Asunción,PAR,2019-03-02,Camila Pirelli,1989.0,Female,400,NR,Outdoor
+53.86,PER,Cuenca,ECU,2017-05-20,Maitte Torres,1993.0,Female,400,NR,Outdoor
+53.81,PHI,Torrance CA,USA,2017-04-14,Kayla Richardson,1998.0,Female,400,NR,Outdoor
+58.08,PLE,Norwalk CA,USA,2017-05-20,Hanna Barakat,1999.0,Female,400,NR,Outdoor
+59.31,PLW,Oak Harbor WA,USA,2011-05-13,Christina Wicker,1996.0,Female,400,NR,Outdoor
+53.19,PNG,Gold Coast,AUS,2010-08-14,Toea Wisil,1988.0,Female,400,NR,Outdoor
+49.29,POL,Montréal,CAN,1976-07-29,Irena Szewińska,1946.0,Female,400,NR,Outdoor
+50.59,POR,Huelva,ESP,2021-06-03,Cátia Azevedo,1994.0,Female,400,NR,Outdoor
+56.23,PRK,Pyongyang,PRK,1991-10-15,Chi Jong Ok,,Female,400,NR,Outdoor
+50.97,PUR,Génève,SUI,2022-06-11,Gabby Scott,1997.0,Female,400,NR,Outdoor
+1:01.88,QAT,Doha,QAT,2019-04-21,Kinza El Alaoui Al-Susi,,Female,400,NR,Outdoor
+49.88,ROU,Palma de Mallorca,ESP,1999-07-12,Ionela Tîrlea,1976.0,Female,400,NR,Outdoor
+49.62,RSA,Ostrava,CZE,2018-09-08,Caster Semenya,1991.0,Female,400,NR,Outdoor
+49.11,RUS,Seoul,KOR,1988-09-25,Olga V. Nazarova,1965.0,Female,400,NR,Outdoor
+58.26,RWA,El Djezair,ALG,2007-07-18,Epiphanie Uwintije,,Female,400,NR,Outdoor
+56.32,SAM,Auckland,NZL,1990-10-02,Kim Peterson,1967.0,Female,400,NR,Outdoor
+49.86,SEN,Edmonton,CAN,2001-08-07,Amy Mbacké Thiam,1976.0,Female,400,NR,Outdoor
+57.05,SEY,La Grange IL,USA,1993-04-04,Mirenda Francourt,,Female,400,NR,Outdoor
+54.18,SGP,Kuala Lumpur,MAS,2017-08-24,Dipna Lim Prasad,1991.0,Female,400,NR,Outdoor
+50.83,SKN,Sacramento CA,USA,2005-06-11,Tiandra Ponteen,1984.0,Female,400,NR,Outdoor
+51.36,SLE,Bloomington IN,USA,2018-05-13,Maggie Barrie,1996.0,Female,400,NR,Outdoor
+51.22,SLO,Monaco,MON,2018-07-20,Anita Horvat,1996.0,Female,400,NR,Outdoor
+58.23,SMR,Castelfranco Emilia,ITA,2023-06-28,Beatrice Berti,1999.0,Female,400,NR,Outdoor
+58.88,SOL,Suva,FIJ,2016-07-07,Samantha Rofo,1999.0,Female,400,NR,Outdoor
+1:04.89,SOM,Nairobi,KEN,1987-08-07,Jamad Oismail Abdi,,Female,400,NR,Outdoor
+51.89,SRB,Stara Zagora,BUL,2016-06-09,Tamara Salaški,1988.0,Female,400,NR,Outdoor
+51.05,SRI,Jakarta,INA,2000-08-30,Damayanthi Dharsha,1975.0,Female,400,NR,Outdoor
+55.53,SSD,Namboole,UGA,2023-07-01,Lucia William,2001.0,Female,400,NR,Outdoor
+53.48,STP,Huelva,ESP,2022-05-25,Gorete Semedo,1996.0,Female,400,NR,Outdoor
+51.19,SUD,Marrakech,MAR,2005-07-15,Nawal Al-Jak,1988.0,Female,400,NR,Outdoor
+50.52,SUI,La Chaux-de-Fonds,SUI,2018-07-01,Léa Sprunger,1990.0,Female,400,NR,Outdoor
+52.01,SUR,Arnhem,NED,1997-07-12,Letitia Vriesde,1964.0,Female,400,NR,Outdoor
+51.98,SVK,Edinburgh,GBR,1974-07-27,Jozefina Cerchlanová,1952.0,Female,400,NR,Outdoor
+51.13,SWE,Helsinki,FIN,2012-06-29,Moa Hjelmer,1990.0,Female,400,NR,Outdoor
+53.02,SWZ,Brazzaville,CGO,2015-09-14,Phumlile Ndzinisa,1992.0,Female,400,NR,Outdoor
+53.55,SYR,Alger,ALG,2006-09-10,Ghofrane Mohammad,1989.0,Female,400,NR,Outdoor
+54.99,TAN,Nairobi,KEN,1987-08-07,Leticia Athanas,1960.0,Female,400,NR,Outdoor
+57.98,TGA,Sydney,AUS,1994-01-30,Vasa Tulahe,1973.0,Female,400,NR,Outdoor
+52.60,THA,Singapore,SGP,1993-06-14,Noodang Phimphoo,1968.0,Female,400,NR,Outdoor
+52.70,TJK,Almaty,KAZ,2019-07-07,Gulsunbi Sharifova,1997.0,Female,400,NR,Outdoor
+52.10,TKM,Almaty,KAZ,2001-06-24,Alyona Litvinova,1979.0,Female,400,NR,Outdoor
+52.50,TKS,Greensboro NC,USA,2021-04-10,Yanique Haye-Smith,1990.0,Female,400,NR,Outdoor
+59.48,TLS,Jakarta,INA,1996-09-15,Odete Belo,,Female,400,NR,Outdoor
+52.50,TOG,Saint-Denis,FRA,2003-08-24,Sandrine Thiébaud-Kangni,1976.0,Female,400,NR,Outdoor
+52.74,TPE,Stockholm,SWE,1970-07-29,Chi Cheng,1944.0,Female,400,NR,Outdoor
+51.83,TTO,Port of Spain,TTO,2014-06-21,Janeil Bellille,1989.0,Female,400,NR,Outdoor
+52.22,TUN,Radès,TUN,2002-08-08,Aoutef Benhassine,1980.0,Female,400,NR,Outdoor
+52.15,TUR,Ankara,TUR,2011-07-30,Birsen Engin,1980.0,Female,400,NR,Outdoor
+1:11.71,TUV,Mata-Utu,FRA,2013-04-09,Asenate Manoa,1992.0,Female,400,NR,Outdoor
+58.07,UAE,Manama,BRN,2013-03-08,Betlehem Desalegn,1991.0,Female,400,NR,Outdoor
+51.47,UGA,Kampala,UGA,2019-07-26,Leni Shida,1994.0,Female,400,NR,Outdoor
+48.27,UKR,Canberra,AUS,1985-10-06,Olga Bryzgina,1963.0,Female,400,NR,Outdoor
+52.53,URU,Montevideo,URU,2014-10-03,Déborah Rodríguez,1992.0,Female,400,NR,Outdoor
+48.70,USA,Athína,GRE,2006-09-16,Sanya Richards-Ross,1985.0,Female,400,NR,Outdoor
+50.52,UZB,Kyiv,URS,1990-07-06,Marina Shmonina,1965.0,Female,400,NR,Outdoor
+53.92,VAN,Göteborg,SWE,1995-05-08,Mary Estelle Kapalu,1966.0,Female,400,NR,Outdoor
+51.94,VEN,Trujillo2,PER,2013-11-26,Nercely Soto,1990.0,Female,400,NR,Outdoor
+51.83,VIE,Hanoi,VIE,2003-12-08,Nguyen Thi Tinh,1982.0,Female,400,NR,Outdoor
+51.23,VIN,San Marcos TX,USA,2014-04-26,Kineke Alexander,1986.0,Female,400,NR,Outdoor
+1:05.22,YEM,Amman,JOR,2008-10-10,Fatima Suleiman Al-Dahman,1991.0,Female,400,NR,Outdoor
+50.22,ZAM,Brazzaville,CGO,2015-09-15,Kabange Mupopo,1992.0,Female,400,NR,Outdoor
+52.46,ZIM,Hobbs NM,USA,2023-05-20,Vimbayi Maisvorewa,2000.0,Female,400,NR,Outdoor
+54.30,AHO,Boston MA,USA,2001-03-09,Florencia Hunt,1978.0,Female,400,NR,Indoor
+53.34,ALB,Athína,GRE,2005-02-16,Klodiana Shala,1979.0,Female,400,NR,Indoor
+54.46,ALG,Lynchburg VA,USA,2024-02-24,Loubna Benhadja,2001.0,Female,400,NR,Indoor
+56.31,AND,Sabadell,ESP,2024-02-11,Duna Viñals,2006.0,Female,400,NR,Indoor
+53.01,ANT,Boston MA,USA,2016-02-12,Samantha Edwards,1990.0,Female,400,NR,Indoor
+54.79,ARG,Valencia,ESP,2003-03-01,Cora Olivero,1978.0,Female,400,NR,Indoor
+54.24,ARM,Praha,CZE,2015-03-06,Amaliya Sharoyan,1988.0,Female,400,NR,Indoor
+52.17,AUS,Budapest,HUN,1989-03-04,Maree Holland,1963.0,Female,400,NR,Indoor
+51.73,AUT,Istanbul,TUR,2023-03-04,Susanne Gogl-Walli,1996.0,Female,400,NR,Indoor
+56.14,AZE,Istanbul,TUR,2024-02-10,Lamiya Valiyeva,2002.0,Female,400,NR,Indoor
+50.21,BAH,Staten Island NY,USA,2021-02-13,Shaunae Miller-Uibo,1994.0,Female,400,NR,Indoor
+1:01.69,BAN,Tehran,IRI,2018-02-01,Aktar Sumi,1997.0,Female,400,NR,Indoor
+52.28,BAR,Fayetteville AR,USA,2022-02-11,Sada Williams,1997.0,Female,400,NR,Indoor
+51.62,BEL,Glasgow,GBR,2019-03-02,Cynthia Bolingo Mbongo,1993.0,Female,400,NR,Indoor
+53.50,BER,Boston MA,USA,2022-02-26,Caitlyn Bobb,2003.0,Female,400,NR,Indoor
+55.91,BIH,Beograd,SRB,2021-02-24,Jelena Gajić,1997.0,Female,400,NR,Indoor
+54.11,BIZ,Brighton MA,USA,2024-02-23,Lydia Troupe,2001.0,Female,400,NR,Indoor
+50.55,BLR,Madrid,ESP,2005-03-05,Sviatlana Usovich,1980.0,Female,400,NR,Indoor
+52.54,BRA,Fayetteville AR,USA,2017-02-10,Letícia de Souza,1996.0,Female,400,NR,Indoor
+51.45,BRN,Portland OR,USA,2016-03-19,Kemi Adekoya,1993.0,Female,400,NR,Indoor
+50.21,BUL,Moskva,RUS,2006-03-12,Vania Stambolova,1983.0,Female,400,NR,Indoor
+51.69,CAN,Birmingham,GBR,1992-02-22,Jillian Richardson Briscoe,1965.0,Female,400,NR,Indoor
+53.20,CAY,Lubbock TX,USA,2023-02-25,Shalysa Wray,1999.0,Female,400,NR,Indoor
+51.92,CHA,Lisboa,POR,2001-03-10,Kaltouma Nadjina,1976.0,Female,400,NR,Indoor
+54.45,CHI,Cochabamba,BOL,2020-02-01,Fernanda Mackenna,1986.0,Female,400,NR,Indoor
+52.27,CHN,Beijing,CHN,1996-02-24,Li Yajun,1977.0,Female,400,NR,Indoor
+53.64,CIV,Gainesville FL,USA,2023-02-16,Jessika Gbai,1998.0,Female,400,NR,Indoor
+52.62,CMR,Aubière,FRA,2003-03-02,Mireille Nguimgo,1976.0,Female,400,NR,Indoor
+52.12,COL,Indianapolis IN,USA,1991-03-09,Ximena Restrepo,1969.0,Female,400,NR,Indoor
+56.15,COM,Eaubonne,FRA,2005-01-21,Salhate Djamalidine,1978.0,Female,400,NR,Indoor
+56.43,CRC,Lincoln NE,USA,1999-02-27,Zoila Stewart Lee,1968.0,Female,400,NR,Indoor
+52.47,CRO,München,FRG,1976-02-22,Jelica Pavlicic,1954.0,Female,400,NR,Indoor
+52.02,CUB,Metz,FRA,2013-02-24,Indira Terrero,1985.0,Female,400,NR,Indoor
+52.91,CYP,Athína,GRE,2004-02-07,Andri Sialou,1973.0,Female,400,NR,Indoor
+49.59,CZE,Milano,ITA,1982-03-07,Jarmila Kratochvílová,1951.0,Female,400,NR,Indoor
+52.59,DEN,Växjö,SWE,2016-02-13,Sara Slott Petersen,1987.0,Female,400,NR,Indoor
+54.64,DMA,Jonesboro AR,USA,1997-02-24,Dawn Williams-Sewer,1973.0,Female,400,NR,Indoor
+53.83,DOM,Boston MA,USA,2002-03-09,Libia Jackson,,Female,400,NR,Indoor
+55.28,ECU,Vilafranca,ESP,2009-02-08,Paola Sánchez,1988.0,Female,400,NR,Indoor
+50.99,ESP,Sevilla,ESP,1991-03-10,Sandra Myers,1961.0,Female,400,NR,Indoor
+52.98,EST,Wien,AUT,2010-01-23,Maris Mägi,1987.0,Female,400,NR,Indoor
+52.37,FIN,Göteborg/Sc,SWE,2013-03-01,Ella Räsänen,1994.0,Female,400,NR,Indoor
+51.44,FRA,Liévin,FRA,1996-02-18,Marie-José Pérec,1968.0,Female,400,NR,Indoor
+50.02,GBR,Birmingham,GBR,2007-03-03,Nicola Sanders,1982.0,Female,400,NR,Indoor
+54.53,GEO,Valencia,ESP,1988-02-17,Maya Azarashvili,1964.0,Female,400,NR,Indoor
+50.01,GER,Wien,AUT,1984-02-02,Sabine Busch,1962.0,Female,400,NR,Indoor
+52.56,GHA,Fayetteville AR,USA,2024-02-09,Pearl Awanya,,Female,400,NR,Indoor
+1:00.55,GIB,Antequera,ESP,2022-12-30,Norcady Reyes,2003.0,Female,400,NR,Indoor
+51.68,GRE,Budapest,HUN,2004-03-06,Fani Chalkia,1979.0,Female,400,NR,Indoor
+51.68,GRE,Budapest,HUN,2004-03-06,Faní Halkiá,1979.0,Female,400,NR,Indoor
+50.92,GRN,Fayetteville AR,USA,2005-03-12,Hazel-Ann Regis-Buckels,1981.0,Female,400,NR,Indoor
+51.57,GUY,Beograd,SRB,2022-03-18,Aliyah Abrams,1997.0,Female,400,NR,Indoor
+52.21,HAI,New York NY,USA,2012-02-04,Marlena Wesh,1991.0,Female,400,NR,Indoor
+1:02.09,HKG,Macau,MAC,2007-02-10,Cheng Shan Shan,,Female,400,NR,Indoor
+52.29,HUN,Budapest,HUN,1987-02-08,Judit Forgács,1959.0,Female,400,NR,Indoor
+54.88,INA,Astana,KAZ,2023-02-11,Sri Mayasari,1994.0,Female,400,NR,Indoor
+53.89,IND,Pattaya,THA,2005-11-13,Pinki Parmanik,1986.0,Female,400,NR,Indoor
+53.85,IRI,Hangzhou,CHN,2012-02-18,Maryam Toosi,1988.0,Female,400,NR,Indoor
+50.33,IRL,Lubbock TX,USA,2023-02-25,Rhasidat Adeleke,2002.0,Female,400,NR,Indoor
+53.75,IRQ,Hanoi,VIE,2009-11-01,Kolestan Mahmoud,1991.0,Female,400,NR,Indoor
+53.14,ISL,Gent,BEL,2000-02-26,Gudrún Arnardóttir,1971.0,Female,400,NR,Indoor
+55.34,ISR,Gent,BEL,1999-02-14,Olga Bronstein,1976.0,Female,400,NR,Indoor
+51.60,ISV,Stuttgart,GER,2007-02-03,Laverne Jones-Ferrette,1981.0,Female,400,NR,Indoor
+52.17,ITA,Stockholm/G,SWE,1996-03-10,Virna De Angeli,1976.0,Female,400,NR,Indoor
+53.01,IVB,Boston MA,USA,2016-02-12,Ashley Kelly,1991.0,Female,400,NR,Indoor
+50.79,JAM,Beograd,SRB,2022-03-19,Stephenie Ann McPherson,1988.0,Female,400,NR,Indoor
+53.64,JPN,Tianjin,CHN,2005-03-01,Asami Chiba,1985.0,Female,400,NR,Indoor
+52.53,KAZ,Ust-Kamenogorsk,KAZ,2018-02-16,Elina Mikhina,1994.0,Female,400,NR,Indoor
+56.11,KOR,Tianjin,CHN,2004-02-18,Lee Yun-Kyong,1977.0,Female,400,NR,Indoor
+57.85,KOS,Istanbul,TUR,2016-02-27,Vijona Kryeziu,1997.0,Female,400,NR,Indoor
+52.66,LAT,Glasgow,GBR,2019-03-01,Gunta Vaičule,1995.0,Female,400,NR,Indoor
+52.99,LBR,Gainesville FL,USA,2006-02-26,Kou Luogon,1984.0,Female,400,NR,Indoor
+53.82,LCA,Cedar Falls IA,USA,1999-02-20,Verneta Lesforis,1975.0,Female,400,NR,Indoor
+59.53,LIE,München,FRG,1976-02-21,Maria Ritter,1957.0,Female,400,NR,Indoor
+51.63,LTU,Madrid,ESP,2022-03-02,Modesta Morauskaitė,1995.0,Female,400,NR,Indoor
+55.80,LUX,Luxembourg,LUX,2010-01-16,Charline Mathias,1992.0,Female,400,NR,Indoor
+58.85,MAC,Macau,MAC,2007-10-30,Lam Ka Im,1992.0,Female,400,NR,Indoor
+52.27,MAS,Virginia Beach VA,USA,2023-03-11,Sheeren Samson Vallybouy,1998.0,Female,400,NR,Indoor
+53.72,MDA,Moskva,URS,1990-02-26,Larisa Glavenko,1963.0,Female,400,NR,Indoor
+50.93,MEX,Maebashi,JPN,1999-03-06,Ana Guevara,1977.0,Female,400,NR,Indoor
+57.84,MGL,Macau,MAC,2007-10-30,Munguntuya Batgerel,1988.0,Female,400,NR,Indoor
+55.84,MKD,Budapest,HUN,2023-02-04,Drita Islami,1996.0,Female,400,NR,Indoor
+55.77,MLT,London,GBR,2020-01-18,Janet Richard,1998.0,Female,400,NR,Indoor
+57.53,MNE,Athína,GRE,2007-02-11,Jovana Kljajević,1991.0,Female,400,NR,Indoor
+59.43,MON,Miramas,FRA,2023-01-28,Marie Charlotte Gastaud,1999.0,Female,400,NR,Indoor
+49.24,NED,Apeldoorn,NED,2024-02-18,Femke Bol,2000.0,Female,400,NR,Indoor
+50.73,NGR,Stuttgart,GER,1998-02-01,Charity Opara,1972.0,Female,400,NR,Indoor
+51.05,NOR,Toruń,POL,2024-02-06,Henriette Jæger,2003.0,Female,400,NR,Indoor
+53.91,NZL,Albuquerque NM,USA,2024-02-24,Annalies Kalma,2003.0,Female,400,NR,Indoor
+57.75,PAK,Pattaya,THA,2005-11-13,Bushra Parveen,1982.0,Female,400,NR,Indoor
+50.83,POL,Toruń,POL,2023-02-19,Natalia Kaczmarek,1998.0,Female,400,NR,Indoor
+52.43,POR,Madrid,ESP,2024-02-23,Cátia Azevedo,1994.0,Female,400,NR,Indoor
+52.64,PUR,Boston MA,USA,2017-02-26,Grace Claxton,1993.0,Female,400,NR,Indoor
+50.56,ROU,Valencia,ESP,1998-03-01,Ionela Tîrlea,1976.0,Female,400,NR,Indoor
+54.86,RSA,Fayetteville AR,USA,2023-01-28,Gontse Morake,2001.0,Female,400,NR,Indoor
+49.68,RUS,Moskva,RUS,2004-02-18,Natalya Nazarova,1979.0,Female,400,NR,Indoor
+52.48,SEN,Stockholm/G,SWE,2006-02-02,Amy Mbacké Thiam,1976.0,Female,400,NR,Indoor
+50.91,SKN,Fayetteville AR,USA,2005-03-12,Tiandra Ponteen,1984.0,Female,400,NR,Indoor
+54.48,SLE,New York NY,USA,2018-01-27,Maggie Barrie,1996.0,Female,400,NR,Indoor
+52.22,SLO,Madrid,ESP,2018-02-08,Anita Horvat,1996.0,Female,400,NR,Indoor
+59.28,SMR,Padova,ITA,2021-01-30,Beatrice Berti,1999.0,Female,400,NR,Indoor
+52.33,SRB,Ostrava,CZE,2022-02-03,Maja Ciric,1989.0,Female,400,NR,Indoor
+54.61,SRI,Birmingham,GBR,2003-03-14,Damayanthi Dharsha,1975.0,Female,400,NR,Indoor
+56.59,SUD,Belfast,GBR,2004-02-15,Mona Jabir Ahmed,1987.0,Female,400,NR,Indoor
+51.28,SUI,Toruń,POL,2018-02-15,Léa Sprunger,1990.0,Female,400,NR,Indoor
+52.62,SVK,Toruń,POL,2018-02-15,Iveta Putalová,1988.0,Female,400,NR,Indoor
+52.04,SWE,Göteborg/Sc,SWE,2013-03-03,Moa Hjelmer,1990.0,Female,400,NR,Indoor
+54.17,SYR,Pattaya,THA,2005-11-14,Mounira Al-Saleh,1986.0,Female,400,NR,Indoor
+54.45,THA,Ashgabat,TKM,2017-09-19,Atchima Engchuan,1990.0,Female,400,NR,Indoor
+58.28,TKM,Ashgabat,TKM,2017-09-18,Mariya Rozymova,1994.0,Female,400,NR,Indoor
+53.22,TOG,Aubière,FRA,2003-03-02,Sandrine Thiébaud-Kangni,1976.0,Female,400,NR,Indoor
+52.52,TTO,Fayetteville AR,USA,2013-03-09,Sparkle McKnight,1991.0,Female,400,NR,Indoor
+53.34,TUN,Aubière,FRA,2003-03-02,Aoutef Benhassine,1980.0,Female,400,NR,Indoor
+53.04,TUR,Lincoln NE,USA,2009-02-07,Pınar Saka,1985.0,Female,400,NR,Indoor
+53.04,TUR,Karlsruhe,GER,2011-01-29,Meliz Redif,1989.0,Female,400,NR,Indoor
+53.17,UGA,Birmingham AL,USA,2023-02-21,Scovia Ayikoru,1994.0,Female,400,NR,Indoor
+50.81,UKR,Moskva,URS,1987-02-14,Olga Bryzgina,1963.0,Female,400,NR,Indoor
+56.57,URU,Sevilla,ESP,1991-03-08,Claudia Acerenza,1966.0,Female,400,NR,Indoor
+49.48,USA,Albuquerque NM,USA,2023-03-11,Britton Wilson,2000.0,Female,400,NR,Indoor
+54.41,VIE,Ashgabat,TKM,2017-09-19,Nguyen Thi Hang,1997.0,Female,400,NR,Indoor
+51.48,VIN,Fayetteville AR,USA,2007-03-10,Kineke Alexander,1986.0,Female,400,NR,Indoor
+52.68,ZAM,Portland OR,USA,2016-03-18,Kabange Mupopo,1992.0,Female,400,NR,Indoor
+52.16,ZIM,Fayetteville AR,USA,2024-02-23,Vimbayi Maisvorewa,2000.0,Female,400,NR,Indoor

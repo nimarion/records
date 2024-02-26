@@ -1,89 +1,92 @@
-result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
-40:57.91,ALB,Torino,ITA,2005-05-14,Orest Laniku,1987,Male,10000W,NR
-39:46.14,ALG,Tunis,TUN,2000-03-06,Moussa Aouanouk,1972,Male,10000W,NR
-52:21.3,AND,Arbeca,AND,1990-06-10,Jordi Martinez,1972,Male,10000W,NR
-40:05.03,ARG,Rosario,ARG,2014-06-20,Juan Manuel Cano,1987,Male,10000W,NR
-38:03.78,AUS,Canberra,AUS,2023-02-02,Declan Tingay,1999,Male,10000W,NR
-40:04.8,BEL,Sittard,NED,1988-03-26,Jos Martens,1964,Male,10000W,NR
-39:18.0,BLR,Minsk,BLR,1992-05-12,Artur Shumak,1963,Male,10000W,NR
-38:20.0,BRA,Blumenáu,BRA,2008-06-07,Moacir Zimmermann,1983,Male,10000W,NR
-39:49.56,BUL,Sofia,BUL,1988-09-03,Lyubomir Ivanov,1960,Male,10000W,NR
-38:39.72,CAN,Burnaby,CAN,2021-06-12,Evan Dunfee,1990,Male,10000W,NR
-40:40.99,CHI,Canberra,AUS,2019-01-28,Yerko Araya,1986,Male,10000W,NR
-38:23.73,CHN,Genova,ITA,2015-02-08,Wang Zhen,1991,Male,10000W,NR
-44:41.3,CMR,Yaoundé,CMR,2000-01-07,Fidele Ngoufo,,Male,10000W,NR
-39:56.01,COL,Medellín,COL,2011-09-24,Eider Arévalo,1993,Male,10000W,NR
-41:27.8,CRC,San José3,CRC,2009-03-28,Allan Segura,1980,Male,10000W,NR
-44:09.51,CRO,Zagreb,CRO,2023-05-20,Bruno Erent,1990,Male,10000W,NR
-40:50.39,CZE,Dreux,FRA,1992-06-19,Miloš Holuša,1965,Male,10000W,NR
-40:03.5,DEN,Sødre Omme,DEN,1999-05-22,Claus Jørgensen,1974,Male,10000W,NR
-38:37.6,ECU,Bergen,NOR,1998-05-09,Jefferson Pérez,1974,Male,10000W,NR
-40:44.94,EGY,El Maadi,EGY,2021-05-20,Islam Abdel Awab Abdul Khaliq,1996,Male,10000W,NR
-41:31.8,ESA,San Salvador,ESA,2005-05-14,Walter Sandoval,1984,Male,10000W,NR
-37:53.09,ESP,Santa Cruz de Tenerife,ESP,2008-07-27,Francisco Javier Fernández,1977,Male,10000W,NR
-40:30.0,EST,Alushta,URS,1984-02-25,Vassili Matvejev,1957,Male,10000W,NR
-39:51.2,ETH,Addis Ababa,ETH,2023-05-20,Misganaw Wakuma,2004,Male,10000W,NR
-38:44.13,FIN,Tampere,FIN,2018-09-01,Veli-Matti Partanen,1991,Male,10000W,NR
-38:08.13,FRA,Reims,FRA,2014-07-12,Yohann Diniz,1978,Male,10000W,NR
-39:05.85,GBR,Newport,GBR,2021-03-06,Callum Wilkinson,1997,Male,10000W,NR
-38:12.13,GER,Potsdam,GER,1986-05-11,Ronald Weigel,1959,Male,10000W,NR
-39:37.65,GRE,Pátra,GRE,2002-04-27,Elefthérios Thanópoulos,1975,Male,10000W,NR
-40:10.73,GUA,Ciudad de Guatemala,GUA,2013-10-25,Erick Bernabé,,Male,10000W,NR
-45:10.69,HKG,Hongkong,HKG,2018-02-04,Chin Man Kit,1991,Male,10000W,NR
-39:56.02,HUN,Budapest,HUN,2016-06-19,Máté Helebrandt,1989,Male,10000W,NR
-45:09.28,INA,Bogor,INA,2016-09-22,Indra Abdul Kadir,1984,Male,10000W,NR
-38:49.21,IND,Birmingham,GBR,2022-08-07,Sandeep Kumar Sangwan,1986,Male,10000W,NR
-41:11.1,IRI,Shiraz,IRI,2016-05-02,Hamid Reza Zouravand,1990,Male,10000W,NR
-38:27.57,IRL,Dublin,IRL,2008-07-20,Robert Heffernan,1978,Male,10000W,NR
-44:06.56,IRQ,Baghdad,IRQ,2018-03-22,Mostafa Razzak Abd Alwan,,Male,10000W,NR
-41:51.40,ISR,Tel Aviv,ISR,1993-05-26,Vladimir Ostrovskiy,1966,Male,10000W,NR
-37:58.6,ITA,Sesto San Giovanni,ITA,2005-07-23,Ivano Brugnetti,1976,Male,10000W,NR
-37:25.21,JPN,Inzai,JPN,2020-11-14,Eiki Takahashi,1992,Male,10000W,NR
-39:53.99,KAZ,Almaty,KAZ,1999-05-23,Sergey Korepanov,1964,Male,10000W,NR
-39:08.6,KEN,Nyeri,KEN,2009-03-21,David Kimutai,1969,Male,10000W,NR
-39:05.05,KOR,Yeosu,KOR,2022-03-30,Choe Byeong-Kwang,1991,Male,10000W,NR
-38:56.3,LAT,Valga,EST,2008-04-26,Ingus Janevičs,1986,Male,10000W,NR
-38:18.0,LTU,Moskva,URS,1983-09-18,Valdas Kazlauskas,1958,Male,10000W,NR
-42:49.2,LUX,Weert,NED,1988-04-20,Marc Sowa,1963,Male,10000W,NR
-49:27.6,MAD,Antananarivo,MAD,2000-06-08,Pietron Randrianandrasana,,Male,10000W,NR
-42:49.23,MAR,Rabat,MAR,2022-05-22,Mohamed Loqmane,,Male,10000W,NR
-43:03.24,MAS,Seremban,MAS,1997-05-10,Rajoo Mogan,,Male,10000W,NR
-39:56.0,MDA,Alushta,URS,1985-02-23,Viktor Mostovik,1963,Male,10000W,NR
-38:26.4,MEX,Sdr Omme,DEN,1997-05-17,Daniel García,1971,Male,10000W,NR
-54:17.0,MOZ,Maputo,MOZ,1999-06-23,Adriano Mateus,,Male,10000W,NR
-44:12.43,MRI,Dublin,IRL,2018-07-29,Jérome Caprice,1983,Male,10000W,NR
-43:14.88,NCA,Managua,NCA,2021-05-02,Gabriel Alvarado,2004,Male,10000W,NR
-41:35.7,NED,Zaandam,NED,1995-02-06,Harold van Beek,1962,Male,10000W,NR
-44:21.73,NGR,Nsukka,NGR,2012-04-21,Elegbede Bamidele,,Male,10000W,NR
-38:32.0,NOR,Bergen,NOR,2008-06-13,Erik Tysse,1980,Male,10000W,NR
-40:35.2,NZL,Canberra,AUS,2022-01-15,Quentin Rew,1984,Male,10000W,NR
-42:03.55,PAN,Lima,PER,2017-04-23,Yassir Cabrera,1988,Male,10000W,NR
-1:00:55.00,PAR,Asunción,PAR,2004-09-26,Willian Jiménez,,Male,10000W,NR
-39:54.6,PER,Lima,PER,2018-07-20,César Augusto Rodríguez,1997,Male,10000W,NR
-38:26.53,POL,Riga,LAT,2002-05-31,Robert Korzeniowski,1968,Male,10000W,NR
-39:44.91,POR,Lisboa,POR,2011-07-30,João Vieira,1976,Male,10000W,NR
-41:46.52,PUR,Canberra,AUS,2019-01-09,José Israel Meléndez,1995,Male,10000W,NR
-44:44.35,QAT,Amman,JOR,2012-05-16,Hussein Mohamed Al-Khairi,1993,Male,10000W,NR
-39:28.20,ROU,Bucureşti,ROU,1993-07-31,Costică Bălan,1964,Male,10000W,NR
-40:32.78,RSA,Krugersdorp,RSA,1995-10-04,Chris Britz,1963,Male,10000W,NR
-38:14.24,RUS,Cheboksary,RUS,2022-08-02,Vasiliy Mizinov,1997,Male,10000W,NR
-46:25.76,SGP,New Delhi,IND,1996-12-05,Jairajkumar Jeyabal,,Male,10000W,NR
-42:19.1,SLO,Celje,YUG,1990-06-09,Milan Balek,1950,Male,10000W,NR
-43:50.50,SMR,Modena,ITA,1985-05-05,Stefano Casali,1962,Male,10000W,NR
-40:05.19,SRB,Niš,SRB,1996-06-16,Aleksandar Raković,1968,Male,10000W,NR
-45:48.30,SRI,Diyagama,SRI,2016-08-15,G. S. Chamila Chandika,,Male,10000W,NR
-53:28.68,STP,Braga,POR,2015-07-04,Sidney Santos,,Male,10000W,NR
-42:04.39,SUI,Olten,SUI,1991-04-08,Aldo Bertoldi,1961,Male,10000W,NR
-38:02.60,SVK,Banská Bystrica,TCH,1985-08-30,Jozef Pribilinec,1960,Male,10000W,NR
-37:57.02,SWE,Dublin,IRL,2022-06-26,Perseus Karlström,1990,Male,10000W,NR
-44:49.15,THA,UNKNOWN,???,1997-09-14,Sakchai Samutkoa,1961,Male,10000W,NR
-42:09.93,TJK,Tashkent,UZB,2019-08-17,Shokhrukh Salomov,1998,Male,10000W,NR
-43:28.86,TPE,Taipei,TPE,2021-03-28,Hsu Chia-Wei,2000,Male,10000W,NR
-38:24.31,TUN,Tunis,TUN,1998-05-30,Hatem Ghoula,1973,Male,10000W,NR
-39:26.92,TUR,Istanbul,TUR,2020-09-05,Salih Korkmaz,1997,Male,10000W,NR
-45:47.84,UAE,Cairo,EGY,2014-04-23,Hassan Al-Shaali,1995,Male,10000W,NR
-38:41.17,UKR,Kyiv,UKR,2005-06-22,Andriy Yurin,1984,Male,10000W,NR
-44:00.3,URU,Montevideo,URU,2002-09-02,Juan Pablo Mesquita,1982,Male,10000W,NR
-39:43.85,USA,Philadelphia PA,USA,1999-04-24,Tim Seaman,1972,Male,10000W,NR
-41:39.85,VEN,Caracas,VEN,2013-09-21,Richard Egrey Vargas,1994,Male,10000W,NR
-44:22.08,VIE,Ho Chi Minh,VIE,2012-07-11,Nguyen Thanh Ngung,1992,Male,10000W,NR
+result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,environment
+40:57.91,ALB,Torino,ITA,2005-05-14,Orest Laniku,1987.0,Male,10000W,NR,Outdoor
+39:46.14,ALG,Tunis,TUN,2000-03-06,Moussa Aouanouk,1972.0,Male,10000W,NR,Outdoor
+52:21.3,AND,Arbeca,AND,1990-06-10,Jordi Martinez,1972.0,Male,10000W,NR,Outdoor
+40:05.03,ARG,Rosario,ARG,2014-06-20,Juan Manuel Cano,1987.0,Male,10000W,NR,Outdoor
+38:03.78,AUS,Canberra,AUS,2023-02-02,Declan Tingay,1999.0,Male,10000W,NR,Outdoor
+40:04.8,BEL,Sittard,NED,1988-03-26,Jos Martens,1964.0,Male,10000W,NR,Outdoor
+39:18.0,BLR,Minsk,BLR,1992-05-12,Artur Shumak,1963.0,Male,10000W,NR,Outdoor
+38:20.0,BRA,Blumenáu,BRA,2008-06-07,Moacir Zimmermann,1983.0,Male,10000W,NR,Outdoor
+39:49.56,BUL,Sofia,BUL,1988-09-03,Lyubomir Ivanov,1960.0,Male,10000W,NR,Outdoor
+38:39.72,CAN,Burnaby,CAN,2021-06-12,Evan Dunfee,1990.0,Male,10000W,NR,Outdoor
+40:40.99,CHI,Canberra,AUS,2019-01-28,Yerko Araya,1986.0,Male,10000W,NR,Outdoor
+38:23.73,CHN,Genova,ITA,2015-02-08,Wang Zhen,1991.0,Male,10000W,NR,Outdoor
+44:41.3,CMR,Yaoundé,CMR,2000-01-07,Fidele Ngoufo,,Male,10000W,NR,Outdoor
+39:56.01,COL,Medellín,COL,2011-09-24,Eider Arévalo,1993.0,Male,10000W,NR,Outdoor
+41:27.8,CRC,San José3,CRC,2009-03-28,Allan Segura,1980.0,Male,10000W,NR,Outdoor
+44:09.51,CRO,Zagreb,CRO,2023-05-20,Bruno Erent,1990.0,Male,10000W,NR,Outdoor
+40:50.39,CZE,Dreux,FRA,1992-06-19,Miloš Holuša,1965.0,Male,10000W,NR,Outdoor
+40:03.5,DEN,Sødre Omme,DEN,1999-05-22,Claus Jørgensen,1974.0,Male,10000W,NR,Outdoor
+38:37.6,ECU,Bergen,NOR,1998-05-09,Jefferson Pérez,1974.0,Male,10000W,NR,Outdoor
+40:44.94,EGY,El Maadi,EGY,2021-05-20,Islam Abdel Awab Abdul Khaliq,1996.0,Male,10000W,NR,Outdoor
+41:31.8,ESA,San Salvador,ESA,2005-05-14,Walter Sandoval,1984.0,Male,10000W,NR,Outdoor
+37:53.09,ESP,Santa Cruz de Tenerife,ESP,2008-07-27,Francisco Javier Fernández,1977.0,Male,10000W,NR,Outdoor
+40:30.0,EST,Alushta,URS,1984-02-25,Vassili Matvejev,1957.0,Male,10000W,NR,Outdoor
+39:51.2,ETH,Addis Ababa,ETH,2023-05-20,Misganaw Wakuma,2004.0,Male,10000W,NR,Outdoor
+38:44.13,FIN,Tampere,FIN,2018-09-01,Veli-Matti Partanen,1991.0,Male,10000W,NR,Outdoor
+38:08.13,FRA,Reims,FRA,2014-07-12,Yohann Diniz,1978.0,Male,10000W,NR,Outdoor
+39:05.85,GBR,Newport,GBR,2021-03-06,Callum Wilkinson,1997.0,Male,10000W,NR,Outdoor
+38:12.13,GER,Potsdam,GER,1986-05-11,Ronald Weigel,1959.0,Male,10000W,NR,Outdoor
+39:37.65,GRE,Pátra,GRE,2002-04-27,Elefthérios Thanópoulos,1975.0,Male,10000W,NR,Outdoor
+40:10.73,GUA,Ciudad de Guatemala,GUA,2013-10-25,Erick Bernabé,,Male,10000W,NR,Outdoor
+45:10.69,HKG,Hongkong,HKG,2018-02-04,Chin Man Kit,1991.0,Male,10000W,NR,Outdoor
+39:56.02,HUN,Budapest,HUN,2016-06-19,Máté Helebrandt,1989.0,Male,10000W,NR,Outdoor
+45:09.28,INA,Bogor,INA,2016-09-22,Indra Abdul Kadir,1984.0,Male,10000W,NR,Outdoor
+38:49.21,IND,Birmingham,GBR,2022-08-07,Sandeep Kumar Sangwan,1986.0,Male,10000W,NR,Outdoor
+41:11.1,IRI,Shiraz,IRI,2016-05-02,Hamid Reza Zouravand,1990.0,Male,10000W,NR,Outdoor
+38:27.57,IRL,Dublin,IRL,2008-07-20,Robert Heffernan,1978.0,Male,10000W,NR,Outdoor
+44:06.56,IRQ,Baghdad,IRQ,2018-03-22,Mostafa Razzak Abd Alwan,,Male,10000W,NR,Outdoor
+41:51.40,ISR,Tel Aviv,ISR,1993-05-26,Vladimir Ostrovskiy,1966.0,Male,10000W,NR,Outdoor
+37:58.6,ITA,Sesto San Giovanni,ITA,2005-07-23,Ivano Brugnetti,1976.0,Male,10000W,NR,Outdoor
+37:25.21,JPN,Inzai,JPN,2020-11-14,Eiki Takahashi,1992.0,Male,10000W,NR,Outdoor
+39:53.99,KAZ,Almaty,KAZ,1999-05-23,Sergey Korepanov,1964.0,Male,10000W,NR,Outdoor
+39:08.6,KEN,Nyeri,KEN,2009-03-21,David Kimutai,1969.0,Male,10000W,NR,Outdoor
+39:05.05,KOR,Yeosu,KOR,2022-03-30,Choe Byeong-Kwang,1991.0,Male,10000W,NR,Outdoor
+38:56.3,LAT,Valga,EST,2008-04-26,Ingus Janevičs,1986.0,Male,10000W,NR,Outdoor
+38:18.0,LTU,Moskva,URS,1983-09-18,Valdas Kazlauskas,1958.0,Male,10000W,NR,Outdoor
+42:49.2,LUX,Weert,NED,1988-04-20,Marc Sowa,1963.0,Male,10000W,NR,Outdoor
+49:27.6,MAD,Antananarivo,MAD,2000-06-08,Pietron Randrianandrasana,,Male,10000W,NR,Outdoor
+42:49.23,MAR,Rabat,MAR,2022-05-22,Mohamed Loqmane,,Male,10000W,NR,Outdoor
+43:03.24,MAS,Seremban,MAS,1997-05-10,Rajoo Mogan,,Male,10000W,NR,Outdoor
+39:56.0,MDA,Alushta,URS,1985-02-23,Viktor Mostovik,1963.0,Male,10000W,NR,Outdoor
+38:26.4,MEX,Sdr Omme,DEN,1997-05-17,Daniel García,1971.0,Male,10000W,NR,Outdoor
+54:17.0,MOZ,Maputo,MOZ,1999-06-23,Adriano Mateus,,Male,10000W,NR,Outdoor
+44:12.43,MRI,Dublin,IRL,2018-07-29,Jérome Caprice,1983.0,Male,10000W,NR,Outdoor
+43:14.88,NCA,Managua,NCA,2021-05-02,Gabriel Alvarado,2004.0,Male,10000W,NR,Outdoor
+41:35.7,NED,Zaandam,NED,1995-02-06,Harold van Beek,1962.0,Male,10000W,NR,Outdoor
+44:21.73,NGR,Nsukka,NGR,2012-04-21,Elegbede Bamidele,,Male,10000W,NR,Outdoor
+38:32.0,NOR,Bergen,NOR,2008-06-13,Erik Tysse,1980.0,Male,10000W,NR,Outdoor
+40:35.2,NZL,Canberra,AUS,2022-01-15,Quentin Rew,1984.0,Male,10000W,NR,Outdoor
+42:03.55,PAN,Lima,PER,2017-04-23,Yassir Cabrera,1988.0,Male,10000W,NR,Outdoor
+1:00:55.00,PAR,Asunción,PAR,2004-09-26,Willian Jiménez,,Male,10000W,NR,Outdoor
+39:54.6,PER,Lima,PER,2018-07-20,César Augusto Rodríguez,1997.0,Male,10000W,NR,Outdoor
+38:26.53,POL,Riga,LAT,2002-05-31,Robert Korzeniowski,1968.0,Male,10000W,NR,Outdoor
+39:44.91,POR,Lisboa,POR,2011-07-30,João Vieira,1976.0,Male,10000W,NR,Outdoor
+41:46.52,PUR,Canberra,AUS,2019-01-09,José Israel Meléndez,1995.0,Male,10000W,NR,Outdoor
+44:44.35,QAT,Amman,JOR,2012-05-16,Hussein Mohamed Al-Khairi,1993.0,Male,10000W,NR,Outdoor
+39:28.20,ROU,Bucureşti,ROU,1993-07-31,Costică Bălan,1964.0,Male,10000W,NR,Outdoor
+40:32.78,RSA,Krugersdorp,RSA,1995-10-04,Chris Britz,1963.0,Male,10000W,NR,Outdoor
+38:14.24,RUS,Cheboksary,RUS,2022-08-02,Vasiliy Mizinov,1997.0,Male,10000W,NR,Outdoor
+46:25.76,SGP,New Delhi,IND,1996-12-05,Jairajkumar Jeyabal,,Male,10000W,NR,Outdoor
+42:19.1,SLO,Celje,YUG,1990-06-09,Milan Balek,1950.0,Male,10000W,NR,Outdoor
+43:50.50,SMR,Modena,ITA,1985-05-05,Stefano Casali,1962.0,Male,10000W,NR,Outdoor
+40:05.19,SRB,Niš,SRB,1996-06-16,Aleksandar Raković,1968.0,Male,10000W,NR,Outdoor
+45:48.30,SRI,Diyagama,SRI,2016-08-15,G. S. Chamila Chandika,,Male,10000W,NR,Outdoor
+53:28.68,STP,Braga,POR,2015-07-04,Sidney Santos,,Male,10000W,NR,Outdoor
+42:04.39,SUI,Olten,SUI,1991-04-08,Aldo Bertoldi,1961.0,Male,10000W,NR,Outdoor
+38:02.60,SVK,Banská Bystrica,TCH,1985-08-30,Jozef Pribilinec,1960.0,Male,10000W,NR,Outdoor
+37:57.02,SWE,Dublin,IRL,2022-06-26,Perseus Karlström,1990.0,Male,10000W,NR,Outdoor
+44:49.15,THA,UNKNOWN,???,1997-09-14,Sakchai Samutkoa,1961.0,Male,10000W,NR,Outdoor
+42:09.93,TJK,Tashkent,UZB,2019-08-17,Shokhrukh Salomov,1998.0,Male,10000W,NR,Outdoor
+43:28.86,TPE,Taipei,TPE,2021-03-28,Hsu Chia-Wei,2000.0,Male,10000W,NR,Outdoor
+38:24.31,TUN,Tunis,TUN,1998-05-30,Hatem Ghoula,1973.0,Male,10000W,NR,Outdoor
+39:26.92,TUR,Istanbul,TUR,2020-09-05,Salih Korkmaz,1997.0,Male,10000W,NR,Outdoor
+45:47.84,UAE,Cairo,EGY,2014-04-23,Hassan Al-Shaali,1995.0,Male,10000W,NR,Outdoor
+38:41.17,UKR,Kyiv,UKR,2005-06-22,Andriy Yurin,1984.0,Male,10000W,NR,Outdoor
+44:00.3,URU,Montevideo,URU,2002-09-02,Juan Pablo Mesquita,1982.0,Male,10000W,NR,Outdoor
+39:43.85,USA,Philadelphia PA,USA,1999-04-24,Tim Seaman,1972.0,Male,10000W,NR,Outdoor
+41:39.85,VEN,Caracas,VEN,2013-09-21,Richard Egrey Vargas,1994.0,Male,10000W,NR,Outdoor
+44:22.08,VIE,Ho Chi Minh,VIE,2012-07-11,Nguyen Thanh Ngung,1992.0,Male,10000W,NR,Outdoor
+38:52.4,BLR,Minsk,BLR,2001-02-02,Artur Meleshkevich,1975.0,Male,10000W,NR,Indoor
+41:50.4,EST,Minsk,URS,1982-03-02,Vassili Matvejev,1957.0,Male,10000W,NR,Indoor
+38:35.3,RUS,Saransk,RUS,2023-09-24,Danila Martynov,2004.0,Male,10000W,NR,Indoor

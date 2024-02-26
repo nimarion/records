@@ -1,3 +1,3 @@
-result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
-46.27,AND,Beograd,SRB,2021-09-14,Duna Viñals,2006,Female,300H,NR
-38.75,GBR,St. Pölten,AUT,2023-05-26,Lina Nielsen,1996,Female,300H,NR
+result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,environment
+46.27,AND,Beograd,SRB,2021-09-14,Duna Viñals,2006,Female,300H,NR,Outdoor
+38.75,GBR,St. Pölten,AUT,2023-05-26,Lina Nielsen,1996,Female,300H,NR,Outdoor

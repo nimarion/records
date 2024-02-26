@@ -1,2 +1,2 @@
-result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
-17.21,-1.8,ISL,Akureyri,ISL,2023-08-27,Steinunn Arnbjörg Stefánsdóttir,1981,Female,80H84,NR
+result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,environment
+17.21,-1.8,ISL,Akureyri,ISL,2023-08-27,Steinunn Arnbjörg Stefánsdóttir,1981,Female,80H84,NR,Outdoor

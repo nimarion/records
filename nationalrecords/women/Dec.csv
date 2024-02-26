@@ -1,14 +1,14 @@
-result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
-6577,BEL,Schaerbeek,BEL,2019-09-29,Cassandre Evans,2001,Female,Dec,NR
-4189,CIV,Aulnay-sous-Bois,FRA,2007-09-22,Alima Ouattara,1988,Female,Dec,NR
-2975,COD,Aulnay-sous-Bois,FRA,2013-09-22,Yanou-Grace Mongo-Ognie-Kosso,,Female,Dec,NR
-6749,CZE,Talence,FRA,2004-09-26,Barbora Špotáková,1981,Female,Dec,NR
-6614,ESP,Castellón,ESP,2005-10-23,María Peinado,1977,Female,Dec,NR
-6732,EST,Kohila,EST,2018-07-15,Kristella Jurkatamm,1996,Female,Dec,NR
-8150,FRA,Talence,FRA,2004-09-26,Marie Collonvillé,1973,Female,Dec,NR
-7014,GHA,Réduit,MRI,2007-04-19,Margaret Simpson,1982,Female,Dec,NR
-7798,KAZ,Talence,FRA,2004-09-26,Irina Karpova,1980,Female,Dec,NR
-6347,LUX,Regensburg,GER,2019-07-28,Lara Marx,1989,Female,Dec,NR
-5744,MRI,Val-de-Reuil,FRA,2001-09-15,Stephanie Domaingue,1980,Female,Dec,NR
-6724,POL,Lage,GER,2000-09-10,Elzbieta Raczka,1970,Female,Dec,NR
-7742,RUS,Krasnodar,RUS,2003-09-20,Anna Snetkova,1979,Female,Dec,NR
+result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,environment
+6577,BEL,Schaerbeek,BEL,2019-09-29,Cassandre Evans,2001.0,Female,Dec,NR,Outdoor
+4189,CIV,Aulnay-sous-Bois,FRA,2007-09-22,Alima Ouattara,1988.0,Female,Dec,NR,Outdoor
+2975,COD,Aulnay-sous-Bois,FRA,2013-09-22,Yanou-Grace Mongo-Ognie-Kosso,,Female,Dec,NR,Outdoor
+6749,CZE,Talence,FRA,2004-09-26,Barbora Špotáková,1981.0,Female,Dec,NR,Outdoor
+6614,ESP,Castellón,ESP,2005-10-23,María Peinado,1977.0,Female,Dec,NR,Outdoor
+6732,EST,Kohila,EST,2018-07-15,Kristella Jurkatamm,1996.0,Female,Dec,NR,Outdoor
+8150,FRA,Talence,FRA,2004-09-26,Marie Collonvillé,1973.0,Female,Dec,NR,Outdoor
+7014,GHA,Réduit,MRI,2007-04-19,Margaret Simpson,1982.0,Female,Dec,NR,Outdoor
+7798,KAZ,Talence,FRA,2004-09-26,Irina Karpova,1980.0,Female,Dec,NR,Outdoor
+6347,LUX,Regensburg,GER,2019-07-28,Lara Marx,1989.0,Female,Dec,NR,Outdoor
+5744,MRI,Val-de-Reuil,FRA,2001-09-15,Stephanie Domaingue,1980.0,Female,Dec,NR,Outdoor
+6724,POL,Lage,GER,2000-09-10,Elzbieta Raczka,1970.0,Female,Dec,NR,Outdoor
+7742,RUS,Krasnodar,RUS,2003-09-20,Anna Snetkova,1979.0,Female,Dec,NR,Outdoor

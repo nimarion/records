@@ -1,48 +1,49 @@
-result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
-46:19.13,ALG,Alger,ALG,2023-03-10,Souad Azzi,1999,Female,10000W,NR
-41:57.22,AUS,Seattle WA,USA,1990-07-24,Kerry Saxby-Junna,1961,Female,10000W,NR
-45:41.3,AUT,Bergen,NOR,1992-05-16,Vera Toporek,1967,Female,10000W,NR
-51:18.9,BEL,Weert,NED,1992-06-03,Christa Ceulemans,1967,Female,10000W,NR
-1:12:05.00,CIV,Ouagadougou,BUR,2007-12-08,Agnes Kra Brou,,Female,10000W,NR
-51:52.0,CMR,Yaoundé,CMR,2001-06-09,Anne Hortense Ebena,,Female,10000W,NR
-58:52.07,CYP,Pátra,GRE,2016-04-23,Sofia Olympiou,1994,Female,10000W,NR
-42:14.12,ESP,Gijón,ESP,2016-07-23,Raquel González,1989,Female,10000W,NR
-46:48.99,EST,Tallinn,EST,2022-06-26,Jekaterina Mirotvortseva,2002,Female,10000W,NR
-44:49.0,ETH,Addis Ababa,ETH,2021-04-11,Yehualeye Beletew,1998,Female,10000W,NR
-43:35.52,FRA,Canberra,AUS,2024-01-27,Clemence Beretta,1997,Female,10000W,NR
-42:55.85,GRE,Dráma,GRE,2016-04-23,Déspina Zapounídou,1985,Female,10000W,NR
-45:46.93,HKG,Kitami,JPN,2018-07-07,Jessica Ching Siu Nga,1987,Female,10000W,NR
-46:19.6,INA,UNKNOWN,???,1998-11-21,Tersiana Riwu Rohi,1970,Female,10000W,NR
-43:38.83,IND,Birmingham,GBR,2022-08-06,Priyanka Goswami,1996,Female,10000W,NR
-52:31.00,IRI,Tehran,IRI,2017-08-11,Zahra Jaafarabadi,1986,Female,10000W,NR
-41:57.29,ITA,Orvieto,ITA,2017-04-23,Antonella Palmisano,1991,Female,10000W,NR
-42:51.82,JPN,Nagasaki,JPN,2019-12-08,Kumiko Okada,1991,Female,10000W,NR
-43:51.00,KAZ,Almaty,KAZ,1997-09-17,Svetlana Tolstaya,1971,Female,10000W,NR
-43:50.86,KEN,Birmingham,GBR,2022-08-06,Emily Ngii,1986,Female,10000W,NR
-46:50.5,KGZ,Cheboksary,URS,1987-06-07,Zoya Mustafeyeva,,Female,10000W,NR
-44:32.22,KOR,Changwon,KOR,2012-06-20,Jeon Yang-Eun,1988,Female,10000W,NR
-1:04:50.25,LAO,Bangkok,THA,2016-07-07,Bongone Vanmany,,Female,10000W,NR
-56:42.70,LBN,Beyrouth,LBN,2019-06-29,Sandy Karam,1996,Female,10000W,NR
-47:27.04,MAR,Rabat,MAR,2022-07-03,Soukaina Bouad,,Female,10000W,NR
-45:22.05,MAS,Bandar Seri Begawan,BRU,1999-08-09,Yuan Yufang,1976,Female,10000W,NR
-46:29.9,MDA,Cheboksary,URS,1987-07-06,Yulia Lisnik,1966,Female,10000W,NR
-50:48.2,MGL,Ulan Bator,MGL,2008-06-06,Volooj Otgontuul,1979,Female,10000W,NR
-57:10.7,MOZ,Maputo,MOZ,2001-07-08,Hamida Mabunda,,Female,10000W,NR
-47:05.8,MYA,Yangon,MYA,2001-01-30,Khin Mar Soe,1978,Female,10000W,NR
-50:14.9,NED,Zonhoven,BEL,1983-05-06,Marcia Onos-Zethof,1956,Female,10000W,NR
-43:01.60,NZL,Örnsköldsvik,SWE,1992-04-07,Anne-Marie Judkins,1964,Female,10000W,NR
-1:01:52.09,PLE,Aleppo,SYR,2010-09-18,Aya Abbas,,Female,10000W,NR
-42:47.4,POL,Fana,NOR,1993-08-05,Katarzyna Radtke,1969,Female,10000W,NR
-43:08.17,POR,Seixal,POR,2008-07-19,Ana Cabecinha,1984,Female,10000W,NR
-41:56.23,RUS,Seattle WA,USA,1990-07-24,Nadezhda Ryashkina,1967,Female,10000W,NR
-53:33.46,SGP,New Delhi,IND,1989-12-17,Helen Low,,Female,10000W,NR
-1:02:13.1,STP,Garoua,CMR,2003-08-01,Fumilay Fonseca,1988,Female,10000W,NR
-1:22:58.3,SUD,El Djezair,ALG,2004-10-07,Mashair Ali,,Female,10000W,NR
-45:27.50,SVK,Monthey,SUI,2018-04-21,Mária Czaková,1988,Female,10000W,NR
-50:24.5,SYR,Damascus,SYR,2009-10-08,Rania Mohamed Othman,,Female,10000W,NR
-52:54.01,THA,Bangkok,THA,2021-12-22,Kotchaporn Tangsriwong,2000,Female,10000W,NR
-48:30.68,TPE,Kaohsiung,TPE,2020-02-28,Chiang Chia-Jou,2002,Female,10000W,NR
-44:11.12,TUR,Bursa,TUR,2023-06-10,Meryem Bekmez,2000,Female,10000W,NR
-57:20.03,UAE,Amman,JOR,2012-05-16,Munira Al-Balooshi,,Female,10000W,NR
-43:37.78,UKR,Praha,CZE,2023-10-21,Lyudmyla Olyanovska,1993,Female,10000W,NR
-45:53.76,UZB,Kyiv,URS,1988-07-30,Rusina Ivoylova,,Female,10000W,NR
+result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,environment
+46:19.13,ALG,Alger,ALG,2023-03-10,Souad Azzi,1999.0,Female,10000W,NR,Outdoor
+41:57.22,AUS,Seattle WA,USA,1990-07-24,Kerry Saxby-Junna,1961.0,Female,10000W,NR,Outdoor
+45:41.3,AUT,Bergen,NOR,1992-05-16,Vera Toporek,1967.0,Female,10000W,NR,Outdoor
+51:18.9,BEL,Weert,NED,1992-06-03,Christa Ceulemans,1967.0,Female,10000W,NR,Outdoor
+1:12:05.00,CIV,Ouagadougou,BUR,2007-12-08,Agnes Kra Brou,,Female,10000W,NR,Outdoor
+51:52.0,CMR,Yaoundé,CMR,2001-06-09,Anne Hortense Ebena,,Female,10000W,NR,Outdoor
+58:52.07,CYP,Pátra,GRE,2016-04-23,Sofia Olympiou,1994.0,Female,10000W,NR,Outdoor
+42:14.12,ESP,Gijón,ESP,2016-07-23,Raquel González,1989.0,Female,10000W,NR,Outdoor
+46:48.99,EST,Tallinn,EST,2022-06-26,Jekaterina Mirotvortseva,2002.0,Female,10000W,NR,Outdoor
+44:49.0,ETH,Addis Ababa,ETH,2021-04-11,Yehualeye Beletew,1998.0,Female,10000W,NR,Outdoor
+43:35.52,FRA,Canberra,AUS,2024-01-27,Clemence Beretta,1997.0,Female,10000W,NR,Outdoor
+42:55.85,GRE,Dráma,GRE,2016-04-23,Déspina Zapounídou,1985.0,Female,10000W,NR,Outdoor
+45:46.93,HKG,Kitami,JPN,2018-07-07,Jessica Ching Siu Nga,1987.0,Female,10000W,NR,Outdoor
+46:19.6,INA,UNKNOWN,???,1998-11-21,Tersiana Riwu Rohi,1970.0,Female,10000W,NR,Outdoor
+43:38.83,IND,Birmingham,GBR,2022-08-06,Priyanka Goswami,1996.0,Female,10000W,NR,Outdoor
+52:31.00,IRI,Tehran,IRI,2017-08-11,Zahra Jaafarabadi,1986.0,Female,10000W,NR,Outdoor
+41:57.29,ITA,Orvieto,ITA,2017-04-23,Antonella Palmisano,1991.0,Female,10000W,NR,Outdoor
+42:51.82,JPN,Nagasaki,JPN,2019-12-08,Kumiko Okada,1991.0,Female,10000W,NR,Outdoor
+43:51.00,KAZ,Almaty,KAZ,1997-09-17,Svetlana Tolstaya,1971.0,Female,10000W,NR,Outdoor
+43:50.86,KEN,Birmingham,GBR,2022-08-06,Emily Ngii,1986.0,Female,10000W,NR,Outdoor
+46:50.5,KGZ,Cheboksary,URS,1987-06-07,Zoya Mustafeyeva,,Female,10000W,NR,Outdoor
+44:32.22,KOR,Changwon,KOR,2012-06-20,Jeon Yang-Eun,1988.0,Female,10000W,NR,Outdoor
+1:04:50.25,LAO,Bangkok,THA,2016-07-07,Bongone Vanmany,,Female,10000W,NR,Outdoor
+56:42.70,LBN,Beyrouth,LBN,2019-06-29,Sandy Karam,1996.0,Female,10000W,NR,Outdoor
+47:27.04,MAR,Rabat,MAR,2022-07-03,Soukaina Bouad,,Female,10000W,NR,Outdoor
+45:22.05,MAS,Bandar Seri Begawan,BRU,1999-08-09,Yuan Yufang,1976.0,Female,10000W,NR,Outdoor
+46:29.9,MDA,Cheboksary,URS,1987-07-06,Yulia Lisnik,1966.0,Female,10000W,NR,Outdoor
+50:48.2,MGL,Ulan Bator,MGL,2008-06-06,Volooj Otgontuul,1979.0,Female,10000W,NR,Outdoor
+57:10.7,MOZ,Maputo,MOZ,2001-07-08,Hamida Mabunda,,Female,10000W,NR,Outdoor
+47:05.8,MYA,Yangon,MYA,2001-01-30,Khin Mar Soe,1978.0,Female,10000W,NR,Outdoor
+50:14.9,NED,Zonhoven,BEL,1983-05-06,Marcia Onos-Zethof,1956.0,Female,10000W,NR,Outdoor
+43:01.60,NZL,Örnsköldsvik,SWE,1992-04-07,Anne-Marie Judkins,1964.0,Female,10000W,NR,Outdoor
+1:01:52.09,PLE,Aleppo,SYR,2010-09-18,Aya Abbas,,Female,10000W,NR,Outdoor
+42:47.4,POL,Fana,NOR,1993-08-05,Katarzyna Radtke,1969.0,Female,10000W,NR,Outdoor
+43:08.17,POR,Seixal,POR,2008-07-19,Ana Cabecinha,1984.0,Female,10000W,NR,Outdoor
+41:56.23,RUS,Seattle WA,USA,1990-07-24,Nadezhda Ryashkina,1967.0,Female,10000W,NR,Outdoor
+53:33.46,SGP,New Delhi,IND,1989-12-17,Helen Low,,Female,10000W,NR,Outdoor
+1:02:13.1,STP,Garoua,CMR,2003-08-01,Fumilay Fonseca,1988.0,Female,10000W,NR,Outdoor
+1:22:58.3,SUD,El Djezair,ALG,2004-10-07,Mashair Ali,,Female,10000W,NR,Outdoor
+45:27.50,SVK,Monthey,SUI,2018-04-21,Mária Czaková,1988.0,Female,10000W,NR,Outdoor
+50:24.5,SYR,Damascus,SYR,2009-10-08,Rania Mohamed Othman,,Female,10000W,NR,Outdoor
+52:54.01,THA,Bangkok,THA,2021-12-22,Kotchaporn Tangsriwong,2000.0,Female,10000W,NR,Outdoor
+48:30.68,TPE,Kaohsiung,TPE,2020-02-28,Chiang Chia-Jou,2002.0,Female,10000W,NR,Outdoor
+44:11.12,TUR,Bursa,TUR,2023-06-10,Meryem Bekmez,2000.0,Female,10000W,NR,Outdoor
+57:20.03,UAE,Amman,JOR,2012-05-16,Munira Al-Balooshi,,Female,10000W,NR,Outdoor
+43:37.78,UKR,Praha,CZE,2023-10-21,Lyudmyla Olyanovska,1993.0,Female,10000W,NR,Outdoor
+45:53.76,UZB,Kyiv,URS,1988-07-30,Rusina Ivoylova,,Female,10000W,NR,Outdoor
+41:22.5,RUS,Saransk,RUS,2023-09-24,Elvira Khasanova,2000.0,Female,10000W,NR,Indoor
