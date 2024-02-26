@@ -83,7 +83,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 13.14,,HKG,Walnut CA,USA,1994-04-17,Chan Sau-Ying,1970,Female,100H,NR
 13.14,0.0,HKG,"Walnut, Ca",USA,1994-04-17,Chan Sau Ying,1970,Female,100H,NR
 13.83,-0.6,HON,Toluca,MEX,2008-07-21,Jeimy J. Bernárdez,1986,Female,100H,NR
-12.69,-0.1,HUN,München,GER,2022-08-21,Luca Kozák,1996,Female,100H,NR
+12.69,+0.3,HUN,München,GER,2022-08-21,Luca Kozák,1996,Female,100H,NR
 13.18,+0.7,INA,Taipei,TPE,2012-05-26,Dedeh Erawati,1979,Female,100H,NR
 12.78,+1.0,IND,Chengdu,CHN,2023-08-04,Jyothi Yarraji,1999,Female,100H,NR
 13.64,+0.2,IRI,Tehran,IRI,2023-08-18,Elnaz Kompani,1989,Female,100H,NR

@@ -8,8 +8,8 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 4.05,ANG,Luanda,ANG,1989-06-11,José Francisco,,Male,PV,NR
 3.80,ANT,Newham,GBR,1973-06-02,Calvin Greenaway,1948,Male,PV,NR
 5.75,ARG,Toronto,CAN,2015-07-21,Germán Chiaraviglio,1987,Male,PV,NR
-4.40,ARM,Yerevan,URS,1978-06-15,Viktor Sosedov,,Male,PV,NR
 4.40,ARM,Yerevan,URS,1978-06-15,Onik Khachatryan,,Male,PV,NR
+4.40,ARM,Yerevan,URS,1978-06-15,Viktor Sosedov,,Male,PV,NR
 3.30,ARU,UNKNOWN,???,1995-01-01,Ericko Pieternella,1980,Male,PV,NR
 5.41,ASA,Norman OK,USA,2005-05-28,Makisi Haleck,,Male,PV,NR
 6.05,AUS,Edmonton,CAN,2001-08-09,Dmitri Markov,1975,Male,PV,NR
@@ -38,8 +38,8 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 5.93,CAN,London,GBR,2015-07-25,Shawn Barber,1994,Male,PV,NR
 4.25,CGO,Tunis,TUN,1969-06-14,Jean-Prosper Tsondzabéka,1946,Male,PV,NR
 3.80,CHA,Brazzaville,CGO,1963-01-01,Hubert Djimtoloum,,Male,PV,NR
-5.50,CHI,Tallahassee FL,USA,1992-05-28,Tom Riether,1964,Male,PV,NR
 5.50,CHI,Tallahassee FL,USA,1992-05-28,Thomas Riether,1964,Male,PV,NR
+5.50,CHI,Tallahassee FL,USA,1992-05-28,Tom Riether,1964,Male,PV,NR
 5.82,CHN,London,GBR,2017-08-08,Xue Changrui,1991,Male,PV,NR
 5.35,CIV,Austin TX,USA,2017-05-26,Rashid Coulibaly,1998,Male,PV,NR
 4.60,CMR,Tourcoing,FRA,2015-10-04,David Williams Nzodom Djozing,1999,Male,PV,NR
