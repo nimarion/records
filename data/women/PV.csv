@@ -1,8 +1,8 @@
 result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 1.40,AFG,Finnfjordbotn,NOR,2001-07-23,Jasmin Shams,,Female,PV,NR
 2.60,ALB,Pátra,GRE,2010-05-08,Alma Dhespollari,1976,Female,PV,NR
-3.70,ALG,Alger,ALG,2006-07-24,Sonia Halliche,1988,Female,PV,NR
 3.70,ALG,Franconville,FRA,2000-05-07,Linda Méziani,1979,Female,PV,NR
+3.70,ALG,Alger,ALG,2006-07-24,Sonia Halliche,1988,Female,PV,NR
 2.90,AND,El Prat de Llobregat,ESP,2008-05-18,Maria Martinez,1985,Female,PV,NR
 3.60,ANG,Vagos,POR,2015-06-14,Lidia Alberto,1993,Female,PV,NR
 4.43,ARG,Santa Fé,ARG,2004-04-03,Alejandra García,1973,Female,PV,NR
@@ -70,8 +70,8 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 3.40,JAM,Ashford,GBR,1998-05-09,Maria Newton,1966,Female,PV,NR
 3.20,JOR,Damascus,SYR,2004-09-12,Fatima Zahraa,,Female,PV,NR
 4.48,JPN,Hangzhou,CHN,2023-10-02,Misaki Morota,1998,Female,PV,NR
-4.20,KAZ,Almaty,KAZ,2022-06-26,Anastasiya Yermakova,2000,Female,PV,NR
 4.20,KAZ,Busan,KOR,2014-05-17,Olga Lapina,1990,Female,PV,NR
+4.20,KAZ,Almaty,KAZ,2022-06-26,Anastasiya Yermakova,2000,Female,PV,NR
 3.20,KEN,Nairobi,KEN,2015-11-07,Caroline Cherotich,1987,Female,PV,NR
 4.41,KOR,Gimcheon,KOR,2012-05-08,Choi Yun-Hee,1986,Female,PV,NR
 1.80,KUW,Al-Kuwait,KUW,2012-09-11,Fatima Mathni Taoufik,,Female,PV,NR

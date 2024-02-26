@@ -31,8 +31,8 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 1:05.80,CAY,Kingston,JAM,2009-02-21,Kadeen Foster,,Female,400H,NR
 59.54,CGO,Kinshasa,COD,2023-08-04,Patrone Kouvoutoukila,2001,Female,400H,NR
 57.68,CHI,Santiago de Chile,CHI,2014-02-22,Javiera Errázuriz,1990,Female,400H,NR
-53.96,CHN,Guangzhou,CHN,2001-11-22,Song Yinglan,1975,Female,400H,NR
 53.96,CHN,Beijing,CHN,1993-09-09,Han Qing,1970,Female,400H,NR
+53.96,CHN,Guangzhou,CHN,2001-11-22,Song Yinglan,1975,Female,400H,NR
 56.39,CIV,Bondoufle,FRA,1994-12-07,Marie Womplou,1969,Female,400H,NR
 55.94,CMR,Troyes,FRA,2023-07-01,Linda Angounou,1992,Female,400H,NR
 1:07.38,COD,Antony,FRA,2018-06-05,Clarisse Lema,2000,Female,400H,NR
@@ -76,8 +76,8 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 1:10.70,HON,San Juan,PUR,1989-06-27,Miriam Avila,,Female,400H,NR
 54.02,HUN,Roodepoort,RSA,1998-01-23,Judit Szekeres,1966,Female,400H,NR
 59.64,INA,Palembang,INA,2011-11-15,Melissa Hetharie Viera,1987,Female,400H,NR
-55.42,IND,Hangzhou,CHN,2023-10-02,Vithya Ramraj,1998,Female,400H,NR
 55.42,IND,Los Angeles CA,USA,1984-08-08,P.T. Usha,1964,Female,400H,NR
+55.42,IND,Hangzhou,CHN,2023-10-02,Vithya Ramraj,1998,Female,400H,NR
 59.16,IRI,Tehran,IRI,2023-09-01,Shahla Mahmoudi,1991,Female,400H,NR
 54.31,IRL,Zürich,SUI,1998-08-12,Susan Smith-Walsh,1971,Female,400H,NR
 1:00.15,IRQ,New Delhi,IND,1989-11-15,Dina Saadoun Mohamed,1966,Female,400H,NR

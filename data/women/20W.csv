@@ -1,9 +1,9 @@
 result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 1:33:39,ALG,Alger,ALG,2022-02-04,Souad Azzi,1999,Female,20W,NR
 1:48:30,ARG,Buenos Aires,ARG,1990-09-16,Lidia Carriego,1955,Female,20W,NR
-1:27:09,AUS,Adelaide,AUS,2024-02-11,Jemima Montag,1998,Female,20W,NR
-1:27:16,AUS,Budapest,HUN,2023-08-20,Jemima Montag,1998,Female,20W,NR
 1:27:27,AUS,Adelaide,AUS,2022-02-13,Jemima Montag,1998,Female,20W,NR
+1:27:16,AUS,Budapest,HUN,2023-08-20,Jemima Montag,1998,Female,20W,NR
+1:27:09,AUS,Adelaide,AUS,2024-02-11,Jemima Montag,1998,Female,20W,NR
 1:46:31,AUT,Hollenburg,AUT,2010-10-02,Kathrin Schulze,1981,Female,20W,NR
 1:39:58,AZE,Moskva,RUS,2000-05-19,Aida Isayeva,1973,Female,20W,NR
 2:25:20,BAR,Bar,YUG,1992-06-05,Veta Batson,,Female,20W,NR
@@ -17,10 +17,10 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 2:13:45,CGO,Brazzaville,CGO,2015-09-15,Lilia Bitsoumani,,Female,20W,NR
 1:41:01,CHI,Los Angeles,CHI,2004-04-03,Marcela Pacheco,1982,Female,20W,NR
 1:23:49,CHN,Huangshan,CHN,2021-03-20,Yang Jiayu,1996,Female,20W,NR
-1:54:35,CMR,Kinshasa,COD,2023-08-04,Beatrice Hamidou Tayki'oo,2000,Female,20W,NR
 1:57:46,CMR,Yaoundé,CMR,1999-02-11,Anne Hortense Ebena,,Female,20W,NR
-2:04:54,COD,Kinshasa,COD,2023-08-04,Gracia Ladisa,,Female,20W,NR
+1:54:35,CMR,Kinshasa,COD,2023-08-04,Beatrice Hamidou Tayki'oo,2000,Female,20W,NR
 2:13:22,COD,Kinshasa,COD,2022-08-28,Gracia Ladisa,,Female,20W,NR
+2:04:54,COD,Kinshasa,COD,2023-08-04,Gracia Ladisa,,Female,20W,NR
 1:28:03,COL,Lima,PER,2019-08-04,Sandra Arenas,1993,Female,20W,NR
 1:28:02,COL,Nomi,JPN,2023-03-19,Sandra Arenas,1993,Female,20W,NR
 1:27:25,COL,Adelaide,AUS,2024-02-11,Sandra Arenas,1993,Female,20W,NR

@@ -51,8 +51,8 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type,class
 11.46,1.6,CRC,Toronto,CAN,2015-07-21,Sharolyn Joseph,1994.0,Female,100,NR,W
 11.3,1.1,CRO,Varaždin,CRO,2015-07-25,Andrea Ivančević,1984.0,Female,100,NR,W
 11.08,1.8,CUB,Fort-de-France,FRA,2023-05-27,Yunisleidy García,1999.0,Female,100,NR,W
-11.25,1.6,CYP,Nicosia,CYP,2023-07-08,Olivia Fotopoulou,1996.0,Female,100,NR,W
 11.25,1.1,CYP,Nicosia,CYP,2016-06-18,Ramona Papaioannou,1989.0,Female,100,NR,W
+11.25,1.6,CYP,Nicosia,CYP,2023-07-08,Olivia Fotopoulou,1996.0,Female,100,NR,W
 11.09,1.7,CZE,Bratislava,TCH,1981-06-06,Jarmila Kratochvílová,1951.0,Female,100,NR,W
 11.32,0.2,DEN,Hvidovre,DEN,2022-06-11,Ida Kathrine Karstoft,1995.0,Female,100,NR,W
 13.45,-3.1,DJI,Addis Ababa,ETH,2008-04-30,Fathia Ali Bouraleh,1987.0,Female,100,NR,W
@@ -96,12 +96,12 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type,class
 11.56,0.6,ISL,Mannheim,GER,2019-06-29,Gudbjörg Jóna Bjarnadóttir,2001.0,Female,100,NR,W
 11.06,1.2,ISR,La Chaux-de-Fonds,SUI,2022-07-03,Diana Vaisman,1998.0,Female,100,NR,W
 11.07,1.3,ISV,London,GBR,2012-08-03,Laverne Jones-Ferrette,1981.0,Female,100,NR,W
-11.14,0.4,ITA,Budapest,HUN,2023-08-20,Zaynab Dosso,1999.0,Female,100,NR,W
 11.14,1.0,ITA,Lausanne,SUI,2001-07-04,Manuela Levorato,1977.0,Female,100,NR,W
+11.14,0.4,ITA,Budapest,HUN,2023-08-20,Zaynab Dosso,1999.0,Female,100,NR,W
 11.11,1.7,IVB,Lubbock TX,USA,2023-04-29,Adaejah Hodge,2006.0,Female,100,NR,W
 10.54,0.9,JAM,Eugene OR,USA,2021-08-21,Elaine Thompson-Herah,1992.0,Female,100,NR,W
-11.97,,JOR,Amman,JOR,2016-06-28,Aliya Khattab Omar Boshnak,2000.0,Female,100,NR,W
 11.97,0.1,JOR,Alger,ALG,2004-10-06,Basma Achouch,1977.0,Female,100,NR,W
+11.97,,JOR,Amman,JOR,2016-06-28,Aliya Khattab Omar Boshnak,2000.0,Female,100,NR,W
 11.21,1.7,JPN,Hiroshima,JPN,2010-04-29,Chisato Fukushima,1988.0,Female,100,NR,W
 11.09,0.8,KAZ,Almaty,KAZ,2016-05-24,Olga Safronova,1991.0,Female,100,NR,W
 11.19,0.3,KEN,Nairobi,KEN,2022-06-25,Maximilia Imali,1996.0,Female,100,NR,W
@@ -122,8 +122,8 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type,class
 11.19,1.5,LTU,London,GBR,2012-08-03,Lina Grinčikaitė Samuolė,1987.0,Female,100,NR,W
 11.02,1.3,LUX,Dessau-Roßlau,GER,2023-06-17,Patrizia van der Weken,1999.0,Female,100,NR,W
 11.64,-1.0,MAC,New Taipei City,TPE,2023-05-27,Loi Im Lan,1998.0,Female,100,NR,W
-11.32,1.2,MAD,Dijón,FRA,1996-05-26,Hanitriniana Rakotondrabe,1967.0,Female,100,NR,W
 11.32,1.9,MAD,Limôges,FRA,1991-07-06,Laloa Ravaonirina,1963.0,Female,100,NR,W
+11.32,1.2,MAD,Dijón,FRA,1996-05-26,Hanitriniana Rakotondrabe,1967.0,Female,100,NR,W
 11.45,0.1,MAR,Durban,RSA,2016-06-22,Assia Raziki,1996.0,Female,100,NR,W
 11.5,,MAS,Kuala Lumpur,MAS,1993-05-07,Govindasamy Shanti,1967.0,Female,100,NR,W
 11.68,-0.1,MAW,Tokyo,JPN,2021-07-30,Asimenye Simwaka,1997.0,Female,100,NR,W
@@ -235,8 +235,8 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type,class
 9.93,1.8,AUS,Mito,JPN,2003-05-05,Patrick Johnson,1972.0,Male,100,NR,M
 10.08,1.2,AUT,St. Pölten,AUT,2023-06-08,Markus Fuchs,1995.0,Male,100,NR,M
 10.08,1.3,AZE,Istanbul,TUR,2009-06-13,Ramil Guliyev,1990.0,Male,100,NR,M
-9.91,1.0,BAH,Gainesville FL,USA,2023-04-15,Terrence Jones Jr.,2002.0,Male,100,NR,M
 9.91,-0.5,BAH,Osaka,JPN,2007-08-26,Derrick Atkins,1984.0,Male,100,NR,M
+9.91,1.0,BAH,Gainesville FL,USA,2023-04-15,Terrence Jones Jr.,2002.0,Male,100,NR,M
 10.11,1.1,BAN,London,GBR,2023-09-03,Imran Rahman,1993.0,Male,100,NR,M
 9.87,-0.2,BAR,Johannesburg,RSA,1998-09-11,Obadele Thompson,1976.0,Male,100,NR,M
 10.84,,BDI,Casablanca,MAR,1989-07-13,Kassiem Ntahimpera,,Male,100,NR,M
@@ -275,9 +275,9 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type,class
 9.98,0.6,CUB,Guadalajara,ESP,1977-08-11,Silvio Leonard,1955.0,Male,100,NR,M
 9.98,1.0,CUB,Camagüey,CUB,2019-02-22,Roberto Skyers,1991.0,Male,100,NR,M
 10.11,1.5,CYP,Réthimno,GRE,1996-05-25,Yiannios Zisimides,1967.0,Male,100,NR,M
+10.16,1.7,CZE,Tábor,CZE,2018-07-18,Zdeněk Stromšík,1994.0,Male,100,NR,M
 10.16,1.6,CZE,Brno,CZE,2019-07-26,Jan Veleba,1986.0,Male,100,NR,M
 10.16,1.0,CZE,Zlín,CZE,2021-08-14,Dominik Záleský,1995.0,Male,100,NR,M
-10.16,1.7,CZE,Tábor,CZE,2018-07-18,Zdeněk Stromšík,1994.0,Male,100,NR,M
 10.14,0.9,DEN,Odense,DEN,2021-06-26,Kojo Musah,1996.0,Male,100,NR,M
 11.39,,DJI,Vorst,BEL,2001-05-24,Ismael Abdallah Ismael,,Male,100,NR,M
 10.33,1.9,DMA,Houston TX,USA,2008-05-03,Chris Lloyd,1980.0,Male,100,NR,M
@@ -296,10 +296,10 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type,class
 10.13,1.3,GAB,Nice,FRA,2000-08-04,Antoine Boussombo,1968.0,Male,100,NR,M
 10.15,-1.1,GAM,Thonon-les-Bains,FRA,2022-06-19,Ebrahima Camara,1996.0,Male,100,NR,M
 9.83,1.3,GBR,Randalls Island NY,USA,2023-06-24,Zharnel Hughes,1995.0,Male,100,NR,M
-10.36,0.0,GBS,Salamanca,ESP,2013-06-12,Ancuiam Lopes,1991.0,Male,100,NR,M
 10.36,0.5,GBS,Salamanca,ESP,2009-07-08,Holder da Silva,1988.0,Male,100,NR,M
-10.35,-0.2,GEO,Sofia,BUL,2000-06-04,Ruslan Rusidze,1973.0,Male,100,NR,M
+10.36,0.0,GBS,Salamanca,ESP,2013-06-12,Ancuiam Lopes,1991.0,Male,100,NR,M
 10.35,1.5,GEO,Tsakhkadzor,URS,1987-05-22,Besik Gotsridze,1961.0,Male,100,NR,M
+10.35,-0.2,GEO,Sofia,BUL,2000-06-04,Ruslan Rusidze,1973.0,Male,100,NR,M
 10.6,,GEQ,Eugene OR,USA,1986-06-07,Gustavo Envela,1968.0,Male,100,NR,M
 10.01,1.8,GER,Mannheim,GER,2016-07-29,Julian Reus,1988.0,Male,100,NR,M
 9.9,2.0,GHA,Austin TX,USA,2022-03-25,Benjamin Azamati,1998.0,Male,100,NR,M
@@ -310,8 +310,8 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type,class
 10.56,,GUI,L'Aigle,FRA,1997-05-01,Joseph Loua,1976.0,Male,100,NR,M
 10.66,1.8,GUM,San Diego CA,USA,2004-06-17,Philam Garcia,1980.0,Male,100,NR,M
 10.12,0.4,GUY,Port of Spain,TTO,2014-05-17,Adam Harris,1987.0,Male,100,NR,M
-10.16,1.5,HAI,Columbia SC,USA,2022-04-23,Guinove Joanus,2001.0,Male,100,NR,M
 10.16,1.5,HAI,Greensboro NC,USA,2015-05-17,Darrell Wesh,1992.0,Male,100,NR,M
+10.16,1.5,HAI,Columbia SC,USA,2022-04-23,Guinove Joanus,2001.0,Male,100,NR,M
 10.28,1.3,HKG,Hongkong,HKG,2010-05-16,Tsui Chi Ho,1990.0,Male,100,NR,M
 10.28,1.8,HKG,Hongkong,HKG,2021-09-11,Ng Ka Fung,1992.0,Male,100,NR,M
 10.22,0.3,HON,Toluca,MEX,2008-07-18,Rolando Palacios,1987.0,Male,100,NR,M
@@ -356,8 +356,8 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type,class
 10.33,2.0,MAW,St Pierre,MRI,2022-06-08,Stern Noel Liffa,2000.0,Male,100,NR,M
 10.3,0.4,MDA,Moskva,URS,1984-07-19,Aleksandr Afteni,1958.0,Male,100,NR,M
 10.33,1.9,MDV,Kingston,JAM,2016-04-16,Hassan Saaid,1992.0,Male,100,NR,M
-10.21,0.8,MEX,Xalapa,MEX,2014-08-29,José Carlos Herrera,1986.0,Male,100,NR,M
 10.21,0.1,MEX,Toluca,MEX,1997-07-11,Carlos Villaseñor,1974.0,Male,100,NR,M
+10.21,0.8,MEX,Xalapa,MEX,2014-08-29,José Carlos Herrera,1986.0,Male,100,NR,M
 10.62,1.2,MGL,Almaty,KAZ,2016-06-25,Achitbileg Battulga,1986.0,Male,100,NR,M
 10.39,1.9,MHL,Minneapolis MN,USA,1999-05-15,Roman Cress,1977.0,Male,100,NR,M
 10.5,1.6,MKD,Hvidovre,DEN,2022-06-11,Andreas Trajkovski,1993.0,Male,100,NR,M
@@ -711,8 +711,8 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type,class
 20.15,0.4,CHI,Santiago de Chile,CHI,1998-05-17,Sebastián Keitel,1973.0,Male,200,NR,M
 19.88,0.9,CHN,London,GBR,2019-07-21,Xie Zhenye,1993.0,Male,200,NR,M
 20.23,0.9,CIV,Doha,QAT,2020-09-25,Arthur Gue Cissé,1996.0,Male,200,NR,M
-20.31,0.2,CMR,Yaoundé,CMR,2019-08-10,Emmanuel Eseme,1993.0,Male,200,NR,M
 20.31,0.8,CMR,Johannesburg,RSA,1999-09-17,Joseph Batangdon,1978.0,Male,200,NR,M
+20.31,0.2,CMR,Yaoundé,CMR,2019-08-10,Emmanuel Eseme,1993.0,Male,200,NR,M
 20.4,0.2,COD,Karlskrona,SWE,2006-06-12,Gary Kikaya,1980.0,Male,200,NR,M
 22.46,,COK,Adelaide,AUS,2000-08-25,Teina Teiti,1983.0,Male,200,NR,M
 20.0,0.3,COL,Barranquilla,COL,2018-07-31,Bernardo Baloyes,1994.0,Male,200,NR,M
@@ -1209,8 +1209,8 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type,class
 44.14,,CUB,Sevilla,ESP,1990-05-30,Roberto Hernández,1967.0,Male,400,NR,M
 46.16,,CYP,Palma de Mallorca,ESP,1999-07-09,Evripides Demosthenous,1972.0,Male,400,NR,M
 44.79,,CZE,Doha,QAT,2014-05-09,Pavel Maslák,1991.0,Male,400,NR,M
-45.5,,DEN,München,GER,2022-08-15,Benjamin Lobo,1997.0,Male,400,NR,M
 45.5,,DEN,Madrid,ESP,2013-07-13,Nick Ekelund-Arenander,1989.0,Male,400,NR,M
+45.5,,DEN,München,GER,2022-08-15,Benjamin Lobo,1997.0,Male,400,NR,M
 48.89,,DJI,Djibouti,DJI,2023-05-12,Fathi Moussa Robleh,2006.0,Male,400,NR,M
 45.31,,DMA,Provo UT,USA,1989-06-01,Bruce Phillip,1966.0,Male,400,NR,M
 44.11,,DOM,Beijing,CHN,2015-08-26,Luguelín Santos,1992.0,Male,400,NR,M
@@ -2122,8 +2122,8 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type,class
 3:59.19,,JPN,Tokyo,JPN,2021-08-04,Nozomi Tanaka,1999.0,Female,1K5,NR,W
 4:07.9,,KAZ,Sochi,URS,1980-05-23,Nadezhda Rodina,1959.0,Female,1K5,NR,W
 3:49.11,,KEN,Firenze,ITA,2023-06-02,Faith Kipyegon,1994.0,Female,1K5,NR,W
-4:05.89,,KGZ,Kyiv,URS,1988-08-02,Lyudmilla Derevyankina,,Female,1K5,NR,W
 4:05.89,,KGZ,Kyiv,URS,1988-08-02,Lyudmila Derevyankina,1966.0,Female,1K5,NR,W
+4:05.89,,KGZ,Kyiv,URS,1988-08-02,Lyudmilla Derevyankina,,Female,1K5,NR,W
 5:30.0,,KIR,Port Vila,VAN,2001-07-14,Siaroka Kaiea,,Female,1K5,NR,W
 4:14.18,,KOR,Seoul,KOR,1992-09-20,Lee Mi-Kyung,1975.0,Female,1K5,NR,W
 4:20.05,,KOS,Budapest,HUN,2023-07-01,Greza Bakraqi,1995.0,Female,1K5,NR,W
@@ -4029,8 +4029,8 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type,class
 14.87,0.7,ETH,Abidjan,CIV,2019-04-18,Meskerem Gizaw,,Female,10H,NR,W
 13.62,-0.4,FIJ,Canberra,AUS,1998-02-08,Rachel Rogers,1975.0,Female,10H,NR,W
 12.7,0.9,FIN,Jyväskylä,FIN,2023-06-07,Reetta Hurske,1995.0,Female,10H,NR,W
-12.56,1.2,FRA,Reims,FRA,2014-07-12,Cindy Billaud,1986.0,Female,10H,NR,W
 12.56,1.2,FRA,Villeneuve d'Ascq,FRA,1990-06-29,Monique Ewanjé-Epée,1967.0,Female,10H,NR,W
+12.56,1.2,FRA,Reims,FRA,2014-07-12,Cindy Billaud,1986.0,Female,10H,NR,W
 17.84,,FSM,Pohnpei,FSM,2014-07-21,Ashley Apiner,1992.0,Female,10H,NR,W
 14.49,-1.1,GAB,La Roche-sur-Yon,FRA,2008-10-25,Ruddy Zang Milama,1987.0,Female,10H,NR,W
 14.7,-1.4,GAM,Huelva,ESP,2013-12-06,Nusrat Ceesay,1981.0,Female,10H,NR,W
@@ -4048,8 +4048,8 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type,class
 15.65,,GUM,Manenggon Hills,GUM,2012-05-18,Stefani Loisel,,Female,10H,NR,W
 13.27,1.7,GUY,Barranquilla,COL,2018-07-30,Jenea McCammon,1991.0,Female,10H,NR,W
 12.74,1.7,HAI,Athína,GRE,2004-08-23,Nadine Faustin-Parker,1976.0,Female,10H,NR,W
-13.14,,HKG,Walnut CA,USA,1994-04-17,Chan Sau-Ying,1970.0,Female,10H,NR,W
 13.14,0.0,HKG,"Walnut, Ca",USA,1994-04-17,Chan Sau Ying,1970.0,Female,10H,NR,W
+13.14,,HKG,Walnut CA,USA,1994-04-17,Chan Sau-Ying,1970.0,Female,10H,NR,W
 13.83,-0.6,HON,Toluca,MEX,2008-07-21,Jeimy J. Bernárdez,1986.0,Female,10H,NR,W
 12.69,0.3,HUN,München,GER,2022-08-21,Luca Kozák,1996.0,Female,10H,NR,W
 13.18,0.7,INA,Taipei,TPE,2012-05-26,Dedeh Erawati,1979.0,Female,10H,NR,W
@@ -4085,8 +4085,8 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type,class
 15.49,0.4,MAC,Hongkong,HKG,2017-04-23,Cheng Ut I,,Female,10H,NR,W
 12.84,2.0,MAD,Niort,FRA,1999-07-31,Rosa Rakotozafy,1977.0,Female,10H,NR,W
 13.44,1.6,MAR,Fès,MAR,2012-06-16,Yamina Hajjaji,1988.0,Female,10H,NR,W
-13.27,-1.3,MAS,Kassel,GER,2004-06-11,Siew Wei Moh,1978.0,Female,10H,NR,W
 13.27,-1.3,MAS,Kassel,GER,2004-06-11,Moh Siew Wei,1978.0,Female,10H,NR,W
+13.27,-1.3,MAS,Kassel,GER,2004-06-11,Siew Wei Moh,1978.0,Female,10H,NR,W
 19.77,,MAW,Westminster CA,USA,2016-04-26,Juliet Komwa,,Female,10H,NR,W
 12.81,1.0,MDA,Cottbus,GDR,1982-06-26,Mariya Merchuk,1959.0,Female,10H,NR,W
 19.84,0.3,MDV,Bangkok,THA,2002-10-30,Nashfa Amira,1985.0,Female,10H,NR,W
@@ -4412,8 +4412,8 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type,class
 1:05.80,,CAY,Kingston,JAM,2009-02-21,Kadeen Foster,,Female,40H,NR,W
 59.54,,CGO,Kinshasa,COD,2023-08-04,Patrone Kouvoutoukila,2001.0,Female,40H,NR,W
 57.68,,CHI,Santiago de Chile,CHI,2014-02-22,Javiera Errázuriz,1990.0,Female,40H,NR,W
-53.96,,CHN,Guangzhou,CHN,2001-11-22,Song Yinglan,1975.0,Female,40H,NR,W
 53.96,,CHN,Beijing,CHN,1993-09-09,Han Qing,1970.0,Female,40H,NR,W
+53.96,,CHN,Guangzhou,CHN,2001-11-22,Song Yinglan,1975.0,Female,40H,NR,W
 56.39,,CIV,Bondoufle,FRA,1994-12-07,Marie Womplou,1969.0,Female,40H,NR,W
 55.94,,CMR,Troyes,FRA,2023-07-01,Linda Angounou,1992.0,Female,40H,NR,W
 1:07.38,,COD,Antony,FRA,2018-06-05,Clarisse Lema,2000.0,Female,40H,NR,W
@@ -4457,8 +4457,8 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type,class
 1:10.70,,HON,San Juan,PUR,1989-06-27,Miriam Avila,,Female,40H,NR,W
 54.02,,HUN,Roodepoort,RSA,1998-01-23,Judit Szekeres,1966.0,Female,40H,NR,W
 59.64,,INA,Palembang,INA,2011-11-15,Melissa Hetharie Viera,1987.0,Female,40H,NR,W
-55.42,,IND,Hangzhou,CHN,2023-10-02,Vithya Ramraj,1998.0,Female,40H,NR,W
 55.42,,IND,Los Angeles CA,USA,1984-08-08,P.T. Usha,1964.0,Female,40H,NR,W
+55.42,,IND,Hangzhou,CHN,2023-10-02,Vithya Ramraj,1998.0,Female,40H,NR,W
 59.16,,IRI,Tehran,IRI,2023-09-01,Shahla Mahmoudi,1991.0,Female,40H,NR,W
 54.31,,IRL,Zürich,SUI,1998-08-12,Susan Smith-Walsh,1971.0,Female,40H,NR,W
 1:00.15,,IRQ,New Delhi,IND,1989-11-15,Dina Saadoun Mohamed,1966.0,Female,40H,NR,W
@@ -4750,7 +4750,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type,class
 47.98,,SWE,Atlanta GA,USA,1996-08-01,Sven Nylander,1962.0,Male,40H,NR,M
 57.04,,SWZ,Manzini,SWZ,2019-05-18,Cedusizi Vilakati,,Male,40H,NR,M
 48.87,,SYR,Sydney,AUS,1999-02-20,Ziad Abou Hamed,1970.0,Male,40H,NR,M
-51.20,,TAN,Doha,QAT,1985-08-12,Morris Okinda,1963.0,Male,40H,NR,M
+51.20,,TAN,Cairo,EGY,1985-08-12,Morris Okinda,,Male,40H,NR,M
 52.02,,TGA,Sacramento CA,USA,1996-05-05,Paeaki Kokohu,1966.0,Male,40H,NR,M
 49.76,,THA,Chiangmai,THA,1995-12-12,Chanond Keanchan,1967.0,Male,40H,NR,M
 48.98,,TJK,Tashkent,URS,1986-09-18,Nikolay Ilchenko,1963.0,Male,40H,NR,M
@@ -5182,8 +5182,8 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type,class
 8:50.31,,SOM,Rovereto,ITA,2014-07-20,Mohd. Abdulkader Sheikh Ali,,Male,3KH,NR,M
 8:28.80,,SRB,Budapest,HUN,1989-09-04,Vule Maksimovic,1965.0,Male,3KH,NR,M
 8:45.33,,SRI,Colombo,SRI,1998-12-31,G. Shantha Mendis,1975.0,Male,3KH,NR,M
-9:26.5,,SSD,Kampala,UGA,2022-06-25,Jacob Ajan Chol,2003.0,Male,3KH,NR,M
 9:26.5,,SSD,Kampala,UGA,2022-06-25,Ajan Jacob Chol,,Male,3KH,NR,M
+9:26.5,,SSD,Kampala,UGA,2022-06-25,Jacob Ajan Chol,2003.0,Male,3KH,NR,M
 10:08.0,,STP,Luanda,ANG,1981-08-25,Mario Pitra,,Male,3KH,NR,M
 8:31.20,,SUD,Montbéliard,FRA,2016-06-01,Yousif Abdalla Yousif,1996.0,Male,3KH,NR,M
 8:22.24,,SUI,Hengelo,NED,2001-06-04,Christian Belz,1974.0,Male,3KH,NR,M
@@ -5902,12 +5902,12 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type,class
 1.7,,CGO,Quimper,FRA,1990-06-16,Addo Ndala,1973.0,Female,HOC,NR,W
 1.7,,CGO,Antony,FRA,2016-05-07,Tania Matshoko,1993.0,Female,HOC,NR,W
 1.6,,CHA,N'Djamena,CHA,1991-03-01,Christine Koumnobegue Ye,,Female,HOC,NR,W
-1.8,,CHI,Cochabamba,BOL,2001-06-03,Kerstin Weiss,1982.0,Female,HOC,NR,W
 1.8,,CHI,Santiago de Chile,CHI,1994-08-28,Alejandra Chomalí,,Female,HOC,NR,W
+1.8,,CHI,Cochabamba,BOL,2001-06-03,Kerstin Weiss,1982.0,Female,HOC,NR,W
 1.97,,CHN,Hamamatsu,JPN,1989-05-07,Jin Ling,1967.0,Female,HOC,NR,W
 1.95,,CIV,Belle Vue Mauricia,MRI,1992-06-28,Lucienne N'Da,1965.0,Female,HOC,NR,W
-1.8,,CMR,Yaoundé,CMR,1996-06-16,Lolita Nack,,Female,HOC,NR,W
 1.8,,CMR,Moskva,URS,1980-07-24,Cécile Ngambi,1960.0,Female,HOC,NR,W
+1.8,,CMR,Yaoundé,CMR,1996-06-16,Lolita Nack,,Female,HOC,NR,W
 1.68,,COD,Wetzlar,GER,1985-05-18,Mimi Mwema,,Female,HOC,NR,W
 1.67,,COK,Avarua,COK,1991-03-06,Vicki Kiel,,Female,HOC,NR,W
 1.94,,COL,Medellín,COL,2019-05-01,María Fernanda Murillo,1999.0,Female,HOC,NR,W
@@ -5936,8 +5936,8 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type,class
 1.75,,GAB,Vichy,FRA,1982-07-28,Fernande Agnetchoue,,Female,HOC,NR,W
 1.65,,GAM,Bakau,GAM,2001-05-11,Mama Gassama,,Female,HOC,NR,W
 1.98,,GBR,Río de Janeiro,BRA,2016-08-12,Katarina Johnson-Thompson,1993.0,Female,HOC,NR,W
-1.61,,GBS,Abrantes,POR,2003-06-21,Placida Mirolho,,Female,HOC,NR,W
 1.61,,GBS,Lisboa,POR,1990-12-05,Sandra Turpin,1976.0,Female,HOC,NR,W
+1.61,,GBS,Abrantes,POR,2003-06-21,Placida Mirolho,,Female,HOC,NR,W
 1.92,,GEO,Berdychiv,UKR,2015-06-27,Valentina Liashenko,1981.0,Female,HOC,NR,W
 1.56,,GEQ,Malabo,GEQ,2012-10-27,Viviana Olaman,,Female,HOC,NR,W
 2.06,,GER,Berlin,GER,2009-06-14,Ariane Friedrich,1984.0,Female,HOC,NR,W
@@ -5959,8 +5959,8 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type,class
 1.95,,IRL,Daegu,KOR,2011-09-01,Deirdre Ryan,1982.0,Female,HOC,NR,W
 1.81,,IRQ,Baghdad,IRQ,2022-03-18,Mariam Abdelhameed Abdulelah,2000.0,Female,HOC,NR,W
 1.88,,ISL,Grimsby,GBR,1990-08-19,Thórdís Lilja Gísladóttir,1961.0,Female,HOC,NR,W
-1.92,,ISR,Neurim,ISR,2011-08-09,Ma'ayan Shahaf,1986.0,Female,HOC,NR,W
 1.92,,ISR,Barcelona,ESP,2010-07-30,Danielle Frenkel,1987.0,Female,HOC,NR,W
+1.92,,ISR,Neurim,ISR,2011-08-09,Ma'ayan Shahaf,1986.0,Female,HOC,NR,W
 1.81,,ISV,Bowling Green KY,USA,2019-04-06,Yashira Rhymer-Stuart,1997.0,Female,HOC,NR,W
 2.03,,ITA,Milano,ITA,2007-06-24,Antonietta Di Martino,1978.0,Female,HOC,NR,W
 1.74,,IVB,San José3,CRC,2023-07-23,Jah'kyla Morton,2007.0,Female,HOC,NR,W
@@ -5968,16 +5968,16 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type,class
 1.73,,JOR,Irbid,JOR,1993-08-26,Souhad Hadad,,Female,HOC,NR,W
 1.96,,JPN,Yokohama,JPN,2001-09-15,Miki Imai,1975.0,Female,HOC,NR,W
 2.01,,KAZ,Moskva,URS,1986-07-07,Olga Turchak,1967.0,Female,HOC,NR,W
-1.75,,KEN,Nairobi,KEN,2023-06-22,Zeddy Chesire,2003.0,Female,HOC,NR,W
-1.75,,KEN,Nairobi,KEN,2023-06-22,Faith Kipsang,2001.0,Female,HOC,NR,W
 1.75,,KEN,Nairobi,KEN,2014-05-13,Caroline Cherotich,1987.0,Female,HOC,NR,W
+1.75,,KEN,Nairobi,KEN,2023-06-22,Faith Kipsang,2001.0,Female,HOC,NR,W
+1.75,,KEN,Nairobi,KEN,2023-06-22,Zeddy Chesire,2003.0,Female,HOC,NR,W
 1.97,,KGZ,Roma,ITA,2003-07-11,Tatyana Efimenko,1981.0,Female,HOC,NR,W
 1.5,,KIR,Bairiki,KIR,2005-11-05,Kimaia Dan Murdoch,,Female,HOC,NR,W
 1.93,,KOR,Seoul,KOR,1990-06-10,Kim Hee-sun,1963.0,Female,HOC,NR,W
 1.4,,KOS,Skopje,MKD,2017-04-23,Merlinda Kryeziu,,Female,HOC,NR,W
 1.53,,KUW,Muscat,OMA,2015-03-15,Sarah Nasser Al-Sabea,,Female,HOC,NR,W
-1.58,,LAO,Vientiane,LAO,2012-12-17,Somkhit Bounsith,,Female,HOC,NR,W
 1.58,,LAO,Vientiane,LAO,2000-11-06,Phommasane Khammone,,Female,HOC,NR,W
+1.58,,LAO,Vientiane,LAO,2012-12-17,Somkhit Bounsith,,Female,HOC,NR,W
 1.97,,LAT,Vilnius,URS,1990-08-04,Valentīna Gotovska,1965.0,Female,HOC,NR,W
 1.45,,LBA,Trípoli,GRE,1991-09-30,Afaf Al Jadi,,Female,HOC,NR,W
 1.74,,LBN,Jamhour,LBN,2021-06-12,Maysaa Mouawad,2003.0,Female,HOC,NR,W
@@ -5998,8 +5998,8 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type,class
 1.52,,MHL,Salem,GER,2019-03-04,Rosemaline Watley,2001.0,Female,HOC,NR,W
 1.72,,MKD,Latakia,SYR,1987-09-23,Marina Damcevska,1962.0,Female,HOC,NR,W
 1.69,,MLI,Kumasi,GHA,2000-09-06,Yah Koïta,1980.0,Female,HOC,NR,W
-1.61,,MLT,Marsa,MLT,2017-05-05,Rachela Pace,2003.0,Female,HOC,NR,W
 1.61,,MLT,Marsa,MLT,2011-02-19,Chloe Gambin,1992.0,Female,HOC,NR,W
+1.61,,MLT,Marsa,MLT,2017-05-05,Rachela Pace,2003.0,Female,HOC,NR,W
 1.97,,MNE,Smederevo,SRB,2021-06-27,Marija Vuković,1992.0,Female,HOC,NR,W
 1.57,,MNT,London,GBR,1971-05-23,Lynette Lee,,Female,HOC,NR,W
 1.58,,MON,Nice,FRA,1995-05-27,Virginie Gollino,1974.0,Female,HOC,NR,W
@@ -6027,8 +6027,8 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type,class
 1.68,,PAR,Ottawa,CAN,2013-06-01,Camila Pirelli,1989.0,Female,HOC,NR,W
 1.82,,PER,Cali,COL,2019-06-22,Candy Toche,1998.0,Female,HOC,NR,W
 1.81,,PHI,Pasig City,PHI,2005-10-12,Narcisa Atienza,1979.0,Female,HOC,NR,W
-1.5,,PLE,Gaza,PLE,2005-05-05,Reem Hamayel,,Female,HOC,NR,W
 1.5,,PLE,Damascus,SYR,1990-09-26,Faida Orabi,,Female,HOC,NR,W
+1.5,,PLE,Gaza,PLE,2005-05-05,Reem Hamayel,,Female,HOC,NR,W
 1.55,,PLW,Koror,PLW,2001-07-13,Carissa Subris,,Female,HOC,NR,W
 1.77,,PNG,Port Moresby,PNG,2015-07-14,Rellie Kaputin,1993.0,Female,HOC,NR,W
 1.88,,POR,Vila Real de Santo Antonio,POR,2001-06-03,Sónia Carvalho,1977.0,Female,HOC,NR,W
@@ -6044,14 +6044,14 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type,class
 1.83,,SEN,Dakar,SEN,1984-05-27,Constance Senghor,,Female,HOC,NR,W
 1.92,,SEY,Potchefstroom,RSA,2015-05-09,Lissa Labiche,1993.0,Female,HOC,NR,W
 1.86,,SGP,Singapore,SGP,2021-10-30,Michelle Sng Suat Li,1987.0,Female,HOC,NR,W
-1.68,,SKN,St Charles IL,USA,1999-05-01,Natalie Cozier,,Female,HOC,NR,W
 1.68,,SKN,Basseterre,SKN,1995-04-30,Bernice Morton,1969.0,Female,HOC,NR,W
+1.68,,SKN,St Charles IL,USA,1999-05-01,Natalie Cozier,,Female,HOC,NR,W
 1.83,,SLE,Lamballe,FRA,1997-05-01,Eunice Barber,1974.0,Female,HOC,NR,W
 2.0,,SLO,Helsinki,FIN,1994-08-14,Britta Bilac,1968.0,Female,HOC,NR,W
 1.76,,SMR,San Marino,SMR,1974-06-02,Giuseppina Grassi,1957.0,Female,HOC,NR,W
-1.45,,SOL,Honiara,SOL,2023-10-26,Charlyn Mamae,2000.0,Female,HOC,NR,W
 1.45,,SOL,Honiara,SOL,1973-01-01,Roselyn Mason,,Female,HOC,NR,W
 1.45,,SOL,Honiara,SOL,1995-04-25,Agnetha V,,Female,HOC,NR,W
+1.45,,SOL,Honiara,SOL,2023-10-26,Charlyn Mamae,2000.0,Female,HOC,NR,W
 1.65,,SOM,El Djezair,ALG,1978-07-24,Faduna Abdallah Hussein,,Female,HOC,NR,W
 1.97,,SRB,Paris,FRA,2023-06-09,Angelina Topić,2005.0,Female,HOC,NR,W
 1.85,,SRI,Kochi,IND,2008-03-09,Priyangika Madumanthi,1985.0,Female,HOC,NR,W
@@ -6077,9 +6077,9 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type,class
 1.95,,TTO,College Station TX,USA,2021-05-13,Tyra Gittens,1998.0,Female,HOC,NR,W
 1.79,,TUN,Nabeul,TUN,2008-06-01,Karima Benothman,,Female,HOC,NR,W
 1.94,,TUR,Ostrava,CZE,2011-07-16,Burcu Yüksel,1990.0,Female,HOC,NR,W
+1.48,,TUV,Funafuti,TUV,2011-01-01,Fanaufou,,Female,HOC,NR,W
 1.48,,TUV,Funafuti,TUV,2011-01-01,Tepua,,Female,HOC,NR,W
 1.48,,TUV,Funafuti,TUV,2011-01-01,Tofi,,Female,HOC,NR,W
-1.48,,TUV,Funafuti,TUV,2011-01-01,Fanaufou,,Female,HOC,NR,W
 1.59,,UAE,Muscat,OMA,2015-03-15,Alia Youssef Al-Hammadi,,Female,HOC,NR,W
 1.71,,UGA,Kampala,UGA,1973-08-12,Victoria Atim,,Female,HOC,NR,W
 2.05,,UKR,Tokyo,JPN,1995-09-15,Inga Babakova,1967.0,Female,HOC,NR,W
@@ -6104,15 +6104,15 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type,class
 2.1,,ANG,Luanda,ANG,1982-05-09,Orlando Bonifacio,1959.0,Male,HOC,NR,M
 2.27,,ANT,Pergine Valsugana,ITA,2007-07-07,James Grayman,1985.0,Male,HOC,NR,M
 2.25,,ARG,Ciudad de México,MEX,1988-07-23,Fernando Pastoriza,1965.0,Male,HOC,NR,M
-2.25,,ARG,Cochabamba,BOL,2018-06-06,Carlos Layoy,1991.0,Male,HOC,NR,M
 2.25,,ARG,Rosario,ARG,2002-05-11,Erasmo Jara,1976.0,Male,HOC,NR,M
+2.25,,ARG,Cochabamba,BOL,2018-06-06,Carlos Layoy,1991.0,Male,HOC,NR,M
+2.16,,ARM,Yerevan,URS,1984-07-14,Karen Ardaryan,,Male,HOC,NR,M
 2.16,,ARM,Yerevan,URS,1985-06-15,Gerasim Hayrapetyan,,Male,HOC,NR,M
 2.16,,ARM,Yerevan,URS,1985-10-15,Edik Mesropyan,,Male,HOC,NR,M
-2.16,,ARM,Yerevan,URS,1984-07-14,Karen Ardaryan,,Male,HOC,NR,M
 2.1,,ARU,Breda,NED,2006-09-25,Pierre de Windt,1983.0,Male,HOC,NR,M
 1.89,,ASA,San José,GUA,2010-12-02,Aaron Victorian,1988.0,Male,HOC,NR,M
-2.36,,AUS,Eberstadt,GER,2018-08-26,Brandon Starc,1993.0,Male,HOC,NR,M
 2.36,,AUS,Melbourne,AUS,1997-03-02,Tim Forsyth,1973.0,Male,HOC,NR,M
+2.36,,AUS,Eberstadt,GER,2018-08-26,Brandon Starc,1993.0,Male,HOC,NR,M
 2.28,,AUT,Schwechat,AUT,1986-05-18,Markus Einberger,1964.0,Male,HOC,NR,M
 2.37,,AZE,Rieti,ITA,1984-09-02,Valeriy Sereda,1959.0,Male,HOC,NR,M
 2.38,,BAH,Nice,FRA,1995-07-12,Troy Kemp,1966.0,Male,HOC,NR,M
@@ -6137,15 +6137,15 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type,class
 2.03,,CAM,Aachen,FRG,1972-08-05,Sin Sitha,,Male,HOC,NR,M
 2.4,,CAN,Des Moines IA,USA,2014-04-25,Derek Drouin,1990.0,Male,HOC,NR,M
 2.19,,CAY,El Paso TX,USA,2006-05-13,Omar Wright,1986.0,Male,HOC,NR,M
-2.14,,CGO,Dakar,SEN,1997-06-01,Jean-Claude Silao,1969.0,Male,HOC,NR,M
 2.14,,CGO,Chatellerault,FRA,1964-06-09,Henri Elendé,1941.0,Male,HOC,NR,M
+2.14,,CGO,Dakar,SEN,1997-06-01,Jean-Claude Silao,1969.0,Male,HOC,NR,M
 2.17,,CHA,N'Djamena,CHA,1966-10-04,Mahamat Idriss,1942.0,Male,HOC,NR,M
 2.17,,CHA,N'Djamena,CHA,1993-03-29,Paul Ngadjadoum,1957.0,Male,HOC,NR,M
 2.17,,CHA,N'Djamena,CHA,1996-07-04,Mathias Ngadjadoum,1972.0,Male,HOC,NR,M
 2.22,,CHI,Cochabamba,BOL,2001-06-03,Felipe Apablaza,1977.0,Male,HOC,NR,M
 2.39,,CHN,Eberstadt,FRG,1984-06-10,Zhu Jianhua,1963.0,Male,HOC,NR,M
-2.08,,CIV,Abidjan,CIV,1979-05-05,Kouami Ndri,1943.0,Male,HOC,NR,M
 2.08,,CIV,Dakar,SEN,1970-05-28,Moustapha N'dir,,Male,HOC,NR,M
+2.08,,CIV,Abidjan,CIV,1979-05-05,Kouami Ndri,1943.0,Male,HOC,NR,M
 2.28,,CMR,Bühl,GER,2014-06-19,Temfack Fernan Djoumessi,1989.0,Male,HOC,NR,M
 2.16,,COD,Pamplona,ESP,1998-06-18,Dieudonne Opota,1979.0,Male,HOC,NR,M
 1.92,,COK,Avarua,COK,2022-10-01,Nukumaea Mokoroa,,Male,HOC,NR,M
@@ -6156,25 +6156,25 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type,class
 2.28,,CRO,Split,YUG,1985-07-06,Novica Canovic,1961.0,Male,HOC,NR,M
 2.45,,CUB,Salamanca,ESP,1993-07-27,Javier Sotomayor,1967.0,Male,HOC,NR,M
 2.35,,CYP,Osaka,JPN,2007-08-29,Kyriakos Ioannou,1984.0,Male,HOC,NR,M
-2.36,,CZE,Roma,ITA,2005-07-08,Jaroslav Bába,1984.0,Male,HOC,NR,M
 2.36,,CZE,Praha,TCH,1987-08-23,Ján Zvara,1963.0,Male,HOC,NR,M
+2.36,,CZE,Roma,ITA,2005-07-08,Jaroslav Bába,1984.0,Male,HOC,NR,M
 2.28,,DEN,Essen,GER,2019-06-20,Janick Klausen,1993.0,Male,HOC,NR,M
-1.8,,DJI,Djibouti,DJI,2002-11-04,Bachir Abdi,,Male,HOC,NR,M
 1.8,,DJI,Djibouti,DJI,2001-11-04,Mahamoud Hassan,,Male,HOC,NR,M
+1.8,,DJI,Djibouti,DJI,2002-11-04,Bachir Abdi,,Male,HOC,NR,M
 2.25,,DMA,La Habana,CUB,2012-03-17,Brandon Williams,1987.0,Male,HOC,NR,M
 2.28,,DOM,Santo Domingo,DOM,1997-05-31,Julio Luciano,1977.0,Male,HOC,NR,M
 2.3,,ECU,Guadalajara2,MEX,2011-10-27,Diego Ferrín,1988.0,Male,HOC,NR,M
 2.25,,EGY,Eberstadt,GER,2008-06-27,Karim Samir Lotfy,1989.0,Male,HOC,NR,M
-1.85,,ERI,Asmara,ERI,1999-01-06,Tesfay Tecle,,Male,HOC,NR,M
 1.85,,ERI,Asmara,ERI,1999-01-06,Idris Mohamed,,Male,HOC,NR,M
+1.85,,ERI,Asmara,ERI,1999-01-06,Tesfay Tecle,,Male,HOC,NR,M
 2.11,,ESA,Barquisimeto,VEN,2011-07-29,Marlon Colorado,1992.0,Male,HOC,NR,M
 2.34,,ESP,Barcelona,ESP,1991-06-22,Arturo Ortiz,1966.0,Male,HOC,NR,M
 2.3,,EST,Rakvere,EST,1996-06-05,Marko Turban,1967.0,Male,HOC,NR,M
 2.1,,ETH,Addis Ababa,ETH,2019-05-12,Lim Koungdoup,2000.0,Male,HOC,NR,M
 2.09,,FIJ,Suva,FIJ,2003-04-05,Antonio Rahiman Mohammed,,Male,HOC,NR,M
 2.09,,FIJ,Suva,FIJ,2016-07-08,Malakai Kaiwalu,1995.0,Male,HOC,NR,M
-2.31,,FIN,Bratislava,SVK,2002-06-11,Toni Huikuri,1979.0,Male,HOC,NR,M
 2.31,,FIN,Viitasaari,FIN,2000-07-22,Mika Polku,1975.0,Male,HOC,NR,M
+2.31,,FIN,Bratislava,SVK,2002-06-11,Toni Huikuri,1979.0,Male,HOC,NR,M
 2.34,,FRA,El Paso TX,USA,2014-03-22,Mickaël Hanany,1983.0,Male,HOC,NR,M
 1.78,,FSM,Abay,FSM,2001-07-23,Richard Falan,,Male,HOC,NR,M
 2.14,,GAB,Libreville,GAB,1990-06-04,Hilaire Onwanlele,1968.0,Male,HOC,NR,M
@@ -6207,8 +6207,8 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type,class
 2.36,,ISR,Perth,AUS,2000-02-05,Konstantin Matusevich,1971.0,Male,HOC,NR,M
 2.03,,ISV,San Juan,PUR,1984-06-24,Patrick Moore,,Male,HOC,NR,M
 2.39,,ITA,Monaco,MON,2016-07-15,Gianmarco Tamberi,1992.0,Male,HOC,NR,M
-2.13,,IVB,Coamo,PUR,1991-07-14,Raymond Solomon,1971.0,Male,HOC,NR,M
 2.13,,IVB,Road Town,IVB,1990-07-01,Karl Scatliffe,1967.0,Male,HOC,NR,M
+2.13,,IVB,Coamo,PUR,1991-07-14,Raymond Solomon,1971.0,Male,HOC,NR,M
 2.34,,JAM,Santo Domingo,DOM,2003-08-09,Germaine Mason,1983.0,Male,HOC,NR,M
 2.22,,JOR,Amman,JOR,1991-07-04,Fakhredin Fouad Gor,1967.0,Male,HOC,NR,M
 2.33,,JPN,Kobe,JPN,2006-07-02,Naoyuki Daigo,1981.0,Male,HOC,NR,M
@@ -6218,8 +6218,8 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type,class
 2.0,,KIR,Gold Coast,AUS,2019-10-06,Lataisi Mwea,2000.0,Male,HOC,NR,M
 2.35,,KOR,Tokyo,JPN,2021-08-01,Woo Sang-Hyeok,1996.0,Male,HOC,NR,M
 2.0,,KOS,Elbasan,ALB,2021-05-20,Erudit Rysha,1998.0,Male,HOC,NR,M
-2.21,,KSA,Amman,JOR,2007-07-25,Hashim Issa Al-Oqabi,1987.0,Male,HOC,NR,M
 2.21,,KSA,Lublin,POL,2006-07-08,Jamal Fakhri Al-Qasim,1983.0,Male,HOC,NR,M
+2.21,,KSA,Amman,JOR,2007-07-25,Hashim Issa Al-Oqabi,1987.0,Male,HOC,NR,M
 2.21,,KSA,Salzburg,AUT,2013-06-15,Nawaf Ahmed Al-Yami,1992.0,Male,HOC,NR,M
 2.2,,KUW,Al-Kuwait,KUW,2004-05-15,Salem Sayar Al-Anezi,1983.0,Male,HOC,NR,M
 1.9,,LAO,Vientiane,LAO,2007-01-01,Phougem Inthara,,Male,HOC,NR,M
@@ -6273,8 +6273,8 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type,class
 2.18,,PHI,Lingayen,PHI,2023-06-03,Leonard Grospe,2001.0,Male,HOC,NR,M
 2.0,,PLE,Al-Kuwait,KUW,1985-01-01,Omran Hafzi Mahmoud,,Male,HOC,NR,M
 1.82,,PLW,Koror,PLW,2003-04-26,Donovan Helvey,,Male,HOC,NR,M
-2.06,,PNG,Suva,FIJ,2003-07-10,Sandy Katusele,,Male,HOC,NR,M
 2.06,,PNG,Port Moresby,PNG,1996-09-29,Hapo Maliaki,,Male,HOC,NR,M
+2.06,,PNG,Suva,FIJ,2003-07-10,Sandy Katusele,,Male,HOC,NR,M
 2.38,,POL,Eberstadt,GER,1996-08-18,Artur Partyka,1969.0,Male,HOC,NR,M
 2.25,,POR,Lisboa,POR,2020-06-27,Vitor Korst,1996.0,Male,HOC,NR,M
 2.18,,PRK,Pyongyang,PRK,1994-10-25,Kim Gwang Su,,Male,HOC,NR,M
@@ -6286,16 +6286,16 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type,class
 2.01,,RWA,Williamstown MA,USA,2019-04-20,Ian Kagame,,Male,HOC,NR,M
 2.09,,SAM,Hamilton,CAN,1999-02-28,Nathan Sua'mene,1977.0,Male,HOC,NR,M
 2.26,,SEN,Paris,FRA,1982-07-09,Moussa Fall,1959.0,Male,HOC,NR,M
-2.2,,SEY,Victoria,CAN,2010-06-13,William Woodcock,1987.0,Male,HOC,NR,M
 2.2,,SEY,Alger,ALG,2000-07-14,Eugène Ernesta,1974.0,Male,HOC,NR,M
+2.2,,SEY,Victoria,CAN,2010-06-13,William Woodcock,1987.0,Male,HOC,NR,M
 2.22,,SGP,Chiangmai,THA,1995-12-14,Wong Yew Tong,1971.0,Male,HOC,NR,M
 2.28,,SKN,Barranquilla,COL,2018-08-01,Jermaine Francis,1998.0,Male,HOC,NR,M
 2.07,,SLE,Freetown,SLE,1999-12-24,Quintin Saliah Konteh,,Male,HOC,NR,M
 2.32,,SLO,Maribor,SLO,2012-06-17,Rožle Prezelj,1979.0,Male,HOC,NR,M
 2.27,,SMR,Caprino Veronese,ITA,2015-06-28,Eugenio Rossi,1992.0,Male,HOC,NR,M
 1.9,,SOL,Honiara,SOL,1972-01-01,Toswell Tahisu,,Male,HOC,NR,M
-2.05,,SOM,Mogadishu,SOM,1977-11-18,Ali Mohamrd Mudey,,Male,HOC,NR,M
 2.05,,SOM,Mogadishu,SOM,1972-07-01,Abdulla Noor Wasughe,1947.0,Male,HOC,NR,M
+2.05,,SOM,Mogadishu,SOM,1977-11-18,Ali Mohamrd Mudey,,Male,HOC,NR,M
 2.38,,SRB,Beograd,SRB,1993-08-01,Dragutin Topić,1971.0,Male,HOC,NR,M
 2.3,,SRI,Canyon TX,USA,2021-05-08,Ushan Thiwanka Perera,1998.0,Male,HOC,NR,M
 1.96,,SSD,Warrensburg MO,USA,2019-05-04,Makuac Leet,,Male,HOC,NR,M
@@ -6335,8 +6335,8 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type,class
 2.22,,ZIM,Abilene TX,USA,2022-03-19,Kudakwashe Chadenga,2002.0,Male,HOC,NR,M
 1.4,,AFG,Finnfjordbotn,NOR,2001-07-23,Jasmin Shams,,Female,STA,NR,W
 2.6,,ALB,Pátra,GRE,2010-05-08,Alma Dhespollari,1976.0,Female,STA,NR,W
-3.7,,ALG,Alger,ALG,2006-07-24,Sonia Halliche,1988.0,Female,STA,NR,W
 3.7,,ALG,Franconville,FRA,2000-05-07,Linda Méziani,1979.0,Female,STA,NR,W
+3.7,,ALG,Alger,ALG,2006-07-24,Sonia Halliche,1988.0,Female,STA,NR,W
 2.9,,AND,El Prat de Llobregat,ESP,2008-05-18,Maria Martinez,1985.0,Female,STA,NR,W
 3.6,,ANG,Vagos,POR,2015-06-14,Lidia Alberto,1993.0,Female,STA,NR,W
 4.43,,ARG,Santa Fé,ARG,2004-04-03,Alejandra García,1973.0,Female,STA,NR,W
@@ -6404,8 +6404,8 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type,class
 3.4,,JAM,Ashford,GBR,1998-05-09,Maria Newton,1966.0,Female,STA,NR,W
 3.2,,JOR,Damascus,SYR,2004-09-12,Fatima Zahraa,,Female,STA,NR,W
 4.48,,JPN,Hangzhou,CHN,2023-10-02,Misaki Morota,1998.0,Female,STA,NR,W
-4.2,,KAZ,Almaty,KAZ,2022-06-26,Anastasiya Yermakova,2000.0,Female,STA,NR,W
 4.2,,KAZ,Busan,KOR,2014-05-17,Olga Lapina,1990.0,Female,STA,NR,W
+4.2,,KAZ,Almaty,KAZ,2022-06-26,Anastasiya Yermakova,2000.0,Female,STA,NR,W
 3.2,,KEN,Nairobi,KEN,2015-11-07,Caroline Cherotich,1987.0,Female,STA,NR,W
 4.41,,KOR,Gimcheon,KOR,2012-05-08,Choi Yun-Hee,1986.0,Female,STA,NR,W
 1.8,,KUW,Al-Kuwait,KUW,2012-09-11,Fatima Mathni Taoufik,,Female,STA,NR,W
@@ -6489,8 +6489,8 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type,class
 5.06,,BAH,Nassau,BAH,2023-04-09,Brenden Vanderpool,2005.0,Male,STA,NR,M
 4.35,,BAN,Dhaka,BAN,2006-04-29,Humayun Kabir,1979.0,Male,STA,NR,M
 4.61,,BAR,Azusa CA,USA,2023-04-28,Aaron Worrell,1995.0,Male,STA,NR,M
-4.1,,BDI,Bujumbura,BDI,1981-01-01,Venant Rwamaheke,,Male,STA,NR,M
 4.1,,BDI,Bujumbura,BDI,1979-09-09,Pierre Ntibarashira,,Male,STA,NR,M
+4.1,,BDI,Bujumbura,BDI,1981-01-01,Venant Rwamaheke,,Male,STA,NR,M
 5.85,,BEL,Merzig,GER,2022-06-11,Ben Broeders,1995.0,Male,STA,NR,M
 3.5,,BEN,Dakar,SEN,1957-06-30,John Godonou-Dossou,,Male,STA,NR,M
 3.86,,BER,Tuscaloosa AL,USA,1987-05-15,Brooke Onley,,Male,STA,NR,M
@@ -6528,8 +6528,8 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type,class
 5.18,,DOM,Seaside Heights NJ,USA,2016-07-31,Abbey Alcon,1994.0,Male,STA,NR,M
 5.55,,ECU,Goleniow,POL,2019-06-26,José Rodolfo Pacho,1996.0,Male,STA,NR,M
 5.2,,EGY,Marrakech,MAR,2023-06-21,Tamer Ashraf Mohamed,2005.0,Male,STA,NR,M
-2.6,,ERI,Génève,SUI,2014-05-31,Awet Eyob,,Male,STA,NR,M
 2.6,,ERI,Landquart,SUI,2014-05-24,Efrem Samiel,,Male,STA,NR,M
+2.6,,ERI,Génève,SUI,2014-05-31,Awet Eyob,,Male,STA,NR,M
 5.35,,ESA,Austin TX,USA,2019-03-28,Natán Rivera,1998.0,Male,STA,NR,M
 5.81,,ESP,Barcelona,ESP,2000-09-02,Monxtu Miranda,1976.0,Male,STA,NR,M
 5.86,,EST,Chiari,ITA,1993-09-05,Valeri Bukrejev,1964.0,Male,STA,NR,M
@@ -6623,8 +6623,8 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type,class
 4.2,,PNG,Barcelona,ESP,1992-08-06,Erich Momberger,1968.0,Male,STA,NR,M
 6.02,,POL,Monaco,MON,2019-07-12,Piotr Lisek,1992.0,Male,STA,NR,M
 5.71,,POR,Lisboa,POR,2017-06-17,Diogo Ferreira,1990.0,Male,STA,NR,M
-5.0,,PRK,Pyongyang,PRK,1996-07-25,Ja Song Gil,,Male,STA,NR,M
 5.0,,PRK,Sofia,BUL,1990-06-02,Han Il Hak,,Male,STA,NR,M
+5.0,,PRK,Pyongyang,PRK,1996-07-25,Ja Song Gil,,Male,STA,NR,M
 5.65,,PUR,Abilene TX,USA,1998-05-14,Edgardo Díaz,1968.0,Male,STA,NR,M
 5.51,,QAT,Oran,ALG,2023-07-05,Seifeldin Heneida Abdesalam,2005.0,Male,STA,NR,M
 5.5,,ROU,Pierre-Bénite,FRA,2003-06-13,Tiberiu Agoşton,1976.0,Male,STA,NR,M
@@ -6645,8 +6645,8 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type,class
 5.16,,SRI,Diyagama,SRI,2023-03-30,Sachin Eranga,1996.0,Male,STA,NR,M
 4.3,,STP,Rio Maior,POR,2018-05-06,Edgar Campre,2000.0,Male,STA,NR,M
 4.02,,SUD,Khartoum,SUD,1964-11-05,Barnaba Mariam,,Male,STA,NR,M
-5.71,,SUI,Landau,GER,2021-07-10,Dominik Alberto,1992.0,Male,STA,NR,M
 5.71,,SUI,Bern,SUI,1983-06-11,Felix Böhni,1958.0,Male,STA,NR,M
+5.71,,SUI,Landau,GER,2021-07-10,Dominik Alberto,1992.0,Male,STA,NR,M
 3.7,,SUR,Santiago de Chile,CHI,2014-03-15,Gayell Engeso,1994.0,Male,STA,NR,M
 5.41,,SVK,Fribourg,SUI,2003-08-23,Rudolf Haraksim,1981.0,Male,STA,NR,M
 6.23,,SWE,Eugene OR,USA,2023-09-17,Armand Duplantis,1999.0,Male,STA,NR,M
@@ -6749,8 +6749,8 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type,class
 6.15,0.7,GAM,Lubbock TX,USA,2022-05-14,Wurrie Njadoe,1997.0,Female,WEI,NR,W
 7.07,0.4,GBR,Beijing,CHN,2015-08-28,Shara Proctor,1988.0,Female,WEI,NR,W
 6.0,1.1,GBS,Lisboa,POR,2018-04-19,Fatumata Baldé,2000.0,Female,WEI,NR,W
-6.25,,GEO,Kharkov,URS,1960-07-26,Lyudmila Ivleva,1941.0,Female,WEI,NR,W
 6.25,,GEO,Tbilisi,URS,1954-05-16,Nadezhda Dvalischvili,1933.0,Female,WEI,NR,W
+6.25,,GEO,Kharkov,URS,1960-07-26,Lyudmila Ivleva,1941.0,Female,WEI,NR,W
 5.29,1.6,GEQ,Zaragoza,ESP,2008-05-07,Marlene Mevong Mba,,Female,WEI,NR,W
 7.48,1.2,GER,Neubrandenburg,GER,1988-07-09,Heike Drechsler,1964.0,Female,WEI,NR,W
 6.94,1.8,GHA,Birmingham,GBR,2022-08-07,Deborah Acquah,1996.0,Female,WEI,NR,W
@@ -6854,8 +6854,8 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type,class
 6.78,1.8,SLO,Ptuj,SLO,2008-06-29,Nina Kolarič,1986.0,Female,WEI,NR,W
 5.69,1.8,SMR,Nicosia,CYP,2009-06-04,Barbara Rustignoli,1984.0,Female,WEI,NR,W
 5.13,1.3,SOL,Honiara,SOL,2023-10-25,Jovita Arunia,2002.0,Female,WEI,NR,W
-5.05,,SOM,Mogadishu,SOM,2006-05-07,Nasteho Essa Mohamud,,Female,WEI,NR,W
 5.05,,SOM,Mogadishu,SOM,1977-09-15,Nadifa Sheikh Aboker,,Female,WEI,NR,W
+5.05,,SOM,Mogadishu,SOM,2006-05-07,Nasteho Essa Mohamud,,Female,WEI,NR,W
 7.14,1.2,SRB,Budapest,HUN,2023-08-20,Ivana Španović,1990.0,Female,WEI,NR,W
 6.65,-1.4,SRI,Colombo,SRI,2022-02-12,S.Lakshika Sarangi Silva,1996.0,Female,WEI,NR,W
 5.74,1.2,SSD,Winona MN,USA,2018-04-28,Nyakume Becca Ter Dup,,Female,WEI,NR,W
@@ -6933,12 +6933,12 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type,class
 7.95,-0.7,CGO,Rabat,MAR,2019-08-28,Archel Evrard Biniakounou,1993.0,Male,WEI,NR,M
 7.42,,CHA,El Djezair,ALG,1978-07-25,Kemobe Djimassal,1954.0,Male,WEI,NR,M
 8.08,1.9,CHI,Santiago de Chile,CHI,2012-04-21,Daniel Pineda,1985.0,Male,WEI,NR,M
-8.47,0.7,CHN,Guiyang,CHN,2018-06-16,Wang Jianan,1996.0,Male,WEI,NR,M
 8.47,0.0,CHN,Bad Langensalza,GER,2014-06-28,Li Jinzhe,1989.0,Male,WEI,NR,M
+8.47,0.7,CHN,Guiyang,CHN,2018-06-16,Wang Jianan,1996.0,Male,WEI,NR,M
 7.74,,CIV,Viry-Châtillon,FRA,1976-03-07,Brou Kouakou,1948.0,Male,WEI,NR,M
 8.03,,CMR,Bafoussam,CMR,2019-03-02,Marcel Mayack,1990.0,Male,WEI,NR,M
-7.64,1.1,COD,Pierre-Bénite,FRA,2006-06-09,Jean Kamanda-Mbuyi,1980.0,Male,WEI,NR,M
 7.64,,COD,Heusden,BEL,1997-08-31,Djeke Mambo,1977.0,Male,WEI,NR,M
+7.64,1.1,COD,Pierre-Bénite,FRA,2006-06-09,Jean Kamanda-Mbuyi,1980.0,Male,WEI,NR,M
 7.16,,COK,Nikao,COK,2003-02-06,Harmon Harmon,1980.0,Male,WEI,NR,M
 8.29,0.6,COL,São Paulo,BRA,2023-07-28,Arnovis Dalmero,2000.0,Male,WEI,NR,M
 6.97,,COM,Mutsamudu,COM,2014-06-15,Saïd Ali Saïd,,Male,WEI,NR,M
@@ -6946,8 +6946,8 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type,class
 7.59,1.9,CRC,Gandía,ESP,2022-06-03,Rasheed Shamir Miller,2000.0,Male,WEI,NR,M
 8.23,0.0,CRO,Zagreb,CRO,2002-06-05,Siniša Ergotić,1968.0,Male,WEI,NR,M
 8.71,1.9,CUB,Salamanca,ESP,1995-07-18,Iván Pedroso,1972.0,Male,WEI,NR,M
-7.86,1.0,CYP,Haniá,GRE,1986-05-24,Michalis Rodosthenous,1959.0,Male,WEI,NR,M
 7.86,0.8,CYP,Nicosia,CYP,1982-03-25,Dimitris Araouzos,1961.0,Male,WEI,NR,M
+7.86,1.0,CYP,Haniá,GRE,1986-05-24,Michalis Rodosthenous,1959.0,Male,WEI,NR,M
 8.31,1.4,CZE,Taipei,TPE,2017-08-27,Radek Juška,1993.0,Male,WEI,NR,M
 8.25,0.5,DEN,Göteborg/U,SWE,2005-07-02,Morten Jensen,1982.0,Male,WEI,NR,M
 6.89,,DJI,Aubagne,FRA,1985-08-06,Mohamed Gouled,,Male,WEI,NR,M
@@ -7046,8 +7046,8 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type,class
 8.1,1.9,NOR,Monachil,ESP,2019-08-17,Ingar Bratseth-Kiplesund,1996.0,Male,WEI,NR,M
 6.67,,NRU,Brisbane,AUS,2016-10-21,Jonah Harris,1999.0,Male,WEI,NR,M
 8.05,,NZL,Wangarei,USA,1968-01-31,Bob Thomas,1939.0,Male,WEI,NR,M
-7.75,-0.4,OMA,Marrakech,MAR,2023-06-24,Salem Saleh El-Jerbi,1994.0,Male,WEI,NR,M
 7.75,,OMA,Tallinn,EST,1994-08-05,Ahmad Hudeib Al-Mamari,1972.0,Male,WEI,NR,M
+7.75,-0.4,OMA,Marrakech,MAR,2023-06-24,Salem Saleh El-Jerbi,1994.0,Male,WEI,NR,M
 7.79,,PAK,Islamabad,PAK,1989-10-21,Muhammad Urfaq,,Male,WEI,NR,M
 8.73,1.2,PAN,Hengelo,NED,2008-05-24,Irving Saladino,1983.0,Male,WEI,NR,M
 7.42,,PAR,Asunción,PAR,1987-07-25,Olegario Olmedo,,Male,WEI,NR,M
@@ -7179,8 +7179,8 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type,class
 14.64,-0.4,FIN,München,GER,2022-08-19,Kristiina Mäkelä,1992.0,Female,DRE,NR,W
 14.69,2.0,FRA,München,GER,2007-06-23,Teresa Nzola Meso Ba,1983.0,Female,DRE,NR,W
 9.86,,FSM,Santa Rita,GUM,1999-08-06,Angie Nedelec,,Female,DRE,NR,W
-11.11,-1.7,GAB,Brive-la-Gaillarde,FRA,2014-07-06,Erika Nze,,Female,DRE,NR,W
 11.11,,GAB,Châlon-sur-Saone,FRA,1994-11-06,Armelle Otola,,Female,DRE,NR,W
+11.11,-1.7,GAB,Brive-la-Gaillarde,FRA,2014-07-06,Erika Nze,,Female,DRE,NR,W
 15.15,1.7,GBR,Fukuoka,JPN,1997-09-13,Ashia Hansen,1971.0,Female,DRE,NR,W
 12.49,1.0,GBS,Bedford,GBR,2019-06-02,Claudimira Landim,2000.0,Female,DRE,NR,W
 14.03,1.5,GEO,Baku,AZE,2004-07-02,Julia Dubina,1984.0,Female,DRE,NR,W
@@ -7354,8 +7354,8 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type,class
 16.77,1.9,BOT,Francistown,BOT,2022-05-15,Thalosang Tshireletso,1991.0,Male,DRE,NR,M
 17.9,0.4,BRA,Belém,BRA,2007-05-20,Jadel Gregório,1980.0,Male,DRE,NR,M
 16.7,,BRN,Manama,BRN,2009-04-17,Mohamed Youssef Al-Sahabi,1989.0,Male,DRE,NR,M
-14.65,,BRU,Penang,MAS,2005-09-24,Haj Shari Mohd Shah Johan,1978.0,Male,DRE,NR,M
 14.65,,BRU,Kuching,MAS,1968-07-27,Chang Siew Khin,,Male,DRE,NR,M
+14.65,,BRU,Penang,MAS,2005-09-24,Haj Shari Mohd Shah Johan,1978.0,Male,DRE,NR,M
 17.92,1.6,BUL,Roma,ITA,1987-08-31,Khristo Markov,1965.0,Male,DRE,NR,M
 17.82,0.2,BUR,Székesfehérvár,HUN,2021-07-06,Hugues Fabrice Zango,1993.0,Male,DRE,NR,M
 15.47,,CAF,Lens,FRA,1993-10-07,William Bangahingui,,Male,DRE,NR,M
@@ -7624,8 +7624,8 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type,class
 11.45,,HON,San José3,CRC,2021-06-26,Gabrielle Figueroa,1996.0,Female,KUG,NR,W
 19.87,,HUN,Río de Janeiro,BRA,2016-08-12,Anita Márton,1989.0,Female,KUG,NR,W
 15.77,,INA,Timika,INA,2021-10-14,Eki Febri Ekawati,1992.0,Female,KUG,NR,W
-18.06,,IND,Bangkok,THA,2023-07-16,Abha Khatua,1995.0,Female,KUG,NR,W
 18.06,,IND,Chennai,IND,2022-06-11,Manpreet Kaur,1990.0,Female,KUG,NR,W
+18.06,,IND,Bangkok,THA,2023-07-16,Abha Khatua,1995.0,Female,KUG,NR,W
 18.18,,IRI,Pune,IND,2013-07-06,Leyla Rajabi,1983.0,Female,KUG,NR,W
 16.99,,IRL,Stanford CA,USA,1983-04-02,Marita Lanigan,1960.0,Female,KUG,NR,W
 11.6,,IRQ,Baghdad,IRQ,1979-10-26,Raida Oudeh Nazzal,1960.0,Female,KUG,NR,W
@@ -8381,8 +8381,8 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type,class
 68.88,,UKR,Dnipropetrovsk,URS,1988-07-16,Vladimir Zinchenko,1959.0,Male,DIS,NR,M
 54.92,,URU,San Carlos,URU,2012-04-14,Rodolfo Casanova,1981.0,Male,DIS,NR,M
 71.32,,USA,Eugene OR,USA,1983-06-04,Ben Plucknett,1954.0,Male,DIS,NR,M
-62.46,,UZB,Tashkent,UZB,2000-06-15,Roman Poltoratskiy,1972.0,Male,DIS,NR,M
 62.46,,UZB,Tashkent,URS,1980-05-23,Sergey Shchegolyev,1955.0,Male,DIS,NR,M
+62.46,,UZB,Tashkent,UZB,2000-06-15,Roman Poltoratskiy,1972.0,Male,DIS,NR,M
 45.84,,VAN,Port Vila,VAN,1982-07-09,Georges Laurence,,Male,DIS,NR,M
 57.58,,VEN,Caracas,VEN,2008-05-08,Jesús Parejo,1981.0,Male,DIS,NR,M
 50.08,,VIE,Hanoi,VIE,2023-10-27,Phan Thanh Binh,1995.0,Male,DIS,NR,M

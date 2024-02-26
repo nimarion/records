@@ -9,15 +9,15 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 2.10,ANG,Luanda,ANG,1982-05-09,Orlando Bonifacio,1959,Male,HJ,NR
 2.27,ANT,Pergine Valsugana,ITA,2007-07-07,James Grayman,1985,Male,HJ,NR
 2.25,ARG,Ciudad de México,MEX,1988-07-23,Fernando Pastoriza,1965,Male,HJ,NR
-2.25,ARG,Cochabamba,BOL,2018-06-06,Carlos Layoy,1991,Male,HJ,NR
 2.25,ARG,Rosario,ARG,2002-05-11,Erasmo Jara,1976,Male,HJ,NR
+2.25,ARG,Cochabamba,BOL,2018-06-06,Carlos Layoy,1991,Male,HJ,NR
+2.16,ARM,Yerevan,URS,1984-07-14,Karen Ardaryan,,Male,HJ,NR
 2.16,ARM,Yerevan,URS,1985-06-15,Gerasim Hayrapetyan,,Male,HJ,NR
 2.16,ARM,Yerevan,URS,1985-10-15,Edik Mesropyan,,Male,HJ,NR
-2.16,ARM,Yerevan,URS,1984-07-14,Karen Ardaryan,,Male,HJ,NR
 2.10,ARU,Breda,NED,2006-09-25,Pierre de Windt,1983,Male,HJ,NR
 1.89,ASA,San José,GUA,2010-12-02,Aaron Victorian,1988,Male,HJ,NR
-2.36,AUS,Eberstadt,GER,2018-08-26,Brandon Starc,1993,Male,HJ,NR
 2.36,AUS,Melbourne,AUS,1997-03-02,Tim Forsyth,1973,Male,HJ,NR
+2.36,AUS,Eberstadt,GER,2018-08-26,Brandon Starc,1993,Male,HJ,NR
 2.28,AUT,Schwechat,AUT,1986-05-18,Markus Einberger,1964,Male,HJ,NR
 2.37,AZE,Rieti,ITA,1984-09-02,Valeriy Sereda,1959,Male,HJ,NR
 2.38,BAH,Nice,FRA,1995-07-12,Troy Kemp,1966,Male,HJ,NR
@@ -42,15 +42,15 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 2.03,CAM,Aachen,FRG,1972-08-05,Sin Sitha,,Male,HJ,NR
 2.40,CAN,Des Moines IA,USA,2014-04-25,Derek Drouin,1990,Male,HJ,NR
 2.19,CAY,El Paso TX,USA,2006-05-13,Omar Wright,1986,Male,HJ,NR
-2.14,CGO,Dakar,SEN,1997-06-01,Jean-Claude Silao,1969,Male,HJ,NR
 2.14,CGO,Chatellerault,FRA,1964-06-09,Henri Elendé,1941,Male,HJ,NR
+2.14,CGO,Dakar,SEN,1997-06-01,Jean-Claude Silao,1969,Male,HJ,NR
 2.17,CHA,N'Djamena,CHA,1966-10-04,Mahamat Idriss,1942,Male,HJ,NR
 2.17,CHA,N'Djamena,CHA,1993-03-29,Paul Ngadjadoum,1957,Male,HJ,NR
 2.17,CHA,N'Djamena,CHA,1996-07-04,Mathias Ngadjadoum,1972,Male,HJ,NR
 2.22,CHI,Cochabamba,BOL,2001-06-03,Felipe Apablaza,1977,Male,HJ,NR
 2.39,CHN,Eberstadt,FRG,1984-06-10,Zhu Jianhua,1963,Male,HJ,NR
-2.08,CIV,Abidjan,CIV,1979-05-05,Kouami Ndri,1943,Male,HJ,NR
 2.08,CIV,Dakar,SEN,1970-05-28,Moustapha N'dir,,Male,HJ,NR
+2.08,CIV,Abidjan,CIV,1979-05-05,Kouami Ndri,1943,Male,HJ,NR
 2.28,CMR,Bühl,GER,2014-06-19,Temfack Fernan Djoumessi,1989,Male,HJ,NR
 2.16,COD,Pamplona,ESP,1998-06-18,Dieudonne Opota,1979,Male,HJ,NR
 1.92,COK,Avarua,COK,2022-10-01,Nukumaea Mokoroa,,Male,HJ,NR
@@ -61,25 +61,25 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 2.28,CRO,Split,YUG,1985-07-06,Novica Canovic,1961,Male,HJ,NR
 2.45,CUB,Salamanca,ESP,1993-07-27,Javier Sotomayor,1967,Male,HJ,NR
 2.35,CYP,Osaka,JPN,2007-08-29,Kyriakos Ioannou,1984,Male,HJ,NR
-2.36,CZE,Roma,ITA,2005-07-08,Jaroslav Bába,1984,Male,HJ,NR
 2.36,CZE,Praha,TCH,1987-08-23,Ján Zvara,1963,Male,HJ,NR
+2.36,CZE,Roma,ITA,2005-07-08,Jaroslav Bába,1984,Male,HJ,NR
 2.28,DEN,Essen,GER,2019-06-20,Janick Klausen,1993,Male,HJ,NR
-1.80,DJI,Djibouti,DJI,2002-11-04,Bachir Abdi,,Male,HJ,NR
 1.80,DJI,Djibouti,DJI,2001-11-04,Mahamoud Hassan,,Male,HJ,NR
+1.80,DJI,Djibouti,DJI,2002-11-04,Bachir Abdi,,Male,HJ,NR
 2.25,DMA,La Habana,CUB,2012-03-17,Brandon Williams,1987,Male,HJ,NR
 2.28,DOM,Santo Domingo,DOM,1997-05-31,Julio Luciano,1977,Male,HJ,NR
 2.30,ECU,Guadalajara2,MEX,2011-10-27,Diego Ferrín,1988,Male,HJ,NR
 2.25,EGY,Eberstadt,GER,2008-06-27,Karim Samir Lotfy,1989,Male,HJ,NR
-1.85,ERI,Asmara,ERI,1999-01-06,Tesfay Tecle,,Male,HJ,NR
 1.85,ERI,Asmara,ERI,1999-01-06,Idris Mohamed,,Male,HJ,NR
+1.85,ERI,Asmara,ERI,1999-01-06,Tesfay Tecle,,Male,HJ,NR
 2.11,ESA,Barquisimeto,VEN,2011-07-29,Marlon Colorado,1992,Male,HJ,NR
 2.34,ESP,Barcelona,ESP,1991-06-22,Arturo Ortiz,1966,Male,HJ,NR
 2.30,EST,Rakvere,EST,1996-06-05,Marko Turban,1967,Male,HJ,NR
 2.10,ETH,Addis Ababa,ETH,2019-05-12,Lim Koungdoup,2000,Male,HJ,NR
 2.09,FIJ,Suva,FIJ,2003-04-05,Antonio Rahiman Mohammed,,Male,HJ,NR
 2.09,FIJ,Suva,FIJ,2016-07-08,Malakai Kaiwalu,1995,Male,HJ,NR
-2.31,FIN,Bratislava,SVK,2002-06-11,Toni Huikuri,1979,Male,HJ,NR
 2.31,FIN,Viitasaari,FIN,2000-07-22,Mika Polku,1975,Male,HJ,NR
+2.31,FIN,Bratislava,SVK,2002-06-11,Toni Huikuri,1979,Male,HJ,NR
 2.34,FRA,El Paso TX,USA,2014-03-22,Mickaël Hanany,1983,Male,HJ,NR
 1.78,FSM,Abay,FSM,2001-07-23,Richard Falan,,Male,HJ,NR
 2.14,GAB,Libreville,GAB,1990-06-04,Hilaire Onwanlele,1968,Male,HJ,NR
@@ -112,8 +112,8 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 2.36,ISR,Perth,AUS,2000-02-05,Konstantin Matusevich,1971,Male,HJ,NR
 2.03,ISV,San Juan,PUR,1984-06-24,Patrick Moore,,Male,HJ,NR
 2.39,ITA,Monaco,MON,2016-07-15,Gianmarco Tamberi,1992,Male,HJ,NR
-2.13,IVB,Coamo,PUR,1991-07-14,Raymond Solomon,1971,Male,HJ,NR
 2.13,IVB,Road Town,IVB,1990-07-01,Karl Scatliffe,1967,Male,HJ,NR
+2.13,IVB,Coamo,PUR,1991-07-14,Raymond Solomon,1971,Male,HJ,NR
 2.34,JAM,Santo Domingo,DOM,2003-08-09,Germaine Mason,1983,Male,HJ,NR
 2.22,JOR,Amman,JOR,1991-07-04,Fakhredin Fouad Gor,1967,Male,HJ,NR
 2.33,JPN,Kobe,JPN,2006-07-02,Naoyuki Daigo,1981,Male,HJ,NR
@@ -123,8 +123,8 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 2.00,KIR,Gold Coast,AUS,2019-10-06,Lataisi Mwea,2000,Male,HJ,NR
 2.35,KOR,Tokyo,JPN,2021-08-01,Woo Sang-Hyeok,1996,Male,HJ,NR
 2.00,KOS,Elbasan,ALB,2021-05-20,Erudit Rysha,1998,Male,HJ,NR
-2.21,KSA,Amman,JOR,2007-07-25,Hashim Issa Al-Oqabi,1987,Male,HJ,NR
 2.21,KSA,Lublin,POL,2006-07-08,Jamal Fakhri Al-Qasim,1983,Male,HJ,NR
+2.21,KSA,Amman,JOR,2007-07-25,Hashim Issa Al-Oqabi,1987,Male,HJ,NR
 2.21,KSA,Salzburg,AUT,2013-06-15,Nawaf Ahmed Al-Yami,1992,Male,HJ,NR
 2.20,KUW,Al-Kuwait,KUW,2004-05-15,Salem Sayar Al-Anezi,1983,Male,HJ,NR
 1.90,LAO,Vientiane,LAO,2007-01-01,Phougem Inthara,,Male,HJ,NR
@@ -178,8 +178,8 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 2.18,PHI,Lingayen,PHI,2023-06-03,Leonard Grospe,2001,Male,HJ,NR
 2.00,PLE,Al-Kuwait,KUW,1985-01-01,Omran Hafzi Mahmoud,,Male,HJ,NR
 1.82,PLW,Koror,PLW,2003-04-26,Donovan Helvey,,Male,HJ,NR
-2.06,PNG,Suva,FIJ,2003-07-10,Sandy Katusele,,Male,HJ,NR
 2.06,PNG,Port Moresby,PNG,1996-09-29,Hapo Maliaki,,Male,HJ,NR
+2.06,PNG,Suva,FIJ,2003-07-10,Sandy Katusele,,Male,HJ,NR
 2.38,POL,Eberstadt,GER,1996-08-18,Artur Partyka,1969,Male,HJ,NR
 2.25,POR,Lisboa,POR,2020-06-27,Vitor Korst,1996,Male,HJ,NR
 2.18,PRK,Pyongyang,PRK,1994-10-25,Kim Gwang Su,,Male,HJ,NR
@@ -191,16 +191,16 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 2.01,RWA,Williamstown MA,USA,2019-04-20,Ian Kagame,,Male,HJ,NR
 2.09,SAM,Hamilton,CAN,1999-02-28,Nathan Sua'mene,1977,Male,HJ,NR
 2.26,SEN,Paris,FRA,1982-07-09,Moussa Fall,1959,Male,HJ,NR
-2.20,SEY,Victoria,CAN,2010-06-13,William Woodcock,1987,Male,HJ,NR
 2.20,SEY,Alger,ALG,2000-07-14,Eugène Ernesta,1974,Male,HJ,NR
+2.20,SEY,Victoria,CAN,2010-06-13,William Woodcock,1987,Male,HJ,NR
 2.22,SGP,Chiangmai,THA,1995-12-14,Wong Yew Tong,1971,Male,HJ,NR
 2.28,SKN,Barranquilla,COL,2018-08-01,Jermaine Francis,1998,Male,HJ,NR
 2.07,SLE,Freetown,SLE,1999-12-24,Quintin Saliah Konteh,,Male,HJ,NR
 2.32,SLO,Maribor,SLO,2012-06-17,Rožle Prezelj,1979,Male,HJ,NR
 2.27,SMR,Caprino Veronese,ITA,2015-06-28,Eugenio Rossi,1992,Male,HJ,NR
 1.90,SOL,Honiara,SOL,1972-01-01,Toswell Tahisu,,Male,HJ,NR
-2.05,SOM,Mogadishu,SOM,1977-11-18,Ali Mohamrd Mudey,,Male,HJ,NR
 2.05,SOM,Mogadishu,SOM,1972-07-01,Abdulla Noor Wasughe,1947,Male,HJ,NR
+2.05,SOM,Mogadishu,SOM,1977-11-18,Ali Mohamrd Mudey,,Male,HJ,NR
 2.38,SRB,Beograd,SRB,1993-08-01,Dragutin Topić,1971,Male,HJ,NR
 2.30,SRI,Canyon TX,USA,2021-05-08,Ushan Thiwanka Perera,1998,Male,HJ,NR
 1.96,SSD,Warrensburg MO,USA,2019-05-04,Makuac Leet,,Male,HJ,NR

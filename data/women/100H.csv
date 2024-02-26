@@ -61,8 +61,8 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 14.87,+0.7,ETH,Abidjan,CIV,2019-04-18,Meskerem Gizaw,,Female,100H,NR
 13.62,-0.4,FIJ,Canberra,AUS,1998-02-08,Rachel Rogers,1975,Female,100H,NR
 12.70,+0.9,FIN,Jyväskylä,FIN,2023-06-07,Reetta Hurske,1995,Female,100H,NR
-12.56,+1.2,FRA,Reims,FRA,2014-07-12,Cindy Billaud,1986,Female,100H,NR
 12.56,+1.2,FRA,Villeneuve d'Ascq,FRA,1990-06-29,Monique Ewanjé-Epée,1967,Female,100H,NR
+12.56,+1.2,FRA,Reims,FRA,2014-07-12,Cindy Billaud,1986,Female,100H,NR
 17.84,,FSM,Pohnpei,FSM,2014-07-21,Ashley Apiner,1992,Female,100H,NR
 14.49,-1.1,GAB,La Roche-sur-Yon,FRA,2008-10-25,Ruddy Zang Milama,1987,Female,100H,NR
 14.70,-1.4,GAM,Huelva,ESP,2013-12-06,Nusrat Ceesay,1981,Female,100H,NR
@@ -80,8 +80,8 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 15.65,,GUM,Manenggon Hills,GUM,2012-05-18,Stefani Loisel,,Female,100H,NR
 13.27,+1.7,GUY,Barranquilla,COL,2018-07-30,Jenea McCammon,1991,Female,100H,NR
 12.74,+1.7,HAI,Athína,GRE,2004-08-23,Nadine Faustin-Parker,1976,Female,100H,NR
-13.14,,HKG,Walnut CA,USA,1994-04-17,Chan Sau-Ying,1970,Female,100H,NR
 13.14,0.0,HKG,"Walnut, Ca",USA,1994-04-17,Chan Sau Ying,1970,Female,100H,NR
+13.14,,HKG,Walnut CA,USA,1994-04-17,Chan Sau-Ying,1970,Female,100H,NR
 13.83,-0.6,HON,Toluca,MEX,2008-07-21,Jeimy J. Bernárdez,1986,Female,100H,NR
 12.69,+0.3,HUN,München,GER,2022-08-21,Luca Kozák,1996,Female,100H,NR
 13.18,+0.7,INA,Taipei,TPE,2012-05-26,Dedeh Erawati,1979,Female,100H,NR
@@ -117,8 +117,8 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 15.49,+0.4,MAC,Hongkong,HKG,2017-04-23,Cheng Ut I,,Female,100H,NR
 12.84,+2.0,MAD,Niort,FRA,1999-07-31,Rosa Rakotozafy,1977,Female,100H,NR
 13.44,+1.6,MAR,Fès,MAR,2012-06-16,Yamina Hajjaji,1988,Female,100H,NR
-13.27,-1.3,MAS,Kassel,GER,2004-06-11,Siew Wei Moh,1978,Female,100H,NR
 13.27,-1.3,MAS,Kassel,GER,2004-06-11,Moh Siew Wei,1978,Female,100H,NR
+13.27,-1.3,MAS,Kassel,GER,2004-06-11,Siew Wei Moh,1978,Female,100H,NR
 19.77,,MAW,Westminster CA,USA,2016-04-26,Juliet Komwa,,Female,100H,NR
 12.81,+1.0,MDA,Cottbus,GDR,1982-06-26,Mariya Merchuk,1959,Female,100H,NR
 19.84,+0.3,MDV,Bangkok,THA,2002-10-30,Nashfa Amira,1985,Female,100H,NR

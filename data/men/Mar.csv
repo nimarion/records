@@ -37,23 +37,23 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 2:05:36,CAN,Tokyo,JPN,2023-03-05,Cam Levins,1989,Male,Mar,NR
 2:34:29,CAY,Sacramento CA,USA,2010-12-05,Jon Rankin,1982,Male,Mar,NR
 2:26:01,CGO,Puteaux,FRA,1990-09-16,Bernard Tsati,,Male,Mar,NR
-2:18:20,CHA,Valencia,ESP,2023-12-03,Valentin Betoudji,1991,Male,Mar,NR
 2:19:34,CHA,La Rochelle,FRA,2015-11-29,Ahmat Abdou-Daoud,1985,Male,Mar,NR
-2:08:04,CHI,Sevilla,ESP,2024-02-18,Carlos Díaz,1993,Male,Mar,NR
+2:18:20,CHA,Valencia,ESP,2023-12-03,Valentin Betoudji,1991,Male,Mar,NR
 2:10:26,CHI,Sevilla,ESP,2023-02-19,Carlos Díaz,1993,Male,Mar,NR
 2:08:44,CHI,Houston TX,USA,2024-01-14,Hugo Catrileo,1997,Male,Mar,NR
-2:07:09,CHN,Fukuoka,JPN,2023-12-03,Yang Shaohui,1992,Male,Mar,NR
-2:07:30,CHN,Wuxi,CHN,2023-03-19,He Jie,1998,Male,Mar,NR
+2:08:04,CHI,Sevilla,ESP,2024-02-18,Carlos Díaz,1993,Male,Mar,NR
 2:08:15,CHN,Beijing,CHN,2007-10-21,Ren Longyun,1987,Male,Mar,NR
-2:19:21,CIV,Valencia,ESP,2023-12-03,Jonathan Atse-Herrera,1987,Male,Mar,NR
+2:07:30,CHN,Wuxi,CHN,2023-03-19,He Jie,1998,Male,Mar,NR
+2:07:09,CHN,Fukuoka,JPN,2023-12-03,Yang Shaohui,1992,Male,Mar,NR
 2:19:55,CIV,Ouagadougou,BUR,2019-12-07,Soumaila Traore,1992,Male,Mar,NR
+2:19:21,CIV,Valencia,ESP,2023-12-03,Jonathan Atse-Herrera,1987,Male,Mar,NR
 2:15:43,CMR,Douala,CMR,2019-10-27,Justilin Foimi,,Male,Mar,NR
 2:08:40,COD,Paris,FRA,1999-04-04,Mwenze Kalombo,1970,Male,Mar,NR
 2:51:26,COK,Avarua,COK,1980-03-05,Muriaroa Ngaro,,Male,Mar,NR
 2:10:51,COL,Enschede,NED,2021-04-18,Jeisson Alexander Suárez,1991,Male,Mar,NR
 2:35:43,COM,St-Paul-Reunion,FRA,1988-09-18,Youssouf Gagou,,Male,Mar,NR
-2:11:01,CPV,Sevilla,ESP,2024-02-18,Samuel Freire,1990,Male,Mar,NR
 2:18:47,CPV,Rotterdam,NED,2011-04-10,Ruben Sanca,1986,Male,Mar,NR
+2:11:01,CPV,Sevilla,ESP,2024-02-18,Samuel Freire,1990,Male,Mar,NR
 2:13:23,CRC,Los Angeles CA,USA,1996-03-03,José Luis Molina,1965,Male,Mar,NR
 2:17:05,CRO,Bologna,ITA,1992-03-29,Drago Paripovic,1959,Male,Mar,NR
 2:10:53,CUB,La Habana,CUB,1994-11-30,Ignacio Alberto Cuba,1962,Male,Mar,NR
@@ -63,8 +63,8 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 2:06:43,DJI,Oita,JPN,2023-02-05,Ibrahim Hassan Bouh,1997,Male,Mar,NR
 3:13:32,DMA,New York NY,USA,2013-11-03,Calvin Auguiste,,Male,Mar,NR
 2:14:28,DOM,Houston TX,USA,2023-01-15,Alvaro Abreu,1991,Male,Mar,NR
-2:09:05,ECU,Valencia,ESP,2023-12-03,Segundo Jami,1986,Male,Mar,NR
 2:09:49,ECU,Chicago IL,USA,1997-10-19,Silvio Guerra,1968,Male,Mar,NR
+2:09:05,ECU,Valencia,ESP,2023-12-03,Segundo Jami,1986,Male,Mar,NR
 2:19:39,EGY,Arish,EGY,1997-12-25,Aissa Reza Abou Daif,1970,Male,Mar,NR
 2:04:35,ERI,Amsterdam,NED,2021-10-17,Hizkel Tewelde,1986,Male,Mar,NR
 2:26:57,ESA,Tegucigalpa,HON,1990-01-13,Victor Vasquez,,Male,Mar,NR
@@ -74,11 +74,11 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 2:01:41,ETH,Berlin,GER,2019-09-29,Kenenisa Bekele,1982,Male,Mar,NR
 2:23:33,FIJ,Las Vegas NV,USA,1989-04-02,Bineshwar Prasad,1963,Male,Mar,NR
 2:10:46,FIN,Rotterdam,NED,2008-04-13,Janne Holmén,1977,Male,Mar,NR
-2:05:22,FRA,Paris,FRA,2022-04-03,Morhad Amdouni,1988,Male,Mar,NR
 2:18:59,FRA,Paris,FRA,2021-10-17,Sumaa Aboubakar,1992,Male,Mar,NR
+2:05:22,FRA,Paris,FRA,2022-04-03,Morhad Amdouni,1988,Male,Mar,NR
 2:03:47,FRA,Sevilla,ESP,2024-02-18,Morhad Amdouni,1988,Male,Mar,NR
-2:46:08,FSM,Boston MA,USA,2022-04-18,Simeon Jacob,,Male,Mar,NR
 2:52:29,FSM,San Antonio TX,USA,1990-07-14,Elias Rodriguez,1964,Male,Mar,NR
+2:46:08,FSM,Boston MA,USA,2022-04-18,Simeon Jacob,,Male,Mar,NR
 2:31:59,GAB,Cannes,FRA,2008-09-11,Jean-Marc Léandro,1969,Male,Mar,NR
 2:18:42,GAM,Reggio Emilia,ITA,2019-12-08,Ousman Jaiteh,1990,Male,Mar,NR
 2:05:11,GBR,Chicago IL,USA,2018-10-07,Mo Farah,1983,Male,Mar,NR
@@ -86,8 +86,8 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 2:15:10,GEO,København,DEN,2022-05-15,Daviti Kharazishvili,1992,Male,Mar,NR
 2:11:46,GEO,Valencia,ESP,2023-12-03,Daviti Kharazishvili,1992,Male,Mar,NR
 2:21:22,GEQ,Saumur,FRA,2019-12-05,Benjamin Enzema,1989,Male,Mar,NR
-2:04:58,GER,Berlin,GER,2023-09-24,Amanal Petros,1995,Male,Mar,NR
 2:06:27,GER,Valencia,ESP,2021-12-05,Amanal Petros,1995,Male,Mar,NR
+2:04:58,GER,Berlin,GER,2023-09-24,Amanal Petros,1995,Male,Mar,NR
 2:18:43,GHA,Lagos,NGR,1990-11-11,Emmanuel Amoo,,Male,Mar,NR
 2:28:08,GIB,Sevilla,ESP,2022-02-20,Arnold Rogers,1990,Male,Mar,NR
 2:12:04,GRE,Berlin,FRG,1988-10-09,Spirídon Andriópoulos,1962,Male,Mar,NR
@@ -98,18 +98,18 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 2:31:04,GUM,Huntsville TX,USA,2019-12-15,Wayne Blas,1977,Male,Mar,NR
 2:25:02,GUY,Louisville KY,USA,2004-05-29,Andrew Smith,,Male,Mar,NR
 2:14:22,HAI,Gagny,FRA,1988-04-16,Dieudonne Lamothé,1954,Male,Mar,NR
+2:19:53,HKG,Valencia,ESP,2021-12-05,Gi Ka Man,1984,Male,Mar,NR
 2:19:16,HKG,Hamburg,GER,2023-04-23,Wan Chun Wong,1996,Male,Mar,NR
 2:16:22,HKG,Berlin,GER,2023-09-24,Wan Chun Wong,1996,Male,Mar,NR
-2:19:53,HKG,Valencia,ESP,2021-12-05,Gi Ka Man,1984,Male,Mar,NR
 2:12:10,HUN,Paris,FRA,1993-04-25,Csaba Szűcs,1965,Male,Mar,NR
 2:19:18,INA,Jakarta,INA,1993-09-12,Edwardus Nabunome,1968,Male,Mar,NR
 2:12:00,IND,Jullundur,IND,1978-05-28,Shivnath Singh,1946,Male,Mar,NR
-2:17:14,IRI,Berlin,GER,2023-09-24,Mohammad Jaafar Moradi,1990,Male,Mar,NR
 2:17:36,IRI,Sevilla,ESP,2022-02-20,Mohammadreza Abootorabi,1989,Male,Mar,NR
+2:17:14,IRI,Berlin,GER,2023-09-24,Mohammad Jaafar Moradi,1990,Male,Mar,NR
 2:21:54,IRQ,Baghdad,IRQ,1982-02-05,Saadoun Nasser Hafidh,1955,Male,Mar,NR
 2:13:37,ISL,Dresden,GER,2021-03-21,Hlynur Andrésson,1993,Male,Mar,NR
-2:04:53,ISR,Sevilla,ESP,2024-02-18,Gashau Ayale,1996,Male,Mar,NR
 2:05:33,ISR,Sevilla,ESP,2023-02-19,Gashau Ayale,1996,Male,Mar,NR
+2:04:53,ISR,Sevilla,ESP,2024-02-18,Gashau Ayale,1996,Male,Mar,NR
 2:17:45,ISV,Sacramento CA,USA,2021-12-05,Eddie Garcia,1992,Male,Mar,NR
 2:17:09,ISV,Valley Cottage NY,USA,2023-10-14,Eddie Garcia,1992,Male,Mar,NR
 2:07:19,ITA,Sevilla,ESP,2020-02-23,Eyob Ghebrehiwet Faniel,1992,Male,Mar,NR
@@ -134,13 +134,14 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 3:00:16,LBR,Monrovia CA,USA,2013-08-25,Raymond Dovenon,,Male,Mar,NR
 2:16:06,LCA,St. Paul MN,USA,2003-10-05,Zepherinus Joseph,1975,Male,Mar,NR
 2:09:47,LES,Paris,FRA,2017-04-09,Motlokoa Nkhabutlane,1984,Male,Mar,NR
+2:08:09,LES,Osaka,JPN,2024-02-25,Tebello Ramakongoana,1996,Male,Mar,NR
 2:23:55,LIE,Chicago IL,USA,2011-10-09,Marcel Tschopp,1974,Male,Mar,NR
 2:12:35,LTU,Frankfurt,GER,1997-10-26,Ceslovas Kundrotas,1961,Male,Mar,NR
 2:14:03,LUX,Frankfurt,GER,1985-05-19,Justin Gloden,1953,Male,Mar,NR
 2:28:22,MAC,Melbourne,AUS,1994-06-05,Lam Weng Hei,,Male,Mar,NR
 2:17:14,MAD,Moskva,URS,1979-07-29,Jules Randrianarivelo,1956,Male,Mar,NR
-2:05:12,MAR,Barcelona,ESP,2023-03-19,Othmane El Goumri,1992,Male,Mar,NR
 2:05:26,MAR,Valencia,ESP,2018-12-02,El Mahjoub Dazza,1991,Male,Mar,NR
+2:05:12,MAR,Barcelona,ESP,2023-03-19,Othmane El Goumri,1992,Male,Mar,NR
 2:23:13,MAS,Taipei,TPE,2020-12-20,Tan Huong Leong,1988,Male,Mar,NR
 2:22:34,MAS,Fukuoka,JPN,2023-12-03,Tan Huong Leong,1988,Male,Mar,NR
 2:08:32,MDA,Düsseldorf,GER,2010-05-02,Iaroslav Muşinschi,1976,Male,Mar,NR
@@ -148,16 +149,16 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 2:08:30,MEX,London,GBR,1995-04-02,Dionicio Cerón,1965,Male,Mar,NR
 2:08:50,MGL,Fukuoka,JPN,2014-12-07,Ser-Od Bat-Ochir,1981,Male,Mar,NR
 2:18:12,MKD,København,DEN,2022-05-15,Dario Ivanovski,1997,Male,Mar,NR
-2:08:26,MKD,Sevilla,ESP,2024-02-18,Dario Ivanovski,1997,Male,Mar,NR
 2:11:53,MKD,Valencia,ESP,2023-12-03,Dario Ivanovski,1997,Male,Mar,NR
-2:30:26,MLI,La Rochelle,FRA,2023-11-26,Yacouba Guindo,2002,Male,Mar,NR
+2:08:26,MKD,Sevilla,ESP,2024-02-18,Dario Ivanovski,1997,Male,Mar,NR
 2:34:16,MLI,Bamako,MLI,2011-01-23,Siaka Sangare,,Male,Mar,NR
-2:13:13,MLT,Chicago IL,USA,2023-10-08,Jordan Gusman,1994,Male,Mar,NR
+2:30:26,MLI,La Rochelle,FRA,2023-11-26,Yacouba Guindo,2002,Male,Mar,NR
 2:25:02,MLT,Valencia,ESP,2019-12-01,Charlton Debono,1984,Male,Mar,NR
+2:13:13,MLT,Chicago IL,USA,2023-10-08,Jordan Gusman,1994,Male,Mar,NR
 2:24:18,MNE,Podgorica,YUG,1998-10-04,Drago Music,1968,Male,Mar,NR
-2:27:36,MON,Sevilla,ESP,2024-02-18,Kais Adli,1975,Male,Mar,NR
-2:32:14,MON,Paris,FRA,2023-04-02,Nicolas d'Angelo,1994,Male,Mar,NR
 2:49:36,MON,Sevilla,ESP,2019-02-17,Sonny Folcheri,1987,Male,Mar,NR
+2:32:14,MON,Paris,FRA,2023-04-02,Nicolas d'Angelo,1994,Male,Mar,NR
+2:27:36,MON,Sevilla,ESP,2024-02-18,Kais Adli,1975,Male,Mar,NR
 2:16:42,MOZ,Durban,RSA,2022-05-08,Flávio Seholhe,1990,Male,Mar,NR
 2:18:20,MRI,Hamburg,GER,2016-04-17,David Carver,1987,Male,Mar,NR
 2:43:10,MTN,Rotterdam,NED,2008-04-13,Majid Toure,1973,Male,Mar,NR
@@ -191,8 +192,8 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 2:12:43,PUR,Caracas,VEN,1983-08-28,Jorge Gonzalez,1952,Male,Mar,NR
 2:07:19,QAT,Paris,FRA,2007-04-15,Mubarak Hassan Shami,1980,Male,Mar,NR
 2:12:29.4,ROU,Praha,TCH,1978-09-03,Catalin Andreica,1947,Male,Mar,NR
-2:16:04,RSA,Gqeberha,RSA,2021-12-04,Mphanso Nadolo,,Male,Mar,NR
 2:06:33,RSA,Tokyo,JPN,1999-02-14,Gert Thys,1971,Male,Mar,NR
+2:16:04,RSA,Gqeberha,RSA,2021-12-04,Mphanso Nadolo,,Male,Mar,NR
 2:09:07,RUS,Dublin,IRL,2007-10-29,Aleksey V. Sokolov,1979,Male,Mar,NR
 2:09:18,RWA,Dhaka,BAN,2023-01-20,Félicien Muhitira,1994,Male,Mar,NR
 2:08:18,RWA,Milano,ITA,2023-04-02,John Hakizimana,1996,Male,Mar,NR
@@ -215,10 +216,10 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 2:05:10,SUI,Berlin,GER,2023-09-24,Tadesse Abraham,1982,Male,Mar,NR
 2:31:48,SUR,Rotterdam,NED,2022-04-10,Janiek Pomba,2000,Male,Mar,NR
 2:09:53,SVK,London,GBR,1998-04-26,Róbert Štefko,1968,Male,Mar,NR
-2:08:41,SWE,Amsterdam,NED,2023-10-15,Samuel Tsegay,1988,Male,Mar,NR
-2:07:36,SWE,Sevilla,ESP,2024-02-18,Suldan Hassan,1998,Male,Mar,NR
 2:10:03,SWE,Sevilla,ESP,2020-02-23,Mustafa Mohamed,1979,Male,Mar,NR
 2:09:47,SWE,Paris,FRA,2023-04-02,Samuel Tsegay,1988,Male,Mar,NR
+2:08:41,SWE,Amsterdam,NED,2023-10-15,Samuel Tsegay,1988,Male,Mar,NR
+2:07:36,SWE,Sevilla,ESP,2024-02-18,Suldan Hassan,1998,Male,Mar,NR
 2:12:55,SWZ,Christchurch,NZL,1974-01-31,Richard Mabuza,1946,Male,Mar,NR
 2:26:27,SYR,Latakia,SYR,1985-12-06,Ahmed Saker,,Male,Mar,NR
 2:03:00,TAN,Valencia,ESP,2022-12-04,Gabriel Gerald Geay,1996,Male,Mar,NR
@@ -236,8 +237,8 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 2:23:42,UAE,Dubai,UAE,2002-01-11,Jassim Ali Abbas,,Male,Mar,NR
 2:04:48,UGA,Hamburg,GER,2022-04-24,Stephen Kissa,1995,Male,Mar,NR
 2:07:15,UKR,Fukuoka,JPN,2006-12-03,Dmytro Baranovskyy,1979,Male,Mar,NR
-2:10:35,URU,Hamburg,GER,2023-04-23,Ernesto Zamora,1983,Male,Mar,NR
 2:11:02,URU,Sevilla,ESP,2023-02-19,Cristian Zamora,1991,Male,Mar,NR
+2:10:35,URU,Hamburg,GER,2023-04-23,Ernesto Zamora,1983,Male,Mar,NR
 2:05:38,USA,London,GBR,2002-04-14,Khalid Khannouchi,1971,Male,Mar,NR
 2:13:28,UZB,Mogilyov,URS,1985-06-15,Vladimir Beloborodov,1951,Male,Mar,NR
 2:07:02,UZB,Valencia,ESP,2023-12-03,Shokhrukh Davlyatov,1996,Male,Mar,NR

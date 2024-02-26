@@ -14,14 +14,14 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 1:28:52,BIH,Ruse,BUL,1988-04-17,Mico Cvetkovic,,Male,20W,NR
 1:18:12,BLR,Brest,BLR,2001-03-10,Artur Meleshkevich,1975,Male,20W,NR
 1:23:35,BOL,Arica,CHI,2015-05-09,Marco Antonio Rodríguez,1994,Male,20W,NR
-1:18:29,BRA,La Coruña,ESP,2023-06-03,Caio Bonfim,1991,Male,20W,NR
 1:18:47,BRA,La Coruña,ESP,2019-06-08,Caio Bonfim,1991,Male,20W,NR
+1:18:29,BRA,La Coruña,ESP,2023-06-03,Caio Bonfim,1991,Male,20W,NR
 1:17:47,BRA,Budapest,HUN,2023-08-19,Caio Bonfim,1991,Male,20W,NR
 2:13:24,BRN,Doha,QAT,1982-03-04,Rashid Dawass,,Male,20W,NR
 1:20:43,BUL,Sofia,BUL,1988-06-26,Lyubomir Ivanov,1960,Male,20W,NR
 1:54:31,CAM,La Habana,CUB,2006-05-06,Sinn Siravut,,Male,20W,NR
-1:18:03,CAN,Budapest,HUN,2023-08-19,Evan Dunfee,1990,Male,20W,NR
 1:19:20,CAN,Nomi,JPN,2016-03-20,Inaki Gomez,1988,Male,20W,NR
+1:18:03,CAN,Budapest,HUN,2023-08-19,Evan Dunfee,1990,Male,20W,NR
 1:39:08,CGO,Brazzaville,CGO,2019-02-08,Armand Bazoungoula,,Male,20W,NR
 1:21:26,CHI,Adelaide,AUS,2016-02-21,Yerko Araya,1986,Male,20W,NR
 1:16:54,CHN,Huangshan,CHN,2021-03-20,Wang Kaihua,1994,Male,20W,NR
@@ -46,15 +46,15 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 1:22:21,ETH,St Pierre,MRI,2022-06-12,Yohanis Algaw,1999,Male,20W,NR
 1:18:57,ETH,Addis Ababa,ETH,2024-02-03,Misganaw Wakuma,2004,Male,20W,NR
 1:44:14,FIJ,Melbourne,AUS,2019-06-23,Pramesh Prasad,1974,Male,20W,NR
-1:18:22,FIN,Budapest,HUN,2023-08-19,Veli-Matti Partanen,1991,Male,20W,NR
-1:19:25,FIN,Lahti,FIN,2023-07-27,Veli-Matti Partanen,1991,Male,20W,NR
 1:20:42,FIN,Heinola,FIN,2000-05-07,Valentin Kononen,1969,Male,20W,NR
+1:19:25,FIN,Lahti,FIN,2023-07-27,Veli-Matti Partanen,1991,Male,20W,NR
+1:18:22,FIN,Budapest,HUN,2023-08-19,Veli-Matti Partanen,1991,Male,20W,NR
 1:17:02,FRA,Arles,FRA,2015-03-08,Yohann Diniz,1978,Male,20W,NR
 1:19:38,GBR,Gold Coast,AUS,2018-04-08,Tom Bosworth,1990,Male,20W,NR
 1:26:23,GEO,Zaniemysl,POL,2013-04-20,Maciej Rosiewicz,1977,Male,20W,NR
 1:18:42,GER,Eisenhüttenstadt,GER,2000-06-17,Andreas Erm,1976,Male,20W,NR
-1:18:12,GER,Budapest,HUN,2023-08-19,Christopher Linke,1988,Male,20W,NR
 1:18:42,GER,La Coruña,ESP,2019-06-08,Christopher Linke,1988,Male,20W,NR
+1:18:12,GER,Budapest,HUN,2023-08-19,Christopher Linke,1988,Male,20W,NR
 1:32:54,GHA,Cape Coast,GHA,2006-04-29,Ahmed-Tijani Sanni,,Male,20W,NR
 1:21:12,GRE,London,GBR,2012-08-04,Aléxandros Papamihaíl,1988,Male,20W,NR
 1:17:46,GUA,Eisenhüttenstadt,GER,1999-05-08,Julio Martínez,1973,Male,20W,NR
@@ -63,8 +63,8 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 1:25:25,HON,Danlí,HON,1988-05-15,Santiago Fonseca,1953,Male,20W,NR
 1:20:41,HUN,Podébrady,CZE,1997-04-19,Sándor Urbanik,1964,Male,20W,NR
 1:27:24,INA,Nomi,JPN,2016-03-20,Hendro,1990,Male,20W,NR
-1:19:38,IND,Chandigarh,IND,2024-01-30,Akashdeep Singh,1999,Male,20W,NR
 1:19:55,IND,Ranchi,IND,2023-02-14,Akashdeep Singh,1999,Male,20W,NR
+1:19:38,IND,Chandigarh,IND,2024-01-30,Akashdeep Singh,1999,Male,20W,NR
 1:22:52,IRI,Nomi,JPN,2016-03-20,Hamid Reza Zouravand,1990,Male,20W,NR
 1:19:22,IRL,Cheboksary,RUS,2008-05-10,Robert Heffernan,1978,Male,20W,NR
 1:37:27,IRQ,Manama,BRN,2015-04-24,Abdul Amir Razak,,Male,20W,NR
@@ -122,8 +122,8 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 1:44:12,STP,Leiria,POR,2017-12-17,Sidney Santos,,Male,20W,NR
 1:25:20,SUI,Podébrady,CZE,2013-04-13,Alex Flórez,1971,Male,20W,NR
 1:18:13,SVK,Hildesheim,GER,1990-09-16,Pavol Blazek,1958,Male,20W,NR
-1:17:39,SWE,Budapest,HUN,2023-08-19,Perseus Karlström,1990,Male,20W,NR
 1:18:07,SWE,La Coruña,ESP,2019-06-08,Perseus Karlström,1990,Male,20W,NR
+1:17:39,SWE,Budapest,HUN,2023-08-19,Perseus Karlström,1990,Male,20W,NR
 1:32:04,SYR,Damascus,SYR,1987-07-24,Haytham Assaf,,Male,20W,NR
 1:29:40,THA,Manila,PHI,2003-09-22,Sakchai Samutkoa,1961,Male,20W,NR
 1:22:16,TJK,Cherkassy,URS,1980-04-27,Vladimir Gerus,1949,Male,20W,NR

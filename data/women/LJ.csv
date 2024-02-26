@@ -72,8 +72,8 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 6.15,+0.7,GAM,Lubbock TX,USA,2022-05-14,Wurrie Njadoe,1997,Female,LJ,NR
 7.07,+0.4,GBR,Beijing,CHN,2015-08-28,Shara Proctor,1988,Female,LJ,NR
 6.00,+1.1,GBS,Lisboa,POR,2018-04-19,Fatumata Baldé,2000,Female,LJ,NR
-6.25,,GEO,Kharkov,URS,1960-07-26,Lyudmila Ivleva,1941,Female,LJ,NR
 6.25,,GEO,Tbilisi,URS,1954-05-16,Nadezhda Dvalischvili,1933,Female,LJ,NR
+6.25,,GEO,Kharkov,URS,1960-07-26,Lyudmila Ivleva,1941,Female,LJ,NR
 5.29,+1.6,GEQ,Zaragoza,ESP,2008-05-07,Marlene Mevong Mba,,Female,LJ,NR
 7.48,+1.2,GER,Neubrandenburg,GER,1988-07-09,Heike Drechsler,1964,Female,LJ,NR
 6.94,+1.8,GHA,Birmingham,GBR,2022-08-07,Deborah Acquah,1996,Female,LJ,NR
@@ -177,8 +177,8 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 6.78,+1.8,SLO,Ptuj,SLO,2008-06-29,Nina Kolarič,1986,Female,LJ,NR
 5.69,+1.8,SMR,Nicosia,CYP,2009-06-04,Barbara Rustignoli,1984,Female,LJ,NR
 5.13,+1.3,SOL,Honiara,SOL,2023-10-25,Jovita Arunia,2002,Female,LJ,NR
-5.05,,SOM,Mogadishu,SOM,2006-05-07,Nasteho Essa Mohamud,,Female,LJ,NR
 5.05,,SOM,Mogadishu,SOM,1977-09-15,Nadifa Sheikh Aboker,,Female,LJ,NR
+5.05,,SOM,Mogadishu,SOM,2006-05-07,Nasteho Essa Mohamud,,Female,LJ,NR
 7.14,+1.2,SRB,Budapest,HUN,2023-08-20,Ivana Španović,1990,Female,LJ,NR
 6.65,-1.4,SRI,Colombo,SRI,2022-02-12,S.Lakshika Sarangi Silva,1996,Female,LJ,NR
 5.74,+1.2,SSD,Winona MN,USA,2018-04-28,Nyakume Becca Ter Dup,,Female,LJ,NR

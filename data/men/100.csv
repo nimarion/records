@@ -14,8 +14,8 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 9.93,+1.8,AUS,Mito,JPN,2003-05-05,Patrick Johnson,1972,Male,100,NR
 10.08,+1.2,AUT,St. Pölten,AUT,2023-06-08,Markus Fuchs,1995,Male,100,NR
 10.08,+1.3,AZE,Istanbul,TUR,2009-06-13,Ramil Guliyev,1990,Male,100,NR
-9.91,+1.0,BAH,Gainesville FL,USA,2023-04-15,Terrence Jones Jr.,2002,Male,100,NR
 9.91,-0.5,BAH,Osaka,JPN,2007-08-26,Derrick Atkins,1984,Male,100,NR
+9.91,+1.0,BAH,Gainesville FL,USA,2023-04-15,Terrence Jones Jr.,2002,Male,100,NR
 10.11,+1.1,BAN,London,GBR,2023-09-03,Imran Rahman,1993,Male,100,NR
 9.87,-0.2,BAR,Johannesburg,RSA,1998-09-11,Obadele Thompson,1976,Male,100,NR
 10.84,,BDI,Casablanca,MAR,1989-07-13,Kassiem Ntahimpera,,Male,100,NR
@@ -54,9 +54,9 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 9.98,+0.6,CUB,Guadalajara,ESP,1977-08-11,Silvio Leonard,1955,Male,100,NR
 9.98,+1.0,CUB,Camagüey,CUB,2019-02-22,Roberto Skyers,1991,Male,100,NR
 10.11,+1.5,CYP,Réthimno,GRE,1996-05-25,Yiannios Zisimides,1967,Male,100,NR
+10.16,+1.7,CZE,Tábor,CZE,2018-07-18,Zdeněk Stromšík,1994,Male,100,NR
 10.16,+1.6,CZE,Brno,CZE,2019-07-26,Jan Veleba,1986,Male,100,NR
 10.16,+1.0,CZE,Zlín,CZE,2021-08-14,Dominik Záleský,1995,Male,100,NR
-10.16,+1.7,CZE,Tábor,CZE,2018-07-18,Zdeněk Stromšík,1994,Male,100,NR
 10.14,+0.9,DEN,Odense,DEN,2021-06-26,Kojo Musah,1996,Male,100,NR
 11.39,,DJI,Vorst,BEL,2001-05-24,Ismael Abdallah Ismael,,Male,100,NR
 10.33,+1.9,DMA,Houston TX,USA,2008-05-03,Chris Lloyd,1980,Male,100,NR
@@ -75,10 +75,10 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 10.13,+1.3,GAB,Nice,FRA,2000-08-04,Antoine Boussombo,1968,Male,100,NR
 10.15,-1.1,GAM,Thonon-les-Bains,FRA,2022-06-19,Ebrahima Camara,1996,Male,100,NR
 9.83,+1.3,GBR,Randalls Island NY,USA,2023-06-24,Zharnel Hughes,1995,Male,100,NR
-10.36,0.0,GBS,Salamanca,ESP,2013-06-12,Ancuiam Lopes,1991,Male,100,NR
 10.36,+0.5,GBS,Salamanca,ESP,2009-07-08,Holder da Silva,1988,Male,100,NR
-10.35,-0.2,GEO,Sofia,BUL,2000-06-04,Ruslan Rusidze,1973,Male,100,NR
+10.36,0.0,GBS,Salamanca,ESP,2013-06-12,Ancuiam Lopes,1991,Male,100,NR
 10.35,+1.5,GEO,Tsakhkadzor,URS,1987-05-22,Besik Gotsridze,1961,Male,100,NR
+10.35,-0.2,GEO,Sofia,BUL,2000-06-04,Ruslan Rusidze,1973,Male,100,NR
 10.60,,GEQ,Eugene OR,USA,1986-06-07,Gustavo Envela,1968,Male,100,NR
 10.01,+1.8,GER,Mannheim,GER,2016-07-29,Julian Reus,1988,Male,100,NR
 9.90,+2.0,GHA,Austin TX,USA,2022-03-25,Benjamin Azamati,1998,Male,100,NR
@@ -89,8 +89,8 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 10.56,,GUI,L'Aigle,FRA,1997-05-01,Joseph Loua,1976,Male,100,NR
 10.66,+1.8,GUM,San Diego CA,USA,2004-06-17,Philam Garcia,1980,Male,100,NR
 10.12,+0.4,GUY,Port of Spain,TTO,2014-05-17,Adam Harris,1987,Male,100,NR
-10.16,+1.5,HAI,Columbia SC,USA,2022-04-23,Guinove Joanus,2001,Male,100,NR
 10.16,+1.5,HAI,Greensboro NC,USA,2015-05-17,Darrell Wesh,1992,Male,100,NR
+10.16,+1.5,HAI,Columbia SC,USA,2022-04-23,Guinove Joanus,2001,Male,100,NR
 10.28,+1.3,HKG,Hongkong,HKG,2010-05-16,Tsui Chi Ho,1990,Male,100,NR
 10.28,+1.8,HKG,Hongkong,HKG,2021-09-11,Ng Ka Fung,1992,Male,100,NR
 10.22,+0.3,HON,Toluca,MEX,2008-07-18,Rolando Palacios,1987,Male,100,NR
@@ -135,8 +135,8 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 10.33,+2.0,MAW,St Pierre,MRI,2022-06-08,Stern Noel Liffa,2000,Male,100,NR
 10.30,+0.4,MDA,Moskva,URS,1984-07-19,Aleksandr Afteni,1958,Male,100,NR
 10.33,+1.9,MDV,Kingston,JAM,2016-04-16,Hassan Saaid,1992,Male,100,NR
-10.21,+0.8,MEX,Xalapa,MEX,2014-08-29,José Carlos Herrera,1986,Male,100,NR
 10.21,+0.1,MEX,Toluca,MEX,1997-07-11,Carlos Villaseñor,1974,Male,100,NR
+10.21,+0.8,MEX,Xalapa,MEX,2014-08-29,José Carlos Herrera,1986,Male,100,NR
 10.62,+1.2,MGL,Almaty,KAZ,2016-06-25,Achitbileg Battulga,1986,Male,100,NR
 10.39,+1.9,MHL,Minneapolis MN,USA,1999-05-15,Roman Cress,1977,Male,100,NR
 10.50,+1.6,MKD,Hvidovre,DEN,2022-06-11,Andreas Trajkovski,1993,Male,100,NR

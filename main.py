@@ -88,6 +88,7 @@ def saveRecords(df, output):
 
     df['result'] = df['result'].astype(str)
     df['Performance'] = df['result'].apply(performance_to_float)
+    df["date"] = pd.to_datetime(df["date"], format='%Y-%m-%d')
 
     if isTechnical(discipline):
         df = df.sort_values(['nation', 'Performance'], ascending=[True, False]) 
@@ -102,6 +103,8 @@ def saveRecords(df, output):
         if os.path.exists(output):
             os.remove(output)
         return
+    
+    df = df.sort_values(['nation', 'date', 'name'], ascending=[True, True, True])
 
     df.to_csv(output, index=False)
 

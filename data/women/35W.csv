@@ -5,26 +5,26 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 3:19:25,BOL,Guayaquil,ECU,2021-05-07,Jeanethe Mamaní,1982,Female,35W,NR
 2:45:02,BRA,Eugene OR,USA,2022-07-22,Viviane Lyra,1993,Female,35W,NR
 3:31:13,CHI,Freire,CHI,2020-02-15,Michelle Varas,1998,Female,35W,NR
+2:40:37,CHN,Eugene OR,USA,2022-07-22,Qieyang Shenjie,1990,Female,35W,NR
 2:40:06,CHN,Dudince,SVK,2023-03-25,Liu Hong,1987,Female,35W,NR
 2:38:42,CHN,Wajima,JPN,2023-04-16,Liu Hong,1987,Female,35W,NR
-2:40:37,CHN,Eugene OR,USA,2022-07-22,Qieyang Shenjie,1990,Female,35W,NR
 3:26:26,CRC,San José,GUA,2019-12-14,Ilena Ocampo,1988,Female,35W,NR
 3:02:44,CRO,Dudince,SVK,2019-03-23,Ivana Renić,1996,Female,35W,NR
 2:51:50,CZE,Banská Bystrica,SVK,2021-10-17,Tereza Ďurdiaková,1991,Female,35W,NR
 2:54:40,ECU,Taicang,CHN,2018-05-05,Paola Pérez,1989,Female,35W,NR
-2:39:16,ESP,Lepe,ESP,2022-01-30,Mária Pérez,1996,Female,35W,NR
 2:44:17,ESP,Sevilla,ESP,2021-02-14,Mária Pérez,1996,Female,35W,NR
+2:39:16,ESP,Lepe,ESP,2022-01-30,Mária Pérez,1996,Female,35W,NR
 2:57:42,FIN,Eugene OR,USA,2022-07-22,Elisa Neuvonen,1991,Female,35W,NR
 3:12:25,FRA,Epinal,FRA,2019-03-17,Inès Pastorino,1992,Female,35W,NR
 3:26:29,GBR,Grosseto,ITA,2018-01-28,Molly Jade Davey,1998,Female,35W,NR
 2:58:48,GBR,Dudince,SVK,2022-04-23,Bethan Davies,1990,Female,35W,NR
-3:04:24,GER,Frankfurt,GER,2022-04-30,Emilia Lehmeyer,1997,Female,35W,NR
 3:06:20,GER,Dudince,SVK,2019-03-23,Bianka Dittrich,1993,Female,35W,NR
+3:04:24,GER,Frankfurt,GER,2022-04-30,Emilia Lehmeyer,1997,Female,35W,NR
 2:41:58,GRE,Eugene OR,USA,2022-07-22,Antigóni Drisbióti,1984,Female,35W,NR
 3:02:38,GUA,Taicang,CHN,2018-05-05,Mayra Carolina Herrera,1988,Female,35W,NR
 3:02:20,HKG,Melbourne,AUS,2022-12-04,Jessica Ching Siu Nga,1987,Female,35W,NR
-2:49:58,HUN,München,GER,2022-08-16,Viktória Madarász,1985,Female,35W,NR
 3:08:24,HUN,Budapest,HUN,2020-10-25,Rita Récsei,1996,Female,35W,NR
+2:49:58,HUN,München,GER,2022-08-16,Viktória Madarász,1985,Female,35W,NR
 2:57:54,IND,Ranchi,IND,2023-02-15,Manju Rani,1999,Female,35W,NR
 3:07:03,IRL,Dublin,IRL,2021-12-19,Kate Veale,1994,Female,35W,NR
 2:43:43,ITA,Grosseto,ITA,2020-04-26,Eleonora Giorgi,1989,Female,35W,NR
@@ -41,8 +41,8 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 2:45:51,POR,Porto de Mós,POR,2018-01-07,Inês Henriques,1980,Female,35W,NR
 2:59:27,ROU,Podébrady,CZE,2021-05-16,Ana Veronica Rodean,1984,Female,35W,NR
 3:20:25,RSA,Taicang,CHN,2018-05-05,Natalie Le Roux,1982,Female,35W,NR
-2:37:46,RUS,Chelyabinsk,RUS,2022-08-27,Margarita Nikiforova,1998,Female,35W,NR
 2:38:24,RUS,Sochi,RUS,2019-02-17,Klavdiya Afanasyeva,1996,Female,35W,NR
+2:37:46,RUS,Chelyabinsk,RUS,2022-08-27,Margarita Nikiforova,1998,Female,35W,NR
 3:14:22,SRB,Berlin,GER,2018-07-08,Dušica Topić,1982,Female,35W,NR
 3:19:49,SUI,Scanzorosciate,ITA,2005-10-19,Laura Polli,1983,Female,35W,NR
 2:57:36,SVK,Dudince,SVK,2019-03-23,Mária Czaková,1988,Female,35W,NR

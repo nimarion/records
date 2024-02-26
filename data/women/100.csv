@@ -49,8 +49,8 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 11.46,+1.6,CRC,Toronto,CAN,2015-07-21,Sharolyn Joseph,1994,Female,100,NR
 11.30,+1.1,CRO,Varaždin,CRO,2015-07-25,Andrea Ivančević,1984,Female,100,NR
 11.08,+1.8,CUB,Fort-de-France,FRA,2023-05-27,Yunisleidy García,1999,Female,100,NR
-11.25,+1.6,CYP,Nicosia,CYP,2023-07-08,Olivia Fotopoulou,1996,Female,100,NR
 11.25,+1.1,CYP,Nicosia,CYP,2016-06-18,Ramona Papaioannou,1989,Female,100,NR
+11.25,+1.6,CYP,Nicosia,CYP,2023-07-08,Olivia Fotopoulou,1996,Female,100,NR
 11.09,+1.7,CZE,Bratislava,TCH,1981-06-06,Jarmila Kratochvílová,1951,Female,100,NR
 11.32,+0.2,DEN,Hvidovre,DEN,2022-06-11,Ida Kathrine Karstoft,1995,Female,100,NR
 13.45,-3.1,DJI,Addis Ababa,ETH,2008-04-30,Fathia Ali Bouraleh,1987,Female,100,NR
@@ -94,12 +94,12 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 11.56,+0.6,ISL,Mannheim,GER,2019-06-29,Gudbjörg Jóna Bjarnadóttir,2001,Female,100,NR
 11.06,+1.2,ISR,La Chaux-de-Fonds,SUI,2022-07-03,Diana Vaisman,1998,Female,100,NR
 11.07,+1.3,ISV,London,GBR,2012-08-03,Laverne Jones-Ferrette,1981,Female,100,NR
-11.14,+0.4,ITA,Budapest,HUN,2023-08-20,Zaynab Dosso,1999,Female,100,NR
 11.14,+1.0,ITA,Lausanne,SUI,2001-07-04,Manuela Levorato,1977,Female,100,NR
+11.14,+0.4,ITA,Budapest,HUN,2023-08-20,Zaynab Dosso,1999,Female,100,NR
 11.11,+1.7,IVB,Lubbock TX,USA,2023-04-29,Adaejah Hodge,2006,Female,100,NR
 10.54,+0.9,JAM,Eugene OR,USA,2021-08-21,Elaine Thompson-Herah,1992,Female,100,NR
-11.97,,JOR,Amman,JOR,2016-06-28,Aliya Khattab Omar Boshnak,2000,Female,100,NR
 11.97,+0.1,JOR,Alger,ALG,2004-10-06,Basma Achouch,1977,Female,100,NR
+11.97,,JOR,Amman,JOR,2016-06-28,Aliya Khattab Omar Boshnak,2000,Female,100,NR
 11.21,+1.7,JPN,Hiroshima,JPN,2010-04-29,Chisato Fukushima,1988,Female,100,NR
 11.09,+0.8,KAZ,Almaty,KAZ,2016-05-24,Olga Safronova,1991,Female,100,NR
 11.19,+0.3,KEN,Nairobi,KEN,2022-06-25,Maximilia Imali,1996,Female,100,NR
@@ -120,8 +120,8 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 11.19,+1.5,LTU,London,GBR,2012-08-03,Lina Grinčikaitė Samuolė,1987,Female,100,NR
 11.02,+1.3,LUX,Dessau-Roßlau,GER,2023-06-17,Patrizia van der Weken,1999,Female,100,NR
 11.64,-1.0,MAC,New Taipei City,TPE,2023-05-27,Loi Im Lan,1998,Female,100,NR
-11.32,+1.2,MAD,Dijón,FRA,1996-05-26,Hanitriniana Rakotondrabe,1967,Female,100,NR
 11.32,+1.9,MAD,Limôges,FRA,1991-07-06,Laloa Ravaonirina,1963,Female,100,NR
+11.32,+1.2,MAD,Dijón,FRA,1996-05-26,Hanitriniana Rakotondrabe,1967,Female,100,NR
 11.45,+0.1,MAR,Durban,RSA,2016-06-22,Assia Raziki,1996,Female,100,NR
 11.50,,MAS,Kuala Lumpur,MAS,1993-05-07,Govindasamy Shanti,1967,Female,100,NR
 11.68,-0.1,MAW,Tokyo,JPN,2021-07-30,Asimenye Simwaka,1997,Female,100,NR

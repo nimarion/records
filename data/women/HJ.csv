@@ -43,12 +43,12 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 1.70,CGO,Quimper,FRA,1990-06-16,Addo Ndala,1973,Female,HJ,NR
 1.70,CGO,Antony,FRA,2016-05-07,Tania Matshoko,1993,Female,HJ,NR
 1.60,CHA,N'Djamena,CHA,1991-03-01,Christine Koumnobegue Ye,,Female,HJ,NR
-1.80,CHI,Cochabamba,BOL,2001-06-03,Kerstin Weiss,1982,Female,HJ,NR
 1.80,CHI,Santiago de Chile,CHI,1994-08-28,Alejandra Chomalí,,Female,HJ,NR
+1.80,CHI,Cochabamba,BOL,2001-06-03,Kerstin Weiss,1982,Female,HJ,NR
 1.97,CHN,Hamamatsu,JPN,1989-05-07,Jin Ling,1967,Female,HJ,NR
 1.95,CIV,Belle Vue Mauricia,MRI,1992-06-28,Lucienne N'Da,1965,Female,HJ,NR
-1.80,CMR,Yaoundé,CMR,1996-06-16,Lolita Nack,,Female,HJ,NR
 1.80,CMR,Moskva,URS,1980-07-24,Cécile Ngambi,1960,Female,HJ,NR
+1.80,CMR,Yaoundé,CMR,1996-06-16,Lolita Nack,,Female,HJ,NR
 1.68,COD,Wetzlar,GER,1985-05-18,Mimi Mwema,,Female,HJ,NR
 1.67,COK,Avarua,COK,1991-03-06,Vicki Kiel,,Female,HJ,NR
 1.94,COL,Medellín,COL,2019-05-01,María Fernanda Murillo,1999,Female,HJ,NR
@@ -77,8 +77,8 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 1.75,GAB,Vichy,FRA,1982-07-28,Fernande Agnetchoue,,Female,HJ,NR
 1.65,GAM,Bakau,GAM,2001-05-11,Mama Gassama,,Female,HJ,NR
 1.98,GBR,Río de Janeiro,BRA,2016-08-12,Katarina Johnson-Thompson,1993,Female,HJ,NR
-1.61,GBS,Abrantes,POR,2003-06-21,Placida Mirolho,,Female,HJ,NR
 1.61,GBS,Lisboa,POR,1990-12-05,Sandra Turpin,1976,Female,HJ,NR
+1.61,GBS,Abrantes,POR,2003-06-21,Placida Mirolho,,Female,HJ,NR
 1.92,GEO,Berdychiv,UKR,2015-06-27,Valentina Liashenko,1981,Female,HJ,NR
 1.56,GEQ,Malabo,GEQ,2012-10-27,Viviana Olaman,,Female,HJ,NR
 2.06,GER,Berlin,GER,2009-06-14,Ariane Friedrich,1984,Female,HJ,NR
@@ -100,8 +100,8 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 1.95,IRL,Daegu,KOR,2011-09-01,Deirdre Ryan,1982,Female,HJ,NR
 1.81,IRQ,Baghdad,IRQ,2022-03-18,Mariam Abdelhameed Abdulelah,2000,Female,HJ,NR
 1.88,ISL,Grimsby,GBR,1990-08-19,Thórdís Lilja Gísladóttir,1961,Female,HJ,NR
-1.92,ISR,Neurim,ISR,2011-08-09,Ma'ayan Shahaf,1986,Female,HJ,NR
 1.92,ISR,Barcelona,ESP,2010-07-30,Danielle Frenkel,1987,Female,HJ,NR
+1.92,ISR,Neurim,ISR,2011-08-09,Ma'ayan Shahaf,1986,Female,HJ,NR
 1.81,ISV,Bowling Green KY,USA,2019-04-06,Yashira Rhymer-Stuart,1997,Female,HJ,NR
 2.03,ITA,Milano,ITA,2007-06-24,Antonietta Di Martino,1978,Female,HJ,NR
 1.74,IVB,San José3,CRC,2023-07-23,Jah'kyla Morton,2007,Female,HJ,NR
@@ -109,16 +109,16 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 1.73,JOR,Irbid,JOR,1993-08-26,Souhad Hadad,,Female,HJ,NR
 1.96,JPN,Yokohama,JPN,2001-09-15,Miki Imai,1975,Female,HJ,NR
 2.01,KAZ,Moskva,URS,1986-07-07,Olga Turchak,1967,Female,HJ,NR
-1.75,KEN,Nairobi,KEN,2023-06-22,Zeddy Chesire,2003,Female,HJ,NR
-1.75,KEN,Nairobi,KEN,2023-06-22,Faith Kipsang,2001,Female,HJ,NR
 1.75,KEN,Nairobi,KEN,2014-05-13,Caroline Cherotich,1987,Female,HJ,NR
+1.75,KEN,Nairobi,KEN,2023-06-22,Faith Kipsang,2001,Female,HJ,NR
+1.75,KEN,Nairobi,KEN,2023-06-22,Zeddy Chesire,2003,Female,HJ,NR
 1.97,KGZ,Roma,ITA,2003-07-11,Tatyana Efimenko,1981,Female,HJ,NR
 1.50,KIR,Bairiki,KIR,2005-11-05,Kimaia Dan Murdoch,,Female,HJ,NR
 1.93,KOR,Seoul,KOR,1990-06-10,Kim Hee-sun,1963,Female,HJ,NR
 1.40,KOS,Skopje,MKD,2017-04-23,Merlinda Kryeziu,,Female,HJ,NR
 1.53,KUW,Muscat,OMA,2015-03-15,Sarah Nasser Al-Sabea,,Female,HJ,NR
-1.58,LAO,Vientiane,LAO,2012-12-17,Somkhit Bounsith,,Female,HJ,NR
 1.58,LAO,Vientiane,LAO,2000-11-06,Phommasane Khammone,,Female,HJ,NR
+1.58,LAO,Vientiane,LAO,2012-12-17,Somkhit Bounsith,,Female,HJ,NR
 1.97,LAT,Vilnius,URS,1990-08-04,Valentīna Gotovska,1965,Female,HJ,NR
 1.45,LBA,Trípoli,GRE,1991-09-30,Afaf Al Jadi,,Female,HJ,NR
 1.74,LBN,Jamhour,LBN,2021-06-12,Maysaa Mouawad,2003,Female,HJ,NR
@@ -139,8 +139,8 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 1.52,MHL,Salem,GER,2019-03-04,Rosemaline Watley,2001,Female,HJ,NR
 1.72,MKD,Latakia,SYR,1987-09-23,Marina Damcevska,1962,Female,HJ,NR
 1.69,MLI,Kumasi,GHA,2000-09-06,Yah Koïta,1980,Female,HJ,NR
-1.61,MLT,Marsa,MLT,2017-05-05,Rachela Pace,2003,Female,HJ,NR
 1.61,MLT,Marsa,MLT,2011-02-19,Chloe Gambin,1992,Female,HJ,NR
+1.61,MLT,Marsa,MLT,2017-05-05,Rachela Pace,2003,Female,HJ,NR
 1.97,MNE,Smederevo,SRB,2021-06-27,Marija Vuković,1992,Female,HJ,NR
 1.57,MNT,London,GBR,1971-05-23,Lynette Lee,,Female,HJ,NR
 1.58,MON,Nice,FRA,1995-05-27,Virginie Gollino,1974,Female,HJ,NR
@@ -168,8 +168,8 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 1.68,PAR,Ottawa,CAN,2013-06-01,Camila Pirelli,1989,Female,HJ,NR
 1.82,PER,Cali,COL,2019-06-22,Candy Toche,1998,Female,HJ,NR
 1.81,PHI,Pasig City,PHI,2005-10-12,Narcisa Atienza,1979,Female,HJ,NR
-1.50,PLE,Gaza,PLE,2005-05-05,Reem Hamayel,,Female,HJ,NR
 1.50,PLE,Damascus,SYR,1990-09-26,Faida Orabi,,Female,HJ,NR
+1.50,PLE,Gaza,PLE,2005-05-05,Reem Hamayel,,Female,HJ,NR
 1.55,PLW,Koror,PLW,2001-07-13,Carissa Subris,,Female,HJ,NR
 1.77,PNG,Port Moresby,PNG,2015-07-14,Rellie Kaputin,1993,Female,HJ,NR
 1.88,POR,Vila Real de Santo Antonio,POR,2001-06-03,Sónia Carvalho,1977,Female,HJ,NR
@@ -185,14 +185,14 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 1.83,SEN,Dakar,SEN,1984-05-27,Constance Senghor,,Female,HJ,NR
 1.92,SEY,Potchefstroom,RSA,2015-05-09,Lissa Labiche,1993,Female,HJ,NR
 1.86,SGP,Singapore,SGP,2021-10-30,Michelle Sng Suat Li,1987,Female,HJ,NR
-1.68,SKN,St Charles IL,USA,1999-05-01,Natalie Cozier,,Female,HJ,NR
 1.68,SKN,Basseterre,SKN,1995-04-30,Bernice Morton,1969,Female,HJ,NR
+1.68,SKN,St Charles IL,USA,1999-05-01,Natalie Cozier,,Female,HJ,NR
 1.83,SLE,Lamballe,FRA,1997-05-01,Eunice Barber,1974,Female,HJ,NR
 2.00,SLO,Helsinki,FIN,1994-08-14,Britta Bilac,1968,Female,HJ,NR
 1.76,SMR,San Marino,SMR,1974-06-02,Giuseppina Grassi,1957,Female,HJ,NR
-1.45,SOL,Honiara,SOL,2023-10-26,Charlyn Mamae,2000,Female,HJ,NR
 1.45,SOL,Honiara,SOL,1973-01-01,Roselyn Mason,,Female,HJ,NR
 1.45,SOL,Honiara,SOL,1995-04-25,Agnetha V,,Female,HJ,NR
+1.45,SOL,Honiara,SOL,2023-10-26,Charlyn Mamae,2000,Female,HJ,NR
 1.65,SOM,El Djezair,ALG,1978-07-24,Faduna Abdallah Hussein,,Female,HJ,NR
 1.97,SRB,Paris,FRA,2023-06-09,Angelina Topić,2005,Female,HJ,NR
 1.85,SRI,Kochi,IND,2008-03-09,Priyangika Madumanthi,1985,Female,HJ,NR
@@ -218,9 +218,9 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 1.95,TTO,College Station TX,USA,2021-05-13,Tyra Gittens,1998,Female,HJ,NR
 1.79,TUN,Nabeul,TUN,2008-06-01,Karima Benothman,,Female,HJ,NR
 1.94,TUR,Ostrava,CZE,2011-07-16,Burcu Yüksel,1990,Female,HJ,NR
+1.48,TUV,Funafuti,TUV,2011-01-01,Fanaufou,,Female,HJ,NR
 1.48,TUV,Funafuti,TUV,2011-01-01,Tepua,,Female,HJ,NR
 1.48,TUV,Funafuti,TUV,2011-01-01,Tofi,,Female,HJ,NR
-1.48,TUV,Funafuti,TUV,2011-01-01,Fanaufou,,Female,HJ,NR
 1.59,UAE,Muscat,OMA,2015-03-15,Alia Youssef Al-Hammadi,,Female,HJ,NR
 1.71,UGA,Kampala,UGA,1973-08-12,Victoria Atim,,Female,HJ,NR
 2.05,UKR,Tokyo,JPN,1995-09-15,Inga Babakova,1967,Female,HJ,NR

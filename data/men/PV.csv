@@ -18,8 +18,8 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 5.06,BAH,Nassau,BAH,2023-04-09,Brenden Vanderpool,2005,Male,PV,NR
 4.35,BAN,Dhaka,BAN,2006-04-29,Humayun Kabir,1979,Male,PV,NR
 4.61,BAR,Azusa CA,USA,2023-04-28,Aaron Worrell,1995,Male,PV,NR
-4.10,BDI,Bujumbura,BDI,1981-01-01,Venant Rwamaheke,,Male,PV,NR
 4.10,BDI,Bujumbura,BDI,1979-09-09,Pierre Ntibarashira,,Male,PV,NR
+4.10,BDI,Bujumbura,BDI,1981-01-01,Venant Rwamaheke,,Male,PV,NR
 5.85,BEL,Merzig,GER,2022-06-11,Ben Broeders,1995,Male,PV,NR
 3.50,BEN,Dakar,SEN,1957-06-30,John Godonou-Dossou,,Male,PV,NR
 3.86,BER,Tuscaloosa AL,USA,1987-05-15,Brooke Onley,,Male,PV,NR
@@ -57,8 +57,8 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 5.18,DOM,Seaside Heights NJ,USA,2016-07-31,Abbey Alcon,1994,Male,PV,NR
 5.55,ECU,Goleniow,POL,2019-06-26,José Rodolfo Pacho,1996,Male,PV,NR
 5.20,EGY,Marrakech,MAR,2023-06-21,Tamer Ashraf Mohamed,2005,Male,PV,NR
-2.60,ERI,Génève,SUI,2014-05-31,Awet Eyob,,Male,PV,NR
 2.60,ERI,Landquart,SUI,2014-05-24,Efrem Samiel,,Male,PV,NR
+2.60,ERI,Génève,SUI,2014-05-31,Awet Eyob,,Male,PV,NR
 5.35,ESA,Austin TX,USA,2019-03-28,Natán Rivera,1998,Male,PV,NR
 5.81,ESP,Barcelona,ESP,2000-09-02,Monxtu Miranda,1976,Male,PV,NR
 5.86,EST,Chiari,ITA,1993-09-05,Valeri Bukrejev,1964,Male,PV,NR
@@ -152,8 +152,8 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 4.20,PNG,Barcelona,ESP,1992-08-06,Erich Momberger,1968,Male,PV,NR
 6.02,POL,Monaco,MON,2019-07-12,Piotr Lisek,1992,Male,PV,NR
 5.71,POR,Lisboa,POR,2017-06-17,Diogo Ferreira,1990,Male,PV,NR
-5.00,PRK,Pyongyang,PRK,1996-07-25,Ja Song Gil,,Male,PV,NR
 5.00,PRK,Sofia,BUL,1990-06-02,Han Il Hak,,Male,PV,NR
+5.00,PRK,Pyongyang,PRK,1996-07-25,Ja Song Gil,,Male,PV,NR
 5.65,PUR,Abilene TX,USA,1998-05-14,Edgardo Díaz,1968,Male,PV,NR
 5.51,QAT,Oran,ALG,2023-07-05,Seifeldin Heneida Abdesalam,2005,Male,PV,NR
 5.50,ROU,Pierre-Bénite,FRA,2003-06-13,Tiberiu Agoşton,1976,Male,PV,NR
@@ -174,8 +174,8 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 5.16,SRI,Diyagama,SRI,2023-03-30,Sachin Eranga,1996,Male,PV,NR
 4.30,STP,Rio Maior,POR,2018-05-06,Edgar Campre,2000,Male,PV,NR
 4.02,SUD,Khartoum,SUD,1964-11-05,Barnaba Mariam,,Male,PV,NR
-5.71,SUI,Landau,GER,2021-07-10,Dominik Alberto,1992,Male,PV,NR
 5.71,SUI,Bern,SUI,1983-06-11,Felix Böhni,1958,Male,PV,NR
+5.71,SUI,Landau,GER,2021-07-10,Dominik Alberto,1992,Male,PV,NR
 3.70,SUR,Santiago de Chile,CHI,2014-03-15,Gayell Engeso,1994,Male,PV,NR
 5.41,SVK,Fribourg,SUI,2003-08-23,Rudolf Haraksim,1981,Male,PV,NR
 6.23,SWE,Eugene OR,USA,2023-09-17,Armand Duplantis,1999,Male,PV,NR

@@ -5,15 +5,15 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 2:25:08,ALG,Roma,ITA,2007-03-18,Souad Aït Salem,1979,Female,Mar,NR
 3:09:49,AND,Valencia,ESP,2017-11-19,Dulce Casanova Martínez,1969,Female,Mar,NR
 3:48:29,ANG,Porto,POR,2014-02-11,Cristina Saraiva,,Female,Mar,NR
-2:24:18,ARG,Sevilla,ESP,2024-02-18,Florencia Borelli,1992,Female,Mar,NR
 2:26:54,ARG,Sevilla,ESP,2022-02-20,Florencia Borelli,1992,Female,Mar,NR
+2:24:18,ARG,Sevilla,ESP,2024-02-18,Florencia Borelli,1992,Female,Mar,NR
 2:56:57,ARM,Edmonton,CAN,2001-08-12,Alexa Babakhanian,1966,Female,Mar,NR
 2:53:24,ARU,Seoul,KOR,1988-09-23,Cornelia Melis,1960,Female,Mar,NR
 3:57:15,ASA,Anchorage AK,USA,1999-06-19,Faye Ondelacy,,Female,Mar,NR
 2:21:34,AUS,Valencia,ESP,2022-12-04,Sinead Diver,1977,Female,Mar,NR
 2:30:43,AUT,Wien,AUT,2009-04-19,Andrea Mayr,1979,Female,Mar,NR
-2:30:42,AUT,Wien,AUT,2023-04-23,Julia Mayer,1993,Female,Mar,NR
 2:30:43,AUT,Wien,AUT,2020-12-13,Eva Wutti,1989,Female,Mar,NR
+2:30:42,AUT,Wien,AUT,2023-04-23,Julia Mayer,1993,Female,Mar,NR
 2:26:43,AUT,Valencia,ESP,2023-12-03,Julia Mayer,1993,Female,Mar,NR
 2:31:26,AZE,Mumbai,IND,2020-01-19,Marege Hayelom,1996,Female,Mar,NR
 2:54:37,BAH,Jacksonville FL,USA,1995-12-16,Giselle Pyfrom,,Female,Mar,NR
@@ -28,8 +28,8 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 2:34:57,BIH,Zagreb,CRO,2011-10-09,Lucia Mwihaki Kimani,1980,Female,Mar,NR
 3:05:13,BIZ,Houston TX,USA,2006-01-15,Melissa Henderson,1974,Female,Mar,NR
 2:23:54,BLR,London,GBR,2016-04-24,Volha Mazuronak,1989,Female,Mar,NR
-2:32:37,BOL,Amsterdam,NED,2023-10-15,Jhoselyn Jéssica Camargo,1996,Female,Mar,NR
 2:40:24,BOL,Sevilla,ESP,2023-02-19,Jhoselyn Jéssica Camargo,1996,Female,Mar,NR
+2:32:37,BOL,Amsterdam,NED,2023-10-15,Jhoselyn Jéssica Camargo,1996,Female,Mar,NR
 2:51:32,BOT,Durban,RSA,2008-02-10,Onkemetsi Solotate,1976,Female,Mar,NR
 2:29:17,BRA,Tokyo,JPN,2012-02-26,Adriana da Silva,1981,Female,Mar,NR
 2:20:02,BRN,Seoul,KOR,2022-04-17,Eunice Chumba,1993,Female,Mar,NR
@@ -48,13 +48,13 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 2:56:11,CMR,Douala,CMR,2021-10-31,Sabine Mendouga,,Female,Mar,NR
 3:11:14,COD,Kigali,RWA,2019-06-16,Ritha Tumaini Nzabava,2000,Female,Mar,NR
 3:32:33,COK,Avarua,COK,1980-03-05,Kiki Atonia,,Female,Mar,NR
-2:25:35,COL,Berlin,GER,2023-09-24,Angie Orjuela,1989,Female,Mar,NR
 2:29:12,COL,Valencia,ESP,2020-12-06,Angie Orjuela,1989,Female,Mar,NR
+2:25:35,COL,Berlin,GER,2023-09-24,Angie Orjuela,1989,Female,Mar,NR
 3:30:00,COM,Moroni,COM,2012-03-06,Frahati Ali,,Female,Mar,NR
 2:58:00,CPV,Padova,ITA,2003-04-27,Sonia Lopes,1975,Female,Mar,NR
-2:32:08,CRC,Valencia,ESP,2023-12-03,Diana Bogantes,1988,Female,Mar,NR
-2:33:40,CRC,London,GBR,2023-04-23,Diana Bogantes,1988,Female,Mar,NR
 2:38:22,CRC,Berlin,GER,2011-09-25,Gabriela Traña,1980,Female,Mar,NR
+2:33:40,CRC,London,GBR,2023-04-23,Diana Bogantes,1988,Female,Mar,NR
+2:32:08,CRC,Valencia,ESP,2023-12-03,Diana Bogantes,1988,Female,Mar,NR
 2:23:39,CRO,Valencia,ESP,2022-12-04,Bojana Bjeljac,1989,Female,Mar,NR
 2:36:35,CUB,Caracas,VEN,1992-12-13,Emperatriz Wilson,1966,Female,Mar,NR
 2:34:17,CYP,Gold Coast,AUS,2019-07-07,Dagmara Handzlik,1986,Female,Mar,NR
@@ -63,9 +63,9 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 2:29:34,DEN,London,GBR,1989-04-23,Dorthe Rasmussen,1960,Female,Mar,NR
 4:14:59,DMA,Paris,FRA,2015-04-12,Janelle Prevost,,Female,Mar,NR
 2:43:26,DOM,Santiago de los Caballeros,DOM,2019-11-24,Soranyi Rodriguez,1992,Female,Mar,NR
-2:24:50,ECU,Valencia,ESP,2023-12-03,Silvia Patricia Ortiz,1992,Female,Mar,NR
-2:26:34,ECU,Hamburg,GER,2023-04-23,Rosalba Chacha,1982,Female,Mar,NR
 2:27:36,ECU,Sevilla,ESP,2023-02-19,Silvia Patricia Ortiz,1992,Female,Mar,NR
+2:26:34,ECU,Hamburg,GER,2023-04-23,Rosalba Chacha,1982,Female,Mar,NR
+2:24:50,ECU,Valencia,ESP,2023-12-03,Silvia Patricia Ortiz,1992,Female,Mar,NR
 3:36:56,EGY,Alexandria,ITA,2004-08-10,Ali Mona Mahmoud Mohamed,1978,Female,Mar,NR
 2:20:29,ERI,Eugene OR,USA,2022-07-18,Nazret Weldu,1990,Female,Mar,NR
 2:49:34,ESA,San Salvador,ESA,1988-05-15,Kriscia Lorena Garcia,,Female,Mar,NR
@@ -73,8 +73,8 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 2:25:30,ESP,Valencia,ESP,2023-12-03,Fatima Ouhaddou,1993,Female,Mar,NR
 2:21:27,ESP,Valencia,ESP,2023-12-03,Majida Maayouf,1989,Female,Mar,NR
 2:27:04,EST,Torino,ITA,1997-05-11,Jane Salumäe,1968,Female,Mar,NR
-2:11:53,ETH,Berlin,GER,2023-09-24,Tigst Assefa,1996,Female,Mar,NR
 2:14:58,ETH,Valencia,ESP,2022-12-04,Amane Beriso,1991,Female,Mar,NR
+2:11:53,ETH,Berlin,GER,2023-09-24,Tigst Assefa,1996,Female,Mar,NR
 4:13:06,FIJ,Suva,FIJ,2018-07-21,Anna Cowley,,Female,Mar,NR
 2:27:26,FIN,Sevilla,ESP,2023-02-19,Alisa Vainio,1997,Female,Mar,NR
 2:24:38,FIN,Valencia,ESP,2023-12-03,Camilla Richardsson,1993,Female,Mar,NR
@@ -113,8 +113,8 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 4:24:44,IVB,Orlando FL,USA,2016-01-10,Anna Kinkead,,Female,Mar,NR
 3:08:47,JAM,San Diego CA,USA,2000-06-04,Jill Vincent,,Female,Mar,NR
 2:56:39,JOR,London,GBR,2019-04-28,Tamara Armoush,1992,Female,Mar,NR
-2:18:59,JPN,Osaka,JPN,2024-01-28,Honami Maeda,1996,Female,Mar,NR
 2:19:12,JPN,Berlin,GER,2005-09-25,Mizuki Noguchi,1978,Female,Mar,NR
+2:18:59,JPN,Osaka,JPN,2024-01-28,Honami Maeda,1996,Female,Mar,NR
 2:26:54,KAZ,Rotterdam,NED,2022-04-10,Zhanna Mamazhanova,1994,Female,Mar,NR
 2:14:04,KEN,Chicago IL,USA,2019-10-13,Brigid Kosgei,1994,Female,Mar,NR
 2:26:27,KGZ,Boston MA,USA,2000-04-17,Irina Bogacheva,,Female,Mar,NR
@@ -149,8 +149,8 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 2:39:07,MNE,London,GBR,2012-08-05,Sladjana Perunović,1984,Female,Mar,NR
 3:35:39,MON,Marrakech,MAR,1992-01-12,Adrienne Pastorelly,1961,Female,Mar,NR
 4:26:37,MOZ,New York NY,USA,2019-11-03,Arminda Matsimbe,,Female,Mar,NR
-2:29:45,MRI,Rotterdam,NED,2023-04-16,Marie Perrier,1995,Female,Mar,NR
 2:34:35,MRI,Valencia,ESP,2022-12-04,Marie Perrier,1995,Female,Mar,NR
+2:29:45,MRI,Rotterdam,NED,2023-04-16,Marie Perrier,1995,Female,Mar,NR
 2:26:19,MRI,Valencia,ESP,2023-12-03,Marie Perrier,1995,Female,Mar,NR
 2:38:42,MYA,Yangon,MYA,2004-02-13,Pa Pa,1979,Female,Mar,NR
 2:19:52,NAM,Valencia,ESP,2020-12-06,Helaria Johannes,1980,Female,Mar,NR
@@ -159,8 +159,8 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 2:18:33,NED,London,GBR,2023-04-23,Sifan Hassan,1993,Female,Mar,NR
 2:13:44,NED,Chicago IL,USA,2023-10-08,Sifan Hassan,1993,Female,Mar,NR
 2:50:11,NEP,Kathmandu,NEP,2019-12-07,Pushpa Bhandari,1996,Female,Mar,NR
-2:46:26,NEP,Dhaka,BAN,2024-01-26,Shantoshi Shrestha,1993,Female,Mar,NR
 2:49:36,NEP,Dhaka,BAN,2024-01-26,Pushpa Bhandari,1996,Female,Mar,NR
+2:46:26,NEP,Dhaka,BAN,2024-01-26,Shantoshi Shrestha,1993,Female,Mar,NR
 2:40:37,NGR,St. Louis MO,USA,2004-04-03,Mary Akor,1976,Female,Mar,NR
 3:09:49,NMI,Saipan,FRA,2012-03-03,Mamiko Oshima-Berger,,Female,Mar,NR
 2:21:06,NOR,London,GBR,1985-04-21,Ingrid Kristiansen,1956,Female,Mar,NR
@@ -181,14 +181,14 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 2:25:31,PRK,Saint-Denis,FRA,2003-08-31,Ham Bong Sil,1974,Female,Mar,NR
 2:31:10,PUR,Eugene OR,USA,2022-07-18,Beverly Ramos,1987,Female,Mar,NR
 2:51:38,PYF,New York NY,USA,2005-11-06,Sophie Gardon,1980,Female,Mar,NR
-3:50:55,QAT,Dubai,UAE,2023-01-20,Rabaah Al-Musleh,,Female,Mar,NR
 4:24:17,QAT,New York NY,USA,2019-11-03,Hanoof Al-Thani,,Female,Mar,NR
+3:50:55,QAT,Dubai,UAE,2023-01-20,Rabaah Al-Musleh,,Female,Mar,NR
 2:18:04,ROU,Seoul,KOR,2022-04-17,Joan Chelimo,1990,Female,Mar,NR
 2:25:28,RSA,Ampugnano,ITA,2021-04-11,Gerda Steyn,1990,Female,Mar,NR
 2:24:03,RSA,Valencia,ESP,2023-12-03,Gerda Steyn,1990,Female,Mar,NR
 2:20:47,RUS,Chicago IL,USA,2006-10-22,Galina Bogomolova,1977,Female,Mar,NR
-2:25:53,RWA,Firenze,ITA,2023-11-26,Clementine Mukandanga,1985,Female,Mar,NR
 2:28:00,RWA,Firenze,ITA,2022-11-27,Clementine Mukandanga,1985,Female,Mar,NR
+2:25:53,RWA,Firenze,ITA,2023-11-26,Clementine Mukandanga,1985,Female,Mar,NR
 3:11:58,SAM,Auckland,NZL,1981-11-22,Mele Steiner,,Female,Mar,NR
 3:39:17,SEN,Dakar,SEN,2021-11-21,Madjiguene Mbaye,1995,Female,Mar,NR
 3:30:53,SEY,Le Tampon,FRA,2010-06-06,Simone Jaffa,,Female,Mar,NR
@@ -202,9 +202,9 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 2:25:23,SRB,Rotterdam,NED,2003-04-13,Olivera Jevtić,1977,Female,Mar,NR
 2:34:10,SRI,Düsseldorf,GER,2019-04-28,Hiruni Wijayaratne,1990,Female,Mar,NR
 2:49:52,SUD,Dubai,UAE,2016-01-22,Chaltu Niguse,,Female,Mar,NR
+2:26:14,SUI,Bern,SUI,2021-04-03,Fabienne Schlumpf,1990,Female,Mar,NR
 2:25:27,SUI,Berlin,GER,2023-09-24,Fabienne Schlumpf,1990,Female,Mar,NR
 2:24:30,SUI,Valencia,ESP,2023-12-03,Fabienne Schlumpf,1990,Female,Mar,NR
-2:26:14,SUI,Bern,SUI,2021-04-03,Fabienne Schlumpf,1990,Female,Mar,NR
 3:40:32,SUR,Eindhoven,NED,2014-10-12,Ilsida Toemere,1991,Female,Mar,NR
 2:33:19,SVK,Wien,AUT,1990-04-22,Ludmila Melicherová,1964,Female,Mar,NR
 2:23:41,SWE,Dubai,UAE,2011-01-21,Isabellah Andersson,1980,Female,Mar,NR
@@ -222,8 +222,8 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 2:32:41,TPE,Taipei,TPE,2020-12-20,Tsao Chun-Yu,1991,Female,Mar,NR
 2:42:58,TTO,Sacramento CA,USA,2019-12-05,Tonya Nero,1988,Female,Mar,NR
 2:40:13,TUN,London,GBR,2012-08-05,Amine Ben Amor,1985,Female,Mar,NR
-2:21:27,TUR,Valencia,ESP,2023-12-03,Sultan Haydar,1987,Female,Mar,NR
 2:24:44,TUR,Dubai,UAE,2015-01-23,Sultan Haydar,1987,Female,Mar,NR
+2:21:27,TUR,Valencia,ESP,2023-12-03,Sultan Haydar,1987,Female,Mar,NR
 2:27:08,UAE,Sevilla,ESP,2023-02-19,Alia Mohamed Saeed,1991,Female,Mar,NR
 2:22:47,UGA,Abu Dhabi,UAE,2022-12-17,Rebecca Cheptegei,1991,Female,Mar,NR
 2:20:23,UGA,Hamburg,GER,2023-04-23,Stella Chesang,1996,Female,Mar,NR
@@ -235,11 +235,11 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 2:36:15,VEN,Valencia,ESP,2019-12-01,Magaly Garcia,1989,Female,Mar,NR
 2:36:07,VEN,Caracas,VEN,2023-03-19,Magaly Garcia,1969,Female,Mar,NR
 2:31:45,VEN,Valencia,ESP,2023-12-03,Magaly Garcia,1969,Female,Mar,NR
-2:44:51,VIE,Hongkong,HKG,2024-01-21,Thi Ngoc Hoa Hoang,2000,Female,Mar,NR
 2:45:10,VIE,Hanoi,VIE,2016-11-24,Hoang Thi Thanh,,Female,Mar,NR
+2:44:51,VIE,Hongkong,HKG,2024-01-21,Thi Ngoc Hoa Hoang,2000,Female,Mar,NR
 3:18:44,VIN,Port of Spain,TTO,2003-01-26,Adelaide Carrington,,Female,Mar,NR
-4:51:53,YEM,Berlin,GER,2019-09-29,Buthainah Al-Baity,,Female,Mar,NR
 5:15:03,YEM,London,GBR,2019-04-28,Buthainah Al-Baity,,Female,Mar,NR
+4:51:53,YEM,Berlin,GER,2019-09-29,Buthainah Al-Baity,,Female,Mar,NR
 2:52:31,ZAM,Victoria Falls,ZIM,2019-07-07,Felistus Chitoshi,1997,Female,Mar,NR
 2:50:56,ZAM,Cape Town,RSA,2023-10-15,Elizabeth Mukoloma,1997,Female,Mar,NR
 2:29:20,ZIM,Seoul,KOR,2008-03-16,Thabita Tsatsa,1972,Female,Mar,NR

@@ -39,12 +39,12 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 7.95,-0.7,CGO,Rabat,MAR,2019-08-28,Archel Evrard Biniakounou,1993,Male,LJ,NR
 7.42,,CHA,El Djezair,ALG,1978-07-25,Kemobe Djimassal,1954,Male,LJ,NR
 8.08,+1.9,CHI,Santiago de Chile,CHI,2012-04-21,Daniel Pineda,1985,Male,LJ,NR
-8.47,+0.7,CHN,Guiyang,CHN,2018-06-16,Wang Jianan,1996,Male,LJ,NR
 8.47,0.0,CHN,Bad Langensalza,GER,2014-06-28,Li Jinzhe,1989,Male,LJ,NR
+8.47,+0.7,CHN,Guiyang,CHN,2018-06-16,Wang Jianan,1996,Male,LJ,NR
 7.74,,CIV,Viry-Châtillon,FRA,1976-03-07,Brou Kouakou,1948,Male,LJ,NR
 8.03,,CMR,Bafoussam,CMR,2019-03-02,Marcel Mayack,1990,Male,LJ,NR
-7.64,+1.1,COD,Pierre-Bénite,FRA,2006-06-09,Jean Kamanda-Mbuyi,1980,Male,LJ,NR
 7.64,,COD,Heusden,BEL,1997-08-31,Djeke Mambo,1977,Male,LJ,NR
+7.64,+1.1,COD,Pierre-Bénite,FRA,2006-06-09,Jean Kamanda-Mbuyi,1980,Male,LJ,NR
 7.16,,COK,Nikao,COK,2003-02-06,Harmon Harmon,1980,Male,LJ,NR
 8.29,+0.6,COL,São Paulo,BRA,2023-07-28,Arnovis Dalmero,2000,Male,LJ,NR
 6.97,,COM,Mutsamudu,COM,2014-06-15,Saïd Ali Saïd,,Male,LJ,NR
@@ -52,8 +52,8 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 7.59,+1.9,CRC,Gandía,ESP,2022-06-03,Rasheed Shamir Miller,2000,Male,LJ,NR
 8.23,0.0,CRO,Zagreb,CRO,2002-06-05,Siniša Ergotić,1968,Male,LJ,NR
 8.71,+1.9,CUB,Salamanca,ESP,1995-07-18,Iván Pedroso,1972,Male,LJ,NR
-7.86,+1.0,CYP,Haniá,GRE,1986-05-24,Michalis Rodosthenous,1959,Male,LJ,NR
 7.86,+0.8,CYP,Nicosia,CYP,1982-03-25,Dimitris Araouzos,1961,Male,LJ,NR
+7.86,+1.0,CYP,Haniá,GRE,1986-05-24,Michalis Rodosthenous,1959,Male,LJ,NR
 8.31,+1.4,CZE,Taipei,TPE,2017-08-27,Radek Juška,1993,Male,LJ,NR
 8.25,+0.5,DEN,Göteborg/U,SWE,2005-07-02,Morten Jensen,1982,Male,LJ,NR
 6.89,,DJI,Aubagne,FRA,1985-08-06,Mohamed Gouled,,Male,LJ,NR
@@ -152,8 +152,8 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 8.10,+1.9,NOR,Monachil,ESP,2019-08-17,Ingar Bratseth-Kiplesund,1996,Male,LJ,NR
 6.67,,NRU,Brisbane,AUS,2016-10-21,Jonah Harris,1999,Male,LJ,NR
 8.05,,NZL,Wangarei,USA,1968-01-31,Bob Thomas,1939,Male,LJ,NR
-7.75,-0.4,OMA,Marrakech,MAR,2023-06-24,Salem Saleh El-Jerbi,1994,Male,LJ,NR
 7.75,,OMA,Tallinn,EST,1994-08-05,Ahmad Hudeib Al-Mamari,1972,Male,LJ,NR
+7.75,-0.4,OMA,Marrakech,MAR,2023-06-24,Salem Saleh El-Jerbi,1994,Male,LJ,NR
 7.79,,PAK,Islamabad,PAK,1989-10-21,Muhammad Urfaq,,Male,LJ,NR
 8.73,+1.2,PAN,Hengelo,NED,2008-05-24,Irving Saladino,1983,Male,LJ,NR
 7.42,,PAR,Asunción,PAR,1987-07-25,Olegario Olmedo,,Male,LJ,NR

@@ -37,15 +37,15 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 1:05:32,CHA,Niort,FRA,2015-10-18,Ahmat Abdou-Daoud,1985,Male,HM,NR
 1:01:32,CHI,Gdynia,POL,2020-10-17,Carlos Díaz,1993,Male,HM,NR
 1:02:33,CHN,Beijing,CHN,2008-10-19,Chen Shangdong,1992,Male,HM,NR
-1:06:19,CIV,Berlin,GER,2023-04-02,Jonathan Atse-Herrera,1987,Male,HM,NR
 1:07:10,CIV,Belp,SUI,2020-10-18,Jonathan Atse-Herrera,1987,Male,HM,NR
+1:06:19,CIV,Berlin,GER,2023-04-02,Jonathan Atse-Herrera,1987,Male,HM,NR
 1:05:26,CIV,Valencia,ESP,2023-10-22,Jonathan Atse-Herrera,1987,Male,HM,NR
 1:04:53,CMR,Longeville-les-Metz,FRA,1998-07-25,Pierre Foka,1972,Male,HM,NR
 1:03:06,COD,Clichy,DJI,2003-10-19,Patrick Tambwé,1975,Male,HM,NR
 1:27:04,COK,Nikao,COK,1983-11-10,Olfred Maiteao,,Male,HM,NR
 1:01:29,COL,Kyoto,JPN,1996-03-10,Herder Vásquez,1967,Male,HM,NR
-1:07:54,COM,Antananarivo,MAD,2023-09-03,Mohamed Miftahou,1998,Male,HM,NR
 1:08:30,COM,Moroni,COM,2012-03-06,Mouhamadi Daou Bacar,,Male,HM,NR
+1:07:54,COM,Antananarivo,MAD,2023-09-03,Mohamed Miftahou,1998,Male,HM,NR
 1:02:47,CPV,Barcelona,ESP,2023-02-19,Samuel Freire,1990,Male,HM,NR
 1:02:57,CRC,Philadelphia PA,USA,1996-09-22,José Luis Molina,1965,Male,HM,NR
 1:03:47,CRO,Riva del Garda,ITA,1993-09-24,Drago Paripovic,1959,Male,HM,NR
@@ -69,6 +69,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 1:17:36,FSM,Kolonia,FSM,2014-07-24,Magdano Marquez,,Male,HM,NR
 1:10:04,GAB,Libreville,GAB,2013-01-12,Daniel Obongui,,Male,HM,NR
 1:04:57,GAM,Riva del Garda,ITA,2018-11-11,Ousman Jaiteh,1990,Male,HM,NR
+1:04:33,GAM,Milano,ITA,2023-11-26,Nfamara Njie,1998,Male,HM,NR
 59:32,GBR,Lisboa,POR,2015-03-22,Mo Farah,1983,Male,HM,NR
 1:14:13,GBS,Macau,MAC,2013-01-12,Alexandre Djata,,Male,HM,NR
 1:08:06,GEQ,Nuaillé,FRA,2018-03-18,Benjamin Enzema,1989,Male,HM,NR
@@ -92,8 +93,8 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 1:00:49,IRL,New York NY,USA,2011-03-20,Alistair Cragg,1980,Male,HM,NR
 1:06:44,IRQ,Rauma,FIN,2022-04-17,Ali Abdulrahman,1996,Male,HM,NR
 1:02:47,ISL,Gdynia,POL,2020-10-17,Hlynur Andrésson,1993,Male,HM,NR
-1:00:52,ISR,Gdynia,POL,2020-10-17,Tadesse Getahon,1997,Male,HM,NR
 1:00:52,ISR,Tallinn,EST,2019-09-08,Maru Teferi,1992,Male,HM,NR
+1:00:52,ISR,Gdynia,POL,2020-10-17,Tadesse Getahon,1997,Male,HM,NR
 1:04:32,ISV,Hardeeville SC,USA,2020-12-06,Eddie Garcia,1992,Male,HM,NR
 59:26,ITA,Napoli,ITA,2022-02-27,Yemaneberhan Crippa,1996,Male,HM,NR
 1:18:32,IVB,Road Town,IVB,2019-11-30,Rasa Alula Nagarit,,Male,HM,NR
@@ -109,9 +110,9 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 1:02:58,KSA,København,DEN,2014-03-29,Abdullah Abdulaziz Al-Joud,1975,Male,HM,NR
 1:06:06,KUW,Houston TX,USA,2022-01-16,Abdul Mohsen Mubarak Al-Ali,1998,Male,HM,NR
 1:11:56,LAO,Khon Kaen,THA,2014-01-26,Sysavath Thammavongchit,,Male,HM,NR
-1:04:23,LAT,Almería,ESP,2023-02-05,Dmitrijs Serjogins,1993,Male,HM,NR
-1:04:43,LAT,Barcelona,ESP,2021-10-17,Dmitrijs Serjogins,1993,Male,HM,NR
 1:04:43,LAT,Lisboa,POR,2011-03-20,Valērijs Žolnerovičs,1985,Male,HM,NR
+1:04:43,LAT,Barcelona,ESP,2021-10-17,Dmitrijs Serjogins,1993,Male,HM,NR
+1:04:23,LAT,Almería,ESP,2023-02-05,Dmitrijs Serjogins,1993,Male,HM,NR
 1:02:08,LBA,Houston TX,USA,2022-01-16,Mohamed Hrezi,1991,Male,HM,NR
 1:05:28,LBN,Limassol,CYP,2010-02-28,Hussein Awada,1973,Male,HM,NR
 1:04:52,LCA,Jacksonville FL,USA,2002-11-28,Zepherinus Joseph,1975,Male,HM,NR
@@ -133,8 +134,8 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 1:00:28,MEX,Oslo,NOR,1994-09-24,Germán Silva,1968,Male,HM,NR
 1:02:10,MGL,Marugame,JPN,2016-02-07,Ser-Od Bat-Ochir,1981,Male,HM,NR
 1:32:32,MHL,Kolonia,FSM,2002-07-26,Jesse Napolitani,,Male,HM,NR
-1:04:45,MKD,Bitola,MKD,2023-09-03,Dario Ivanovski,1997,Male,HM,NR
 1:04:54,MKD,Tirane,ALB,2022-04-10,Dario Ivanovski,1997,Male,HM,NR
+1:04:45,MKD,Bitola,MKD,2023-09-03,Dario Ivanovski,1997,Male,HM,NR
 1:06:35,MLI,Dakar,SEN,2001-03-19,Youssouf Diallo,1976,Male,HM,NR
 1:03:41,MLT,Houston TX,USA,2023-01-15,Jordan Gusman,1994,Male,HM,NR
 1:06:15,MNE,Negotin,SRB,1997-07-19,Drago Music,1968,Male,HM,NR
@@ -153,9 +154,9 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 59:48,NOR,Valencia,ESP,2017-10-22,Sondre Nordstad Moen,1991,Male,HM,NR
 59:47,NZL,Marugame,JPN,2015-02-01,Zane Robertson,1989,Male,HM,NR
 1:10:19,OMA,Muscat,OMA,2017-01-27,Abdullah Salim Al-Quraini,1990,Male,HM,NR
-1:07:07,PAK,Dubai,UAE,2023-11-11,Sohail Amir,1997,Male,HM,NR
 1:21:33,PAK,Ras Al Khaimah,UAE,2019-02-08,Azmat Khan,,Male,HM,NR
 1:08:41,PAK,Dhaka,BAN,2023-01-20,Sohail Amir,1997,Male,HM,NR
+1:07:07,PAK,Dubai,UAE,2023-11-11,Sohail Amir,1997,Male,HM,NR
 1:04:36,PAN,Valencia,ESP,2020-12-06,Jorge Castelblanco,1987,Male,HM,NR
 1:03:19,PAR,Valencia,ESP,2018-03-24,Derlis Ayala,1990,Male,HM,NR
 1:02:11,PER,Valencia,ESP,2018-03-24,Wily Canchanya,1991,Male,HM,NR
@@ -208,15 +209,15 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 1:04:15,TTO,Jacksonville FL,USA,1997-11-27,Ronnie Holassie,1971,Male,HM,NR
 1:01:53,TUN,Brugnera,ITA,2005-04-17,Rached Amor,,Male,HM,NR
 59:48,TUR,Ras Al Khaimah,UAE,2019-02-08,Kaan Kigen Özbilen,1986,Male,HM,NR
-1:05:21,UAE,Ajman,UAE,2022-12-31,Mubarak Al-Marashda,1987,Male,HM,NR
 1:05:52,UAE,Ras Al Khaimah,UAE,2019-02-08,Mubarak Al-Marashda,1987,Male,HM,NR
+1:05:21,UAE,Ajman,UAE,2022-12-31,Mubarak Al-Marashda,1987,Male,HM,NR
 57:31,UGA,Lisboa,POR,2021-11-21,Jacob Kiplimo,2000,Male,HM,NR
 1:00:40,UKR,Gdynia,POL,2020-10-17,Bohdan-Ivan Horodyskyy,1994,Male,HM,NR
 1:02:36,URU,København,DEN,2022-09-18,Cristian Zamora,1991,Male,HM,NR
 1:02:15,URU,Santa Pola,ESP,2024-01-21,Nicolás Cuestas,1986,Male,HM,NR
 59:43,USA,Houston TX,USA,2007-01-14,Ryan Hall,1982,Male,HM,NR
-1:03:41,UZB,Tashkent,UZB,2023-03-12,Shokhrukh Davlyatov,1996,Male,HM,NR
 1:04:27,UZB,Dushanbe,TJK,2012-04-21,Andrey Petrov,1986,Male,HM,NR
+1:03:41,UZB,Tashkent,UZB,2023-03-12,Shokhrukh Davlyatov,1996,Male,HM,NR
 1:03:33,UZB,Istanbul,TUR,2023-04-30,Shokhrukh Davlyatov,1996,Male,HM,NR
 1:12:39,VAN,Gold Coast,AUS,2010-04-07,Philip Younki Nausien,1979,Male,HM,NR
 1:03:09,VEN,Valencia,ESP,2018-03-24,Luis Alberto Orta,1989,Male,HM,NR
@@ -224,5 +225,5 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,event,type
 1:05:43,VIN,Toronto,CAN,2002-09-15,Pamenos Ballantyne,1973,Male,HM,NR
 1:09:28,YEM,Bruxelles,BEL,2002-05-05,Ahmad Saleh Jouaim,,Male,HM,NR
 1:01:30,ZAM,Oslo,NOR,1994-09-24,Fackson Nkandu,1971,Male,HM,NR
-1:00:26,ZIM,Udine,ITA,2007-10-14,Cuthbert Nyasango,1982,Male,HM,NR
 1:00:26,ZIM,Remich-Grevenmacher,LUX,1995-09-24,Tendai Chimusasa,1971,Male,HM,NR
+1:00:26,ZIM,Udine,ITA,2007-10-14,Cuthbert Nyasango,1982,Male,HM,NR
