@@ -76,8 +76,8 @@ if __name__ == '__main__':
         if nationleadFile:
             df["type"] = df["nation"]
 
-        # replace all nan with empty string
         df = df.fillna("")
+        df = df.replace("nan", "")
 
         outputDf = pd.concat([outputDf, df])
 
