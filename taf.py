@@ -79,6 +79,9 @@ if __name__ == '__main__':
         df = df.fillna("")
         df = df.replace("nan", "")
 
+        if leadFile:
+            df = df.drop_duplicates(subset=["discipline", "code", "sex"], keep="first")
+
         outputDf = pd.concat([outputDf, df])
 
     outputDf.to_csv(args.output, index=False)
