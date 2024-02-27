@@ -59,7 +59,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 13.57,0.6,EGY,Oran,ALG,2023-07-07,Esraa Owis,1997.0,Female,TJ,NR,Outdoor
 10.64,1.0,ERI,Klagenfurt,AUT,2018-09-19,Arsema Kifle,,Female,TJ,NR,Outdoor
 12.81,,ESA,San Salvador,ESA,2006-04-09,Maria Carrillo,1984.0,Female,TJ,NR,Outdoor
-14.87,0.5,ESP,Tokyo,JPN,2021-08-01,Ana Peleteiro,1995.0,Female,TJ,NR,Outdoor
+14.87,0.5,ESP,Tokyo,JPN,2021-08-01,Ana Peleteiro-Compaoré,1995.0,Female,TJ,NR,Outdoor
 14.43,0.6,EST,Beijing,CHN,2006-08-17,Kaire Leibak,1988.0,Female,TJ,NR,Outdoor
 13.29,,ETH,Addis Ababa,ETH,2024-01-31,Ajuda Umed,,Female,TJ,NR,Outdoor
 12.86,-0.7,FIJ,Claremont CA,USA,2013-04-13,Milika Tuivanuavou,1990.0,Female,TJ,NR,Outdoor
@@ -243,7 +243,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 14.87,,CZE,Maebashi,JPN,1999-03-07,Šárka Kašpárková,1971.0,Female,TJ,NR,Indoor
 13.72,,DEN,Liévin,FRA,2020-02-29,Janne Nielsen,1993.0,Female,TJ,NR,Indoor
 14.62,,DMA,Albuquerque NM,USA,2022-01-22,Thea LaFond,1994.0,Female,TJ,NR,Indoor
-14.73,,ESP,Glasgow,GBR,2019-03-03,Ana Peleteiro,1995.0,Female,TJ,NR,Indoor
+14.73,,ESP,Glasgow,GBR,2019-03-03,Ana Peleteiro-Compaoré,1995.0,Female,TJ,NR,Indoor
 14.26,,EST,Tartu,EST,2008-02-09,Kaire Leibak,1988.0,Female,TJ,NR,Indoor
 14.38,,FIN,Madrid,ESP,2019-02-08,Kristiina Mäkelä,1992.0,Female,TJ,NR,Indoor
 14.53,,FRA,Athína,GRE,2008-02-13,Teresa Nzola Meso Ba,1983.0,Female,TJ,NR,Indoor
