@@ -24,13 +24,14 @@ jobs:
           python cleanup.py --input worldrecords
           python cleanup.py --input nationalrecords
           python cleanup.py --input arearecords
-          python taf.py
+          python taf.py --input nationalrecords --output nationalrecords/taf.csv
+          python taf.py --input worldrecords --output worldrecords/taf.csv
+          python taf.py --input arearecords --output arearecords/taf.csv
           git config user.name Github Action
           git config user.email actions@github.com
           git add nationalrecords/*
           git add worldrecords/*
           git add arearecords/*
-          git add taf.csv
           timestamp=$(date -u)
           git commit -m "update records data: ${timestamp}" || exit 0
           git push

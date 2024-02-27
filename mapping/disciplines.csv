@@ -1,0 +1,40 @@
+tilastopaja_nr,tilastopaja_wr_ar,taf,worldathletics_ranking
+50,,50M,50-metres
+60,60m,60M,60-metres	
+100,100m,100,100-metres	
+200,200m,200,200-metres	
+300,,300,300-metres
+400,400m,400,400-metres	
+600,,600,600-metres
+800,800m,800,800-metres	
+1000,1000m,1K0,1000-metres
+1500,1500m,1K5,1500-metres	
+Mile,One Mile,MEI,one-mile
+2000,2000m,2K0,2000-metres
+3000,3000m,3K0,3000-metres
+5000,5000m,5K0,5000-metres
+10000,"10,000m",10K,10000-metres
+50H,,50H,50-metres-hurdles
+60H,60m Hurdles,60H,60-metres-hurdles
+100H,100m Hurdles,10H,100-metres-hurdles
+110H,110m Hurdles,11H,110-metres-hurdles
+300H,,30H,
+400H,400m Hurdles,40H,400-metres-hurdles
+2000S,,2KH,2000-metres-steeplechase
+3000S,3000m Steeplechase,3KH,3000-metres-steeplechase
+4x1,4 x 100m,4×1,4x100-metres-relay
+4x2,4 x 200m,4×2,4x200-metres-relay
+4x4,4 x 400m,4×4,4x400-metres-relay
+4x8,4 x 800m,4×8,4x800-metres-relay
+HJ,High Jump,HOC,high-jump
+PV,Pole Vault,STA,pole-vault
+LJ,Long Jump,WEI,long-jump
+TJ,Triple Jump,DRE,triple-jump
+SP,Shot Put,KUG,shot-put
+DT,Discus Throw,DIS,discus-throw
+HT,Hammer Throw,HAM,hammer-throw
+JT,Javelin Throw,SPE,javelin-throw
+20000W,,2G,
+3000W,3000m Race Walk,3G,3000-metres-race-walk
+5000W,5000m Race Walk,5G,5000-metres-race-walk
+10000W,"10,000m Race Walk",10G,10000-metres-race-walk

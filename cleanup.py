@@ -65,6 +65,8 @@ if __name__ == '__main__':
     else:
         files.append(args.input)
 
+    files = [f for f in files if not "taf.csv" in str(f)]
+
     for file in files:
         df = pd.read_csv(file)
         outputDf = pd.DataFrame()

@@ -1,34 +1,65 @@
-import pathlib
 import pandas as pd
+import argparse
+import pathlib
+import os
+
+
 
 if __name__ == '__main__':
-    folder_path = pathlib.Path("nationalrecords")
-    csv_files = folder_path.rglob("*.csv")
+    argparser = argparse.ArgumentParser()
+    argparser.add_argument(
+        '--input', help='Input file or folder', required=True)
+    argparser.add_argument(
+        '--output', help='Output file', required=True)
+    args = argparser.parse_args()
 
-    tafDisciplines = pd.read_csv("disciplines.csv")
+    disciplineMapping = pd.read_csv("mapping/disciplines.csv").astype(str)
+    areaMapping = pd.read_csv("mapping/areas.csv").astype(str)
 
-    taf_df = pd.DataFrame()
+    files = []
 
-    # loop through tafDisciplines
-    for index, row in tafDisciplines.iterrows():
-        tafDiscipline = row['taf']
-        tilastopajaDiscipline = row['tilastopaja']
+    if not os.path.isfile(args.input):
+        folder_path = pathlib.Path(args.input)
+        files = folder_path.rglob("*.csv")
+    else:
+        files.append(args.input)
 
-        for s in ["women", "men"]:
-            filename = f"nationalrecords/{s}/{tilastopajaDiscipline}.csv"
+    outputDf = pd.DataFrame()
+    
+    for file in files:
+        df = pd.read_csv(file).astype(str)
+        areaFile = 'type' in df.columns and df['type'].str.contains(
+            'AR').any()
+        worldrecordFile = 'type' in df.columns and df['type'].str.contains(
+            'WR').any()
+        nationrecordFile = 'type' in df.columns and df['type'].str.contains(
+            'NR').any()
+        
+        df["discipline"] = df["discipline"].astype(str) 
+        
+        # map discipline to taf
+        if areaFile or worldrecordFile:
+            mapping = disciplineMapping[["tilastopaja_wr_ar", "taf"]]
+            mapping.columns = ["discipline", "taf"]
+            df = pd.merge(df, mapping, on="discipline", how="left")
+        elif nationrecordFile:
+            mapping = disciplineMapping[["tilastopaja_nr", "taf"]]
+            mapping.columns = ["discipline", "taf"]
+            mapping["discipline"] = mapping["discipline"].astype(str)
+            df = pd.merge(df, mapping, on="discipline", how="left")
+        
+        df = df.drop(columns=["discipline"])
+        df = df.rename(columns={"taf": "discipline"})
+        df = df.dropna(subset=["discipline"])
 
-            if not pathlib.Path(filename).exists():
-                continue
-                
-            df = pd.read_csv(filename)
-            df["event"] = tafDiscipline;
-            df["class"] = "M" if s == "men" else "W"
-            df["sex"] = "Male" if s == "men" else "Female"
-
-            taf_df = pd.concat([taf_df, df])
-
-
-    taf_df.to_csv("taf.csv", index=False)
-    taf_df.to_excel("taf.xlsx", index=False)
-
-            
+        # map area to taf
+        if areaFile:
+            df["Country"] = df["nation"]
+            df = pd.merge(df, areaMapping, on="Country", how="left")
+            # drop area column
+            df = df.drop(columns=["area"])
+            df = df.rename(columns={"AreaId": "area"})
+        
+        outputDf = pd.concat([outputDf, df])
+    
+    outputDf.to_csv(args.output, index=False)
