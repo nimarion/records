@@ -78,7 +78,7 @@ if __name__ == '__main__':
         df['Performance'] = df['result'].apply(performance_to_float)
         df["date"] = pd.to_datetime(df["date"], format='%Y-%m-%d')
 
-        areaCleanup = 'area' in df.columns
+        arearecordCleanup = 'area' in df.columns
         worldrecordCleanup = 'type' in df.columns and df['type'].str.contains(
             'WR').any()
         nationalrecordCleanup = 'type' in df.columns and df['type'].str.contains(
@@ -94,7 +94,7 @@ if __name__ == '__main__':
                     isTechnical)]
 
                 if not technical_rows.empty:
-                    if areaCleanup:
+                    if arearecordCleanup:
                         technical_rows = technical_rows.sort_values(
                             ['discipline', 'area', 'Performance'], ascending=[True, True, False])
                         technical_rows = technical_rows.groupby(['area', 'discipline']).apply(
@@ -111,7 +111,7 @@ if __name__ == '__main__':
                             lambda x: x[x['Performance'] == x['Performance'].max()]).reset_index(drop=True)
 
                 if not non_technical_rows.empty:
-                    if areaCleanup:
+                    if arearecordCleanup:
                         non_technical_rows = non_technical_rows.sort_values(
                             ['discipline', 'area', 'Performance'], ascending=[True, True, True])
                         non_technical_rows = non_technical_rows.groupby(['area', 'discipline']).apply(
@@ -130,7 +130,7 @@ if __name__ == '__main__':
                 outputDf = pd.concat(
                     [outputDf, technical_rows, non_technical_rows])
 
-        if areaCleanup:
+        if arearecordCleanup:
             outputDf = outputDf.sort_values(
                 ['sex', 'environment', 'discipline',  'area', 'date'], ascending=[False, False, True, True, True]
             )
