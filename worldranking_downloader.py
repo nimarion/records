@@ -16,10 +16,10 @@ for index, row in df.iterrows():
     
     for sex in sex:
         os.system(f"python worldranking.py --type {type} --discipline {discipline} --sex {sex} --ageCategory senior --year {year} --regionType world --output leads/world/{sex}-{discipline}.csv")
-        #os.system(f"python worldranking.py --type {type} --discipline {discipline} --sex {sex} --ageCategory senior --year {year} --regionType area --region europe --output leads/area/europe/{sex}-{discipline}.csv")
-        #os.system(f"python worldranking.py --type {type} --discipline {discipline} --sex {sex} --ageCategory senior --year {year} --regionType area --region africa --output leads/area/africa/{sex}-{discipline}.csv")
-        #os.system(f"python worldranking.py --type {type} --discipline {discipline} --sex {sex} --ageCategory senior --year {year} --regionType area --region asia --output leads/area/asia/{sex}-{discipline}.csv")
-        #os.system(f"python worldranking.py --type {type} --discipline {discipline} --sex {sex} --ageCategory senior --year {year} --regionType area --region \"north and central america\" --output leads/area/naca/{sex}-{discipline}.csv")
-        #os.system(f"python worldranking.py --type {type} --discipline {discipline} --sex {sex} --ageCategory senior --year {year} --regionType area --region oceania --output leads/area/oceania/{sex}-{discipline}.csv")
-        #os.system(f"python worldranking.py --type {type} --discipline {discipline} --sex {sex} --ageCategory senior --year {year} --regionType area --region \"south america\" --output leads/area/sa/{sex}-{discipline}.csv")
+        os.system(f"python worldranking.py --type {type} --discipline {discipline} --sex {sex} --ageCategory senior --year {year} --regionType area --region europe --output leads/area/europe/{sex}-{discipline}.csv")
+        os.system(f"python worldranking.py --type {type} --discipline {discipline} --sex {sex} --ageCategory senior --year {year} --regionType area --region africa --output leads/area/africa/{sex}-{discipline}.csv")
+        os.system(f"python worldranking.py --type {type} --discipline {discipline} --sex {sex} --ageCategory senior --year {year} --regionType area --region asia --output leads/area/asia/{sex}-{discipline}.csv")
+        os.system(f"python worldranking.py --type {type} --discipline {discipline} --sex {sex} --ageCategory senior --year {year} --regionType area --region \"north and central america\" --output leads/area/naca/{sex}-{discipline}.csv")
+        os.system(f"python worldranking.py --type {type} --discipline {discipline} --sex {sex} --ageCategory senior --year {year} --regionType area --region oceania --output leads/area/oceania/{sex}-{discipline}.csv")
+        os.system(f"python worldranking.py --type {type} --discipline {discipline} --sex {sex} --ageCategory senior --year {year} --regionType area --region \"south america\" --output leads/area/sa/{sex}-{discipline}.csv")
         os.system(f"python worldranking.py --type {type} --discipline {discipline} --sex {sex} --ageCategory senior --year {year} --regionType countries --region ger --output leads/country/ger/{sex}-{discipline}.csv") 

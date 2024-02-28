@@ -64,14 +64,14 @@ if __name__ == '__main__':
         df = df.rename(columns={"taf": "discipline"})
         df = df.dropna(subset=["discipline"])
 
+        df = df.rename(columns={"type": "code"})
+
         # map area to taf
         if arearecordFile or arealeadFile:
             df["Country"] = df["nation"]
             df = pd.merge(df, areaMapping, on="Country", how="left")
             df = df.drop(columns=["area", "Country"], errors="ignore")
             df = df.rename(columns={"AreaId": "type"})
-
-        df = df.rename(columns={"type": "code"})
 
         if nationleadFile:
             df["type"] = df["nation"]
@@ -80,8 +80,8 @@ if __name__ == '__main__':
         df = df.replace("nan", "")
 
         if leadFile:
-            df = df.drop(columns=["rank"])
-            df = df.drop_duplicates(subset=["discipline", "code", "sex"], keep="first")
+            df = df[df["rank"] == "1"]
+            df = df.drop(columns=["rank", "region"])
 
         outputDf = pd.concat([outputDf, df])
 
