@@ -1,529 +1,529 @@
-result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,environment,code,discipline,Country,code
-26:11.00,nan,UGA,Valencia,ESP,2020-10-07,Joshua Cheptegei,1996.0,Male,Outdoor,AR,10K,UGA,4
-26:38.76,nan,QAT,Bruxelles,BEL,2003-09-05,Abdullah Ahmad Hassan,1981.0,Male,Outdoor,AR,10K,QAT,5
-26:46.57,nan,GBR,Eugene OR,USA,2011-06-03,Mo Farah,1983.0,Male,Outdoor,AR,10K,GBR,1
-26:44.36,nan,USA,Eugene OR,USA,2014-05-30,Galen Rupp,1986.0,Male,Outdoor,AR,10K,USA,2
-27:15.35,nan,AUS,San Juan Capistrano CA,USA,2022-03-06,Jack Rayner,1995.0,Male,Outdoor,AR,10K,AUS,6
-27:28.12,nan,BRA,Neerpelt,BEL,2007-06-02,Marílson dos Santos,1977.0,Male,Outdoor,AR,10K,BRA,3
-39:51.2,nan,ETH,Addis Ababa,ETH,2023-05-20,Misganaw Wakuma,2004.0,Male,Outdoor,AR,10G,ETH,4
-38:25.42,nan,CAN,Canberra,AUS,2024-01-28,Evan Dunfee,1990.0,Male,Outdoor,AR,10G,CAN,2
-2:11.96,nan,KEN,Rieti,ITA,1999-09-05,Noah Ngeny,1978.0,Male,Outdoor,AR,1K0,KEN,4
-2:14.72,nan,BRN,Stockholm/S,SWE,2008-07-22,Youssef Saad Kamel,1981.0,Male,Outdoor,AR,1K0,BRN,5
-2:12.18,nan,GBR,Oslo,NOR,1981-07-11,Sebastian Coe,1956.0,Male,Outdoor,AR,1K0,GBR,1
-2:16.09,nan,AUS,Ostrava,CZE,2014-06-17,Jeff Riseley,1986.0,Male,Outdoor,AR,1K0,AUS,6
-2:14.09,nan,BRA,Nice,FRA,1984-08-20,Joaquim Cruz,1963.0,Male,Outdoor,AR,1K0,BRA,3
-9.77,1.2,KEN,Nairobi,KEN,2021-09-18,Ferdinand Omanyala,1996.0,Male,Outdoor,AR,100,KEN,4
-9.83,0.9,CHN,Tokyo,JPN,2021-08-01,Su Bingtian,1989.0,Male,Outdoor,AR,100,CHN,5
-9.80,0.1,ITA,Tokyo,JPN,2021-08-01,Lamont Marcell Jacobs,1994.0,Male,Outdoor,AR,100,ITA,1
-9.58,0.9,JAM,Berlin,GER,2009-08-16,Usain Bolt,1986.0,Male,Outdoor,AR,100,JAM,2
-9.93,1.8,AUS,Mito,JPN,2003-05-05,Patrick Johnson,1972.0,Male,Outdoor,AR,100,AUS,6
-9.89,0.8,SUR,São Paulo,BRA,2023-07-28,Issam Asinga,2004.0,Male,Outdoor,AR,100,SUR,3
-13.11,1.8,RSA,Praha,CZE,2017-06-05,Antonio Alkana,1990.0,Male,Outdoor,AR,11H,RSA,4
-12.88,1.1,CHN,Lausanne,SUI,2006-07-11,Liu Xiang,1983.0,Male,Outdoor,AR,11H,CHN,5
-12.91,0.5,GBR,Stuttgart,GER,1993-08-20,Colin Jackson,1967.0,Male,Outdoor,AR,11H,GBR,1
-12.80,0.3,USA,Bruxelles,BEL,2012-09-07,Aries Merritt,1985.0,Male,Outdoor,AR,11H,USA,2
-13.29,0.6,AUS,Göteborg/U,SWE,1995-08-11,Kyle Vander-Kuyp,1971.0,Male,Outdoor,AR,11H,AUS,6
-13.17,0.4,BRA,Río de Janeiro,BRA,2022-06-23,Rafael Henrique Pereira,1997.0,Male,Outdoor,AR,11H,BRA,3
-3:26.00,nan,MAR,Roma,ITA,1998-07-14,Hicham El Guerrouj,1974.0,Male,Outdoor,AR,1K5,MAR,4
-3:29.14,nan,BRN,Roma,ITA,2006-07-14,Rashid Ramzi,1980.0,Male,Outdoor,AR,1K5,BRN,5
-3:27.14,nan,NOR,Chorzów,POL,2023-07-16,Jakob Ingebrigtsen,2000.0,Male,Outdoor,AR,1K5,NOR,1
-3:29.02,nan,USA,Oslo,NOR,2023-06-15,Yared Nuguse,1999.0,Male,Outdoor,AR,1K5,USA,2
-3:29.41,nan,AUS,Oslo,NOR,2023-06-15,Olli Hoare,1997.0,Male,Outdoor,AR,1K5,AUS,6
-3:33.25,nan,BRA,Rieti,ITA,2005-08-28,Hudson de Souza,1977.0,Male,Outdoor,AR,1K5,BRA,3
-4:44.79,nan,MAR,Berlin,GER,1999-09-07,Hicham El Guerrouj,1974.0,Male,Outdoor,AR,2K0,MAR,4
-4:55.57,nan,QAT,Roma,ITA,1995-06-08,Mohamed Ahmed Suleiman,1969.0,Male,Outdoor,AR,2K0,QAT,5
-4:43.13,nan,NOR,Bruxelles,BEL,2023-09-08,Jakob Ingebrigtsen,2000.0,Male,Outdoor,AR,2K0,NOR,1
-4:51.54,nan,CAN,Bruxelles,BEL,2023-09-08,Charles Philibert-Thiboutot,1990.0,Male,Outdoor,AR,2K0,CAN,2
-4:48.77,nan,AUS,Bruxelles,BEL,2023-09-08,Stewart McSweyn,1995.0,Male,Outdoor,AR,2K0,AUS,6
-5:03.34,nan,BRA,Manaus,BRA,2002-04-06,Hudson de Souza,1977.0,Male,Outdoor,AR,2K0,BRA,3
-19.50,1.6,BOT,London,GBR,2023-07-23,Letsile Tebogo,2003.0,Male,Outdoor,AR,200,BOT,4
-19.88,0.9,CHN,London,GBR,2019-07-21,Xie Zhenye,1993.0,Male,Outdoor,AR,200,CHN,5
-19.72,1.8,ITA,Ciudad de México,MEX,1979-09-12,Pietro Mennea,1952.0,Male,Outdoor,AR,200,ITA,1
-19.19,-0.3,JAM,Berlin,GER,2009-08-20,Usain Bolt,1986.0,Male,Outdoor,AR,200,JAM,2
-20.06,0.9,AUS,Ciudad de México,MEX,1968-10-16,Peter Norman,1942.0,Male,Outdoor,AR,200,AUS,6
-19.81,-0.3,PAN,Berlin,GER,2009-08-20,Alonso Edward,1989.0,Male,Outdoor,AR,200,PAN,3
-7:20.67,nan,KEN,Rieti,ITA,1996-09-01,Daniel Komen,1976.0,Male,Outdoor,AR,3K0,KEN,4
-7:30.76,nan,QAT,Doha,QAT,2005-05-13,Jamal Bilal Salem,1978.0,Male,Outdoor,AR,3K0,QAT,5
-7:23.63,nan,NOR,Eugene OR,USA,2023-09-17,Jakob Ingebrigtsen,2000.0,Male,Outdoor,AR,3K0,NOR,1
-7:25.47,nan,USA,Eugene OR,USA,2023-09-17,Grant Fisher,1997.0,Male,Outdoor,AR,3K0,USA,2
-7:28.02,nan,AUS,Roma,ITA,2020-09-17,Stewart McSweyn,1995.0,Male,Outdoor,AR,3K0,AUS,6
-7:37.15,nan,URU,Zagreb,CRO,2023-09-10,Santiago Catrofe,1999.0,Male,Outdoor,AR,3K0,URU,3
-7:52.11,nan,ETH,Paris,FRA,2023-06-09,Lamecha Girma,2000.0,Male,Outdoor,AR,3KH,ETH,4
-7:53.63,nan,QAT,Bruxelles,BEL,2004-09-03,Saif Saeed Shaheen,1982.0,Male,Outdoor,AR,3KH,QAT,5
-8:00.09,nan,FRA,Saint-Denis,FRA,2013-07-06,Mahiedine Mekhissi-Benabbad,1985.0,Male,Outdoor,AR,3KH,FRA,1
-8:00.45,nan,USA,Saint-Denis,FRA,2015-07-04,Evan Jager,1989.0,Male,Outdoor,AR,3KH,USA,2
-8:13.26,nan,NZL,Monaco,MON,2023-07-21,George Beamish,1996.0,Male,Outdoor,AR,3KH,NZL,6
-8:14.41,nan,BRA,Mar del Plata,ARG,1995-03-22,Wander Moura,1969.0,Male,Outdoor,AR,3KH,BRA,3
-37.65,nan,RSA,Doha,QAT,2019-10-04,South Africa,nan,Male,Outdoor,AR,4×1,RSA,4
-37.43,nan,JPN,Doha,QAT,2019-10-05,Japan,nan,Male,Outdoor,AR,4×1,JPN,5
-37.36,nan,GBR,Doha,QAT,2019-10-05,Great Britain,nan,Male,Outdoor,AR,4×1,GBR,1
-36.84,nan,JAM,London,GBR,2012-08-11,Jamaica,nan,Male,Outdoor,AR,4×1,JAM,2
-38.17,nan,AUS,Göteborg/U,SWE,1995-08-12,Australia,nan,Male,Outdoor,AR,4×1,AUS,6
-38.17,nan,AUS,London,GBR,2012-08-10,Australia,nan,Male,Outdoor,AR,4×1,AUS,6
-37.72,nan,BRA,Doha,QAT,2019-10-05,Brazil,nan,Male,Outdoor,AR,4×1,BRA,3
-1:20.42,nan,RSA,Yokohama,JPN,2019-05-12,South Africa,nan,Male,Outdoor,AR,4×2,RSA,4
-1:20.83,nan,CHN,Xi'an,CHN,2021-09-23,China,nan,Male,Outdoor,AR,4×2,CHN,5
-1:20.83,nan,CHN,Xi'an,CHN,2021-09-23,China,nan,Male,Outdoor,AR,4×2,CHN,5
-1:20.66,nan,FRA,Nassau,BAH,2014-05-24,France,nan,Male,Outdoor,AR,4×2,FRA,1
-1:23.04,nan,AUS,Sydney,AUS,1998-12-06,Australia,nan,Male,Outdoor,AR,4×2,AUS,6
-1:24.42,nan,GUY,Philadelphia PA,USA,2015-04-25,Guyana,nan,Male,Outdoor,AR,4×2,GUY,3
-2:57.27,nan,BOT,Tokyo,JPN,2021-08-07,Botswana,nan,Male,Outdoor,AR,4×4,BOT,4
-2:59.05,nan,IND,Budapest,HUN,2023-08-26,India,nan,Male,Outdoor,AR,4×4,IND,5
-2:56.60,nan,GBR,Atlanta GA,USA,1996-08-03,Great Britain,nan,Male,Outdoor,AR,4×4,GBR,1
-2:54.29,nan,USA,Stuttgart,GER,1993-08-22,United States,nan,Male,Outdoor,AR,4×4,USA,2
-2:59.70,nan,AUS,Los Angeles CA,USA,1984-08-11,Australia,nan,Male,Outdoor,AR,4×4,AUS,6
-2:58.56,nan,BRA,Winnipeg,CAN,1999-07-30,Brazil,nan,Male,Outdoor,AR,4×4,BRA,3
-7:02.43,nan,KEN,Bruxelles,BEL,2006-08-25,Kenya,nan,Male,Outdoor,AR,4×8,KEN,4
-7:26.17,nan,CHN,Shaoxing,CHN,2023-09-15,China,nan,Male,Outdoor,AR,4×8,CHN,5
-7:03.89,nan,GBR,London,GBR,1982-08-30,Great Britain,nan,Male,Outdoor,AR,4×8,GBR,1
-7:11.48,nan,AUS,Nassau,BAH,2014-05-24,Australia,nan,Male,Outdoor,AR,4×8,AUS,6
-7:47.3,nan,BRA,São Paulo,BRA,1965-04-21,Brazil,nan,Male,Outdoor,AR,4×8,BRA,3
-43.03,nan,RSA,Río de Janeiro,BRA,2016-08-14,Wayde van Niekerk,1992.0,Male,Outdoor,AR,400,RSA,4
-43.93,nan,KSA,Beijing,CHN,2015-08-23,Youssef Al-Masrahi,1987.0,Male,Outdoor,AR,400,KSA,5
-44.26,nan,GBR,Budapest,HUN,2023-08-22,Matthew Hudson-Smith,1994.0,Male,Outdoor,AR,400,GBR,1
-43.18,nan,USA,Sevilla,ESP,1999-08-26,Michael Johnson,1967.0,Male,Outdoor,AR,400,USA,2
-44.38,nan,AUS,Seoul,KOR,1988-09-26,Darren Clark,1965.0,Male,Outdoor,AR,400,AUS,6
-43.93,nan,COL,Tokyo,JPN,2021-08-02,Anthony Zambrano,1998.0,Male,Outdoor,AR,400,COL,3
-47.10,nan,ZAM,Zürich,SUI,1991-08-07,Samuel Matete,1968.0,Male,Outdoor,AR,40H,ZAM,4
-46.98,nan,QAT,Paris,FRA,2018-06-30,Abderrahmane Samba,1995.0,Male,Outdoor,AR,40H,QAT,5
-45.94,nan,NOR,Tokyo,JPN,2021-08-03,Karsten Warholm,1996.0,Male,Outdoor,AR,40H,NOR,1
-46.17,nan,USA,Tokyo,JPN,2021-08-03,Rai Benjamin,1997.0,Male,Outdoor,AR,40H,USA,2
-48.28,nan,AUS,Atlanta GA,USA,1996-07-31,Rohan Robinson,1971.0,Male,Outdoor,AR,40H,AUS,6
-46.29,nan,BRA,Eugene OR,USA,2022-07-19,Alison dos Santos,2000.0,Male,Outdoor,AR,40H,BRA,3
-12:35.36,nan,UGA,Monaco,MON,2020-08-14,Joshua Cheptegei,1996.0,Male,Outdoor,AR,5K0,UGA,4
-12:51.96,nan,BRN,Monaco,MON,2013-07-19,Albert Rop,1992.0,Male,Outdoor,AR,5K0,BRN,5
-12:45.01,nan,ESP,Monaco,MON,2023-07-21,Mohamed Katir,1998.0,Male,Outdoor,AR,5K0,ESP,1
-12:46.96,nan,USA,Bruxelles,BEL,2022-09-02,Grant Fisher,1997.0,Male,Outdoor,AR,5K0,USA,2
-12:55.76,nan,AUS,London,GBR,2004-07-30,Craig Mottram,1980.0,Male,Outdoor,AR,5K0,AUS,6
-13:11.57,nan,ARG,Stanford CA,USA,2023-04-21,Federico Bruno,1993.0,Male,Outdoor,AR,5K0,ARG,3
-18:05.49,nan,TUN,Tunis,TUN,1997-05-01,Hatem Ghoula,1973.0,Male,Outdoor,AR,5G,TUN,4
-1:40.91,nan,KEN,London,GBR,2012-08-09,David Rudisha,1988.0,Male,Outdoor,AR,800,KEN,4
-1:42.79,nan,BRN,Monaco,MON,2008-07-29,Youssef Saad Kamel,1981.0,Male,Outdoor,AR,800,BRN,5
-1:41.11,nan,DEN,Köln,GER,1997-08-24,Wilson Kipketer,1972.0,Male,Outdoor,AR,800,DEN,1
-1:42.34,nan,USA,Doha,QAT,2019-10-01,Donavan Brazier,1997.0,Male,Outdoor,AR,800,USA,2
-1:43.99,nan,AUS,Decines Charpieu,FRA,2023-07-08,Joseph Deng,1998.0,Male,Outdoor,AR,800,AUS,6
-1:41.77,nan,BRA,Köln,GER,1984-08-26,Joaquim Cruz,1963.0,Male,Outdoor,AR,800,BRA,3
-70.32,nan,RSA,Salôn-de-Provence,FRA,2002-05-26,Frantz Kruger,1975.0,Male,Outdoor,AR,DIS,RSA,4
-69.32,nan,IRI,Tallinn,EST,2008-06-03,Ehsan Hadadi,1985.0,Male,Outdoor,AR,DIS,IRI,5
-74.08,nan,GER,Neubrandenburg,GER,1986-06-06,Jürgen Schult,1960.0,Male,Outdoor,AR,DIS,GER,1
-71.32,nan,USA,Eugene OR,USA,1983-06-04,Ben Plucknett,1954.0,Male,Outdoor,AR,DIS,USA,2
-70.42,nan,SAM,Ramona OK,USA,2023-04-16,Alex Rose,1991.0,Male,Outdoor,AR,DIS,SAM,6
-70.29,nan,COL,Vila Nova Cerveira,POR,2020-07-22,Mauricio Ortega,1994.0,Male,Outdoor,AR,DIS,COL,3
-81.27,nan,EGY,Cairo,EGY,2014-03-21,Mostafa Hicham Al-Gamal,1988.0,Male,Outdoor,AR,HAM,EGY,4
-84.86,nan,JPN,Praha,CZE,2003-06-29,Koji Murofushi,1974.0,Male,Outdoor,AR,HAM,JPN,5
-86.74,nan,UKR,Stuttgart,FRG,1986-08-30,Yuriy Sedykh,1955.0,Male,Outdoor,AR,HAM,UKR,1
-82.71,nan,USA,Eugene OR,USA,2021-06-20,Rudy Winkler,1994.0,Male,Outdoor,AR,HAM,USA,2
-79.29,nan,AUS,Varaždin,CRO,2002-07-06,Stuart Rendell,1972.0,Male,Outdoor,AR,HAM,AUS,6
-78.63,nan,BRA,Celje,SLO,2016-06-19,Wagner Domingos,1983.0,Male,Outdoor,AR,HAM,BRA,3
-2.38,nan,RSA,Oudtshoorn,RSA,2005-03-05,Jacques Freitag,1982.0,Male,Outdoor,AR,HOC,RSA,4
-2.43,nan,QAT,Bruxelles,BEL,2014-09-05,Mutaz Essa Barshim,1991.0,Male,Outdoor,AR,HOC,QAT,5
-2.42,nan,SWE,Stockholm/S,SWE,1987-06-30,Patrik Sjöberg,1965.0,Male,Outdoor,AR,HOC,SWE,1
-2.45,nan,CUB,Salamanca,ESP,1993-07-27,Javier Sotomayor,1967.0,Male,Outdoor,AR,HOC,CUB,2
-2.36,nan,AUS,Melbourne,AUS,1997-03-02,Tim Forsyth,1973.0,Male,Outdoor,AR,HOC,AUS,6
-2.36,nan,AUS,Eberstadt,GER,2018-08-26,Brandon Starc,1993.0,Male,Outdoor,AR,HOC,AUS,6
-2.33,nan,COL,Pereira,COL,1994-10-17,Gilmar Mayo,1969.0,Male,Outdoor,AR,HOC,COL,3
-92.72,nan,KEN,Beijing,CHN,2015-08-26,Julius Yego,1989.0,Male,Outdoor,AR,SPE,KEN,4
-91.36,nan,TPE,Taipei,TPE,2017-08-26,Cheng Chao-Tsun,1993.0,Male,Outdoor,AR,SPE,TPE,5
-98.48,nan,CZE,Jena,GER,1996-05-25,Jan Železný,1966.0,Male,Outdoor,AR,SPE,CZE,1
-93.07,nan,GRN,Doha,QAT,2022-05-13,Anderson Peters,1997.0,Male,Outdoor,AR,SPE,GRN,2
-89.02,nan,AUS,Brisbane,AUS,2008-02-29,Jarrod Bannister,1984.0,Male,Outdoor,AR,SPE,AUS,6
-84.70,nan,PAR,San Marcos CA,USA,1999-10-17,Edgar Baumann,1970.0,Male,Outdoor,AR,SPE,PAR,3
-8.65,1.3,RSA,Potchefstroom,RSA,2017-04-22,Luvo Manyonga,1991.0,Male,Outdoor,AR,WEI,RSA,4
-8.48,0.6,KSA,Sotteville-lès-Rouen,FRA,2006-07-02,Mohamed Salman Al-Khuwalidi,1981.0,Male,Outdoor,AR,WEI,KSA,5
-8.86,1.9,ARM,Tsakhkadzor,URS,1987-05-22,Robert Emmiyan,1965.0,Male,Outdoor,AR,WEI,ARM,1
-8.95,0.3,USA,Tokyo,JPN,1991-08-30,Mike Powell,1963.0,Male,Outdoor,AR,WEI,USA,2
-8.54,1.7,AUS,Stockholm/S,SWE,2011-07-29,Mitchell Watt,1988.0,Male,Outdoor,AR,WEI,AUS,6
-8.73,1.2,PAN,Hengelo,NED,2008-05-24,Irving Saladino,1983.0,Male,Outdoor,AR,WEI,PAN,3
-3:43.13,nan,MAR,Roma,ITA,1999-07-07,Hicham El Guerrouj,1974.0,Male,Outdoor,AR,MEI,MAR,4
-3:47.97,nan,QAT,Oslo,NOR,2005-07-29,Dahame Najem Bashir,1979.0,Male,Outdoor,AR,MEI,QAT,5
-3:43.73,nan,NOR,Eugene OR,USA,2023-09-16,Jakob Ingebrigtsen,2000.0,Male,Outdoor,AR,MEI,NOR,1
-3:43.97,nan,USA,Eugene OR,USA,2023-09-16,Yared Nuguse,1999.0,Male,Outdoor,AR,MEI,USA,2
-3:47.48,nan,AUS,Oslo,NOR,2022-06-16,Olli Hoare,1997.0,Male,Outdoor,AR,MEI,AUS,6
-3:51.05,nan,BRA,Oslo,NOR,2005-07-29,Hudson de Souza,1977.0,Male,Outdoor,AR,MEI,BRA,3
-6.03,nan,RSA,Köln,GER,1995-08-18,Okkert Brits,1973.0,Male,Outdoor,AR,STA,RSA,4
-6.00,nan,PHI,Budapest,HUN,2023-08-26,Ernest John Obiena,1995.0,Male,Outdoor,AR,STA,PHI,5
-6.23,nan,SWE,Eugene OR,USA,2023-09-17,Armand Duplantis,1999.0,Male,Outdoor,AR,STA,SWE,1
-6.07,nan,USA,Nashville TN,USA,2023-06-02,KC Lightfoot,1999.0,Male,Outdoor,AR,STA,USA,2
-6.03,nan,BRA,Río de Janeiro,BRA,2016-08-15,Thiago Braz,1993.0,Male,Outdoor,AR,STA,BRA,3
-21.97,nan,RSA,Eugene OR,USA,2001-06-02,Janus Robberts,1979.0,Male,Outdoor,AR,KUG,RSA,4
-21.77,nan,IND,Bhubaneshwar,IND,2023-06-19,Tajinderpal Singh,1994.0,Male,Outdoor,AR,KUG,IND,5
-23.06,nan,GER,Haniá,GRE,1988-05-22,Ulf Timmermann,1962.0,Male,Outdoor,AR,KUG,GER,1
-23.56,nan,USA,Westwood CA,USA,2023-05-27,Ryan Crouser,1992.0,Male,Outdoor,AR,KUG,USA,2
-22.90,nan,NZL,Doha,QAT,2019-10-05,Tom Walsh,1992.0,Male,Outdoor,AR,KUG,NZL,6
-22.61,nan,BRA,Stanford CA,USA,2019-06-30,Darlan Romani,1991.0,Male,Outdoor,AR,KUG,BRA,3
-17.59,0.0,CHN,Jinan,CHN,2009-10-26,Li Yanxi,1983.0,Male,Outdoor,AR,DRE,CHN,5
-18.29,1.3,GBR,Göteborg/U,SWE,1995-08-07,Jonathan Edwards,1966.0,Male,Outdoor,AR,DRE,GBR,1
-18.21,0.2,USA,Beijing,CHN,2015-08-27,Christian Taylor,1990.0,Male,Outdoor,AR,DRE,USA,2
-17.46,1.7,AUS,London,GBR,1982-08-07,Ken Lorraway,1956.0,Male,Outdoor,AR,DRE,AUS,6
-17.90,0.4,BRA,Belém,BRA,2007-05-20,Jadel Gregório,1980.0,Male,Outdoor,AR,DRE,BRA,3
-2:14.20,nan,DJI,Stockholm/G,SWE,2016-02-17,Ayanleh Souleiman,1992.0,Male,Indoor,AR,1K0,DJI,4
-2:14.96,nan,DEN,Birmingham,GBR,2000-02-20,Wilson Kipketer,1972.0,Male,Indoor,AR,1K0,DEN,1
-2:14.74,nan,CAN,Brighton MA,USA,2024-02-04,Marco Arop,1998.0,Male,Indoor,AR,1K0,CAN,2
-2:16.95,nan,AUS,Boston MA,USA,2024-02-10,Jack Anstey,1997.0,Male,Indoor,AR,1K0,AUS,6
-10.42,nan,BRA,Tampere,FIN,2006-02-04,Vicente de Lima,1977.0,Male,Indoor,AR,100,BRA,3
-3:31.04,nan,ETH,Birmingham,GBR,2019-02-16,Samuel Tefera,1999.0,Male,Indoor,AR,1K5,ETH,4
-3:36.28,nan,BRN,Stockholm/G,SWE,2007-02-20,Bilal Mansour Ali,1988.0,Male,Indoor,AR,1K5,BRN,5
-3:30.60,nan,NOR,Liévin,FRA,2022-02-17,Jakob Ingebrigtsen,2000.0,Male,Indoor,AR,1K5,NOR,1
-3:32.35,nan,AUS,Staten Island NY,USA,2021-02-13,Olli Hoare,1997.0,Male,Indoor,AR,1K5,AUS,6
-3:38.03,nan,ARG,Sabadell,ESP,2022-02-08,Federico Bruno,1993.0,Male,Indoor,AR,1K5,ARG,3
-5:09.61,nan,ARG,Bordeaux,FRA,2013-01-26,Federico Bruno,1993.0,Male,Indoor,AR,2K0,ARG,3
-19.92,nan,NAM,Liévin,FRA,1996-02-18,Frank Fredericks,1967.0,Male,Indoor,AR,200,NAM,4
-20.63,nan,JPN,Maebashi,JPN,1999-03-05,Koji Ito,1970.0,Male,Indoor,AR,200,JPN,5
-20.25,nan,GBR,Liévin,FRA,1995-02-19,Linford Christie,1960.0,Male,Indoor,AR,200,GBR,1
-20.02,nan,USA,College Station TX,USA,2018-03-10,Elijah Hall-Thompson,1994.0,Male,Indoor,AR,200,USA,2
-20.71,nan,AUS,Toronto,CAN,1993-03-14,Damien Marsh,1971.0,Male,Indoor,AR,200,AUS,6
-20.65,nan,BRA,Sindelfingen,FRG,1989-02-26,Robson Caetano da Silva,1964.0,Male,Indoor,AR,200,BRA,3
-7:23.81,nan,ETH,Liévin,FRA,2023-02-15,Lamecha Girma,2000.0,Male,Indoor,AR,3K0,ETH,4
-7:31.77,nan,BRN,Liévin,FRA,2022-02-17,Birhanu Balew,1996.0,Male,Indoor,AR,3K0,BRN,5
-7:24.68,nan,ESP,Liévin,FRA,2023-02-15,Mohamed Katir,1998.0,Male,Indoor,AR,3K0,ESP,1
-7:28.23,nan,USA,Boston MA,USA,2023-01-27,Yared Nuguse,1999.0,Male,Indoor,AR,3K0,USA,2
-7:34.50,nan,AUS,Boston MA,USA,2008-01-26,Craig Mottram,1980.0,Male,Indoor,AR,3K0,AUS,6
-7:49.46,nan,COL,Sevilla,ESP,1991-03-10,Jacinto Navarrete,1962.0,Male,Indoor,AR,3K0,COL,3
-1:22.11,nan,GBR,Glasgow,GBR,1991-03-03,Great Britain,nan,Male,Indoor,AR,4×2,GBR,1
-1:22.71,nan,USA,Glasgow,GBR,1991-03-03,United States,nan,Male,Indoor,AR,4×2,USA,2
-3:07.95,nan,NGR,Sopot,POL,2014-03-08,Nigeria,nan,Male,Indoor,AR,4×4,NGR,4
-3:05.90,nan,JPN,Maebashi,JPN,1999-03-06,Japan,nan,Male,Indoor,AR,4×4,JPN,5
-3:01.77,nan,POL,Birmingham,GBR,2018-03-04,Poland,nan,Male,Indoor,AR,4×4,POL,1
-3:01.39,nan,USA,College Station TX,USA,2018-03-10,United States,nan,Male,Indoor,AR,4×4,USA,2
-3:08.49,nan,AUS,Sevilla,ESP,1991-03-10,Australia,nan,Male,Indoor,AR,4×4,AUS,6
-3:10.50,nan,BRA,Paris,FRA,1997-03-08,Brazil,nan,Male,Indoor,AR,4×4,BRA,3
-7:17.8,nan,URS,Sofia,BUL,1971-03-14,Soviet Union,nan,Male,Indoor,AR,4×8,URS,
-7:11.30,nan,USA,Boston MA,USA,2018-02-25,United States,nan,Male,Indoor,AR,4×8,USA,2
-45.18,nan,UGA,Lubbock TX,USA,2024-02-23,Eugene Omalla,2000.0,Male,Indoor,AR,400,UGA,4
-45.39,nan,QAT,Stockholm/G,SWE,2015-02-19,Abdalelah Haroun,1997.0,Male,Indoor,AR,400,QAT,5
-45.05,nan,GER,Sindelfingen,FRG,1988-02-05,Thomas Schönlebe,1965.0,Male,Indoor,AR,400,GER,1
-45.05,nan,NOR,Glasgow,GBR,2019-03-02,Karsten Warholm,1996.0,Male,Indoor,AR,400,NOR,1
-44.49,nan,CAN,Fayetteville AR,USA,2024-02-24,Chris Morales Williams,2004.0,Male,Indoor,AR,400,CAN,2
-45.44,nan,AUS,Clemson SC,USA,2018-02-23,Steven Solomon,1993.0,Male,Indoor,AR,400,AUS,6
-46.07,nan,COL,Birmingham AL,USA,2019-03-09,Alejandro Perlaza,1994.0,Male,Indoor,AR,400,COL,3
-49.87,nan,ESP,Nerja,ESP,2023-04-15,Jesus David Delgado,1999.0,Male,Indoor,AR,40H,ESP,1
-12:49.60,nan,ETH,Birmingham,GBR,2004-02-20,Kenenisa Bekele,1982.0,Male,Indoor,AR,5K0,ETH,4
-13:08.41,nan,THA,Boston MA,USA,2022-02-12,Kieran Tuntivate,1997.0,Male,Indoor,AR,5K0,THA,5
-12:57.08,nan,GBR,Boston MA,USA,2022-02-12,Marc Scott,1993.0,Male,Indoor,AR,5K0,GBR,1
-12:51.61,nan,USA,Boston MA,USA,2023-01-27,Woody Kincaid,1992.0,Male,Indoor,AR,5K0,USA,2
-13:04.33,nan,NZL,Boston MA,USA,2024-01-26,George Beamish,1996.0,Male,Indoor,AR,5K0,NZL,6
-13:42.54,nan,ARG,San Sebastián,ESP,1990-02-20,Antonio Silio,1966.0,Male,Indoor,AR,5K0,ARG,3
-19:39.92,nan,TUN,Liévin,FRA,2018-02-18,Hédi Taraaoui,1989.0,Male,Indoor,AR,5G,TUN,4
-21:46.37,nan,KAZ,Ust-Kamenogorsk,KAZ,2024-02-23,Egizbay Zharylkasyn,2006.0,Male,Indoor,AR,5G,KAZ,5
-18:07.08,nan,RUS,Moskva,RUS,1995-02-14,Mikhail Shchennikov,1967.0,Male,Indoor,AR,5G,RUS,1
-19:21.18,nan,GUA,Bratislava,SVK,2019-01-27,Erick Barrondo,1991.0,Male,Indoor,AR,5G,GUA,2
-19:28.87,nan,BRA,Toronto,CAN,1993-03-13,Sérgio Galdino,1969.0,Male,Indoor,AR,5G,BRA,3
-6.45,nan,GHA,Air Force Academy CO,USA,1999-02-20,Leo Myles-Mills,1973.0,Male,Indoor,AR,60M,GHA,4
-6.42,nan,CHN,Birmingham,GBR,2018-03-03,Su Bingtian,1989.0,Male,Indoor,AR,60M,CHN,5
-6.41,nan,ITA,Beograd,SRB,2022-03-19,Lamont Marcell Jacobs,1994.0,Male,Indoor,AR,60M,ITA,1
-6.34,nan,USA,Albuquerque NM,USA,2018-02-18,Christian Coleman,1996.0,Male,Indoor,AR,60M,USA,2
-6.52,nan,AUS,Maebashi,JPN,1999-03-07,Matt Shirvington,1978.0,Male,Indoor,AR,60M,AUS,6
-6.52,nan,AUS,Maebashi,JPN,1999-03-07,Matt Shirvington,1978.0,Male,Indoor,AR,60M,AUS,6
-6.52,nan,BRA,Paris,FRA,2009-02-13,José Carlos Moreira,1983.0,Male,Indoor,AR,60M,BRA,3
-7.52,nan,RSA,Gent,BEL,2001-02-23,Shaun Bownes,1970.0,Male,Indoor,AR,60H,RSA,4
-7.41,nan,CHN,Birmingham,GBR,2012-02-18,Liu Xiang,1983.0,Male,Indoor,AR,60H,CHN,5
-7.30,nan,GBR,Sindelfingen,GER,1994-03-06,Colin Jackson,1967.0,Male,Indoor,AR,60H,GBR,1
-7.27,nan,USA,Albuquerque NM,USA,2024-02-16,Grant Holloway,1997.0,Male,Indoor,AR,60H,USA,2
-7.56,nan,AUS,Beograd,SRB,2022-03-20,Chris Douglas,1997.0,Male,Indoor,AR,60H,AUS,6
-7.58,nan,BRA,Berlin,GER,2022-02-04,Rafael Henrique Pereira,1997.0,Male,Indoor,AR,60H,BRA,3
-7.58,nan,BRA,Mondeville,FRA,2022-02-09,Rafael Henrique Pereira,1997.0,Male,Indoor,AR,60H,BRA,3
-7.58,nan,BRA,Val-de-Reuil,FRA,2022-02-14,Rafael Henrique Pereira,1997.0,Male,Indoor,AR,60H,BRA,3
-7.58,nan,BRA,Cochabamba,BOL,2022-02-20,Rafael Henrique Pereira,1997.0,Male,Indoor,AR,60H,BRA,3
-7.58,nan,BRA,Beograd,SRB,2022-03-20,Rafael Henrique Pereira,1997.0,Male,Indoor,AR,60H,BRA,3
-1:43.98,nan,KEN,New York NY,USA,2019-02-09,Michael Saruni,1995.0,Male,Indoor,AR,800,KEN,4
-1:45.26,nan,BRN,Valencia,ESP,2008-03-09,Youssef Saad Kamel,1981.0,Male,Indoor,AR,800,BRN,5
-1:42.67,nan,DEN,Paris,FRA,1997-03-09,Wilson Kipketer,1972.0,Male,Indoor,AR,800,DEN,1
-1:44.21,nan,USA,Staten Island NY,USA,2021-02-13,Donavan Brazier,1997.0,Male,Indoor,AR,800,USA,2
-1:45.59,nan,AUS,Fayetteville AR,USA,2021-02-13,Charles Hunter,1996.0,Male,Indoor,AR,800,AUS,6
-1:45.43,nan,BRA,Pireás,GRE,1989-03-08,José Luiz Barbosa,1961.0,Male,Indoor,AR,800,BRA,3
-2.32,nan,NGR,Pátra,GRE,2000-02-15,Anthony Idiata,1975.0,Male,Indoor,AR,HOC,NGR,4
-2.41,nan,QAT,Athlone,IRL,2015-02-18,Mutaz Essa Barshim,1991.0,Male,Indoor,AR,HOC,QAT,5
-2.42,nan,GER,West Berlin,GER,1988-02-26,Carlo Thränhardt,1957.0,Male,Indoor,AR,HOC,GER,1
-2.43,nan,CUB,Budapest,HUN,1989-03-04,Javier Sotomayor,1967.0,Male,Indoor,AR,HOC,CUB,2
-2.34,nan,NZL,Banská Bystrica,SVK,2023-02-14,Hamish Kerr,1996.0,Male,Indoor,AR,HOC,NZL,6
-2.31,nan,BRA,Beograd,SRB,2022-03-20,Thiago Julio Moura,1995.0,Male,Indoor,AR,HOC,BRA,3
-8.44,nan,RSA,Birmingham,GBR,2018-03-02,Luvo Manyonga,1991.0,Male,Indoor,AR,WEI,RSA,4
-8.27,nan,CHN,Nanjing,CHN,2010-03-11,Su Xiongfeng,1987.0,Male,Indoor,AR,WEI,CHN,5
-8.71,nan,GER,Torino,ITA,2009-03-08,Sebastian Bayer,1986.0,Male,Indoor,AR,WEI,GER,1
-8.79,nan,USA,New York NY,USA,1984-01-27,Carl Lewis,1961.0,Male,Indoor,AR,WEI,USA,2
-8.25,nan,AUS,Portland OR,USA,2016-03-20,Fabrice LaPierre,1983.0,Male,Indoor,AR,WEI,AUS,6
-8.42,nan,PAN,Athína,GRE,2008-02-13,Irving Saladino,1983.0,Male,Indoor,AR,WEI,PAN,3
-3:47.01,nan,ETH,Boston MA,USA,2019-03-03,Yomif Kejelcha,1997.0,Male,Indoor,AR,MEI,ETH,4
-3:54.84,nan,JPN,Boston MA,USA,2024-02-10,Ryuma Aoki,1997.0,Male,Indoor,AR,MEI,JPN,5
-3:48.93,nan,GBR,New York NY,USA,2024-02-11,George Mills,1999.0,Male,Indoor,AR,MEI,GBR,1
-3:47.38,nan,USA,New York NY,USA,2023-02-11,Yared Nuguse,1999.0,Male,Indoor,AR,MEI,USA,2
-3:50.83,nan,AUS,New York NY,USA,2022-01-29,Olli Hoare,1997.0,Male,Indoor,AR,MEI,AUS,6
-3:50.83,nan,AUS,New York NY,USA,2023-02-11,Olli Hoare,1997.0,Male,Indoor,AR,MEI,AUS,6
-3:56.26,nan,BRA,Fayetteville AR,USA,2001-02-10,Hudson de Souza,1977.0,Male,Indoor,AR,MEI,BRA,3
-5.93,nan,PHI,Berlin,GER,2024-02-23,Ernest John Obiena,1995.0,Male,Indoor,AR,STA,PHI,5
-6.22,nan,SWE,Clermont-Ferrand,FRA,2023-02-25,Armand Duplantis,1999.0,Male,Indoor,AR,STA,SWE,1
-6.01,nan,USA,Rouen,FRA,2020-02-08,Sam Kendricks,1992.0,Male,Indoor,AR,STA,USA,2
-6.06,nan,AUS,Boston MA,USA,2009-02-07,Steve Hooker,1982.0,Male,Indoor,AR,STA,AUS,6
-5.95,nan,BRA,Beograd,SRB,2022-03-20,Thiago Braz,1993.0,Male,Indoor,AR,STA,BRA,3
-21.63,nan,NGR,Nehvizdy,CZE,2024-02-20,Chukwuebuka Enekwechi,1993.0,Male,Indoor,AR,KUG,NGR,4
-21.10,nan,BRN,Gomel,BLR,2021-01-29,Abdelrahman Mahmoud,2001.0,Male,Indoor,AR,KUG,BRN,5
-22.55,nan,GER,Senftenberg,GER,1989-02-11,Ulf Timmermann,1962.0,Male,Indoor,AR,KUG,GER,1
-23.38,nan,USA,Pocatello ID,USA,2023-02-18,Ryan Crouser,1992.0,Male,Indoor,AR,KUG,USA,2
-22.31,nan,NZL,Birmingham,GBR,2018-03-03,Tom Walsh,1992.0,Male,Indoor,AR,KUG,NZL,6
-22.31,nan,NZL,Beograd,SRB,2022-03-19,Tom Walsh,1992.0,Male,Indoor,AR,KUG,NZL,6
-22.53,nan,BRA,Beograd,SRB,2022-03-19,Darlan Romani,1991.0,Male,Indoor,AR,KUG,BRA,3
-18.07,nan,BUR,Aubière,FRA,2021-01-16,Hugues Fabrice Zango,1993.0,Male,Indoor,AR,DRE,BUR,4
-17.41,nan,CHN,Nanjing,CHN,2016-02-29,Dong Bin,1988.0,Male,Indoor,AR,DRE,CHN,5
-17.92,nan,FRA,Paris,FRA,2011-03-06,Teddy Tamgho,1989.0,Male,Indoor,AR,DRE,FRA,1
-17.83,nan,CUB,Sindelfingen,GER,1997-03-01,Aliecer Urrutia,1974.0,Male,Indoor,AR,DRE,CUB,2
-17.20,nan,AUS,Lisboa,POR,2001-03-09,Andrew Murphy,1969.0,Male,Indoor,AR,DRE,AUS,6
-17.56,nan,BRA,Moskva,RUS,2006-03-12,Jadel Gregório,1980.0,Male,Indoor,AR,DRE,BRA,3
-29:01.03,nan,ETH,Hengelo,NED,2021-06-08,Letesenbet Gidey,1998.0,Female,Outdoor,AR,10K,ETH,4
-29:31.78,nan,CHN,Beijing,CHN,1993-09-08,Wang Junxia,1973.0,Female,Outdoor,AR,10K,CHN,5
-29:06.82,nan,NED,Hengelo,NED,2021-06-06,Sifan Hassan,1993.0,Female,Outdoor,AR,10K,NED,1
-30:03.82,nan,USA,San Juan Capistrano CA,USA,2023-03-04,Alicia Monson,1998.0,Female,Outdoor,AR,10K,USA,2
-30:35.54,nan,NZL,Stanford CA,USA,2008-05-04,Kim Smith,1981.0,Female,Outdoor,AR,10K,NZL,6
-31:47.76,nan,BRA,Stuttgart,GER,1993-08-21,Carmen de Oliveira,1965.0,Female,Outdoor,AR,10K,BRA,3
-43:50.86,nan,KEN,Birmingham,GBR,2022-08-06,Emily Ngii,1986.0,Female,Outdoor,AR,10G,KEN,4
-44:13.88,nan,MEX,Tampere,FIN,2018-07-14,Alegna Gonzalez,1999.0,Female,Outdoor,AR,10G,MEX,2
-41:57.22,nan,AUS,Seattle WA,USA,1990-07-24,Kerry Saxby-Junna,1961.0,Female,Outdoor,AR,10G,AUS,6
-42:02.99,nan,COL,Trujillo2,PER,2018-08-25,Sandra Arenas,1993.0,Female,Outdoor,AR,10G,COL,3
-2:29.15,nan,KEN,Monaco,MON,2020-08-14,Faith Kipyegon,1994.0,Female,Outdoor,AR,1K0,KEN,4
-2:33.00,nan,CHN,Beijing,CHN,1993-11-09,Qu Yunxia,nan,Female,Outdoor,AR,1K0,CHN,5
-2:28.98,nan,RUS,Bruxelles,BEL,1996-08-23,Svetlana Masterkova,1968.0,Female,Outdoor,AR,1K0,RUS,1
-2:31.80,nan,USA,Brunswick ME,USA,1999-07-03,Regina Jacobs,1963.0,Female,Outdoor,AR,1K0,USA,2
-2:34.63,nan,AUS,Bern,SUI,2023-08-04,Abbey Caldwell,2001.0,Female,Outdoor,AR,1K0,AUS,6
-2:32.25,nan,SUR,Berlin,GER,1991-09-10,Letitia Vriesde,1964.0,Female,Outdoor,AR,1K0,SUR,3
-10.75,0.9,CIV,Oslo,NOR,2023-06-15,Marie Josée Ta Lou,1988.0,Female,Outdoor,AR,100,CIV,4
-10.79,0.0,CHN,Shanghai,CHN,1997-10-18,Li Xuemei,1977.0,Female,Outdoor,AR,100,CHN,5
-10.73,2.0,FRA,Budapest,HUN,1998-08-19,Christine Arron,1973.0,Female,Outdoor,AR,100,FRA,1
-10.49,0.0,USA,Indianapolis IN,USA,1988-07-16,Florence Griffith-Joyner,1959.0,Female,Outdoor,AR,100,USA,2
-10.96,2.0,NZL,La Chaux-de-Fonds,SUI,2023-07-02,Zoe Hobbs,1997.0,Female,Outdoor,AR,100,NZL,6
-10.91,-0.2,BRA,London,GBR,2017-08-06,Rosângela Santos,1990.0,Female,Outdoor,AR,100,BRA,3
-12.12,0.9,NGR,Eugene OR,USA,2022-07-24,Tobi Amusan,1997.0,Female,Outdoor,AR,10H,NGR,4
-12.44,-0.8,KAZ,Luzern,SUI,1995-06-27,Olga Shishigina,1968.0,Female,Outdoor,AR,10H,KAZ,5
-12.21,0.7,BUL,Stara Zagora,BUL,1988-08-20,Yordanka Donkova,1961.0,Female,Outdoor,AR,10H,BUL,1
-12.20,0.3,USA,London,GBR,2016-07-22,Kendra Harrison,1992.0,Female,Outdoor,AR,10H,USA,2
-12.28,1.1,AUS,Daegu,KOR,2011-09-03,Sally Pearson,1986.0,Female,Outdoor,AR,10H,AUS,6
-12.71,0.1,BRA,Manaus,BRA,2001-05-19,Maurren Higa Maggi,1976.0,Female,Outdoor,AR,10H,BRA,3
-3:49.11,nan,KEN,Firenze,ITA,2023-06-02,Faith Kipyegon,1994.0,Female,Outdoor,AR,1K5,KEN,4
-3:50.46,nan,CHN,Beijing,CHN,1993-09-11,Qu Yunxia,1972.0,Female,Outdoor,AR,1K5,CHN,5
-3:51.95,nan,NED,Doha,QAT,2019-10-05,Sifan Hassan,1993.0,Female,Outdoor,AR,1K5,NED,1
-3:54.99,nan,USA,Doha,QAT,2019-10-05,Shelby Houlihan,1993.0,Female,Outdoor,AR,1K5,USA,2
-3:56.92,nan,AUS,Eugene OR,USA,2023-09-16,Linden Hall,1991.0,Female,Outdoor,AR,1K5,AUS,6
-4:05.67,nan,SUR,Tokyo,JPN,1991-08-31,Letitia Vriesde,1964.0,Female,Outdoor,AR,1K5,SUR,3
-5:21.56,nan,BDI,Zagreb,CRO,2021-09-14,Francine Niyonsaba,1993.0,Female,Outdoor,AR,2K0,BDI,4
-5:29.65,nan,CHN,Beijing,CHN,1993-09-12,Wang Junxia,1973.0,Female,Outdoor,AR,2K0,CHN,5
-5:25.36,nan,IRL,Edinburgh,GBR,1994-07-08,Sonia O'Sullivan,1969.0,Female,Outdoor,AR,2K0,IRL,1
-5:29.41,nan,USA,Beijing,CHN,1993-12-09,Xi Wang,1971.0,Female,Outdoor,AR,2K0,USA,2
-5:59.96,nan,BOL,Rivas,ESP,2004-06-10,Niusha Mancilla,1971.0,Female,Outdoor,AR,2K0,BOL,3
-21.78,0.6,NAM,Zürich,SUI,2021-09-09,Christine Mboma,2003.0,Female,Outdoor,AR,200,NAM,4
-22.01,0.0,CHN,Shanghai,CHN,1997-10-22,Li Xuemei,1977.0,Female,Outdoor,AR,200,CHN,5
-21.63,0.2,NED,Beijing,CHN,2015-08-28,Dafne Schippers,1992.0,Female,Outdoor,AR,200,NED,1
-21.34,1.3,USA,Seoul,KOR,1988-09-29,Florence Griffith-Joyner,1959.0,Female,Outdoor,AR,200,USA,2
-22.23,0.8,AUS,Stuttgart,GER,1997-07-13,Melinda Gainsford-Taylor,1971.0,Female,Outdoor,AR,200,AUS,6
-22.47,1.4,BRA,Eugene OR,USA,2022-07-19,Vitoria Cristina Rosa,1996.0,Female,Outdoor,AR,200,BRA,3
-8:06.11,nan,CHN,Beijing,CHN,1993-09-13,Wang Junxia,1973.0,Female,Outdoor,AR,3K0,CHN,5
-8:18.49,nan,NED,Stanford CA,USA,2019-06-30,Sifan Hassan,1993.0,Female,Outdoor,AR,3K0,NED,1
-8:31.81,nan,AUS,Sydney,AUS,2023-03-11,Jessica Hull,1996.0,Female,Outdoor,AR,3K0,AUS,6
-8:43.26,nan,VEN,Chorzów,POL,2023-07-16,Joselyn Daniely Brea,1994.0,Female,Outdoor,AR,3K0,VEN,3
-8:44.32,nan,KEN,Monaco,MON,2018-07-20,Beatrice Chepkoech,1991.0,Female,Outdoor,AR,3KH,KEN,4
-8:50.66,nan,BRN,Eugene OR,USA,2023-09-16,Winfred Yavi,1999.0,Female,Outdoor,AR,3KH,BRN,5
-8:58.81,nan,RUS,Beijing,CHN,2008-08-17,Gulnara Galkina,1978.0,Female,Outdoor,AR,3KH,RUS,1
-8:57.77,nan,USA,Eugene OR,USA,2021-08-21,Courtney Frerichs,1993.0,Female,Outdoor,AR,3KH,USA,2
-9:14.28,nan,AUS,Saint-Denis,FRA,2016-08-27,Genevieve Gregson,1989.0,Female,Outdoor,AR,3KH,AUS,6
-9:24.38,nan,BRA,Watford,GBR,2022-06-11,Tatiane Raquel da Silva,1990.0,Female,Outdoor,AR,3KH,BRA,3
-41.90,nan,CIV,Budapest,HUN,2023-08-25,Ivory Coast,nan,Female,Outdoor,AR,4×1,CIV,4
-42.23,nan,CHN,Shanghai,CHN,1997-10-23,China,nan,Female,Outdoor,AR,4×1,CHN,5
-41.37,nan,GER,Canberra,AUS,1985-10-06,Germany,nan,Female,Outdoor,AR,4×1,GER,1
-40.82,nan,USA,London,GBR,2012-08-10,United States,nan,Female,Outdoor,AR,4×1,USA,2
-42.99,nan,AUS,Pietersburg,RSA,2000-03-18,Australia,nan,Female,Outdoor,AR,4×1,AUS,6
-42.29,nan,BRA,Moskva,RUS,2013-08-18,Brazil,nan,Female,Outdoor,AR,4×1,BRA,3
-1:30.52,nan,NGR,Nassau,BAH,2015-05-02,Nigeria,nan,Female,Outdoor,AR,4×2,NGR,4
-1:32.76,nan,CHN,Yokohama,JPN,2019-05-12,China,nan,Female,Outdoor,AR,4×2,CHN,5
-1:28.15,nan,GER,Jena,GER,1980-08-09,Germany,nan,Female,Outdoor,AR,4×2,GER,1
-1:35.91,nan,ECU,Yokohama,JPN,2019-05-12,Ecuador,nan,Female,Outdoor,AR,4×2,ECU,3
-3:21.04,nan,NGR,Atlanta GA,USA,1996-08-03,Nigeria,nan,Female,Outdoor,AR,4×4,NGR,4
-3:24.28,nan,CHN,Beijing,CHN,1993-09-13,China,nan,Female,Outdoor,AR,4×4,CHN,5
-3:15.17,nan,URS,Seoul,KOR,1988-10-01,Soviet Union,nan,Female,Outdoor,AR,4×4,URS,
-3:15.51,nan,USA,Seoul,KOR,1988-10-01,United States,nan,Female,Outdoor,AR,4×4,USA,2
-3:23.81,nan,AUS,Sydney,AUS,2000-09-30,Australia,nan,Female,Outdoor,AR,4×4,AUS,6
-3:26.68,nan,BRA,São Paulo,BRA,2011-08-07,Brazil,nan,Female,Outdoor,AR,4×4,BRA,3
-8:04.28,nan,KEN,Nassau,BAH,2014-05-25,Kenya,nan,Female,Outdoor,AR,4×8,KEN,4
-8:16.2,nan,CHN,Shanghai,CHN,1991-10-01,China,nan,Female,Outdoor,AR,4×8,CHN,5
-7:50.17,nan,URS,Moskva,URS,1984-08-05,Soviet Union,nan,Female,Outdoor,AR,4×8,URS,
-49.10,nan,NGR,Atlanta GA,USA,1996-07-29,Falilat Ogunkoya,1968.0,Female,Outdoor,AR,400,NGR,4
-48.14,nan,BRN,Doha,QAT,2019-10-03,Salwa Eid Naser,1998.0,Female,Outdoor,AR,400,BRN,5
-47.60,nan,GER,Canberra,AUS,1985-10-06,Marita Koch,1957.0,Female,Outdoor,AR,400,GER,1
-48.36,nan,BAH,Tokyo,JPN,2021-08-06,Shaunae Miller-Uibo,1994.0,Female,Outdoor,AR,400,BAH,2
-48.63,nan,AUS,Atlanta GA,USA,1996-07-29,Cathy Freeman,1973.0,Female,Outdoor,AR,400,AUS,6
-49.64,nan,COL,Barcelona,ESP,1992-08-05,Ximena Restrepo,1969.0,Female,Outdoor,AR,400,COL,3
-52.90,nan,MAR,Sevilla,ESP,1999-08-25,Nezha Bidouane,1969.0,Female,Outdoor,AR,40H,MAR,4
-53.09,nan,BRN,Budapest,HUN,2023-08-24,Kemi Adekoya,1993.0,Female,Outdoor,AR,40H,BRN,5
-51.45,nan,NED,London,GBR,2023-07-23,Femke Bol,2000.0,Female,Outdoor,AR,40H,NED,1
-50.68,nan,USA,Eugene OR,USA,2022-07-22,Sydney McLaughlin-Levrone,1999.0,Female,Outdoor,AR,40H,USA,2
-53.17,nan,AUS,Seoul,KOR,1988-09-28,Debbie Flintoff-King,1960.0,Female,Outdoor,AR,40H,AUS,6
-53.69,nan,PAN,Eugene OR,USA,2022-07-20,Gianna Woodruff,1993.0,Female,Outdoor,AR,40H,PAN,3
-14:00.21,nan,ETH,Eugene OR,USA,2023-09-17,Gudaf Tsegay,1997.0,Female,Outdoor,AR,5K0,ETH,4
-14:28.09,nan,CHN,Shanghai,CHN,1997-10-23,Jiang Bo,1977.0,Female,Outdoor,AR,5K0,CHN,5
-14:13.42,nan,NED,London,GBR,2023-07-23,Sifan Hassan,1993.0,Female,Outdoor,AR,5K0,NED,1
-14:19.45,nan,USA,London,GBR,2023-07-23,Alicia Monson,1998.0,Female,Outdoor,AR,5K0,USA,2
-14:47.76,nan,VEN,Walnut CA,USA,2023-05-06,Joselyn Daniely Brea,1994.0,Female,Outdoor,AR,5K0,VEN,3
-20:50.03,nan,TUN,Radès,TUN,2021-06-23,Chahineze Nasri,1996.0,Female,Outdoor,AR,5G,TUN,4
-1:54.01,nan,KEN,Zürich,SUI,2008-08-29,Pamela Jelimo,1989.0,Female,Outdoor,AR,800,KEN,4
-1:55.54,nan,CHN,Beijing,CHN,1993-09-09,Liu Dong,1973.0,Female,Outdoor,AR,800,CHN,5
-1:53.28,nan,CZE,München,FRG,1983-07-26,Jarmila Kratochvílová,1951.0,Female,Outdoor,AR,800,CZE,1
-1:54.44,nan,CUB,Barcelona,ESP,1989-09-09,Ana Fidelia Quirot,1963.0,Female,Outdoor,AR,800,CUB,2
-1:57.78,nan,AUS,London,GBR,2023-07-23,Catriona Bisset,1994.0,Female,Outdoor,AR,800,AUS,6
-1:56.68,nan,SUR,Göteborg/U,SWE,1995-08-13,Letitia Vriesde,1964.0,Female,Outdoor,AR,800,SUR,3
-64.96,nan,NGR,Ramona OK,USA,2023-04-15,Chioma Onyekwere,1994.0,Female,Outdoor,AR,DIS,NGR,4
-71.68,nan,CHN,Beijing,CHN,1992-03-14,Xiao Yanling,1968.0,Female,Outdoor,AR,DIS,CHN,5
-76.80,nan,GER,Neubrandenburg,GER,1988-07-09,Gabriele Reinsch,1963.0,Female,Outdoor,AR,DIS,GER,1
-71.46,nan,USA,La Jolla CA,USA,2022-04-08,Valarie Allman,1995.0,Female,Outdoor,AR,DIS,USA,2
-69.64,nan,AUS,London,GBR,2017-08-13,Dani Stevens,1988.0,Female,Outdoor,AR,DIS,AUS,6
-65.34,nan,BRA,Leiria,POR,2019-06-26,Andressa de Morais,1990.0,Female,Outdoor,AR,DIS,BRA,3
-75.49,nan,NGR,Tucson AZ,USA,2021-05-22,Annette Echikunwoke,1996.0,Female,Outdoor,AR,HAM,NGR,4
-77.68,nan,CHN,Chengdu,CHN,2014-03-29,Wang Zheng,1987.0,Female,Outdoor,AR,HAM,CHN,5
-82.98,nan,POL,Warszawa,POL,2016-08-28,Anita Włodarczyk,1985.0,Female,Outdoor,AR,HAM,POL,1
-80.31,nan,USA,Eugene OR,USA,2021-06-26,DeAnna Price,1993.0,Female,Outdoor,AR,HAM,USA,2
-74.61,nan,NZL,Tucson AZ,USA,2021-05-20,Lauren Bruce,1997.0,Female,Outdoor,AR,HAM,NZL,6
-73.74,nan,ARG,Buenos Aires,ARG,2010-04-10,Jenny Dahlgren,1984.0,Female,Outdoor,AR,HAM,ARG,3
-2.06,nan,RSA,Saint-Denis,FRA,2003-08-31,Hestrie Cloete,1978.0,Female,Outdoor,AR,HOC,RSA,4
-2.00,nan,KAZ,Almaty,KAZ,2021-06-08,Nadezhda Dubovitskaya,1998.0,Female,Outdoor,AR,HOC,KAZ,5
-2.09,nan,BUL,Roma,ITA,1987-08-30,Stefka Kostadinova,1965.0,Female,Outdoor,AR,HOC,BUL,1
-2.05,nan,USA,Des Moines IA,USA,2010-06-26,Chaunté Lowe,1984.0,Female,Outdoor,AR,HOC,USA,2
-2.03,nan,AUS,Eugene OR,USA,2023-09-17,Nicola Olyslagers,1996.0,Female,Outdoor,AR,HOC,AUS,6
-1.96,nan,ARG,Oristano,ITA,1997-09-08,Solange Witteveen,1976.0,Female,Outdoor,AR,HOC,ARG,3
-69.35,nan,RSA,New York NY,USA,2012-06-09,Sunette Viljoen,1983.0,Female,Outdoor,AR,SPE,RSA,4
-67.98,nan,CHN,Shenyang,CHN,2019-08-02,Lu Huihui,1989.0,Female,Outdoor,AR,SPE,CHN,5
-72.28,nan,CZE,Stuttgart,GER,2008-09-13,Barbora Špotáková,1981.0,Female,Outdoor,AR,SPE,CZE,1
-71.70,nan,CUB,Helsinki,FIN,2005-08-14,Osleidis Menéndez,1979.0,Female,Outdoor,AR,SPE,CUB,2
-68.92,nan,AUS,Gold Coast,AUS,2018-04-11,Kathryn Mitchell,1982.0,Female,Outdoor,AR,SPE,AUS,6
-65.47,nan,COL,Budapest,HUN,2023-08-25,Flor Dennis Ruiz,1991.0,Female,Outdoor,AR,SPE,COL,3
-7.17,1.1,NGR,Chula Vista CA,USA,2021-05-29,Ese Brume,1996.0,Female,Outdoor,AR,WEI,NGR,4
-7.01,1.4,CHN,Jinan,CHN,1993-06-04,Yao Weili,1965.0,Female,Outdoor,AR,WEI,CHN,5
-7.52,1.4,RUS,Leningrad,URS,1988-06-11,Galina Cistjaková,1962.0,Female,Outdoor,AR,WEI,RUS,1
-7.49,1.3,USA,New York NY,USA,1994-05-22,Jackie Joyner-Kersee,1962.0,Female,Outdoor,AR,WEI,USA,2
-7.49,1.7,USA,Sestriere,ITA,1994-07-31,Jackie Joyner-Kersee,1962.0,Female,Outdoor,AR,WEI,USA,2
-7.13,1.8,AUS,Chula Vista CA,USA,2022-07-09,Brooke Buschkuehl,1993.0,Female,Outdoor,AR,WEI,AUS,6
-7.26,1.8,BRA,Bogotá,COL,1999-06-26,Maurren Higa Maggi,1976.0,Female,Outdoor,AR,WEI,BRA,3
-4:07.64,nan,KEN,Monaco,MON,2023-07-21,Faith Kipyegon,1994.0,Female,Outdoor,AR,MEI,KEN,4
-4:17.75,nan,BRN,Bruxelles,BEL,2007-09-14,Maryam Jamal,1984.0,Female,Outdoor,AR,MEI,BRN,5
-4:12.33,nan,NED,Monaco,MON,2019-07-12,Sifan Hassan,1993.0,Female,Outdoor,AR,MEI,NED,1
-4:16.35,nan,USA,Monaco,MON,2023-07-21,Nikki Hiltz,1994.0,Female,Outdoor,AR,MEI,USA,2
-4:15.34,nan,AUS,Monaco,MON,2023-07-21,Jessica Hull,1996.0,Female,Outdoor,AR,MEI,AUS,6
-4:27.41,nan,VEN,Monaco,MON,2023-07-21,Joselyn Daniely Brea,1994.0,Female,Outdoor,AR,MEI,VEN,3
-4.42,nan,RSA,Wesel,GER,2000-06-12,Elmarie Gerryts,1972.0,Female,Outdoor,AR,STA,RSA,4
-4.72,nan,CHN,Shanghai,CHN,2019-05-18,Li Ling,1989.0,Female,Outdoor,AR,STA,CHN,5
-5.06,nan,RUS,Zürich,SUI,2009-08-28,Yelena Isinbayeva,1982.0,Female,Outdoor,AR,STA,RUS,1
-4.94,nan,NZL,Jockgrim,GER,2018-07-17,Eliza McCartney,1996.0,Female,Outdoor,AR,STA,NZL,6
-4.87,nan,BRA,São Bernardo do Campo,BRA,2016-07-03,Fabiana Murer,1981.0,Female,Outdoor,AR,STA,BRA,3
-18.43,nan,NGR,Walnut CA,USA,2003-04-19,Vivian Chukwuemeka,1975.0,Female,Outdoor,AR,KUG,NGR,4
-21.76,nan,CHN,Shijiazhuang,CHN,1988-04-23,Li Meisu,1959.0,Female,Outdoor,AR,KUG,CHN,5
-22.63,nan,RUS,Moskva,URS,1987-06-07,Natalya Lisovskaya,1962.0,Female,Outdoor,AR,KUG,RUS,1
-20.96,nan,CUB,Ciudad de México,MEX,1992-05-02,Belsis Laza,1967.0,Female,Outdoor,AR,KUG,CUB,2
-21.24,nan,NZL,Daegu,KOR,2011-08-29,Valerie Adams,1984.0,Female,Outdoor,AR,KUG,NZL,6
-19.30,nan,BRA,Tunja,COL,2001-07-14,Elisângela Adriano,1972.0,Female,Outdoor,AR,KUG,BRA,3
-15.39,0.5,CMR,Beijing,CHN,2008-08-17,Françoise Mbango,1976.0,Female,Outdoor,AR,DRE,CMR,4
-15.25,1.7,KAZ,Split,CRO,2010-09-04,Olga Rypakova,1984.0,Female,Outdoor,AR,DRE,KAZ,5
-15.50,0.9,UKR,Göteborg/U,SWE,1995-08-10,Inessa Kravets,1966.0,Female,Outdoor,AR,DRE,UKR,1
-15.29,0.3,CUB,Roma,ITA,2003-07-11,Yamilé Aldama,1972.0,Female,Outdoor,AR,DRE,CUB,2
-14.04,2.0,AUS,Hobart,AUS,2002-03-09,Nicole Mladenis,1975.0,Female,Outdoor,AR,DRE,AUS,6
-14.04,1.8,AUS,Perth,AUS,2003-12-07,Nicole Mladenis,1975.0,Female,Outdoor,AR,DRE,AUS,6
-41:22.5,nan,RUS,Saransk,RUS,2023-09-24,Elvira Khasanova,2000.0,Female,Indoor,AR,10G,RUS,1
-2:30.94,nan,MOZ,Stockholm/G,SWE,1999-02-25,Maria Mutola,1972.0,Female,Indoor,AR,1K0,MOZ,4
-2:31.93,nan,GBR,Birmingham,GBR,2017-02-18,Laura Muir,1993.0,Female,Indoor,AR,1K0,GBR,1
-2:33.75,nan,CAN,Boston MA,USA,2023-01-28,Lucia Stafford,1998.0,Female,Indoor,AR,1K0,CAN,2
-2:36.96,nan,NZL,Boston MA,USA,2000-02-06,Toni Hodgkinson,1971.0,Female,Indoor,AR,1K0,NZL,6
-2:38.30,nan,SUR,Stockholm/G,SWE,1999-02-25,Letitia Vriesde,1964.0,Female,Indoor,AR,1K0,SUR,3
-3:53.09,nan,ETH,Liévin,FRA,2021-02-09,Gudaf Tsegay,1997.0,Female,Indoor,AR,1K5,ETH,4
-3:59.79,nan,BRN,Valencia,ESP,2008-03-09,Maryam Jamal,1984.0,Female,Indoor,AR,1K5,BRN,5
-3:57.91,nan,SWE,Stockholm/G,SWE,2014-02-06,Abeba Aregawi,1990.0,Female,Indoor,AR,1K5,SWE,1
-3:59.98,nan,USA,Boston MA,USA,2003-02-01,Regina Jacobs,1963.0,Female,Indoor,AR,1K5,USA,2
-4:01.19,nan,AUS,New York NY,USA,2024-02-11,Jessica Hull,1996.0,Female,Indoor,AR,1K5,AUS,6
-4:12.95,nan,ARG,Sabadell,ESP,2023-01-28,Fedra Aldana Luna,1995.0,Female,Indoor,AR,1K5,ARG,3
-22.11,nan,NGR,Albuquerque NM,USA,2023-03-10,Favour Ofili,2002.0,Female,Indoor,AR,200,NGR,4
-22.99,nan,SRI,Lisboa,POR,2001-03-09,Susanthika Jayasinghe,1975.0,Female,Indoor,AR,200,SRI,5
-22.10,nan,RUS,Liévin,FRA,1995-02-19,Irina Privalova,1968.0,Female,Indoor,AR,200,RUS,1
-21.87,nan,JAM,Liévin,FRA,1993-02-13,Merlene Ottey,1960.0,Female,Indoor,AR,200,JAM,2
-22.64,nan,AUS,Barcelona,ESP,1995-03-10,Melinda Gainsford-Taylor,1971.0,Female,Indoor,AR,200,AUS,6
-22.64,nan,AUS,Barcelona,ESP,1995-03-11,Melinda Gainsford-Taylor,1971.0,Female,Indoor,AR,200,AUS,6
-23.02,nan,GUY,Lubbock TX,USA,2019-01-26,Brenessa Thompson,1996.0,Female,Indoor,AR,200,GUY,3
-8:16.60,nan,ETH,Stockholm/G,SWE,2014-02-06,Genzebe Dibaba,1991.0,Female,Indoor,AR,3K0,ETH,4
-8:39.64,nan,BRN,Val-de-Reuil,FRA,2020-02-14,Winfred Yavi,1999.0,Female,Indoor,AR,3K0,BRN,5
-8:26.41,nan,GBR,Karlsruhe,GER,2017-02-04,Laura Muir,1993.0,Female,Indoor,AR,3K0,GBR,1
-8:25.05,nan,USA,New York NY,USA,2023-02-11,Alicia Monson,1998.0,Female,Indoor,AR,3K0,USA,2
-8:24.93,nan,AUS,Brighton MA,USA,2024-02-04,Jessica Hull,1996.0,Female,Indoor,AR,3K0,AUS,6
-8:57.59,nan,ARG,Val-de-Reuil,FRA,2023-02-04,Fedra Aldana Luna,1995.0,Female,Indoor,AR,3K0,ARG,3
-11:40.33,nan,ROU,Bucureşti,ROU,1999-01-30,Claudia Ştef,1978.0,Female,Indoor,AR,3G,ROU,1
-12:20.79,nan,USA,Toronto,CAN,1993-03-12,Debbi Lawrence,1961.0,Female,Indoor,AR,3G,USA,2
-13:24.0,nan,BOL,Cochabamba,BOL,2023-02-12,Angela Castro,1993.0,Female,Indoor,AR,3G,BOL,3
-1:32.41,nan,RUS,Glasgow,GBR,2005-01-29,Russia,nan,Female,Indoor,AR,4×2,RUS,1
-1:32.67,nan,USA,New York NY,USA,2018-01-27,United States,nan,Female,Indoor,AR,4×2,USA,2
-3:35.07,nan,BRN,Doha,QAT,2016-02-21,Bahrain,nan,Female,Indoor,AR,4×4,BRN,5
-3:23.37,nan,RUS,Glasgow,GBR,2006-01-28,Russia,nan,Female,Indoor,AR,4×4,RUS,1
-3:23.85,nan,USA,Birmingham,GBR,2018-03-04,United States,nan,Female,Indoor,AR,4×4,USA,2
-3:26.87,nan,AUS,Maebashi,JPN,1999-03-07,Australia,nan,Female,Indoor,AR,4×4,AUS,6
-3:47.37,nan,BOL,Cochabamba,BOL,2022-02-20,Bolivia,nan,Female,Indoor,AR,4×4,BOL,3
-8:06.24,nan,RUS,Moskva,RUS,2011-02-18,Russia,nan,Female,Indoor,AR,4×8,RUS,1
-8:05.89,nan,USA,New York NY,USA,2018-02-03,United States,nan,Female,Indoor,AR,4×8,USA,2
-51.45,nan,BRN,Portland OR,USA,2016-03-19,Kemi Adekoya,1993.0,Female,Indoor,AR,400,BRN,5
-49.24,nan,NED,Apeldoorn,NED,2024-02-18,Femke Bol,2000.0,Female,Indoor,AR,400,NED,1
-49.48,nan,USA,Albuquerque NM,USA,2023-03-11,Britton Wilson,2000.0,Female,Indoor,AR,400,USA,2
-52.17,nan,AUS,Budapest,HUN,1989-03-04,Maree Holland,1963.0,Female,Indoor,AR,400,AUS,6
-51.57,nan,GUY,Beograd,SRB,2022-03-18,Aliyah Abrams,1997.0,Female,Indoor,AR,400,GUY,3
-14:18.86,nan,ETH,Stockholm/G,SWE,2015-02-19,Genzebe Dibaba,1991.0,Female,Indoor,AR,5K0,ETH,4
-14:30.79,nan,GER,Boston MA,USA,2020-02-27,Konstanze Klosterhalfen,1997.0,Female,Indoor,AR,5K0,GER,1
-14:31.38,nan,CAN,Boston MA,USA,2022-02-11,Gabriela DeBues-Stafford,1995.0,Female,Indoor,AR,5K0,CAN,2
-14:39.89,nan,NZL,New York NY,USA,2009-02-27,Kim Smith,1981.0,Female,Indoor,AR,5K0,NZL,6
-15:51.98,nan,ECU,Boston MA,USA,2023-12-02,Carmen Alder,2003.0,Female,Indoor,AR,5K0,ECU,3
-22:23.91,nan,USA,Rochester NY,USA,2018-12-29,Miranda Melville,1989.0,Female,Indoor,AR,5G,USA,2
-24:27.15,nan,BOL,Cochabamba,BOL,2024-01-14,Mayra Karen Quispe,2000.0,Female,Indoor,AR,5G,BOL,3
-7.02,nan,NGR,Liévin,FRA,1998-02-22,Chioma Ajunwa,1970.0,Female,Indoor,AR,60M,NGR,4
-7.09,nan,SRI,Stuttgart,GER,1999-02-07,Susanthika Jayasinghe,1975.0,Female,Indoor,AR,60M,SRI,5
-6.92,nan,RUS,Madrid,ESP,1993-02-11,Irina Privalova,1968.0,Female,Indoor,AR,60M,RUS,1
-6.92,nan,RUS,Madrid,ESP,1995-02-09,Irina Privalova,1968.0,Female,Indoor,AR,60M,RUS,1
-6.94,nan,USA,Albuquerque NM,USA,2023-02-18,Aleia Hobbs,1996.0,Female,Indoor,AR,60M,USA,2
-6.94,nan,LCA,Albuquerque NM,USA,2023-03-11,Julien Alfred,2001.0,Female,Indoor,AR,60M,LCA,2
-7.13,nan,NZL,Beograd,SRB,2022-03-18,Zoe Hobbs,1997.0,Female,Indoor,AR,60M,NZL,6
-7.14,nan,BRA,Beograd,SRB,2022-03-18,Vitoria Cristina Rosa,1996.0,Female,Indoor,AR,60M,BRA,3
-7.82,nan,KAZ,Liévin,FRA,1999-02-21,Olga Shishigina,1968.0,Female,Indoor,AR,60H,KAZ,5
-7.68,nan,SWE,Karlsruhe,GER,2008-02-10,Susanna Kallur,1981.0,Female,Indoor,AR,60H,SWE,1
-7.67,nan,BAH,New York NY,USA,2024-02-11,Devynne Charlton,1995.0,Female,Indoor,AR,60H,BAH,2
-7.73,nan,AUS,Istanbul,TUR,2012-03-10,Sally Pearson,1986.0,Female,Indoor,AR,60H,AUS,6
-7.91,nan,PAN,Sopot,POL,2014-03-07,Yvette Lewis,1985.0,Female,Indoor,AR,60H,PAN,3
-1:57.06,nan,MOZ,Liévin,FRA,1999-02-21,Maria Mutola,1972.0,Female,Indoor,AR,800,MOZ,4
-2:00.78,nan,JPN,Yokohama,JPN,2003-02-22,Miho Sato,1978.0,Female,Indoor,AR,800,JPN,5
-1:55.82,nan,SLO,Wien,AUT,2002-03-03,Jolanda Batagelj,1976.0,Female,Indoor,AR,800,SLO,1
-1:58.29,nan,USA,New York NY,USA,2020-02-08,Ajee’ Wilson,1994.0,Female,Indoor,AR,800,USA,2
-1:59.46,nan,AUS,Birmingham,GBR,2022-02-19,Catriona Bisset,1994.0,Female,Indoor,AR,800,AUS,6
-1:59.21,nan,SUR,Birmingham,GBR,1997-02-23,Letitia Vriesde,1964.0,Female,Indoor,AR,800,SUR,3
-1.97,nan,RSA,Birmingham,GBR,2001-02-18,Hestrie Cloete,1978.0,Female,Indoor,AR,HOC,RSA,4
-1.98,nan,KAZ,Samara,RUS,1996-03-04,Svetlana Zalevskaya,1973.0,Female,Indoor,AR,HOC,KAZ,5
-1.98,nan,KAZ,Beograd,SRB,2022-03-19,Nadezhda Dubovitskaya,1998.0,Female,Indoor,AR,HOC,KAZ,5
-2.08,nan,SWE,Arnstadt,GER,2006-02-04,Kajsa Bergqvist,1976.0,Female,Indoor,AR,HOC,SWE,1
-2.02,nan,USA,Albuquerque NM,USA,2012-02-26,Chaunté Lowe,1984.0,Female,Indoor,AR,HOC,USA,2
-2.00,nan,AUS,Beograd,SRB,2022-03-19,Eleanor Patterson,1996.0,Female,Indoor,AR,HOC,AUS,6
-1.94,nan,ARG,Brno,CZE,2000-02-09,Solange Witteveen,1976.0,Female,Indoor,AR,HOC,ARG,3
-6.97,nan,NGR,Erfurt,GER,1997-02-05,Chioma Ajunwa,1970.0,Female,Indoor,AR,WEI,NGR,4
-6.82,nan,CHN,Beijing,CHN,1992-03-13,Yang Juan,1969.0,Female,Indoor,AR,WEI,CHN,5
-7.37,nan,GER,Wien,AUT,1988-02-13,Heike Drechsler,1964.0,Female,Indoor,AR,WEI,GER,1
-7.23,nan,USA,Istanbul,TUR,2012-03-11,Brittney Reese,1986.0,Female,Indoor,AR,WEI,USA,2
-6.81,nan,AUS,Barcelona,ESP,1995-03-12,Nicole Boegman,1967.0,Female,Indoor,AR,WEI,AUS,6
-6.89,nan,BRA,Valencia,ESP,2008-03-09,Maurren Higa Maggi,1976.0,Female,Indoor,AR,WEI,BRA,3
-4:13.31,nan,ETH,Stockholm/G,SWE,2016-02-17,Genzebe Dibaba,1991.0,Female,Indoor,AR,MEI,ETH,4
-4:24.71,nan,BRN,Birmingham,GBR,2010-02-20,Maryam Jamal,1984.0,Female,Indoor,AR,MEI,BRN,5
-4:17.14,nan,ROU,East Rutherford NJ,USA,1990-02-09,Doina Melinte,1956.0,Female,Indoor,AR,MEI,ROU,1
-4:16.41,nan,USA,New York NY,USA,2024-02-11,Elle St. Pierre,1995.0,Female,Indoor,AR,MEI,USA,2
-4:19.03,nan,AUS,New York NY,USA,2024-02-11,Jessica Hull,1996.0,Female,Indoor,AR,MEI,AUS,6
-4:34.37,nan,ECU,Boston MA,USA,2024-01-27,Carmen Alder,2003.0,Female,Indoor,AR,MEI,ECU,3
-4.41,nan,RSA,Birmingham,GBR,2000-02-20,Elmarie Gerryts,1972.0,Female,Indoor,AR,STA,RSA,4
-4.70,nan,CHN,Doha,QAT,2016-02-19,Li Ling,1989.0,Female,Indoor,AR,STA,CHN,5
-5.01,nan,RUS,Stockholm/G,SWE,2012-02-23,Yelena Isinbayeva,1982.0,Female,Indoor,AR,STA,RUS,1
-5.03,nan,USA,Brockport NY,USA,2016-01-30,Jenn Suhr,1982.0,Female,Indoor,AR,STA,USA,2
-4.91,nan,AUS,Zürich,SUI,2023-08-30,Nina Kennedy,1997.0,Female,Indoor,AR,STA,AUS,6
-4.83,nan,BRA,Nevers,FRA,2015-02-07,Fabiana Murer,1981.0,Female,Indoor,AR,STA,BRA,3
-18.13,nan,NGR,Flagstaff AZ,USA,2006-02-04,Vivian Chukwuemeka,1975.0,Female,Indoor,AR,KUG,NGR,4
-18.13,nan,GBS,Braga,POR,2021-02-13,Jessica Inchude,1996.0,Female,Indoor,AR,KUG,GBS,4
-21.10,nan,CHN,Beijing,CHN,1990-03-03,Sui Xinmei,1965.0,Female,Indoor,AR,KUG,CHN,5
-22.50,nan,CZE,Jablonec,TCH,1977-02-19,Helena Fibingerová,1949.0,Female,Indoor,AR,KUG,CZE,1
-20.21,nan,USA,Portland OR,USA,2016-03-19,Michelle Carter,1985.0,Female,Indoor,AR,KUG,USA,2
-20.21,nan,USA,Beograd,SRB,2022-03-18,Chase Jackson,1994.0,Female,Indoor,AR,KUG,USA,2
-20.98,nan,NZL,Zürich,SUI,2013-08-28,Valerie Adams,1984.0,Female,Indoor,AR,KUG,NZL,6
-18.33,nan,BRA,Pireás,GRE,1999-02-24,Elisângela Adriano,1972.0,Female,Indoor,AR,KUG,BRA,3
-14.90,nan,SUD,Budapest,HUN,2004-03-06,Yamilé Aldama,1972.0,Female,Indoor,AR,DRE,SUD,4
-15.14,nan,KAZ,Doha,QAT,2010-03-13,Olga Rypakova,1984.0,Female,Indoor,AR,DRE,KAZ,5
-15.36,nan,RUS,Budapest,HUN,2004-03-06,Tatyana Lebedeva,1976.0,Female,Indoor,AR,DRE,RUS,1
-15.12,nan,USA,Albuquerque NM,USA,2023-03-11,Jasmine Moore,2001.0,Female,Indoor,AR,DRE,USA,2
-13.31,nan,AUS,Budapest,HUN,2004-03-05,Nicole Mladenis,1975.0,Female,Indoor,AR,DRE,AUS,6
-15.74,nan,VEN,Beograd,SRB,2022-03-20,Yulimar Rojas,1995.0,Female,Indoor,AR,DRE,VEN,3
+result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,environment,code,discipline,code
+26:11.00,,UGA,Valencia,ESP,2020-10-07,Joshua Cheptegei,1996.0,Male,Outdoor,AR,10K,4
+26:38.76,,QAT,Bruxelles,BEL,2003-09-05,Abdullah Ahmad Hassan,1981.0,Male,Outdoor,AR,10K,5
+26:46.57,,GBR,Eugene OR,USA,2011-06-03,Mo Farah,1983.0,Male,Outdoor,AR,10K,1
+26:44.36,,USA,Eugene OR,USA,2014-05-30,Galen Rupp,1986.0,Male,Outdoor,AR,10K,2
+27:15.35,,AUS,San Juan Capistrano CA,USA,2022-03-06,Jack Rayner,1995.0,Male,Outdoor,AR,10K,6
+27:28.12,,BRA,Neerpelt,BEL,2007-06-02,Marílson dos Santos,1977.0,Male,Outdoor,AR,10K,3
+39:51.2,,ETH,Addis Ababa,ETH,2023-05-20,Misganaw Wakuma,2004.0,Male,Outdoor,AR,10G,4
+38:25.42,,CAN,Canberra,AUS,2024-01-28,Evan Dunfee,1990.0,Male,Outdoor,AR,10G,2
+2:11.96,,KEN,Rieti,ITA,1999-09-05,Noah Ngeny,1978.0,Male,Outdoor,AR,1K0,4
+2:14.72,,BRN,Stockholm/S,SWE,2008-07-22,Youssef Saad Kamel,1981.0,Male,Outdoor,AR,1K0,5
+2:12.18,,GBR,Oslo,NOR,1981-07-11,Sebastian Coe,1956.0,Male,Outdoor,AR,1K0,1
+2:16.09,,AUS,Ostrava,CZE,2014-06-17,Jeff Riseley,1986.0,Male,Outdoor,AR,1K0,6
+2:14.09,,BRA,Nice,FRA,1984-08-20,Joaquim Cruz,1963.0,Male,Outdoor,AR,1K0,3
+9.77,1.2,KEN,Nairobi,KEN,2021-09-18,Ferdinand Omanyala,1996.0,Male,Outdoor,AR,100,4
+9.83,0.9,CHN,Tokyo,JPN,2021-08-01,Su Bingtian,1989.0,Male,Outdoor,AR,100,5
+9.80,0.1,ITA,Tokyo,JPN,2021-08-01,Lamont Marcell Jacobs,1994.0,Male,Outdoor,AR,100,1
+9.58,0.9,JAM,Berlin,GER,2009-08-16,Usain Bolt,1986.0,Male,Outdoor,AR,100,2
+9.93,1.8,AUS,Mito,JPN,2003-05-05,Patrick Johnson,1972.0,Male,Outdoor,AR,100,6
+9.89,0.8,SUR,São Paulo,BRA,2023-07-28,Issam Asinga,2004.0,Male,Outdoor,AR,100,3
+13.11,1.8,RSA,Praha,CZE,2017-06-05,Antonio Alkana,1990.0,Male,Outdoor,AR,11H,4
+12.88,1.1,CHN,Lausanne,SUI,2006-07-11,Liu Xiang,1983.0,Male,Outdoor,AR,11H,5
+12.91,0.5,GBR,Stuttgart,GER,1993-08-20,Colin Jackson,1967.0,Male,Outdoor,AR,11H,1
+12.80,0.3,USA,Bruxelles,BEL,2012-09-07,Aries Merritt,1985.0,Male,Outdoor,AR,11H,2
+13.29,0.6,AUS,Göteborg/U,SWE,1995-08-11,Kyle Vander-Kuyp,1971.0,Male,Outdoor,AR,11H,6
+13.17,0.4,BRA,Río de Janeiro,BRA,2022-06-23,Rafael Henrique Pereira,1997.0,Male,Outdoor,AR,11H,3
+3:26.00,,MAR,Roma,ITA,1998-07-14,Hicham El Guerrouj,1974.0,Male,Outdoor,AR,1K5,4
+3:29.14,,BRN,Roma,ITA,2006-07-14,Rashid Ramzi,1980.0,Male,Outdoor,AR,1K5,5
+3:27.14,,NOR,Chorzów,POL,2023-07-16,Jakob Ingebrigtsen,2000.0,Male,Outdoor,AR,1K5,1
+3:29.02,,USA,Oslo,NOR,2023-06-15,Yared Nuguse,1999.0,Male,Outdoor,AR,1K5,2
+3:29.41,,AUS,Oslo,NOR,2023-06-15,Olli Hoare,1997.0,Male,Outdoor,AR,1K5,6
+3:33.25,,BRA,Rieti,ITA,2005-08-28,Hudson de Souza,1977.0,Male,Outdoor,AR,1K5,3
+4:44.79,,MAR,Berlin,GER,1999-09-07,Hicham El Guerrouj,1974.0,Male,Outdoor,AR,2K0,4
+4:55.57,,QAT,Roma,ITA,1995-06-08,Mohamed Ahmed Suleiman,1969.0,Male,Outdoor,AR,2K0,5
+4:43.13,,NOR,Bruxelles,BEL,2023-09-08,Jakob Ingebrigtsen,2000.0,Male,Outdoor,AR,2K0,1
+4:51.54,,CAN,Bruxelles,BEL,2023-09-08,Charles Philibert-Thiboutot,1990.0,Male,Outdoor,AR,2K0,2
+4:48.77,,AUS,Bruxelles,BEL,2023-09-08,Stewart McSweyn,1995.0,Male,Outdoor,AR,2K0,6
+5:03.34,,BRA,Manaus,BRA,2002-04-06,Hudson de Souza,1977.0,Male,Outdoor,AR,2K0,3
+19.50,1.6,BOT,London,GBR,2023-07-23,Letsile Tebogo,2003.0,Male,Outdoor,AR,200,4
+19.88,0.9,CHN,London,GBR,2019-07-21,Xie Zhenye,1993.0,Male,Outdoor,AR,200,5
+19.72,1.8,ITA,Ciudad de México,MEX,1979-09-12,Pietro Mennea,1952.0,Male,Outdoor,AR,200,1
+19.19,-0.3,JAM,Berlin,GER,2009-08-20,Usain Bolt,1986.0,Male,Outdoor,AR,200,2
+20.06,0.9,AUS,Ciudad de México,MEX,1968-10-16,Peter Norman,1942.0,Male,Outdoor,AR,200,6
+19.81,-0.3,PAN,Berlin,GER,2009-08-20,Alonso Edward,1989.0,Male,Outdoor,AR,200,3
+7:20.67,,KEN,Rieti,ITA,1996-09-01,Daniel Komen,1976.0,Male,Outdoor,AR,3K0,4
+7:30.76,,QAT,Doha,QAT,2005-05-13,Jamal Bilal Salem,1978.0,Male,Outdoor,AR,3K0,5
+7:23.63,,NOR,Eugene OR,USA,2023-09-17,Jakob Ingebrigtsen,2000.0,Male,Outdoor,AR,3K0,1
+7:25.47,,USA,Eugene OR,USA,2023-09-17,Grant Fisher,1997.0,Male,Outdoor,AR,3K0,2
+7:28.02,,AUS,Roma,ITA,2020-09-17,Stewart McSweyn,1995.0,Male,Outdoor,AR,3K0,6
+7:37.15,,URU,Zagreb,CRO,2023-09-10,Santiago Catrofe,1999.0,Male,Outdoor,AR,3K0,3
+7:52.11,,ETH,Paris,FRA,2023-06-09,Lamecha Girma,2000.0,Male,Outdoor,AR,3KH,4
+7:53.63,,QAT,Bruxelles,BEL,2004-09-03,Saif Saeed Shaheen,1982.0,Male,Outdoor,AR,3KH,5
+8:00.09,,FRA,Saint-Denis,FRA,2013-07-06,Mahiedine Mekhissi-Benabbad,1985.0,Male,Outdoor,AR,3KH,1
+8:00.45,,USA,Saint-Denis,FRA,2015-07-04,Evan Jager,1989.0,Male,Outdoor,AR,3KH,2
+8:13.26,,NZL,Monaco,MON,2023-07-21,George Beamish,1996.0,Male,Outdoor,AR,3KH,6
+8:14.41,,BRA,Mar del Plata,ARG,1995-03-22,Wander Moura,1969.0,Male,Outdoor,AR,3KH,3
+37.65,,RSA,Doha,QAT,2019-10-04,South Africa,,Male,Outdoor,AR,4×1,4
+37.43,,JPN,Doha,QAT,2019-10-05,Japan,,Male,Outdoor,AR,4×1,5
+37.36,,GBR,Doha,QAT,2019-10-05,Great Britain,,Male,Outdoor,AR,4×1,1
+36.84,,JAM,London,GBR,2012-08-11,Jamaica,,Male,Outdoor,AR,4×1,2
+38.17,,AUS,Göteborg/U,SWE,1995-08-12,Australia,,Male,Outdoor,AR,4×1,6
+38.17,,AUS,London,GBR,2012-08-10,Australia,,Male,Outdoor,AR,4×1,6
+37.72,,BRA,Doha,QAT,2019-10-05,Brazil,,Male,Outdoor,AR,4×1,3
+1:20.42,,RSA,Yokohama,JPN,2019-05-12,South Africa,,Male,Outdoor,AR,4×2,4
+1:20.83,,CHN,Xi'an,CHN,2021-09-23,China,,Male,Outdoor,AR,4×2,5
+1:20.83,,CHN,Xi'an,CHN,2021-09-23,China,,Male,Outdoor,AR,4×2,5
+1:20.66,,FRA,Nassau,BAH,2014-05-24,France,,Male,Outdoor,AR,4×2,1
+1:23.04,,AUS,Sydney,AUS,1998-12-06,Australia,,Male,Outdoor,AR,4×2,6
+1:24.42,,GUY,Philadelphia PA,USA,2015-04-25,Guyana,,Male,Outdoor,AR,4×2,3
+2:57.27,,BOT,Tokyo,JPN,2021-08-07,Botswana,,Male,Outdoor,AR,4×4,4
+2:59.05,,IND,Budapest,HUN,2023-08-26,India,,Male,Outdoor,AR,4×4,5
+2:56.60,,GBR,Atlanta GA,USA,1996-08-03,Great Britain,,Male,Outdoor,AR,4×4,1
+2:54.29,,USA,Stuttgart,GER,1993-08-22,United States,,Male,Outdoor,AR,4×4,2
+2:59.70,,AUS,Los Angeles CA,USA,1984-08-11,Australia,,Male,Outdoor,AR,4×4,6
+2:58.56,,BRA,Winnipeg,CAN,1999-07-30,Brazil,,Male,Outdoor,AR,4×4,3
+7:02.43,,KEN,Bruxelles,BEL,2006-08-25,Kenya,,Male,Outdoor,AR,4×8,4
+7:26.17,,CHN,Shaoxing,CHN,2023-09-15,China,,Male,Outdoor,AR,4×8,5
+7:03.89,,GBR,London,GBR,1982-08-30,Great Britain,,Male,Outdoor,AR,4×8,1
+7:11.48,,AUS,Nassau,BAH,2014-05-24,Australia,,Male,Outdoor,AR,4×8,6
+7:47.3,,BRA,São Paulo,BRA,1965-04-21,Brazil,,Male,Outdoor,AR,4×8,3
+43.03,,RSA,Río de Janeiro,BRA,2016-08-14,Wayde van Niekerk,1992.0,Male,Outdoor,AR,400,4
+43.93,,KSA,Beijing,CHN,2015-08-23,Youssef Al-Masrahi,1987.0,Male,Outdoor,AR,400,5
+44.26,,GBR,Budapest,HUN,2023-08-22,Matthew Hudson-Smith,1994.0,Male,Outdoor,AR,400,1
+43.18,,USA,Sevilla,ESP,1999-08-26,Michael Johnson,1967.0,Male,Outdoor,AR,400,2
+44.38,,AUS,Seoul,KOR,1988-09-26,Darren Clark,1965.0,Male,Outdoor,AR,400,6
+43.93,,COL,Tokyo,JPN,2021-08-02,Anthony Zambrano,1998.0,Male,Outdoor,AR,400,3
+47.10,,ZAM,Zürich,SUI,1991-08-07,Samuel Matete,1968.0,Male,Outdoor,AR,40H,4
+46.98,,QAT,Paris,FRA,2018-06-30,Abderrahmane Samba,1995.0,Male,Outdoor,AR,40H,5
+45.94,,NOR,Tokyo,JPN,2021-08-03,Karsten Warholm,1996.0,Male,Outdoor,AR,40H,1
+46.17,,USA,Tokyo,JPN,2021-08-03,Rai Benjamin,1997.0,Male,Outdoor,AR,40H,2
+48.28,,AUS,Atlanta GA,USA,1996-07-31,Rohan Robinson,1971.0,Male,Outdoor,AR,40H,6
+46.29,,BRA,Eugene OR,USA,2022-07-19,Alison dos Santos,2000.0,Male,Outdoor,AR,40H,3
+12:35.36,,UGA,Monaco,MON,2020-08-14,Joshua Cheptegei,1996.0,Male,Outdoor,AR,5K0,4
+12:51.96,,BRN,Monaco,MON,2013-07-19,Albert Rop,1992.0,Male,Outdoor,AR,5K0,5
+12:45.01,,ESP,Monaco,MON,2023-07-21,Mohamed Katir,1998.0,Male,Outdoor,AR,5K0,1
+12:46.96,,USA,Bruxelles,BEL,2022-09-02,Grant Fisher,1997.0,Male,Outdoor,AR,5K0,2
+12:55.76,,AUS,London,GBR,2004-07-30,Craig Mottram,1980.0,Male,Outdoor,AR,5K0,6
+13:11.57,,ARG,Stanford CA,USA,2023-04-21,Federico Bruno,1993.0,Male,Outdoor,AR,5K0,3
+18:05.49,,TUN,Tunis,TUN,1997-05-01,Hatem Ghoula,1973.0,Male,Outdoor,AR,5G,4
+1:40.91,,KEN,London,GBR,2012-08-09,David Rudisha,1988.0,Male,Outdoor,AR,800,4
+1:42.79,,BRN,Monaco,MON,2008-07-29,Youssef Saad Kamel,1981.0,Male,Outdoor,AR,800,5
+1:41.11,,DEN,Köln,GER,1997-08-24,Wilson Kipketer,1972.0,Male,Outdoor,AR,800,1
+1:42.34,,USA,Doha,QAT,2019-10-01,Donavan Brazier,1997.0,Male,Outdoor,AR,800,2
+1:43.99,,AUS,Decines Charpieu,FRA,2023-07-08,Joseph Deng,1998.0,Male,Outdoor,AR,800,6
+1:41.77,,BRA,Köln,GER,1984-08-26,Joaquim Cruz,1963.0,Male,Outdoor,AR,800,3
+70.32,,RSA,Salôn-de-Provence,FRA,2002-05-26,Frantz Kruger,1975.0,Male,Outdoor,AR,DIS,4
+69.32,,IRI,Tallinn,EST,2008-06-03,Ehsan Hadadi,1985.0,Male,Outdoor,AR,DIS,5
+74.08,,GER,Neubrandenburg,GER,1986-06-06,Jürgen Schult,1960.0,Male,Outdoor,AR,DIS,1
+71.32,,USA,Eugene OR,USA,1983-06-04,Ben Plucknett,1954.0,Male,Outdoor,AR,DIS,2
+70.42,,SAM,Ramona OK,USA,2023-04-16,Alex Rose,1991.0,Male,Outdoor,AR,DIS,6
+70.29,,COL,Vila Nova Cerveira,POR,2020-07-22,Mauricio Ortega,1994.0,Male,Outdoor,AR,DIS,3
+81.27,,EGY,Cairo,EGY,2014-03-21,Mostafa Hicham Al-Gamal,1988.0,Male,Outdoor,AR,HAM,4
+84.86,,JPN,Praha,CZE,2003-06-29,Koji Murofushi,1974.0,Male,Outdoor,AR,HAM,5
+86.74,,UKR,Stuttgart,FRG,1986-08-30,Yuriy Sedykh,1955.0,Male,Outdoor,AR,HAM,1
+82.71,,USA,Eugene OR,USA,2021-06-20,Rudy Winkler,1994.0,Male,Outdoor,AR,HAM,2
+79.29,,AUS,Varaždin,CRO,2002-07-06,Stuart Rendell,1972.0,Male,Outdoor,AR,HAM,6
+78.63,,BRA,Celje,SLO,2016-06-19,Wagner Domingos,1983.0,Male,Outdoor,AR,HAM,3
+2.38,,RSA,Oudtshoorn,RSA,2005-03-05,Jacques Freitag,1982.0,Male,Outdoor,AR,HOC,4
+2.43,,QAT,Bruxelles,BEL,2014-09-05,Mutaz Essa Barshim,1991.0,Male,Outdoor,AR,HOC,5
+2.42,,SWE,Stockholm/S,SWE,1987-06-30,Patrik Sjöberg,1965.0,Male,Outdoor,AR,HOC,1
+2.45,,CUB,Salamanca,ESP,1993-07-27,Javier Sotomayor,1967.0,Male,Outdoor,AR,HOC,2
+2.36,,AUS,Melbourne,AUS,1997-03-02,Tim Forsyth,1973.0,Male,Outdoor,AR,HOC,6
+2.36,,AUS,Eberstadt,GER,2018-08-26,Brandon Starc,1993.0,Male,Outdoor,AR,HOC,6
+2.33,,COL,Pereira,COL,1994-10-17,Gilmar Mayo,1969.0,Male,Outdoor,AR,HOC,3
+92.72,,KEN,Beijing,CHN,2015-08-26,Julius Yego,1989.0,Male,Outdoor,AR,SPE,4
+91.36,,TPE,Taipei,TPE,2017-08-26,Cheng Chao-Tsun,1993.0,Male,Outdoor,AR,SPE,5
+98.48,,CZE,Jena,GER,1996-05-25,Jan Železný,1966.0,Male,Outdoor,AR,SPE,1
+93.07,,GRN,Doha,QAT,2022-05-13,Anderson Peters,1997.0,Male,Outdoor,AR,SPE,2
+89.02,,AUS,Brisbane,AUS,2008-02-29,Jarrod Bannister,1984.0,Male,Outdoor,AR,SPE,6
+84.70,,PAR,San Marcos CA,USA,1999-10-17,Edgar Baumann,1970.0,Male,Outdoor,AR,SPE,3
+8.65,1.3,RSA,Potchefstroom,RSA,2017-04-22,Luvo Manyonga,1991.0,Male,Outdoor,AR,WEI,4
+8.48,0.6,KSA,Sotteville-lès-Rouen,FRA,2006-07-02,Mohamed Salman Al-Khuwalidi,1981.0,Male,Outdoor,AR,WEI,5
+8.86,1.9,ARM,Tsakhkadzor,URS,1987-05-22,Robert Emmiyan,1965.0,Male,Outdoor,AR,WEI,1
+8.95,0.3,USA,Tokyo,JPN,1991-08-30,Mike Powell,1963.0,Male,Outdoor,AR,WEI,2
+8.54,1.7,AUS,Stockholm/S,SWE,2011-07-29,Mitchell Watt,1988.0,Male,Outdoor,AR,WEI,6
+8.73,1.2,PAN,Hengelo,NED,2008-05-24,Irving Saladino,1983.0,Male,Outdoor,AR,WEI,3
+3:43.13,,MAR,Roma,ITA,1999-07-07,Hicham El Guerrouj,1974.0,Male,Outdoor,AR,MEI,4
+3:47.97,,QAT,Oslo,NOR,2005-07-29,Dahame Najem Bashir,1979.0,Male,Outdoor,AR,MEI,5
+3:43.73,,NOR,Eugene OR,USA,2023-09-16,Jakob Ingebrigtsen,2000.0,Male,Outdoor,AR,MEI,1
+3:43.97,,USA,Eugene OR,USA,2023-09-16,Yared Nuguse,1999.0,Male,Outdoor,AR,MEI,2
+3:47.48,,AUS,Oslo,NOR,2022-06-16,Olli Hoare,1997.0,Male,Outdoor,AR,MEI,6
+3:51.05,,BRA,Oslo,NOR,2005-07-29,Hudson de Souza,1977.0,Male,Outdoor,AR,MEI,3
+6.03,,RSA,Köln,GER,1995-08-18,Okkert Brits,1973.0,Male,Outdoor,AR,STA,4
+6.00,,PHI,Budapest,HUN,2023-08-26,Ernest John Obiena,1995.0,Male,Outdoor,AR,STA,5
+6.23,,SWE,Eugene OR,USA,2023-09-17,Armand Duplantis,1999.0,Male,Outdoor,AR,STA,1
+6.07,,USA,Nashville TN,USA,2023-06-02,KC Lightfoot,1999.0,Male,Outdoor,AR,STA,2
+6.03,,BRA,Río de Janeiro,BRA,2016-08-15,Thiago Braz,1993.0,Male,Outdoor,AR,STA,3
+21.97,,RSA,Eugene OR,USA,2001-06-02,Janus Robberts,1979.0,Male,Outdoor,AR,KUG,4
+21.77,,IND,Bhubaneshwar,IND,2023-06-19,Tajinderpal Singh,1994.0,Male,Outdoor,AR,KUG,5
+23.06,,GER,Haniá,GRE,1988-05-22,Ulf Timmermann,1962.0,Male,Outdoor,AR,KUG,1
+23.56,,USA,Westwood CA,USA,2023-05-27,Ryan Crouser,1992.0,Male,Outdoor,AR,KUG,2
+22.90,,NZL,Doha,QAT,2019-10-05,Tom Walsh,1992.0,Male,Outdoor,AR,KUG,6
+22.61,,BRA,Stanford CA,USA,2019-06-30,Darlan Romani,1991.0,Male,Outdoor,AR,KUG,3
+17.59,0.0,CHN,Jinan,CHN,2009-10-26,Li Yanxi,1983.0,Male,Outdoor,AR,DRE,5
+18.29,1.3,GBR,Göteborg/U,SWE,1995-08-07,Jonathan Edwards,1966.0,Male,Outdoor,AR,DRE,1
+18.21,0.2,USA,Beijing,CHN,2015-08-27,Christian Taylor,1990.0,Male,Outdoor,AR,DRE,2
+17.46,1.7,AUS,London,GBR,1982-08-07,Ken Lorraway,1956.0,Male,Outdoor,AR,DRE,6
+17.90,0.4,BRA,Belém,BRA,2007-05-20,Jadel Gregório,1980.0,Male,Outdoor,AR,DRE,3
+2:14.20,,DJI,Stockholm/G,SWE,2016-02-17,Ayanleh Souleiman,1992.0,Male,Indoor,AR,1K0,4
+2:14.96,,DEN,Birmingham,GBR,2000-02-20,Wilson Kipketer,1972.0,Male,Indoor,AR,1K0,1
+2:14.74,,CAN,Brighton MA,USA,2024-02-04,Marco Arop,1998.0,Male,Indoor,AR,1K0,2
+2:16.95,,AUS,Boston MA,USA,2024-02-10,Jack Anstey,1997.0,Male,Indoor,AR,1K0,6
+10.42,,BRA,Tampere,FIN,2006-02-04,Vicente de Lima,1977.0,Male,Indoor,AR,100,3
+3:31.04,,ETH,Birmingham,GBR,2019-02-16,Samuel Tefera,1999.0,Male,Indoor,AR,1K5,4
+3:36.28,,BRN,Stockholm/G,SWE,2007-02-20,Bilal Mansour Ali,1988.0,Male,Indoor,AR,1K5,5
+3:30.60,,NOR,Liévin,FRA,2022-02-17,Jakob Ingebrigtsen,2000.0,Male,Indoor,AR,1K5,1
+3:32.35,,AUS,Staten Island NY,USA,2021-02-13,Olli Hoare,1997.0,Male,Indoor,AR,1K5,6
+3:38.03,,ARG,Sabadell,ESP,2022-02-08,Federico Bruno,1993.0,Male,Indoor,AR,1K5,3
+5:09.61,,ARG,Bordeaux,FRA,2013-01-26,Federico Bruno,1993.0,Male,Indoor,AR,2K0,3
+19.92,,NAM,Liévin,FRA,1996-02-18,Frank Fredericks,1967.0,Male,Indoor,AR,200,4
+20.63,,JPN,Maebashi,JPN,1999-03-05,Koji Ito,1970.0,Male,Indoor,AR,200,5
+20.25,,GBR,Liévin,FRA,1995-02-19,Linford Christie,1960.0,Male,Indoor,AR,200,1
+20.02,,USA,College Station TX,USA,2018-03-10,Elijah Hall-Thompson,1994.0,Male,Indoor,AR,200,2
+20.71,,AUS,Toronto,CAN,1993-03-14,Damien Marsh,1971.0,Male,Indoor,AR,200,6
+20.65,,BRA,Sindelfingen,FRG,1989-02-26,Robson Caetano da Silva,1964.0,Male,Indoor,AR,200,3
+7:23.81,,ETH,Liévin,FRA,2023-02-15,Lamecha Girma,2000.0,Male,Indoor,AR,3K0,4
+7:31.77,,BRN,Liévin,FRA,2022-02-17,Birhanu Balew,1996.0,Male,Indoor,AR,3K0,5
+7:24.68,,ESP,Liévin,FRA,2023-02-15,Mohamed Katir,1998.0,Male,Indoor,AR,3K0,1
+7:28.23,,USA,Boston MA,USA,2023-01-27,Yared Nuguse,1999.0,Male,Indoor,AR,3K0,2
+7:34.50,,AUS,Boston MA,USA,2008-01-26,Craig Mottram,1980.0,Male,Indoor,AR,3K0,6
+7:49.46,,COL,Sevilla,ESP,1991-03-10,Jacinto Navarrete,1962.0,Male,Indoor,AR,3K0,3
+1:22.11,,GBR,Glasgow,GBR,1991-03-03,Great Britain,,Male,Indoor,AR,4×2,1
+1:22.71,,USA,Glasgow,GBR,1991-03-03,United States,,Male,Indoor,AR,4×2,2
+3:07.95,,NGR,Sopot,POL,2014-03-08,Nigeria,,Male,Indoor,AR,4×4,4
+3:05.90,,JPN,Maebashi,JPN,1999-03-06,Japan,,Male,Indoor,AR,4×4,5
+3:01.77,,POL,Birmingham,GBR,2018-03-04,Poland,,Male,Indoor,AR,4×4,1
+3:01.39,,USA,College Station TX,USA,2018-03-10,United States,,Male,Indoor,AR,4×4,2
+3:08.49,,AUS,Sevilla,ESP,1991-03-10,Australia,,Male,Indoor,AR,4×4,6
+3:10.50,,BRA,Paris,FRA,1997-03-08,Brazil,,Male,Indoor,AR,4×4,3
+7:17.8,,URS,Sofia,BUL,1971-03-14,Soviet Union,,Male,Indoor,AR,4×8,
+7:11.30,,USA,Boston MA,USA,2018-02-25,United States,,Male,Indoor,AR,4×8,2
+45.18,,UGA,Lubbock TX,USA,2024-02-23,Eugene Omalla,2000.0,Male,Indoor,AR,400,4
+45.39,,QAT,Stockholm/G,SWE,2015-02-19,Abdalelah Haroun,1997.0,Male,Indoor,AR,400,5
+45.05,,GER,Sindelfingen,FRG,1988-02-05,Thomas Schönlebe,1965.0,Male,Indoor,AR,400,1
+45.05,,NOR,Glasgow,GBR,2019-03-02,Karsten Warholm,1996.0,Male,Indoor,AR,400,1
+44.49,,CAN,Fayetteville AR,USA,2024-02-24,Chris Morales Williams,2004.0,Male,Indoor,AR,400,2
+45.44,,AUS,Clemson SC,USA,2018-02-23,Steven Solomon,1993.0,Male,Indoor,AR,400,6
+46.07,,COL,Birmingham AL,USA,2019-03-09,Alejandro Perlaza,1994.0,Male,Indoor,AR,400,3
+49.87,,ESP,Nerja,ESP,2023-04-15,Jesus David Delgado,1999.0,Male,Indoor,AR,40H,1
+12:49.60,,ETH,Birmingham,GBR,2004-02-20,Kenenisa Bekele,1982.0,Male,Indoor,AR,5K0,4
+13:08.41,,THA,Boston MA,USA,2022-02-12,Kieran Tuntivate,1997.0,Male,Indoor,AR,5K0,5
+12:57.08,,GBR,Boston MA,USA,2022-02-12,Marc Scott,1993.0,Male,Indoor,AR,5K0,1
+12:51.61,,USA,Boston MA,USA,2023-01-27,Woody Kincaid,1992.0,Male,Indoor,AR,5K0,2
+13:04.33,,NZL,Boston MA,USA,2024-01-26,George Beamish,1996.0,Male,Indoor,AR,5K0,6
+13:42.54,,ARG,San Sebastián,ESP,1990-02-20,Antonio Silio,1966.0,Male,Indoor,AR,5K0,3
+19:39.92,,TUN,Liévin,FRA,2018-02-18,Hédi Taraaoui,1989.0,Male,Indoor,AR,5G,4
+21:46.37,,KAZ,Ust-Kamenogorsk,KAZ,2024-02-23,Egizbay Zharylkasyn,2006.0,Male,Indoor,AR,5G,5
+18:07.08,,RUS,Moskva,RUS,1995-02-14,Mikhail Shchennikov,1967.0,Male,Indoor,AR,5G,1
+19:21.18,,GUA,Bratislava,SVK,2019-01-27,Erick Barrondo,1991.0,Male,Indoor,AR,5G,2
+19:28.87,,BRA,Toronto,CAN,1993-03-13,Sérgio Galdino,1969.0,Male,Indoor,AR,5G,3
+6.45,,GHA,Air Force Academy CO,USA,1999-02-20,Leo Myles-Mills,1973.0,Male,Indoor,AR,60M,4
+6.42,,CHN,Birmingham,GBR,2018-03-03,Su Bingtian,1989.0,Male,Indoor,AR,60M,5
+6.41,,ITA,Beograd,SRB,2022-03-19,Lamont Marcell Jacobs,1994.0,Male,Indoor,AR,60M,1
+6.34,,USA,Albuquerque NM,USA,2018-02-18,Christian Coleman,1996.0,Male,Indoor,AR,60M,2
+6.52,,AUS,Maebashi,JPN,1999-03-07,Matt Shirvington,1978.0,Male,Indoor,AR,60M,6
+6.52,,AUS,Maebashi,JPN,1999-03-07,Matt Shirvington,1978.0,Male,Indoor,AR,60M,6
+6.52,,BRA,Paris,FRA,2009-02-13,José Carlos Moreira,1983.0,Male,Indoor,AR,60M,3
+7.52,,RSA,Gent,BEL,2001-02-23,Shaun Bownes,1970.0,Male,Indoor,AR,60H,4
+7.41,,CHN,Birmingham,GBR,2012-02-18,Liu Xiang,1983.0,Male,Indoor,AR,60H,5
+7.30,,GBR,Sindelfingen,GER,1994-03-06,Colin Jackson,1967.0,Male,Indoor,AR,60H,1
+7.27,,USA,Albuquerque NM,USA,2024-02-16,Grant Holloway,1997.0,Male,Indoor,AR,60H,2
+7.56,,AUS,Beograd,SRB,2022-03-20,Chris Douglas,1997.0,Male,Indoor,AR,60H,6
+7.58,,BRA,Berlin,GER,2022-02-04,Rafael Henrique Pereira,1997.0,Male,Indoor,AR,60H,3
+7.58,,BRA,Mondeville,FRA,2022-02-09,Rafael Henrique Pereira,1997.0,Male,Indoor,AR,60H,3
+7.58,,BRA,Val-de-Reuil,FRA,2022-02-14,Rafael Henrique Pereira,1997.0,Male,Indoor,AR,60H,3
+7.58,,BRA,Cochabamba,BOL,2022-02-20,Rafael Henrique Pereira,1997.0,Male,Indoor,AR,60H,3
+7.58,,BRA,Beograd,SRB,2022-03-20,Rafael Henrique Pereira,1997.0,Male,Indoor,AR,60H,3
+1:43.98,,KEN,New York NY,USA,2019-02-09,Michael Saruni,1995.0,Male,Indoor,AR,800,4
+1:45.26,,BRN,Valencia,ESP,2008-03-09,Youssef Saad Kamel,1981.0,Male,Indoor,AR,800,5
+1:42.67,,DEN,Paris,FRA,1997-03-09,Wilson Kipketer,1972.0,Male,Indoor,AR,800,1
+1:44.21,,USA,Staten Island NY,USA,2021-02-13,Donavan Brazier,1997.0,Male,Indoor,AR,800,2
+1:45.59,,AUS,Fayetteville AR,USA,2021-02-13,Charles Hunter,1996.0,Male,Indoor,AR,800,6
+1:45.43,,BRA,Pireás,GRE,1989-03-08,José Luiz Barbosa,1961.0,Male,Indoor,AR,800,3
+2.32,,NGR,Pátra,GRE,2000-02-15,Anthony Idiata,1975.0,Male,Indoor,AR,HOC,4
+2.41,,QAT,Athlone,IRL,2015-02-18,Mutaz Essa Barshim,1991.0,Male,Indoor,AR,HOC,5
+2.42,,GER,West Berlin,GER,1988-02-26,Carlo Thränhardt,1957.0,Male,Indoor,AR,HOC,1
+2.43,,CUB,Budapest,HUN,1989-03-04,Javier Sotomayor,1967.0,Male,Indoor,AR,HOC,2
+2.34,,NZL,Banská Bystrica,SVK,2023-02-14,Hamish Kerr,1996.0,Male,Indoor,AR,HOC,6
+2.31,,BRA,Beograd,SRB,2022-03-20,Thiago Julio Moura,1995.0,Male,Indoor,AR,HOC,3
+8.44,,RSA,Birmingham,GBR,2018-03-02,Luvo Manyonga,1991.0,Male,Indoor,AR,WEI,4
+8.27,,CHN,Nanjing,CHN,2010-03-11,Su Xiongfeng,1987.0,Male,Indoor,AR,WEI,5
+8.71,,GER,Torino,ITA,2009-03-08,Sebastian Bayer,1986.0,Male,Indoor,AR,WEI,1
+8.79,,USA,New York NY,USA,1984-01-27,Carl Lewis,1961.0,Male,Indoor,AR,WEI,2
+8.25,,AUS,Portland OR,USA,2016-03-20,Fabrice LaPierre,1983.0,Male,Indoor,AR,WEI,6
+8.42,,PAN,Athína,GRE,2008-02-13,Irving Saladino,1983.0,Male,Indoor,AR,WEI,3
+3:47.01,,ETH,Boston MA,USA,2019-03-03,Yomif Kejelcha,1997.0,Male,Indoor,AR,MEI,4
+3:54.84,,JPN,Boston MA,USA,2024-02-10,Ryuma Aoki,1997.0,Male,Indoor,AR,MEI,5
+3:48.93,,GBR,New York NY,USA,2024-02-11,George Mills,1999.0,Male,Indoor,AR,MEI,1
+3:47.38,,USA,New York NY,USA,2023-02-11,Yared Nuguse,1999.0,Male,Indoor,AR,MEI,2
+3:50.83,,AUS,New York NY,USA,2022-01-29,Olli Hoare,1997.0,Male,Indoor,AR,MEI,6
+3:50.83,,AUS,New York NY,USA,2023-02-11,Olli Hoare,1997.0,Male,Indoor,AR,MEI,6
+3:56.26,,BRA,Fayetteville AR,USA,2001-02-10,Hudson de Souza,1977.0,Male,Indoor,AR,MEI,3
+5.93,,PHI,Berlin,GER,2024-02-23,Ernest John Obiena,1995.0,Male,Indoor,AR,STA,5
+6.22,,SWE,Clermont-Ferrand,FRA,2023-02-25,Armand Duplantis,1999.0,Male,Indoor,AR,STA,1
+6.01,,USA,Rouen,FRA,2020-02-08,Sam Kendricks,1992.0,Male,Indoor,AR,STA,2
+6.06,,AUS,Boston MA,USA,2009-02-07,Steve Hooker,1982.0,Male,Indoor,AR,STA,6
+5.95,,BRA,Beograd,SRB,2022-03-20,Thiago Braz,1993.0,Male,Indoor,AR,STA,3
+21.63,,NGR,Nehvizdy,CZE,2024-02-20,Chukwuebuka Enekwechi,1993.0,Male,Indoor,AR,KUG,4
+21.10,,BRN,Gomel,BLR,2021-01-29,Abdelrahman Mahmoud,2001.0,Male,Indoor,AR,KUG,5
+22.55,,GER,Senftenberg,GER,1989-02-11,Ulf Timmermann,1962.0,Male,Indoor,AR,KUG,1
+23.38,,USA,Pocatello ID,USA,2023-02-18,Ryan Crouser,1992.0,Male,Indoor,AR,KUG,2
+22.31,,NZL,Birmingham,GBR,2018-03-03,Tom Walsh,1992.0,Male,Indoor,AR,KUG,6
+22.31,,NZL,Beograd,SRB,2022-03-19,Tom Walsh,1992.0,Male,Indoor,AR,KUG,6
+22.53,,BRA,Beograd,SRB,2022-03-19,Darlan Romani,1991.0,Male,Indoor,AR,KUG,3
+18.07,,BUR,Aubière,FRA,2021-01-16,Hugues Fabrice Zango,1993.0,Male,Indoor,AR,DRE,4
+17.41,,CHN,Nanjing,CHN,2016-02-29,Dong Bin,1988.0,Male,Indoor,AR,DRE,5
+17.92,,FRA,Paris,FRA,2011-03-06,Teddy Tamgho,1989.0,Male,Indoor,AR,DRE,1
+17.83,,CUB,Sindelfingen,GER,1997-03-01,Aliecer Urrutia,1974.0,Male,Indoor,AR,DRE,2
+17.20,,AUS,Lisboa,POR,2001-03-09,Andrew Murphy,1969.0,Male,Indoor,AR,DRE,6
+17.56,,BRA,Moskva,RUS,2006-03-12,Jadel Gregório,1980.0,Male,Indoor,AR,DRE,3
+29:01.03,,ETH,Hengelo,NED,2021-06-08,Letesenbet Gidey,1998.0,Female,Outdoor,AR,10K,4
+29:31.78,,CHN,Beijing,CHN,1993-09-08,Wang Junxia,1973.0,Female,Outdoor,AR,10K,5
+29:06.82,,NED,Hengelo,NED,2021-06-06,Sifan Hassan,1993.0,Female,Outdoor,AR,10K,1
+30:03.82,,USA,San Juan Capistrano CA,USA,2023-03-04,Alicia Monson,1998.0,Female,Outdoor,AR,10K,2
+30:35.54,,NZL,Stanford CA,USA,2008-05-04,Kim Smith,1981.0,Female,Outdoor,AR,10K,6
+31:47.76,,BRA,Stuttgart,GER,1993-08-21,Carmen de Oliveira,1965.0,Female,Outdoor,AR,10K,3
+43:50.86,,KEN,Birmingham,GBR,2022-08-06,Emily Ngii,1986.0,Female,Outdoor,AR,10G,4
+44:13.88,,MEX,Tampere,FIN,2018-07-14,Alegna Gonzalez,1999.0,Female,Outdoor,AR,10G,2
+41:57.22,,AUS,Seattle WA,USA,1990-07-24,Kerry Saxby-Junna,1961.0,Female,Outdoor,AR,10G,6
+42:02.99,,COL,Trujillo2,PER,2018-08-25,Sandra Arenas,1993.0,Female,Outdoor,AR,10G,3
+2:29.15,,KEN,Monaco,MON,2020-08-14,Faith Kipyegon,1994.0,Female,Outdoor,AR,1K0,4
+2:33.00,,CHN,Beijing,CHN,1993-11-09,Qu Yunxia,,Female,Outdoor,AR,1K0,5
+2:28.98,,RUS,Bruxelles,BEL,1996-08-23,Svetlana Masterkova,1968.0,Female,Outdoor,AR,1K0,1
+2:31.80,,USA,Brunswick ME,USA,1999-07-03,Regina Jacobs,1963.0,Female,Outdoor,AR,1K0,2
+2:34.63,,AUS,Bern,SUI,2023-08-04,Abbey Caldwell,2001.0,Female,Outdoor,AR,1K0,6
+2:32.25,,SUR,Berlin,GER,1991-09-10,Letitia Vriesde,1964.0,Female,Outdoor,AR,1K0,3
+10.75,0.9,CIV,Oslo,NOR,2023-06-15,Marie Josée Ta Lou,1988.0,Female,Outdoor,AR,100,4
+10.79,0.0,CHN,Shanghai,CHN,1997-10-18,Li Xuemei,1977.0,Female,Outdoor,AR,100,5
+10.73,2.0,FRA,Budapest,HUN,1998-08-19,Christine Arron,1973.0,Female,Outdoor,AR,100,1
+10.49,0.0,USA,Indianapolis IN,USA,1988-07-16,Florence Griffith-Joyner,1959.0,Female,Outdoor,AR,100,2
+10.96,2.0,NZL,La Chaux-de-Fonds,SUI,2023-07-02,Zoe Hobbs,1997.0,Female,Outdoor,AR,100,6
+10.91,-0.2,BRA,London,GBR,2017-08-06,Rosângela Santos,1990.0,Female,Outdoor,AR,100,3
+12.12,0.9,NGR,Eugene OR,USA,2022-07-24,Tobi Amusan,1997.0,Female,Outdoor,AR,10H,4
+12.44,-0.8,KAZ,Luzern,SUI,1995-06-27,Olga Shishigina,1968.0,Female,Outdoor,AR,10H,5
+12.21,0.7,BUL,Stara Zagora,BUL,1988-08-20,Yordanka Donkova,1961.0,Female,Outdoor,AR,10H,1
+12.20,0.3,USA,London,GBR,2016-07-22,Kendra Harrison,1992.0,Female,Outdoor,AR,10H,2
+12.28,1.1,AUS,Daegu,KOR,2011-09-03,Sally Pearson,1986.0,Female,Outdoor,AR,10H,6
+12.71,0.1,BRA,Manaus,BRA,2001-05-19,Maurren Higa Maggi,1976.0,Female,Outdoor,AR,10H,3
+3:49.11,,KEN,Firenze,ITA,2023-06-02,Faith Kipyegon,1994.0,Female,Outdoor,AR,1K5,4
+3:50.46,,CHN,Beijing,CHN,1993-09-11,Qu Yunxia,1972.0,Female,Outdoor,AR,1K5,5
+3:51.95,,NED,Doha,QAT,2019-10-05,Sifan Hassan,1993.0,Female,Outdoor,AR,1K5,1
+3:54.99,,USA,Doha,QAT,2019-10-05,Shelby Houlihan,1993.0,Female,Outdoor,AR,1K5,2
+3:56.92,,AUS,Eugene OR,USA,2023-09-16,Linden Hall,1991.0,Female,Outdoor,AR,1K5,6
+4:05.67,,SUR,Tokyo,JPN,1991-08-31,Letitia Vriesde,1964.0,Female,Outdoor,AR,1K5,3
+5:21.56,,BDI,Zagreb,CRO,2021-09-14,Francine Niyonsaba,1993.0,Female,Outdoor,AR,2K0,4
+5:29.65,,CHN,Beijing,CHN,1993-09-12,Wang Junxia,1973.0,Female,Outdoor,AR,2K0,5
+5:25.36,,IRL,Edinburgh,GBR,1994-07-08,Sonia O'Sullivan,1969.0,Female,Outdoor,AR,2K0,1
+5:29.41,,USA,Beijing,CHN,1993-12-09,Xi Wang,1971.0,Female,Outdoor,AR,2K0,2
+5:59.96,,BOL,Rivas,ESP,2004-06-10,Niusha Mancilla,1971.0,Female,Outdoor,AR,2K0,3
+21.78,0.6,NAM,Zürich,SUI,2021-09-09,Christine Mboma,2003.0,Female,Outdoor,AR,200,4
+22.01,0.0,CHN,Shanghai,CHN,1997-10-22,Li Xuemei,1977.0,Female,Outdoor,AR,200,5
+21.63,0.2,NED,Beijing,CHN,2015-08-28,Dafne Schippers,1992.0,Female,Outdoor,AR,200,1
+21.34,1.3,USA,Seoul,KOR,1988-09-29,Florence Griffith-Joyner,1959.0,Female,Outdoor,AR,200,2
+22.23,0.8,AUS,Stuttgart,GER,1997-07-13,Melinda Gainsford-Taylor,1971.0,Female,Outdoor,AR,200,6
+22.47,1.4,BRA,Eugene OR,USA,2022-07-19,Vitoria Cristina Rosa,1996.0,Female,Outdoor,AR,200,3
+8:06.11,,CHN,Beijing,CHN,1993-09-13,Wang Junxia,1973.0,Female,Outdoor,AR,3K0,5
+8:18.49,,NED,Stanford CA,USA,2019-06-30,Sifan Hassan,1993.0,Female,Outdoor,AR,3K0,1
+8:31.81,,AUS,Sydney,AUS,2023-03-11,Jessica Hull,1996.0,Female,Outdoor,AR,3K0,6
+8:43.26,,VEN,Chorzów,POL,2023-07-16,Joselyn Daniely Brea,1994.0,Female,Outdoor,AR,3K0,3
+8:44.32,,KEN,Monaco,MON,2018-07-20,Beatrice Chepkoech,1991.0,Female,Outdoor,AR,3KH,4
+8:50.66,,BRN,Eugene OR,USA,2023-09-16,Winfred Yavi,1999.0,Female,Outdoor,AR,3KH,5
+8:58.81,,RUS,Beijing,CHN,2008-08-17,Gulnara Galkina,1978.0,Female,Outdoor,AR,3KH,1
+8:57.77,,USA,Eugene OR,USA,2021-08-21,Courtney Frerichs,1993.0,Female,Outdoor,AR,3KH,2
+9:14.28,,AUS,Saint-Denis,FRA,2016-08-27,Genevieve Gregson,1989.0,Female,Outdoor,AR,3KH,6
+9:24.38,,BRA,Watford,GBR,2022-06-11,Tatiane Raquel da Silva,1990.0,Female,Outdoor,AR,3KH,3
+41.90,,CIV,Budapest,HUN,2023-08-25,Ivory Coast,,Female,Outdoor,AR,4×1,4
+42.23,,CHN,Shanghai,CHN,1997-10-23,China,,Female,Outdoor,AR,4×1,5
+41.37,,GER,Canberra,AUS,1985-10-06,Germany,,Female,Outdoor,AR,4×1,1
+40.82,,USA,London,GBR,2012-08-10,United States,,Female,Outdoor,AR,4×1,2
+42.99,,AUS,Pietersburg,RSA,2000-03-18,Australia,,Female,Outdoor,AR,4×1,6
+42.29,,BRA,Moskva,RUS,2013-08-18,Brazil,,Female,Outdoor,AR,4×1,3
+1:30.52,,NGR,Nassau,BAH,2015-05-02,Nigeria,,Female,Outdoor,AR,4×2,4
+1:32.76,,CHN,Yokohama,JPN,2019-05-12,China,,Female,Outdoor,AR,4×2,5
+1:28.15,,GER,Jena,GER,1980-08-09,Germany,,Female,Outdoor,AR,4×2,1
+1:35.91,,ECU,Yokohama,JPN,2019-05-12,Ecuador,,Female,Outdoor,AR,4×2,3
+3:21.04,,NGR,Atlanta GA,USA,1996-08-03,Nigeria,,Female,Outdoor,AR,4×4,4
+3:24.28,,CHN,Beijing,CHN,1993-09-13,China,,Female,Outdoor,AR,4×4,5
+3:15.17,,URS,Seoul,KOR,1988-10-01,Soviet Union,,Female,Outdoor,AR,4×4,
+3:15.51,,USA,Seoul,KOR,1988-10-01,United States,,Female,Outdoor,AR,4×4,2
+3:23.81,,AUS,Sydney,AUS,2000-09-30,Australia,,Female,Outdoor,AR,4×4,6
+3:26.68,,BRA,São Paulo,BRA,2011-08-07,Brazil,,Female,Outdoor,AR,4×4,3
+8:04.28,,KEN,Nassau,BAH,2014-05-25,Kenya,,Female,Outdoor,AR,4×8,4
+8:16.2,,CHN,Shanghai,CHN,1991-10-01,China,,Female,Outdoor,AR,4×8,5
+7:50.17,,URS,Moskva,URS,1984-08-05,Soviet Union,,Female,Outdoor,AR,4×8,
+49.10,,NGR,Atlanta GA,USA,1996-07-29,Falilat Ogunkoya,1968.0,Female,Outdoor,AR,400,4
+48.14,,BRN,Doha,QAT,2019-10-03,Salwa Eid Naser,1998.0,Female,Outdoor,AR,400,5
+47.60,,GER,Canberra,AUS,1985-10-06,Marita Koch,1957.0,Female,Outdoor,AR,400,1
+48.36,,BAH,Tokyo,JPN,2021-08-06,Shaunae Miller-Uibo,1994.0,Female,Outdoor,AR,400,2
+48.63,,AUS,Atlanta GA,USA,1996-07-29,Cathy Freeman,1973.0,Female,Outdoor,AR,400,6
+49.64,,COL,Barcelona,ESP,1992-08-05,Ximena Restrepo,1969.0,Female,Outdoor,AR,400,3
+52.90,,MAR,Sevilla,ESP,1999-08-25,Nezha Bidouane,1969.0,Female,Outdoor,AR,40H,4
+53.09,,BRN,Budapest,HUN,2023-08-24,Kemi Adekoya,1993.0,Female,Outdoor,AR,40H,5
+51.45,,NED,London,GBR,2023-07-23,Femke Bol,2000.0,Female,Outdoor,AR,40H,1
+50.68,,USA,Eugene OR,USA,2022-07-22,Sydney McLaughlin-Levrone,1999.0,Female,Outdoor,AR,40H,2
+53.17,,AUS,Seoul,KOR,1988-09-28,Debbie Flintoff-King,1960.0,Female,Outdoor,AR,40H,6
+53.69,,PAN,Eugene OR,USA,2022-07-20,Gianna Woodruff,1993.0,Female,Outdoor,AR,40H,3
+14:00.21,,ETH,Eugene OR,USA,2023-09-17,Gudaf Tsegay,1997.0,Female,Outdoor,AR,5K0,4
+14:28.09,,CHN,Shanghai,CHN,1997-10-23,Jiang Bo,1977.0,Female,Outdoor,AR,5K0,5
+14:13.42,,NED,London,GBR,2023-07-23,Sifan Hassan,1993.0,Female,Outdoor,AR,5K0,1
+14:19.45,,USA,London,GBR,2023-07-23,Alicia Monson,1998.0,Female,Outdoor,AR,5K0,2
+14:47.76,,VEN,Walnut CA,USA,2023-05-06,Joselyn Daniely Brea,1994.0,Female,Outdoor,AR,5K0,3
+20:50.03,,TUN,Radès,TUN,2021-06-23,Chahineze Nasri,1996.0,Female,Outdoor,AR,5G,4
+1:54.01,,KEN,Zürich,SUI,2008-08-29,Pamela Jelimo,1989.0,Female,Outdoor,AR,800,4
+1:55.54,,CHN,Beijing,CHN,1993-09-09,Liu Dong,1973.0,Female,Outdoor,AR,800,5
+1:53.28,,CZE,München,FRG,1983-07-26,Jarmila Kratochvílová,1951.0,Female,Outdoor,AR,800,1
+1:54.44,,CUB,Barcelona,ESP,1989-09-09,Ana Fidelia Quirot,1963.0,Female,Outdoor,AR,800,2
+1:57.78,,AUS,London,GBR,2023-07-23,Catriona Bisset,1994.0,Female,Outdoor,AR,800,6
+1:56.68,,SUR,Göteborg/U,SWE,1995-08-13,Letitia Vriesde,1964.0,Female,Outdoor,AR,800,3
+64.96,,NGR,Ramona OK,USA,2023-04-15,Chioma Onyekwere,1994.0,Female,Outdoor,AR,DIS,4
+71.68,,CHN,Beijing,CHN,1992-03-14,Xiao Yanling,1968.0,Female,Outdoor,AR,DIS,5
+76.80,,GER,Neubrandenburg,GER,1988-07-09,Gabriele Reinsch,1963.0,Female,Outdoor,AR,DIS,1
+71.46,,USA,La Jolla CA,USA,2022-04-08,Valarie Allman,1995.0,Female,Outdoor,AR,DIS,2
+69.64,,AUS,London,GBR,2017-08-13,Dani Stevens,1988.0,Female,Outdoor,AR,DIS,6
+65.34,,BRA,Leiria,POR,2019-06-26,Andressa de Morais,1990.0,Female,Outdoor,AR,DIS,3
+75.49,,NGR,Tucson AZ,USA,2021-05-22,Annette Echikunwoke,1996.0,Female,Outdoor,AR,HAM,4
+77.68,,CHN,Chengdu,CHN,2014-03-29,Wang Zheng,1987.0,Female,Outdoor,AR,HAM,5
+82.98,,POL,Warszawa,POL,2016-08-28,Anita Włodarczyk,1985.0,Female,Outdoor,AR,HAM,1
+80.31,,USA,Eugene OR,USA,2021-06-26,DeAnna Price,1993.0,Female,Outdoor,AR,HAM,2
+74.61,,NZL,Tucson AZ,USA,2021-05-20,Lauren Bruce,1997.0,Female,Outdoor,AR,HAM,6
+73.74,,ARG,Buenos Aires,ARG,2010-04-10,Jenny Dahlgren,1984.0,Female,Outdoor,AR,HAM,3
+2.06,,RSA,Saint-Denis,FRA,2003-08-31,Hestrie Cloete,1978.0,Female,Outdoor,AR,HOC,4
+2.00,,KAZ,Almaty,KAZ,2021-06-08,Nadezhda Dubovitskaya,1998.0,Female,Outdoor,AR,HOC,5
+2.09,,BUL,Roma,ITA,1987-08-30,Stefka Kostadinova,1965.0,Female,Outdoor,AR,HOC,1
+2.05,,USA,Des Moines IA,USA,2010-06-26,Chaunté Lowe,1984.0,Female,Outdoor,AR,HOC,2
+2.03,,AUS,Eugene OR,USA,2023-09-17,Nicola Olyslagers,1996.0,Female,Outdoor,AR,HOC,6
+1.96,,ARG,Oristano,ITA,1997-09-08,Solange Witteveen,1976.0,Female,Outdoor,AR,HOC,3
+69.35,,RSA,New York NY,USA,2012-06-09,Sunette Viljoen,1983.0,Female,Outdoor,AR,SPE,4
+67.98,,CHN,Shenyang,CHN,2019-08-02,Lu Huihui,1989.0,Female,Outdoor,AR,SPE,5
+72.28,,CZE,Stuttgart,GER,2008-09-13,Barbora Špotáková,1981.0,Female,Outdoor,AR,SPE,1
+71.70,,CUB,Helsinki,FIN,2005-08-14,Osleidis Menéndez,1979.0,Female,Outdoor,AR,SPE,2
+68.92,,AUS,Gold Coast,AUS,2018-04-11,Kathryn Mitchell,1982.0,Female,Outdoor,AR,SPE,6
+65.47,,COL,Budapest,HUN,2023-08-25,Flor Dennis Ruiz,1991.0,Female,Outdoor,AR,SPE,3
+7.17,1.1,NGR,Chula Vista CA,USA,2021-05-29,Ese Brume,1996.0,Female,Outdoor,AR,WEI,4
+7.01,1.4,CHN,Jinan,CHN,1993-06-04,Yao Weili,1965.0,Female,Outdoor,AR,WEI,5
+7.52,1.4,RUS,Leningrad,URS,1988-06-11,Galina Cistjaková,1962.0,Female,Outdoor,AR,WEI,1
+7.49,1.3,USA,New York NY,USA,1994-05-22,Jackie Joyner-Kersee,1962.0,Female,Outdoor,AR,WEI,2
+7.49,1.7,USA,Sestriere,ITA,1994-07-31,Jackie Joyner-Kersee,1962.0,Female,Outdoor,AR,WEI,2
+7.13,1.8,AUS,Chula Vista CA,USA,2022-07-09,Brooke Buschkuehl,1993.0,Female,Outdoor,AR,WEI,6
+7.26,1.8,BRA,Bogotá,COL,1999-06-26,Maurren Higa Maggi,1976.0,Female,Outdoor,AR,WEI,3
+4:07.64,,KEN,Monaco,MON,2023-07-21,Faith Kipyegon,1994.0,Female,Outdoor,AR,MEI,4
+4:17.75,,BRN,Bruxelles,BEL,2007-09-14,Maryam Jamal,1984.0,Female,Outdoor,AR,MEI,5
+4:12.33,,NED,Monaco,MON,2019-07-12,Sifan Hassan,1993.0,Female,Outdoor,AR,MEI,1
+4:16.35,,USA,Monaco,MON,2023-07-21,Nikki Hiltz,1994.0,Female,Outdoor,AR,MEI,2
+4:15.34,,AUS,Monaco,MON,2023-07-21,Jessica Hull,1996.0,Female,Outdoor,AR,MEI,6
+4:27.41,,VEN,Monaco,MON,2023-07-21,Joselyn Daniely Brea,1994.0,Female,Outdoor,AR,MEI,3
+4.42,,RSA,Wesel,GER,2000-06-12,Elmarie Gerryts,1972.0,Female,Outdoor,AR,STA,4
+4.72,,CHN,Shanghai,CHN,2019-05-18,Li Ling,1989.0,Female,Outdoor,AR,STA,5
+5.06,,RUS,Zürich,SUI,2009-08-28,Yelena Isinbayeva,1982.0,Female,Outdoor,AR,STA,1
+4.94,,NZL,Jockgrim,GER,2018-07-17,Eliza McCartney,1996.0,Female,Outdoor,AR,STA,6
+4.87,,BRA,São Bernardo do Campo,BRA,2016-07-03,Fabiana Murer,1981.0,Female,Outdoor,AR,STA,3
+18.43,,NGR,Walnut CA,USA,2003-04-19,Vivian Chukwuemeka,1975.0,Female,Outdoor,AR,KUG,4
+21.76,,CHN,Shijiazhuang,CHN,1988-04-23,Li Meisu,1959.0,Female,Outdoor,AR,KUG,5
+22.63,,RUS,Moskva,URS,1987-06-07,Natalya Lisovskaya,1962.0,Female,Outdoor,AR,KUG,1
+20.96,,CUB,Ciudad de México,MEX,1992-05-02,Belsis Laza,1967.0,Female,Outdoor,AR,KUG,2
+21.24,,NZL,Daegu,KOR,2011-08-29,Valerie Adams,1984.0,Female,Outdoor,AR,KUG,6
+19.30,,BRA,Tunja,COL,2001-07-14,Elisângela Adriano,1972.0,Female,Outdoor,AR,KUG,3
+15.39,0.5,CMR,Beijing,CHN,2008-08-17,Françoise Mbango,1976.0,Female,Outdoor,AR,DRE,4
+15.25,1.7,KAZ,Split,CRO,2010-09-04,Olga Rypakova,1984.0,Female,Outdoor,AR,DRE,5
+15.50,0.9,UKR,Göteborg/U,SWE,1995-08-10,Inessa Kravets,1966.0,Female,Outdoor,AR,DRE,1
+15.29,0.3,CUB,Roma,ITA,2003-07-11,Yamilé Aldama,1972.0,Female,Outdoor,AR,DRE,2
+14.04,2.0,AUS,Hobart,AUS,2002-03-09,Nicole Mladenis,1975.0,Female,Outdoor,AR,DRE,6
+14.04,1.8,AUS,Perth,AUS,2003-12-07,Nicole Mladenis,1975.0,Female,Outdoor,AR,DRE,6
+41:22.5,,RUS,Saransk,RUS,2023-09-24,Elvira Khasanova,2000.0,Female,Indoor,AR,10G,1
+2:30.94,,MOZ,Stockholm/G,SWE,1999-02-25,Maria Mutola,1972.0,Female,Indoor,AR,1K0,4
+2:31.93,,GBR,Birmingham,GBR,2017-02-18,Laura Muir,1993.0,Female,Indoor,AR,1K0,1
+2:33.75,,CAN,Boston MA,USA,2023-01-28,Lucia Stafford,1998.0,Female,Indoor,AR,1K0,2
+2:36.96,,NZL,Boston MA,USA,2000-02-06,Toni Hodgkinson,1971.0,Female,Indoor,AR,1K0,6
+2:38.30,,SUR,Stockholm/G,SWE,1999-02-25,Letitia Vriesde,1964.0,Female,Indoor,AR,1K0,3
+3:53.09,,ETH,Liévin,FRA,2021-02-09,Gudaf Tsegay,1997.0,Female,Indoor,AR,1K5,4
+3:59.79,,BRN,Valencia,ESP,2008-03-09,Maryam Jamal,1984.0,Female,Indoor,AR,1K5,5
+3:57.91,,SWE,Stockholm/G,SWE,2014-02-06,Abeba Aregawi,1990.0,Female,Indoor,AR,1K5,1
+3:59.98,,USA,Boston MA,USA,2003-02-01,Regina Jacobs,1963.0,Female,Indoor,AR,1K5,2
+4:01.19,,AUS,New York NY,USA,2024-02-11,Jessica Hull,1996.0,Female,Indoor,AR,1K5,6
+4:12.95,,ARG,Sabadell,ESP,2023-01-28,Fedra Aldana Luna,1995.0,Female,Indoor,AR,1K5,3
+22.11,,NGR,Albuquerque NM,USA,2023-03-10,Favour Ofili,2002.0,Female,Indoor,AR,200,4
+22.99,,SRI,Lisboa,POR,2001-03-09,Susanthika Jayasinghe,1975.0,Female,Indoor,AR,200,5
+22.10,,RUS,Liévin,FRA,1995-02-19,Irina Privalova,1968.0,Female,Indoor,AR,200,1
+21.87,,JAM,Liévin,FRA,1993-02-13,Merlene Ottey,1960.0,Female,Indoor,AR,200,2
+22.64,,AUS,Barcelona,ESP,1995-03-10,Melinda Gainsford-Taylor,1971.0,Female,Indoor,AR,200,6
+22.64,,AUS,Barcelona,ESP,1995-03-11,Melinda Gainsford-Taylor,1971.0,Female,Indoor,AR,200,6
+23.02,,GUY,Lubbock TX,USA,2019-01-26,Brenessa Thompson,1996.0,Female,Indoor,AR,200,3
+8:16.60,,ETH,Stockholm/G,SWE,2014-02-06,Genzebe Dibaba,1991.0,Female,Indoor,AR,3K0,4
+8:39.64,,BRN,Val-de-Reuil,FRA,2020-02-14,Winfred Yavi,1999.0,Female,Indoor,AR,3K0,5
+8:26.41,,GBR,Karlsruhe,GER,2017-02-04,Laura Muir,1993.0,Female,Indoor,AR,3K0,1
+8:25.05,,USA,New York NY,USA,2023-02-11,Alicia Monson,1998.0,Female,Indoor,AR,3K0,2
+8:24.93,,AUS,Brighton MA,USA,2024-02-04,Jessica Hull,1996.0,Female,Indoor,AR,3K0,6
+8:57.59,,ARG,Val-de-Reuil,FRA,2023-02-04,Fedra Aldana Luna,1995.0,Female,Indoor,AR,3K0,3
+11:40.33,,ROU,Bucureşti,ROU,1999-01-30,Claudia Ştef,1978.0,Female,Indoor,AR,3G,1
+12:20.79,,USA,Toronto,CAN,1993-03-12,Debbi Lawrence,1961.0,Female,Indoor,AR,3G,2
+13:24.0,,BOL,Cochabamba,BOL,2023-02-12,Angela Castro,1993.0,Female,Indoor,AR,3G,3
+1:32.41,,RUS,Glasgow,GBR,2005-01-29,Russia,,Female,Indoor,AR,4×2,1
+1:32.67,,USA,New York NY,USA,2018-01-27,United States,,Female,Indoor,AR,4×2,2
+3:35.07,,BRN,Doha,QAT,2016-02-21,Bahrain,,Female,Indoor,AR,4×4,5
+3:23.37,,RUS,Glasgow,GBR,2006-01-28,Russia,,Female,Indoor,AR,4×4,1
+3:23.85,,USA,Birmingham,GBR,2018-03-04,United States,,Female,Indoor,AR,4×4,2
+3:26.87,,AUS,Maebashi,JPN,1999-03-07,Australia,,Female,Indoor,AR,4×4,6
+3:47.37,,BOL,Cochabamba,BOL,2022-02-20,Bolivia,,Female,Indoor,AR,4×4,3
+8:06.24,,RUS,Moskva,RUS,2011-02-18,Russia,,Female,Indoor,AR,4×8,1
+8:05.89,,USA,New York NY,USA,2018-02-03,United States,,Female,Indoor,AR,4×8,2
+51.45,,BRN,Portland OR,USA,2016-03-19,Kemi Adekoya,1993.0,Female,Indoor,AR,400,5
+49.24,,NED,Apeldoorn,NED,2024-02-18,Femke Bol,2000.0,Female,Indoor,AR,400,1
+49.48,,USA,Albuquerque NM,USA,2023-03-11,Britton Wilson,2000.0,Female,Indoor,AR,400,2
+52.17,,AUS,Budapest,HUN,1989-03-04,Maree Holland,1963.0,Female,Indoor,AR,400,6
+51.57,,GUY,Beograd,SRB,2022-03-18,Aliyah Abrams,1997.0,Female,Indoor,AR,400,3
+14:18.86,,ETH,Stockholm/G,SWE,2015-02-19,Genzebe Dibaba,1991.0,Female,Indoor,AR,5K0,4
+14:30.79,,GER,Boston MA,USA,2020-02-27,Konstanze Klosterhalfen,1997.0,Female,Indoor,AR,5K0,1
+14:31.38,,CAN,Boston MA,USA,2022-02-11,Gabriela DeBues-Stafford,1995.0,Female,Indoor,AR,5K0,2
+14:39.89,,NZL,New York NY,USA,2009-02-27,Kim Smith,1981.0,Female,Indoor,AR,5K0,6
+15:51.98,,ECU,Boston MA,USA,2023-12-02,Carmen Alder,2003.0,Female,Indoor,AR,5K0,3
+22:23.91,,USA,Rochester NY,USA,2018-12-29,Miranda Melville,1989.0,Female,Indoor,AR,5G,2
+24:27.15,,BOL,Cochabamba,BOL,2024-01-14,Mayra Karen Quispe,2000.0,Female,Indoor,AR,5G,3
+7.02,,NGR,Liévin,FRA,1998-02-22,Chioma Ajunwa,1970.0,Female,Indoor,AR,60M,4
+7.09,,SRI,Stuttgart,GER,1999-02-07,Susanthika Jayasinghe,1975.0,Female,Indoor,AR,60M,5
+6.92,,RUS,Madrid,ESP,1993-02-11,Irina Privalova,1968.0,Female,Indoor,AR,60M,1
+6.92,,RUS,Madrid,ESP,1995-02-09,Irina Privalova,1968.0,Female,Indoor,AR,60M,1
+6.94,,USA,Albuquerque NM,USA,2023-02-18,Aleia Hobbs,1996.0,Female,Indoor,AR,60M,2
+6.94,,LCA,Albuquerque NM,USA,2023-03-11,Julien Alfred,2001.0,Female,Indoor,AR,60M,2
+7.13,,NZL,Beograd,SRB,2022-03-18,Zoe Hobbs,1997.0,Female,Indoor,AR,60M,6
+7.14,,BRA,Beograd,SRB,2022-03-18,Vitoria Cristina Rosa,1996.0,Female,Indoor,AR,60M,3
+7.82,,KAZ,Liévin,FRA,1999-02-21,Olga Shishigina,1968.0,Female,Indoor,AR,60H,5
+7.68,,SWE,Karlsruhe,GER,2008-02-10,Susanna Kallur,1981.0,Female,Indoor,AR,60H,1
+7.67,,BAH,New York NY,USA,2024-02-11,Devynne Charlton,1995.0,Female,Indoor,AR,60H,2
+7.73,,AUS,Istanbul,TUR,2012-03-10,Sally Pearson,1986.0,Female,Indoor,AR,60H,6
+7.91,,PAN,Sopot,POL,2014-03-07,Yvette Lewis,1985.0,Female,Indoor,AR,60H,3
+1:57.06,,MOZ,Liévin,FRA,1999-02-21,Maria Mutola,1972.0,Female,Indoor,AR,800,4
+2:00.78,,JPN,Yokohama,JPN,2003-02-22,Miho Sato,1978.0,Female,Indoor,AR,800,5
+1:55.82,,SLO,Wien,AUT,2002-03-03,Jolanda Batagelj,1976.0,Female,Indoor,AR,800,1
+1:58.29,,USA,New York NY,USA,2020-02-08,Ajee’ Wilson,1994.0,Female,Indoor,AR,800,2
+1:59.46,,AUS,Birmingham,GBR,2022-02-19,Catriona Bisset,1994.0,Female,Indoor,AR,800,6
+1:59.21,,SUR,Birmingham,GBR,1997-02-23,Letitia Vriesde,1964.0,Female,Indoor,AR,800,3
+1.97,,RSA,Birmingham,GBR,2001-02-18,Hestrie Cloete,1978.0,Female,Indoor,AR,HOC,4
+1.98,,KAZ,Samara,RUS,1996-03-04,Svetlana Zalevskaya,1973.0,Female,Indoor,AR,HOC,5
+1.98,,KAZ,Beograd,SRB,2022-03-19,Nadezhda Dubovitskaya,1998.0,Female,Indoor,AR,HOC,5
+2.08,,SWE,Arnstadt,GER,2006-02-04,Kajsa Bergqvist,1976.0,Female,Indoor,AR,HOC,1
+2.02,,USA,Albuquerque NM,USA,2012-02-26,Chaunté Lowe,1984.0,Female,Indoor,AR,HOC,2
+2.00,,AUS,Beograd,SRB,2022-03-19,Eleanor Patterson,1996.0,Female,Indoor,AR,HOC,6
+1.94,,ARG,Brno,CZE,2000-02-09,Solange Witteveen,1976.0,Female,Indoor,AR,HOC,3
+6.97,,NGR,Erfurt,GER,1997-02-05,Chioma Ajunwa,1970.0,Female,Indoor,AR,WEI,4
+6.82,,CHN,Beijing,CHN,1992-03-13,Yang Juan,1969.0,Female,Indoor,AR,WEI,5
+7.37,,GER,Wien,AUT,1988-02-13,Heike Drechsler,1964.0,Female,Indoor,AR,WEI,1
+7.23,,USA,Istanbul,TUR,2012-03-11,Brittney Reese,1986.0,Female,Indoor,AR,WEI,2
+6.81,,AUS,Barcelona,ESP,1995-03-12,Nicole Boegman,1967.0,Female,Indoor,AR,WEI,6
+6.89,,BRA,Valencia,ESP,2008-03-09,Maurren Higa Maggi,1976.0,Female,Indoor,AR,WEI,3
+4:13.31,,ETH,Stockholm/G,SWE,2016-02-17,Genzebe Dibaba,1991.0,Female,Indoor,AR,MEI,4
+4:24.71,,BRN,Birmingham,GBR,2010-02-20,Maryam Jamal,1984.0,Female,Indoor,AR,MEI,5
+4:17.14,,ROU,East Rutherford NJ,USA,1990-02-09,Doina Melinte,1956.0,Female,Indoor,AR,MEI,1
+4:16.41,,USA,New York NY,USA,2024-02-11,Elle St. Pierre,1995.0,Female,Indoor,AR,MEI,2
+4:19.03,,AUS,New York NY,USA,2024-02-11,Jessica Hull,1996.0,Female,Indoor,AR,MEI,6
+4:34.37,,ECU,Boston MA,USA,2024-01-27,Carmen Alder,2003.0,Female,Indoor,AR,MEI,3
+4.41,,RSA,Birmingham,GBR,2000-02-20,Elmarie Gerryts,1972.0,Female,Indoor,AR,STA,4
+4.70,,CHN,Doha,QAT,2016-02-19,Li Ling,1989.0,Female,Indoor,AR,STA,5
+5.01,,RUS,Stockholm/G,SWE,2012-02-23,Yelena Isinbayeva,1982.0,Female,Indoor,AR,STA,1
+5.03,,USA,Brockport NY,USA,2016-01-30,Jenn Suhr,1982.0,Female,Indoor,AR,STA,2
+4.91,,AUS,Zürich,SUI,2023-08-30,Nina Kennedy,1997.0,Female,Indoor,AR,STA,6
+4.83,,BRA,Nevers,FRA,2015-02-07,Fabiana Murer,1981.0,Female,Indoor,AR,STA,3
+18.13,,NGR,Flagstaff AZ,USA,2006-02-04,Vivian Chukwuemeka,1975.0,Female,Indoor,AR,KUG,4
+18.13,,GBS,Braga,POR,2021-02-13,Jessica Inchude,1996.0,Female,Indoor,AR,KUG,4
+21.10,,CHN,Beijing,CHN,1990-03-03,Sui Xinmei,1965.0,Female,Indoor,AR,KUG,5
+22.50,,CZE,Jablonec,TCH,1977-02-19,Helena Fibingerová,1949.0,Female,Indoor,AR,KUG,1
+20.21,,USA,Portland OR,USA,2016-03-19,Michelle Carter,1985.0,Female,Indoor,AR,KUG,2
+20.21,,USA,Beograd,SRB,2022-03-18,Chase Jackson,1994.0,Female,Indoor,AR,KUG,2
+20.98,,NZL,Zürich,SUI,2013-08-28,Valerie Adams,1984.0,Female,Indoor,AR,KUG,6
+18.33,,BRA,Pireás,GRE,1999-02-24,Elisângela Adriano,1972.0,Female,Indoor,AR,KUG,3
+14.90,,SUD,Budapest,HUN,2004-03-06,Yamilé Aldama,1972.0,Female,Indoor,AR,DRE,4
+15.14,,KAZ,Doha,QAT,2010-03-13,Olga Rypakova,1984.0,Female,Indoor,AR,DRE,5
+15.36,,RUS,Budapest,HUN,2004-03-06,Tatyana Lebedeva,1976.0,Female,Indoor,AR,DRE,1
+15.12,,USA,Albuquerque NM,USA,2023-03-11,Jasmine Moore,2001.0,Female,Indoor,AR,DRE,2
+13.31,,AUS,Budapest,HUN,2004-03-05,Nicole Mladenis,1975.0,Female,Indoor,AR,DRE,6
+15.74,,VEN,Beograd,SRB,2022-03-20,Yulimar Rojas,1995.0,Female,Indoor,AR,DRE,3

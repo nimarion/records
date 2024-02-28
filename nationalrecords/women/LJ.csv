@@ -13,7 +13,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 4.50,,ASA,Nikao,COK,2007-10-16,Lela Waetin,,Female,LJ,NR,Outdoor
 7.13,1.8,AUS,Chula Vista CA,USA,2022-07-09,Brooke Buschkuehl,1993.0,Female,LJ,NR,Outdoor
 7.09,1.6,AUT,Sevilla,ESP,1994-06-05,Ljudmila Ninova,1960.0,Female,LJ,NR,Outdoor
-6.41,0.5,AZE,Baku,URS,1985-09-22,Galina Tumasova,,Female,LJ,NR,Outdoor
+6.41,0.5,AZE,Baku,URS,1985-09-22,Galina Tumasova,1965.0,Female,LJ,NR,Outdoor
 6.83,0.3,BAH,Nassau,BAH,2015-06-26,Bianca Stuart,1988.0,Female,LJ,NR,Outdoor
 6.07,0.2,BAN,Islamabad,PAK,2004-04-02,Fouzia Huda Jui,1985.0,Female,LJ,NR,Outdoor
 5.10,,BDI,Bujumbura,BDI,1981-01-01,Devote Barajengoye,,Female,LJ,NR,Outdoor
@@ -221,7 +221,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 6.12,,ARM,Yerevan,ARM,2015-01-24,Satenik Hovhannisyan,1995.0,Female,LJ,NR,Indoor
 6.81,,AUS,Barcelona,ESP,1995-03-12,Nicole Boegman,1967.0,Female,LJ,NR,Indoor
 6.81,,AUT,Moskva,RUS,1996-02-14,Ljudmila Ninova,1960.0,Female,LJ,NR,Indoor
-6.17,,AZE,Baku,URS,1985-01-01,Galina Tumasova,,Female,LJ,NR,Indoor
+6.17,,AZE,Baku,URS,1985-01-01,Galina Tumasova,1965.0,Female,LJ,NR,Indoor
 6.82,,BAH,Gainesville FL,USA,1994-02-26,Daphnie Saunders,1971.0,Female,LJ,NR,Indoor
 6.80,,BAR,Birmingham AL,USA,2016-03-11,Akela Inatta-Jones,1995.0,Female,LJ,NR,Indoor
 6.79,,BEL,Liévin,FRA,2020-03-01,Nafissatou Thiam,1994.0,Female,LJ,NR,Indoor
