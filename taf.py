@@ -81,7 +81,7 @@ if __name__ == '__main__':
 
         if leadFile:
             df = df[df["rank"] == "1"]
-            df = df.drop(columns=["rank", "region"])
+            df = df.drop(columns=["rank", "region"], errors="ignore")
 
         outputDf = pd.concat([outputDf, df])
 
