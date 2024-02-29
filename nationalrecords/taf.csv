@@ -1566,6 +1566,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,code,environment
 2:45.2,,ARM,Tuapse,URS,1979-09-20,Vera Poghosyan,1960.0,Female,NR,Outdoor,1K0
 2:34.63,,AUS,Bern,SUI,2023-08-04,Abbey Caldwell,2001.0,Female,NR,Outdoor,1K0
 2:34.47,,AUT,Bruxelles,BEL,1998-08-28,Stephanie Graf,1973.0,Female,NR,Outdoor,1K0
+3:11.79,,AZE,Chorzów,POL,2023-06-22,Anna Yusupova,1987.0,Female,NR,Outdoor,1K0
 2:47.65,,BDI,Fouesnant,BDI,2002-07-05,Spéciose Gakobwa,1979.0,Female,NR,Outdoor,1K0
 2:35.98,,BEL,Heusden,BEL,2021-07-03,Elise Vanderelst,1998.0,Female,NR,Outdoor,1K0
 2:36.30,,BEN,Heusden,BEL,2021-07-03,Noélie Yarigo,1985.0,Female,NR,Outdoor,1K0
@@ -2369,7 +2370,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,code,environment
 32:18.05,,AZE,Ostrava,CZE,2011-07-15,Layes Tsige,1991.0,Female,NR,Outdoor,10K
 45:50.79,,BAH,Towson,USA,2015-03-29,Jennaya Hield,1995.0,Female,NR,Outdoor,10K
 30:41.93,,BDI,Tokyo,JPN,2021-08-07,Francine Niyonsaba,1993.0,Female,NR,Outdoor,10K
-31:03.60,,BEL,Heusden,BEL,2000-08-05,Marleen Renders,1968.0,Female,NR,Outdoor,10K
+31:03.60,,BEL,Hechtel,BEL,2000-05-05,Marleen Renders,1968.0,Female,NR,Outdoor,10K
 38:47.61,,BER,Hamilton,CAN,2013-07-15,Ashley Estwanik,1977.0,Female,NR,Outdoor,10K
 34:03.23,,BIH,Istanbul,TUR,2008-04-12,Lucia Mwihaki Kimani,1980.0,Female,NR,Outdoor,10K
 31:42.02,,BLR,Kyiv,URS,1988-08-02,Yekaterina Khramenkova,1956.0,Female,NR,Outdoor,10K
@@ -4475,7 +4476,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,code,environment
 4:26.10,,IRI,Hanoi,VIE,2009-10-31,Leila Ebrahimi,1979.0,Female,NR,Indoor,1K5
 4:03.83,,IRL,Liévin,FRA,2024-02-10,Sarah Healy,2001.0,Female,NR,Indoor,1K5
 4:09.54,,ISL,Düsseldorf,GER,2018-02-06,Aníta Hinriksdóttir,1996.0,Female,NR,Indoor,1K5
-4:33.12,,ISR,Bacau,ROU,1998-03-14,Viorica Auplager,1968.0,Female,NR,Indoor,1K5
+4:16.55,,ISR,Boston MA,USA,2024-02-10,Adva Cohen,1996.0,Female,NR,Indoor,1K5
 4:04.01,,ITA,Milano,ITA,1982-03-07,Gabriella Dorio,1957.0,Female,NR,Indoor,1K5
 4:04.95,,JAM,Boston MA,USA,2018-02-10,Aisha Praught Leer,1989.0,Female,NR,Indoor,1K5
 4:26.66,,JOR,Gent,BEL,2018-02-10,Tamara Armoush,1992.0,Female,NR,Indoor,1K5
@@ -7860,7 +7861,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,code,environment
 3:27.08,,ALB,Istanbul,TUR,2016-02-27,Albania,,Male,NR,Indoor,4×4
 3:37.40,,AND,Sabadell,ESP,2020-12-01,Andorra,,Male,NR,Indoor,4×4
 3:26.76,,ARM,Istanbul,TUR,2015-02-21,Armenia,,Male,NR,Indoor,4×4
-3:08.49,,AUS,Sevilla,ESP,1991-03-10,Australia,,Male,NR,Indoor,4×4
+3:03.88,,AUS,Brisbane,AUS,2024-02-24,Australia,,Male,NR,Indoor,4×4
 3:08.37,,AUT,Paris,FRA,1997-03-08,Austria,,Male,NR,Indoor,4×4
 3:17.44,,AZE,Tehran,IRI,2007-02-22,Azerbaijan,,Male,NR,Indoor,4×4
 3:04.75,,BAH,Portland OR,USA,2016-03-20,Bahamas,,Male,NR,Indoor,4×4
@@ -8124,6 +8125,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,code,environment
 7.88,1.0,BAR,Charlotte NC,USA,2018-05-24,Charles Greaves,1994.0,Male,NR,Outdoor,WEI
 7.14,,BDI,Al Qâhira,EGY,1991-09-23,Christophe Ntirandekura,,Male,NR,Outdoor,WEI
 8.25,0.2,BEL,Hechtel,BEL,1996-07-06,Erik Nijs,1973.0,Male,NR,Outdoor,WEI
+8.25,0.2,BEL,Hechtel,BEL,1996-07-06,Erik Nys,1973.0,Male,NR,Outdoor,WEI
 7.97,,BEN,Porto Novo,BEN,2018-07-15,Romeo N'tia,1995.0,Male,NR,Outdoor,WEI
 8.34,2.0,BER,Houston TX,USA,2017-05-05,Tyrone Smith,1984.0,Male,NR,Outdoor,WEI
 6.74,,BHU,Thimphu,BHU,2016-07-08,Tashi Dendup,1998.0,Male,NR,Outdoor,WEI
@@ -10117,7 +10119,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,code,environment
 4.55,,BAR,Virginia Beach VA,USA,2023-03-11,Aaron Worrell,1995.0,Male,NR,Indoor,STA
 5.82,,BEL,Toruń,POL,2023-02-08,Ben Broeders,1995.0,Male,NR,Indoor,STA
 4.4,,BER,Blacksburg VA,USA,2019-02-16,Grant Rivers,1995.0,Male,NR,Indoor,STA
-5.1,,BIH,Novo Mesto,SLO,2024-01-14,Arian Milicija,2005.0,Male,NR,Indoor,STA
+5.15,,BIH,Osijek,CRO,2024-02-21,Arian Milicija,2005.0,Male,NR,Indoor,STA
 5.85,,BLR,Stockholm/G,SWE,1996-03-09,Dmitri Markov,1975.0,Male,NR,Indoor,STA
 5.95,,BRA,Beograd,SRB,2022-03-20,Thiago Braz,1993.0,Male,NR,Indoor,STA
 5.76,,BUL,Sofia,BUL,2006-02-04,Spas Buhalov,1980.0,Male,NR,Indoor,STA
@@ -10906,7 +10908,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,code,environment
 3:35.63,,ITA,Toruń,POL,2024-02-06,Ossama Meslek,1997.0,Male,NR,Indoor,1K5
 3:40.7,,JAM,New York NY,USA,1974-02-08,Byron Dyce,1948.0,Male,NR,Indoor,1K5
 3:53.65,,JOR,Ashgabat,TKM,2017-09-20,Awwad Al-Sharafat,1993.0,Male,NR,Indoor,1K5
-3:39.51,,JPN,Boston MA,USA,2020-02-27,Nanami Arai,1994.0,Male,NR,Indoor,1K5
+3:39.12,,JPN,Boston MA,USA,2024-02-10,Ryuma Aoki,1997.0,Male,NR,Indoor,1K5
 3:32.11,,KEN,Stuttgart,GER,1998-02-01,Laban Rotich,1969.0,Male,NR,Indoor,1K5
 3:45.82,,KGZ,Ust-Kamenogorsk,KAZ,2024-01-20,Nursultan Keneshbekov,2000.0,Male,NR,Indoor,1K5
 3:47.68,,KOS,Birmingham,GBR,2018-03-03,Musa Hajdari,1987.0,Male,NR,Indoor,1K5
@@ -10916,7 +10918,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,code,environment
 3:42.84,,LAT,Praha,CZE,2015-03-07,Dmitrijs Jurkevičs,1987.0,Male,NR,Indoor,1K5
 3:50.8,,LIE,Böblingen,GER,1977-01-29,Günther Hasler,1951.0,Male,NR,Indoor,1K5
 3:38.32,,LTU,Ostrava,CZE,2022-02-03,Simas Bertašius,1993.0,Male,NR,Indoor,1K5
-3:37.09,,LUX,Madrid,ESP,2023-02-22,Charles Grethen,1992.0,Male,NR,Indoor,1K5
+3:35.99,,LUX,Boston MA,USA,2024-02-03,Charles Grethen,1992.0,Male,NR,Indoor,1K5
 4:14.11,,MAC,Macau,MAC,2007-02-11,Lei Chi Keong,1987.0,Male,NR,Indoor,1K5
 3:31.18,,MAR,Stuttgart,GER,1997-02-02,Hicham El Guerrouj,1974.0,Male,NR,Indoor,1K5
 4:23.05,,MAS,Pattaya,THA,2006-02-11,Jayakumar Dewarajoo,1982.0,Male,NR,Indoor,1K5
@@ -10936,7 +10938,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,code,environment
 3:53.84,,PLE,Sopot,POL,2014-03-07,Wesam Al-Massri,1990.0,Male,NR,Indoor,1K5
 3:35.71,,POL,Toruń,POL,2021-02-17,Marcin Lewandowski,1987.0,Male,NR,Indoor,1K5
 3:34.23,,POR,Ostrava,CZE,2024-01-30,Isaac Nader,1999.0,Male,NR,Indoor,1K5
-3:38.38,,PUR,Boston MA,USA,2023-02-26,Rob Napolitano,1994.0,Male,NR,Indoor,1K5
+3:37.33,,PUR,Boston MA,USA,2024-02-10,Rob Napolitano,1994.0,Male,NR,Indoor,1K5
 3:36.35,,QAT,Doha,QAT,2016-02-20,Mohamed Al-Garni,1992.0,Male,NR,Indoor,1K5
 3:40.30,,ROU,Wien,AUT,2014-01-28,Ioan Zaizan,1983.0,Male,NR,Indoor,1K5
 3:35.06,,RSA,Toruń,POL,2024-02-06,Tshepo Tshite,1997.0,Male,NR,Indoor,1K5

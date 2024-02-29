@@ -1,4 +1,4 @@
-result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,environment,code,discipline,code
+result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,environment,code,discipline,type
 26:11.00,,UGA,Valencia,ESP,2020-10-07,Joshua Cheptegei,1996.0,Male,Outdoor,AR,10K,4
 26:38.76,,QAT,Bruxelles,BEL,2003-09-05,Abdullah Ahmad Hassan,1981.0,Male,Outdoor,AR,10K,5
 26:46.57,,GBR,Eugene OR,USA,2011-06-03,Mo Farah,1983.0,Male,Outdoor,AR,10K,1
@@ -185,7 +185,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,environment,code
 3:05.90,,JPN,Maebashi,JPN,1999-03-06,Japan,,Male,Indoor,AR,4×4,5
 3:01.77,,POL,Birmingham,GBR,2018-03-04,Poland,,Male,Indoor,AR,4×4,1
 3:01.39,,USA,College Station TX,USA,2018-03-10,United States,,Male,Indoor,AR,4×4,2
-3:08.49,,AUS,Sevilla,ESP,1991-03-10,Australia,,Male,Indoor,AR,4×4,6
+3:03.88,,AUS,Brisbane,AUS,2024-02-24,Australia,,Male,Indoor,AR,4×4,6
 3:10.50,,BRA,Paris,FRA,1997-03-08,Brazil,,Male,Indoor,AR,4×4,3
 7:17.8,,URS,Sofia,BUL,1971-03-14,Soviet Union,,Male,Indoor,AR,4×8,
 7:11.30,,USA,Boston MA,USA,2018-02-25,United States,,Male,Indoor,AR,4×8,2

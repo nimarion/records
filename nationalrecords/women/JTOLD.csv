@@ -1,2 +1,4 @@
-result,nation,venue,venueCountry,date,name,sex,discipline,type,environment
-48.2,ARM,UNKNOWN,???,1966-01-01,Margo Anonyan,Female,JTOLD,NR,Outdoor
+result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,environment
+48.2,ARM,UNKNOWN,???,1966-01-01,Margo Anonyan,,Female,JTOLD,NR,Outdoor
+54.06,AZE,Tbilisi,URS,1983-06-01,Yelisaveta Babyeva,,Female,JTOLD,NR,Outdoor
+54.5,BEL,Bruxelles,BEL,1974-06-29,Leentje Wuyts,1950.0,Female,JTOLD,NR,Outdoor
