@@ -26,6 +26,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 1.94,BIH,Varaždin,YUG,1987-08-15,Amra Temim,1968.0,Female,HJ,NR,Outdoor
 1.73,BIZ,Ciudad de Guatemala,GUA,2018-07-13,Katy Sealy,1990.0,Female,HJ,NR,Outdoor
 2.00,BLR,Gomel,BLR,1993-05-14,Tatyana Shevchik,1969.0,Female,HJ,NR,Outdoor
+2.00,BLR,Lausanne,SUI,2019-07-05,Karina Taranda,1999.0,Female,HJ,NR,Outdoor
 2.00,BLR,Lausanne,SUI,2019-07-05,Karyna Demidik,1999.0,Female,HJ,NR,Outdoor
 1.74,BOL,Cochabamba,BOL,2022-05-29,Carla Lorena Ríos,1998.0,Female,HJ,NR,Outdoor
 1.71,BOT,Lusaka,ZAM,2012-12-13,Titose Chlume,1993.0,Female,HJ,NR,Outdoor
@@ -157,7 +158,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 1.38,NMI,Pohnpei,FSM,2014-07-23,Rachel Abrams,1995.0,Female,HJ,NR,Outdoor
 2.01,NOR,Zürich,SUI,1997-08-13,Hanne Haugland,1967.0,Female,HJ,NR,Outdoor
 1.26,NRU,Yaren,NRU,2007-03-04,Arrora De Paune,,Female,HJ,NR,Outdoor
-1.92,NZL,Dunedin,NZL,1991-01-26,Tania Dixon,1970.0,Female,HJ,NR,Outdoor
+1.92,NZL,Auckland,NZL,1991-01-26,Tania Dixon,1970.0,Female,HJ,NR,Outdoor
 1.60,OMA,Beyrouth,LBN,2017-09-10,Aleya Faiq Al-Moghairiya,,Female,HJ,NR,Outdoor
 1.69,PAK,Kathmandu,NEP,1999-09-27,Rehana Kausar,,Female,HJ,NR,Outdoor
 1.84,PAN,Managua,NCA,2012-06-16,Kashani Ríos Miller,1991.0,Female,HJ,NR,Outdoor

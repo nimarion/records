@@ -360,6 +360,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,code,environment
 12.92,,BIH,Sarajevo,BIH,2010-07-04,Andjela Kovacevic,1993.0,Female,NR,Outdoor,DRE
 12.79,,BIZ,Los Angeles CA,USA,1996-05-04,Althea Moses,1970.0,Female,NR,Outdoor,DRE
 14.76,0.5,BLR,Brest,BLR,2012-05-26,Aksinnia Dzetsuk,1986.0,Female,NR,Outdoor,DRE
+14.76,0.4,BLR,Brest,BLR,2012-05-26,Kseniya Datsuk,1986.0,Female,NR,Outdoor,DRE
 13.37,0.2,BOL,Cochabamba,BOL,2018-06-07,Valeria Quispe,1997.0,Female,NR,Outdoor,DRE
 12.78,1.8,BOT,Gaborone,BOT,2018-04-29,Titose Chlume,1993.0,Female,NR,Outdoor,DRE
 14.69,1.3,BRA,Sotteville-lès-Rouen,FRA,2018-07-17,Nubia Soares,1996.0,Female,NR,Outdoor,DRE
@@ -1570,6 +1571,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,code,environment
 2:47.65,,BDI,Fouesnant,BDI,2002-07-05,Spéciose Gakobwa,1979.0,Female,NR,Outdoor,1K0
 2:35.98,,BEL,Heusden,BEL,2021-07-03,Elise Vanderelst,1998.0,Female,NR,Outdoor,1K0
 2:36.30,,BEN,Heusden,BEL,2021-07-03,Noélie Yarigo,1985.0,Female,NR,Outdoor,1K0
+3:14.82,,BIH,Chorzów,POL,2023-06-22,Glorija Kureš,2003.0,Female,NR,Outdoor,1K0
 2:34.13,,BLR,Athína,GRE,1982-09-01,Tetyana Pozdnyakova,1956.0,Female,NR,Outdoor,1K0
 2:54.12,,BOT,Gaborone,BOT,2010-05-23,Winnie George,,Female,NR,Outdoor,1K0
 2:33.0,,BUL,Sofia,BUL,1978-08-13,Totka Petrova,1956.0,Female,NR,Outdoor,1K0
@@ -1727,7 +1729,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,code,environment
 7.26,1.8,BRA,Bogotá,COL,1999-06-26,Maurren Higa Maggi,1976.0,Female,NR,Outdoor,WEI
 6.09,0.2,BRN,Oran,ALG,2023-07-04,Fatima Moubarak,1999.0,Female,NR,Outdoor,WEI
 5.14,,BRU,Kuching,MAS,1962-07-14,Rose Chong,,Female,NR,Outdoor,WEI
-7.0,0.6,BUL,Sofia,BUL,1986-08-03,Silviya Moneva,1965.0,Female,NR,Outdoor,WEI
+7.0,0.6,BUL,Sofia,BUL,1986-08-03,Silvia Moneva,1965.0,Female,NR,Outdoor,WEI
 6.94,1.2,BUR,Kinshasa,COD,2023-08-02,Marthe Yasmine Koala,1994.0,Female,NR,Outdoor,WEI
 5.65,,CAF,Bangui,CAF,1983-05-22,Nicole Tombezogo,1962.0,Female,NR,Outdoor,WEI
 5.85,,CAM,Phnom Penh,CAM,1968-07-19,Kim Mom,,Female,NR,Outdoor,WEI
@@ -2649,7 +2651,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,code,environment
 69.91,,BEL,Leverkusen,GER,2020-08-23,Vanessa Sterckendries,1995.0,Female,NR,Outdoor,HAM
 40.14,,BEN,Sesto Fiorentino,ITA,2021-01-24,Carole Agnes yvon Azove,2005.0,Female,NR,Outdoor,HAM
 39.09,,BER,Prairie View,USA,2021-05-06,Tiara DeRosa,1998.0,Female,NR,Outdoor,HAM
-64.95,,BIH,Durham NC,USA,2019-04-20,Stefani Vukajlović,1996.0,Female,NR,Outdoor,HAM
+64.95,,BIH,Durham,GBR,2019-04-19,Stefani Vukajlović,1996.0,Female,NR,Outdoor,HAM
 77.32,,BLR,Minsk,BLR,2008-06-29,Aksana Miankova,1982.0,Female,NR,Outdoor,HAM
 50.21,,BOL,Sucre,BOL,2002-07-27,Natalia Valda,1975.0,Female,NR,Outdoor,HAM
 25.94,,BOT,Gaborone,BOT,2011-05-14,Andina Tapaphiwa,,Female,NR,Outdoor,HAM
@@ -3132,6 +3134,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,code,environment
 40.39,,BER,Colomiers,FRA,2014-10-18,Shianne Furbert,1985.0,Female,NR,Outdoor,SPE
 38.92,,BHU,Phuntsholing,BHU,2001-12-13,Chechay,,Female,NR,Outdoor,SPE
 55.69,,BIH,Long Beach CA,USA,2022-04-16,Vanja Spaić,1995.0,Female,NR,Outdoor,SPE
+55.69,,BIH,Long Beach CA,USA,2022-04-16,Vanja Spajic,1995.0,Female,NR,Outdoor,SPE
 39.2,,BIZ,Managua,NCA,2017-12-10,Katy Sealy,1990.0,Female,NR,Outdoor,SPE
 67.47,,BLR,Oslo,NOR,2018-06-07,Tatsiana Khaladovich,1991.0,Female,NR,Outdoor,SPE
 42.13,,BOL,Cochabamba,BOL,2013-05-05,Natalia Chávez,1995.0,Female,NR,Outdoor,SPE
@@ -4203,7 +4206,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,code,environment
 11.56,1.7,TKM,Almaty,KAZ,2008-06-07,Valentina Meredova,1984.0,Female,NR,Outdoor,100
 11.99,1.2,TKS,Barranquilla,COL,2018-07-29,Akia Guerrier,1998.0,Female,NR,Outdoor,100
 13.57,,TLS,Darwin,AUS,2001-05-20,Cesaltilna De Yesus Guterres,,Female,NR,Outdoor,100
-11.82,,TOG,Douala,CMR,2021-05-22,Akouvi Judith Koumedzina,2001.0,Female,NR,Outdoor,100
+11.82,-0.2,TOG,Douala,CMR,2021-05-22,Akouvi Judith Koumedzina,2001.0,Female,NR,Outdoor,100
 11.22,1.9,TPE,Wien,AUT,1970-07-18,Chi Cheng,1944.0,Female,NR,Outdoor,100
 10.82,0.9,TTO,Port of Spain,TTO,2017-06-24,Michelle-Lee Ahye,1992.0,Female,NR,Outdoor,100
 11.68,1.0,TUN,Alger,ALG,2000-08-06,Awatef Hamrouni,1981.0,Female,NR,Outdoor,100
@@ -4560,6 +4563,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,code,environment
 1.94,,BIH,Varaždin,YUG,1987-08-15,Amra Temim,1968.0,Female,NR,Outdoor,HOC
 1.73,,BIZ,Ciudad de Guatemala,GUA,2018-07-13,Katy Sealy,1990.0,Female,NR,Outdoor,HOC
 2.0,,BLR,Gomel,BLR,1993-05-14,Tatyana Shevchik,1969.0,Female,NR,Outdoor,HOC
+2.0,,BLR,Lausanne,SUI,2019-07-05,Karina Taranda,1999.0,Female,NR,Outdoor,HOC
 2.0,,BLR,Lausanne,SUI,2019-07-05,Karyna Demidik,1999.0,Female,NR,Outdoor,HOC
 1.74,,BOL,Cochabamba,BOL,2022-05-29,Carla Lorena Ríos,1998.0,Female,NR,Outdoor,HOC
 1.71,,BOT,Lusaka,ZAM,2012-12-13,Titose Chlume,1993.0,Female,NR,Outdoor,HOC
@@ -4691,7 +4695,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,code,environment
 1.38,,NMI,Pohnpei,FSM,2014-07-23,Rachel Abrams,1995.0,Female,NR,Outdoor,HOC
 2.01,,NOR,Zürich,SUI,1997-08-13,Hanne Haugland,1967.0,Female,NR,Outdoor,HOC
 1.26,,NRU,Yaren,NRU,2007-03-04,Arrora De Paune,,Female,NR,Outdoor,HOC
-1.92,,NZL,Dunedin,NZL,1991-01-26,Tania Dixon,1970.0,Female,NR,Outdoor,HOC
+1.92,,NZL,Auckland,NZL,1991-01-26,Tania Dixon,1970.0,Female,NR,Outdoor,HOC
 1.6,,OMA,Beyrouth,LBN,2017-09-10,Aleya Faiq Al-Moghairiya,,Female,NR,Outdoor,HOC
 1.69,,PAK,Kathmandu,NEP,1999-09-27,Rehana Kausar,,Female,NR,Outdoor,HOC
 1.84,,PAN,Managua,NCA,2012-06-16,Kashani Ríos Miller,1991.0,Female,NR,Outdoor,HOC
@@ -5597,6 +5601,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,code,environment
 23:18.2,,BEL,Villeneuve d'Ascq,FRA,1987-05-28,Sabine Desmet,1971.0,Female,NR,Outdoor,5G
 22:11.27,,BOL,Xalapa,MEX,2002-06-29,Ariana Quino,1983.0,Female,NR,Outdoor,5G
 34:24.22,,BOT,Gaborone,BOT,2011-05-15,Ogomoditse Mbodza,,Female,NR,Outdoor,5G
+21:11.46,,BUL,UNKNOWN,???,2001-01-01,Nevena Mineva-Dimitrova,1972.0,Female,NR,Outdoor,5G
 20:34.76,,CHN,Tianjin,CHN,2012-09-16,Liu Hong,1987.0,Female,NR,Outdoor,5G
 29:03.9,,CIV,Abidjan,CIV,2008-06-08,Agnes Kra-Bou,,Female,NR,Outdoor,5G
 24:39.3,,CMR,Yaoundé,CMR,2000-07-01,Anne Hortense Ebena,,Female,NR,Outdoor,5G
@@ -6093,7 +6098,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,code,environment
 45.02,,BOT,St Pierre,MRI,2022-06-09,Botswana,,Female,NR,Outdoor,4×1
 42.29,,BRA,Moskva,RUS,2013-08-18,Brazil,,Female,NR,Outdoor,4×1
 42.73,,BRN,Jakarta,INA,2018-08-30,Bahrain,,Female,NR,Outdoor,4×1
-42.29,,BUL,Sofia,BUL,1988-07-24,Bulgaria,,Female,NR,Outdoor,4×1
+42.29,,BUL,Sofia,BUL,1988-06-26,Bulgaria,,Female,NR,Outdoor,4×1
 45.99,,BUR,Niamey,NIG,2005-12-13,Burkina Faso,,Female,NR,Outdoor,4×1
 49.3,,CAF,Garoua,CMR,1999-07-31,Central African Republic,,Female,NR,Outdoor,4×1
 42.6,,CAN,Beijing,CHN,2015-08-29,Canada,,Female,NR,Outdoor,4×1
@@ -6646,7 +6651,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,code,environment
 34.33,,VAN,Cairns,AUS,2005-05-25,Moses Kamut,1982.0,Male,NR,Outdoor,300
 33.62,,AZE,Moskva,RUS,2009-02-01,Ramil Guliyev,1990.0,Male,NR,Indoor,300
 31.56,,BAH,Columbia SC,USA,2022-01-28,Steven Gardiner,1995.0,Male,NR,Indoor,300
-32.47,,CAN,Clemson SC,USA,2024-01-13,Chris Morales Williams,2004.0,Male,NR,Indoor,300
+32.47,,CAN,Clemson SC,USA,2024-01-13,Christopher Morales Williams,2004.0,Male,NR,Indoor,300
 33.17,,CMR,Liévin,FRA,2005-02-26,Joseph Batangdon,1978.0,Male,NR,Indoor,300
 32.74,,CUB,Liévin,FRA,2010-03-05,William Collazo,1986.0,Male,NR,Indoor,300
 32.15,,CZE,Gent,BEL,2014-02-09,Pavel Maslák,1991.0,Male,NR,Indoor,300
@@ -6713,7 +6718,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,code,environment
 15.7,,BEN,Cotonou,BEN,1987-03-29,Armand Gbaguidi,1960.0,Male,NR,Outdoor,DRE
 17.62,0.1,BER,El Paso TX,USA,1995-04-15,Brian Wellman,1967.0,Male,NR,Outdoor,DRE
 13.81,,BHU,Thimphu,BHU,2019-07-10,Karma Rigyel,,Male,NR,Outdoor,DRE
-16.05,,BIH,Sarajevo,YUG,1979-07-08,Muamer Karajica,1959.0,Male,NR,Outdoor,DRE
+16.05,,BIH,Sarajevo,YUG,1979-07-06,Muamer Karajica,1959.0,Male,NR,Outdoor,DRE
 16.22,-1.9,BIZ,San Salvador,ESA,2016-06-19,Brandon Jones,1987.0,Male,NR,Outdoor,DRE
 17.77,1.0,BLR,Bryansk,URS,1987-07-18,Aleksandr Kovalenko,1963.0,Male,NR,Outdoor,DRE
 15.01,1.1,BOL,Tarija,BOL,2018-04-15,Bruno Alan,1997.0,Male,NR,Outdoor,DRE
@@ -8129,7 +8134,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,code,environment
 7.97,,BEN,Porto Novo,BEN,2018-07-15,Romeo N'tia,1995.0,Male,NR,Outdoor,WEI
 8.34,2.0,BER,Houston TX,USA,2017-05-05,Tyrone Smith,1984.0,Male,NR,Outdoor,WEI
 6.74,,BHU,Thimphu,BHU,2016-07-08,Tashi Dendup,1998.0,Male,NR,Outdoor,WEI
-7.63,,BIH,Celje,YUG,1968-08-10,Milan Babic,1943.0,Male,NR,Outdoor,WEI
+7.63,,BIH,Celje,YUG,1968-06-11,Milan Babic,1943.0,Male,NR,Outdoor,WEI
 7.76,0.0,BIZ,Maracaibo,VEN,1998-08-16,Michael McKoy,1978.0,Male,NR,Outdoor,WEI
 8.33,0.4,BLR,Sestriere,ITA,1996-08-07,Aleksandr Glavatskiy,1970.0,Male,NR,Outdoor,WEI
 7.41,,BOL,Cochabamba,BOL,1996-05-24,Ramiro Villarroel,,Male,NR,Outdoor,WEI
@@ -8701,7 +8706,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,code,environment
 46.60,,BRN,Doha,QAT,2016-02-20,Abbas Abubaker,1996.0,Male,NR,Indoor,400
 46.35,,BUL,Pireás,GRE,2000-02-12,Ilya Dzhivondov,1978.0,Male,NR,Indoor,400
 48.85,,CAF,Reims,FRA,2022-12-04,Badou-Bereingue Bosse,2003.0,Male,NR,Indoor,400
-44.49,,CAN,Fayetteville AR,USA,2024-02-24,Chris Morales Williams,2004.0,Male,NR,Indoor,400
+44.49,,CAN,Fayetteville AR,USA,2024-02-24,Christopher Morales Williams,2004.0,Male,NR,Indoor,400
 46.68,,CGO,Reims,FRA,2020-02-05,Gilles Anthony Afoumba,1996.0,Male,NR,Indoor,400
 47.71,,CHI,Albuquerque NM,USA,2024-02-10,Martin Kouyoumdjian,2003.0,Male,NR,Indoor,400
 46.08,,CHN,Macau,MAC,2007-10-31,Wang Liangyu,1984.0,Male,NR,Indoor,400
@@ -10403,6 +10408,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,code,environment
 5:27.63,,UGA,Tomblaine,FRA,2010-06-25,Simon Ayeko,1987,Male,NR,Outdoor,2KH
 5:27.89,,UKR,Ostrava,TCH,1989-07-29,Nikolay Matyushenko,1966,Male,NR,Outdoor,2KH
 5:48.43,,YUG,Murcia,ESP,2001-07-23,Miloš Vučković,1984,Male,NR,Outdoor,2KH
+38.9,,CRO,Postojna,YUG,1985-07-14,Nedeljko Visnjic,1968,Male,NR,Outdoor,30H
 35.93,,POL,Lublin,POL,2023-05-13,Krzysztof Hołub,2000,Male,NR,Outdoor,30H
 6.59,,BLR,Minsk,BLR,2013-12-20,Aliaksandr Linnik,1991,Male,NR,Indoor,50H
 7.34,,MON,Nice,FRA,2007-01-14,Anthony de Sevelinges,1978,Male,NR,Indoor,50H
@@ -12478,7 +12484,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,code,environment
 48.88,,BIZ,San Salvador,ESA,2007-07-14,Jonathan Williams,1983.0,Male,NR,Outdoor,40H
 47.92,,BLR,Moskva,URS,1985-08-17,Aleksandr Vasilyev,1961.0,Male,NR,Outdoor,40H
 54.71,,BOL,Manaus,BRA,1995-05-26,Ignacio Novarro,,Male,NR,Outdoor,40H
-49.30,,BOT,Gaborone,BOT,2023-06-10,Kemorena Tisang,1995.0,Male,NR,Outdoor,40H
+49.14,,BOT,Gaborone,BOT,2024-02-17,Victor Ntweng,1995.0,Male,NR,Outdoor,40H
 46.29,,BRA,Eugene OR,USA,2022-07-19,Alison dos Santos,2000.0,Male,NR,Outdoor,40H
 49.31,,BRN,Seoul,KOR,1986-09-30,Ahmad Hamada,1961.0,Male,NR,Outdoor,40H
 54.64,,BRU,Manila,PHI,1993-11-30,Kaderi Bujang,,Male,NR,Outdoor,40H
@@ -12636,7 +12642,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,code,environment
 47.98,,SWE,Atlanta GA,USA,1996-08-01,Sven Nylander,1962.0,Male,NR,Outdoor,40H
 57.04,,SWZ,Manzini,SWZ,2019-05-18,Cedusizi Vilakati,,Male,NR,Outdoor,40H
 48.87,,SYR,Sydney,AUS,1999-02-20,Ziad Abou Hamed,1970.0,Male,NR,Outdoor,40H
-51.20,,TAN,Doha,QAT,1985-08-12,Morris Okinda,1963.0,Male,NR,Outdoor,40H
+51.20,,TAN,Cairo,EGY,1985-08-12,Morris Okinda,,Male,NR,Outdoor,40H
 52.02,,TGA,Sacramento CA,USA,1996-05-05,Paeaki Kokohu,1966.0,Male,NR,Outdoor,40H
 49.76,,THA,Chiangmai,THA,1995-12-12,Chanond Keanchan,1967.0,Male,NR,Outdoor,40H
 48.98,,TJK,Tashkent,URS,1986-09-18,Nikolay Ilchenko,1963.0,Male,NR,Outdoor,40H

@@ -25,7 +25,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 48.88,BIZ,San Salvador,ESA,2007-07-14,Jonathan Williams,1983.0,Male,400H,NR,Outdoor
 47.92,BLR,Moskva,URS,1985-08-17,Aleksandr Vasilyev,1961.0,Male,400H,NR,Outdoor
 54.71,BOL,Manaus,BRA,1995-05-26,Ignacio Novarro,,Male,400H,NR,Outdoor
-49.30,BOT,Gaborone,BOT,2023-06-10,Kemorena Tisang,1995.0,Male,400H,NR,Outdoor
+49.14,BOT,Gaborone,BOT,2024-02-17,Victor Ntweng,1995.0,Male,400H,NR,Outdoor
 46.29,BRA,Eugene OR,USA,2022-07-19,Alison dos Santos,2000.0,Male,400H,NR,Outdoor
 49.31,BRN,Seoul,KOR,1986-09-30,Ahmad Hamada,1961.0,Male,400H,NR,Outdoor
 54.64,BRU,Manila,PHI,1993-11-30,Kaderi Bujang,,Male,400H,NR,Outdoor
@@ -183,7 +183,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 47.98,SWE,Atlanta GA,USA,1996-08-01,Sven Nylander,1962.0,Male,400H,NR,Outdoor
 57.04,SWZ,Manzini,SWZ,2019-05-18,Cedusizi Vilakati,,Male,400H,NR,Outdoor
 48.87,SYR,Sydney,AUS,1999-02-20,Ziad Abou Hamed,1970.0,Male,400H,NR,Outdoor
-51.20,TAN,Doha,QAT,1985-08-12,Morris Okinda,1963.0,Male,400H,NR,Outdoor
+51.20,TAN,Cairo,EGY,1985-08-12,Morris Okinda,,Male,400H,NR,Outdoor
 52.02,TGA,Sacramento CA,USA,1996-05-05,Paeaki Kokohu,1966.0,Male,400H,NR,Outdoor
 49.76,THA,Chiangmai,THA,1995-12-12,Chanond Keanchan,1967.0,Male,400H,NR,Outdoor
 48.98,TJK,Tashkent,URS,1986-09-18,Nikolay Ilchenko,1963.0,Male,400H,NR,Outdoor
