@@ -19,7 +19,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 4222,DMA,Clemson SC,USA,2014-02-27,Thea LaFond,1994,Female,Pen,NR,Indoor
 4728,ESP,Aubière,FRA,2024-01-28,María Vicente,2001,Female,Pen,NR,Indoor
 4580,EST,Tallinn,EST,2009-02-08,Kaie Kand,1984,Female,Pen,NR,Indoor
-4580,FIN,Gent,BEL,2000-02-25,Tiia Hautala,1972,Female,Pen,NR,Indoor
+4677,FIN,Glasgow,GBR,2024-03-01,Saga Vanninen,2003,Female,Pen,NR,Indoor
 4723,FRA,Paris,FRA,2011-03-04,Antoinette Nana Djimou,1985,Female,Pen,NR,Indoor
 4723,FRA,Glasgow,GBR,2019-03-01,Solène Ndama,1998,Female,Pen,NR,Indoor
 5000,GBR,Praha,CZE,2015-03-06,Katarina Johnson-Thompson,1993,Female,Pen,NR,Indoor
@@ -34,7 +34,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 4298,ISL,Tallinn,EST,2012-02-04,Helga Margrét Thorsteinsdóttir,1991,Female,Pen,NR,Indoor
 3993,ISR,Minsk,BLR,1999-02-18,Marina Lippis,1978,Female,Pen,NR,Indoor
 3993,ISR,Minsk,BLR,1999-02-18,Martina Lippis,1978,Female,Pen,NR,Indoor
-4540,ITA,Aubière,FRA,2024-01-28,Sveva Gerevini,1996,Female,Pen,NR,Indoor
+4559,ITA,Glasgow,GBR,2024-03-01,Sveva Gerevini,1996,Female,Pen,NR,Indoor
 4181,JAM,Birmingham AL,USA,2015-03-14,Salsa Slack,1989,Female,Pen,NR,Indoor
 2426,JOR,Doha,QAT,2008-02-14,Rania Al-Qabali,1991,Female,Pen,NR,Indoor
 4078,JPN,Astana,KAZ,2023-02-10,Yuki Yamasaki,1995,Female,Pen,NR,Indoor

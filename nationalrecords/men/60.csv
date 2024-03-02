@@ -40,9 +40,10 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 6.61,,CHI,Valencia,ESP,2007-02-10,Kael Becerra,1985.0,Male,60,NR,Indoor
 6.42,,CHN,Birmingham,GBR,2018-03-03,Su Bingtian,1989.0,Male,60,NR,Indoor
 6.51,,CIV,Clemson SC,USA,2023-01-13,Ismael Kone,2000.0,Male,60,NR,Indoor
-6.55,,CMR,Berlin,GER,2024-02-23,Emmanuel Eseme,1993.0,Male,60,NR,Indoor
+6.52,,CMR,Glasgow,GBR,2024-03-01,Emmanuel Eseme,1993.0,Male,60,NR,Indoor
 6.77,,COD,Ottawa,CAN,2024-01-20,Lionnel Muteba,1990.0,Male,60,NR,Indoor
 7.23,,COK,Budapest,HUN,2004-03-05,Harmon Harmon,1980.0,Male,60,NR,Indoor
+7.23,,COK,Glasgow,GBR,2024-03-01,Daniel Tolosa,2005.0,Male,60,NR,Indoor
 6.72,,COL,Spokane WA,USA,2024-02-03,John Parades,2002.0,Male,60,NR,Indoor
 6.69,,COM,Paris,FRA,2000-02-26,Hadhari Djaffar,1978.0,Male,60,NR,Indoor
 6.71,,CRC,Ann Arbor MI,USA,2005-01-08,Bob Colville,1981.0,Male,60,NR,Indoor
@@ -75,7 +76,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 6.63,,GRN,Lubbock TX,USA,2024-01-20,Nazzio John,2003.0,Male,60,NR,Indoor
 6.70,,GUA,Flagstaff AZ,USA,2004-02-07,Rolando Blanco,1972.0,Male,60,NR,Indoor
 6.80,,GUI,Indianapolis IN,USA,2017-01-21,Moussa Conde,1996.0,Male,60,NR,Indoor
-7.27,,GUM,Valencia,ESP,2008-03-07,Michael Alicto,1982.0,Male,60,NR,Indoor
+7.04,,GUM,Glasgow,GBR,2024-03-01,Joseph Green,2001.0,Male,60,NR,Indoor
 6.55,,GUY,Allendale MI,USA,2014-02-21,Adam Harris,1987.0,Male,60,NR,Indoor
 6.62,,HAI,Blacksburg VA,USA,2016-02-19,Darrell Wesh,1992.0,Male,60,NR,Indoor
 6.65,,HKG,Astana,KAZ,2023-02-11,Shak Kam Ching,2001.0,Male,60,NR,Indoor
@@ -93,7 +94,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 6.52,,IVB,Birmingham AL,USA,2022-03-12,Rikkoi Brathwaite,1999.0,Male,60,NR,Indoor
 6.44,,JAM,Portland OR,USA,2016-03-18,Asafa Powell,1982.0,Male,60,NR,Indoor
 6.84,,JOR,Istanbul,TUR,2024-02-17,Bilal Thiyab,2001.0,Male,60,NR,Indoor
-6.53,,JPN,Ostrava,CZE,2024-01-30,Yoshihide Kiryu,1995.0,Male,60,NR,Indoor
+6.52,,JPN,Glasgow,GBR,2024-03-01,Shuhei Tada,1996.0,Male,60,NR,Indoor
 6.51,,KAZ,Moskva,RUS,1992-02-01,Vitaliy Savin,1966.0,Male,60,NR,Indoor
 6.51,,KEN,Paris,FRA,2024-02-11,Ferdinand Omanyala,1996.0,Male,60,NR,Indoor
 7.25,,KIR,Ashgabat,TKM,2017-09-19,Tirioro Kamoriki Willie,1999.0,Male,60,NR,Indoor
@@ -162,7 +163,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 6.69,,SAM,Flagstaff AZ,USA,2016-01-30,Jeremy Dodson,1987.0,Male,60,NR,Indoor
 6.56,,SEN,Liévin,FRA,1987-02-07,Charles-Louis Seck,1965.0,Male,60,NR,Indoor
 6.82,,SEY,Birmingham,GBR,2018-03-03,Dyland Sicobo,1997.0,Male,60,NR,Indoor
-6.71,,SGP,Hangzhou,CHN,2012-02-18,Gary Yeo Foo Ee,1986.0,Male,60,NR,Indoor
+6.69,,SGP,Glasgow,GBR,2024-03-01,Marc Brian Louis,2002.0,Male,60,NR,Indoor
 6.47,,SKN,Łódź,POL,2015-02-17,Kim Collins,1976.0,Male,60,NR,Indoor
 6.63,,SLE,Fayetteville AR,USA,2007-03-10,Ibrahim Kabia,1986.0,Male,60,NR,Indoor
 6.58,,SLO,Budapest,HUN,2004-03-05,Matic Osovnikar,1980.0,Male,60,NR,Indoor
@@ -175,7 +176,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 6.65,,SUR,Chadron NE,USA,2016-02-27,Jurgen Themen,1985.0,Male,60,NR,Indoor
 6.55,,SVK,Madrid,ESP,2020-02-21,Ján Volko,1996.0,Male,60,NR,Indoor
 6.53,,SWE,Istanbul,TUR,2023-03-04,Henrik Larsson,1999.0,Male,60,NR,Indoor
-6.82,,SWZ,Birmingham,GBR,2018-03-03,Sibusiso Matsenjwa,1988.0,Male,60,NR,Indoor
+6.74,,SWZ,Glasgow,GBR,2024-03-01,Sibusiso Matsenjwa,1988.0,Male,60,NR,Indoor
 6.90,,SYR,Berlin,GER,2023-12-16,Mohammad Amin Al-Salami,1994.0,Male,60,NR,Indoor
 7.08,,TGA,Portland OR,USA,2016-03-18,Siueni Filimone,1994.0,Male,60,NR,Indoor
 6.65,,THA,Pattaya,THA,2006-02-10,Wachara Sondee,1983.0,Male,60,NR,Indoor
