@@ -597,10 +597,10 @@ result,discipline,area,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,
 22.64,200m,Oceania,,AUS,Barcelona,ESP,1995-03-11,Melinda Gainsford-Taylor,1971.0,Female,Indoor,AR
 23.02,200m,South America,,GUY,Lubbock TX,USA,2019-01-26,Brenessa Thompson,1996.0,Female,Indoor,AR
 8:16.60,3000m,Africa,,ETH,Stockholm/G,SWE,2014-02-06,Genzebe Dibaba,1991.0,Female,Indoor,AR
-8:39.64,3000m,Asia,,BRN,Val-de-Reuil,FRA,2020-02-14,Winfred Yavi,1999.0,Female,Indoor,AR
+8:36.03,3000m,Asia,,JPN,Glasgow,GBR,2024-03-02,Nozomi Tanaka,1999.0,Female,Indoor,AR
 8:26.41,3000m,Europe,,GBR,Karlsruhe,GER,2017-02-04,Laura Muir,1993.0,Female,Indoor,AR
-8:25.05,3000m,NACAC,,USA,New York NY,USA,2023-02-11,Alicia Monson,1998.0,Female,Indoor,AR
-8:24.93,3000m,Oceania,,AUS,Brighton MA,USA,2024-02-04,Jessica Hull,1996.0,Female,Indoor,AR
+8:20.87,3000m,NACAC,,USA,Glasgow,GBR,2024-03-02,Elle St. Pierre,1995.0,Female,Indoor,AR
+8:24.39,3000m,Oceania,,AUS,Glasgow,GBR,2024-03-02,Jessica Hull,1996.0,Female,Indoor,AR
 8:57.59,3000m,South America,,ARG,Val-de-Reuil,FRA,2023-02-04,Fedra Aldana Luna,1995.0,Female,Indoor,AR
 11:40.33,3000m Race Walk,Europe,,ROU,Bucureşti,ROU,1999-01-30,Claudia Ştef,1978.0,Female,Indoor,AR
 12:20.79,3000m Race Walk,NACAC,,USA,Toronto,CAN,1993-03-12,Debbi Lawrence,1961.0,Female,Indoor,AR
@@ -615,7 +615,7 @@ result,discipline,area,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,
 8:06.24,4 x 800m,Europe,,RUS,Moskva,RUS,2011-02-18,Russia,,Female,Indoor,AR
 8:05.89,4 x 800m,NACAC,,USA,New York NY,USA,2018-02-03,United States,,Female,Indoor,AR
 51.45,400m,Asia,,BRN,Portland OR,USA,2016-03-19,Kemi Adekoya,1993.0,Female,Indoor,AR
-49.24,400m,Europe,,NED,Apeldoorn,NED,2024-02-18,Femke Bol,2000.0,Female,Indoor,AR
+49.17,400m,Europe,,NED,Glasgow,GBR,2024-03-02,Femke Bol,2000.0,Female,Indoor,AR
 49.48,400m,NACAC,,USA,Albuquerque NM,USA,2023-03-11,Britton Wilson,2000.0,Female,Indoor,AR
 52.17,400m,Oceania,,AUS,Budapest,HUN,1989-03-04,Maree Holland,1963.0,Female,Indoor,AR
 51.57,400m,South America,,GUY,Beograd,SRB,2022-03-18,Aliyah Abrams,1997.0,Female,Indoor,AR
@@ -635,7 +635,7 @@ result,discipline,area,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,
 6.92,60m,Europe,,RUS,Madrid,ESP,1995-02-09,Irina Privalova,1968.0,Female,Indoor,AR
 6.94,60m,NACAC,,USA,Albuquerque NM,USA,2023-02-18,Aleia Hobbs,1996.0,Female,Indoor,AR
 6.94,60m,NACAC,,LCA,Albuquerque NM,USA,2023-03-11,Julien Alfred,2001.0,Female,Indoor,AR
-7.13,60m,Oceania,,NZL,Beograd,SRB,2022-03-18,Zoe Hobbs,1997.0,Female,Indoor,AR
+7.06,60m,Oceania,,NZL,Glasgow,GBR,2024-03-02,Zoe Hobbs,1997.0,Female,Indoor,AR
 7.14,60m,South America,,BRA,Beograd,SRB,2022-03-18,Vitoria Cristina Rosa,1996.0,Female,Indoor,AR
 7.82,60m Hurdles,Asia,,KAZ,Liévin,FRA,1999-02-21,Olga Shishigina,1968.0,Female,Indoor,AR
 7.68,60m Hurdles,Europe,,SWE,Karlsruhe,GER,2008-02-10,Susanna Kallur,1981.0,Female,Indoor,AR

@@ -213,7 +213,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 8:57.59,ARG,Val-de-Reuil,FRA,2023-02-04,Fedra Aldana Luna,1995.0,Female,3000,NR,Indoor
 11:06.35,ARM,Mashad,IRI,2012-02-03,Valya Avagyan,1992.0,Female,3000,NR,Indoor
 10:24.79,ARU,Indianapolis IN,USA,1987-03-07,Cornelia Melis,1960.0,Female,3000,NR,Indoor
-8:24.93,AUS,Brighton MA,USA,2024-02-04,Jessica Hull,1996.0,Female,3000,NR,Indoor
+8:24.39,AUS,Glasgow,GBR,2024-03-02,Jessica Hull,1996.0,Female,3000,NR,Indoor
 8:47.51,AUT,Stuttgart,GER,2005-01-29,Susanne Pumper,1970.0,Female,3000,NR,Indoor
 8:49.65,AZE,Doha,QAT,2010-03-12,Layes Tsige,1991.0,Female,3000,NR,Indoor
 9:24.25,BDI,Minneapolis MN,USA,2008-01-26,Diane Nukuri,1984.0,Female,3000,NR,Indoor
@@ -255,9 +255,9 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 8:48.11,ISR,Val-de-Reuil,FRA,2022-02-14,Selamawit Teferi,1994.0,Female,3000,NR,Indoor
 8:41.72,ITA,Val-de-Reuil,FRA,2022-02-14,Nadia Battocletti,2000.0,Female,3000,NR,Indoor
 8:41.10,JAM,New York NY,USA,2018-02-03,Aisha Praught Leer,1989.0,Female,3000,NR,Indoor
-8:40.05,JPN,New York NY,USA,2024-02-11,Nozomi Tanaka,1999.0,Female,3000,NR,Indoor
+8:36.03,JPN,Glasgow,GBR,2024-03-02,Nozomi Tanaka,1999.0,Female,3000,NR,Indoor
 8:58.72,KAZ,Ust-Kamenogorsk,KAZ,2022-02-26,Daisy Jepkemei,1996.0,Female,3000,NR,Indoor
-8:29.41,KEN,Birmingham,GBR,2017-02-18,Hellen Obiri,1989.0,Female,3000,NR,Indoor
+8:22.68,KEN,Glasgow,GBR,2024-03-02,Beatrice Chepkoech,1991.0,Female,3000,NR,Indoor
 9:18.41,KGZ,Astana,KAZ,2023-02-10,Ainuska Kalilkyzy,2003.0,Female,3000,NR,Indoor
 9:40.22,KOR,Pattaya,THA,2005-11-13,Kim Sung-Eun,1989.0,Female,3000,NR,Indoor
 9:36.96,KOS,Istanbul,TUR,2023-03-02,Greza Bakraqi,1995.0,Female,3000,NR,Indoor
@@ -296,7 +296,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 8:46.54,UAE,Hangzhou,CHN,2014-02-16,Betlehem Desalegn,1991.0,Female,3000,NR,Indoor
 8:41.16,UGA,Liévin,FRA,2023-02-15,Sarah Chelangat,2001.0,Female,3000,NR,Indoor
 8:41.01,UKR,Sumy,UKR,2012-02-18,Svitlana Shmidt,1990.0,Female,3000,NR,Indoor
-8:25.05,USA,New York NY,USA,2023-02-11,Alicia Monson,1998.0,Female,3000,NR,Indoor
+8:20.87,USA,Glasgow,GBR,2024-03-02,Elle St. Pierre,1995.0,Female,3000,NR,Indoor
 8:54.19,UZB,Moskva,URS,1982-02-19,Svetlana Ulmasova,1953.0,Female,3000,NR,Indoor
 9:18.41,VIE,Astana,KAZ,2023-02-10,Nguyen Thi Oanh II,1995.0,Female,3000,NR,Indoor
 9:15.43,ZAM,Lincoln NE,USA,2006-02-17,Miriam Kaumba,1983.0,Female,3000,NR,Indoor

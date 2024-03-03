@@ -228,7 +228,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 47.15,AZE,Wien,AUT,2002-03-01,Dmitriy Chumichkin,1981.0,Male,400,NR,Indoor
 45.33,BAH,College Station TX,USA,2011-03-12,Demetrius Pinder,1989.0,Male,400,NR,Indoor
 45.38,BAR,Lubbock TX,USA,2019-02-09,Jonathan Jones,1999.0,Male,400,NR,Indoor
-45.44,BEL,Istanbul,TUR,2023-03-04,Julien Watrin,1992.0,Male,400,NR,Indoor
+45.25,BEL,Glasgow,GBR,2024-03-02,Alexander Doom,1997.0,Male,400,NR,Indoor
 47.14,BIH,Beograd,SRB,2018-02-21,Amel Tuka,1991.0,Male,400,NR,Indoor
 46.78,BLR,Praha,CZE,2015-03-06,Aliaksandr Linnik,1991.0,Male,400,NR,Indoor
 45.74,BOT,Moskva,RUS,2006-03-10,California Molefe,1980.0,Male,400,NR,Indoor
@@ -326,7 +326,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 46.63,PHI,Spokane WA,USA,2023-02-25,Umajesty Williams,1999.0,Male,400,NR,Indoor
 54.80,PLW,Moskva,RUS,2006-03-10,Nicholas Mangham,1986.0,Male,400,NR,Indoor
 45.39,POL,Wien,AUT,2002-03-03,Marek Plawgo,1981.0,Male,400,NR,Indoor
-45.98,POR,Glasgow,GBR,2024-03-01,João Ricardo Coelho,1999.0,Male,400,NR,Indoor
+45.86,POR,Glasgow,GBR,2024-03-02,João Ricardo Coelho,1999.0,Male,400,NR,Indoor
 46.34,PUR,Albuquerque NM,USA,2024-02-02,Jose Figueroa,2004.0,Male,400,NR,Indoor
 48.45,PYF,Moskva,RUS,2006-03-10,Isaac Yaya,1979.0,Male,400,NR,Indoor
 45.39,QAT,Stockholm/G,SWE,2015-02-19,Abdalelah Haroun,1997.0,Male,400,NR,Indoor

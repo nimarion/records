@@ -59,7 +59,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 7.86,ISR,Bratislava,SVK,2024-01-28,Dor Hayon,1998,Male,60H,NR,Indoor
 7.57,ISV,Albuquerque NM,USA,2014-03-14,Eddie Lovett,1992,Male,60H,NR,Indoor
 7.57,ISV,New York NY,USA,2017-02-11,Eddie Lovett,1992,Male,60H,NR,Indoor
-7.46,ITA,Madrid,ESP,2024-02-23,Lorenzo Ndele Simonelli,2002,Male,60H,NR,Indoor
+7.43,ITA,Glasgow,GBR,2024-03-02,Lorenzo Ndele Simonelli,2002,Male,60H,NR,Indoor
 7.41,JAM,Portland OR,USA,2016-03-20,Omar McLeod,1994,Male,60H,NR,Indoor
 7.50,JPN,Osaka,JPN,2021-03-17,Shunsuke Izumiya,2000,Male,60H,NR,Indoor
 7.59,KAZ,Astana,KAZ,2024-01-27,David Yefremov,1999,Male,60H,NR,Indoor
@@ -94,7 +94,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 8.16,OMA,Doha,QAT,2012-01-25,Jalal Salem Al-Ghabshi,1983,Male,60H,NR,Indoor
 7.79,PAN,Houston TX,USA,1998-01-31,Curt Young,1974,Male,60H,NR,Indoor
 7.87,PER,Cochabamba,BOL,2022-02-20,Mauricio Garrido,1996,Male,60H,NR,Indoor
-7.47,POL,Düsseldorf,GER,2024-02-04,Jakub Szymański,2002,Male,60H,NR,Indoor
+7.46,POL,Glasgow,GBR,2024-03-02,Jakub Szymański,2002,Male,60H,NR,Indoor
 7.66,POR,Metz,FRA,2014-02-28,Rasul Dabó,1989,Male,60H,NR,Indoor
 7.66,POR,Praha,CZE,2015-03-06,João Almeida,1988,Male,60H,NR,Indoor
 7.71,PUR,Flagstaff AZ,USA,2014-02-08,Héctor Cotto,1984,Male,60H,NR,Indoor

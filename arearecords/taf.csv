@@ -440,10 +440,10 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,environment,code
 22.64,,AUS,Barcelona,ESP,1995-03-11,Melinda Gainsford-Taylor,1971.0,Female,Indoor,AR,200,6
 23.02,,GUY,Lubbock TX,USA,2019-01-26,Brenessa Thompson,1996.0,Female,Indoor,AR,200,3
 8:16.60,,ETH,Stockholm/G,SWE,2014-02-06,Genzebe Dibaba,1991.0,Female,Indoor,AR,3K0,4
-8:39.64,,BRN,Val-de-Reuil,FRA,2020-02-14,Winfred Yavi,1999.0,Female,Indoor,AR,3K0,5
+8:36.03,,JPN,Glasgow,GBR,2024-03-02,Nozomi Tanaka,1999.0,Female,Indoor,AR,3K0,5
 8:26.41,,GBR,Karlsruhe,GER,2017-02-04,Laura Muir,1993.0,Female,Indoor,AR,3K0,1
-8:25.05,,USA,New York NY,USA,2023-02-11,Alicia Monson,1998.0,Female,Indoor,AR,3K0,2
-8:24.93,,AUS,Brighton MA,USA,2024-02-04,Jessica Hull,1996.0,Female,Indoor,AR,3K0,6
+8:20.87,,USA,Glasgow,GBR,2024-03-02,Elle St. Pierre,1995.0,Female,Indoor,AR,3K0,2
+8:24.39,,AUS,Glasgow,GBR,2024-03-02,Jessica Hull,1996.0,Female,Indoor,AR,3K0,6
 8:57.59,,ARG,Val-de-Reuil,FRA,2023-02-04,Fedra Aldana Luna,1995.0,Female,Indoor,AR,3K0,3
 11:40.33,,ROU,Bucureşti,ROU,1999-01-30,Claudia Ştef,1978.0,Female,Indoor,AR,3G,1
 12:20.79,,USA,Toronto,CAN,1993-03-12,Debbi Lawrence,1961.0,Female,Indoor,AR,3G,2
@@ -458,7 +458,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,environment,code
 8:06.24,,RUS,Moskva,RUS,2011-02-18,Russia,,Female,Indoor,AR,4×8,1
 8:05.89,,USA,New York NY,USA,2018-02-03,United States,,Female,Indoor,AR,4×8,2
 51.45,,BRN,Portland OR,USA,2016-03-19,Kemi Adekoya,1993.0,Female,Indoor,AR,400,5
-49.24,,NED,Apeldoorn,NED,2024-02-18,Femke Bol,2000.0,Female,Indoor,AR,400,1
+49.17,,NED,Glasgow,GBR,2024-03-02,Femke Bol,2000.0,Female,Indoor,AR,400,1
 49.48,,USA,Albuquerque NM,USA,2023-03-11,Britton Wilson,2000.0,Female,Indoor,AR,400,2
 52.17,,AUS,Budapest,HUN,1989-03-04,Maree Holland,1963.0,Female,Indoor,AR,400,6
 51.57,,GUY,Beograd,SRB,2022-03-18,Aliyah Abrams,1997.0,Female,Indoor,AR,400,3
@@ -475,7 +475,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,environment,code
 6.92,,RUS,Madrid,ESP,1995-02-09,Irina Privalova,1968.0,Female,Indoor,AR,60M,1
 6.94,,USA,Albuquerque NM,USA,2023-02-18,Aleia Hobbs,1996.0,Female,Indoor,AR,60M,2
 6.94,,LCA,Albuquerque NM,USA,2023-03-11,Julien Alfred,2001.0,Female,Indoor,AR,60M,2
-7.13,,NZL,Beograd,SRB,2022-03-18,Zoe Hobbs,1997.0,Female,Indoor,AR,60M,6
+7.06,,NZL,Glasgow,GBR,2024-03-02,Zoe Hobbs,1997.0,Female,Indoor,AR,60M,6
 7.14,,BRA,Beograd,SRB,2022-03-18,Vitoria Cristina Rosa,1996.0,Female,Indoor,AR,60M,3
 7.82,,KAZ,Liévin,FRA,1999-02-21,Olga Shishigina,1968.0,Female,Indoor,AR,60H,5
 7.68,,SWE,Karlsruhe,GER,2008-02-10,Susanna Kallur,1981.0,Female,Indoor,AR,60H,1

@@ -45,7 +45,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 7.24,,DEN,Aarhus,DEN,2022-03-02,Ida Kathrine Karstoft,1995.0,Female,60,NR,Indoor
 7.45,,DOM,Staten Island NY,USA,2018-02-03,Marileidy Paulino,1996.0,Female,60,NR,Indoor
 7.16,,ESP,Ourense,ESP,2022-02-26,Maria Isabel Pérez,1993.0,Female,60,NR,Indoor
-7.28,,EST,Tallinn,EST,2024-02-17,Õilme Võro,1996.0,Female,60,NR,Indoor
+7.24,,EST,Glasgow,GBR,2024-03-02,Õilme Võro,1996.0,Female,60,NR,Indoor
 7.16,,FIN,Jyväskylä,FIN,2021-02-20,Lotta Kemppinen,1998.0,Female,60,NR,Indoor
 7.06,,FRA,Aubière,FRA,2006-02-26,Christine Arron,1973.0,Female,60,NR,Indoor
 7.12,,GAB,Moskva,RUS,2013-02-03,Ruddy Zang Milama,1987.0,Female,60,NR,Indoor
@@ -108,14 +108,14 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 7.02,,NGR,Liévin,FRA,1998-02-22,Chioma Ajunwa,1970.0,Female,60,NR,Indoor
 7.10,,NOR,Praha,CZE,2015-03-08,Ezinne Okparaebo,1988.0,Female,60,NR,Indoor
 7.94,,NRU,Sopot,POL,2014-03-08,Lovelite Detenamo,1993.0,Female,60,NR,Indoor
-7.13,,NZL,Beograd,SRB,2022-03-18,Zoe Hobbs,1997.0,Female,60,NR,Indoor
+7.06,,NZL,Glasgow,GBR,2024-03-02,Zoe Hobbs,1997.0,Female,60,NR,Indoor
 7.78,,OMA,Birmingham,GBR,2018-03-02,Mazoon Al-Alawi,1997.0,Female,60,NR,Indoor
 7.83,,PAK,Pattaya,THA,2005-11-13,Naseem Hameed,1986.0,Female,60,NR,Indoor
 7.63,,PER,Zaragoza,ESP,2022-01-29,Ana Meyrella Cuello,2003.0,Female,60,NR,Indoor
 7.26,,PHI,Fayetteville AR,USA,2021-01-31,Kristina Knott,1995.0,Female,60,NR,Indoor
 7.78,,PLE,Kingston RI,USA,2018-01-20,Hanna Barakat,1999.0,Female,60,NR,Indoor
 7.46,,PNG,Gunnison CO,USA,2024-02-16,Isila Manukip Apkup,1998.0,Female,60,NR,Indoor
-6.99,,POL,Toruń,POL,2022-03-05,Ewa Swoboda,1997.0,Female,60,NR,Indoor
+6.98,,POL,Glasgow,GBR,2024-03-02,Ewa Swoboda,1997.0,Female,60,NR,Indoor
 7.17,,POR,Lisboa,POR,2022-03-06,Lorène Dorcas Bazolo,1983.0,Female,60,NR,Indoor
 7.17,,POR,Istanbul,TUR,2023-03-03,Arialis Martinez,1995.0,Female,60,NR,Indoor
 7.90,,PRK,Macau,MAC,2007-10-30,Choe Son Hwa,1991.0,Female,60,NR,Indoor
