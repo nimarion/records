@@ -581,8 +581,8 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,code,environment
 13.32,,CYP,Sofia,BUL,2005-02-13,Maria Diikiti,1982.0,Female,NR,Indoor,DRE
 14.87,,CZE,Maebashi,JPN,1999-03-07,Šárka Kašpárková,1971.0,Female,NR,Indoor,DRE
 13.72,,DEN,Liévin,FRA,2020-02-29,Janne Nielsen,1993.0,Female,NR,Indoor,DRE
-14.62,,DMA,Albuquerque NM,USA,2022-01-22,Thea LaFond,1994.0,Female,NR,Indoor,DRE
-14.73,,ESP,Glasgow,GBR,2019-03-03,Ana Peleteiro-Compaoré,1995.0,Female,NR,Indoor,DRE
+15.01,,DMA,Glasgow,GBR,2024-03-03,Thea LaFond,1994.0,Female,NR,Indoor,DRE
+14.75,,ESP,Glasgow,GBR,2024-03-03,Ana Peleteiro-Compaoré,1995.0,Female,NR,Indoor,DRE
 14.26,,EST,Tartu,EST,2008-02-09,Kaire Leibak,1988.0,Female,NR,Indoor,DRE
 14.38,,FIN,Madrid,ESP,2019-02-08,Kristiina Mäkelä,1992.0,Female,NR,Indoor,DRE
 14.53,,FRA,Athína,GRE,2008-02-13,Teresa Nzola Meso Ba,1983.0,Female,NR,Indoor,DRE
@@ -1483,7 +1483,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,code,environment
 3:46.98,,ZIM,Harare,ZIM,1996-06-02,Zimbabwe,,Female,NR,Outdoor,4×4
 3:49.18,,ARM,Istanbul,TUR,2016-02-27,Armenia,,Female,NR,Indoor,4×4
 3:42.24,,AUT,Wien,AUT,2002-03-03,Austria,,Female,NR,Indoor,4×4
-3:30.58,,BEL,Beograd,SRB,2022-03-20,Belgium,,Female,NR,Indoor,4×4
+3:28.05,,BEL,Glasgow,GBR,2024-03-03,Belgium,,Female,NR,Indoor,4×4
 4:31.58,,BIH,Beograd,SRB,2018-01-28,Bosnia-Herzegovina,,Female,NR,Indoor,4×4
 3:27.83,,BLR,Birmingham,GBR,2007-03-04,Belarus,,Female,NR,Indoor,4×4
 3:33.78,,BRA,São Paulo,BRA,2006-09-24,Brazil,,Female,NR,Indoor,4×4
@@ -1495,14 +1495,14 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,code,environment
 3:48.75,,EST,Tallinn,EST,2015-02-22,Estonia,,Female,NR,Indoor,4×4
 3:55.20,,FIN,Jyväskylä,FIN,1994-02-27,Finland,,Female,NR,Indoor,4×4
 3:28.71,,FRA,Göteborg/Sc,SWE,2013-03-03,France,,Female,NR,Indoor,4×4
-3:27.56,,GBR,Göteborg/Sc,SWE,2013-03-03,Great Britain,,Female,NR,Indoor,4×4
+3:26.36,,GBR,Glasgow,GBR,2024-03-03,Great Britain,,Female,NR,Indoor,4×4
 3:27.22,,GER,Sevilla,ESP,1991-03-10,Germany,,Female,NR,Indoor,4×4
 3:32.88,,GRE,Budapest,HUN,2004-03-07,Greece,,Female,NR,Indoor,4×4
 4:01.58,,HKG,Macau,MAC,2007-02-11,Hong Kong,,Female,NR,Indoor,4×4
 3:37.11,,HUN,Nyíregyháza,HUN,2023-01-28,Hungary,,Female,NR,Indoor,4×4
 3:37.46,,IND,Doha,QAT,2008-02-16,India,,Female,NR,Indoor,4×4
 3:41.72,,IRI,Tehran,IRI,2024-02-19,Iran,,Female,NR,Indoor,4×4
-3:30.97,,IRL,Beograd,SRB,2022-03-20,Ireland,,Female,NR,Indoor,4×4
+3:28.45,,IRL,Glasgow,GBR,2024-03-03,Ireland,,Female,NR,Indoor,4×4
 3:59.01,,IRQ,Hanoi,VIE,2009-11-02,Iraq,,Female,NR,Indoor,4×4
 3:49.12,,ISL,Reykjavik,ISL,2013-02-10,Iceland,,Female,NR,Indoor,4×4
 3:28.61,,ITA,Istanbul,TUR,2023-03-05,Italy,,Female,NR,Indoor,4×4
@@ -1519,10 +1519,10 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,code,environment
 3:54.87,,MGL,Macau,MAC,2007-11-01,Mongolia,,Female,NR,Indoor,4×4
 3:13.40,,MIX,Edmonton,CAN,2020-03-07,Mixed team,,Female,NR,Indoor,4×4
 4:23.52,,MNE,Beograd,SRB,2017-01-29,Montenegro,,Female,NR,Indoor,4×4
-3:25.66,,NED,Istanbul,TUR,2023-03-05,Netherlands,,Female,NR,Indoor,4×4
+3:25.07,,NED,Glasgow,GBR,2024-03-03,Netherlands,,Female,NR,Indoor,4×4
 3:51.88,,PAK,Tehran,IRI,2005-09-27,Pakistan,,Female,NR,Indoor,4×4
 3:26.09,,POL,Birmingham,GBR,2018-03-04,Poland,,Female,NR,Indoor,4×4
-3:35.43,,POR,Birmingham,GBR,2018-03-03,Portugal,,Female,NR,Indoor,4×4
+3:31.93,,POR,Glasgow,GBR,2024-03-03,Portugal,,Female,NR,Indoor,4×4
 3:30.06,,ROU,Budapest,HUN,2004-03-07,Romania,,Female,NR,Indoor,4×4
 3:23.37,,RUS,Glasgow,GBR,2006-01-28,Russia,,Female,NR,Indoor,4×4
 3:49.52,,SEN,Tehran,IRI,2005-09-27,Senegal,,Female,NR,Indoor,4×4
@@ -2538,7 +2538,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,code,environment
 7.73,,AUS,Istanbul,TUR,2012-03-10,Sally Pearson,1986.0,Female,NR,Indoor,60H
 7.96,,AUT,Wien,AUT,2013-02-23,Beate Schrott,1988.0,Female,NR,Indoor,60H
 8.54,,AZE,Zaporizhzhya,URS,1990-01-01,Ella Kolesnikova,1971.0,Female,NR,Indoor,60H
-7.67,,BAH,New York NY,USA,2024-02-11,Devynne Charlton,1995.0,Female,NR,Indoor,60H
+7.65,,BAH,Glasgow,GBR,2024-03-03,Devynne Charlton,1995.0,Female,NR,Indoor,60H
 8.0,,BAR,Ames IA,USA,2016-02-27,Akela Inatta-Jones,1995.0,Female,NR,Indoor,60H
 7.92,,BEL,Torino,ITA,2009-03-06,Eline Berings,1986.0,Female,NR,Indoor,60H
 8.56,,BIH,Sofia,BUL,1975-02-15,Emina Pilav,1951.0,Female,NR,Indoor,60H
@@ -2566,7 +2566,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,code,environment
 7.83,,ESP,Birmingham,GBR,2003-03-15,Glory Alozie,1977.0,Female,NR,Indoor,60H
 8.07,,EST,Tallinn,EST,2023-02-19,Diana Suumann,1992.0,Female,NR,Indoor,60H
 7.79,,FIN,Madrid,ESP,2023-02-22,Reetta Hurske,1995.0,Female,NR,Indoor,60H
-7.78,,FRA,Beograd,SRB,2022-03-19,Cyrena Samba-Mayela,2000.0,Female,NR,Indoor,60H
+7.73,,FRA,Glasgow,GBR,2024-03-03,Cyrena Samba-Mayela,2000.0,Female,NR,Indoor,60H
 7.8,,GBR,Paris,FRA,2011-03-04,Tiffany Porter,1987.0,Female,NR,Indoor,60H
 8.21,,GEO,Ordzhonik,URS,1982-03-06,Olga Vershinina,1964.0,Female,NR,Indoor,60H
 7.73,,GER,Wien,AUT,1989-02-25,Cornelia Oschkenat,1961.0,Female,NR,Indoor,60H
@@ -4698,7 +4698,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,code,environment
 1.38,,NMI,Pohnpei,FSM,2014-07-23,Rachel Abrams,1995.0,Female,NR,Outdoor,HOC
 2.01,,NOR,Zürich,SUI,1997-08-13,Hanne Haugland,1967.0,Female,NR,Outdoor,HOC
 1.26,,NRU,Yaren,NRU,2007-03-04,Arrora De Paune,,Female,NR,Outdoor,HOC
-1.92,,NZL,Auckland,NZL,1991-01-26,Tania Dixon,1970.0,Female,NR,Outdoor,HOC
+1.92,,NZL,Dunedin,NZL,1991-01-26,Tania Dixon,1970.0,Female,NR,Outdoor,HOC
 1.6,,OMA,Beyrouth,LBN,2017-09-10,Aleya Faiq Al-Moghairiya,,Female,NR,Outdoor,HOC
 1.69,,PAK,Kathmandu,NEP,1999-09-27,Rehana Kausar,,Female,NR,Outdoor,HOC
 1.84,,PAN,Managua,NCA,2012-06-16,Kashani Ríos Miller,1991.0,Female,NR,Outdoor,HOC
@@ -7917,10 +7917,11 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,code,environment
 3:09.18,,MIX,Lubbock TX,USA,2018-02-10,Mixed team,,Male,NR,Indoor,4×4
 3:31.61,,MKD,Istanbul,TUR,2015-02-21,Former Yugoslav Republic of Macedonia,,Male,NR,Indoor,4×4
 3:41.87,,MNE,Beograd,SRB,2018-01-28,Montenegro,,Male,NR,Indoor,4×4
-3:06.06,,NED,Toruń,POL,2021-03-07,Netherlands,,Male,NR,Indoor,4×4
+3:04.25,,NED,Glasgow,GBR,2024-03-03,Netherlands,,Male,NR,Indoor,4×4
 3:07.95,,NGR,Sopot,POL,2014-03-08,Nigeria,,Male,NR,Indoor,4×4
 3:13.49,,OMA,Hangzhou,CHN,2014-02-16,Oman,,Male,NR,Indoor,4×4
 3:01.77,,POL,Birmingham,GBR,2018-03-04,Poland,,Male,NR,Indoor,4×4
+3:06.57,,POR,Glasgow,GBR,2024-03-03,Portugal,,Male,NR,Indoor,4×4
 3:08.20,,QAT,Doha,QAT,2016-02-21,Qatar,,Male,NR,Indoor,4×4
 3:08.45,,RSA,Portland OR,USA,2016-03-19,South Africa,,Male,NR,Indoor,4×4
 3:04.82,,RUS,Lisboa,POR,2001-03-11,Russia,,Male,NR,Indoor,4×4
@@ -7928,7 +7929,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,code,environment
 3:14.19,,SRB,Beograd,SRB,2024-01-24,Serbia,,Male,NR,Indoor,4×4
 3:11.29,,SRI,Macau,MAC,2007-11-01,Sri Lanka,,Male,NR,Indoor,4×4
 3:09.04,,SUI,Budapest,HUN,2004-03-07,Switzerland,,Male,NR,Indoor,4×4
-3:09.79,,SVK,Beograd,SRB,2022-03-20,Slovak Republic,,Male,NR,Indoor,4×4
+3:09.21,,SVK,Glasgow,GBR,2024-03-03,Slovak Republic,,Male,NR,Indoor,4×4
 3:07.10,,SWE,Moskva,RUS,2006-03-12,Sweden,,Male,NR,Indoor,4×4
 3:02.52,,TTO,Birmingham,GBR,2018-03-04,Trinidad & Tobago,,Male,NR,Indoor,4×4
 3:09.41,,TUR,Istanbul,TUR,2023-03-05,Türkiye,,Male,NR,Indoor,4×4
@@ -7956,7 +7957,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,code,environment
 1:16.01,,DOM,Montréal,CAN,2015-02-21,Luguelín Santos,1992.0,Male,NR,Indoor,600
 1:16.23,,ESP,Valencia,ESP,2012-03-03,Antonio Manuel Reina,1981.0,Male,NR,Indoor,600
 1:15.31,,GBR,Albuquerque NM,USA,2019-02-02,Thomas Staines,1998.0,Male,NR,Indoor,600
-1:18.25,,GRN,Manhattan KS,USA,2000-03-04,Alleyne Francique,1976.0,Male,NR,Indoor,600
+1:17.56,,GRN,Gainesville FL,USA,2024-03-02,Michael Francois,1999.0,Male,NR,Indoor,600
 1:15.99,,GUY,Staten Island NY,USA,2022-02-25,Quamel Prince,1994.0,Male,NR,Indoor,600
 1:15.77,,ITA,Genova,ITA,1984-02-04,Donato Sabia,1963.0,Male,NR,Indoor,600
 1:14.97,,KEN,Albuquerque NM,USA,2017-01-20,Emmanuel Korir,1995.0,Male,NR,Indoor,600
@@ -9653,7 +9654,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,code,environment
 7:42.55,,NED,Liévin,FRA,2021-02-09,Mike Foppen,1996.0,Male,NR,Indoor,3K0
 8:44.25,,NIG,Lisboa,POR,2001-03-09,Oumarou Souley,1970.0,Male,NR,Indoor,3K0
 7:45.54,,NOR,Praha,CZE,2015-03-07,Henrik Børkja Ingebrigtsen,1991.0,Male,NR,Indoor,3K0
-7:34.88,,NZL,New York NY,USA,2024-02-11,George Beamish,1996.0,Male,NR,Indoor,3K0
+7:34.88,,NZL,New York NY,USA,2024-02-11,Geordie Beamish,1996.0,Male,NR,Indoor,3K0
 8:46.94,,PAK,Tehran,IRI,2004-02-07,Noushad Khan,,Male,NR,Indoor,3K0
 8:33.95,,PAR,Moskva,RUS,2006-03-10,Jorge Cabrera,1981.0,Male,NR,Indoor,3K0
 8:23.63,,PLE,Paris,FRA,1985-01-18,Mohamed Bekheet,1964.0,Male,NR,Indoor,3K0
@@ -11316,7 +11317,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,code,environment
 2.31,,NED,Istanbul,TUR,2023-03-05,Douwe Amels,1991.0,Male,NR,Indoor,HOC
 2.32,,NGR,Pátra,GRE,2000-02-15,Anthony Idiata,1975.0,Male,NR,Indoor,HOC
 2.36,,NOR,Balingen,GER,1994-02-12,Steinar Hoen,1971.0,Male,NR,Indoor,HOC
-2.34,,NZL,Banská Bystrica,SVK,2023-02-14,Hamish Kerr,1996.0,Male,NR,Indoor,HOC
+2.36,,NZL,Glasgow,GBR,2024-03-03,Hamish Kerr,1996.0,Male,NR,Indoor,HOC
 2.14,,OMA,Nehvizdy,CZE,2023-01-31,Fathi Abdul Ghafoor,1999.0,Male,NR,Indoor,HOC
 2.18,,PAN,Boston MA,USA,2015-03-01,Alexander Bowen,1993.0,Male,NR,Indoor,HOC
 2.23,,PER,Moscow ID,USA,1999-02-06,Hugo Muñoz,1973.0,Male,NR,Indoor,HOC
@@ -11858,7 +11859,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,code,environment
 11:45.25,,NMI,Susupe,NMI,2011-05-27,Michael Mancao,,Male,NR,Outdoor,3KH
 8:12.05,,NOR,Bruxelles,BEL,1997-08-22,Jim Svenøy,1972.0,Male,NR,Outdoor,3KH
 10:59.0,,NRU,Port Moresby,PNG,1969-08-15,Karl Teabuge,,Male,NR,Outdoor,3KH
-8:13.26,,NZL,Monaco,MON,2023-07-21,George Beamish,1996.0,Male,NR,Outdoor,3KH
+8:13.26,,NZL,Monaco,MON,2023-07-21,Geordie Beamish,1996.0,Male,NR,Outdoor,3KH
 9:09.26,,OMA,Doha,QAT,2006-12-08,Qais Salim Al-Mahrooqi,1986.0,Male,NR,Outdoor,3KH
 8:42.43,,PAK,Islamabad,PAK,1989-10-21,Abdul Razzaq-2,,Male,NR,Outdoor,3KH
 8:47.67,,PAN,Panama City,PAN,2023-04-15,Didier Rodriguez,1998.0,Male,NR,Outdoor,3KH
@@ -12170,7 +12171,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,code,environment
 13:23.61,,MEX,New York NY,USA,2012-02-11,Juan Luis Barrios,1983.0,Male,NR,Indoor,5K0
 13:08.60,,NED,Boston MA,USA,2024-01-26,Mike Foppen,1996.0,Male,NR,Indoor,5K0
 13:52.6,,NOR,Berlin,FRG,1974-02-16,Arne Kvalheim,1945.0,Male,NR,Indoor,5K0
-13:04.33,,NZL,Boston MA,USA,2024-01-26,George Beamish,1996.0,Male,NR,Indoor,5K0
+13:04.33,,NZL,Boston MA,USA,2024-01-26,Geordie Beamish,1996.0,Male,NR,Indoor,5K0
 13:51.92,,POL,Boston MA,USA,2024-02-10,Nikodem Dworczak,1998.0,Male,NR,Indoor,5K0
 13:41.93,,POR,Birmingham,GBR,2011-02-19,Rui Silva,1977.0,Male,NR,Indoor,5K0
 13:19.10,,QAT,Düsseldorf,GER,2010-02-03,Essa Ismail Rashed,1986.0,Male,NR,Indoor,5K0
@@ -12648,7 +12649,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,code,environment
 47.98,,SWE,Atlanta GA,USA,1996-08-01,Sven Nylander,1962.0,Male,NR,Outdoor,40H
 57.04,,SWZ,Manzini,SWZ,2019-05-18,Cedusizi Vilakati,,Male,NR,Outdoor,40H
 48.87,,SYR,Sydney,AUS,1999-02-20,Ziad Abou Hamed,1970.0,Male,NR,Outdoor,40H
-51.20,,TAN,Doha,QAT,1985-08-12,Morris Okinda,1963.0,Male,NR,Outdoor,40H
+51.20,,TAN,Cairo,EGY,1985-08-12,Morris Okinda,,Male,NR,Outdoor,40H
 52.02,,TGA,Sacramento CA,USA,1996-05-05,Paeaki Kokohu,1966.0,Male,NR,Outdoor,40H
 49.76,,THA,Chiangmai,THA,1995-12-12,Chanond Keanchan,1967.0,Male,NR,Outdoor,40H
 48.98,,TJK,Tashkent,URS,1986-09-18,Nikolay Ilchenko,1963.0,Male,NR,Outdoor,40H

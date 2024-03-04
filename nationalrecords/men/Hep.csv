@@ -52,7 +52,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 6036,MNE,Beograd,SRB,2021-02-07,Darko Pešić,1992.0,Male,Hep,NR,Indoor
 6372,NED,Göteborg/Sc,SWE,2013-03-03,Eelco Sintnicolaas,1987.0,Male,Hep,NR,Indoor
 4631,NGR,Cardiff,GBR,2003-03-23,Lee Okoroafor,1976.0,Male,Hep,NR,Indoor
-6318,NOR,Istanbul,TUR,2023-03-05,Sander Aae Skotheim,2002.0,Male,Hep,NR,Indoor
+6407,NOR,Glasgow,GBR,2024-03-03,Sander Aae Skotheim,2002.0,Male,Hep,NR,Indoor
 5819,NZL,Fayetteville AR,USA,2019-01-26,Aaron Booth,1996.0,Male,Hep,NR,Indoor
 4211,OMA,Rasht,IRI,2001-02-09,Yahya Al-Hashmi,,Male,Hep,NR,Indoor
 6415,POL,Valencia,ESP,1998-03-01,Sebastian Chmara,1971.0,Male,Hep,NR,Indoor
@@ -63,7 +63,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 5475,SKN,Norman OK,USA,2010-02-27,Adolphus Jones,1984.0,Male,Hep,NR,Indoor
 5894,SLO,Linz,AUT,2004-02-15,Ranko Leskovar,1977.0,Male,Hep,NR,Indoor
 6099,SRB,Göteborg/Sc,SWE,2013-03-03,Mihail Dudaš,1989.0,Male,Hep,NR,Indoor
-6363,SUI,Beograd,SRB,2022-03-19,Simon Ehammer,2000.0,Male,Hep,NR,Indoor
+6418,SUI,Glasgow,GBR,2024-03-03,Simon Ehammer,2000.0,Male,Hep,NR,Indoor
 5712,SVK,Praha,CZE,2009-02-08,Slaven Dizdarevič,1981.0,Male,Hep,NR,Indoor
 6142,SWE,Barcelona,ESP,1995-03-12,Henrik Dagård,1969.0,Male,Hep,NR,Indoor
 5332,THA,Ashgabat,TKM,2017-09-20,Sutthisak Singkhon,1996.0,Male,Hep,NR,Indoor
