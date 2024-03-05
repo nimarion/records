@@ -3744,7 +3744,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,code,environment
 6:23.58,,CZE,Maribor,SLO,2023-07-27,Karolína Jarošová,2006.0,Female,NR,Outdoor,2KH
 6:17.78,,DEN,Birmingham,GBR,2023-07-29,Juliane Hvid,1998.0,Female,NR,Outdoor,2KH
 6:56.98,,EGY,Beyrouth,LBN,2010-08-01,Heba Saad Ibrahim,1995.0,Female,NR,Outdoor,2KH
-6:13.03,,ESP,Pontoise,FRA,2020-08-15,Irene Sánchez-Escribano,1992.0,Female,NR,Outdoor,2KH
+6:06.73,,ESP,Barcelona,ESP,2009-07-25,Marta Domínguez,1975.0,Female,NR,Outdoor,2KH
 6:32.96,,EST,Pärnu,EST,2021-06-05,Laura Maasik,1993.0,Female,NR,Outdoor,2KH
 6:11.83,,ETH,Bressanone,ITA,2009-07-10,Korahubish Itaa,1992.0,Female,NR,Outdoor,2KH
 6:18.09,,FIN,Tampere,FIN,2006-07-17,Johanna Lehtinen,1979.0,Female,NR,Outdoor,2KH
@@ -3875,7 +3875,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,code,environment
 13.14,0.0,HKG,"Walnut, Ca",USA,1994-04-17,Chan Sau Ying,1970.0,Female,NR,Outdoor,10H
 13.14,,HKG,Walnut CA,USA,1994-04-17,Chan Sau-Ying,1970.0,Female,NR,Outdoor,10H
 13.83,-0.6,HON,Toluca,MEX,2008-07-21,Jeimy J. Bernárdez,1986.0,Female,NR,Outdoor,10H
-12.69,0.3,HUN,München,GER,2022-08-21,Luca Kozák,1996.0,Female,NR,Outdoor,10H
+12.69,-0.1,HUN,München,GER,2022-08-21,Luca Kozák,1996.0,Female,NR,Outdoor,10H
 13.18,0.7,INA,Taipei,TPE,2012-05-26,Dedeh Erawati,1979.0,Female,NR,Outdoor,10H
 12.78,1.0,IND,Chengdu,CHN,2023-08-04,Jyothi Yarraji,1999.0,Female,NR,Outdoor,10H
 13.64,0.2,IRI,Tehran,IRI,2023-08-18,Elnaz Kompani,1989.0,Female,NR,Outdoor,10H
@@ -7006,7 +7006,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,code,environment
 15.99,,QAT,Ashgabat,TKM,2017-09-20,Rashid Ahmed Al-Mannai,1988.0,Male,NR,Indoor,DRE
 17.74,,ROU,Bucureşti,ROU,2006-02-18,Marian Oprea,1982.0,Male,NR,Indoor,DRE
 17.77,,RUS,Grenoble,FRA,1994-02-06,Leonid Voloshin,1966.0,Male,NR,Indoor,DRE
-16.16,,SEN,Miramas,FRA,2022-02-04,Amath Faye,1996.0,Male,NR,Indoor,DRE
+16.5,,SEN,Saint-Brieuc,FRA,2024-03-02,Amath Faye,1996.0,Male,NR,Indoor,DRE
 15.71,,SGP,Birmingham,GBR,2008-02-23,Stefan Tseng Ke Cheng,1990.0,Male,NR,Indoor,DRE
 15.83,,SKN,Fayetteville AR,USA,2001-01-27,Vance Clarke,1975.0,Male,NR,Indoor,DRE
 15.32,,SLE,Sheffield,GBR,2024-02-25,Jordan Aki-Sawyerr,1999.0,Male,NR,Indoor,DRE
@@ -7522,7 +7522,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,code,environment
 14.2,,MTN,Nouakchott,MTN,2004-01-01,Abdoulaye Diagana,,Male,NR,Outdoor,KUG
 15.02,,MYA,Nay Pyi Taw,MYA,2023-12-07,Htet Wai Yan,,Male,NR,Outdoor,KUG
 17.1,,NAM,Bloemfontein,RSA,1969-04-19,Derreck Wiggill,,Male,NR,Outdoor,KUG
-17.1,,NAM,Windhoek,NAM,2024-02-10,Coenraad Kuhn,,Male,NR,Outdoor,KUG
+17.1,,NAM,Windhoek,NAM,2024-02-10,Coenraad Kuhn,2002.0,Male,NR,Outdoor,KUG
 15.2,,NCA,Managua,NCA,1978-06-24,Ivan Turcios,,Male,NR,Outdoor,KUG
 21.62,,NED,Leiden,NED,2006-06-10,Rutger Smith,1981.0,Male,NR,Outdoor,KUG
 13.92,,NEP,Kathmandu,NEP,1999-09-26,Ujr Singh Bista,,Male,NR,Outdoor,KUG
@@ -9905,6 +9905,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,code,environment
 11:08.5,,BLR,Banská Bystrica,TCH,1985-08-30,Frants Kostyukevich,1963,Male,NR,Outdoor,3G
 11:14.80,,CHN,Yantai,CHN,2006-10-11,Wang Kun,1989,Male,NR,Outdoor,3G
 11:16.3,,CZE,Opava,CZE,1999-09-05,Jiří Malysa,1966,Male,NR,Outdoor,3G
+11:00.50,,ESP,Villeneuve d'Ascq,FRA,2007-06-08,Francisco Javier Fernández,1977,Male,NR,Outdoor,3G
 13:41.6,,FIJ,Melbourne,AUS,2018-10-20,Pramesh Prasad,1974,Male,NR,Outdoor,3G
 10:43.84,,GBR,London,GBR,2018-07-21,Tom Bosworth,1990,Male,NR,Outdoor,3G
 11:46.92,,MRI,Athlone,IRL,2018-07-08,Jérome Caprice,1983,Male,NR,Outdoor,3G
@@ -11302,7 +11303,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,code,environment
 2.28,,LTU,Vilnius,LTU,2015-01-31,Raivydas Stanys,1987.0,Male,NR,Indoor,HOC
 2.17,,LUX,Dortmund,GER,1988-03-26,Raymond Conzemius,1966.0,Male,NR,Indoor,HOC
 1.95,,MAC,Macau,MAC,2007-10-30,Lei Kuok Kuan,1989.0,Male,NR,Indoor,HOC
-2.18,,MAR,Nehvizdy,CZE,2024-02-20,Saad Hammouda,1993.0,Male,NR,Indoor,HOC
+2.22,,MAR,Saint-Brieuc,FRA,2024-03-03,Saad Hammouda,1993.0,Male,NR,Indoor,HOC
 2.27,,MAS,Nehvizdy,CZE,2022-01-30,Nauraj Singh Randhawa,1992.0,Male,NR,Indoor,HOC
 2.08,,MAW,Cardiff,GBR,2006-02-04,Wanangwa Mkandawire,1980.0,Male,NR,Indoor,HOC
 2.22,,MDA,Chisinau,MDA,2015-02-08,Andrei Mîţîcov,1986.0,Male,NR,Indoor,HOC
