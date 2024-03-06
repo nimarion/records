@@ -3875,7 +3875,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,code,environment
 13.14,0.0,HKG,"Walnut, Ca",USA,1994-04-17,Chan Sau Ying,1970.0,Female,NR,Outdoor,10H
 13.14,,HKG,Walnut CA,USA,1994-04-17,Chan Sau-Ying,1970.0,Female,NR,Outdoor,10H
 13.83,-0.6,HON,Toluca,MEX,2008-07-21,Jeimy J. Bernárdez,1986.0,Female,NR,Outdoor,10H
-12.69,-0.1,HUN,München,GER,2022-08-21,Luca Kozák,1996.0,Female,NR,Outdoor,10H
+12.69,0.3,HUN,München,GER,2022-08-21,Luca Kozák,1996.0,Female,NR,Outdoor,10H
 13.18,0.7,INA,Taipei,TPE,2012-05-26,Dedeh Erawati,1979.0,Female,NR,Outdoor,10H
 12.78,1.0,IND,Chengdu,CHN,2023-08-04,Jyothi Yarraji,1999.0,Female,NR,Outdoor,10H
 13.64,0.2,IRI,Tehran,IRI,2023-08-18,Elnaz Kompani,1989.0,Female,NR,Outdoor,10H
@@ -12650,7 +12650,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,code,environment
 47.98,,SWE,Atlanta GA,USA,1996-08-01,Sven Nylander,1962.0,Male,NR,Outdoor,40H
 57.04,,SWZ,Manzini,SWZ,2019-05-18,Cedusizi Vilakati,,Male,NR,Outdoor,40H
 48.87,,SYR,Sydney,AUS,1999-02-20,Ziad Abou Hamed,1970.0,Male,NR,Outdoor,40H
-51.20,,TAN,Cairo,EGY,1985-08-12,Morris Okinda,,Male,NR,Outdoor,40H
+51.20,,TAN,Doha,QAT,1985-08-12,Morris Okinda,1963.0,Male,NR,Outdoor,40H
 52.02,,TGA,Sacramento CA,USA,1996-05-05,Paeaki Kokohu,1966.0,Male,NR,Outdoor,40H
 49.76,,THA,Chiangmai,THA,1995-12-12,Chanond Keanchan,1967.0,Male,NR,Outdoor,40H
 48.98,,TJK,Tashkent,URS,1986-09-18,Nikolay Ilchenko,1963.0,Male,NR,Outdoor,40H
