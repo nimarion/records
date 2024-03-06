@@ -140,6 +140,11 @@ if __name__ == '__main__':
         elif nationalrecordCleanup:
             outputDf = outputDf.sort_values(
                 ['environment', 'nation', 'date', 'name'], ascending=[False, True, True, True])
+        
+        # remove state from venue eg New York BY or Eugene OR
+        outputDf['venue'] = outputDf['venue'].str.replace(r' ([A-Z]+)$', '', regex=True)
+        # eg from Stockholm/G to Stockholm, Göteborg/U to Göteborg 
+        outputDf['venue'] = outputDf['venue'].str.replace(r'/.*$', '', regex=True)
 
         outputDf = outputDf.drop(columns=['Performance'])
 
