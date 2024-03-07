@@ -1,13 +1,13 @@
 result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,environment
 1:13:16,AFG,Dushanbe,TJK,2011-04-16,Mohammad Karim Yaqoot,1984.0,Male,HM,NR,Outdoor
-1:56:00,AIA,East Hampton NY,USA,2013-09-28,Vallan Hodge-Richardson,,Male,HM,NR,Outdoor
+1:56:00,AIA,East Hampton,USA,2013-09-28,Vallan Hodge-Richardson,,Male,HM,NR,Outdoor
 1:06:37,ALB,Roma,ITA,2021-11-07,David Nikolli,1994.0,Male,HM,NR,Outdoor
 1:00:04,ALG,Tours,FRA,2023-09-24,Mohammed Benyettou,2000.0,Male,HM,NR,Outdoor
 1:04:22,AND,Valencia,ESP,2019-10-27,Marcos Sanza,1977.0,Male,HM,NR,Outdoor
 1:02:38,ANG,Río de Janeiro,BRA,2000-08-20,João N'Tyamba,1968.0,Male,HM,NR,Outdoor
 1:34:12,ANT,Charlestown,SKN,2014-09-20,Ezra Colbourne,,Male,HM,NR,Outdoor
 1:00:45,ARG,Uster,SUI,1998-09-27,Antonio Silio,1966.0,Male,HM,NR,Outdoor
-1:05:38,ARM,San Francisco CA,USA,2010-07-25,Armen Vartanian,1979.0,Male,HM,NR,Outdoor
+1:05:38,ARM,San Francisco,USA,2010-07-25,Armen Vartanian,1979.0,Male,HM,NR,Outdoor
 1:03:06,ARU,Utrecht,NED,1991-05-01,Kimball Reynierse,1961.0,Male,HM,NR,Outdoor
 1:43:17,ASA,Apia,SAM,1997-12-10,Frank Paaga,1977.0,Male,HM,NR,Outdoor
 59:57,AUS,Marugame,JPN,2020-02-02,Brett Robinson,1991.0,Male,HM,NR,Outdoor
@@ -42,19 +42,19 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 1:01:29,COL,Kyoto,JPN,1996-03-10,Herder Vásquez,1967.0,Male,HM,NR,Outdoor
 1:07:54,COM,Antananarivo,MAD,2023-09-03,Mohamed Miftahou,1998.0,Male,HM,NR,Outdoor
 1:02:47,CPV,Barcelona,ESP,2023-02-19,Samuel Freire,1990.0,Male,HM,NR,Outdoor
-1:02:57,CRC,Philadelphia PA,USA,1996-09-22,José Luis Molina,1965.0,Male,HM,NR,Outdoor
+1:02:57,CRC,Philadelphia,USA,1996-09-22,José Luis Molina,1965.0,Male,HM,NR,Outdoor
 1:03:47,CRO,Riva del Garda,ITA,1993-09-24,Drago Paripovic,1959.0,Male,HM,NR,Outdoor
 1:03:41,CUB,La Habana,CUB,2005-11-20,Aquelmis Rojas,1978.0,Male,HM,NR,Outdoor
 1:02:02,CYP,Marrakech,MAR,2023-01-29,Amine Khadiri,1988.0,Male,HM,NR,Outdoor
 1:01:31,CZE,Košice,SVK,1997-10-04,Jan Pešava,1972.0,Male,HM,NR,Outdoor
 1:01:55,DEN,Uster,SUI,1998-09-27,Carsten Jørgensen,1970.0,Male,HM,NR,Outdoor
 59:41,DJI,Lisboa,POR,2021-11-21,Ibrahim Hassan Bouh,1997.0,Male,HM,NR,Outdoor
-1:34:20,DMA,New York NY,USA,2013-11-03,Calvin Auguiste,,Male,HM,NR,Outdoor
-1:03:30,DOM,Valley Cottage NY,USA,2021-09-25,Alvaro Abreu,1991.0,Male,HM,NR,Outdoor
+1:34:20,DMA,New York,USA,2013-11-03,Calvin Auguiste,,Male,HM,NR,Outdoor
+1:03:30,DOM,Valley Cottage,USA,2021-09-25,Alvaro Abreu,1991.0,Male,HM,NR,Outdoor
 1:01:36,ECU,Oslo,NOR,1994-09-24,Rolando Vera,1965.0,Male,HM,NR,Outdoor
 1:04:47,EGY,Sharjah,UAE,2017-03-12,Salim Mohammed Salim,1993.0,Male,HM,NR,Outdoor
 58:23,ERI,Lisboa,POR,2010-03-21,Zersenay Tadese,1982.0,Male,HM,NR,Outdoor
-1:05:35,ESA,San José CA,USA,2006-10-01,Carlos Carballo,1982.0,Male,HM,NR,Outdoor
+1:05:35,ESA,San José,USA,2006-10-01,Carlos Carballo,1982.0,Male,HM,NR,Outdoor
 59:39,ESP,Valencia,ESP,2023-10-22,Carlos Mayo,1995.0,Male,HM,NR,Outdoor
 1:02:20,EST,Gdynia,POL,2020-10-17,Tiidrek Nurme,1985.0,Male,HM,NR,Outdoor
 57:41,ETH,Valencia,ESP,2023-10-22,Yomif Kejelcha,1997.0,Male,HM,NR,Outdoor
@@ -72,9 +72,9 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 1:07:31,GIB,Málaga,ESP,1982-09-01,John Chappory,1962.0,Male,HM,NR,Outdoor
 1:03:04,GRE,Palermo,ITA,1988-12-18,Spirídon Andriópoulos,1962.0,Male,HM,NR,Outdoor
 1:18:01,GRN,Les Abymes,FRA,2016-04-30,Reon Radix,,Male,HM,NR,Outdoor
-1:01:03,GUA,Houston TX,USA,2023-01-15,Alberto Gonzalez Mindez,1996.0,Male,HM,NR,Outdoor
+1:01:03,GUA,Houston,USA,2023-01-15,Alberto Gonzalez Mindez,1996.0,Male,HM,NR,Outdoor
 1:06:47,GUI,Córdoba3,ESP,2017-11-26,Alhassane Bangoura,1992.0,Male,HM,NR,Outdoor
-1:04:40,GUM,Winston-Salem NC,USA,2014-03-30,Wayne Blas,1977.0,Male,HM,NR,Outdoor
+1:04:40,GUM,Winston-Salem,USA,2014-03-30,Wayne Blas,1977.0,Male,HM,NR,Outdoor
 1:08:22,GUY,Port of Spain,TTO,2008-11-02,Cleveland Forde,1985.0,Male,HM,NR,Outdoor
 1:28:36,HAI,Belfort,FRA,1995-10-01,Exant Edouard,,Male,HM,NR,Outdoor
 1:04:30,HKG,Ageo,JPN,2022-11-20,Wan Chun Wong,1996.0,Male,HM,NR,Outdoor
@@ -83,12 +83,12 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 1:06:27,INA,Gold Coast,AUS,2019-07-07,Agus Prayogo,1985.0,Male,HM,NR,Outdoor
 1:00:30,IND,New Delhi,IND,2020-11-29,Avinash Sable,1994.0,Male,HM,NR,Outdoor
 1:02:40,IRI,Dresden,GER,2020-11-08,Mohammadreza Abootorabi,1989.0,Male,HM,NR,Outdoor
-1:00:49,IRL,New York NY,USA,2011-03-20,Alistair Cragg,1980.0,Male,HM,NR,Outdoor
+1:00:49,IRL,New York,USA,2011-03-20,Alistair Cragg,1980.0,Male,HM,NR,Outdoor
 1:06:44,IRQ,Rauma,FIN,2022-04-17,Ali Abdulrahman,1996.0,Male,HM,NR,Outdoor
 1:02:47,ISL,Gdynia,POL,2020-10-17,Hlynur Andrésson,1993.0,Male,HM,NR,Outdoor
 1:00:52,ISR,Tallinn,EST,2019-09-08,Maru Teferi,1992.0,Male,HM,NR,Outdoor
 1:00:52,ISR,Gdynia,POL,2020-10-17,Tadesse Getahon,1997.0,Male,HM,NR,Outdoor
-1:04:32,ISV,Hardeeville SC,USA,2020-12-06,Eddie Garcia,1992.0,Male,HM,NR,Outdoor
+1:04:32,ISV,Hardeeville,USA,2020-12-06,Eddie Garcia,1992.0,Male,HM,NR,Outdoor
 59:26,ITA,Napoli,ITA,2022-02-27,Yemaneberhan Crippa,1996.0,Male,HM,NR,Outdoor
 1:18:32,IVB,Road Town,IVB,2019-11-30,Rasa Alula Nagarit,,Male,HM,NR,Outdoor
 1:08:51,JAM,St. Augustine,TTO,2014-10-26,Rupert Green,,Male,HM,NR,Outdoor
@@ -101,12 +101,12 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 1:02:36,KOR,Marugame,JPN,2007-02-04,Eum Hyo-Suk,1984.0,Male,HM,NR,Outdoor
 1:09:45,KOS,Skopje,MKD,2021-10-03,Tirron Mamusha,1995.0,Male,HM,NR,Outdoor
 1:02:58,KSA,København,DEN,2014-03-29,Abdullah Abdulaziz Al-Joud,1975.0,Male,HM,NR,Outdoor
-1:06:06,KUW,Houston TX,USA,2022-01-16,Abdul Mohsen Mubarak Al-Ali,1998.0,Male,HM,NR,Outdoor
+1:06:06,KUW,Houston,USA,2022-01-16,Abdul Mohsen Mubarak Al-Ali,1998.0,Male,HM,NR,Outdoor
 1:11:56,LAO,Khon Kaen,THA,2014-01-26,Sysavath Thammavongchit,,Male,HM,NR,Outdoor
 1:04:23,LAT,Almería,ESP,2023-02-05,Dmitrijs Serjogins,1993.0,Male,HM,NR,Outdoor
-1:02:08,LBA,Houston TX,USA,2022-01-16,Mohamed Hrezi,1991.0,Male,HM,NR,Outdoor
+1:02:08,LBA,Houston,USA,2022-01-16,Mohamed Hrezi,1991.0,Male,HM,NR,Outdoor
 1:05:28,LBN,Limassol,CYP,2010-02-28,Hussein Awada,1973.0,Male,HM,NR,Outdoor
-1:04:52,LCA,Jacksonville FL,USA,2002-11-28,Zepherinus Joseph,1975.0,Male,HM,NR,Outdoor
+1:04:52,LCA,Jacksonville,USA,2002-11-28,Zepherinus Joseph,1975.0,Male,HM,NR,Outdoor
 1:00:35,LES,Gqeberha,RSA,2023-06-03,Tebello Ramakongoana,1996.0,Male,HM,NR,Outdoor
 1:07:51,LIE,Oberriet,SUI,2008-03-29,Marcel Tschopp,1974.0,Male,HM,NR,Outdoor
 1:03:49,LTU,Gent,BEL,2022-03-13,Remigijus Kančys,1987.0,Male,HM,NR,Outdoor
@@ -123,14 +123,14 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 1:32:32,MHL,Kolonia,FSM,2002-07-26,Jesse Napolitani,,Male,HM,NR,Outdoor
 1:04:45,MKD,Bitola,MKD,2023-09-03,Dario Ivanovski,1997.0,Male,HM,NR,Outdoor
 1:06:35,MLI,Dakar,SEN,2001-03-19,Youssouf Diallo,1976.0,Male,HM,NR,Outdoor
-1:03:41,MLT,Houston TX,USA,2023-01-15,Jordan Gusman,1994.0,Male,HM,NR,Outdoor
+1:03:41,MLT,Houston,USA,2023-01-15,Jordan Gusman,1994.0,Male,HM,NR,Outdoor
 1:06:15,MNE,Negotin,SRB,1997-07-19,Drago Music,1968.0,Male,HM,NR,Outdoor
 1:08:57,MON,Paris,FRA,2009-03-08,Antoine Berlin,1989.0,Male,HM,NR,Outdoor
 1:06:37,MOZ,Maputo,MOZ,2006-09-24,Carlos Evaristo,,Male,HM,NR,Outdoor
 1:06:29,MRI,Réduit,MRI,2001-06-16,Menon Ramsamy,1975.0,Male,HM,NR,Outdoor
 1:19:03,MTN,Nouakchott,MTN,2010-05-03,Cherif Ahmed Ould Taleb,,Male,HM,NR,Outdoor
 1:01:10,NAM,Gqeberha,RSA,2022-06-04,Daniel Paulus,1997.0,Male,HM,NR,Outdoor
-1:09:18,NCA,Los Angeles CA,USA,2006-03-19,Cristian Villavicencio,1972.0,Male,HM,NR,Outdoor
+1:09:18,NCA,Los Angeles,USA,2006-03-19,Cristian Villavicencio,1972.0,Male,HM,NR,Outdoor
 1:00:24,NED,Marugame,JPN,2019-02-03,Abdi Nageeye,1989.0,Male,HM,NR,Outdoor
 1:04:37,NEP,Virar,IND,2019-12-08,Amish Thapa Magar,,Male,HM,NR,Outdoor
 1:16:31,NFI,Norfolk Island,NFI,1992-06-17,Craig Rawlinson,,Male,HM,NR,Outdoor
@@ -151,7 +151,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 1:01:32,POL,Gdynia,POL,2020-10-17,Krystian Zalewski,1989.0,Male,HM,NR,Outdoor
 59:40,POR,Valencia,ESP,2023-10-22,Samuel Barata,1993.0,Male,HM,NR,Outdoor
 1:05:46,PRK,Daegu,KOR,2003-08-30,Jong Myong-Chol,1978.0,Male,HM,NR,Outdoor
-1:02:40,PUR,Jacksonville FL,USA,2020-12-20,Alexander Torres Rojas,1990.0,Male,HM,NR,Outdoor
+1:02:40,PUR,Jacksonville,USA,2020-12-20,Alexander Torres Rojas,1990.0,Male,HM,NR,Outdoor
 1:00:39,QAT,Udine,ITA,2007-10-14,Ali Saadoun Al-Dawoodi,1984.0,Male,HM,NR,Outdoor
 1:01:45,ROU,Košice,SVK,1997-10-04,Nicolas Negru,1972.0,Male,HM,NR,Outdoor
 59:36,RSA,Gdynia,POL,2020-10-17,Stephen Mokoka,1985.0,Male,HM,NR,Outdoor
@@ -179,22 +179,22 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 1:11:38,SYR,Ras Al Khaimah,UAE,2007-02-09,Emad Muhbeddin,,Male,HM,NR,Outdoor
 1:11:38,SYR,Aleppo,SYR,2010-09-20,Mohammad Mansour,,Male,HM,NR,Outdoor
 59:30,TAN,Ústí Nad Labem,CZE,2017-09-16,Ismail Juma,1991.0,Male,HM,NR,Outdoor
-1:23:39,TGA,San Francisco CA,USA,2014-02-02,Matthew Kaea,,Male,HM,NR,Outdoor
+1:23:39,TGA,San Francisco,USA,2014-02-02,Matthew Kaea,,Male,HM,NR,Outdoor
 1:06:05,THA,Buri Ram,THA,2023-01-21,Nattawut Innum,1994.0,Male,HM,NR,Outdoor
 1:08:50,TJK,Palermo,ITA,1999-10-03,Sokhibdjan Charipov,,Male,HM,NR,Outdoor
 1:03:46,TKM,Moskva,RUS,1996-05-18,Marly Sopyev,1973.0,Male,HM,NR,Outdoor
-1:56:11,TKS,New York NY,USA,2011-11-06,Todd Foss,,Male,HM,NR,Outdoor
+1:56:11,TKS,New York,USA,2011-11-06,Todd Foss,,Male,HM,NR,Outdoor
 1:08:35,TLS,Macau,MAC,2018-12-02,Felisberto De Deus,1999.0,Male,HM,NR,Outdoor
 1:06:25,TOG,Dakar,SEN,2001-03-19,Clement Lamboni,,Male,HM,NR,Outdoor
 1:03:46,TPE,Marugame,JPN,2015-02-01,Chiang Chieh-Wen,1982.0,Male,HM,NR,Outdoor
-1:04:15,TTO,Jacksonville FL,USA,1997-11-27,Ronnie Holassie,1971.0,Male,HM,NR,Outdoor
+1:04:15,TTO,Jacksonville,USA,1997-11-27,Ronnie Holassie,1971.0,Male,HM,NR,Outdoor
 1:01:53,TUN,Brugnera,ITA,2005-04-17,Rached Amor,,Male,HM,NR,Outdoor
 59:48,TUR,Ras Al Khaimah,UAE,2019-02-08,Kaan Kigen Özbilen,1986.0,Male,HM,NR,Outdoor
 1:05:21,UAE,Ajman,UAE,2022-12-31,Mubarak Al-Marashda,1987.0,Male,HM,NR,Outdoor
 57:31,UGA,Lisboa,POR,2021-11-21,Jacob Kiplimo,2000.0,Male,HM,NR,Outdoor
 1:00:40,UKR,Gdynia,POL,2020-10-17,Bohdan-Ivan Horodyskyy,1994.0,Male,HM,NR,Outdoor
 1:02:15,URU,Santa Pola,ESP,2024-01-21,Nicolás Cuestas,1986.0,Male,HM,NR,Outdoor
-59:43,USA,Houston TX,USA,2007-01-14,Ryan Hall,1982.0,Male,HM,NR,Outdoor
+59:43,USA,Houston,USA,2007-01-14,Ryan Hall,1982.0,Male,HM,NR,Outdoor
 1:03:33,UZB,Istanbul,TUR,2023-04-30,Shokhrukh Davlyatov,1996.0,Male,HM,NR,Outdoor
 1:12:39,VAN,Gold Coast,AUS,2010-04-07,Philip Younki Nausien,1979.0,Male,HM,NR,Outdoor
 1:03:09,VEN,Valencia,ESP,2018-03-24,Luis Alberto Orta,1989.0,Male,HM,NR,Outdoor

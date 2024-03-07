@@ -6,7 +6,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 1:58.72,ALG,Roma,ITA,1991-07-17,Hassiba Boulmerka,1968.0,Female,800,NR,Outdoor
 2:13.04,AND,Castres,FRA,2007-08-11,Natalia Gallego,1980.0,Female,800,NR,Outdoor
 2:06.53,ANG,Luso,POR,2006-06-15,Lilian Silva,1982.0,Female,800,NR,Outdoor
-2:06.36,ANT,Bloomington IN,USA,1995-05-13,Charmaine Thomas,1974.0,Female,800,NR,Outdoor
+2:06.36,ANT,Bloomington,USA,1995-05-13,Charmaine Thomas,1974.0,Female,800,NR,Outdoor
 2:02.88,ARG,Mar del Plata,ARG,1995-03-24,Marta Orellana,1973.0,Female,800,NR,Outdoor
 2:04.0,ARM,Tbilisi,URS,1987-10-15,Tsovik Grigoryan,,Female,800,NR,Outdoor
 2:28.59,ARU,Oranjestad,NED,2021-06-27,Vera-Elise Bakmeyer,,Female,800,NR,Outdoor
@@ -14,16 +14,16 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 1:57.78,AUS,London,GBR,2023-07-23,Catriona Bisset,1994.0,Female,800,NR,Outdoor
 1:56.64,AUT,Sydney,AUS,2000-09-25,Stephanie Graf,1973.0,Female,800,NR,Outdoor
 2:02.50,AZE,Baku,AZE,2015-06-21,Anastasiya Komarova,1993.0,Female,800,NR,Outdoor
-2:04.82,BAH,Atlanta GA,USA,1998-05-23,Vernetta Rolle,1976.0,Female,800,NR,Outdoor
+2:04.82,BAH,Atlanta,USA,1998-05-23,Vernetta Rolle,1976.0,Female,800,NR,Outdoor
 2:13.3,BAN,Dhaka,BAN,1985-12-22,Sharmila Ray Chakma,,Female,800,NR,Outdoor
 2:02.23,BAR,Lima,PER,2019-08-07,Sadé Sealy,1991.0,Female,800,NR,Outdoor
 1:55.47,BDI,Monaco,MON,2017-07-21,Francine Niyonsaba,1993.0,Female,800,NR,Outdoor
 1:58.31,BEL,Hechtel,BEL,1998-08-01,Sandra Stals,1975.0,Female,800,NR,Outdoor
 1:58.65,BEN,Paris,FRA,2023-06-09,Noélie Yarigo,1985.0,Female,800,NR,Outdoor
-2:04.40,BER,Stanford CA,USA,2004-04-30,Tamika Williams,1978.0,Female,800,NR,Outdoor
+2:04.40,BER,Stanford,USA,2004-04-30,Tamika Williams,1978.0,Female,800,NR,Outdoor
 2:37.40,BHU,Colombo,SRI,2018-05-06,Chimi Wangmo,,Female,800,NR,Outdoor
 2:03.02,BIH,Zagreb,YUG,1985-06-22,Biba Kajan,1960.0,Female,800,NR,Outdoor
-2:05.33,BIZ,Irvine CA,USA,1992-04-25,Sharette Garcia,,Female,800,NR,Outdoor
+2:05.33,BIZ,Irvine,USA,1992-04-25,Sharette Garcia,,Female,800,NR,Outdoor
 1:56.1,BLR,Podolsk,URS,1982-08-21,Ravilya Agletdinova,1960.0,Female,800,NR,Outdoor
 2:03.98,BOL,Ambato,ECU,2001-09-15,Niusha Mancilla,1971.0,Female,800,NR,Outdoor
 2:01.62,BOT,Budapest,HUN,2023-08-23,Oratile Nowe,2000.0,Female,800,NR,Outdoor
@@ -54,8 +54,8 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 1:53.28,CZE,München,FRG,1983-07-26,Jarmila Kratochvílová,1951.0,Female,800,NR,Outdoor
 2:00.10,DEN,Tampere,FIN,2023-08-08,Annemarie Nissen,1994.0,Female,800,NR,Outdoor
 2:05.12,DJI,Rabat,MAR,2019-08-26,Zourha Ali Mohamed,1994.0,Female,800,NR,Outdoor
-1:59.06,DMA,Atlanta GA,USA,1996-07-27,Dawn Williams-Sewer,1973.0,Female,800,NR,Outdoor
-2:03.61,DOM,Jacksonville FL,USA,2014-05-30,Alexis Panisse,1993.0,Female,800,NR,Outdoor
+1:59.06,DMA,Atlanta,USA,1996-07-27,Dawn Williams-Sewer,1973.0,Female,800,NR,Outdoor
+2:03.61,DOM,Jacksonville,USA,2014-05-30,Alexis Panisse,1993.0,Female,800,NR,Outdoor
 2:04.00,ECU,Santa Marta,BOL,2017-11-23,Andrea Calderón,1993.0,Female,800,NR,Outdoor
 2:07.7,EGY,El Maadi,EGY,2007-06-04,Walaa Mohamed Ahmad,,Female,800,NR,Outdoor
 2:04.26,ERI,Bilbao,ESP,2008-06-21,Nazret Weldu,1990.0,Female,800,NR,Outdoor
@@ -69,7 +69,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 2:34.64,FSM,Tumon,GUM,1975-04-08,Adiriana Jack,,Female,800,NR,Outdoor
 2:11.89,GAB,Celle Ligure,ITA,2007-06-27,Marlyse Nsourou,1987.0,Female,800,NR,Outdoor
 2:05.41,GAM,Lagos,NGR,2001-06-28,Adama Njie,1978.0,Female,800,NR,Outdoor
-1:55.19,GBR,Eugene OR,USA,2023-09-17,Keely Hodgkinson,2002.0,Female,800,NR,Outdoor
+1:55.19,GBR,Eugene,USA,2023-09-17,Keely Hodgkinson,2002.0,Female,800,NR,Outdoor
 2:13.59,GBS,Braga,POR,2000-07-16,Anhel Alberta Cape,,Female,800,NR,Outdoor
 2:05.8,GEO,Tbilisi,URS,1983-05-12,Jelena Shapovalova,,Female,800,NR,Outdoor
 2:15.72,GEQ,Osaka,JPN,2007-08-25,Emilia Mikue Ondo,1984.0,Female,800,NR,Outdoor
@@ -81,8 +81,8 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 2:07.54,GUA,Sudbury,CAN,1988-07-27,Alma Leticia Jiménez,1969.0,Female,800,NR,Outdoor
 2:14.97,GUI,Casablanca,MAR,1989-07-13,Aissata Bangoura,,Female,800,NR,Outdoor
 2:18.53,GUM,London,GBR,2012-08-08,Amy Atkinson,1989.0,Female,800,NR,Outdoor
-1:59.47,GUY,Stanford CA,USA,2004-05-31,Marian Burnett,1976.0,Female,800,NR,Outdoor
-2:04.26,HAI,Greensboro NC,USA,2006-05-27,Ginou Etienne,1985.0,Female,800,NR,Outdoor
+1:59.47,GUY,Stanford,USA,2004-05-31,Marian Burnett,1976.0,Female,800,NR,Outdoor
+2:04.26,HAI,Greensboro,USA,2006-05-27,Ginou Etienne,1985.0,Female,800,NR,Outdoor
 2:11.92,HKG,Hongkong,HKG,1996-11-03,Li Yin Yee,1981.0,Female,800,NR,Outdoor
 2:22.4,HON,San José,GUA,1989-07-22,Olga Zepeda,1971.0,Female,800,NR,Outdoor
 1:59.46,HUN,Ostrava,CZE,2003-06-12,Judit Varga,1976.0,Female,800,NR,Outdoor
@@ -93,10 +93,10 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 2:04.92,IRQ,Casablanca,MAR,1985-08-05,Iman Sabih Hussain,1963.0,Female,800,NR,Outdoor
 2:00.05,ISL,Oslo,NOR,2017-06-15,Aníta Hinriksdóttir,1996.0,Female,800,NR,Outdoor
 2:04.05,ISR,La Chaux-de-Fonds,SUI,1993-08-08,Edna Lankri,1966.0,Female,800,NR,Outdoor
-2:07.95,ISV,Tallahassee FL,USA,2023-03-25,Michelle Smith,2006.0,Female,800,NR,Outdoor
+2:07.95,ISV,Tallahassee,USA,2023-03-25,Michelle Smith,2006.0,Female,800,NR,Outdoor
 1:57.66,ITA,Pisa,ITA,1980-07-05,Gabriella Dorio,1957.0,Female,800,NR,Outdoor
 2:06.64,IVB,Port of Spain,TTO,2009-08-02,Samantha John,1990.0,Female,800,NR,Outdoor
-1:55.96,JAM,Eugene OR,USA,2023-09-17,Natoya Goule-Toppin,1991.0,Female,800,NR,Outdoor
+1:55.96,JAM,Eugene,USA,2023-09-17,Natoya Goule-Toppin,1991.0,Female,800,NR,Outdoor
 2:10.01,JOR,Oxford,GBR,2016-07-23,Tamara Armoush,1992.0,Female,800,NR,Outdoor
 2:00.45,JPN,Tokyo,JPN,2005-06-05,Miho Sato,1978.0,Female,800,NR,Outdoor
 1:56.0,KAZ,Kyiv,URS,1976-06-12,Valentina Gerasimova,1948.0,Female,800,NR,Outdoor
@@ -111,7 +111,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 1:58.64,LAT,Moskva,URS,1984-07-19,Marita Arente,1957.0,Female,800,NR,Outdoor
 2:08.12,LBA,Pavia,ITA,2016-07-05,Najla Aqdeir Ali Salem,,Female,800,NR,Outdoor
 2:11.49,LBN,Beyrouth,LBN,2013-07-25,Saria Traboulsi,1987.0,Female,800,NR,Outdoor
-2:01.89,LBR,Sacramento CA,USA,2007-06-09,Fatimoh Muhammed,1984.0,Female,800,NR,Outdoor
+2:01.89,LBR,Sacramento,USA,2007-06-09,Fatimoh Muhammed,1984.0,Female,800,NR,Outdoor
 2:06.30,LCA,Bridgetown,BAR,1999-06-26,Augustina Charles,1979.0,Female,800,NR,Outdoor
 2:05.04,LES,Stellenbosch,RSA,2019-04-04,Tsepang Sello,1997.0,Female,800,NR,Outdoor
 2:02.82,LIE,Koblenz,FRG,1980-08-27,Maria Ritter,1957.0,Female,800,NR,Outdoor
@@ -124,12 +124,12 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 2:09.16,MAW,Abuja,NGR,2003-10-12,Getrude Banda,1984.0,Female,800,NR,Outdoor
 1:59.3,MDA,Podolsk,URS,1978-08-12,Lyubov Ivanova,1955.0,Female,800,NR,Outdoor
 2:19.73,MDV,Male,MDV,2023-12-23,Fasuha Ahmed,2003.0,Female,800,NR,Outdoor
-2:00.92,MEX,Portland OR,USA,2021-05-29,Mariela Luisa Real,1993.0,Female,800,NR,Outdoor
+2:00.92,MEX,Portland,USA,2021-05-29,Mariela Luisa Real,1993.0,Female,800,NR,Outdoor
 2:10.5,MGL,Ulan Ude,MGL,2009-07-05,Shinetsetseg Chuluunkhuu,1987.0,Female,800,NR,Outdoor
-2:13.83,MHL,Pasco WA,USA,2008-05-23,Haley Nemra,1989.0,Female,800,NR,Outdoor
+2:13.83,MHL,Pasco,USA,2008-05-23,Haley Nemra,1989.0,Female,800,NR,Outdoor
 2:09.6,MKD,Skopje,YUG,1981-05-19,Elizabeta Bozinovska,1963.0,Female,800,NR,Outdoor
 2:05.38,MLI,Saint-Denis,FRA,2006-07-08,Matata Sanogo,1982.0,Female,800,NR,Outdoor
-1:59.56,MLT,Eugene OR,USA,2003-05-24,Tanya Blake,1971.0,Female,800,NR,Outdoor
+1:59.56,MLT,Eugene,USA,2003-05-24,Tanya Blake,1971.0,Female,800,NR,Outdoor
 2:10.34,MNE,Berane,MNE,2012-07-11,Sladjana Perunović,1984.0,Female,800,NR,Outdoor
 2:31.5,MNT,Road Town,IVB,1992-07-05,Estelle Furlonge,,Female,800,NR,Outdoor
 2:23.17,MON,Nicosia,CYP,1989-05-18,Marie-Cécile Rivetta,1969.0,Female,800,NR,Outdoor
@@ -148,20 +148,20 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 2:29.70,NMI,Santa Rita,GUM,1999-03-07,Jennybree Tollestrup,,Female,800,NR,Outdoor
 1:58.10,NOR,Bellinzona,SUI,2020-09-15,Hedda Hynne,1990.0,Female,800,NR,Outdoor
 2:47.3,NRU,Aiwo,NRU,2007-05-15,Damaris Porte,,Female,800,NR,Outdoor
-1:58.25,NZL,Atlanta GA,USA,1996-07-27,Toni Hodgkinson,1971.0,Female,800,NR,Outdoor
+1:58.25,NZL,Atlanta,USA,1996-07-27,Toni Hodgkinson,1971.0,Female,800,NR,Outdoor
 2:25.76,OMA,Muscat,OMA,2023-04-14,Hena Al-Qasimi,,Female,800,NR,Outdoor
 2:08.04,PAK,Colombo,SRI,2006-08-26,Bushra Parveen,1982.0,Female,800,NR,Outdoor
 2:01.63,PAN,Ponce,PUR,2012-05-12,Andrea Ferris,1987.0,Female,800,NR,Outdoor
 2:06.38,PAR,Trujillo,ESP,2013-11-28,María Caballero,1987.0,Female,800,NR,Outdoor
 2:05.57,PER,Valledupar,COL,2022-07-05,Anita Poma,2004.0,Female,800,NR,Outdoor
-2:06.75,PHI,Portland OR,USA,2016-06-12,Jessica Barnard,1990.0,Female,800,NR,Outdoor
+2:06.75,PHI,Portland,USA,2016-06-12,Jessica Barnard,1990.0,Female,800,NR,Outdoor
 2:27.46,PLE,Bangkok,THA,2023-07-15,Haneen Yaqoub,2004.0,Female,800,NR,Outdoor
-2:16.57,PLW,Tacoma WA,USA,2013-05-25,Christina Wicker,1996.0,Female,800,NR,Outdoor
+2:16.57,PLW,Tacoma,USA,2013-05-25,Christina Wicker,1996.0,Female,800,NR,Outdoor
 2:03.53,PNG,Delhi,IND,2010-10-10,Salome Dell,1983.0,Female,800,NR,Outdoor
 1:56.95,POL,Budapest,HUN,1980-08-11,Jolanta Januchta,1955.0,Female,800,NR,Outdoor
 1:58.94,POR,Zürich,SUI,1997-08-13,Carla Sacramento,1971.0,Female,800,NR,Outdoor
 1:58.0,PRK,Pyongyang,PRK,1964-09-05,Shin Keum Dan,1938.0,Female,800,NR,Outdoor
-2:01.31,PUR,Walnut CA,USA,1984-07-25,Angelita Lind,1959.0,Female,800,NR,Outdoor
+2:01.31,PUR,Walnut,USA,1984-07-25,Angelita Lind,1959.0,Female,800,NR,Outdoor
 2:32.45,QAT,Singapore,SGP,2009-07-01,Nada Nabil Abdallah,,Female,800,NR,Outdoor
 1:55.05,ROU,Bucureşti,ROU,1982-08-01,Doina Melinte,1956.0,Female,800,NR,Outdoor
 1:54.25,RSA,Paris,FRA,2018-06-30,Caster Semenya,1991.0,Female,800,NR,Outdoor
@@ -170,9 +170,9 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 2:17.60,SAM,Christchurch,NZL,1984-01-04,Kim Peterson,1967.0,Female,800,NR,Outdoor
 2:06.82,SEN,Naimette-Xhovémont,BEL,2017-07-19,Fatoumata Diop,1986.0,Female,800,NR,Outdoor
 2:13.50,SEY,Victoria,CAN,2011-08-12,Natacha Bibi,,Female,800,NR,Outdoor
-2:07.4,SGP,San Diego CA,USA,1976-05-31,Chee Swee Lee,,Female,800,NR,Outdoor
+2:07.4,SGP,San Diego,USA,1976-05-31,Chee Swee Lee,,Female,800,NR,Outdoor
 2:12.90,SKN,Vieux-Fort,LCA,2013-06-22,Rosalie Pringle,,Female,800,NR,Outdoor
-2:07.53,SLE,Shippensburg PA,USA,2016-05-28,Agnes Mansaray,,Female,800,NR,Outdoor
+2:07.53,SLE,Shippensburg,USA,2016-05-28,Agnes Mansaray,,Female,800,NR,Outdoor
 1:55.19,SLO,Heusden,BEL,2002-07-20,Jolanda Batagelj,1976.0,Female,800,NR,Outdoor
 2:11.9,SMR,Cesena,ITA,1996-09-15,Monica Randi,1967.0,Female,800,NR,Outdoor
 2:19.94,SOL,Auckland,NZL,1994-02-24,Dorothy Daonanita,,Female,800,NR,Outdoor
@@ -183,7 +183,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 2:09.38,STP,Alger,ALG,2000-07-13,Euridice Borges Semedo,1983.0,Female,800,NR,Outdoor
 2:02.42,SUD,Rabat,MAR,2009-05-23,Mona Jabir Ahmed,1987.0,Female,800,NR,Outdoor
 1:57.95,SUI,Saint-Denis,FRA,2015-07-04,Selina Rutz-Büchel,1991.0,Female,800,NR,Outdoor
-1:56.68,SUR,Göteborg/U,SWE,1995-08-13,Letitia Vriesde,1964.0,Female,800,NR,Outdoor
+1:56.68,SUR,Göteborg,SWE,1995-08-13,Letitia Vriesde,1964.0,Female,800,NR,Outdoor
 1:58.37,SVK,Berlin,FRG,1987-08-21,Gabriela Sedlaková,1968.0,Female,800,NR,Outdoor
 1:58.77,SWE,Lausanne,SUI,2017-07-06,Lovisa Lindh,1991.0,Female,800,NR,Outdoor
 2:11.48,SWZ,Germiston,RSA,2002-06-09,Bongiwe Mndzebele,1984.0,Female,800,NR,Outdoor
@@ -193,7 +193,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 2:03.46,THA,Jakarta,INA,1985-09-26,Sasithorn Chantanuhong,1966.0,Female,800,NR,Outdoor
 2:01.8,TJK,Tashkent,URS,1982-05-30,Alla Libutina,1953.0,Female,800,NR,Outdoor
 2:06.84,TKM,Donetsk,URS,1984-09-07,Svetlana Sots,,Female,800,NR,Outdoor
-2:19.31,TKS,Pittsburgh PA,USA,2021-05-09,Rebecca Bernadin,,Female,800,NR,Outdoor
+2:19.31,TKS,Pittsburgh,USA,2021-05-09,Rebecca Bernadin,,Female,800,NR,Outdoor
 2:08.07,TLS,Bali,INA,1991-01-26,Jeseltina,,Female,800,NR,Outdoor
 2:07.29,TOG,Tomblaine,FRA,2006-07-20,Sandrine Thiébaud-Kangni,1976.0,Female,800,NR,Outdoor
 2:04.74,TPE,Fukuoka,JPN,1998-07-21,Li Ya-Huei,1980.0,Female,800,NR,Outdoor
@@ -205,16 +205,16 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 1:57.62,UGA,London,GBR,2023-07-23,Halimah Nakaayi,1994.0,Female,800,NR,Outdoor
 1:53.43,UKR,Moskva,URS,1980-07-27,Nadezhda Olizarenko,1953.0,Female,800,NR,Outdoor
 2:00.20,URU,Génève,SUI,2021-06-12,Déborah Rodríguez,1992.0,Female,800,NR,Outdoor
-1:54.97,USA,Eugene OR,USA,2023-09-17,Athing Mu,2002.0,Female,800,NR,Outdoor
+1:54.97,USA,Eugene,USA,2023-09-17,Athing Mu,2002.0,Female,800,NR,Outdoor
 1:56.21,UZB,Leningrad,URS,1983-07-27,Zamira Zaytseva,1953.0,Female,800,NR,Outdoor
 2:13.69,VAN,Pirae,PYF,1995-08-22,Mary Estelle Kapalu,1966.0,Female,800,NR,Outdoor
 2:04.93,VEN,Cali,COL,2005-07-24,Yenny Mejías,1984.0,Female,800,NR,Outdoor
 2:00.91,VIE,Guangzhou,CHN,2010-11-25,Truong Thanh Hang,1986.0,Female,800,NR,Outdoor
-1:59.94,VIN,Memphis TN,USA,2023-08-04,Shafiqua Maloney,1999.0,Female,800,NR,Outdoor
+1:59.94,VIN,Memphis,USA,2023-08-04,Shafiqua Maloney,1999.0,Female,800,NR,Outdoor
 2:36.28,YEM,Aleppo,SYR,2009-07-23,Sally Ahmad Hanif,,Female,800,NR,Outdoor
 2:00.10,ZAM,Ndola,ZAM,2020-02-22,Felistus Mpande,1996.0,Female,800,NR,Outdoor
 2:00.49,ZIM,Kuala Lumpur,MAS,1998-09-18,Julia Sakara,1969.0,Female,800,NR,Outdoor
-2:09.57,AHO,Blacksburg VA,USA,2001-01-19,Florencia Hunt,1978.0,Female,800,NR,Indoor
+2:09.57,AHO,Blacksburg,USA,2001-01-19,Florencia Hunt,1978.0,Female,800,NR,Indoor
 2:02.27,ALB,Pireás,GRE,2013-02-10,Luiza Gega,1988.0,Female,800,NR,Indoor
 2:04.99,ALG,Miramas,FRA,2023-02-12,Narimane Amara,1993.0,Female,800,NR,Indoor
 2:14.62,AND,Valencia,ESP,2008-02-23,Natalia Gallego,1980.0,Female,800,NR,Indoor
@@ -223,33 +223,33 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 1:59.46,AUS,Birmingham,GBR,2022-02-19,Catriona Bisset,1994.0,Female,800,NR,Indoor
 1:55.85,AUT,Wien,AUT,2002-03-03,Stephanie Graf,1973.0,Female,800,NR,Indoor
 2:12.0,AZE,Simferopol,URS,1987-01-01,Lyudmila Gorbulyova,,Female,800,NR,Indoor
-2:09.34,BAH,Baton Rouge LA,USA,1998-01-24,Vernetta Rolle,1976.0,Female,800,NR,Indoor
+2:09.34,BAH,Baton Rouge,USA,1998-01-24,Vernetta Rolle,1976.0,Female,800,NR,Indoor
 2:42.23,BAN,Tehran,IRI,2018-02-01,Aktar Sumi,1997.0,Female,800,NR,Indoor
-2:04.03,BAR,Boston MA,USA,2020-02-14,Sonia Gaskin,1994.0,Female,800,NR,Indoor
+2:04.03,BAR,Boston,USA,2020-02-14,Sonia Gaskin,1994.0,Female,800,NR,Indoor
 1:58.31,BDI,Birmingham,GBR,2018-03-04,Francine Niyonsaba,1993.0,Female,800,NR,Indoor
 2:00.46,BEL,Birmingham,GBR,2000-02-20,Sandra Stals,1975.0,Female,800,NR,Indoor
 2:01.01,BEN,Toruń,POL,2021-02-17,Noélie Yarigo,1985.0,Female,800,NR,Indoor
-2:06.29,BER,New York NY,USA,2004-02-14,Tamika Williams,1978.0,Female,800,NR,Indoor
+2:06.29,BER,New York,USA,2004-02-14,Tamika Williams,1978.0,Female,800,NR,Indoor
 2:06.66,BIH,Beograd,SRB,2021-02-07,Jelena Gajić,1997.0,Female,800,NR,Indoor
 1:59.31,BLR,Paris,FRA,1997-03-09,Natallia Dukhnova,1966.0,Female,800,NR,Indoor
-2:00.98,BRA,Stockholm/G,SWE,2001-02-15,Fabiane dos Santos,1976.0,Female,800,NR,Indoor
+2:00.98,BRA,Stockholm,SWE,2001-02-15,Fabiane dos Santos,1976.0,Female,800,NR,Indoor
 2:03.64,BRN,Magglingen,SUI,2006-02-26,Maryam Jamal,1984.0,Female,800,NR,Indoor
 2:00.07,BUL,Pireás,GRE,2007-02-21,Teodora Kolarova,1981.0,Female,800,NR,Indoor
-1:59.87,CAN,Boston MA,USA,2019-02-24,Jenna Westaway,1994.0,Female,800,NR,Indoor
-2:08.97,CGO,Blacksburg VA,USA,2001-02-10,Leontine Tsiba,1973.0,Female,800,NR,Indoor
+1:59.87,CAN,Boston,USA,2019-02-24,Jenna Westaway,1994.0,Female,800,NR,Indoor
+2:08.97,CGO,Blacksburg,USA,2001-02-10,Leontine Tsiba,1973.0,Female,800,NR,Indoor
 2:23.23,CHA,Paris,FRA,1997-03-07,Achta Yorassem,1976.0,Female,800,NR,Indoor
 2:02.90,CHN,Tianjin,CHN,2005-03-01,Liu Qing,1986.0,Female,800,NR,Indoor
-2:07.96,CIV,Indianapolis IN,USA,1987-03-06,Celestine N'Drin,1963.0,Female,800,NR,Indoor
+2:07.96,CIV,Indianapolis,USA,1987-03-06,Celestine N'Drin,1963.0,Female,800,NR,Indoor
 2:18.17,CMR,Eaubonne,FRA,2003-01-18,Florence Djepe,1978.0,Female,800,NR,Indoor
 2:07.62,COD,Budapest,HUN,2004-03-05,Bibiche Mankatou,1980.0,Female,800,NR,Indoor
 2:10.70,COM,Eaubonne,FRA,2006-02-11,Salhate Djamalidine,1978.0,Female,800,NR,Indoor
-2:07.72,CRC,Indianapolis IN,USA,1987-03-06,Maureen Stewart,1965.0,Female,800,NR,Indoor
+2:07.72,CRC,Indianapolis,USA,1987-03-06,Maureen Stewart,1965.0,Female,800,NR,Indoor
 1:59.83,CRO,Budapest,HUN,1987-02-08,Slobodanka Colovic,1965.0,Female,800,NR,Indoor
 2:04.18,CUB,Eaubonne,FRA,2016-02-09,Rose M. Almanza,1992.0,Female,800,NR,Indoor
 2:05.28,CYP,Istanbul,TUR,2024-02-10,Stavri Filippou,1992.0,Female,800,NR,Indoor
 1:56.90,CZE,Maebashi,JPN,1999-03-07,Ludmila Formanová,1974.0,Female,800,NR,Indoor
-2:02.33,DEN,Stockholm/G,SWE,2000-02-17,Heidi Jensen,1966.0,Female,800,NR,Indoor
-2:02.55,DMA,Indianapolis IN,USA,1997-03-08,Dawn Williams-Sewer,1973.0,Female,800,NR,Indoor
+2:02.33,DEN,Stockholm,SWE,2000-02-17,Heidi Jensen,1966.0,Female,800,NR,Indoor
+2:02.55,DMA,Indianapolis,USA,1997-03-08,Dawn Williams-Sewer,1973.0,Female,800,NR,Indoor
 2:20.47,ESA,Barcelona,ESP,1995-03-10,Rosa Evora,1973.0,Female,800,NR,Indoor
 1:59.52,ESP,Gent,BEL,2004-02-08,Mayte Martínez,1976.0,Female,800,NR,Indoor
 2:04.39,EST,Võru,EST,2007-02-20,Egle Uljas,1984.0,Female,800,NR,Indoor
@@ -260,11 +260,11 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 1:57.18,GBR,Birmingham,GBR,2023-02-25,Keely Hodgkinson,2002.0,Female,800,NR,Indoor
 2:12.8,GEO,Kharkov,URS,1979-01-27,Leila Tsintsalashvili,,Female,800,NR,Indoor
 1:56.40,GER,Wien,AUT,1988-02-13,Christine Wachtel,1965.0,Female,800,NR,Indoor
-2:02.30,GHA,Boston MA,USA,2018-02-25,Agnes Abu,1992.0,Female,800,NR,Indoor
+2:02.30,GHA,Boston,USA,2018-02-25,Agnes Abu,1992.0,Female,800,NR,Indoor
 2:22.46,GIB,Birmingham,GBR,2013-02-06,Kim Baglietto,1992.0,Female,800,NR,Indoor
 2:02.08,GRE,Pireás,GRE,2012-02-04,Eléni Filándra,1984.0,Female,800,NR,Indoor
-2:03.93,GRN,Fayetteville AR,USA,2005-03-12,Neisha Bernard-Thomas,1981.0,Female,800,NR,Indoor
-2:22.80,GUA,Indianapolis IN,USA,1987-03-06,Christina Girón,,Female,800,NR,Indoor
+2:03.93,GRN,Fayetteville,USA,2005-03-12,Neisha Bernard-Thomas,1981.0,Female,800,NR,Indoor
+2:22.80,GUA,Indianapolis,USA,1987-03-06,Christina Girón,,Female,800,NR,Indoor
 2:22.72,GUM,Budapest,HUN,2004-03-05,Sloan Siegrist,1980.0,Female,800,NR,Indoor
 2:02.27,GUY,Valencia,ESP,2008-03-08,Marian Burnett,1976.0,Female,800,NR,Indoor
 2:22.35,HKG,Macau,MAC,2007-02-11,Roseda Lo Wing Hei,,Female,800,NR,Indoor
@@ -272,11 +272,11 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 2:15.44,INA,Hangzhou,CHN,2014-02-16,Lismawati Ilang,1991.0,Female,800,NR,Indoor
 2:03.43,IND,Doha,QAT,2008-02-16,Sinimole Markose,1983.0,Female,800,NR,Indoor
 2:09.17,IRI,Tehran,IRI,2024-02-19,Toktam Dastarbandan,2001.0,Female,800,NR,Indoor
-2:00.58,IRL,Fayetteville AR,USA,2021-02-21,Síofra Cléirigh Büttner,1995.0,Female,800,NR,Indoor
+2:00.58,IRL,Fayetteville,USA,2021-02-21,Síofra Cléirigh Büttner,1995.0,Female,800,NR,Indoor
 2:25.90,IRQ,Tehran,IRI,2010-02-26,Hikmat Alaa Jassem,1985.0,Female,800,NR,Indoor
 2:01.18,ISL,Reykjavik,ISL,2017-02-04,Aníta Hinriksdóttir,1996.0,Female,800,NR,Indoor
-2:07.46,ISR,Fayetteville AR,USA,2024-01-27,Sivan Aurbach,2000.0,Female,800,NR,Indoor
-2:15.46,ISV,Birmingham AL,USA,2020-02-27,Mikaela Smith,2001.0,Female,800,NR,Indoor
+2:07.46,ISR,Fayetteville,USA,2024-01-27,Sivan Aurbach,2000.0,Female,800,NR,Indoor
+2:15.46,ISV,Birmingham,USA,2020-02-27,Mikaela Smith,2001.0,Female,800,NR,Indoor
 1:59.25,ITA,Karlsruhe,GER,2009-02-15,Elisa Cusma Piccione,1981.0,Female,800,NR,Indoor
 1:58.46,JAM,Liévin,FRA,2022-02-17,Natoya Goule-Toppin,1991.0,Female,800,NR,Indoor
 2:11.57,JOR,London,GBR,2017-01-29,Tamara Armoush,1992.0,Female,800,NR,Indoor
@@ -284,40 +284,40 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 1:58.83,KEN,Istanbul,TUR,2012-03-11,Pamela Jelimo,1989.0,Female,800,NR,Indoor
 2:31.04,LAO,Hanoi,VIE,2009-11-02,Souksavanh Malivanh,1991.0,Female,800,NR,Indoor
 2:01.10,LAT,Eaubonne,FRA,2019-02-12,Līga Velvere,1990.0,Female,800,NR,Indoor
-2:06.41,LBR,Fayetteville AR,USA,2007-03-10,Fatimoh Muhammed,1984.0,Female,800,NR,Indoor
-2:07.16,LCA,Fayetteville AR,USA,2009-01-24,Leander Ernest,1987.0,Female,800,NR,Indoor
+2:06.41,LBR,Fayetteville,USA,2007-03-10,Fatimoh Muhammed,1984.0,Female,800,NR,Indoor
+2:07.16,LCA,Fayetteville,USA,2009-01-24,Leander Ernest,1987.0,Female,800,NR,Indoor
 2:15.4,LIE,München,FRG,1976-02-21,Maria Ritter,1957.0,Female,800,NR,Indoor
-2:01.07,LTU,Lubbock TX,USA,2024-02-24,Gabija Galvydytė,2000.0,Female,800,NR,Indoor
+2:01.07,LTU,Lubbock,USA,2024-02-24,Gabija Galvydytė,2000.0,Female,800,NR,Indoor
 2:01.82,LUX,Luxembourg,LUX,2024-02-18,Charline Mathias,1992.0,Female,800,NR,Indoor
 2:21.92,MAC,Hangzhou,CHN,2012-02-19,Leong Ka Man,1990.0,Female,800,NR,Indoor
 2:08.42,MAD,Valencia,ESP,2008-03-07,Fanjanteino Félix,1980.0,Female,800,NR,Indoor
 1:59.01,MAR,Liévin,FRA,2012-02-14,Malika Akkaoui,1987.0,Female,800,NR,Indoor
 2:21.27,MAS,Pattaya,THA,2006-02-10,Vally Michael,1984.0,Female,800,NR,Indoor
-2:04.13,MDA,Boston MA,USA,1984-01-12,Olga Politova,1964.0,Female,800,NR,Indoor
+2:04.13,MDA,Boston,USA,1984-01-12,Olga Politova,1964.0,Female,800,NR,Indoor
 2:22.30,MDV,Tehran,IRI,2024-02-19,Fasuha Ahmed,2003.0,Female,800,NR,Indoor
 2:15.45,MGL,Macau,MAC,2007-10-31,Shinetsetseg Chuluunkhuu,1987.0,Female,800,NR,Indoor
 2:13.16,MKD,Sofia,BUL,1988-02-21,Marina Damcevska,1962.0,Female,800,NR,Indoor
 2:08.14,MLI,Aubière,FRA,2004-02-22,Matata Sanogo,1982.0,Female,800,NR,Indoor
-2:06.53,MLT,Boston MA,USA,2024-02-03,Gina McNamara,1994.0,Female,800,NR,Indoor
+2:06.53,MLT,Boston,USA,2024-02-03,Gina McNamara,1994.0,Female,800,NR,Indoor
 2:17.52,MNE,Beograd,SRB,2018-02-04,Sladjana Perunović,1984.0,Female,800,NR,Indoor
 2:39.26,MON,Miramas,FRA,2022-12-11,Eden Mathis,2006.0,Female,800,NR,Indoor
 1:57.06,MOZ,Liévin,FRA,1999-02-21,Maria Mutola,1972.0,Female,800,NR,Indoor
 2:20.21,MYA,Pattaya,THA,2005-11-13,Toe Ni Ni,1980.0,Female,800,NR,Indoor
-1:59.91,NAM,Stockholm/G,SWE,2005-02-15,Agnes Samaria,1972.0,Female,800,NR,Indoor
-2:00.01,NED,Stockholm/G,SWE,2001-02-15,Ester Goossens,1972.0,Female,800,NR,Indoor
-2:03.65,NGR,Boston MA,USA,2019-02-24,Abike Egbeniyi,1994.0,Female,800,NR,Indoor
+1:59.91,NAM,Stockholm,SWE,2005-02-15,Agnes Samaria,1972.0,Female,800,NR,Indoor
+2:00.01,NED,Stockholm,SWE,2001-02-15,Ester Goossens,1972.0,Female,800,NR,Indoor
+2:03.65,NGR,Boston,USA,2019-02-24,Abike Egbeniyi,1994.0,Female,800,NR,Indoor
 2:00.92,NOR,Liévin,FRA,2021-02-09,Hedda Hynne,1990.0,Female,800,NR,Indoor
 2:00.36,NZL,Paris,FRA,1997-03-09,Toni Hodgkinson,1971.0,Female,800,NR,Indoor
 2:12.25,PAK,Pattaya,THA,2005-11-14,Gulnaz Ara,1981.0,Female,800,NR,Indoor
 2:45.33,PLE,Tehran,IRI,2004-02-06,Wesam Abubkheet,1986.0,Female,800,NR,Indoor
 1:59.29,POL,Toruń,POL,2017-02-10,Joanna Jóźwik,1991.0,Female,800,NR,Indoor
 2:00.81,POR,Sevilla,ESP,1995-02-15,Carla Sacramento,1971.0,Female,800,NR,Indoor
-2:05.06,PUR,Boston MA,USA,2024-02-03,Aziza Ayoub,1998.0,Female,800,NR,Indoor
+2:05.06,PUR,Boston,USA,2024-02-03,Aziza Ayoub,1998.0,Female,800,NR,Indoor
 1:59.00,ROU,Budapest,HUN,1987-02-08,Doina Melinte,1956.0,Female,800,NR,Indoor
-2:06.05,RSA,Fayetteville AR,USA,2016-01-29,Dominique Scott Efurd,1992.0,Female,800,NR,Indoor
+2:06.05,RSA,Fayetteville,USA,2016-01-29,Dominique Scott Efurd,1992.0,Female,800,NR,Indoor
 1:57.47,RUS,Maebashi,JPN,1999-03-07,Natalya Tsyganova,1971.0,Female,800,NR,Indoor
-2:14.52,SKN,New York NY,USA,2017-03-10,Reanda Richards,1999.0,Female,800,NR,Indoor
-2:08.31,SLE,Albuquerque NM,USA,2020-02-29,Agnes Mansaray,,Female,800,NR,Indoor
+2:14.52,SKN,New York,USA,2017-03-10,Reanda Richards,1999.0,Female,800,NR,Indoor
+2:08.31,SLE,Albuquerque,USA,2020-02-29,Agnes Mansaray,,Female,800,NR,Indoor
 1:55.82,SLO,Wien,AUT,2002-03-03,Jolanda Batagelj,1976.0,Female,800,NR,Indoor
 2:14.92,SMR,Genova,ITA,1997-02-23,Monica Randi,1967.0,Female,800,NR,Indoor
 2:03.27,SRB,Beograd,SRB,2017-02-05,Amela Ljajić,1993.0,Female,800,NR,Indoor
@@ -326,17 +326,17 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 2:00.06,SUI,Glasgow,GBR,2024-03-02,Lore Hoffmann,1996.0,Female,800,NR,Indoor
 1:59.21,SUR,Birmingham,GBR,1997-02-23,Letitia Vriesde,1964.0,Female,800,NR,Indoor
 2:01.70,SVK,Istanbul,TUR,2023-03-04,Gabriela Gajanová,1999.0,Female,800,NR,Indoor
-2:00.01,SWE,Stockholm/G,SWE,1998-02-19,Maria Akraka,1966.0,Female,800,NR,Indoor
+2:00.01,SWE,Stockholm,SWE,1998-02-19,Maria Akraka,1966.0,Female,800,NR,Indoor
 2:01.74,TAN,Liévin,FRA,2001-02-25,Lwiza John,1980.0,Female,800,NR,Indoor
 2:12.17,THA,Pattaya,THA,2005-11-14,Buathip Boonprasert,1983.0,Female,800,NR,Indoor
 2:09.99,TOG,Eaubonne,FRA,2007-02-02,Sandrine Thiébaud-Kangni,1976.0,Female,800,NR,Indoor
-2:04.09,TTO,Fayetteville AR,USA,2018-02-09,Alena Brooks,1991.0,Female,800,NR,Indoor
+2:04.09,TTO,Fayetteville,USA,2018-02-09,Alena Brooks,1991.0,Female,800,NR,Indoor
 2:05.35,TUN,Eaubonne,FRA,2003-02-07,Abir Nakhli,1981.0,Female,800,NR,Indoor
 2:01.19,TUR,Istanbul,TUR,2012-03-09,Merve Aydın,1990.0,Female,800,NR,Indoor
 1:58.58,UGA,Liévin,FRA,2022-02-17,Halimah Nakaayi,1994.0,Female,800,NR,Indoor
 1:57.23,UKR,Moskva,RUS,1992-02-01,Inna Yevseyeva,1964.0,Female,800,NR,Indoor
-1:58.29,USA,New York NY,USA,2020-02-08,Ajee’ Wilson,1994.0,Female,800,NR,Indoor
+1:58.29,USA,New York,USA,2020-02-08,Ajee’ Wilson,1994.0,Female,800,NR,Indoor
 2:03.65,VIE,Hanoi,VIE,2009-11-02,Truong Thanh Hang,1986.0,Female,800,NR,Indoor
-2:08.19,VIN,College Station TX,USA,2020-02-29,Shafiqua Maloney,1999.0,Female,800,NR,Indoor
-2:08.24,ZAM,Boston MA,USA,2005-03-12,Adeh Mwamba,1976.0,Female,800,NR,Indoor
-2:07.32,ZIM,Blacksburg VA,USA,2001-02-17,Laura Gerber,1980.0,Female,800,NR,Indoor
+2:08.19,VIN,College Station,USA,2020-02-29,Shafiqua Maloney,1999.0,Female,800,NR,Indoor
+2:08.24,ZAM,Boston,USA,2005-03-12,Adeh Mwamba,1976.0,Female,800,NR,Indoor
+2:07.32,ZIM,Blacksburg,USA,2001-02-17,Laura Gerber,1980.0,Female,800,NR,Indoor

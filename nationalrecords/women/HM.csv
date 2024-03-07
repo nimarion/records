@@ -1,15 +1,15 @@
 result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,environment
 1:30:33,AFG,Hamburg,GER,2022-04-24,Rahman Mirzai,,Female,HM,NR,Outdoor
-3:09:34,AIA,Orlando FL,USA,2006-01-08,Rose Fitzgerald,,Female,HM,NR,Outdoor
+3:09:34,AIA,Orlando,USA,2006-01-08,Rose Fitzgerald,,Female,HM,NR,Outdoor
 1:10:18,ALB,Tirane,ALB,2022-10-23,Luiza Gega,1988.0,Female,HM,NR,Outdoor
 1:10:00,ALG,Lisboa,POR,2008-03-16,Souad Aït Salem,1979.0,Female,HM,NR,Outdoor
 1:22:43,AND,Gavà,ESP,2005-02-13,Silvia Felipo,1967.0,Female,HM,NR,Outdoor
 1:17:04,ANG,Viana do Castelo,POR,2019-01-20,Neide Dias,1987.0,Female,HM,NR,Outdoor
 2:05:49,ANT,Bridgetown,BAR,2012-12-09,Oona Edwards,,Female,HM,NR,Outdoor
 1:09:28,ARG,Buenos Aires,ARG,2023-08-27,Florencia Borelli,1992.0,Female,HM,NR,Outdoor
-1:21:10,ARM,New York NY,USA,2001-05-13,Alexa Babakhanian,1966.0,Female,HM,NR,Outdoor
+1:21:10,ARM,New York,USA,2001-05-13,Alexa Babakhanian,1966.0,Female,HM,NR,Outdoor
 1:24:33,ARU,Oranjestad,AHO,1987-03-18,Cornelia Melis,1960.0,Female,HM,NR,Outdoor
-1:47:39,ASA,Redwood City CA,USA,2001-10-21,Faye Ondelacy,,Female,HM,NR,Outdoor
+1:47:39,ASA,Redwood City,USA,2001-10-21,Faye Ondelacy,,Female,HM,NR,Outdoor
 1:07:48,AUS,Tokyo,JPN,2000-01-10,Kerryn McCann,1967.0,Female,HM,NR,Outdoor
 1:11:09,AUT,Barcelona,ESP,2024-02-11,Julia Mayer,1993.0,Female,HM,NR,Outdoor
 1:08:45,AZE,New Delhi,IND,2009-11-01,Mare Dibaba,1989.0,Female,HM,NR,Outdoor
@@ -19,10 +19,10 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 1:08:45,BDI,Lisboa,POR,2023-03-12,Francine Niyonsaba,1993.0,Female,HM,NR,Outdoor
 1:08:56,BEL,Den Haag,NED,2002-03-23,Marleen Renders,1968.0,Female,HM,NR,Outdoor
 1:20:27,BEN,Bruxelles,BEL,2016-02-10,Kabirato Nassam Alassani,1987.0,Female,HM,NR,Outdoor
-1:18:19,BER,New York NY,USA,2016-03-20,Ashley Estwanik,1977.0,Female,HM,NR,Outdoor
+1:18:19,BER,New York,USA,2016-03-20,Ashley Estwanik,1977.0,Female,HM,NR,Outdoor
 1:26:17,BHU,Paro,BHU,2019-02-06,Goma Pradhan,,Female,HM,NR,Outdoor
 1:12:55,BIH,Udine,ITA,2007-10-14,Lucia Mwihaki Kimani,1980.0,Female,HM,NR,Outdoor
-1:31:03,BIZ,Duluth MN,USA,2007-06-16,Melissa Henderson,1974.0,Female,HM,NR,Outdoor
+1:31:03,BIZ,Duluth,USA,2007-06-16,Melissa Henderson,1974.0,Female,HM,NR,Outdoor
 1:10:57,BLR,Valencia,ESP,2018-03-24,Volha Mazuronak,1989.0,Female,HM,NR,Outdoor
 1:12:51,BOL,Buenos Aires,ARG,2022-08-21,Jhoselyn Jéssica Camargo,1996.0,Female,HM,NR,Outdoor
 1:15:44,BOT,Port Elizabeth,RSA,2009-07-04,Onneile Dintwe,1985.0,Female,HM,NR,Outdoor
@@ -34,7 +34,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 1:32:08,CAF,Libreville,GAB,1994-04-24,Virginie Gloum,1974.0,Female,HM,NR,Outdoor
 1:28:29,CAM,Valencia,ESP,2015-11-15,Nary Ly,,Female,HM,NR,Outdoor
 1:09:38,CAN,Marugame,JPN,2020-02-02,Andrea Seccafien,1990.0,Female,HM,NR,Outdoor
-1:13:50,CAY,Long Beach CA,USA,1991-11-10,Michelle Bush,1961.0,Female,HM,NR,Outdoor
+1:13:50,CAY,Long Beach,USA,1991-11-10,Michelle Bush,1961.0,Female,HM,NR,Outdoor
 1:19:47,CGO,Brazzaville,CGO,2015-09-17,Jodelle Yublime Ossou-Wakeyi,,Female,HM,NR,Outdoor
 1:16:10,CHA,Milano,ITA,2022-05-15,Hassanatte Fraida,1996.0,Female,HM,NR,Outdoor
 1:11:54,CHI,Santiago de Chile,CHI,2000-09-10,Erika Olivera,1976.0,Female,HM,NR,Outdoor
@@ -45,25 +45,25 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 1:51:31,COK,Avarua,COK,1984-10-21,Lily Ngaata,,Female,HM,NR,Outdoor
 1:31:03,COM,Moroni,COM,2012-03-06,Thamra Ibouroi,,Female,HM,NR,Outdoor
 1:19:32,CPV,Riva del Garda,ITA,2005-11-13,Sonia Lopes,1975.0,Female,HM,NR,Outdoor
-1:13:08,CRC,Las Vegas NV,USA,2023-03-02,Diana Bogantes,1988.0,Female,HM,NR,Outdoor
+1:13:08,CRC,Las Vegas,USA,2023-03-02,Diana Bogantes,1988.0,Female,HM,NR,Outdoor
 1:09:16,CRO,Zagreb,CRO,2014-11-16,Lisa Nemec,1984.0,Female,HM,NR,Outdoor
 1:09:59,CUB,Azpeitia,ESP,2003-03-29,Yesenia Centeno,1971.0,Female,HM,NR,Outdoor
 1:14:40,CYP,Gdynia,POL,2020-10-17,Thalia Charalambous Slatem,1989.0,Female,HM,NR,Outdoor
 1:10:14,CZE,Istanbul,TUR,2022-03-27,Moira Stewartová,1995.0,Female,HM,NR,Outdoor
 1:10:50,DEN,Remich-Grevenmacher,LUX,1996-09-29,Gitte Karlshøj,1959.0,Female,HM,NR,Outdoor
 1:18:50,DJI,Marrakech,MAR,2023-06-24,Ahmed Djama Habone,2001.0,Female,HM,NR,Outdoor
-2:09:47,DMA,New York NY,USA,2014-11-02,Waverley Richards,,Female,HM,NR,Outdoor
+2:09:47,DMA,New York,USA,2014-11-02,Waverley Richards,,Female,HM,NR,Outdoor
 1:15:47,DOM,Luzern,SUI,2023-10-29,Soranyi Rodriguez,1992.0,Female,HM,NR,Outdoor
 1:11:23,ECU,Buenos Aires,ARG,2022-08-21,Rosalba Chacha,1982.0,Female,HM,NR,Outdoor
 1:26:52,EGY,Valencia,ESP,2018-03-24,Nesma Ammar Saad Mohamed Abdelghany,1993.0,Female,HM,NR,Outdoor
 1:08:53,ERI,Valencia,ESP,2022-12-04,Dolshi Tesfu,1999.0,Female,HM,NR,Outdoor
-1:17:48,ESA,Long Beach CA,USA,2003-10-12,Elizabeth Zaragoza,1968.0,Female,HM,NR,Outdoor
-1:09:41,ESP,Valencia,ESP,2023-10-22,Laura Luengo,1997.0,Female,HM,NR,Outdoor
+1:17:48,ESA,Long Beach,USA,2003-10-12,Elizabeth Zaragoza,1968.0,Female,HM,NR,Outdoor
+1:09:41,ESP,Valencia,ESP,2023-10-22,Laura Luengo,1986.0,Female,HM,NR,Outdoor
 1:10:10,EST,Den Haag,NED,1994-03-27,Jane Salumäe,1968.0,Female,HM,NR,Outdoor
 1:02:52,ETH,Valencia,ESP,2021-10-24,Letesenbet Gidey,1998.0,Female,HM,NR,Outdoor
 1:25:00,FIJ,Nouméa,FRA,1996-06-23,Salome Tabuatalei,,Female,HM,NR,Outdoor
 1:09:55,FIN,Barcelona,ESP,2024-02-11,Camilla Richardsson,1993.0,Female,HM,NR,Outdoor
-1:08:34,FRA,Reims,FRA,2010-10-17,Christelle Daunay,1974.0,Female,HM,NR,Outdoor
+1:08:27,FRA,Málaga,ESP,2022-12-11,Mekdes Woldu,1992.0,Female,HM,NR,Outdoor
 1:34:48,FSM,Pohnpei,FSM,2014-07-24,Reloliza Saimon,1994.0,Female,HM,NR,Outdoor
 1:16:24,GAB,Montréal,CAN,2009-04-19,Josiane Aboungono,1978.0,Female,HM,NR,Outdoor
 1:19:39,GAM,Brufut,GAM,2014-01-18,Mariama Jallow,1994.0,Female,HM,NR,Outdoor
@@ -78,8 +78,8 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 1:39:23,GRN,Portsmouth,GBR,2006-11-26,Kenisha Pascal,1987.0,Female,HM,NR,Outdoor
 1:27:43,GUA,Ciudad de Guatemala,GUA,2005-09-24,Elsa Monterroso,1971.0,Female,HM,NR,Outdoor
 1:23:27,GUM,Yigo-Ypao,GUM,1998-02-28,Rhonda Davidson-Alley,1961.0,Female,HM,NR,Outdoor
-1:26:16,GUY,Overland Park KS,USA,2001-05-19,Abidemi Charles,1980.0,Female,HM,NR,Outdoor
-1:28:44,HAI,Orlando FL,USA,2008-12-06,Bertine Laine,,Female,HM,NR,Outdoor
+1:26:16,GUY,Overland Park,USA,2001-05-19,Abidemi Charles,1980.0,Female,HM,NR,Outdoor
+1:28:44,HAI,Orlando,USA,2008-12-06,Bertine Laine,,Female,HM,NR,Outdoor
 1:12:10,HKG,Gdynia,POL,2020-10-17,Christy Yiu Kit Ching,1988.0,Female,HM,NR,Outdoor
 1:22:50,HON,Tegucigalpa,HON,2018-08-26,Aldy Jimena Gonzalez-Zuniga,,Female,HM,NR,Outdoor
 1:08:58,HUN,Milano,ITA,2007-04-01,Anikó Kálovics,1977.0,Female,HM,NR,Outdoor
@@ -90,23 +90,23 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 1:35:59,IRQ,Abu Dhabi,UAE,2015-11-20,Yasmin Wadhai,1988.0,Female,HM,NR,Outdoor
 1:11:40,ISL,Reykjavik,ISL,1996-08-18,Martha Ernstsdóttir,1964.0,Female,HM,NR,Outdoor
 1:06:09,ISR,Praha,CZE,2019-04-06,Lonah Chemtai Salpeter,1988.0,Female,HM,NR,Outdoor
-1:16:23,ISV,Philadelphia PA,USA,2004-09-19,Lisha Hamilton,1972.0,Female,HM,NR,Outdoor
+1:16:23,ISV,Philadelphia,USA,2004-09-19,Lisha Hamilton,1972.0,Female,HM,NR,Outdoor
 1:07:46,ITA,Ostia,ITA,2012-02-26,Valeria Straneo,1976.0,Female,HM,NR,Outdoor
 1:28:20,JAM,Negril,JAM,2006-12-02,Tamica Thomas,1985.0,Female,HM,NR,Outdoor
 1:15:01,JOR,London,GBR,2019-03-10,Tamara Armoush,1992.0,Female,HM,NR,Outdoor
-1:06:38,JPN,Houston TX,USA,2020-01-19,Hitomi Niiya,1988.0,Female,HM,NR,Outdoor
+1:06:38,JPN,Houston,USA,2020-01-19,Hitomi Niiya,1988.0,Female,HM,NR,Outdoor
 1:11:44,KAZ,Almaty,KAZ,2000-08-12,Garifa Kuku,1959.0,Female,HM,NR,Outdoor
 1:04:02,KEN,Istanbul,TUR,2021-04-04,Ruth Chepngetich,1994.0,Female,HM,NR,Outdoor
 1:11:06,KGZ,Yangzhou,CHN,2017-04-23,Darya Maslova,1995.0,Female,HM,NR,Outdoor
 1:08:35,KOR,Marugame,JPN,2020-02-02,Choi Kyung-Sun,1992.0,Female,HM,NR,Outdoor
 1:17:24,KOS,Split,CRO,2022-02-28,Greza Bakraqi,1995.0,Female,HM,NR,Outdoor
-1:26:47,KSA,Houston TX,USA,2018-01-14,Sarah Attar,1992.0,Female,HM,NR,Outdoor
+1:26:47,KSA,Houston,USA,2018-01-14,Sarah Attar,1992.0,Female,HM,NR,Outdoor
 1:33:33,KUW,Al-Kuwait,KUW,2022-11-26,Fatima Al-Hajeri,,Female,HM,NR,Outdoor
 1:19:22,LAO,Buri Ram,THA,2024-01-27,Lodkeo Inthakoumman,1995.0,Female,HM,NR,Outdoor
 1:08:43,LAT,Bristol,GBR,2001-10-07,Jeļena Prokopčuka,1976.0,Female,HM,NR,Outdoor
 1:20:40,LBA,Verona,ITA,2020-02-16,Najla Aqdeir Ali Salem,,Female,HM,NR,Outdoor
-1:16:02,LBN,The Woodlands TX,USA,2021-03-06,Chirine Njeim,1984.0,Female,HM,NR,Outdoor
-1:24:58,LBR,Boston MA,USA,2001-10-14,Monique Maddy,,Female,HM,NR,Outdoor
+1:16:02,LBN,The Woodlands,USA,2021-03-06,Chirine Njeim,1984.0,Female,HM,NR,Outdoor
+1:24:58,LBR,Boston,USA,2001-10-14,Monique Maddy,,Female,HM,NR,Outdoor
 1:57:15,LCA,Negril,JAM,2010-12-04,Lizette Ward,,Female,HM,NR,Outdoor
 1:09:45,LES,Gqeberha,RSA,2023-06-03,Mokulube Makatise,1995.0,Female,HM,NR,Outdoor
 1:21:48,LIE,Oberriet,SUI,2014-03-23,Nicole Klingler,1980.0,Female,HM,NR,Outdoor
@@ -140,10 +140,10 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 1:22:31,NIG,Royan,FRA,2023-05-27,Balkissa Abdoulaye Kirbo,1994.0,Female,HM,NR,Outdoor
 1:29:22,NMI,Honiara,SOL,2023-12-02,Tania Tan,,Female,HM,NR,Outdoor
 1:06:40,NOR,Sandnes,NOR,1987-04-05,Ingrid Kristiansen,1956.0,Female,HM,NR,Outdoor
-1:07:11,NZL,Philadelphia PA,USA,2011-09-18,Kim Smith,1981.0,Female,HM,NR,Outdoor
+1:07:11,NZL,Philadelphia,USA,2011-09-18,Kim Smith,1981.0,Female,HM,NR,Outdoor
 1:15:29,OMA,Muscat,OMA,2022-11-11,Kalkiden Debab,,Female,HM,NR,Outdoor
 1:33:56,PAK,Dhaka,BAN,2023-01-20,Farhat Bano,1996.0,Female,HM,NR,Outdoor
-1:16:01,PAN,Brooklyn NY,USA,2015-05-16,Rolanda Bell,1987.0,Female,HM,NR,Outdoor
+1:16:01,PAN,Brooklyn,USA,2015-05-16,Rolanda Bell,1987.0,Female,HM,NR,Outdoor
 1:14:49,PAR,Valencia,ESP,2020-12-06,Carmen Patricia Martínez,1982.0,Female,HM,NR,Outdoor
 1:10:14,PER,Cardiff,GBR,2016-03-26,Gladys Tejeda,1985.0,Female,HM,NR,Outdoor
 1:16:05,PHI,Cebu City,PHI,2011-02-20,Mary Joy Tabal,1989.0,Female,HM,NR,Outdoor
@@ -153,7 +153,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 1:09:18,POL,Poznań,POL,2021-10-17,Karolina Nadolska,1981.0,Female,HM,NR,Outdoor
 1:08:21,POR,Lisboa,POR,1996-03-10,Maria Albertina Dias,1965.0,Female,HM,NR,Outdoor
 1:11:55,PRK,Hongkong,HKG,2009-12-13,Kim Kum Ok,1988.0,Female,HM,NR,Outdoor
-1:12:02,PUR,Valley Cottage NY,USA,2021-09-25,Beverly Ramos,1987.0,Female,HM,NR,Outdoor
+1:12:02,PUR,Valley Cottage,USA,2021-09-25,Beverly Ramos,1987.0,Female,HM,NR,Outdoor
 1:42:59,QAT,Doha,QAT,2020-01-10,Lily Saad,,Female,HM,NR,Outdoor
 1:06:58,ROU,Paris,FRA,2024-03-03,Joan Chelimo,1990.0,Female,HM,NR,Outdoor
 1:06:44,RSA,Tokyo,JPN,1999-01-15,Elana Meyer,1966.0,Female,HM,NR,Outdoor
@@ -162,14 +162,14 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 1:22:29,SEN,Dakar,SEN,2009-03-14,Agnes Kaling,,Female,HM,NR,Outdoor
 1:30:26,SEY,Victoria,CAN,2006-09-23,Simone Jaffa,,Female,HM,NR,Outdoor
 1:16:29,SGP,Sendai,JPN,1996-03-10,Yvonne Danson Tan,,Female,HM,NR,Outdoor
-1:33:14,SKN,Portland ME,USA,2014-07-04,Gabrielle Chappell,,Female,HM,NR,Outdoor
+1:33:14,SKN,Portland,USA,2014-07-04,Gabrielle Chappell,,Female,HM,NR,Outdoor
 1:19:03,SLE,London,GBR,2014-04-13,Mammie Konnen-Lahun,1989.0,Female,HM,NR,Outdoor
 1:09:22,SLO,Remich-Grevenmacher,LUX,2004-09-26,Helena Javornik,1966.0,Female,HM,NR,Outdoor
 1:25:27,SMR,Ravenna,ITA,1999-03-07,Monica Randi,1967.0,Female,HM,NR,Outdoor
 1:24:23,SOL,Honiara,SOL,2023-12-02,Dianah Matekali,1987.0,Female,HM,NR,Outdoor
 2:02:44,SOM,Frankfurt-am-Main,GER,2016-10-30,Aisha Musa,,Female,HM,NR,Outdoor
 1:09:18,SRB,Novi Sad,SRB,2002-03-31,Olivera Jevtić,1977.0,Female,HM,NR,Outdoor
-1:14:07,SRI,Mesa AZ,USA,2018-02-24,Hiruni Wijayaratne,1990.0,Female,HM,NR,Outdoor
+1:14:07,SRI,Mesa,USA,2018-02-24,Hiruni Wijayaratne,1990.0,Female,HM,NR,Outdoor
 1:47:44,SSD,Sal,CPV,2019-06-16,Stella Ohiri,1999.0,Female,HM,NR,Outdoor
 1:19:49,STP,Lisboa,POR,2016-03-20,Celma Bonfim Soares,,Female,HM,NR,Outdoor
 1:14:10,SUD,Trabzon,TUR,2016-02-21,Chaltu Niguse,,Female,HM,NR,Outdoor
@@ -181,10 +181,10 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 1:24:58,SYR,Amman,JOR,2003-09-09,Zeinab Bakour,,Female,HM,NR,Outdoor
 1:06:05,TAN,Ras Al Khaimah,UAE,2024-02-24,Jackline Sakilu,1986.0,Female,HM,NR,Outdoor
 2:18:27,TGA,Berlin,GER,2011-09-25,Falamoe Weber,,Female,HM,NR,Outdoor
-1:15:13,THA,Brooklyn NY,USA,2016-05-21,Jane Vongvorachoti,1984.0,Female,HM,NR,Outdoor
+1:15:13,THA,Brooklyn,USA,2016-05-21,Jane Vongvorachoti,1984.0,Female,HM,NR,Outdoor
 1:19:08,TJK,Bruxelles,BEL,2002-05-05,Gulsara Dadabayeva,1976.0,Female,HM,NR,Outdoor
 1:21:59,TKM,Bruxelles,BEL,2002-05-05,Dildar Mamedova,1981.0,Female,HM,NR,Outdoor
-1:47:45,TKS,New York NY,USA,2011-11-06,Lynn Robinson,,Female,HM,NR,Outdoor
+1:47:45,TKS,New York,USA,2011-11-06,Lynn Robinson,,Female,HM,NR,Outdoor
 1:24:46,TLS,Dili,TLS,2017-08-19,Rubia Fatima Martins,,Female,HM,NR,Outdoor
 1:21:12,TOG,Dakar,SEN,2020-02-16,Thérèse Maheza Anaming,1992.0,Female,HM,NR,Outdoor
 1:12:19,TPE,Osaka,JPN,2018-01-28,Hsieh Chien-Ho,1987.0,Female,HM,NR,Outdoor
@@ -193,9 +193,9 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 1:06:20,TUR,Gdynia,POL,2020-10-17,Yasemin Can,1996.0,Female,HM,NR,Outdoor
 1:06:13,UAE,Valencia,ESP,2018-10-28,Alia Mohamed Saeed,1991.0,Female,HM,NR,Outdoor
 1:07:59,UGA,København,DEN,2023-09-17,Sarah Chelangat,2001.0,Female,HM,NR,Outdoor
-1:08:59,UKR,Philadelphia PA,USA,2013-09-15,Lyudmila Kovalenko,1975.0,Female,HM,NR,Outdoor
+1:08:59,UKR,Philadelphia,USA,2013-09-15,Lyudmila Kovalenko,1975.0,Female,HM,NR,Outdoor
 1:17:52,URU,Buenos Aires,ARG,2022-08-21,Lorena Sosa,1985.0,Female,HM,NR,Outdoor
-1:06:25,USA,Houston TX,USA,2024-01-14,Weini Kelati,1996.0,Female,HM,NR,Outdoor
+1:06:25,USA,Houston,USA,2024-01-14,Weini Kelati,1996.0,Female,HM,NR,Outdoor
 1:13:29,UZB,Dubai,UAE,2023-11-11,Sitora Khamidova,1989.0,Female,HM,NR,Outdoor
 1:29:55,VAN,Apia,SAM,2019-07-20,Margaret Kuras,,Female,HM,NR,Outdoor
 1:13:25,VEN,Caracas,VEN,2023-03-19,Joselyn Daniely Brea,1994.0,Female,HM,NR,Outdoor

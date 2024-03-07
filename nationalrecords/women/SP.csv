@@ -11,16 +11,16 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 18.51,ARM,Helsinki,FIN,1973-09-15,Faina Melnik,1945.0,Female,SP,NR,Outdoor
 11.68,ARU,Ottawa,CAN,2013-06-01,Julianne Dorothal,1997.0,Female,SP,NR,Outdoor
 17.34,ASA,Honiara,SOL,2023-11-27,Nu'u Tuilefano,2000.0,Female,SP,NR,Outdoor
-19.74,AUS,Berkeley CA,USA,1984-07-14,Gael Martin,1956.0,Female,SP,NR,Outdoor
+19.74,AUS,Berkeley,USA,1984-07-14,Gael Martin,1956.0,Female,SP,NR,Outdoor
 19.21,AUT,Casablanca,MAR,1999-07-13,Valentina Fedjuschina,1965.0,Female,SP,NR,Outdoor
 16.31,AZE,Donetsk,URS,1978-07-16,Valentina Podgornova,,Female,SP,NR,Outdoor
-17.23,BAH,Knoxville TN,USA,2006-05-26,Aymara Albury,1985.0,Female,SP,NR,Outdoor
+17.23,BAH,Knoxville,USA,2006-05-26,Aymara Albury,1985.0,Female,SP,NR,Outdoor
 12.14,BAN,Dhaka,BAN,1992-09-08,Nelly Jesmin,,Female,SP,NR,Outdoor
-17.14,BAR,Lincoln NE,USA,2007-05-13,Shernelle Nicholls,1984.0,Female,SP,NR,Outdoor
+17.14,BAR,Lincoln,USA,2007-05-13,Shernelle Nicholls,1984.0,Female,SP,NR,Outdoor
 12.56,BDI,Bujumbura,BDI,1992-08-23,Tsizéyimana,,Female,SP,NR,Outdoor
 17.16,BEL,Sittard,NED,2023-06-18,Jolien Boumkwo,1993.0,Female,SP,NR,Outdoor
 15.79,BEN,Ratingen,GER,2021-06-19,Odile Ahouanwanou,1991.0,Female,SP,NR,Outdoor
-14.30,BER,Hattiesburg MS,USA,2019-03-30,Tiara DeRosa,1998.0,Female,SP,NR,Outdoor
+14.30,BER,Hattiesburg,USA,2019-03-30,Tiara DeRosa,1998.0,Female,SP,NR,Outdoor
 11.74,BHU,Punakha,BHU,2000-12-28,Phup Lhamngmo,,Female,SP,NR,Outdoor
 14.91,BIH,Sarajevo,YUG,1966-09-17,Katica Tosic-Sporer,1944.0,Female,SP,NR,Outdoor
 16.20,BIZ,San Salvador,ESA,2016-07-16,Itohan Aikhonbare,1994.0,Female,SP,NR,Outdoor
@@ -35,7 +35,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 14.68,CAF,Dreux,FRA,1999-10-17,Nadege Nakombo,,Female,SP,NR,Outdoor
 11.85,CAM,Phnom Penh,CAM,1967-07-13,Sao Thin,,Female,SP,NR,Outdoor
 20.33,CAN,Langley,CAN,2022-06-25,Sarah Mitton,1996.0,Female,SP,NR,Outdoor
-15.53,CAY,San Antonio TX,USA,2022-04-02,Lacee Barnes,1999.0,Female,SP,NR,Outdoor
+15.53,CAY,San Antonio,USA,2022-04-02,Lacee Barnes,1999.0,Female,SP,NR,Outdoor
 13.95,CGO,Taverny,FRA,2003-05-31,Christiane Diabakana,1985.0,Female,SP,NR,Outdoor
 13.03,CHA,St-Brieuc,FRA,1992-01-05,Patricia Bourmanda,,Female,SP,NR,Outdoor
 18.80,CHI,London,GBR,2012-08-06,Natalia Ducó,1989.0,Female,SP,NR,Outdoor
@@ -48,14 +48,14 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 10.78,COM,Mutsamudu,COM,2014-06-15,Samira Moussa,,Female,SP,NR,Outdoor
 15.12,CPV,Huelva,ESP,2004-08-08,Maria Antónia Borges,1983.0,Female,SP,NR,Outdoor
 14.90,CRC,San José3,CRC,2021-07-09,Deisheline Yoshielka Mayers,2000.0,Female,SP,NR,Outdoor
-17.52,CRO,Greensboro NC,USA,2013-05-25,Valentina Mužarić,1992.0,Female,SP,NR,Outdoor
+17.52,CRO,Greensboro,USA,2013-05-25,Valentina Mužarić,1992.0,Female,SP,NR,Outdoor
 20.96,CUB,Ciudad de México,MEX,1992-05-02,Belsis Laza,1967.0,Female,SP,NR,Outdoor
 16.71,CYP,Limassol,CYP,2001-03-25,Olimpia Menelaou,1966.0,Female,SP,NR,Outdoor
 22.32,CZE,Nitra,TCH,1977-08-20,Helena Fibingerová,1949.0,Female,SP,NR,Outdoor
-16.97,DEN,Bloomington IN,USA,2022-05-26,Thea Jensen,1999.0,Female,SP,NR,Outdoor
+16.97,DEN,Bloomington,USA,2022-05-26,Thea Jensen,1999.0,Female,SP,NR,Outdoor
 9.45,DJI,Djibouti,DJI,2000-05-20,Fimiro Aden Okieh,,Female,SP,NR,Outdoor
-16.48,DMA,Fairfax VA,USA,2012-04-14,Vannessa Henry,1990.0,Female,SP,NR,Outdoor
-18.39,DOM,La Jolla CA,USA,2023-04-08,Rosa Ramírez,1999.0,Female,SP,NR,Outdoor
+16.48,DMA,Fairfax,USA,2012-04-14,Vannessa Henry,1990.0,Female,SP,NR,Outdoor
+18.39,DOM,La Jolla,USA,2023-04-08,Rosa Ramírez,1999.0,Female,SP,NR,Outdoor
 15.67,ECU,Valledupar,COL,2022-07-03,Lorna Zurita,2001.0,Female,SP,NR,Outdoor
 16.50,EGY,Al Qâhira,EGY,2000-06-20,Hanaa Salah El Melegi,1975.0,Female,SP,NR,Outdoor
 8.51,ERI,Asmara,ERI,2011-04-29,Adiam Fissehaye,,Female,SP,NR,Outdoor
@@ -63,8 +63,8 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 18.80,ESP,Castellón,ESP,2021-06-29,María Belén Toimil,1994.0,Female,SP,NR,Outdoor
 18.03,EST,Nokia,FIN,1980-05-25,Veronika Minina,1955.0,Female,SP,NR,Outdoor
 13.64,ETH,Addis Ababa,ETH,2018-02-02,Zurga Usman,1996.0,Female,SP,NR,Outdoor
-14.73,FIJ,San Marcos CA,USA,2015-04-11,Milika Tuivanuavou,1990.0,Female,SP,NR,Outdoor
-18.57,FIN,Stockholm/S,SWE,1989-08-20,Asta Ovaska,1963.0,Female,SP,NR,Outdoor
+14.73,FIJ,San Marcos,USA,2015-04-11,Milika Tuivanuavou,1990.0,Female,SP,NR,Outdoor
+18.57,FIN,Stockholm,SWE,1989-08-20,Asta Ovaska,1963.0,Female,SP,NR,Outdoor
 11.45,FSM,Abay,FSM,2001-07-24,Scholasmara Fathaangin,,Female,SP,NR,Outdoor
 15.87,GAB,St Pierre,MRI,2022-06-08,Carine Mekam,1985.0,Female,SP,NR,Outdoor
 10.72,GAM,Conakry,GUI,2017-05-13,Mariama Conteh,1997.0,Female,SP,NR,Outdoor
@@ -73,7 +73,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 19.30,GEO,Sochi,URS,1984-06-09,Aleksandra Abashidze,1958.0,Female,SP,NR,Outdoor
 11.42,GEQ,San Sebastián,ESP,2018-05-26,María Felisa Okomo,2002.0,Female,SP,NR,Outdoor
 22.45,GER,Potsdam,GER,1980-05-11,Ilona Slupianek,1956.0,Female,SP,NR,Outdoor
-16.01,GHA,Tampa FL,USA,2018-05-24,Claudia Ababio,,Female,SP,NR,Outdoor
+16.01,GHA,Tampa,USA,2018-05-24,Claudia Ababio,,Female,SP,NR,Outdoor
 8.50,GIB,Gibraltar,GIB,1992-08-17,Nicole Baker,1977.0,Female,SP,NR,Outdoor
 19.10,GRE,Trikala,GRE,2003-06-14,Iríni Terzóglou,1979.0,Female,SP,NR,Outdoor
 16.18,GRN,St. Georges,GRN,2021-04-24,Kelsie Murrel-Ross,2002.0,Female,SP,NR,Outdoor
@@ -89,15 +89,15 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 18.06,IND,Chennai,IND,2022-06-11,Manpreet Kaur,1990.0,Female,SP,NR,Outdoor
 18.06,IND,Bangkok,THA,2023-07-16,Abha Khatua,1995.0,Female,SP,NR,Outdoor
 18.18,IRI,Pune,IND,2013-07-06,Leyla Rajabi,1983.0,Female,SP,NR,Outdoor
-16.99,IRL,Stanford CA,USA,1983-04-02,Marita Lanigan,1960.0,Female,SP,NR,Outdoor
+16.99,IRL,Stanford,USA,1983-04-02,Marita Lanigan,1960.0,Female,SP,NR,Outdoor
 11.60,IRQ,Baghdad,IRQ,1979-10-26,Raida Oudeh Nazzal,1960.0,Female,SP,NR,Outdoor
-17.39,ISL,Houston TX,USA,2023-04-22,Erna Sóley Gunnarsdóttir,2000.0,Female,SP,NR,Outdoor
+17.39,ISL,Houston,USA,2023-04-22,Erna Sóley Gunnarsdóttir,2000.0,Female,SP,NR,Outdoor
 17.22,ISR,Tel Aviv,ISR,2012-04-28,Annastasia Muchkaev,1991.0,Female,SP,NR,Outdoor
-17.33,ISV,Murfreesboro TN,USA,2021-05-16,Maia Campbell,1998.0,Female,SP,NR,Outdoor
+17.33,ISV,Murfreesboro,USA,2021-05-16,Maia Campbell,1998.0,Female,SP,NR,Outdoor
 19.15,ITA,Milano,ITA,2007-06-24,Chiara Rosa,1983.0,Female,SP,NR,Outdoor
 15.38,IVB,St. Georges,GRN,2018-05-20,Trevia Gumbs,1996.0,Female,SP,NR,Outdoor
-19.77,JAM,Westwood CA,USA,2023-05-27,Danniel Thomas-Dodd,1992.0,Female,SP,NR,Outdoor
-17.83,JOR,Westwood CA,USA,2000-05-06,Nada Kawar,1975.0,Female,SP,NR,Outdoor
+19.77,JAM,Westwood,USA,2023-05-27,Danniel Thomas-Dodd,1992.0,Female,SP,NR,Outdoor
+17.83,JOR,Westwood,USA,2000-05-06,Nada Kawar,1975.0,Female,SP,NR,Outdoor
 18.22,JPN,Hamamatsu,JPN,2004-04-18,Chinatsu Mori,1980.0,Female,SP,NR,Outdoor
 19.26,KAZ,Chelyabinsk,URS,1986-08-10,Yelena Ortina,,Female,SP,NR,Outdoor
 15.60,KEN,Nakuru,KEN,1987-06-27,Elizabeth Olaba-Anjala-Tum,1954.0,Female,SP,NR,Outdoor
@@ -110,7 +110,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 18.75,LAT,Riga,URS,1984-06-02,Skaidrite Baikova,1950.0,Female,SP,NR,Outdoor
 11.57,LBA,Radès,TUN,2021-06-20,Rijaj Salem,,Female,SP,NR,Outdoor
 12.39,LBN,Beyrouth,LBN,2003-05-16,Leila Karhani,,Female,SP,NR,Outdoor
-13.97,LBR,Princeton NJ,USA,2007-05-13,Tetee Kuyateh,1984.0,Female,SP,NR,Outdoor
+13.97,LBR,Princeton,USA,2007-05-13,Tetee Kuyateh,1984.0,Female,SP,NR,Outdoor
 14.67,LCA,Coatzacoalcos,MEX,2004-06-27,Tressa-Anne Charles,1986.0,Female,SP,NR,Outdoor
 11.99,LES,Maputo,MOZ,2011-09-13,Selloane Ts'oaeli,,Female,SP,NR,Outdoor
 13.53,LIE,Götzis,AUT,1995-05-27,Manuela Marxer,1965.0,Female,SP,NR,Outdoor
@@ -141,7 +141,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 20.24,NED,München,GER,2022-08-15,Jessica Schilder,1999.0,Female,SP,NR,Outdoor
 12.52,NEP,Kathmandu,NEP,2019-12-06,Chandra Kala Lamgade,1993.0,Female,SP,NR,Outdoor
 10.92,NFI,Auckland,NZL,1995-01-01,Zinta Flitten,,Female,SP,NR,Outdoor
-18.43,NGR,Walnut CA,USA,2003-04-19,Vivian Chukwuemeka,1975.0,Female,SP,NR,Outdoor
+18.43,NGR,Walnut,USA,2003-04-19,Vivian Chukwuemeka,1975.0,Female,SP,NR,Outdoor
 13.37,NIG,Niamey,NIG,2019-07-25,Leila Yahaya,,Female,SP,NR,Outdoor
 10.97,NIU,Auckland,NZL,2008-03-29,Sinead Misiagi,,Female,SP,NR,Outdoor
 10.61,NMI,Port Vila,VAN,1993-12-15,Emiliana Quitugua,,Female,SP,NR,Outdoor
@@ -150,17 +150,17 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 21.24,NZL,Daegu,KOR,2011-08-29,Valerie Adams,1984.0,Female,SP,NR,Outdoor
 11.55,OMA,Cairo,EGY,2014-04-26,Raghad Nabil Al-Zubaidi,,Female,SP,NR,Outdoor
 14.57,PAK,Islamabad,PAK,2005-08-12,Zeenat Parveen,1974.0,Female,SP,NR,Outdoor
-14.16,PAN,Medford MA,USA,1996-05-11,Theresa Findlay,1974.0,Female,SP,NR,Outdoor
-14.87,PAR,Fort Lauderdale FL,USA,2019-07-12,Camila Pirelli,1989.0,Female,SP,NR,Outdoor
+14.16,PAN,Medford,USA,1996-05-11,Theresa Findlay,1974.0,Female,SP,NR,Outdoor
+14.87,PAR,Fort Lauderdale,USA,2019-07-12,Camila Pirelli,1989.0,Female,SP,NR,Outdoor
 16.66,PER,Lima,PER,2016-04-16,Alessandra Gamboa,1992.0,Female,SP,NR,Outdoor
-15.94,PHI,Fullerton CA,USA,2023-05-13,Shiloh Corrales-Nelson,2001.0,Female,SP,NR,Outdoor
+15.94,PHI,Fullerton,USA,2023-05-13,Shiloh Corrales-Nelson,2001.0,Female,SP,NR,Outdoor
 10.86,PLE,Gaza,PLE,1999-02-19,Jawaher Aaed,,Female,SP,NR,Outdoor
 11.24,PLW,Susupe,NMI,2006-06-26,Chandis Cooper,,Female,SP,NR,Outdoor
 13.50,PNG,Port Moresby,PNG,1991-09-17,Iammogapi Launa,1957.0,Female,SP,NR,Outdoor
 19.58,POL,Bydgoszcz,POL,1976-06-26,Ludvika Chewinska,1948.0,Female,SP,NR,Outdoor
-19.92,POR,Eugene OR,USA,2023-09-16,Auriol Dongmo,1990.0,Female,SP,NR,Outdoor
+19.92,POR,Eugene,USA,2023-09-16,Auriol Dongmo,1990.0,Female,SP,NR,Outdoor
 15.80,PRK,Pyongyang,PRK,1983-04-11,So Bok Hui,,Female,SP,NR,Outdoor
-16.40,PUR,Coral Gables FL,USA,2011-03-19,Kim Barrett,1981.0,Female,SP,NR,Outdoor
+16.40,PUR,Coral Gables,USA,2011-03-19,Kim Barrett,1981.0,Female,SP,NR,Outdoor
 11.97,QAT,Tlemcen,ALG,2016-05-08,Sara Ahmed Al-Mannai,1996.0,Female,SP,NR,Outdoor
 21.00,ROU,Formia,ITA,1984-06-30,Mihaela Loghin,1952.0,Female,SP,NR,Outdoor
 17.88,RSA,Germiston,RSA,2002-01-25,Drienkie van Wyk,1971.0,Female,SP,NR,Outdoor
@@ -171,7 +171,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 13.94,SEY,Germiston,RSA,2002-06-08,Helda Marie,1984.0,Female,SP,NR,Outdoor
 18.57,SGP,Incheon,KOR,2005-09-01,Zhang Guirong,1978.0,Female,SP,NR,Outdoor
 13.59,SKN,St. Georges,GRN,1996-05-25,Touvia Arrindell,,Female,SP,NR,Outdoor
-12.87,SLE,Atlanta GA,USA,1996-07-27,Eunice Barber,1974.0,Female,SP,NR,Outdoor
+12.87,SLE,Atlanta,USA,1996-07-27,Eunice Barber,1974.0,Female,SP,NR,Outdoor
 18.10,SLO,Nova Gorica,SLO,1994-05-14,Natasha Erjavec,1968.0,Female,SP,NR,Outdoor
 10.37,SMR,Modena,ITA,2009-05-09,Barbara Rustignoli,1984.0,Female,SP,NR,Outdoor
 10.67,SOL,Honiara,SOL,1981-09-11,Saleima Kataina,,Female,SP,NR,Outdoor
@@ -184,8 +184,8 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 18.02,SUI,Zug,SUI,1988-08-14,Ursula Stäheli,1957.0,Female,SP,NR,Outdoor
 14.38,SUR,Mol,BEL,1992-07-05,Helen Weidum,1960.0,Female,SP,NR,Outdoor
 16.96,SVK,Bratislava,TCH,1985-07-14,Gabriela Hanuláková,1957.0,Female,SP,NR,Outdoor
-19.54,SWE,Bloomington IN,USA,2023-05-13,Axelina Johansson,2000.0,Female,SP,NR,Outdoor
-12.40,SWZ,Nampa ID,USA,2022-04-02,Esther Ezeogu,,Female,SP,NR,Outdoor
+19.54,SWE,Bloomington,USA,2023-05-13,Axelina Johansson,2000.0,Female,SP,NR,Outdoor
+12.40,SWZ,Nampa,USA,2022-04-02,Esther Ezeogu,,Female,SP,NR,Outdoor
 16.25,SYR,Irbid,JOR,1999-08-12,Ghada Shouaa,1972.0,Female,SP,NR,Outdoor
 12.90,TAN,Dar-es-Salaam,TAN,1983-10-01,Catherine Nyamko,,Female,SP,NR,Outdoor
 18.03,TGA,Albertville,FRA,2008-07-10,Ana Po'uhila-Kisina,1979.0,Female,SP,NR,Outdoor
@@ -204,7 +204,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 14.47,UGA,El Djezair,ALG,1978-07-24,Joyce Aciro,,Female,SP,NR,Outdoor
 21.69,UKR,Budapest,HUN,1998-08-20,Vita Pavlysh,1969.0,Female,SP,NR,Outdoor
 15.85,URU,Buenos Aires,ARG,1988-09-25,Berenice Da Silva,,Female,SP,NR,Outdoor
-20.76,USA,Eugene OR,USA,2023-09-16,Chase Jackson,1994.0,Female,SP,NR,Outdoor
+20.76,USA,Eugene,USA,2023-09-16,Chase Jackson,1994.0,Female,SP,NR,Outdoor
 19.40,UZB,Riga,URS,1983-06-04,Irina Bogomolova,,Female,SP,NR,Outdoor
 12.05,VAN,Port Vila,VAN,1979-09-06,Madeleine Nirua-Lesines,,Female,SP,NR,Outdoor
 18.19,VEN,Río de Janeiro,BRA,2016-05-15,Ahymará Espinoza,1985.0,Female,SP,NR,Outdoor
@@ -215,12 +215,12 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 15.58,ZIM,Salisbury,GBR,1974-01-20,Mariette van Heerden,1952.0,Female,SP,NR,Outdoor
 14.55,ALB,Pireás,GRE,1999-02-13,Valbona Laukaj,1964.0,Female,SP,NR,Indoor
 10.11,AND,Vilafranca,ESP,2006-01-08,Lorena Álvarez,1985.0,Female,SP,NR,Indoor
-15.54,ARG,Blacksburg VA,USA,2004-02-14,Jenny Dahlgren,1984.0,Female,SP,NR,Indoor
+15.54,ARG,Blacksburg,USA,2004-02-14,Jenny Dahlgren,1984.0,Female,SP,NR,Indoor
 13.71,ARM,Salamanca,ESP,2018-02-10,Mariam Sargsyan,1996.0,Female,SP,NR,Indoor
-17.46,ASA,Birmingham AL,USA,2023-02-25,Nu'u Tuilefano,2000.0,Female,SP,NR,Indoor
+17.46,ASA,Birmingham,USA,2023-02-25,Nu'u Tuilefano,2000.0,Female,SP,NR,Indoor
 18.67,AUT,Sindelfingen,GER,2000-01-22,Valentina Fedjuschina,1965.0,Female,SP,NR,Indoor
-16.68,BAH,Gainesville FL,USA,2006-02-24,Aymara Albury,1985.0,Female,SP,NR,Indoor
-16.71,BAR,Fayetteville AR,USA,2008-03-15,Shernelle Nicholls,1984.0,Female,SP,NR,Indoor
+16.68,BAH,Gainesville,USA,2006-02-24,Aymara Albury,1985.0,Female,SP,NR,Indoor
+16.71,BAR,Fayetteville,USA,2008-03-15,Shernelle Nicholls,1984.0,Female,SP,NR,Indoor
 17.87,BEL,Gent,BEL,2023-02-19,Jolien Boumkwo,1993.0,Female,SP,NR,Indoor
 14.79,BIH,Istanbul,TUR,2021-02-20,Mediha Čamdžić,1999.0,Female,SP,NR,Indoor
 20.56,BLR,Minsk,BLR,2003-02-24,Nadzeya Ostapchuk,1980.0,Female,SP,NR,Indoor
@@ -233,12 +233,12 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 21.10,CHN,Beijing,CHN,1990-03-03,Sui Xinmei,1965.0,Female,SP,NR,Indoor
 16.95,CMR,Pombal,POR,2019-02-03,Auriol Dongmo,1990.0,Female,SP,NR,Indoor
 15.15,CPV,Pombal,POR,2009-02-28,Vanda Rodrigues,1984.0,Female,SP,NR,Indoor
-17.89,CRO,Albuquerque NM,USA,2014-03-15,Valentina Mužarić,1992.0,Female,SP,NR,Indoor
+17.89,CRO,Albuquerque,USA,2014-03-15,Valentina Mužarić,1992.0,Female,SP,NR,Indoor
 19.60,CUB,Pireás,GRE,1989-03-08,Belsis Laza,1967.0,Female,SP,NR,Indoor
 16.19,CYP,Pireás,GRE,2001-02-18,Olimpia Menelaou,1966.0,Female,SP,NR,Indoor
 22.50,CZE,Jablonec,TCH,1977-02-19,Helena Fibingerová,1949.0,Female,SP,NR,Indoor
 16.76,DEN,Växjö,SWE,2015-02-28,Trine Mulbjerg,1990.0,Female,SP,NR,Indoor
-16.50,DMA,New York NY,USA,2012-01-20,Vannessa Henry,1990.0,Female,SP,NR,Indoor
+16.50,DMA,New York,USA,2012-01-20,Vannessa Henry,1990.0,Female,SP,NR,Indoor
 15.05,EGY,Budapest,HUN,1989-03-05,Hanane Ahmed Khaled,1968.0,Female,SP,NR,Indoor
 18.64,ESP,Toruń,POL,2021-03-04,María Belén Toimil,1994.0,Female,SP,NR,Indoor
 17.66,EST,Tallinn,URS,1975-02-09,Rimma Plistkina,1948.0,Female,SP,NR,Indoor
@@ -247,45 +247,45 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 15.50,GAB,Liévin,FRA,2018-02-17,Carine Mekam,1985.0,Female,SP,NR,Indoor
 19.06,GBR,St. Athan,GBR,1984-04-07,Venissa Head,1956.0,Female,SP,NR,Indoor
 18.13,GBS,Braga,POR,2021-02-13,Jessica Inchude,1996.0,Female,SP,NR,Indoor
-18.59,GEO,Fayetteville AR,USA,2010-03-13,Mariam Kevkhishvili,1985.0,Female,SP,NR,Indoor
+18.59,GEO,Fayetteville,USA,2010-03-13,Mariam Kevkhishvili,1985.0,Female,SP,NR,Indoor
 21.59,GER,East Berlin,GDR,1979-01-24,Ilona Slupianek,1956.0,Female,SP,NR,Indoor
 19.03,GRE,Pireás,GRE,2000-01-22,Kalliópi Ouzoúni,1973.0,Female,SP,NR,Indoor
-17.10,GRN,Fayetteville AR,USA,2024-02-24,Kelsie Murrel-Ross,2002.0,Female,SP,NR,Indoor
+17.10,GRN,Fayetteville,USA,2024-02-24,Kelsie Murrel-Ross,2002.0,Female,SP,NR,Indoor
 11.92,HKG,Macau,MAC,2007-02-10,Tin Ka Yin,1987.0,Female,SP,NR,Indoor
 19.62,HUN,Birmingham,GBR,2018-03-02,Anita Márton,1989.0,Female,SP,NR,Indoor
-15.54,IND,Birmingham AL,USA,2023-02-25,Raorane Poorna,2000.0,Female,SP,NR,Indoor
+15.54,IND,Birmingham,USA,2023-02-25,Raorane Poorna,2000.0,Female,SP,NR,Indoor
 17.60,IRI,Tehran,IRI,2012-01-20,Leyla Rajabi,1983.0,Female,SP,NR,Indoor
 17.60,IRI,Mashad,IRI,2012-02-03,Leyla Rajabi,1983.0,Female,SP,NR,Indoor
-17.06,IRL,New York NY,USA,1982-02-26,Marita Lanigan,1960.0,Female,SP,NR,Indoor
+17.06,IRL,New York,USA,1982-02-26,Marita Lanigan,1960.0,Female,SP,NR,Indoor
 7.98,IRQ,Hanoi,VIE,2009-10-31,Hikmat Alaa Jassem,1985.0,Female,SP,NR,Indoor
-17.92,ISL,Birmingham AL,USA,2023-02-19,Erna Sóley Gunnarsdóttir,2000.0,Female,SP,NR,Indoor
-16.78,ISR,Lawrence KS,USA,2013-01-25,Annastasia Muchkaev,1991.0,Female,SP,NR,Indoor
-16.12,ISV,Birmingham AL,USA,2020-02-23,Maia Campbell,1998.0,Female,SP,NR,Indoor
+17.92,ISL,Birmingham,USA,2023-02-19,Erna Sóley Gunnarsdóttir,2000.0,Female,SP,NR,Indoor
+16.78,ISR,Lawrence,USA,2013-01-25,Annastasia Muchkaev,1991.0,Female,SP,NR,Indoor
+16.12,ISV,Birmingham,USA,2020-02-23,Maia Campbell,1998.0,Female,SP,NR,Indoor
 19.20,ITA,Genova,ITA,2002-02-16,Assunta Legnante,1978.0,Female,SP,NR,Indoor
-15.42,IVB,Findlay OH,USA,2018-02-16,Trevia Gumbs,1996.0,Female,SP,NR,Indoor
-19.52,JAM,Des Moines IA,USA,2023-04-26,Danniel Thomas-Dodd,1992.0,Female,SP,NR,Indoor
-17.74,JOR,Air Force Academy CO,USA,1999-02-12,Nada Kawar,1975.0,Female,SP,NR,Indoor
+15.42,IVB,Findlay,USA,2018-02-16,Trevia Gumbs,1996.0,Female,SP,NR,Indoor
+19.52,JAM,Des Moines,USA,2023-04-26,Danniel Thomas-Dodd,1992.0,Female,SP,NR,Indoor
+17.74,JOR,Air Force Academy,USA,1999-02-12,Nada Kawar,1975.0,Female,SP,NR,Indoor
 17.46,JPN,Tianjin,CHN,2004-02-18,Chinatsu Mori,1980.0,Female,SP,NR,Indoor
 18.69,KAZ,Moskva,RUS,1992-01-26,Yelena Baltabayeva,1962.0,Female,SP,NR,Indoor
 17.56,KOR,Maebashi,JPN,1998-03-07,Lee Myung-Sun,1976.0,Female,SP,NR,Indoor
 8.82,KUW,Hanoi,VIE,2009-10-31,Maryam Bashir Al-Mutabaghi,1990.0,Female,SP,NR,Indoor
 18.29,LAT,Moskva,URS,1985-02-05,Skaidrite Baikova,1950.0,Female,SP,NR,Indoor
 8.43,LBN,Hangzhou,CHN,2014-02-16,Krystel Saneh,1994.0,Female,SP,NR,Indoor
-14.09,LBR,Boston MA,USA,2007-03-03,Tetee Kuyateh,1984.0,Female,SP,NR,Indoor
+14.09,LBR,Boston,USA,2007-03-03,Tetee Kuyateh,1984.0,Female,SP,NR,Indoor
 13.79,LIE,Ulm,GER,2024-01-13,Jule Insinna,2003.0,Female,SP,NR,Indoor
 19.60,LTU,Gomel,URS,1984-02-25,Danguolé Urbikiené,1962.0,Female,SP,NR,Indoor
 15.04,LUX,Luxembourg,LUX,2024-02-18,Stéphanie Krumlovsky,1995.0,Female,SP,NR,Indoor
 12.31,MAC,Pattaya,THA,2005-11-15,Wong Kit Man,1988.0,Female,SP,NR,Indoor
 18.52,MDA,Istanbul,TUR,2019-02-16,Dimitriana Bezede,1994.0,Female,SP,NR,Indoor
 18.52,MDA,Istanbul,TUR,2019-02-16,Dimitriana Surdu,1994.0,Female,SP,NR,Indoor
-15.60,MEX,Nampa ID,USA,2008-03-01,Rosario Sanchez,1988.0,Female,SP,NR,Indoor
-14.33,MKD,Ann Arbor MI,USA,2002-01-26,Vesna Cadikovska,1980.0,Female,SP,NR,Indoor
-13.13,MLT,Ann Arbor MI,USA,2024-02-16,Clare McNamara,2002.0,Female,SP,NR,Indoor
+15.60,MEX,Nampa,USA,2008-03-01,Rosario Sanchez,1988.0,Female,SP,NR,Indoor
+14.33,MKD,Ann Arbor,USA,2002-01-26,Vesna Cadikovska,1980.0,Female,SP,NR,Indoor
+13.13,MLT,Ann Arbor,USA,2024-02-16,Clare McNamara,2002.0,Female,SP,NR,Indoor
 15.07,MNE,Istanbul,TUR,2017-02-12,Kristina Rakočević,1998.0,Female,SP,NR,Indoor
 8.67,MON,Eaubonne,FRA,2004-12-12,Carine Cresto,1973.0,Female,SP,NR,Indoor
 14.90,MTN,Aubière,FRA,2012-02-25,Binta Diagana,1976.0,Female,SP,NR,Indoor
 20.31,NED,Apeldoorn,NED,2024-02-17,Jessica Schilder,1999.0,Female,SP,NR,Indoor
-18.13,NGR,Flagstaff AZ,USA,2006-02-04,Vivian Chukwuemeka,1975.0,Female,SP,NR,Indoor
+18.13,NGR,Flagstaff,USA,2006-02-04,Vivian Chukwuemeka,1975.0,Female,SP,NR,Indoor
 17.25,NOR,Stange,NOR,1998-02-08,Katarina Hoff,1968.0,Female,SP,NR,Indoor
 20.98,NZL,Zürich,SUI,2013-08-28,Valerie Adams,1984.0,Female,SP,NR,Indoor
 9.87,OMA,Pattaya,THA,2006-02-12,Hamida Al-Habsi,1987.0,Female,SP,NR,Indoor
@@ -296,20 +296,20 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 22.14,RUS,Penza,URS,1987-02-07,Natalya Lisovskaya,1962.0,Female,SP,NR,Indoor
 11.74,SEN,Bordeaux,FRA,2004-01-04,Aissatou Barry,1975.0,Female,SP,NR,Indoor
 17.99,SGP,Pattaya,THA,2005-11-15,Zhang Guirong,1978.0,Female,SP,NR,Indoor
-9.15,SKN,Lamoni IA,USA,2002-02-16,Natalie Cozier,,Female,SP,NR,Indoor
+9.15,SKN,Lamoni,USA,2002-02-16,Natalie Cozier,,Female,SP,NR,Indoor
 17.97,SLO,Ljubljana,SLO,1996-01-27,Natasha Erjavec,1968.0,Female,SP,NR,Indoor
 9.63,SMR,Ancona,ITA,1996-01-21,Rita Laurenco,,Female,SP,NR,Indoor
 18.39,SRB,Sofia,BUL,1998-01-31,Daniela Curovic,1974.0,Female,SP,NR,Indoor
 18.75,SUI,Magglingen,SUI,1987-01-25,Ursula Stäheli,1957.0,Female,SP,NR,Indoor
 15.79,SVK,Bratislava,TCH,1984-02-22,Gabriela Hanuláková,1957.0,Female,SP,NR,Indoor
-19.30,SWE,Lincoln NE,USA,2023-02-04,Axelina Johansson,2000.0,Female,SP,NR,Indoor
+19.30,SWE,Lincoln,USA,2023-02-04,Axelina Johansson,2000.0,Female,SP,NR,Indoor
 11.80,SYR,Tehran,IRI,2007-02-22,Hiba Al-Omar,1990.0,Female,SP,NR,Indoor
 16.17,THA,Tianjin,CHN,2005-03-01,Jutaporn Krasaeyan,1972.0,Female,SP,NR,Indoor
 12.09,TKM,Ashgabat,TKM,2020-01-30,Irina Velihanova,1996.0,Female,SP,NR,Indoor
 16.52,TPE,Hangzhou,CHN,2014-02-15,Lin Chia-Ying,1982.0,Female,SP,NR,Indoor
-19.48,TTO,Blacksburg VA,USA,2004-02-14,Cleopatra Borel,1979.0,Female,SP,NR,Indoor
+19.48,TTO,Blacksburg,USA,2004-02-14,Cleopatra Borel,1979.0,Female,SP,NR,Indoor
 18.36,TUR,Istanbul,TUR,2016-02-25,Emel Dereli,1996.0,Female,SP,NR,Indoor
 21.06,UKR,Budapest,HUN,1984-02-08,Nunu Abashidze,1955.0,Female,SP,NR,Indoor
-20.21,USA,Portland OR,USA,2016-03-19,Michelle Carter,1985.0,Female,SP,NR,Indoor
+20.21,USA,Portland,USA,2016-03-19,Michelle Carter,1985.0,Female,SP,NR,Indoor
 20.21,USA,Beograd,SRB,2022-03-18,Chase Jackson,1994.0,Female,SP,NR,Indoor
 10.78,VIE,Hanoi,VIE,2009-10-31,Nguyen Thi Thu Cuc,1981.0,Female,SP,NR,Indoor

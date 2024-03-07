@@ -4,7 +4,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 4:12:16,BLR,Scanzorosciate,ITA,2004-10-17,Elena Ginko,1976.0,Female,50W,NR,Outdoor
 5:48:56,BOL,Monterrey,MEX,2018-02-25,Casandra Milenka Nieto,1994.0,Female,50W,NR,Outdoor
 4:22:46,BRA,Lima,PER,2019-08-11,Viviane Lyra,1993.0,Female,50W,NR,Outdoor
-5:02:55,CAN,West Long Branch NJ,USA,1992-05-17,Micheline Daneau,,Female,50W,NR,Outdoor
+5:02:55,CAN,West Long Branch,USA,1992-05-17,Micheline Daneau,,Female,50W,NR,Outdoor
 5:12:05,CHI,Lazaro Cardenas,MEX,2019-04-21,Anita Rico,1985.0,Female,50W,NR,Outdoor
 3:59:15,CHN,Huangshan,CHN,2019-03-09,Liu Hong,1987.0,Female,50W,NR,Outdoor
 5:08:02,CRC,Ciudad de Guatemala,GUA,2019-02-24,Ilena Ocampo,1988.0,Female,50W,NR,Outdoor
@@ -27,7 +27,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 4:16:27,LAT,Paralepa,EST,2006-09-09,Jolanta Dukure,1979.0,Female,50W,NR,Outdoor
 4:25:22,LTU,Villa di Serio,ITA,2010-10-17,Brigita Virbalytė-Dimšienė,1985.0,Female,50W,NR,Outdoor
 4:51:32,MAS,Seremban,MAS,2014-12-06,Norliana Binti Mohd Rusni,1989.0,Female,50W,NR,Outdoor
-4:20:36,MEX,Hauppauge NY,USA,2018-10-21,Erika Morales,,Female,50W,NR,Outdoor
+4:20:36,MEX,Hauppauge,USA,2018-10-21,Erika Morales,,Female,50W,NR,Outdoor
 5:19:18,NED,Weert,NED,2015-05-23,Anne van Andel,1990.0,Female,50W,NR,Outdoor
 6:14:53,NZL,Auckland,NZL,2014-11-15,Terri Grimmett,,Female,50W,NR,Outdoor
 4:22:57,PER,Lazaro Cardenas,MEX,2019-04-21,Evelin Inga,1998.0,Female,50W,NR,Outdoor

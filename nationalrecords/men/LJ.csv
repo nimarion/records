@@ -1,27 +1,27 @@
 result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,environment
 7.53,-0.8,AFG,Mashhad,IRI,2021-04-12,Mohammad Reza Firouzkoohi,1999.0,Male,LJ,NR,Outdoor
 7.68,,AHO,Amsterdam,NED,1993-07-24,Ellsworth Manuel,1968.0,Male,LJ,NR,Outdoor
-6.96,,AIA,Baltimore MD,USA,2011-04-23,Denvil Ruan,1989.0,Male,LJ,NR,Outdoor
+6.96,,AIA,Baltimore,USA,2011-04-23,Denvil Ruan,1989.0,Male,LJ,NR,Outdoor
 8.16,1.7,ALB,Tirane,ALB,2021-05-08,Izmir Smajlaj,1993.0,Male,LJ,NR,Outdoor
 8.26,0.7,ALG,Zaragoza,ESP,2007-07-28,Issam Nima,1979.0,Male,LJ,NR,Outdoor
 7.57,0.0,AND,Castellón,ESP,2000-06-25,Esteve Martín,1975.0,Male,LJ,NR,Outdoor
 7.52,,ANG,Cairo,EGY,1991-09-24,Afonso Ferraz,1964.0,Male,LJ,NR,Outdoor
-8.02,,ANT,Baton Rouge LA,USA,1984-05-12,Lester Benjamin,1963.0,Male,LJ,NR,Outdoor
+8.02,,ANT,Baton Rouge,USA,1984-05-12,Lester Benjamin,1963.0,Male,LJ,NR,Outdoor
 7.77,0.6,ARG,Rosario,ARG,2003-12-06,Eric Kerwitz,1980.0,Male,LJ,NR,Outdoor
 8.86,1.9,ARM,Tsakhkadzor,URS,1987-05-22,Robert Emmiyan,1965.0,Male,LJ,NR,Outdoor
 7.72,1.9,ARU,Cartagena2,COL,2015-05-16,Quincy Breell,1992.0,Male,LJ,NR,Outdoor
 7.21,,ASA,Malaeola,NZL,2021-04-01,Theodore Malepeai-Tofaeono,,Male,LJ,NR,Outdoor
-8.54,1.7,AUS,Stockholm/S,SWE,2011-07-29,Mitchell Watt,1988.0,Male,LJ,NR,Outdoor
+8.54,1.7,AUS,Stockholm,SWE,2011-07-29,Mitchell Watt,1988.0,Male,LJ,NR,Outdoor
 8.30,2.0,AUT,Innsbruck,AUT,1988-06-04,Andreas Steiner,1964.0,Male,LJ,NR,Outdoor
 8.08,,AZE,Leningrad,URS,1981-07-11,Vladimir Tsepelyov,1956.0,Male,LJ,NR,Outdoor
 8.41,1.5,BAH,Nassau,BAH,1993-06-17,Craig Hepburn,1969.0,Male,LJ,NR,Outdoor
 7.61,,BAN,Dhaka,BAN,2009-04-03,Mohamed Ali Amin,1990.0,Male,LJ,NR,Outdoor
-7.88,1.0,BAR,Charlotte NC,USA,2018-05-24,Charles Greaves,1994.0,Male,LJ,NR,Outdoor
+7.88,1.0,BAR,Charlotte,USA,2018-05-24,Charles Greaves,1994.0,Male,LJ,NR,Outdoor
 7.14,,BDI,Al Qâhira,EGY,1991-09-23,Christophe Ntirandekura,,Male,LJ,NR,Outdoor
 8.25,0.2,BEL,Hechtel,BEL,1996-07-06,Erik Nijs,1973.0,Male,LJ,NR,Outdoor
 8.25,0.2,BEL,Hechtel,BEL,1996-07-06,Erik Nys,1973.0,Male,LJ,NR,Outdoor
 7.97,,BEN,Porto Novo,BEN,2018-07-15,Romeo N'tia,1995.0,Male,LJ,NR,Outdoor
-8.34,2.0,BER,Houston TX,USA,2017-05-05,Tyrone Smith,1984.0,Male,LJ,NR,Outdoor
+8.34,2.0,BER,Houston,USA,2017-05-05,Tyrone Smith,1984.0,Male,LJ,NR,Outdoor
 6.74,,BHU,Thimphu,BHU,2016-07-08,Tashi Dendup,1998.0,Male,LJ,NR,Outdoor
 7.63,,BIH,Celje,YUG,1968-06-11,Milan Babic,1943.0,Male,LJ,NR,Outdoor
 7.76,0.0,BIZ,Maracaibo,VEN,1998-08-16,Michael McKoy,1978.0,Male,LJ,NR,Outdoor
@@ -56,9 +56,9 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 7.86,0.8,CYP,Nicosia,CYP,1982-03-25,Dimitris Araouzos,1961.0,Male,LJ,NR,Outdoor
 7.86,1.0,CYP,Haniá,GRE,1986-05-24,Michalis Rodosthenous,1959.0,Male,LJ,NR,Outdoor
 8.31,1.4,CZE,Taipei,TPE,2017-08-27,Radek Juška,1993.0,Male,LJ,NR,Outdoor
-8.25,0.5,DEN,Göteborg/U,SWE,2005-07-02,Morten Jensen,1982.0,Male,LJ,NR,Outdoor
+8.25,0.5,DEN,Göteborg,SWE,2005-07-02,Morten Jensen,1982.0,Male,LJ,NR,Outdoor
 6.89,,DJI,Aubagne,FRA,1985-08-06,Mohamed Gouled,,Male,LJ,NR,Outdoor
-8.08,1.3,DMA,Chula Vista CA,USA,2022-05-29,Tristan James,1997.0,Male,LJ,NR,Outdoor
+8.08,1.3,DMA,Chula Vista,USA,2022-05-29,Tristan James,1997.0,Male,LJ,NR,Outdoor
 7.96,0.9,DOM,Santo Domingo,DOM,2006-07-08,Carlos Jorge,1986.0,Male,LJ,NR,Outdoor
 8.16,0.0,ECU,Sucre,BOL,2009-11-23,Hugo Chila,1987.0,Male,LJ,NR,Outdoor
 8.31,0.1,EGY,Oslo,NOR,1999-06-30,Hatem Mersal,1975.0,Male,LJ,NR,Outdoor
@@ -70,9 +70,9 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 8.27,1.8,FIN,Espoo,FIN,2020-06-11,Kristian Pulli,1994.0,Male,LJ,NR,Outdoor
 8.42,0.4,FRA,Pierre-Bénite,FRA,2009-06-12,Salim Sdiri,1978.0,Male,LJ,NR,Outdoor
 6.27,,FSM,Susupe,NMI,1969-07-03,Henry Edwin,,Male,LJ,NR,Outdoor
-7.45,,GAB,Bellevue WA,USA,1992-06-28,Francois Reteno,1968.0,Male,LJ,NR,Outdoor
+7.45,,GAB,Bellevue,USA,1992-06-28,Francois Reteno,1968.0,Male,LJ,NR,Outdoor
 7.95,,GAM,"Springfield, Mo.",USA,1991-04-26,Babou Saine,1969.0,Male,LJ,NR,Outdoor
-8.51,1.7,GBR,Chula Vista CA,USA,2014-04-24,Greg Rutherford,1986.0,Male,LJ,NR,Outdoor
+8.51,1.7,GBR,Chula Vista,USA,2014-04-24,Greg Rutherford,1986.0,Male,LJ,NR,Outdoor
 6.96,,GBS,Lisboa,POR,1996-04-05,Edivaldo Monteiro,1976.0,Male,LJ,NR,Outdoor
 8.24,1.3,GEO,Tbilisi,GEO,2021-05-29,Bachana Khorava,1993.0,Male,LJ,NR,Outdoor
 7.27,,GEQ,Los Realejos,ESP,2011-02-26,Luis Dyangani Oko,1989.0,Male,LJ,NR,Outdoor
@@ -81,7 +81,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 6.14,0.3,GIB,Gibraltar,GIB,1987-07-09,Jeff Rhodes,1958.0,Male,LJ,NR,Outdoor
 8.66,1.6,GRE,Kalamáta,GRE,2007-06-02,Loúis Tsátoumas,1982.0,Male,LJ,NR,Outdoor
 8.09,,GRN,Port of Spain,TTO,1989-05-05,Eugene Licorish,1964.0,Male,LJ,NR,Outdoor
-7.97,1.9,GUA,Chula Vista CA,USA,2022-07-09,Nicolás Allen Arriola,1998.0,Male,LJ,NR,Outdoor
+7.97,1.9,GUA,Chula Vista,USA,2022-07-09,Nicolás Allen Arriola,1998.0,Male,LJ,NR,Outdoor
 7.39,1.9,GUI,Alfaz del Pi,ESP,2013-06-08,Thierno Amadou Barry,1997.0,Male,LJ,NR,Outdoor
 6.86,,GUM,Mangilao,GUM,1995-03-29,Florenz Quitlong,,Male,LJ,NR,Outdoor
 8.12,1.2,GUY,Kingston,JAM,2019-05-11,Emanuel Archibald,1994.0,Male,LJ,NR,Outdoor
@@ -96,7 +96,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 7.66,,IRQ,Baghdad,IRQ,2017-10-13,Barea Amer Al-Bayati,1995.0,Male,LJ,NR,Outdoor
 8.00,2.0,ISL,Reykjavik,ISL,1994-08-26,Jón Arnar Magnússon,1969.0,Male,LJ,NR,Outdoor
 7.99,1.1,ISR,Tel Aviv,ISR,2010-05-15,Yochai Halevi,1982.0,Male,LJ,NR,Outdoor
-8.11,0.4,ISV,Tallahassee FL,USA,2011-06-18,Leon Hunt,1987.0,Male,LJ,NR,Outdoor
+8.11,0.4,ISV,Tallahassee,USA,2011-06-18,Leon Hunt,1987.0,Male,LJ,NR,Outdoor
 8.47,-0.2,ITA,Osaka,JPN,2007-08-30,Andrew Howe,1985.0,Male,LJ,NR,Outdoor
 7.97,0.6,IVB,Kingston,JAM,1996-05-11,Keita Cline,1974.0,Male,LJ,NR,Outdoor
 8.69,0.5,JAM,Doha,QAT,2019-09-28,Tajay Gayle,1996.0,Male,LJ,NR,Outdoor
@@ -114,7 +114,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 8.08,1.0,LAT,Saldus,LAT,2016-07-12,Elvijs Misāns,1989.0,Male,LJ,NR,Outdoor
 8.03,1.3,LBA,Haniá,GRE,1985-05-25,Mohamed Bishty,1957.0,Male,LJ,NR,Outdoor
 7.43,,LBN,Jamhour,LBN,2004-07-22,Marc Habib,1979.0,Male,LJ,NR,Outdoor
-8.00,,LBR,Ypsilanti MI,USA,2009-04-18,Cadeau Kelley,1986.0,Male,LJ,NR,Outdoor
+8.00,,LBR,Ypsilanti,USA,2009-04-18,Cadeau Kelley,1986.0,Male,LJ,NR,Outdoor
 7.82,,LCA,Durham,GBR,2000-05-10,Dane Magloire,1975.0,Male,LJ,NR,Outdoor
 6.90,,LES,Maseru,LES,2007-10-01,Pule Rantseli,1984.0,Male,LJ,NR,Outdoor
 7.24,,LIE,St. Gallen,SUI,1989-05-06,Franz Tschol,1966.0,Male,LJ,NR,Outdoor
@@ -129,7 +129,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 6.82,-0.2,MDV,Male,MDV,2022-08-27,Ibrahim Nahil Nizar,2006.0,Male,LJ,NR,Outdoor
 8.46,1.3,MEX,Kazan,RUS,2013-07-12,Luis Rivera,1987.0,Male,LJ,NR,Outdoor
 7.47,1.9,MGL,Irkutsk,URS,1986-08-21,Khandsuren Tsastbaatar,,Male,LJ,NR,Outdoor
-6.35,,MHL,Brooklyn Park MN,USA,1994-02-06,Roman Cress,1977.0,Male,LJ,NR,Outdoor
+6.35,,MHL,Brooklyn Park,USA,1994-02-06,Roman Cress,1977.0,Male,LJ,NR,Outdoor
 7.91,1.9,MKD,Inneringen,GER,2023-07-30,Andreas Trajkovski,1993.0,Male,LJ,NR,Outdoor
 7.82,-0.9,MLI,Bamako,MLI,2010-04-27,Mamadou Chérif Dia,1985.0,Male,LJ,NR,Outdoor
 7.73,1.4,MLT,Marsa,MLT,2022-01-29,Jeremy Zammit,2004.0,Male,LJ,NR,Outdoor
@@ -162,7 +162,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 8.08,0.0,PHI,Phnom Penh,CAM,2023-05-08,Janry Ubas,1994.0,Male,LJ,NR,Outdoor
 6.88,,PLE,Gaza,PLE,1999-10-29,Mohamed Fanona,,Male,LJ,NR,Outdoor
 6.45,,PLW,Koror,PLW,1999-05-29,Conrad Rdechor,1975.0,Male,LJ,NR,Outdoor
-7.26,0.0,PNG,Canyon TX,USA,2021-05-08,Peniel Richard,1994.0,Male,LJ,NR,Outdoor
+7.26,0.0,PNG,Canyon,USA,2021-05-08,Peniel Richard,1994.0,Male,LJ,NR,Outdoor
 8.28,0.8,POL,Malles,ITA,2001-07-14,Grzegorz Marciniszyn,1977.0,Male,LJ,NR,Outdoor
 8.36,1.2,POR,Lisboa,POR,1997-06-20,Carlos Calado,1975.0,Male,LJ,NR,Outdoor
 7.86,,PRK,Pyongyang,PRK,1983-04-14,Cha Gyong-Nam,,Male,LJ,NR,Outdoor
@@ -176,7 +176,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 8.46,1.8,SEN,Bad Langensalza,GER,1997-06-15,Cheikh Tidiane Touré,1970.0,Male,LJ,NR,Outdoor
 7.86,-1.3,SEY,Belle Vue Mauricia,MRI,1992-06-28,Danny Beauchamp,1969.0,Male,LJ,NR,Outdoor
 7.62,,SGP,Vientiane,LAO,2009-12-15,Matthew Goh Yujie,1991.0,Male,LJ,NR,Outdoor
-7.69,,SKN,Warrensburg MS,USA,2019-05-04,Kizan David,1998.0,Male,LJ,NR,Outdoor
+7.69,,SKN,Warrensburg,USA,2019-05-04,Kizan David,1998.0,Male,LJ,NR,Outdoor
 7.84,,SLE,London,GBR,1992-05-09,Tom Ganda,1972.0,Male,LJ,NR,Outdoor
 8.40,2.0,SLO,Celje,SLO,1997-05-18,Gregor Cankar,1975.0,Male,LJ,NR,Outdoor
 7.25,2.0,SMR,Nicosia,CYP,2009-06-04,Luca Maccapani,1982.0,Male,LJ,NR,Outdoor
@@ -184,7 +184,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 7.35,,SOM,München,FRG,1972-08-24,Abdulla Noor Wasughe,1947.0,Male,LJ,NR,Outdoor
 8.45,2.0,SRB,Montréal,CAN,1975-07-25,Nenad Stekic,1951.0,Male,LJ,NR,Outdoor
 8.15,,SRI,Diyagama,SRI,2016-08-16,W.P.Amila Jayasiri,1992.0,Male,LJ,NR,Outdoor
-6.51,,SSD,Indianola IA,USA,2019-04-26,Makuac Leet,,Male,LJ,NR,Outdoor
+6.51,,SSD,Indianola,USA,2019-04-26,Makuac Leet,,Male,LJ,NR,Outdoor
 7.30,0.8,STP,Córdoba3,ESP,2022-04-30,Alberto De Oliveira,1999.0,Male,LJ,NR,Outdoor
 7.61,1.3,SUD,London,GBR,2007-05-05,Rabah Yousif,1986.0,Male,LJ,NR,Outdoor
 8.45,0.2,SUI,Götzis,AUT,2022-05-28,Simon Ehammer,2000.0,Male,LJ,NR,Outdoor
@@ -198,7 +198,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 8.05,1.3,THA,Kobe,JPN,2011-07-10,Suphanara Ayudara,1992.0,Male,LJ,NR,Outdoor
 8.18,1.3,TJK,Tallinn,URS,1988-07-05,Vasiliy Sokov,1968.0,Male,LJ,NR,Outdoor
 7.99,,TKM,Budapest,HUN,1994-06-03,Vladimir Malyavin,1973.0,Male,LJ,NR,Outdoor
-8.06,1.8,TKS,Chula Vista CA,USA,2018-06-09,Ifeanyi Otuonye,1994.0,Male,LJ,NR,Outdoor
+8.06,1.8,TKS,Chula Vista,USA,2018-06-09,Ifeanyi Otuonye,1994.0,Male,LJ,NR,Outdoor
 8.00,0.8,TOG,Johannesburg,RSA,1999-09-15,Teko Folligan,1976.0,Male,LJ,NR,Outdoor
 8.40,0.3,TPE,Bangkok,THA,2023-07-15,Lin Yu-Tang,2000.0,Male,LJ,NR,Outdoor
 8.25,0.7,TTO,Queretaro,MEX,2019-07-05,Andwuelle Wright,1997.0,Male,LJ,NR,Outdoor
@@ -215,21 +215,21 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 7.18,,VAN,Luganville,VAN,1984-01-09,Georges Taniel,1958.0,Male,LJ,NR,Outdoor
 8.34,-1.2,VEN,Cochabamba,BOL,2004-05-30,Victor Castillo,1981.0,Male,LJ,NR,Outdoor
 7.98,,VIE,Ho Chi Minh,VIE,2019-09-17,Nguyen Tien Trong,1997.0,Male,LJ,NR,Outdoor
-8.08,1.2,VIN,Hamburg NY,USA,2008-07-29,Clayton Latham,1980.0,Male,LJ,NR,Outdoor
+8.08,1.2,VIN,Hamburg,USA,2008-07-29,Clayton Latham,1980.0,Male,LJ,NR,Outdoor
 6.62,,YEM,Sanaa,YEM,2014-11-27,Bakar Mahmoud Shujab,,Male,LJ,NR,Outdoor
 7.77,0.8,ZAM,Ndola,ZAM,2023-05-03,Bernard Kalale,2004.0,Male,LJ,NR,Outdoor
-8.40,0.0,ZIM,Des Moines IA,USA,2011-06-09,Ngonidzashe Makusha,1987.0,Male,LJ,NR,Outdoor
+8.40,0.0,ZIM,Des Moines,USA,2011-06-09,Ngonidzashe Makusha,1987.0,Male,LJ,NR,Outdoor
 7.53,,AHO,Den Haag,NED,1997-02-23,Ellsworth Manuel,1968.0,Male,LJ,NR,Indoor
 8.08,,ALB,Beograd,SRB,2017-03-04,Izmir Smajlaj,1993.0,Male,LJ,NR,Indoor
 7.88,,ALG,Doha,QAT,2010-03-12,Issam Nima,1979.0,Male,LJ,NR,Indoor
 7.52,,AND,Vilafranca,ESP,2000-02-20,Esteve Martín,1975.0,Male,LJ,NR,Indoor
-7.28,,ARG,Winston-Salem NC,USA,2024-02-24,Ferreras Ezequiel Bustamante,2001.0,Male,LJ,NR,Indoor
+7.28,,ARG,Winston-Salem,USA,2024-02-24,Ferreras Ezequiel Bustamante,2001.0,Male,LJ,NR,Indoor
 8.49,,ARM,Liévin,FRA,1987-02-21,Robert Emmiyan,1965.0,Male,LJ,NR,Indoor
-8.25,,AUS,Portland OR,USA,2016-03-20,Fabrice LaPierre,1983.0,Male,LJ,NR,Indoor
+8.25,,AUS,Portland,USA,2016-03-20,Fabrice LaPierre,1983.0,Male,LJ,NR,Indoor
 7.96,,AUT,München,GER,2005-02-05,Isagani Peychär,1981.0,Male,LJ,NR,Indoor
 8.00,,AZE,Vilnius,URS,1983-02-06,Vladimir Tsepelyov,1956.0,Male,LJ,NR,Indoor
-8.18,,BAH,Fayetteville AR,USA,2022-02-18,LaQuan Nairn,1996.0,Male,LJ,NR,Indoor
-7.85,,BAR,Joplin MO,USA,2002-01-12,Kevin Bartlett,1981.0,Male,LJ,NR,Indoor
+8.18,,BAH,Fayetteville,USA,2022-02-18,LaQuan Nairn,1996.0,Male,LJ,NR,Indoor
+7.85,,BAR,Joplin,USA,2002-01-12,Kevin Bartlett,1981.0,Male,LJ,NR,Indoor
 8.08,,BEL,Gent,BEL,1995-02-12,Erik Nijs,1973.0,Male,LJ,NR,Indoor
 7.68,,BEN,Liévin,FRA,2020-02-29,Romeo N'tia,1995.0,Male,LJ,NR,Indoor
 7.83,,BER,Birmingham,GBR,2017-02-18,Tyrone Smith,1984.0,Male,LJ,NR,Indoor
@@ -250,57 +250,57 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 7.26,,CPV,Espinho,POR,2001-02-24,Nelson Évora,1984.0,Male,LJ,NR,Indoor
 8.08,,CRO,Budapest,HUN,2003-02-08,Siniša Ergotić,1968.0,Male,LJ,NR,Indoor
 8.62,,CUB,Maebashi,JPN,1999-03-07,Iván Pedroso,1972.0,Male,LJ,NR,Indoor
-7.68,,CYP,Moscow ID,USA,1983-02-12,Dimitris Araouzos,1961.0,Male,LJ,NR,Indoor
+7.68,,CYP,Moscow,USA,1983-02-12,Dimitris Araouzos,1961.0,Male,LJ,NR,Indoor
 8.18,,CZE,Praha,CZE,1992-02-16,Milan Gombala,1968.0,Male,LJ,NR,Indoor
-8.18,,DEN,Göteborg/Sc,SWE,2006-02-08,Morten Jensen,1982.0,Male,LJ,NR,Indoor
+8.18,,DEN,Göteborg,SWE,2006-02-08,Morten Jensen,1982.0,Male,LJ,NR,Indoor
 7.33,,DOM,Budapest,HUN,2007-01-26,Carlos Jorge,1986.0,Male,LJ,NR,Indoor
 7.69,,EGY,Chemnitz,GER,2011-01-27,Mohamed Fathallah Dhifallah,1987.0,Male,LJ,NR,Indoor
 8.56,,ESP,Maebashi,JPN,1999-03-07,Yago Lamela,1977.0,Male,LJ,NR,Indoor
 8.05,,EST,Wien,AUT,1970-03-15,Tõnu Lepik,1946.0,Male,LJ,NR,Indoor
 8.24,,FIN,Toruń,POL,2021-03-05,Kristian Pulli,1994.0,Male,LJ,NR,Indoor
 8.27,,FRA,Mondeville,FRA,2006-01-28,Salim Sdiri,1978.0,Male,LJ,NR,Indoor
-7.81,,GAM,Bloomington IN,USA,1977-02-05,Sheikh Faye,1948.0,Male,LJ,NR,Indoor
-8.26,,GBR,Albuquerque NM,USA,2016-02-05,Greg Rutherford,1986.0,Male,LJ,NR,Indoor
+7.81,,GAM,Bloomington,USA,1977-02-05,Sheikh Faye,1948.0,Male,LJ,NR,Indoor
+8.26,,GBR,Albuquerque,USA,2016-02-05,Greg Rutherford,1986.0,Male,LJ,NR,Indoor
 7.94,,GEO,Tbilisi,GEO,2015-02-08,Bachana Khorava,1993.0,Male,LJ,NR,Indoor
 5.77,,GEQ,Paris,FRA,1997-03-07,Norberto Nsue Ondo,1975.0,Male,LJ,NR,Indoor
 8.71,,GER,Torino,ITA,2009-03-08,Sebastian Bayer,1986.0,Male,LJ,NR,Indoor
-8.36,,GHA,Stockholm/G,SWE,2006-02-02,Ignisious Gaisah,1983.0,Male,LJ,NR,Indoor
+8.36,,GHA,Stockholm,SWE,2006-02-02,Ignisious Gaisah,1983.0,Male,LJ,NR,Indoor
 5.66,,GIB,Antequera,ESP,2023-02-11,Rhys Byrne,2005.0,Male,LJ,NR,Indoor
 8.55,,GRE,Beograd,SRB,2022-03-18,Miltiádis Tentóglou,1998.0,Male,LJ,NR,Indoor
-7.69,,GRN,Nampa ID,USA,2006-02-24,Keron Francis,,Male,LJ,NR,Indoor
-7.26,,GUA,Houston TX,USA,2020-02-14,Nicolás Allen Arriola,1998.0,Male,LJ,NR,Indoor
-8.05,,GUY,Johnson City TN,USA,1991-01-25,Mark Mason,1969.0,Male,LJ,NR,Indoor
+7.69,,GRN,Nampa,USA,2006-02-24,Keron Francis,,Male,LJ,NR,Indoor
+7.26,,GUA,Houston,USA,2020-02-14,Nicolás Allen Arriola,1998.0,Male,LJ,NR,Indoor
+8.05,,GUY,Johnson City,USA,1991-01-25,Mark Mason,1969.0,Male,LJ,NR,Indoor
 7.85,,HKG,Doha,QAT,2016-02-21,Chan Ming Tai,1995.0,Male,LJ,NR,Indoor
 8.24,,HUN,Madrid,ESP,1986-02-22,László Szálma,1957.0,Male,LJ,NR,Indoor
 6.95,,INA,Hanoi,VIE,2009-11-01,Asril Abdullah Kadir,1989.0,Male,LJ,NR,Indoor
 7.97,,IND,Astana,KAZ,2023-02-12,J. Jeswin Aldrin,2001.0,Male,LJ,NR,Indoor
 7.80,,IRI,Hangzhou,CHN,2014-02-15,Mohammad Arzandeh,1987.0,Male,LJ,NR,Indoor
-8.00,,IRL,Blacksburg VA,USA,2006-01-14,Ciaran McDonagh,1976.0,Male,LJ,NR,Indoor
+8.00,,IRL,Blacksburg,USA,2006-01-14,Ciaran McDonagh,1976.0,Male,LJ,NR,Indoor
 7.82,,ISL,Reykjavik,ISL,2000-03-05,Jón Arnar Magnússon,1969.0,Male,LJ,NR,Indoor
-7.78,,ISR,New York NY,USA,2022-02-26,Aviram Shwarzbard,1994.0,Male,LJ,NR,Indoor
-7.94,,ISV,Fayetteville AR,USA,2002-03-08,Vaughn Walwyn,1980.0,Male,LJ,NR,Indoor
+7.78,,ISR,New York,USA,2022-02-26,Aviram Shwarzbard,1994.0,Male,LJ,NR,Indoor
+7.94,,ISV,Fayetteville,USA,2002-03-08,Vaughn Walwyn,1980.0,Male,LJ,NR,Indoor
 8.34,,ITA,Ancona,ITA,2024-02-17,Mattia Furlani,2005.0,Male,LJ,NR,Indoor
-7.99,,IVB,Ames IA,USA,1996-02-10,Keita Cline,1974.0,Male,LJ,NR,Indoor
+7.99,,IVB,Ames,USA,1996-02-10,Keita Cline,1974.0,Male,LJ,NR,Indoor
 8.40,,JAM,Madrid,ESP,1996-02-09,James Beckford,1975.0,Male,LJ,NR,Indoor
-8.40,,JAM,Albuquerque NM,USA,2023-03-10,Carey McLeod,1998.0,Male,LJ,NR,Indoor
+8.40,,JAM,Albuquerque,USA,2023-03-10,Carey McLeod,1998.0,Male,LJ,NR,Indoor
 7.17,,JOR,Pattaya,THA,2006-02-10,Khalil Al-Hanahneh,1980.0,Male,LJ,NR,Indoor
 8.19,,JPN,Osaka,JPN,2021-03-18,Yuki Hashioka,1999.0,Male,LJ,NR,Indoor
 7.99,,KAZ,Moskva,RUS,2004-02-08,Dmitriy Karpov,1981.0,Male,LJ,NR,Indoor
-7.98,,KEN,Flagstaff AZ,USA,1993-02-20,Benjamin Koech,1969.0,Male,LJ,NR,Indoor
+7.98,,KEN,Flagstaff,USA,1993-02-20,Benjamin Koech,1969.0,Male,LJ,NR,Indoor
 8.09,,KGZ,Moskva,URS,1985-02-08,Shamil Abbyasov,1957.0,Male,LJ,NR,Indoor
 6.79,,KOS,Istanbul,TUR,2019-02-16,Erudit Rysha,1998.0,Male,LJ,NR,Indoor
 8.24,,KSA,Doha,QAT,2008-02-16,Mohamed Salman Al-Khuwalidi,1981.0,Male,LJ,NR,Indoor
 7.94,,KUW,Hangzhou,CHN,2014-02-15,Saleh Abdelaziz Al-Haddad,1986.0,Male,LJ,NR,Indoor
 6.45,,LAO,Hanoi,VIE,2009-11-01,Oudomsack Chanthavong,1986.0,Male,LJ,NR,Indoor
-8.11,,LAT,Fayetteville AR,USA,2006-03-10,Artūrs Āboliņš,1984.0,Male,LJ,NR,Indoor
+8.11,,LAT,Fayetteville,USA,2006-03-10,Artūrs Āboliņš,1984.0,Male,LJ,NR,Indoor
 7.41,,LBN,Paris,FRA,1984-02-04,Gabi Issa Khouri,1960.0,Male,LJ,NR,Indoor
-7.87,,LBR,State College PA,USA,2010-01-29,Cadeau Kelley,1986.0,Male,LJ,NR,Indoor
-7.70,,LCA,Blacksburg VA,USA,2001-01-20,Dane Magloire,1975.0,Male,LJ,NR,Indoor
+7.87,,LBR,State College,USA,2010-01-29,Cadeau Kelley,1986.0,Male,LJ,NR,Indoor
+7.70,,LCA,Blacksburg,USA,2001-01-20,Dane Magloire,1975.0,Male,LJ,NR,Indoor
 6.53,,LIE,Dornbirn,AUT,2024-01-27,Matthias Verling,2004.0,Male,LJ,NR,Indoor
 8.13,,LTU,Kaunas,LTU,2005-02-11,Povilas Mykolaitis,1983.0,Male,LJ,NR,Indoor
 7.68,,LUX,Luxembourg,LUX,2017-01-14,Romain Lambert,1993.0,Male,LJ,NR,Indoor
 7.09,,MAC,Nanjing,CHN,2019-02-23,Wong Ka Chun,1997.0,Male,LJ,NR,Indoor
-7.19,,MAD,Pittsburg KS,USA,2022-03-04,Narindra Rafidimalala,1998.0,Male,LJ,NR,Indoor
+7.19,,MAD,Pittsburg,USA,2022-03-04,Narindra Rafidimalala,1998.0,Male,LJ,NR,Indoor
 8.02,,MAR,Erfurt,GER,2001-02-02,Younès Moudrik,1977.0,Male,LJ,NR,Indoor
 8.02,,MAR,Valencia,ESP,2010-02-13,Yahya Berrabah,1981.0,Male,LJ,NR,Indoor
 7.33,,MAS,Pattaya,THA,2006-02-10,Shahrul Amri Suhaimi,1983.0,Male,LJ,NR,Indoor
@@ -308,16 +308,16 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 8.01,,MEX,Sopot,POL,2014-03-07,Luis Rivera,1987.0,Male,LJ,NR,Indoor
 7.71,,MKD,Beograd,SRB,2024-02-13,Andreas Trajkovski,1993.0,Male,LJ,NR,Indoor
 7.68,,MLI,Liévin,FRA,2001-02-18,Moussa Sissoko,1974.0,Male,LJ,NR,Indoor
-7.84,,MLT,Clemson SC,USA,2023-01-13,Jeremy Zammit,2004.0,Male,LJ,NR,Indoor
+7.84,,MLT,Clemson,USA,2023-01-13,Jeremy Zammit,2004.0,Male,LJ,NR,Indoor
 7.24,,MNE,Beograd,SRB,2021-02-06,Darko Pešić,1992.0,Male,LJ,NR,Indoor
 6.12,,MON,Nice,FRA,2003-12-14,Anthony de Sevelinges,1978.0,Male,LJ,NR,Indoor
 7.28,,MOZ,Espinho,POR,2006-02-18,Artur Augusto,1987.0,Male,LJ,NR,Indoor
 8.05,,MRI,Aubière,FRA,2004-02-22,Jonathan Chimier,1982.0,Male,LJ,NR,Indoor
 7.88,,NAM,Chemnitz,GER,2004-02-27,Stephan Louw,1975.0,Male,LJ,NR,Indoor
 8.23,,NED,Den Haag,NED,1989-02-05,Emiel Mellaard,1966.0,Male,LJ,NR,Indoor
-8.26,,NGR,Bloomington IN,USA,1975-03-07,Charlton Ehizuelen,1953.0,Male,LJ,NR,Indoor
+8.26,,NGR,Bloomington,USA,1975-03-07,Charlton Ehizuelen,1953.0,Male,LJ,NR,Indoor
 7.87,,NOR,Rheinstetten,GER,2022-01-28,Henrik Flåtnes,2001.0,Male,LJ,NR,Indoor
-7.67,,NZL,Fayetteville AR,USA,2022-02-18,Christopher Goodwin,1998.0,Male,LJ,NR,Indoor
+7.67,,NZL,Fayetteville,USA,2022-02-18,Christopher Goodwin,1998.0,Male,LJ,NR,Indoor
 7.54,,OMA,Tehran,IRI,2019-03-04,Salem Saleh El-Jerbi,1994.0,Male,LJ,NR,Indoor
 7.25,,PAK,Rasht,IRI,2002-02-08,Waseem Khan,1983.0,Male,LJ,NR,Indoor
 8.42,,PAN,Athína,GRE,2008-02-13,Irving Saladino,1983.0,Male,LJ,NR,Indoor
@@ -326,7 +326,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 8.18,,POL,Torino,ITA,2009-03-08,Marcin Starzak,1985.0,Male,LJ,NR,Indoor
 8.18,,POL,Sopot,POL,2014-03-07,Adrian Strzałkowski,1990.0,Male,LJ,NR,Indoor
 8.22,,POR,Espinho,POR,2002-01-26,Carlos Calado,1975.0,Male,LJ,NR,Indoor
-8.12,,PUR,Manhattan KS,USA,1992-03-06,Mike Francis,1970.0,Male,LJ,NR,Indoor
+8.12,,PUR,Manhattan,USA,1992-03-06,Mike Francis,1970.0,Male,LJ,NR,Indoor
 8.02,,PYF,Nantes,FRA,2016-02-04,Raihau Maiau,1992.0,Male,LJ,NR,Indoor
 7.76,,QAT,Sliven,BUL,2014-02-08,Emeka Okoli,1990.0,Male,LJ,NR,Indoor
 8.30,,ROU,Bucureşti,ROU,2000-01-30,Bogdan Ţăruş,1975.0,Male,LJ,NR,Indoor
@@ -334,7 +334,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 8.43,,RUS,Moskva,RUS,1994-01-26,Stanislav Tarasenko,1966.0,Male,LJ,NR,Indoor
 8.17,,SEN,Bordeaux,FRA,1998-02-14,Cheikh Tidiane Touré,1970.0,Male,LJ,NR,Indoor
 7.01,,SGP,Macau,MAC,2007-10-31,Kenneth Wang Kan,1987.0,Male,LJ,NR,Indoor
-7.79,,SKN,Pittsburg KS,USA,2019-03-08,Kizan David,1998.0,Male,LJ,NR,Indoor
+7.79,,SKN,Pittsburg,USA,2019-03-08,Kizan David,1998.0,Male,LJ,NR,Indoor
 8.28,,SLO,Maebashi,JPN,1999-03-07,Gregor Cankar,1975.0,Male,LJ,NR,Indoor
 7.23,,SMR,Ancona,ITA,2009-01-25,Luca Maccapani,1982.0,Male,LJ,NR,Indoor
 8.03,,SRB,Glasgow,GBR,2019-03-03,Strahinja Jovančević,1993.0,Male,LJ,NR,Indoor
@@ -344,17 +344,17 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 7.07,,SWZ,Sevilla,ESP,1991-03-08,Sizwe Mdluli,1969.0,Male,LJ,NR,Indoor
 7.87,,SYR,Berlin,GER,2022-01-29,Mohammad Amin Al-Salami,1994.0,Male,LJ,NR,Indoor
 7.71,,THA,Hanoi,VIE,2009-11-01,Therayut Philakong,1984.0,Male,LJ,NR,Indoor
-7.79,,TKS,Fayetteville AR,USA,2018-02-16,Ifeanyi Otuonye,1994.0,Male,LJ,NR,Indoor
+7.79,,TKS,Fayetteville,USA,2018-02-16,Ifeanyi Otuonye,1994.0,Male,LJ,NR,Indoor
 7.54,,TOG,Fronton,FRA,2001-02-04,Teko Folligan,1976.0,Male,LJ,NR,Indoor
 8.02,,TPE,Astana,KAZ,2023-02-12,Lin Yu-Tang,2000.0,Male,LJ,NR,Indoor
-7.99,,TTO,Albuquerque NM,USA,2023-02-03,Kelsey Daniel,2001.0,Male,LJ,NR,Indoor
+7.99,,TTO,Albuquerque,USA,2023-02-03,Kelsey Daniel,2001.0,Male,LJ,NR,Indoor
 7.46,,TUN,Aubière,FRA,2013-02-17,Ala Eddine Ben Hassine,1990.0,Male,LJ,NR,Indoor
-8.09,,TUR,Ames IA,USA,2000-03-03,Mesut Yavaş,1978.0,Male,LJ,NR,Indoor
+8.09,,TUR,Ames,USA,2000-03-03,Mesut Yavaş,1978.0,Male,LJ,NR,Indoor
 8.33,,UKR,Brovary,UKR,2002-02-16,Roman Shchurenko,1976.0,Male,LJ,NR,Indoor
 7.82,,URS,Moskva,URS,1975-01-30,Yuriy Zvezdin,1955.0,Male,LJ,NR,Indoor
-8.79,,USA,New York NY,USA,1984-01-27,Carl Lewis,1961.0,Male,LJ,NR,Indoor
+8.79,,USA,New York,USA,1984-01-27,Carl Lewis,1961.0,Male,LJ,NR,Indoor
 7.85,,UZB,Lipetsk,URS,1990-01-21,Aleksandr Pototskiy,1971.0,Male,LJ,NR,Indoor
-8.00,,VEN,Flagstaff AZ,USA,2005-02-05,Victor Castillo,1981.0,Male,LJ,NR,Indoor
+8.00,,VEN,Flagstaff,USA,2005-02-05,Victor Castillo,1981.0,Male,LJ,NR,Indoor
 7.50,,VIE,Tehran,IRI,2018-02-01,Nguyen Tien Trong,1997.0,Male,LJ,NR,Indoor
 7.85,,VIN,Toronto,CAN,2010-01-24,Clayton Latham,1980.0,Male,LJ,NR,Indoor
-8.21,,ZIM,Blacksburg VA,USA,2009-02-27,Ngonidzashe Makusha,1987.0,Male,LJ,NR,Indoor
+8.21,,ZIM,Blacksburg,USA,2009-02-27,Ngonidzashe Makusha,1987.0,Male,LJ,NR,Indoor

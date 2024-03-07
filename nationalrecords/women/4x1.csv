@@ -32,7 +32,7 @@ result,nation,venue,venueCountry,date,name,sex,discipline,type,environment
 44.19,CHI,Santiago de Chile,CHI,2023-11-02,Chile,Female,4x1,NR,Outdoor
 42.23,CHN,Shanghai,CHN,1997-10-23,China,Female,4x1,NR,Outdoor
 41.90,CIV,Budapest,HUN,2023-08-25,Ivory Coast,Female,4x1,NR,Outdoor
-44.58,CMR,Marietta GA,USA,1996-07-21,Cameroon,Female,4x1,NR,Outdoor
+44.58,CMR,Marietta,USA,1996-07-21,Cameroon,Female,4x1,NR,Outdoor
 51.23,COD,Brazzaville,CGO,2010-06-19,Democratic Republic of Congo,Female,4x1,NR,Outdoor
 43.03,COL,Bogotá,COL,2004-07-10,Colombia,Female,4x1,NR,Outdoor
 43.03,COL,Helsinki,FIN,2005-08-12,Colombia,Female,4x1,NR,Outdoor
@@ -43,13 +43,13 @@ result,nation,venue,venueCountry,date,name,sex,discipline,type,environment
 42.89,CUB,Stuttgart,GER,1993-08-22,Cuba,Female,4x1,NR,Outdoor
 43.87,CYP,Amsterdam,NED,2016-07-09,Cyprus,Female,4x1,NR,Outdoor
 42.98,CZE,Zürich,SUI,1982-08-18,Czech Republic,Female,4x1,NR,Outdoor
-43.46,DEN,Eugene OR,USA,2022-07-22,Denmark,Female,4x1,NR,Outdoor
+43.46,DEN,Eugene,USA,2022-07-22,Denmark,Female,4x1,NR,Outdoor
 56.9,DJI,Djibouti,DJI,2008-04-18,Djibouti,Female,4x1,NR,Outdoor
 43.28,DOM,Moskva,RUS,2013-08-18,Dominican Republic,Female,4x1,NR,Outdoor
 43.69,ECU,Tokyo,JPN,2021-08-05,Ecuador,Female,4x1,NR,Outdoor
 46.62,EGY,Marrakech,MAR,2023-06-23,Egypt,Female,4x1,NR,Outdoor
 52.8,ERI,Nairobi,KEN,2006-12-03,Eritrea,Female,4x1,NR,Outdoor
-42.58,ESP,Eugene OR,USA,2022-07-23,Spain,Female,4x1,NR,Outdoor
+42.58,ESP,Eugene,USA,2022-07-23,Spain,Female,4x1,NR,Outdoor
 44.21,EST,Chorzów,POL,2023-06-22,Estonia,Female,4x1,NR,Outdoor
 46.46,ETH,Nairobi,KEN,2010-07-30,Ethiopia,Female,4x1,NR,Outdoor
 44.86,FIJ,Suva,FIJ,2003-07-12,Fiji,Female,4x1,NR,Outdoor
@@ -76,7 +76,7 @@ result,nation,venue,venueCountry,date,name,sex,discipline,type,environment
 42.14,ITA,Budapest,HUN,2023-08-25,Italy,Female,4x1,NR,Outdoor
 43.45,IVB,Road Town,IVB,2016-07-03,British Virgin Islands,Female,4x1,NR,Outdoor
 41.02,JAM,Tokyo,JPN,2021-08-06,Jamaica,Female,4x1,NR,Outdoor
-43.33,JPN,Eugene OR,USA,2022-07-22,Japan,Female,4x1,NR,Outdoor
+43.33,JPN,Eugene,USA,2022-07-22,Japan,Female,4x1,NR,Outdoor
 42.92,KAZ,Almaty,KAZ,2016-07-04,Kazakhstan,Female,4x1,NR,Outdoor
 44.75,KEN,Brazzaville,CGO,2015-09-15,Kenya,Female,4x1,NR,Outdoor
 44.60,KOR,Incheon,KOR,2014-10-02,South Korea,Female,4x1,NR,Outdoor
@@ -84,7 +84,7 @@ result,nation,venue,venueCountry,date,name,sex,discipline,type,environment
 49.12,KUW,Al-Kuwait,KUW,2022-05-17,Kuwait,Female,4x1,NR,Outdoor
 49.22,LAO,Singapore,SGP,2016-07-16,Laos,Female,4x1,NR,Outdoor
 44.42,LAT,Moskva,URS,1983-06-20,Latvia,Female,4x1,NR,Outdoor
-55.1,LBA,Tripoli LBA,LBA,1991-09-30,Libya,Female,4x1,NR,Outdoor
+55.1,LBA,Tripoli,LBA,1991-09-30,Libya,Female,4x1,NR,Outdoor
 50.61,LBR,Abuja,NGR,2006-11-18,Liberia,Female,4x1,NR,Outdoor
 46.78,LCA,Bridgetown,BAR,1999-06-26,Saint Lucia,Female,4x1,NR,Outdoor
 50.68,LES,Gaborone,BOT,2019-04-27,Lesotho,Female,4x1,NR,Outdoor
@@ -139,7 +139,7 @@ result,nation,venue,venueCountry,date,name,sex,discipline,type,environment
 47.43,SUD,Cairo,EGY,2007-11-23,Sudan,Female,4x1,NR,Outdoor
 42.05,SUI,Tokyo,JPN,2021-08-05,Switzerland,Female,4x1,NR,Outdoor
 44.65,SVK,Šamorín,SVK,2016-06-04,Slovak Republic,Female,4x1,NR,Outdoor
-43.61,SWE,Göteborg/U,SWE,2005-08-27,Sweden,Female,4x1,NR,Outdoor
+43.61,SWE,Göteborg,SWE,2005-08-27,Sweden,Female,4x1,NR,Outdoor
 48.20,SWZ,Bloemfontein,RSA,2019-04-13,Swaziland,Female,4x1,NR,Outdoor
 46.43,TAN,Christchurch,NZL,1974-02-02,Tanzania,Female,4x1,NR,Outdoor
 43.38,THA,Nakhon Ratchasima,THA,2008-06-26,Thailand,Female,4x1,NR,Outdoor

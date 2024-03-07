@@ -5,11 +5,11 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 13.02,-0.8,ALG,Brescia,ITA,1992-05-16,Yasmina Azzizi,1966.0,Female,100H,NR,Outdoor
 14.68,0.8,AND,Chorzów,POL,2023-06-21,Alba Viñals,2007.0,Female,100H,NR,Outdoor
 14.01,1.6,ANG,Lisboa,POR,2012-06-17,Witiney Barata,1988.0,Female,100H,NR,Outdoor
-15.77,-0.7,ANT,Murfreesboro TN,USA,2009-05-09,Elma Camacho,,Female,100H,NR,Outdoor
+15.77,-0.7,ANT,Murfreesboro,USA,2009-05-09,Elma Camacho,,Female,100H,NR,Outdoor
 13.28,1.2,ARG,Winnipeg,CAN,1999-07-30,Verónica Depaoli,1973.0,Female,100H,NR,Outdoor
-14.06,0.2,ARM,Austin TX,USA,2021-03-25,Allison Halverson,1992.0,Female,100H,NR,Outdoor
+14.06,0.2,ARM,Austin,USA,2021-03-25,Allison Halverson,1992.0,Female,100H,NR,Outdoor
 15.84,1.8,ARU,Ottawa,CAN,2013-06-01,Julianne Dorothal,1997.0,Female,100H,NR,Outdoor
-15.83,,ASA,San Diego CA,USA,2015-12-05,Jordan Mageo,1997.0,Female,100H,NR,Outdoor
+15.83,,ASA,San Diego,USA,2015-12-05,Jordan Mageo,1997.0,Female,100H,NR,Outdoor
 12.28,1.1,AUS,Daegu,KOR,2011-09-03,Sally Pearson,1986.0,Female,100H,NR,Outdoor
 12.82,1.4,AUT,Luzern,SUI,2012-07-17,Beate Schrott,1988.0,Female,100H,NR,Outdoor
 13.85,1.1,AZE,Sverdlovsk,URS,1990-06-07,Ella Kolesnikova,1971.0,Female,100H,NR,Outdoor
@@ -23,7 +23,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 14.35,0.7,BIZ,Williamsburg,USA,2015-05-01,Alexia Neal,,Female,100H,NR,Outdoor
 12.41,0.5,BLR,St. Pölten,AUT,2018-05-31,Alina Talay,1989.0,Female,100H,NR,Outdoor
 14.47,1.1,BOL,Cochabamba,BOL,2023-06-03,Camila Jimenez,2004.0,Female,100H,NR,Outdoor
-13.66,1.3,BOT,Normal IL,USA,2015-05-16,Oarabile Babolayi,1992.0,Female,100H,NR,Outdoor
+13.66,1.3,BOT,Normal,USA,2015-05-16,Oarabile Babolayi,1992.0,Female,100H,NR,Outdoor
 12.71,0.1,BRA,Manaus,BRA,2001-05-19,Maurren Higa Maggi,1976.0,Female,100H,NR,Outdoor
 13.34,1.8,BRN,Cork,IRL,2009-07-04,Fatmata Fofanah,1985.0,Female,100H,NR,Outdoor
 17.08,,BRU,Kuching,MAS,1986-07-19,Norhayati Hj Yassin,,Female,100H,NR,Outdoor
@@ -31,7 +31,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 12.81,1.3,BUR,Dakar,SEN,2021-05-22,Marthe Yasmine Koala,1994.0,Female,100H,NR,Outdoor
 13.51,0.1,CAF,Saint-Denis,FRA,2003-08-25,Maria-Joëlle Conjungo,1975.0,Female,100H,NR,Outdoor
 20.15,0.2,CAM,New Clark City,PHI,2019-12-09,Lina Chan,,Female,100H,NR,Outdoor
-12.46,0.7,CAN,Eugene OR,USA,2004-06-19,Perdita Felicien,1980.0,Female,100H,NR,Outdoor
+12.46,0.7,CAN,Eugene,USA,2004-06-19,Perdita Felicien,1980.0,Female,100H,NR,Outdoor
 14.69,-1.0,CAY,Hamilton,CAN,2013-07-16,Ameilia Gillispie,1995.0,Female,100H,NR,Outdoor
 14.40,,CGO,Lyon,FRA,2003-07-13,Christiane Diabakana,1985.0,Female,100H,NR,Outdoor
 13.30,0.4,CHI,Cochabamba,BOL,2003-05-11,Francisca Guzmán,1981.0,Female,100H,NR,Outdoor
@@ -50,9 +50,9 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 12.73,0.8,CZE,Kladno,CZE,2009-07-05,Lucie Škrobáková,1982.0,Female,100H,NR,Outdoor
 12.83,2.0,DEN,Savona,ITA,2023-05-24,Mette Graversgaard,1995.0,Female,100H,NR,Outdoor
 19.3,,DJI,Addis Ababa,ETH,2009-04-25,Kadra Ahmed Saleh,,Female,100H,NR,Outdoor
-14.03,0.9,DMA,East Lansing MI,USA,2015-05-16,Thea LaFond,1994.0,Female,100H,NR,Outdoor
-12.77,1.8,DOM,Montverde FL,USA,2013-06-08,Lavonne Idlette,1985.0,Female,100H,NR,Outdoor
-13.01,1.8,ECU,Clermont FL,USA,2018-05-12,Maribel Caicedo,1998.0,Female,100H,NR,Outdoor
+14.03,0.9,DMA,East Lansing,USA,2015-05-16,Thea LaFond,1994.0,Female,100H,NR,Outdoor
+12.77,1.8,DOM,Montverde,USA,2013-06-08,Lavonne Idlette,1985.0,Female,100H,NR,Outdoor
+13.01,1.8,ECU,Clermont,USA,2018-05-12,Maribel Caicedo,1998.0,Female,100H,NR,Outdoor
 13.25,,EGY,Cairo,EGY,2023-05-24,Lina Amr Gaber Ahmed,1997.0,Female,100H,NR,Outdoor
 18.8,,ERI,Asmara,ERI,2011-06-26,Awet Elos,,Female,100H,NR,Outdoor
 13.62,0.3,ESA,San Salvador,ESA,2023-07-04,Nancy Gabriela Sandoval,1999.0,Female,100H,NR,Outdoor
@@ -66,22 +66,22 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 17.84,,FSM,Pohnpei,FSM,2014-07-21,Ashley Apiner,1992.0,Female,100H,NR,Outdoor
 14.49,-1.1,GAB,La Roche-sur-Yon,FRA,2008-10-25,Ruddy Zang Milama,1987.0,Female,100H,NR,Outdoor
 14.70,-1.4,GAM,Huelva,ESP,2013-12-06,Nusrat Ceesay,1981.0,Female,100H,NR,Outdoor
-12.50,0.9,GBR,Eugene OR,USA,2022-07-24,Cindy Sember,1994.0,Female,100H,NR,Outdoor
+12.50,0.9,GBR,Eugene,USA,2022-07-24,Cindy Sember,1994.0,Female,100H,NR,Outdoor
 14.06,-0.3,GBS,Leiria,POR,2018-07-08,Fatumata Baldé,2000.0,Female,100H,NR,Outdoor
 14.47,,GEO,Moskva,URS,1979-07-25,Tamara Kildiashvili,,Female,100H,NR,Outdoor
 15.93,0.8,GEQ,Granada,ESP,2017-04-06,Teresa Mangue,1998.0,Female,100H,NR,Outdoor
 12.42,1.8,GER,Berlin,FRG,1983-06-08,Bettine Jahn,1958.0,Female,100H,NR,Outdoor
-13.02,1.8,GHA,Philadelphia PA,USA,2001-04-27,Vida Nsiah,1976.0,Female,100H,NR,Outdoor
+13.02,1.8,GHA,Philadelphia,USA,2001-04-27,Vida Nsiah,1976.0,Female,100H,NR,Outdoor
 19.68,,GIB,Gibraltar,GIB,1995-07-18,Bernice Tighe,,Female,100H,NR,Outdoor
 12.64,0.4,GRE,Barcelona,ESP,1992-08-06,Paraskeví Patoulídou,1965.0,Female,100H,NR,Outdoor
-13.73,1.3,GRN,Austin TX,USA,2023-06-09,Joniar Thomas,2001.0,Female,100H,NR,Outdoor
+13.73,1.3,GRN,Austin,USA,2023-06-09,Joniar Thomas,2001.0,Female,100H,NR,Outdoor
 15.05,0.3,GUA,Ciudad de Guatemala,GUA,2017-03-05,Rosa Benita Baltazar,1999.0,Female,100H,NR,Outdoor
-12.96,1.8,GUI,Sacramento CA,USA,2007-06-08,Fatmata Fofanah,1985.0,Female,100H,NR,Outdoor
+12.96,1.8,GUI,Sacramento,USA,2007-06-08,Fatmata Fofanah,1985.0,Female,100H,NR,Outdoor
 15.65,,GUM,Manenggon Hills,GUM,2012-05-18,Stefani Loisel,,Female,100H,NR,Outdoor
 13.27,1.7,GUY,Barranquilla,COL,2018-07-30,Jenea McCammon,1991.0,Female,100H,NR,Outdoor
 12.74,1.7,HAI,Athína,GRE,2004-08-23,Nadine Faustin-Parker,1976.0,Female,100H,NR,Outdoor
 13.14,0.0,HKG,"Walnut, Ca",USA,1994-04-17,Chan Sau Ying,1970.0,Female,100H,NR,Outdoor
-13.14,,HKG,Walnut CA,USA,1994-04-17,Chan Sau-Ying,1970.0,Female,100H,NR,Outdoor
+13.14,,HKG,Walnut,USA,1994-04-17,Chan Sau-Ying,1970.0,Female,100H,NR,Outdoor
 13.83,-0.6,HON,Toluca,MEX,2008-07-21,Jeimy J. Bernárdez,1986.0,Female,100H,NR,Outdoor
 12.69,0.3,HUN,München,GER,2022-08-21,Luca Kozák,1996.0,Female,100H,NR,Outdoor
 13.18,0.7,INA,Taipei,TPE,2012-05-26,Dedeh Erawati,1979.0,Female,100H,NR,Outdoor
@@ -89,12 +89,12 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 13.64,0.2,IRI,Tehran,IRI,2023-08-18,Elnaz Kompani,1989.0,Female,100H,NR,Outdoor
 12.62,0.5,IRL,Budapest,HUN,2023-08-23,Sarah Lavin,1994.0,Female,100H,NR,Outdoor
 14.38,1.8,IRQ,Doha,QAT,2023-04-26,Kurdistan Jamal,2002.0,Female,100H,NR,Outdoor
-13.18,1.2,ISL,Lexington KY,USA,1996-05-19,Gudrún Arnardóttir,1971.0,Female,100H,NR,Outdoor
+13.18,1.2,ISL,Lexington,USA,1996-05-19,Gudrún Arnardóttir,1971.0,Female,100H,NR,Outdoor
 12.80,1.0,ISR,Réthimno,GRE,2002-07-07,Irina Lenskiy,1971.0,Female,100H,NR,Outdoor
-13.33,0.5,ISV,Tuscaloosa AL,USA,1987-05-17,Flora Hyacinth,1966.0,Female,100H,NR,Outdoor
+13.33,0.5,ISV,Tuscaloosa,USA,1987-05-17,Flora Hyacinth,1966.0,Female,100H,NR,Outdoor
 12.75,0.0,ITA,Tokyo,JPN,2021-08-01,Luminosa Bogliolo,1995.0,Female,100H,NR,Outdoor
-13.61,0.8,IVB,Miramar FL,USA,2021-03-13,Deya Erickson,1997.0,Female,100H,NR,Outdoor
-12.31,0.3,JAM,Eugene OR,USA,2022-07-24,Britany Anderson,2001.0,Female,100H,NR,Outdoor
+13.61,0.8,IVB,Miramar,USA,2021-03-13,Deya Erickson,1997.0,Female,100H,NR,Outdoor
+12.31,0.3,JAM,Eugene,USA,2022-07-24,Britany Anderson,2001.0,Female,100H,NR,Outdoor
 14.49,2.0,JOR,Alger,ALG,2004-10-07,Basma Achouch,1977.0,Female,100H,NR,Outdoor
 12.73,1.1,JPN,Gifu,JPN,2022-09-25,Mako Fukube,1995.0,Female,100H,NR,Outdoor
 12.44,-0.8,KAZ,Luzern,SUI,1995-06-27,Olga Shishigina,1968.0,Female,100H,NR,Outdoor
@@ -109,7 +109,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 12.90,-0.6,LAT,Bryansk,URS,1989-09-08,Ludmila Olijars,1958.0,Female,100H,NR,Outdoor
 14.88,1.6,LBN,Campbelltown,AUS,2003-02-15,Sandra Gabrael,,Female,100H,NR,Outdoor
 12.74,-0.2,LBR,Tokyo,JPN,2021-08-01,Ebony Morrison,1994.0,Female,100H,NR,Outdoor
-13.52,1.0,LCA,Eugene OR,USA,2013-06-06,Makeba Alcide,1990.0,Female,100H,NR,Outdoor
+13.52,1.0,LCA,Eugene,USA,2013-06-06,Makeba Alcide,1990.0,Female,100H,NR,Outdoor
 14.62,0.5,LES,Maputo,MOZ,2011-09-13,Selloane Ts'oaeli,,Female,100H,NR,Outdoor
 13.38,2.0,LIE,Jona,SUI,1994-07-17,Manuela Marxer,1965.0,Female,100H,NR,Outdoor
 13.10,1.5,LTU,Beograd,SRB,2009-07-10,Sonata Tamošaitytė,1987.0,Female,100H,NR,Outdoor
@@ -119,7 +119,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 13.44,1.6,MAR,Fès,MAR,2012-06-16,Yamina Hajjaji,1988.0,Female,100H,NR,Outdoor
 13.27,-1.3,MAS,Kassel,GER,2004-06-11,Moh Siew Wei,1978.0,Female,100H,NR,Outdoor
 13.27,-1.3,MAS,Kassel,GER,2004-06-11,Siew Wei Moh,1978.0,Female,100H,NR,Outdoor
-19.77,,MAW,Westminster CA,USA,2016-04-26,Juliet Komwa,,Female,100H,NR,Outdoor
+19.77,,MAW,Westminster,USA,2016-04-26,Juliet Komwa,,Female,100H,NR,Outdoor
 12.81,1.0,MDA,Cottbus,GDR,1982-06-26,Mariya Merchuk,1959.0,Female,100H,NR,Outdoor
 19.84,0.3,MDV,Bangkok,THA,2002-10-30,Nashfa Amira,1985.0,Female,100H,NR,Outdoor
 13.20,,MEX,Ciudad de México,MEX,1990-05-19,Sandra Tavares,1962.0,Female,100H,NR,Outdoor
@@ -139,7 +139,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 12.51,0.4,NED,Zürich,SUI,2021-09-09,Nadine Visser,1995.0,Female,100H,NR,Outdoor
 16.38,-0.7,NEP,Kathmandu,NEP,2019-12-05,Pramila Tharu,,Female,100H,NR,Outdoor
 18.00,,NFI,Auckland,NZL,1997-01-25,Zinta Flitten,,Female,100H,NR,Outdoor
-12.12,0.9,NGR,Eugene OR,USA,2022-07-24,Tobi Amusan,1997.0,Female,100H,NR,Outdoor
+12.12,0.9,NGR,Eugene,USA,2022-07-24,Tobi Amusan,1997.0,Female,100H,NR,Outdoor
 18.86,0.7,NIG,Niamey,NIG,2019-07-20,Mariama Mahamadou Nouha,1999.0,Female,100H,NR,Outdoor
 17.50,,NMI,Pohnpei,FSM,2014-07-21,Rachel Abrams,1995.0,Female,100H,NR,Outdoor
 12.72,0.2,NOR,London,GBR,2018-07-22,Isabelle Pedersen,1992.0,Female,100H,NR,Outdoor
@@ -153,7 +153,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 13.65,-0.6,PHI,Pune,IND,2007-06-27,Sheena Atilano,1980.0,Female,100H,NR,Outdoor
 18.98,,PLE,Jamhour,LBN,2022-04-07,Sheba Al-Turbin,,Female,100H,NR,Outdoor
 18.56,,PLW,Susupe,NMI,2006-06-27,Barbara Gbewonyo,,Female,100H,NR,Outdoor
-13.52,2.0,PNG,Norwalk CA,USA,2015-04-18,Sharon Kwarula,1987.0,Female,100H,NR,Outdoor
+13.52,2.0,PNG,Norwalk,USA,2015-04-18,Sharon Kwarula,1987.0,Female,100H,NR,Outdoor
 12.36,1.9,POL,Warszawa,POL,1980-06-13,Grazyna Rabsztyn,1952.0,Female,100H,NR,Outdoor
 13.14,2.0,POR,Coimbra,POR,2000-08-13,Isabel Abrantes,1973.0,Female,100H,NR,Outdoor
 13.92,,PRK,Pyongyang,PRK,2001-10-04,Kim Myong Ok,,Female,100H,NR,Outdoor
@@ -167,19 +167,19 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 12.94,-1.4,SEN,Dakar,SEN,2000-05-06,Tacko Diouf,1976.0,Female,100H,NR,Outdoor
 13.70,1.3,SEY,Niort,FRA,2004-07-24,Céline Laporte,1984.0,Female,100H,NR,Outdoor
 13.87,0.0,SGP,Hanoi,VIE,2022-05-16,Nur Izlyn Zaini,1998.0,Female,100H,NR,Outdoor
-13.48,1.1,SKN,Fayetteville AR,USA,2019-05-09,Kieshonna Brooks,1998.0,Female,100H,NR,Outdoor
+13.48,1.1,SKN,Fayetteville,USA,2019-05-09,Kieshonna Brooks,1998.0,Female,100H,NR,Outdoor
 13.38,,SLE,Talence,FRA,1996-09-14,Eunice Barber,1974.0,Female,100H,NR,Outdoor
-12.59,0.2,SLO,Atlanta GA,USA,1996-07-31,Brigita Bukovec,1970.0,Female,100H,NR,Outdoor
+12.59,0.2,SLO,Atlanta,USA,1996-07-31,Brigita Bukovec,1970.0,Female,100H,NR,Outdoor
 14.77,-0.9,SMR,Nicosia,CYP,2009-06-06,Barbara Rustignoli,1984.0,Female,100H,NR,Outdoor
 12.99,1.8,SRB,Kraljevo,SRB,2023-07-29,Milica Emini,1999.0,Female,100H,NR,Outdoor
-12.91,1.2,SRI,Atlanta GA,USA,1996-07-29,Sriyani Kulawansa-Fonseka,1970.0,Female,100H,NR,Outdoor
+12.91,1.2,SRI,Atlanta,USA,1996-07-29,Sriyani Kulawansa-Fonseka,1970.0,Female,100H,NR,Outdoor
 13.97,0.0,STP,Braga,POR,2014-07-13,Olimpia Barbosa,1995.0,Female,100H,NR,Outdoor
 14.31,0.8,SUD,Namboole,UGA,2007-05-31,Mona Jabir Ahmed,1987.0,Female,100H,NR,Outdoor
 12.47,0.0,SUI,Bern,SUI,2023-08-04,Ditaji Kambundji,2002.0,Female,100H,NR,Outdoor
 15.48,,SUR,Alphen aan den Rijn,NED,1992-05-24,Yvette Bonapart,1965.0,Female,100H,NR,Outdoor
 12.72,1.0,SVK,Chengdu,CHN,2023-08-04,Viktória Forster,2002.0,Female,100H,NR,Outdoor
-12.47,1.4,SWE,Atlanta GA,USA,1996-07-29,Ludmila Engquist,1964.0,Female,100H,NR,Outdoor
-13.72,0.3,SYR,Atlanta GA,USA,1996-07-27,Ghada Shouaa,1972.0,Female,100H,NR,Outdoor
+12.47,1.4,SWE,Atlanta,USA,1996-07-29,Ludmila Engquist,1964.0,Female,100H,NR,Outdoor
+13.72,0.3,SYR,Atlanta,USA,1996-07-27,Ghada Shouaa,1972.0,Female,100H,NR,Outdoor
 16.52,,TAN,Nairobi,KEN,1995-05-20,Zulpha Muhammed,,Female,100H,NR,Outdoor
 14.35,,TGA,Melbourne,AUS,1997-03-02,Siulolo Liku,1974.0,Female,100H,NR,Outdoor
 12.83,1.9,THA,Sevilla,ESP,1999-08-27,Trecia Roberts,1971.0,Female,100H,NR,Outdoor
@@ -188,7 +188,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 17.33,1.7,TKS,Basseterre,SKN,2015-04-04,Sanadia Forbes,,Female,100H,NR,Outdoor
 13.60,-0.2,TOG,Caen,FRA,2022-06-26,Naomi Akakpo,2000.0,Female,100H,NR,Outdoor
 12.93,0.0,TPE,München,FRG,1970-07-12,Chi Cheng,1944.0,Female,100H,NR,Outdoor
-12.85,1.1,TTO,Greensboro NC,USA,2010-05-29,Aleesha Barber,1987.0,Female,100H,NR,Outdoor
+12.85,1.1,TTO,Greensboro,USA,2010-05-29,Aleesha Barber,1987.0,Female,100H,NR,Outdoor
 14.23,0.3,TUN,Cairo,EGY,2019-04-05,Nada Cheroudi,1987.0,Female,100H,NR,Outdoor
 12.63,-0.5,TUR,Barcelona,ESP,2010-07-31,Nevin Yanıt,1986.0,Female,100H,NR,Outdoor
 14.59,,UAE,Sharjah,UAE,2018-02-10,Jawaher Farid Abdullah,,Female,100H,NR,Outdoor
@@ -199,9 +199,9 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 12.20,0.3,USA,London,GBR,2016-07-22,Kendra Harrison,1992.0,Female,100H,NR,Outdoor
 13.00,-0.2,UZB,Almaty,KAZ,2016-06-25,Valentina Kibalnikova,1990.0,Female,100H,NR,Outdoor
 15.68,-1.9,VAN,Suva,FIJ,1979-07-09,Leitaou Essaou,,Female,100H,NR,Outdoor
-12.87,1.8,VEN,Fayetteville AR,USA,2022-05-28,Yoveiny Mota,2000.0,Female,100H,NR,Outdoor
+12.87,1.8,VEN,Fayetteville,USA,2022-05-28,Yoveiny Mota,2000.0,Female,100H,NR,Outdoor
 13.36,1.6,VIE,B.S. Begawan,BRU,1999-08-09,Vu Bich Huong,1969.0,Female,100H,NR,Outdoor
-13.92,,VIN,Minneapolis MN,USA,1992-05-10,Yvette Haynes,,Female,100H,NR,Outdoor
+13.92,,VIN,Minneapolis,USA,1992-05-10,Yvette Haynes,,Female,100H,NR,Outdoor
 18.0,,YEM,Aden,YEM,1985-05-14,Hikmat Bartouche,,Female,100H,NR,Outdoor
 19.51,1.6,ZAM,Windhoek,NAM,2005-07-05,Rebecca Chisanga,,Female,100H,NR,Outdoor
-13.50,-0.6,ZIM,Marietta GA,USA,2022-07-02,Ashley Miller,1998.0,Female,100H,NR,Outdoor
+13.50,-0.6,ZIM,Marietta,USA,2022-07-02,Ashley Miller,1998.0,Female,100H,NR,Outdoor

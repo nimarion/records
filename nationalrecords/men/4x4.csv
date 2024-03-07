@@ -1,23 +1,23 @@
 result,nation,venue,venueCountry,date,name,sex,discipline,type,environment
 3:20.77,AFG,Bhubaneswar,IND,2017-07-09,Afghanistan,Male,4x4,NR,Outdoor
-3:15.66,AHO,Miramar FL,USA,2010-07-11,Netherlands Antilles,Male,4x4,NR,Outdoor
+3:15.66,AHO,Miramar,USA,2010-07-11,Netherlands Antilles,Male,4x4,NR,Outdoor
 3:17.30,ALB,Pitesti,ROU,2016-06-26,Albania,Male,4x4,NR,Outdoor
 3:02.78,ALG,Bari,ITA,1997-06-18,Algeria,Male,4x4,NR,Outdoor
 3:22.68,AND,Limassol,CYP,2021-06-20,Andorra,Male,4x4,NR,Outdoor
 3:12.92,ANG,Cairo,EGY,1991-09-26,Angola,Male,4x4,NR,Outdoor
-3:09.46,ANT,Atlanta GA,USA,1996-08-02,Antigua & Barbuda,Male,4x4,NR,Outdoor
+3:09.46,ANT,Atlanta,USA,1996-08-02,Antigua & Barbuda,Male,4x4,NR,Outdoor
 3:04.39,ARG,Cascavel,BRA,2022-10-01,Argentina,Male,4x4,NR,Outdoor
 3:16.0,ARM,Moskva,URS,1967-07-30,Armenia,Male,4x4,NR,Outdoor
-2:59.70,AUS,Los Angeles CA,USA,1984-08-11,Australia,Male,4x4,NR,Outdoor
+2:59.70,AUS,Los Angeles,USA,1984-08-11,Australia,Male,4x4,NR,Outdoor
 3:02.95,AUT,Athína,GRE,1997-08-09,Austria,Male,4x4,NR,Outdoor
 3:09.15,AZE,Tashkent,URS,1986-09-20,Azerbaijan,Male,4x4,NR,Outdoor
 2:56.72,BAH,London,GBR,2012-08-10,Bahamas,Male,4x4,NR,Outdoor
 3:12.41,BAN,Dhaka,BAN,1993-12-25,Bangladesh,Male,4x4,NR,Outdoor
-3:01.60,BAR,Los Angeles CA,USA,1984-08-11,Barbados,Male,4x4,NR,Outdoor
+3:01.60,BAR,Los Angeles,USA,1984-08-11,Barbados,Male,4x4,NR,Outdoor
 3:06.19,BDI,Nairobi,KEN,1987-08-11,Burundi,Male,4x4,NR,Outdoor
 2:57.88,BEL,Tokyo,JPN,2021-08-07,Belgium,Male,4x4,NR,Outdoor
 3:11.71,BEN,Ouagadougou,BUR,2007-05-27,Benin,Male,4x4,NR,Outdoor
-3:11.30,BER,Indianapolis IN,USA,1987-08-16,Bermuda,Male,4x4,NR,Outdoor
+3:11.30,BER,Indianapolis,USA,1987-08-16,Bermuda,Male,4x4,NR,Outdoor
 3:09.47,BIH,Pitesti,ROU,2016-06-26,Bosnia-Herzegovina,Male,4x4,NR,Outdoor
 3:16.80,BIZ,San Pedro Sula,USA,1997-12-13,Belize,Male,4x4,NR,Outdoor
 3:03.78,BLR,Plovdiv,BUL,2004-06-20,Belarus,Male,4x4,NR,Outdoor
@@ -33,7 +33,7 @@ result,nation,venue,venueCountry,date,name,sex,discipline,type,environment
 3:11.28,CGO,Bucureşti,ROU,1981-07-26,Congo,Male,4x4,NR,Outdoor
 3:14.9,CHA,Libreville,GAB,1976-07-08,Chad,Male,4x4,NR,Outdoor
 3:03.55,CHN,Doha,QAT,2019-04-24,China,Male,4x4,NR,Outdoor
-3:03.50,CIV,Los Angeles CA,USA,1984-08-10,Ivory Coast,Male,4x4,NR,Outdoor
+3:03.50,CIV,Los Angeles,USA,1984-08-10,Ivory Coast,Male,4x4,NR,Outdoor
 3:20.4,COD,Kinshasa,CMR,2000-08-15,Democratic Republic of Congo,Male,4x4,NR,Outdoor
 2:59.50,COL,Doha,QAT,2019-10-06,Colombia,Male,4x4,NR,Outdoor
 3:15.75,COM,Victoria2,SEY,2011-08-14,Comoros,Male,4x4,NR,Outdoor
@@ -56,7 +56,7 @@ result,nation,venue,venueCountry,date,name,sex,discipline,type,environment
 2:58.45,FRA,Budapest,HUN,2023-08-27,France,Male,4x4,NR,Outdoor
 3:14.1,GAB,Yaoundé,CMR,1995-04-16,Gabon,Male,4x4,NR,Outdoor
 3:10.44,GAM,Warri,NGR,2014-06-13,Gambia,Male,4x4,NR,Outdoor
-2:56.60,GBR,Atlanta GA,USA,1996-08-03,Great Britain,Male,4x4,NR,Outdoor
+2:56.60,GBR,Atlanta,USA,1996-08-03,Great Britain,Male,4x4,NR,Outdoor
 3:28.69,GBS,Bissau,GBS,2007-06-03,Guinea Bissau,Male,4x4,NR,Outdoor
 3:10.80,GEO,Tashkent,URS,1967-08-22,Georgia,Male,4x4,NR,Outdoor
 3:42.93,GEQ,Yaoundé,CMR,2002-04-20,Equatorial Guinea,Male,4x4,NR,Outdoor
@@ -76,7 +76,7 @@ result,nation,venue,venueCountry,date,name,sex,discipline,type,environment
 2:58.81,ITA,Tokyo,JPN,2021-08-07,Italy,Male,4x4,NR,Outdoor
 3:11.03,IVB,St. Georges,GRN,2017-07-02,British Virgin Islands,Male,4x4,NR,Outdoor
 2:56.75,JAM,Athína,GRE,1997-08-10,Jamaica,Male,4x4,NR,Outdoor
-2:59.51,JPN,Eugene OR,USA,2022-07-24,Japan,Male,4x4,NR,Outdoor
+2:59.51,JPN,Eugene,USA,2022-07-24,Japan,Male,4x4,NR,Outdoor
 3:07.66,KAZ,Napoli,ITA,2019-07-13,Kazakhstan,Male,4x4,NR,Outdoor
 2:59.63,KEN,Barcelona,ESP,1992-08-07,Kenya,Male,4x4,NR,Outdoor
 3:04.03,KOR,Incheon,KOR,2014-10-02,South Korea,Male,4x4,NR,Outdoor
@@ -87,7 +87,7 @@ result,nation,venue,venueCountry,date,name,sex,discipline,type,environment
 3:10.00,LBA,Pescara,ITA,2009-07-03,Libya,Male,4x4,NR,Outdoor
 3:11.74,LBN,Kinshasa,COD,2023-08-04,Lebanon,Male,4x4,NR,Outdoor
 3:09.25,LBR,Burnaby,CAN,2005-06-14,Liberia,Male,4x4,NR,Outdoor
-3:15.67,LES,Atlanta GA,USA,1996-08-02,Lesotho,Male,4x4,NR,Outdoor
+3:15.67,LES,Atlanta,USA,1996-08-02,Lesotho,Male,4x4,NR,Outdoor
 3:25.20,LIE,Andorra,AND,1991-05-25,Liechtenstein,Male,4x4,NR,Outdoor
 3:09.65,LTU,Vilnius,LTU,2023-07-07,Lithuania,Male,4x4,NR,Outdoor
 3:14.45,LUX,Luxembourg,LUX,2013-06-01,Luxembourg,Male,4x4,NR,Outdoor
@@ -103,7 +103,7 @@ result,nation,venue,venueCountry,date,name,sex,discipline,type,environment
 3:16.18,MLT,Marsa,MLT,2003-06-07,Malta,Male,4x4,NR,Outdoor
 3:19.87,MNE,Baku,AZE,2015-06-22,Montenegro,Male,4x4,NR,Outdoor
 3:15.46,MON,Serravalle,SMR,2017-06-04,Monaco,Male,4x4,NR,Outdoor
-3:08.95,MOZ,Los Angeles CA,USA,1984-08-10,Mozambique,Male,4x4,NR,Outdoor
+3:08.95,MOZ,Los Angeles,USA,1984-08-10,Mozambique,Male,4x4,NR,Outdoor
 3:06.21,MRI,Harare,ZIM,1995-09-13,Mauritius,Male,4x4,NR,Outdoor
 3:20.42,MTN,Nouakchott,MTN,2004-04-17,Mauritania,Male,4x4,NR,Outdoor
 3:07.83,NAM,Gaborone,BOT,2019-04-27,Namibia,Male,4x4,NR,Outdoor
@@ -119,15 +119,15 @@ result,nation,venue,venueCountry,date,name,sex,discipline,type,environment
 3:17.31,PAR,Cascavel,BRA,2022-10-01,Paraguay,Male,4x4,NR,Outdoor
 3:04.89,PHI,Hangzhou,CHN,2023-10-04,Philippines,Male,4x4,NR,Outdoor
 3:09.55,PNG,Port Moresby,PNG,1991-09-21,Papua-New Guinea,Male,4x4,NR,Outdoor
-2:58.00,POL,Uniondale NY,USA,1998-07-22,Poland,Male,4x4,NR,Outdoor
+2:58.00,POL,Uniondale,USA,1998-07-22,Poland,Male,4x4,NR,Outdoor
 3:03.59,POR,München,GER,2022-08-19,Portugal,Male,4x4,NR,Outdoor
 3:04.87,PUR,Ponce,PUR,2009-05-16,Puerto Rico,Male,4x4,NR,Outdoor
 3:00.56,QAT,Jakarta,INA,2018-08-30,Qatar,Male,4x4,NR,Outdoor
-3:04.23,ROU,Göteborg/U,SWE,2006-08-12,Romania,Male,4x4,NR,Outdoor
+3:04.23,ROU,Göteborg,SWE,2006-08-12,Romania,Male,4x4,NR,Outdoor
 2:59.21,RSA,Daegu,KOR,2011-09-01,South Africa,Male,4x4,NR,Outdoor
 2:59.45,RUS,Beijing,CHN,2015-08-29,Russia,Male,4x4,NR,Outdoor
 3:21.01,RWA,Nairobi,KEN,2010-07-31,Rwanda,Male,4x4,NR,Outdoor
-3:00.64,SEN,Atlanta GA,USA,1996-08-03,Senegal,Male,4x4,NR,Outdoor
+3:00.64,SEN,Atlanta,USA,1996-08-03,Senegal,Male,4x4,NR,Outdoor
 3:11.28,SEY,Antananarivo,MAD,1990-08-30,Seychelles,Male,4x4,NR,Outdoor
 3:07.32,SKN,Cartagena2,COL,2006-07-29,Saint Kitts & Nevis,Male,4x4,NR,Outdoor
 3:10.47,SLE,Seoul,KOR,1988-09-30,Sierra Leone,Male,4x4,NR,Outdoor
@@ -151,7 +151,7 @@ result,nation,venue,venueCountry,date,name,sex,discipline,type,environment
 3:05.19,TUN,Rabat,MAR,2005-06-18,Tunisia,Male,4x4,NR,Outdoor
 3:02.22,TUR,Erzurum,TUR,2016-06-12,Türkiye,Male,4x4,NR,Outdoor
 3:09.21,UAE,Qatif,KSA,2009-05-01,United Arab Emirates,Male,4x4,NR,Outdoor
-3:02.09,UGA,Los Angeles CA,USA,1984-08-11,Uganda,Male,4x4,NR,Outdoor
+3:02.09,UGA,Los Angeles,USA,1984-08-11,Uganda,Male,4x4,NR,Outdoor
 3:02.35,UKR,Edmonton,CAN,2001-08-11,Ukraine,Male,4x4,NR,Outdoor
 3:11.59,URU,Montevideo,URU,2002-05-19,Uruguay,Male,4x4,NR,Outdoor
 2:54.29,USA,Stuttgart,GER,1993-08-22,United States,Male,4x4,NR,Outdoor
@@ -166,7 +166,7 @@ result,nation,venue,venueCountry,date,name,sex,discipline,type,environment
 3:03.88,AUS,Brisbane,AUS,2024-02-24,Australia,Male,4x4,NR,Indoor
 3:08.37,AUT,Paris,FRA,1997-03-08,Austria,Male,4x4,NR,Indoor
 3:17.44,AZE,Tehran,IRI,2007-02-22,Azerbaijan,Male,4x4,NR,Indoor
-3:04.75,BAH,Portland OR,USA,2016-03-20,Bahamas,Male,4x4,NR,Indoor
+3:04.75,BAH,Portland,USA,2016-03-20,Bahamas,Male,4x4,NR,Indoor
 3:02.51,BEL,Birmingham,GBR,2018-03-04,Belgium,Male,4x4,NR,Indoor
 3:18.12,BIH,Beograd,SRB,2017-02-25,Bosnia-Herzegovina,Male,4x4,NR,Indoor
 3:12.69,BLR,Mogilyov,BLR,2011-02-12,Belarus,Male,4x4,NR,Indoor
@@ -206,7 +206,7 @@ result,nation,venue,venueCountry,date,name,sex,discipline,type,environment
 3:25.93,MAC,Macau,MAC,2007-10-31,Macao,Male,4x4,NR,Indoor
 3:17.64,MDA,Istanbul,TUR,2016-02-27,Moldova,Male,4x4,NR,Indoor
 3:11.41,MEX,Paris,FRA,1997-03-08,Mexico,Male,4x4,NR,Indoor
-3:09.18,MIX,Lubbock TX,USA,2018-02-10,Mixed team,Male,4x4,NR,Indoor
+3:09.18,MIX,Lubbock,USA,2018-02-10,Mixed team,Male,4x4,NR,Indoor
 3:31.61,MKD,Istanbul,TUR,2015-02-21,Former Yugoslav Republic of Macedonia,Male,4x4,NR,Indoor
 3:41.87,MNE,Beograd,SRB,2018-01-28,Montenegro,Male,4x4,NR,Indoor
 3:04.25,NED,Glasgow,GBR,2024-03-03,Netherlands,Male,4x4,NR,Indoor
@@ -215,7 +215,7 @@ result,nation,venue,venueCountry,date,name,sex,discipline,type,environment
 3:01.77,POL,Birmingham,GBR,2018-03-04,Poland,Male,4x4,NR,Indoor
 3:06.57,POR,Glasgow,GBR,2024-03-03,Portugal,Male,4x4,NR,Indoor
 3:08.20,QAT,Doha,QAT,2016-02-21,Qatar,Male,4x4,NR,Indoor
-3:08.45,RSA,Portland OR,USA,2016-03-19,South Africa,Male,4x4,NR,Indoor
+3:08.45,RSA,Portland,USA,2016-03-19,South Africa,Male,4x4,NR,Indoor
 3:04.82,RUS,Lisboa,POR,2001-03-11,Russia,Male,4x4,NR,Indoor
 3:10.47,SLO,Istanbul,TUR,2022-03-05,Slovenia,Male,4x4,NR,Indoor
 3:14.19,SRB,Beograd,SRB,2024-01-24,Serbia,Male,4x4,NR,Indoor
@@ -227,4 +227,4 @@ result,nation,venue,venueCountry,date,name,sex,discipline,type,environment
 3:09.41,TUR,Istanbul,TUR,2023-03-05,Türkiye,Male,4x4,NR,Indoor
 3:11.40,UAE,Hanoi,VIE,2009-11-02,United Arab Emirates,Male,4x4,NR,Indoor
 3:07.54,UKR,Sopot,POL,2014-03-08,Ukraine,Male,4x4,NR,Indoor
-3:01.39,USA,College Station TX,USA,2018-03-10,United States,Male,4x4,NR,Indoor
+3:01.39,USA,College Station,USA,2018-03-10,United States,Male,4x4,NR,Indoor

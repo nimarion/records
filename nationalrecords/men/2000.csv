@@ -79,7 +79,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 4:57.09,GBR,Liévin,FRA,2001-02-25,John Mayock,1970.0,Male,2000,NR,Indoor
 4:56.23,GER,Karlsruhe,GER,1993-03-06,Jens-Peter Herold,1965.0,Male,2000,NR,Indoor
 5:00.73,HUN,Liévin,FRA,2022-02-17,István Szögi,1995.0,Male,2000,NR,Indoor
-4:54.07,IRL,Inglewood CA,USA,1987-02-20,Eamonn Coghlan,1952.0,Male,2000,NR,Indoor
+4:54.07,IRL,Inglewood,USA,1987-02-20,Eamonn Coghlan,1952.0,Male,2000,NR,Indoor
 5:25.23,ISL,Reykjavik,ISL,2005-12-19,Björn Margeirsson,1979.0,Male,2000,NR,Indoor
 5:02.67,ITA,Liévin,FRA,2024-02-10,Federico Riva,2000.0,Male,2000,NR,Indoor
 4:55.72,KEN,Birmingham,GBR,2007-02-17,Shedrack Korir,1978.0,Male,2000,NR,Indoor
@@ -89,5 +89,5 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 5:08.87,POL,Sindelfingen,GER,1999-02-28,Piotr Rostkowski,1972.0,Male,2000,NR,Indoor
 4:59.12,RUS,Liévin,FRA,2001-02-25,Vyacheslav Shabunin,1969.0,Male,2000,NR,Indoor
 5:06.28,SUI,Sindelfingen,FRG,1984-02-01,Peter Wirz,1960.0,Male,2000,NR,Indoor
-5:20.08,SWE,Stockholm/G,SWE,2008-02-21,Erik Sjöqvist,1972.0,Male,2000,NR,Indoor
+5:20.08,SWE,Stockholm,SWE,2008-02-21,Erik Sjöqvist,1972.0,Male,2000,NR,Indoor
 5:05.01,UKR,Liévin,FRA,1996-02-18,Andrey Bulkovskiy,1972.0,Male,2000,NR,Indoor

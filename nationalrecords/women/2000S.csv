@@ -19,7 +19,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 6:32.96,EST,Pärnu,EST,2021-06-05,Laura Maasik,1993.0,Female,2000S,NR,Outdoor
 6:11.83,ETH,Bressanone,ITA,2009-07-10,Korahubish Itaa,1992.0,Female,2000S,NR,Outdoor
 6:18.09,FIN,Tampere,FIN,2006-07-17,Johanna Lehtinen,1979.0,Female,2000S,NR,Outdoor
-6:16.60,FRA,Pliezhausen,GER,2018-05-13,Ophélie Claude-Boxberger,1988.0,Female,2000S,NR,Outdoor
+6:07.40,FRA,Budapest,HUN,2023-08-27,Alice Finot,1991.0,Female,2000S,NR,Outdoor
 6:11.79,GBR,Pontoise,FRA,2020-08-15,Elizabeth Bird,1994.0,Female,2000S,NR,Outdoor
 5:52.80,GER,Berlin,GER,2019-09-01,Gesa-Felicitas Krause,1992.0,Female,2000S,NR,Outdoor
 6:35.19,GRE,Kórinthos,GRE,2003-07-05,Xénia Kazimírova,1984.0,Female,2000S,NR,Outdoor
@@ -56,7 +56,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 6:22.99,SWE,Täby,SWE,2022-05-14,Emilia Lillemo,2000.0,Female,2000S,NR,Outdoor
 6:58.65,SYR,Nanjing,CHN,2014-08-25,Fatima Ghassan Rayya,1997.0,Female,2000S,NR,Outdoor
 7:09.85,TPE,Taoyuan,TPE,2022-09-25,Chu Chieh-Yu,2007.0,Female,2000S,NR,Outdoor
-6:08.62,TUN,Eugene OR,USA,2022-07-16,Marwa Bouzayani,1997.0,Female,2000S,NR,Outdoor
+6:08.62,TUN,Eugene,USA,2022-07-16,Marwa Bouzayani,1997.0,Female,2000S,NR,Outdoor
 6:04.46,UGA,Milano,ITA,2005-06-01,Dorcus Inzikuru,1982.0,Female,2000S,NR,Outdoor
 6:21.16,UKR,Moskva,RUS,1992-06-24,Lyudmila Pushkina,1965.0,Female,2000S,NR,Outdoor
 6:09.81,USA,Birmingham,GBR,2023-07-29,Madie Boreman,1998.0,Female,2000S,NR,Outdoor

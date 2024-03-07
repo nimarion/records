@@ -1,28 +1,28 @@
 result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,environment
 15.45,-1.2,AFG,Papenburg,GER,2018-06-17,Said Gilani,1996.0,Male,110H,NR,Outdoor
 13.93,0.6,AHO,Budapest,HUN,1995-07-01,James Sharpe,1962.0,Male,110H,NR,Outdoor
-18.70,,AIA,Amherst NY,USA,2001-05-11,Andre Samuel,,Male,110H,NR,Outdoor
+18.70,,AIA,Amherst,USA,2001-05-11,Andre Samuel,,Male,110H,NR,Outdoor
 13.93,0.5,ALB,Pergine Valsugana,ITA,2007-07-07,Elton Bitincka,1985.0,Male,110H,NR,Outdoor
-13.37,-0.6,ALG,Eugene OR,USA,2022-07-17,Amine Bouanani,1997.0,Male,110H,NR,Outdoor
+13.37,-0.6,ALG,Eugene,USA,2022-07-17,Amine Bouanani,1997.0,Male,110H,NR,Outdoor
 14.47,1.8,AND,Schaan,LIE,1999-05-26,Esteve Martín,1975.0,Male,110H,NR,Outdoor
 14.11,-1.2,ANG,Noisy-le-Grand,FRA,2004-06-08,Jonas Mateus,1983.0,Male,110H,NR,Outdoor
-14.07,,ANT,Iowa City IA,USA,2000-05-06,Randy Gillon,1976.0,Male,110H,NR,Outdoor
+14.07,,ANT,Iowa City,USA,2000-05-06,Randy Gillon,1976.0,Male,110H,NR,Outdoor
 13.74,1.8,ARG,Buenos Aires,ARG,2014-01-25,Agustín Carrera,1988.0,Male,110H,NR,Outdoor
 14.01,,ARM,Donetsk,URS,1980-09-06,Zhan Mkhitaryan,1954.0,Male,110H,NR,Outdoor
 14.58,,ARU,Vught,NED,1986-07-06,Freddy Burgos,1959.0,Male,110H,NR,Outdoor
-15.42,0.7,ASA,Turlock CA,USA,2010-03-06,Aaron Victorian,1988.0,Male,110H,NR,Outdoor
-13.29,0.6,AUS,Göteborg/U,SWE,1995-08-11,Kyle Vander-Kuyp,1971.0,Male,110H,NR,Outdoor
+15.42,0.7,ASA,Turlock,USA,2010-03-06,Aaron Victorian,1988.0,Male,110H,NR,Outdoor
+13.29,0.6,AUS,Göteborg,SWE,1995-08-11,Kyle Vander-Kuyp,1971.0,Male,110H,NR,Outdoor
 13.14,-0.8,AUT,Paris,FRA,1994-09-03,Mark McKoy,1961.0,Male,110H,NR,Outdoor
 13.63,-0.6,AZE,Leningrad,URS,1986-06-08,Gennadiy Chugunov,1963.0,Male,110H,NR,Outdoor
-13.35,1.7,BAH,Canyon TX,USA,2022-05-15,Jahmaal Wilson,2001.0,Male,110H,NR,Outdoor
+13.35,1.7,BAH,Canyon,USA,2022-05-15,Jahmaal Wilson,2001.0,Male,110H,NR,Outdoor
 14.09,-0.2,BAN,Pescara,ITA,2012-07-15,Mahfuzur Rahman,1988.0,Male,110H,NR,Outdoor
 13.14,0.1,BAR,Berlin,GER,2009-08-20,Ryan Brathwaite,1988.0,Male,110H,NR,Outdoor
 14.63,,BDI,Nairobi,KEN,1987-11-08,Joseph Niyonkuru,,Male,110H,NR,Outdoor
 13.25,1.9,BEL,Budapest,HUN,1998-08-22,Jonathan Nsenga,1973.0,Male,110H,NR,Outdoor
 14.68,,BEN,Narbonne,FRA,1988-06-25,Brice de Souza,,Male,110H,NR,Outdoor
-14.21,1.0,BER,Charleston IL,USA,2015-05-08,Tristan Joynes,1992.0,Male,110H,NR,Outdoor
+14.21,1.0,BER,Charleston,USA,2015-05-08,Tristan Joynes,1992.0,Male,110H,NR,Outdoor
 13.82,1.6,BIH,Istanbul,TUR,2005-06-19,Damir Haračič,1984.0,Male,110H,NR,Outdoor
-13.90,0.6,BIZ,Cerritos CA,USA,2009-03-21,Jonathan Williams,1983.0,Male,110H,NR,Outdoor
+13.90,0.6,BIZ,Cerritos,USA,2009-03-21,Jonathan Williams,1983.0,Male,110H,NR,Outdoor
 13.30,-0.4,BLR,Minsk,BLR,2021-06-25,Vitali Parakhonka,1993.0,Male,110H,NR,Outdoor
 14.79,,BOL,Cochabamba,BOL,1994-09-03,Vladimir Aponte,,Male,110H,NR,Outdoor
 13.92,0.5,BOT,Réduit,MRI,2019-07-06,Kemorena Tisang,1995.0,Male,110H,NR,Outdoor
@@ -35,30 +35,30 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 14.76,,CAF,Montgeron,FRA,1994-02-07,Jacques-Henri Brunet,1967.0,Male,110H,NR,Outdoor
 15.79,,CAM,Jakarta,INA,1962-08-26,Pech Iev,,Male,110H,NR,Outdoor
 13.08,1.2,CAN,Villeneuve d'Ascq,FRA,1993-07-02,Mark McKoy,1961.0,Male,110H,NR,Outdoor
-13.36,0.4,CAY,Clermont FL,USA,2016-04-30,Ronald Forbes,1985.0,Male,110H,NR,Outdoor
+13.36,0.4,CAY,Clermont,USA,2016-04-30,Ronald Forbes,1985.0,Male,110H,NR,Outdoor
 14.19,,CGO,Harare,ZIM,1995-09-17,Hakim Mazou,1970.0,Male,110H,NR,Outdoor
 15.62,,CHA,Viry-Châtillon,FRA,1994-09-24,Alio Hassana,1976.0,Male,110H,NR,Outdoor
 13.60,0.2,CHI,Santiago de Chile,CHI,2023-05-27,Martín Sáenz,2001.0,Male,110H,NR,Outdoor
 12.88,1.1,CHN,Lausanne,SUI,2006-07-11,Liu Xiang,1983.0,Male,110H,NR,Outdoor
 13.86,1.7,CIV,Argentan,FRA,1992-07-08,Marcellin Dally,1962.0,Male,110H,NR,Outdoor
-13.87,1.6,CMR,Commerce TX,USA,2023-05-05,Jorim Bangue,2003.0,Male,110H,NR,Outdoor
+13.87,1.6,CMR,Commerce,USA,2023-05-05,Jorim Bangue,2003.0,Male,110H,NR,Outdoor
 13.95,1.0,COD,Saint-Etienne,FRA,2002-05-31,Tino Ngoy,1980.0,Male,110H,NR,Outdoor
 16.44,,COK,Nouméa,FRA,1987-12-15,Akanoa William,,Male,110H,NR,Outdoor
 13.27,1.6,COL,Guadalajara2,MEX,2011-10-28,Paulo Villar,1978.0,Male,110H,NR,Outdoor
-14.04,1.8,COM,Ypsilanti MI,USA,2004-05-01,Abdallah Mohamed,1981.0,Male,110H,NR,Outdoor
-13.78,1.6,CPV,Modesto CA,USA,1996-05-11,Henry Andrade,1962.0,Male,110H,NR,Outdoor
+14.04,1.8,COM,Ypsilanti,USA,2004-05-01,Abdallah Mohamed,1981.0,Male,110H,NR,Outdoor
+13.78,1.6,CPV,Modesto,USA,1996-05-11,Henry Andrade,1962.0,Male,110H,NR,Outdoor
 14.51,0.4,CRC,San José3,CRC,2020-12-29,Emmanuel Niño Villalta,1995.0,Male,110H,NR,Outdoor
 13.54,1.9,CRO,Bydgoszcz,POL,2003-07-20,Jurica Grabušić,1983.0,Male,110H,NR,Outdoor
 12.87,0.9,CUB,Ostrava,CZE,2008-06-12,Dayron Robles,1986.0,Male,110H,NR,Outdoor
 13.25,0.0,CYP,London,GBR,2017-07-09,Milan Trajkovic,1992.0,Male,110H,NR,Outdoor
 13.27,1.1,CZE,Praha,CZE,2010-06-14,Petr Svoboda,1984.0,Male,110H,NR,Outdoor
 13.50,1.0,DEN,København,DEN,2017-06-20,Andreas Martinsen,1990.0,Male,110H,NR,Outdoor
-14.44,1.6,DMA,Jacksonville FL,USA,2023-05-12,Felix Lawrence,2001.0,Male,110H,NR,Outdoor
+14.44,1.6,DMA,Jacksonville,USA,2023-05-12,Felix Lawrence,2001.0,Male,110H,NR,Outdoor
 13.61,,DOM,San Juan,PUR,1984-06-16,Modesto Castillo,1959.0,Male,110H,NR,Outdoor
 13.44,1.2,ECU,Athína,GRE,2004-08-24,Jackson Quiñónez,1980.0,Male,110H,NR,Outdoor
 13.71,,EGY,Radès,TUN,2023-05-20,Yousuf Badawy Sayyed,2002.0,Male,110H,NR,Outdoor
 15.8,,ERI,Asmara,ERI,2011-06-26,Yared Berhane,,Male,110H,NR,Outdoor
-14.09,1.3,ESA,Tampa FL,USA,2023-05-14,Víctor Steiner,2001.0,Male,110H,NR,Outdoor
+14.09,1.3,ESA,Tampa,USA,2023-05-14,Víctor Steiner,2001.0,Male,110H,NR,Outdoor
 13.04,0.0,ESP,Monaco,MON,2016-07-15,Orlando Ortega,1991.0,Male,110H,NR,Outdoor
 13.62,0.0,EST,Xalapa,MEX,2006-05-13,Tarmo Jallai,1979.0,Male,110H,NR,Outdoor
 14.49,-0.8,ETH,Rabat,MAR,2019-08-26,Ibrahim Jemal,1999.0,Male,110H,NR,Outdoor
@@ -73,19 +73,19 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 13.58,1.8,GEO,Sliven,BUL,2012-06-15,David Ilariani,1981.0,Male,110H,NR,Outdoor
 16.52,,GEQ,Mataró,ESP,2009-03-05,Alfonso Ekwunezi Ikuga,,Male,110H,NR,Outdoor
 13.05,-0.8,GER,Bremen,GER,1995-07-02,Florian Schwarthoff,1968.0,Male,110H,NR,Outdoor
-13.59,2.0,GHA,Jacksonville FL,USA,2021-06-27,Yakubu Ibrahim,1995.0,Male,110H,NR,Outdoor
+13.59,2.0,GHA,Jacksonville,USA,2021-06-27,Yakubu Ibrahim,1995.0,Male,110H,NR,Outdoor
 13.33,-1.2,GRE,Székesfehérvár,HUN,2015-07-07,Konstadínos Douvalídis,1987.0,Male,110H,NR,Outdoor
-13.52,1.2,GRN,Sacramento CA,USA,2007-06-06,Alleyne Lett,1983.0,Male,110H,NR,Outdoor
+13.52,1.2,GRN,Sacramento,USA,2007-06-06,Alleyne Lett,1983.0,Male,110H,NR,Outdoor
 14.04,-0.6,GUA,Ciudad de México,MEX,2018-05-12,Wienstan Christopher Mena,1998.0,Male,110H,NR,Outdoor
-14.67,1.3,GUI,Cincinnati OH,USA,2017-01-04,Moussa Conde,1996.0,Male,110H,NR,Outdoor
+14.67,1.3,GUI,Cincinnati,USA,2017-01-04,Moussa Conde,1996.0,Male,110H,NR,Outdoor
 15.50,-0.7,GUM,Saipan,FRA,2008-06-27,Kenneth Karosich,1990.0,Male,110H,NR,Outdoor
-13.73,0.4,GUY,Clemson SC,USA,2002-04-06,Charles Allen,1977.0,Male,110H,NR,Outdoor
+13.73,0.4,GUY,Clemson,USA,2002-04-06,Charles Allen,1977.0,Male,110H,NR,Outdoor
 13.25,-0.3,HAI,Edmonton,CAN,2001-08-09,Dudley Dorival,1975.0,Male,110H,NR,Outdoor
 13.74,-0.1,HKG,Taipei,TPE,2018-05-25,Chan Chung Wang,1991.0,Male,110H,NR,Outdoor
-13.72,1.5,HON,Greensboro NC,USA,2011-05-15,Esteban Guzman,1984.0,Male,110H,NR,Outdoor
+13.72,1.5,HON,Greensboro,USA,2011-05-15,Esteban Guzman,1984.0,Male,110H,NR,Outdoor
 13.15,0.3,HUN,Székesfehérvár,HUN,2017-07-04,Balázs Baji,1989.0,Male,110H,NR,Outdoor
 14.02,-0.5,INA,Jakarta,INA,2018-08-27,Rio Maholtra,1993.0,Male,110H,NR,Outdoor
-13.48,-0.9,IND,Phoenix AZ,USA,2017-06-10,Thingalaya Siddhanth,1991.0,Male,110H,NR,Outdoor
+13.48,-0.9,IND,Phoenix,USA,2017-06-10,Thingalaya Siddhanth,1991.0,Male,110H,NR,Outdoor
 13.50,0.1,IRI,Almaty,KAZ,2012-07-01,Rohallah Ashgari,1982.0,Male,110H,NR,Outdoor
 13.30,0.6,IRL,Hechtel,BEL,1999-08-07,Peter Coghlan,1975.0,Male,110H,NR,Outdoor
 13.78,1.4,IRQ,Baghdad,IRQ,2019-07-25,Mohamed Al-Khafaji,,Male,110H,NR,Outdoor
@@ -93,7 +93,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 13.85,0.0,ISR,Bucureşti,ROU,2007-06-10,Michael Illin,1984.0,Male,110H,NR,Outdoor
 13.31,1.5,ISV,San José3,CRC,2015-08-08,Eddie Lovett,1992.0,Male,110H,NR,Outdoor
 13.27,1.2,ITA,Rovereto,ITA,2021-06-26,Paolo Dal Molin,1987.0,Male,110H,NR,Outdoor
-15.66,,IVB,Walnut CA,USA,1997-04-18,Steve Augustine,1977.0,Male,110H,NR,Outdoor
+15.66,,IVB,Walnut,USA,1997-04-18,Steve Augustine,1977.0,Male,110H,NR,Outdoor
 12.90,0.7,JAM,Kingston,JAM,2017-06-24,Omar McLeod,1994.0,Male,110H,NR,Outdoor
 14.78,0.8,JOR,Amman,JOR,2009-09-26,Mu´ath Al Qusairin,1986.0,Male,110H,NR,Outdoor
 13.04,-0.9,JPN,Osaka,JPN,2023-06-04,Shunsuke Izumiya,2000.0,Male,110H,NR,Outdoor
@@ -109,7 +109,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 15.08,-2.8,LBA,Riyadh,KSA,2009-12-05,Zouhair Rajab Al-Menghawi,,Male,110H,NR,Outdoor
 13.87,0.6,LBN,Beyrouth,LBN,2013-06-07,Ahmad Hazer,1989.0,Male,110H,NR,Outdoor
 13.36,0.1,LBR,São Paulo,BRA,2022-05-01,Wellington Zaza,1995.0,Male,110H,NR,Outdoor
-14.28,1.5,LCA,Naperville IL,USA,2022-05-13,Giovanni Alfred,2001.0,Male,110H,NR,Outdoor
+14.28,1.5,LCA,Naperville,USA,2022-05-13,Giovanni Alfred,2001.0,Male,110H,NR,Outdoor
 15.59,0.0,LIE,Ciudad de México,MEX,1968-10-15,Franz Biedermann,1946.0,Male,110H,NR,Outdoor
 13.60,-0.8,LTU,Bryansk,URS,1987-07-17,Jonas Jakstis,1959.0,Male,110H,NR,Outdoor
 13.79,1.3,LUX,Luxembourg,LUX,2023-07-09,François Grailet,1994.0,Male,110H,NR,Outdoor
@@ -126,7 +126,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 13.62,0.4,MLI,Saint-Denis,FRA,2015-07-04,Bano Traore,1985.0,Male,110H,NR,Outdoor
 14.69,0.4,MLT,Marsa,MLT,2021-07-17,Daniel Saliba,1995.0,Male,110H,NR,Outdoor
 14.35,0.3,MNE,Bar,MNE,2023-05-01,Darko Pešić,1992.0,Male,110H,NR,Outdoor
-16.14,,MNT,Hackensack NJ,USA,2000-05-30,Gavin Lee,1980.0,Male,110H,NR,Outdoor
+16.14,,MNT,Hackensack,USA,2000-05-30,Gavin Lee,1980.0,Male,110H,NR,Outdoor
 16.12,,MON,Nice,FRA,2005-05-12,Anthony de Sevelinges,1978.0,Male,110H,NR,Outdoor
 14.77,,MOZ,Pretoria,RSA,1974-04-27,Abdul Ismail,1948.0,Male,110H,NR,Outdoor
 13.54,0.1,MRI,Bondoufle,FRA,2023-07-22,Jeremie Lararaudeuse,2001.0,Male,110H,NR,Outdoor
@@ -150,11 +150,11 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 13.53,0.4,PHI,Torrent,ESP,2023-07-30,John Cabang,2001.0,Male,110H,NR,Outdoor
 16.63,1.8,PLE,Damascus,SYR,2004-09-11,Ahmed Al Saleh,,Male,110H,NR,Outdoor
 16.52,-0.7,PLW,Nouméa,FRA,2011-09-09,Leon Mengloi,1989.0,Male,110H,NR,Outdoor
-14.04,1.9,PNG,Allendale MI,USA,2014-05-23,Wala Gime,1985.0,Male,110H,NR,Outdoor
+14.04,1.9,PNG,Allendale,USA,2014-05-23,Wala Gime,1985.0,Male,110H,NR,Outdoor
 13.25,1.3,POL,Suwalki,POL,2022-06-11,Damian Czykier,1992.0,Male,110H,NR,Outdoor
 13.47,1.3,POR,Lisboa,POR,2012-07-08,João Almeida,1988.0,Male,110H,NR,Outdoor
 14.15,,PRK,UNKNOWN,???,1990-06-01,Cha Won Bok,,Male,110H,NR,Outdoor
-13.41,1.1,PUR,Des Moines IA,USA,2016-04-30,Will Barnes,1994.0,Male,110H,NR,Outdoor
+13.41,1.1,PUR,Des Moines,USA,2016-04-30,Will Barnes,1994.0,Male,110H,NR,Outdoor
 13.60,0.7,QAT,Hyderabad,IND,2007-10-17,Mohammed Aissa Al-Thawadi,1981.0,Male,110H,NR,Outdoor
 13.34,1.0,ROU,Bucureşti,ROU,1993-06-18,Gheorghe Boroi,1964.0,Male,110H,NR,Outdoor
 13.11,1.8,RSA,Praha,CZE,2017-06-05,Antonio Alkana,1990.0,Male,110H,NR,Outdoor
@@ -170,13 +170,13 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 16.52,,SMR,Modena,ITA,2000-06-08,Manlio Molinari,1964.0,Male,110H,NR,Outdoor
 16.20,-1.7,SOL,Honiara,SOL,2023-11-30,Junior Peter,2002.0,Male,110H,NR,Outdoor
 21.5,,SOM,Chelmsford,GBR,2010-06-05,Mohamed Ismail Mohamed,,Male,110H,NR,Outdoor
-13.39,2.0,SRB,Clermont FL,USA,2016-05-14,Milan Ristić,1991.0,Male,110H,NR,Outdoor
+13.39,2.0,SRB,Clermont,USA,2016-05-14,Milan Ristić,1991.0,Male,110H,NR,Outdoor
 13.72,-1.2,SRI,Diyagama,SRI,2023-07-30,I.G.J.I. Lakvijaya,2000.0,Male,110H,NR,Outdoor
 14.80,0.1,STP,Braga,POR,2018-07-22,Mauro Fonseca,1995.0,Male,110H,NR,Outdoor
 13.45,2.0,SUD,Alger,ALG,2004-10-07,Todd Jouda Matthews,1979.0,Male,110H,NR,Outdoor
 13.07,0.7,SUI,Basel,SUI,2023-09-10,Jason Joseph,1998.0,Male,110H,NR,Outdoor
 15.42,-0.9,SUR,Xalapa,MEX,2014-11-25,Gayell Engeso,1994.0,Male,110H,NR,Outdoor
-13.13,1.7,SVK,Stockholm/S,SWE,1997-07-07,Igor Kováč,1969.0,Male,110H,NR,Outdoor
+13.13,1.7,SVK,Stockholm,SWE,1997-07-07,Igor Kováč,1969.0,Male,110H,NR,Outdoor
 13.35,1.7,SWE,Lausanne,SUI,2001-07-04,Robert Kronberg,1976.0,Male,110H,NR,Outdoor
 15.84,,SWZ,Manzini,SWZ,2019-05-18,Menziwokuhle Msibi,2002.0,Male,110H,NR,Outdoor
 15.84,,SWZ,Manzini,SWZ,2019-05-18,Ndabenhle Vilakati,,Male,110H,NR,Outdoor
@@ -203,5 +203,5 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 16.65,0.2,VIN,Exeter,GBR,2015-07-19,Ronald De-Bique,,Male,110H,NR,Outdoor
 15.83,,YEM,Perth,AUS,1962-11-26,Christopher Salole,,Male,110H,NR,Outdoor
 14.50,,ZAM,Moskva,URS,1979-07-22,Davison Lishebo,1955.0,Male,110H,NR,Outdoor
-13.99,-1.9,ZIM,Tallahassee FL,USA,2001-03-23,Iain Harnden,1976.0,Male,110H,NR,Outdoor
+13.99,-1.9,ZIM,Tallahassee,USA,2001-03-23,Iain Harnden,1976.0,Male,110H,NR,Outdoor
 13.58,,FIN,Lahti,FIN,1982-12-30,Arto Bryggare,1958.0,Male,110H,NR,Indoor

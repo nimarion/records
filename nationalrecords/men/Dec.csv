@@ -1,13 +1,13 @@
 result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,environment
 6136,AFG,Papenburg,GER,2018-06-03,Said Gilani,1996.0,Male,Dec,NR,Outdoor
 6487,AHO,Emmeloord,NED,1997-05-18,Ivor Landburg,,Male,Dec,NR,Outdoor
-5313,AIA,Uniondale NY,USA,2002-05-10,Andre Samuel,,Male,Dec,NR,Outdoor
+5313,AIA,Uniondale,USA,2002-05-10,Andre Samuel,,Male,Dec,NR,Outdoor
 7261,ALB,Beijing,CHN,1975-05-09,Skender Rexhepi,1953.0,Male,Dec,NR,Outdoor
 8521,ALG,Río de Janeiro,BRA,2016-08-18,Larbi Bouraada,1988.0,Male,Dec,NR,Outdoor
 6204,AND,Andorra,AND,1999-06-27,Esteve Martín,1975.0,Male,Dec,NR,Outdoor
 6381,ANG,Madrid,ESP,1989-08-05,Afonso Deslandes,1961.0,Male,Dec,NR,Outdoor
 6027,ANT,London,GBR,1970-09-27,Calvin Greenaway,1948.0,Male,Dec,NR,Outdoor
-8291,ARG,Provo UT,USA,1983-06-23,Tito Steiner,1952.0,Male,Dec,NR,Outdoor
+8291,ARG,Provo,USA,1983-06-23,Tito Steiner,1952.0,Male,Dec,NR,Outdoor
 6806,ARM,Kropotkin,USA,1974-04-26,Onik Khachatryan,,Male,Dec,NR,Outdoor
 6021,ARU,Amstelveen,NED,1988-09-26,Freddy Burgos,1959.0,Male,Dec,NR,Outdoor
 6572,ASA,Lancaster,GBR,2010-05-22,Aaron Victorian,1988.0,Male,Dec,NR,Outdoor
@@ -19,7 +19,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 5320,BDI,Bruxelles,BEL,1986-08-24,Jérôme Rutayisire,,Male,Dec,NR,Outdoor
 8519,BEL,Götzis,AUT,2012-05-27,Hans Van Alphen,1982.0,Male,Dec,NR,Outdoor
 4761,BEN,Porto Novo,BEN,1957-06-16,John Godonou-Dossou,,Male,Dec,NR,Outdoor
-6909,BER,Tuscaloosa AL,USA,1987-05-15,Brooke Onley,,Male,Dec,NR,Outdoor
+6909,BER,Tuscaloosa,USA,1987-05-15,Brooke Onley,,Male,Dec,NR,Outdoor
 6653,BIH,Sarajevo,YUG,1966-09-17,Esad Vilić,1935.0,Male,Dec,NR,Outdoor
 5920,BIZ,San Pedro Sula,USA,1997-12-13,Michael McKoy,1978.0,Male,Dec,NR,Outdoor
 8735,BLR,Götzis,AUT,1994-05-29,Eduard Hämäläinen,1969.0,Male,Dec,NR,Outdoor
@@ -34,7 +34,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 9018,CAN,Tokyo,JPN,2021-08-05,Damian Warner,1989.0,Male,Dec,NR,Outdoor
 6475,CGO,Brazzaville,CGO,2004-07-17,Célestin Mounsambote Nkengue,1985.0,Male,Dec,NR,Outdoor
 3818,CHA,Clermont-Ferrand,FRA,2007-05-27,Louis Magloire Ntankeu,,Male,Dec,NR,Outdoor
-8065,CHI,Charlottesville VA,USA,2012-04-20,Gonzalo Barroilhet,1986.0,Male,Dec,NR,Outdoor
+8065,CHI,Charlottesville,USA,2012-04-20,Gonzalo Barroilhet,1986.0,Male,Dec,NR,Outdoor
 8290,CHN,Götzis,AUT,2005-05-29,Qi Haifeng,1983.0,Male,Dec,NR,Outdoor
 7028,CIV,Arles,FRA,2001-06-10,Yves N'Dabian,1983.0,Male,Dec,NR,Outdoor
 6258,CMR,Nairobi,KEN,1987-08-13,Ernest Tche,1956.0,Male,Dec,NR,Outdoor
@@ -42,8 +42,8 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 5244,COK,Nouméa,FRA,1987-12-18,Akanoa William,,Male,Dec,NR,Outdoor
 7913,COL,Barranquilla,COL,2018-07-30,José Gregorio Lemos,1991.0,Male,Dec,NR,Outdoor
 6101,CPV,Luso,POR,2011-12-06,Jose Rosa,,Male,Dec,NR,Outdoor
-6663,CRC,Baton Rouge LA,USA,2023-05-12,Noah Swaby,1999.0,Male,Dec,NR,Outdoor
-7838,CRO,Austin TX,USA,2022-03-24,Trpimir Široki,1998.0,Male,Dec,NR,Outdoor
+6663,CRC,Baton Rouge,USA,2023-05-12,Noah Swaby,1999.0,Male,Dec,NR,Outdoor
+7838,CRO,Austin,USA,2022-03-24,Trpimir Široki,1998.0,Male,Dec,NR,Outdoor
 8654,CUB,La Habana,CUB,2009-07-04,Leonel Suárez,1987.0,Male,Dec,NR,Outdoor
 7802,CYP,Vólos,GRE,2000-08-12,Georgios Andréou,1974.0,Male,Dec,NR,Outdoor
 9026,CZE,Götzis,AUT,2001-05-27,Roman Šebrle,1974.0,Male,Dec,NR,Outdoor
@@ -60,31 +60,31 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 9126,FRA,Talence,FRA,2018-09-16,Kevin Mayer,1992.0,Male,Dec,NR,Outdoor
 4871,FSM,Suva,FIJ,2003-09-07,Keitani Graham,,Male,Dec,NR,Outdoor
 6013,GAB,Libreville,GAB,1988-03-24,Landry Nzamba Busugu,,Male,Dec,NR,Outdoor
-8847,GBR,Los Angeles CA,USA,1984-08-09,Daley Thompson,1958.0,Male,Dec,NR,Outdoor
+8847,GBR,Los Angeles,USA,1984-08-09,Daley Thompson,1958.0,Male,Dec,NR,Outdoor
 5514,GBS,Santiago de Cuba,CUB,1984-02-29,Arnaldo Dos Santos Fernandes,,Male,Dec,NR,Outdoor
 7756,GEO,Tbilisi,URS,1968-06-16,Juri Djachkov,,Male,Dec,NR,Outdoor
 3752,GEQ,Sabadell,ESP,2007-09-30,Alfonso Ekwunezi Ikuga,,Male,Dec,NR,Outdoor
-8836,GER,Austin TX,USA,2023-06-08,Leo Neugebauer,2000.0,Male,Dec,NR,Outdoor
-7811,GHA,Charlottesville VA,USA,2017-04-22,Atsu Nyamadi,1994.0,Male,Dec,NR,Outdoor
+8836,GER,Austin,USA,2023-06-08,Leo Neugebauer,2000.0,Male,Dec,NR,Outdoor
+7811,GHA,Charlottesville,USA,2017-04-22,Atsu Nyamadi,1994.0,Male,Dec,NR,Outdoor
 8069,GRE,Ibach,SUI,2000-07-02,Pródromos Korkízoglou,1975.0,Male,Dec,NR,Outdoor
 8756,GRN,Budapest,HUN,2023-08-26,Lindon Victor,1993.0,Male,Dec,NR,Outdoor
-7448,GUA,Chula Vista CA,USA,2004-06-06,Octavius Gillespie,1979.0,Male,Dec,NR,Outdoor
-4324,GUM,Cheney WA,USA,2008-11-04,Jude Martinez,,Male,Dec,NR,Outdoor
+7448,GUA,Chula Vista,USA,2004-06-06,Octavius Gillespie,1979.0,Male,Dec,NR,Outdoor
+4324,GUM,Cheney,USA,2008-11-04,Jude Martinez,,Male,Dec,NR,Outdoor
 5842,GUY,London,GBR,1959-07-26,Laurence Taitt,,Male,Dec,NR,Outdoor
-7128,HAI,Azusa CA,USA,2017-04-13,Josue Louis,1987.0,Male,Dec,NR,Outdoor
+7128,HAI,Azusa,USA,2017-04-13,Josue Louis,1987.0,Male,Dec,NR,Outdoor
 6469,HKG,Hongkong,HKG,2009-03-22,Ng Chit Wing,,Male,Dec,NR,Outdoor
 6690,HON,San Pedro Sula,USA,2008-06-28,Darwin Colón,1987.0,Male,Dec,NR,Outdoor
 8554,HUN,Götzis,AUT,2000-06-04,Attila Zsivoczky,1977.0,Male,Dec,NR,Outdoor
 7013,INA,Singapore,SGP,1993-06-14,Julius Uwe,,Male,Dec,NR,Outdoor
 7666,IND,Hangzhou,CHN,2023-10-03,Tejaswin Shankar,1998.0,Male,Dec,NR,Outdoor
 7729,IRI,Tehran,IRI,2012-05-25,Hadi Sepehrzad,1983.0,Male,Dec,NR,Outdoor
-7882,IRL,Emmitsburg MD,USA,1988-06-05,Carlos O'Connell,1963.0,Male,Dec,NR,Outdoor
+7882,IRL,Emmitsburg,USA,1988-06-05,Carlos O'Connell,1963.0,Male,Dec,NR,Outdoor
 7271,IRQ,Mashhad,IRI,2021-04-12,Abdul Sajjad Saadoun Nasser,1995.0,Male,Dec,NR,Outdoor
 8573,ISL,Götzis,AUT,1998-05-31,Jón Arnar Magnússon,1969.0,Male,Dec,NR,Outdoor
-7343,ISR,Des Moines IA,USA,2022-05-14,Ariel Attias,1999.0,Male,Dec,NR,Outdoor
+7343,ISR,Des Moines,USA,2022-05-14,Ariel Attias,1999.0,Male,Dec,NR,Outdoor
 5416,ISV,Santo Domingo,DOM,1981-07-11,Nathan Taylor,,Male,Dec,NR,Outdoor
 8218,ITA,München,GER,2022-08-16,Dario Dester,2000.0,Male,Dec,NR,Outdoor
-6609,IVB,Indianapolis IN,USA,1987-08-13,Paul Hewlett,1961.0,Male,Dec,NR,Outdoor
+6609,IVB,Indianapolis,USA,1987-08-13,Paul Hewlett,1961.0,Male,Dec,NR,Outdoor
 8644,JAM,Osaka,JPN,2007-09-01,Maurice Smith,1980.0,Male,Dec,NR,Outdoor
 6586,JOR,Irbid,JOR,1999-08-14,Hassan Sobhi,,Male,Dec,NR,Outdoor
 8308,JPN,Nagano,JPN,2014-06-01,Keisuke Ushiro,1986.0,Male,Dec,NR,Outdoor
@@ -99,8 +99,8 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 8312,LAT,Valmiera,LAT,2011-06-05,Edgars Eriņš,1986.0,Male,Dec,NR,Outdoor
 6186,LBA,Dimashq,LBA,2001-05-10,Imad Koueb,,Male,Dec,NR,Outdoor
 6873,LBN,El Djezair,ALG,1975-08-30,Elie Sfeir,,Male,Dec,NR,Outdoor
-8025,LBR,Eugene OR,USA,2008-06-30,Jangy Addy,1985.0,Male,Dec,NR,Outdoor
-7632,LCA,Tucson AZ,USA,1998-03-27,Dominic Johnson,1975.0,Male,Dec,NR,Outdoor
+8025,LBR,Eugene,USA,2008-06-30,Jangy Addy,1985.0,Male,Dec,NR,Outdoor
+7632,LCA,Tucson,USA,1998-03-27,Dominic Johnson,1975.0,Male,Dec,NR,Outdoor
 6629,LIE,Tokyo,JPN,1964-10-20,Alois Büchel,1941.0,Male,Dec,NR,Outdoor
 8437,LTU,Stayki,URS,1988-07-03,Rišardas Malachovskis,1965.0,Male,Dec,NR,Outdoor
 7484,LUX,Bruxelles,BEL,1985-06-23,Marc Kemp,1960.0,Male,Dec,NR,Outdoor
@@ -121,7 +121,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 5848,MOZ,El Djezair,ALG,1978-06-27,Candido Coelho,,Male,Dec,NR,Outdoor
 7591,MRI,Brazzaville,CGO,2015-09-14,Guillaume Thierry,1986.0,Male,Dec,NR,Outdoor
 6526,MYA,Yangon,MYA,1986-01-04,Soe Myint Aung,,Male,Dec,NR,Outdoor
-6647,NAM,Humble TX,USA,2021-05-15,Timon Dresselhaus,,Male,Dec,NR,Outdoor
+6647,NAM,Humble,USA,2021-05-15,Timon Dresselhaus,,Male,Dec,NR,Outdoor
 6195,NCA,Panama,PAN,1970-03-07,Donald Velez,1948.0,Male,Dec,NR,Outdoor
 8539,NED,Götzis,AUT,2017-05-28,Eelco Sintnicolaas,1987.0,Male,Dec,NR,Outdoor
 5355,NEP,Pokhara,NEP,1987-09-28,Dambar Singh Kuwar,,Male,Dec,NR,Outdoor
@@ -132,16 +132,16 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 8359,NZL,Christchurch,NZL,1987-03-22,Simon Poelman,1963.0,Male,Dec,NR,Outdoor
 5934,OMA,Dubai,UAE,2012-12-13,Hussein Ali Al-Fedheili,,Male,Dec,NR,Outdoor
 6747,PAK,Lahore,PAK,2001-03-15,Ghulam Abbas,,Male,Dec,NR,Outdoor
-7043,PAN,Fairfax VA,USA,1999-05-22,Antonio Morales,1979.0,Male,Dec,NR,Outdoor
+7043,PAN,Fairfax,USA,1999-05-22,Antonio Morales,1979.0,Male,Dec,NR,Outdoor
 6943,PAR,Asunción,PAR,1982-10-13,Claudio Escaruiza,1958.0,Male,Dec,NR,Outdoor
 7021,PER,Mainz,GER,1980-06-08,Miro Ronac,1961.0,Male,Dec,NR,Outdoor
 7469,PHI,Hanoi,VIE,2022-05-15,Aries Toledo,1993.0,Male,Dec,NR,Outdoor
 5220,PLE,Latakia,SYR,1992-08-19,Mamdouh Ali,,Male,Dec,NR,Outdoor
-7178,PNG,Emmitsburg MD,USA,1992-06-28,Erich Momberger,1968.0,Male,Dec,NR,Outdoor
+7178,PNG,Emmitsburg,USA,1992-06-28,Erich Momberger,1968.0,Male,Dec,NR,Outdoor
 8566,POL,Alhama de Murcia,ESP,1998-05-17,Sebastian Chmara,1971.0,Male,Dec,NR,Outdoor
 8213,POR,Kaunas,LTU,2001-07-01,Mário Aníbal,1972.0,Male,Dec,NR,Outdoor
 7485,PRK,Maebashi,JPN,1997-04-27,Kim Sam Ryong,,Male,Dec,NR,Outdoor
-8532,PUR,Eugene OR,USA,2022-07-24,Ayden Owens-Delerme,2000.0,Male,Dec,NR,Outdoor
+8532,PUR,Eugene,USA,2022-07-24,Ayden Owens-Delerme,2000.0,Male,Dec,NR,Outdoor
 7730,QAT,Ratingen,GER,2004-06-27,Ahmed Hassan Moussa,1981.0,Male,Dec,NR,Outdoor
 7843,ROU,Paris,FRA,1975-06-08,Vasile Bogdan,1950.0,Male,Dec,NR,Outdoor
 8398,RSA,Götzis,AUT,2015-05-31,Willem Coertzen,1982.0,Male,Dec,NR,Outdoor
@@ -169,15 +169,15 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 7809,THA,Jakarta,INA,2018-08-26,Sutthisak Singkhon,1996.0,Male,Dec,NR,Outdoor
 7846,TJK,Leningrad,URS,1982-07-16,Igor Sobolevski,,Male,Dec,NR,Outdoor
 7452,TKM,Bryansk,URS,1990-06-18,Dmitri Goryunov,,Male,Dec,NR,Outdoor
-4536,TKS,St. Louis MO,USA,2009-04-05,Alvirto Smith,,Male,Dec,NR,Outdoor
-5068,TOG,Council Bluffs IA,USA,2019-05-05,Corneille Logo,,Male,Dec,NR,Outdoor
-8009,TPE,Walnut CA,USA,1963-04-28,Yang Chuan-kwang,1933.0,Male,Dec,NR,Outdoor
+4536,TKS,St. Louis,USA,2009-04-05,Alvirto Smith,,Male,Dec,NR,Outdoor
+5068,TOG,Council Bluffs,USA,2019-05-05,Corneille Logo,,Male,Dec,NR,Outdoor
+8009,TPE,Walnut,USA,1963-04-28,Yang Chuan-kwang,1933.0,Male,Dec,NR,Outdoor
 7212,TTO,Winnipeg,CAN,2005-07-16,Patrick Russell,1982.0,Male,Dec,NR,Outdoor
 8023,TUN,Helsinki,FIN,2005-08-10,Hamdi Dhouibi,1982.0,Male,Dec,NR,Outdoor
-7757,TUR,Azusa CA,USA,1996-04-19,Alper Kasapoglu,1966.0,Male,Dec,NR,Outdoor
+7757,TUR,Azusa,USA,1996-04-19,Alper Kasapoglu,1966.0,Male,Dec,NR,Outdoor
 6596,UAE,Doha,QAT,1994-04-08,Ibrahim Nasser Al-Matrooshi,,Male,Dec,NR,Outdoor
 6596,UAE,El Djezair,ALG,2004-10-05,Mohamed Abdallah Derouiche,,Male,Dec,NR,Outdoor
-6805,UGA,Dallas TX,USA,2003-01-06,Teddy Sondota Ruge,,Male,Dec,NR,Outdoor
+6805,UGA,Dallas,USA,2003-01-06,Teddy Sondota Ruge,,Male,Dec,NR,Outdoor
 8709,UKR,Neubrandenburg,GER,1984-06-03,Aleksandr Apaychev,1961.0,Male,Dec,NR,Outdoor
 6602,URU,Montevideo,URU,1998-11-22,Sebastián Ortiz,1977.0,Male,Dec,NR,Outdoor
 9045,USA,Beijing,CHN,2015-08-29,Ashton Eaton,1988.0,Male,Dec,NR,Outdoor
@@ -187,4 +187,4 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 7755,VIE,Guangzhou,CHN,2010-11-25,Vu Van Huyen,1983.0,Male,Dec,NR,Outdoor
 4419,VIN,Kingston,JAM,1966-08-06,Ayrton Clouden,,Male,Dec,NR,Outdoor
 5443,ZAM,Dar-es-Salaam,TAN,1972-03-12,Samson Mubangalala,1943.0,Male,Dec,NR,Outdoor
-7491,ZIM,Santa Barbara CA,USA,2015-06-13,Keegan Cooke,1988.0,Male,Dec,NR,Outdoor
+7491,ZIM,Santa Barbara,USA,2015-06-13,Keegan Cooke,1988.0,Male,Dec,NR,Outdoor

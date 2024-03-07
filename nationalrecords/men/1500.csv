@@ -14,9 +14,9 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 3:29.41,AUS,Oslo,NOR,2023-06-15,Olli Hoare,1997.0,Male,1500,NR,Outdoor
 3:34.69,AUT,Kassel,GER,2000-06-07,Günther Weidlinger,1978.0,Male,1500,NR,Outdoor
 3:43.7,AZE,Baku,URS,1979-04-22,Boris Kutukov,,Male,1500,NR,Outdoor
-3:45.72,BAH,Austin TX,USA,1983-05-17,William Johnson,,Male,1500,NR,Outdoor
+3:45.72,BAH,Austin,USA,1983-05-17,William Johnson,,Male,1500,NR,Outdoor
 3:50.46,BAN,Calcutta,IND,1987-11-23,Ahmed Mustaque,,Male,1500,NR,Outdoor
-3:47.82,BAR,Austin TX,USA,1991-04-04,Leo Games,,Male,1500,NR,Outdoor
+3:47.82,BAR,Austin,USA,1991-04-04,Leo Games,,Male,1500,NR,Outdoor
 3:29.18,BDI,Bruxelles,BEL,1997-08-22,Vénuste Niyongabo,1973.0,Male,1500,NR,Outdoor
 3:33.06,BEL,Génève,SUI,2021-06-12,Ismael Debjani,1990.0,Male,1500,NR,Outdoor
 3:54.08,BEN,Zaria,NGR,2021-05-29,Sylvain Azonhin,,Male,1500,NR,Outdoor
@@ -30,7 +30,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 3:33.25,BRA,Rieti,ITA,2005-08-28,Hudson de Souza,1977.0,Male,1500,NR,Outdoor
 3:29.14,BRN,Roma,ITA,2006-07-14,Rashid Ramzi,1980.0,Male,1500,NR,Outdoor
 3:57.51,BRU,Darwin,AUS,2005-05-17,Jimmy Anak Ahar,,Male,1500,NR,Outdoor
-3:39.34,BUL,Azusa CA,USA,2022-04-15,Martin Prodanov,1999.0,Male,1500,NR,Outdoor
+3:39.34,BUL,Azusa,USA,2022-04-15,Martin Prodanov,1999.0,Male,1500,NR,Outdoor
 3:53.15,BUR,Ouagadougou,BUR,1995-12-07,Jean-Bernard Yaro,,Male,1500,NR,Outdoor
 3:48.07,CAF,Saint-Maur,FRA,2005-06-08,Arnold Gabin Kangai,1984.0,Male,1500,NR,Outdoor
 3:59.97,CAM,Hangzhou,CHN,2023-09-30,Chhun Bunthorn,1993.0,Male,1500,NR,Outdoor
@@ -47,7 +47,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 3:41.99,COL,Castellón,ESP,2023-06-14,Carlos Andrés San Martín,1993.0,Male,1500,NR,Outdoor
 3:46.96,COM,Marseille,FRA,1996-05-06,Mohamed Ahmed,,Male,1500,NR,Outdoor
 3:45.94,CPV,Bilbao,ESP,2017-06-24,Samuel Freire,1990.0,Male,1500,NR,Outdoor
-3:40.25,CRC,Azusa CA,USA,2023-04-15,Juan Diego Castro,2000.0,Male,1500,NR,Outdoor
+3:40.25,CRC,Azusa,USA,2023-04-15,Juan Diego Castro,2000.0,Male,1500,NR,Outdoor
 3:33.30,CRO,Monaco,MON,1998-08-08,Branko Zorko,1967.0,Male,1500,NR,Outdoor
 3:35.03,CUB,Huelva,ESP,2012-06-07,Maurys Surel Castillo,1984.0,Male,1500,NR,Outdoor
 3:39.50,CYP,Huelva,ESP,2016-06-03,Amine Khadiri,1988.0,Male,1500,NR,Outdoor
@@ -55,9 +55,9 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 3:31.17,DEN,Zürich,SUI,1997-08-13,Robert K. Andersen,1972.0,Male,1500,NR,Outdoor
 3:29.58,DJI,Monaco,MON,2014-07-18,Ayanleh Souleiman,1992.0,Male,1500,NR,Outdoor
 3:36.60,DMA,Abbotsford,CAN,1996-06-02,Steve Agar,1968.0,Male,1500,NR,Outdoor
-3:43.57,DOM,Stanford CA,USA,2002-03-30,Isidro Pimentel,1977.0,Male,1500,NR,Outdoor
+3:43.57,DOM,Stanford,USA,2002-03-30,Isidro Pimentel,1977.0,Male,1500,NR,Outdoor
 3:37.88,ECU,Río de Janeiro,BRA,2007-07-25,Byron Piedra,1982.0,Male,1500,NR,Outdoor
-3:38.16,EGY,Stockholm/S,SWE,2011-07-29,Mohamed Ahmed Hamada,1992.0,Male,1500,NR,Outdoor
+3:38.16,EGY,Stockholm,SWE,2011-07-29,Mohamed Ahmed Hamada,1992.0,Male,1500,NR,Outdoor
 3:35.96,ERI,Huelva,ESP,2009-06-10,Hais Welday,1989.0,Male,1500,NR,Outdoor
 3:52.12,ESA,San Salvador,ESA,2023-07-06,Aarón Alexander Hernández Bolaños,2000.0,Male,1500,NR,Outdoor
 3:28.76,ESP,Monaco,MON,2021-07-09,Mohamed Katir,1998.0,Male,1500,NR,Outdoor
@@ -75,28 +75,28 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 3:42.4,GEO,Moskva,URS,1979-07-28,Michail Schapalov,,Male,1500,NR,Outdoor
 3:46.14,GEQ,Kortrijk,BEL,2018-07-14,Benjamin Enzema,1989.0,Male,1500,NR,Outdoor
 3:31.58,GER,Koblenz,FRG,1980-08-27,Thomas Wessinghage,1952.0,Male,1500,NR,Outdoor
-3:40.23,GHA,Nashville TN,USA,2018-06-02,Sampson Laari,1993.0,Male,1500,NR,Outdoor
+3:40.23,GHA,Nashville,USA,2018-06-02,Sampson Laari,1993.0,Male,1500,NR,Outdoor
 3:43.84,GIB,Gold Coast,AUS,2018-04-14,Harvey Dixon,1993.0,Male,1500,NR,Outdoor
 3:36.74,GRE,Köln,GER,1997-08-24,Panayiótis Stroubákos,1972.0,Male,1500,NR,Outdoor
 3:50.3,GRN,Pointe-a-Pierre,TTO,1972-03-19,Donald Pierre,1953.0,Male,1500,NR,Outdoor
-3:35.32,GUA,Trabuco Hills CA,USA,2021-07-18,Luis Grijalva,1999.0,Male,1500,NR,Outdoor
+3:35.32,GUA,Trabuco Hills,USA,2021-07-18,Luis Grijalva,1999.0,Male,1500,NR,Outdoor
 3:51.96,GUI,Barcelona,ESP,1992-08-03,Mohamed Sy Savane,1968.0,Male,1500,NR,Outdoor
-3:52.24,GUM,Edwardsville IL,USA,1997-05-24,Brent Mark Butler,1974.0,Male,1500,NR,Outdoor
-3:43.81,GUY,Fairfax VA,USA,2019-04-13,Quamel Prince,1994.0,Male,1500,NR,Outdoor
+3:52.24,GUM,Edwardsville,USA,1997-05-24,Brent Mark Butler,1974.0,Male,1500,NR,Outdoor
+3:43.81,GUY,Fairfax,USA,2019-04-13,Quamel Prince,1994.0,Male,1500,NR,Outdoor
 3:45.96,HAI,Gent,BEL,2009-07-21,Moise Joseph,1981.0,Male,1500,NR,Outdoor
 3:57.56,HKG,Hongkong,HKG,2023-11-25,Khan Mohammad Kamran,2001.0,Male,1500,NR,Outdoor
 3:59.2,HON,Debrecen,HUN,1986-06-28,Jorge Elias Ponce,,Male,1500,NR,Outdoor
-3:35.57,HUN,Atlanta GA,USA,1996-08-01,Balázs Tölgyesi,1973.0,Male,1500,NR,Outdoor
+3:35.57,HUN,Atlanta,USA,1996-08-01,Balázs Tölgyesi,1973.0,Male,1500,NR,Outdoor
 3:46.21,INA,Jakarta,INA,1995-09-24,Julius Leuwol,,Male,1500,NR,Outdoor
 3:35.24,IND,Berlin,GER,2019-09-01,Jinson Johnson,1991.0,Male,1500,NR,Outdoor
 3:37.09,IRI,Guangzhou,CHN,2010-11-23,Sadjad Moradi,1983.0,Male,1500,NR,Outdoor
 3:30.42,IRL,Chorzów,POL,2023-07-16,Andrew Coscoran,1996.0,Male,1500,NR,Outdoor
 3:42.50,IRQ,Incheon,KOR,2014-09-29,Adnan Taees Akkar,1980.0,Male,1500,NR,Outdoor
-3:40.36,ISL,Raleigh NC,USA,2023-03-23,Baldvin Thór Magnússon,1999.0,Male,1500,NR,Outdoor
+3:40.36,ISL,Raleigh,USA,2023-03-23,Baldvin Thór Magnússon,1999.0,Male,1500,NR,Outdoor
 3:40.90,ISR,Uden,NED,2009-06-27,Gezachw Yossef,1975.0,Male,1500,NR,Outdoor
-3:47.75,ISV,Tempe AZ,USA,2002-04-13,Billy Bohlke,1978.0,Male,1500,NR,Outdoor
+3:47.75,ISV,Tempe,USA,2002-04-13,Billy Bohlke,1978.0,Male,1500,NR,Outdoor
 3:32.78,ITA,Rieti,ITA,1990-09-09,Gennaro Di Napoli,1968.0,Male,1500,NR,Outdoor
-3:46.47,IVB,Athens OH,USA,1994-05-20,Greg Rhymer,1972.0,Male,1500,NR,Outdoor
+3:46.47,IVB,Athens,USA,1994-05-20,Greg Rhymer,1972.0,Male,1500,NR,Outdoor
 3:39.19,JAM,Victoria,CAN,1994-08-28,Steve Green,1971.0,Male,1500,NR,Outdoor
 3:45.0,JOR,Latakia,SYR,1992-09-07,Jihad Al-Balaoui,1969.0,Male,1500,NR,Outdoor
 3:35.42,JPN,Chitose,JPN,2021-07-17,Kazuki Kawamura,1997.0,Male,1500,NR,Outdoor
@@ -111,9 +111,9 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 4:04.82,LAO,Barcelona,ESP,1992-08-03,Khambieng Khamiar,1967.0,Male,1500,NR,Outdoor
 3:37.35,LAT,Sollentuna,SWE,2011-06-28,Dmitrijs Jurkevičs,1987.0,Male,1500,NR,Outdoor
 3:42.11,LBA,Rabat,MAR,2012-05-27,Aboubaker El-Gatrouni,1977.0,Male,1500,NR,Outdoor
-3:44.11,LBN,Azusa CA,USA,2022-04-15,Munir Kabbara,2000.0,Male,1500,NR,Outdoor
+3:44.11,LBN,Azusa,USA,2022-04-15,Munir Kabbara,2000.0,Male,1500,NR,Outdoor
 4:01.56,LBR,Cotonou,BEN,2004-06-27,Bill Rogers,1985.0,Male,1500,NR,Outdoor
-3:48.50,LCA,Gainesville FL,USA,2001-03-31,Zepherinus Joseph,1975.0,Male,1500,NR,Outdoor
+3:48.50,LCA,Gainesville,USA,2001-03-31,Zepherinus Joseph,1975.0,Male,1500,NR,Outdoor
 3:47.36,LES,Melbourne,AUS,2006-03-24,Moeketsi Mosuhli,1981.0,Male,1500,NR,Outdoor
 3:39.34,LIE,Montréal,CAN,1976-07-29,Günther Hasler,1951.0,Male,1500,NR,Outdoor
 3:37.38,LTU,Sotteville-lès-Rouen,FRA,2021-07-11,Simas Bertašius,1993.0,Male,1500,NR,Outdoor
@@ -125,7 +125,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 3:42.73,MAW,Avellino,ITA,2008-06-11,Chauncy Master,1985.0,Male,1500,NR,Outdoor
 3:37.2,MDA,Podolsk,URS,1976-07-22,Anatoliy Mamontov,1949.0,Male,1500,NR,Outdoor
 3:57.44,MDV,Bhubaneshwar,IND,2023-06-18,Hussain Fazeel,1989.0,Male,1500,NR,Outdoor
-3:36.67,MEX,New York NY,USA,2009-05-30,Pablo Solares,1984.0,Male,1500,NR,Outdoor
+3:36.67,MEX,New York,USA,2009-05-30,Pablo Solares,1984.0,Male,1500,NR,Outdoor
 3:49.7,MGL,Ulan Bator,MGL,1980-06-01,Davaajav Ganbold,,Male,1500,NR,Outdoor
 4:36.0,MHL,Majuro,MHL,1999-07-30,Lani Mejbon,,Male,1500,NR,Outdoor
 3:46.6,MKD,Beograd,YUG,1970-06-27,Sotir Gavrilovski,1945.0,Male,1500,NR,Outdoor
@@ -154,7 +154,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 3:41.4,PAK,Köln,GER,1970-08-11,Mohamed Younis,1948.0,Male,1500,NR,Outdoor
 3:41.73,PAN,München,FRG,1972-09-08,Donaldo Arza,1946.0,Male,1500,NR,Outdoor
 3:48.74,PAR,Seoul,KOR,1988-09-19,Ramon Lopez,1963.0,Male,1500,NR,Outdoor
-3:34.67,PER,Stockholm/S,SWE,2017-06-18,David Torrence,1985.0,Male,1500,NR,Outdoor
+3:34.67,PER,Stockholm,SWE,2017-06-18,David Torrence,1985.0,Male,1500,NR,Outdoor
 3:47.65,PHI,Palembang,INA,2011-11-13,Mervin Guarte,1992.0,Male,1500,NR,Outdoor
 3:45.32,PLE,Incheon,KOR,2014-09-28,Wesam Al-Massri,1990.0,Male,1500,NR,Outdoor
 4:20.11,PLW,Apia,SAM,2007-05-09,Douglas Schmidt,1991.0,Male,1500,NR,Outdoor
@@ -162,12 +162,12 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 3:30.42,POL,Monaco,MON,2021-07-09,Marcin Lewandowski,1987.0,Male,1500,NR,Outdoor
 3:30.07,POR,Monaco,MON,2002-07-19,Rui Silva,1977.0,Male,1500,NR,Outdoor
 3:46.0,PRK,Pyongyang,PRK,1963-10-20,Kang Hyong Man,,Male,1500,NR,Outdoor
-3:35.63,PUR,Portland OR,USA,2021-06-03,Rob Napolitano,1994.0,Male,1500,NR,Outdoor
+3:35.63,PUR,Portland,USA,2021-06-03,Rob Napolitano,1994.0,Male,1500,NR,Outdoor
 3:31.04,QAT,Doha,QAT,2005-05-13,Dahame Najem Bashir,1979.0,Male,1500,NR,Outdoor
 3:34.13,ROU,Bucureşti,ROU,1997-06-13,Alexandru Vasile,1975.0,Male,1500,NR,Outdoor
 3:31.93,RSA,Rieti,ITA,2013-09-08,Johan Cronje,1982.0,Male,1500,NR,Outdoor
 3:32.28,RUS,Roma,ITA,2000-06-30,Vyacheslav Shabunin,1969.0,Male,1500,NR,Outdoor
-3:38.16,RWA,Stanford CA,USA,2000-07-29,Alexis Sharangabo,1978.0,Male,1500,NR,Outdoor
+3:38.16,RWA,Stanford,USA,2000-07-29,Alexis Sharangabo,1978.0,Male,1500,NR,Outdoor
 3:50.24,SAM,Auckland,NZL,2008-03-29,Aunese Curreen,1985.0,Male,1500,NR,Outdoor
 3:38.88,SEN,Trento,ITA,2014-07-15,Mor Seck,1985.0,Male,1500,NR,Outdoor
 3:52.46,SEY,Victoria,CAN,2001-05-05,Ronny Marie,,Male,1500,NR,Outdoor
@@ -175,7 +175,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 3:57.67,SKN,Road Town,IVB,2016-07-03,Masai Jeffers,,Male,1500,NR,Outdoor
 3:52.29,SLE,Lagos,NGR,1973-01-11,Victor Sesay,,Male,1500,NR,Outdoor
 3:39.29,SLO,Zagreb,CRO,2002-07-08,Aleš Tomić,1977.0,Male,1500,NR,Outdoor
-3:51.30,SMR,Nashville TN,USA,2018-06-02,Joseph William Guerra,1990.0,Male,1500,NR,Outdoor
+3:51.30,SMR,Nashville,USA,2018-06-02,Joseph William Guerra,1990.0,Male,1500,NR,Outdoor
 4:00.95,SOL,Tafuna,ASA,1997-08-20,Selwyn Kole,1973.0,Male,1500,NR,Outdoor
 3:30.55,SOM,Rieti,ITA,1989-09-03,Abdi Bile,1962.0,Male,1500,NR,Outdoor
 3:34.20,SRB,Bern,SUI,2023-08-04,Elzan Bibić,1999.0,Male,1500,NR,Outdoor
@@ -184,14 +184,14 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 4:02.3,STP,Luanda,ANG,1984-01-02,Antonio Cadio Paraiso,,Male,1500,NR,Outdoor
 3:31.76,SUD,Monaco,MON,2011-07-22,Abubaker Kaki,1989.0,Male,1500,NR,Outdoor
 3:31.75,SUI,Zürich,SUI,1985-08-21,Pierre Délèze,1958.0,Male,1500,NR,Outdoor
-3:55.69,SUR,Ann Arbor MI,USA,1991-05-12,Tommy Asinga,1968.0,Male,1500,NR,Outdoor
+3:55.69,SUR,Ann Arbor,USA,1991-05-12,Tommy Asinga,1968.0,Male,1500,NR,Outdoor
 3:39.41,SVK,Athína,GRE,1977-06-26,Jozef Lences,1957.0,Male,1500,NR,Outdoor
 3:32.00,SWE,Oslo,NOR,2023-06-15,Andreas Almgren,1995.0,Male,1500,NR,Outdoor
-3:44.89,SWZ,Knoxville TN,USA,1995-04-07,Sipho Dlamini,,Male,1500,NR,Outdoor
+3:44.89,SWZ,Knoxville,USA,1995-04-07,Sipho Dlamini,,Male,1500,NR,Outdoor
 3:48.12,SYR,Beyrouth,LBN,1999-06-30,Mahmoud Kheirat,1970.0,Male,1500,NR,Outdoor
 3:32.16,TAN,Christchurch,NZL,1974-02-02,Filbert Bayi,1953.0,Male,1500,NR,Outdoor
 4:03.1,TGA,Nuku'Alofa,TGA,1979-04-28,Tui'ese Ngaluafe,,Male,1500,NR,Outdoor
-3:40.50,THA,Azusa CA,USA,2023-04-15,Kieran Tuntivate,1997.0,Male,1500,NR,Outdoor
+3:40.50,THA,Azusa,USA,2023-04-15,Kieran Tuntivate,1997.0,Male,1500,NR,Outdoor
 3:44.51,TJK,Tula,RUS,2004-06-24,Yevgeniy Stakanov,1980.0,Male,1500,NR,Outdoor
 3:42.48,TKM,Kyiv,URS,1982-07-27,Rashid Kayumov,,Male,1500,NR,Outdoor
 4:02.0,TKS,Cockburn Town,TKS,1996-03-20,Idi Gardiner,,Male,1500,NR,Outdoor
@@ -210,7 +210,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 3:58.28,VAN,Port Vila,VAN,1993-12-16,Tawai Keiruan,1972.0,Male,1500,NR,Outdoor
 3:36.96,VEN,Daegu,KOR,2011-09-01,Eduard Villanueva,1984.0,Male,1500,NR,Outdoor
 3:45.31,VIE,Nakhon Ratchasima,THA,2007-12-11,Nguyen Dinh Cuong,1982.0,Male,1500,NR,Outdoor
-3:46.20,VIN,London ON,CAN,2016-06-19,DeLohnni Nicol-Samuel,1991.0,Male,1500,NR,Outdoor
+3:46.20,VIN,London,CAN,2016-06-19,DeLohnni Nicol-Samuel,1991.0,Male,1500,NR,Outdoor
 3:49.70,YEM,Doha,QAT,2019-04-09,Mohamed Mamoum Al-Rajah,,Male,1500,NR,Outdoor
 3:42.09,ZAM,Orvieto,ITA,2012-06-03,Tonny Wamulwa,1989.0,Male,1500,NR,Outdoor
 3:35.76,ZIM,Grosseto,ITA,1991-08-11,Philemon Hanneck,1971.0,Male,1500,NR,Outdoor
@@ -218,23 +218,23 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 3:34.16,ALG,Sevilla,ESP,1991-02-28,Noureddine Morceli,1970.0,Male,1500,NR,Indoor
 3:42.23,AND,Istanbul,TUR,2023-03-02,Pol Moya,1996.0,Male,1500,NR,Indoor
 3:46.48,ANG,Pombal,POR,2009-02-21,Túlio António,1983.0,Male,1500,NR,Indoor
-4:04.14,ANT,Indianapolis IN,USA,1987-03-06,Dale Jones,1964.0,Male,1500,NR,Indoor
+4:04.14,ANT,Indianapolis,USA,1987-03-06,Dale Jones,1964.0,Male,1500,NR,Indoor
 3:38.03,ARG,Sabadell,ESP,2022-02-08,Federico Bruno,1993.0,Male,1500,NR,Indoor
 3:38.12,ARM,Beograd,SRB,2024-02-13,Yervand Mkrtchyan,1996.0,Male,1500,NR,Indoor
-3:32.35,AUS,Staten Island NY,USA,2021-02-13,Olli Hoare,1997.0,Male,1500,NR,Indoor
+3:32.35,AUS,Staten Island,USA,2021-02-13,Olli Hoare,1997.0,Male,1500,NR,Indoor
 3:37.36,AUT,Ostrava,CZE,2024-01-30,Raphael Pallitsch,1989.0,Male,1500,NR,Indoor
 3:55.6,AZE,Kishinev,URS,1991-02-01,Vadim Loginov,,Male,1500,NR,Indoor
 3:33.17,BDI,Liévin,FRA,1998-02-22,Vénuste Niyongabo,1973.0,Male,1500,NR,Indoor
 3:36.38,BEL,Ostrava,CZE,2022-02-03,Ismael Debjani,1990.0,Male,1500,NR,Indoor
 4:20.68,BHU,Macau,MAC,2007-10-30,Kezang Dorji,1986.0,Male,1500,NR,Indoor
 3:38.47,BLR,Ostrava,CZE,2022-02-03,Illia Karnavukhau,1999.0,Male,1500,NR,Indoor
-3:44.33,BOT,Indianapolis IN,USA,1987-03-06,Mbiganyi Thee,1962.0,Male,1500,NR,Indoor
+3:44.33,BOT,Indianapolis,USA,1987-03-06,Mbiganyi Thee,1962.0,Male,1500,NR,Indoor
 3:39.13,BRA,Toruń,POL,2020-02-08,Thiago André,1995.0,Male,1500,NR,Indoor
-3:36.28,BRN,Stockholm/G,SWE,2007-02-20,Bilal Mansour Ali,1988.0,Male,1500,NR,Indoor
+3:36.28,BRN,Stockholm,SWE,2007-02-20,Bilal Mansour Ali,1988.0,Male,1500,NR,Indoor
 3:41.7,BUL,Sofia,BUL,1981-02-08,Evgeni Ignatov,1959.0,Male,1500,NR,Indoor
 4:06.10,CAM,Pattaya,THA,2006-02-11,Bunting Hem,1985.0,Male,1500,NR,Indoor
-3:36.13,CAN,Boston MA,USA,2020-02-28,Justyn Knight,1996.0,Male,1500,NR,Indoor
-4:01.60,CGO,Göteborg/FH,SWE,2014-02-23,Bienvenue Musore,1990.0,Male,1500,NR,Indoor
+3:36.13,CAN,Boston,USA,2020-02-28,Justyn Knight,1996.0,Male,1500,NR,Indoor
+4:01.60,CGO,Göteborg,SWE,2014-02-23,Bienvenue Musore,1990.0,Male,1500,NR,Indoor
 3:39.39,CHI,Sabadell,ESP,2016-02-19,Iván López,1990.0,Male,1500,NR,Indoor
 3:43.40,CHN,Tianjin,CHN,2023-03-15,Liu Dezhu,2000.0,Male,1500,NR,Indoor
 3:51.08,CIV,Eaubonne,FRA,2004-02-07,Siakha Bamba,1975.0,Male,1500,NR,Indoor
@@ -244,7 +244,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 3:42.58,CYP,Pireás,GRE,1998-02-01,Hristos Papapetrou,1973.0,Male,1500,NR,Indoor
 3:36.53,CZE,Toruń,POL,2021-02-17,Filip Sasínek,1996.0,Male,1500,NR,Indoor
 3:38.54,DEN,Metz,FRA,2024-02-03,Kristian Uldbjerg Hansen,1996.0,Male,1500,NR,Indoor
-3:35.2,DJI,Stockholm/G,SWE,2014-02-06,Ayanleh Souleiman,1992.0,Male,1500,NR,Indoor
+3:35.2,DJI,Stockholm,SWE,2014-02-06,Ayanleh Souleiman,1992.0,Male,1500,NR,Indoor
 3:42.34,DMA,Sindelfingen,GER,1997-03-01,Steve Agar,1968.0,Male,1500,NR,Indoor
 3:39.09,ERI,Beograd,SRB,2024-02-13,Yobiel Weldrufael,2005.0,Male,1500,NR,Indoor
 3:33.28,ESP,Birmingham,GBR,2023-02-25,Adel Mechaal,1990.0,Male,1500,NR,Indoor
@@ -254,22 +254,22 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 3:34.39,FRA,Liévin,FRA,2024-02-10,Azeddine Habz,1993.0,Male,1500,NR,Indoor
 3:32.48,GBR,Birmingham,GBR,2023-02-25,Neil Gourley,1995.0,Male,1500,NR,Indoor
 3:50.82,GEO,Panevežys,URS,1989-02-11,Oleg Khokhlov,,Male,1500,NR,Indoor
-3:34.13,GER,Stockholm/G,SWE,2015-02-19,Homiyu Tesfaye,1993.0,Male,1500,NR,Indoor
+3:34.13,GER,Stockholm,SWE,2015-02-19,Homiyu Tesfaye,1993.0,Male,1500,NR,Indoor
 3:49.89,GIB,Birmingham,GBR,2018-03-03,Harvey Dixon,1993.0,Male,1500,NR,Indoor
 3:39.63,GRE,Pireás,GRE,1998-02-01,Panayiótis Papoúlias,1969.0,Male,1500,NR,Indoor
-3:41.11,GUA,Spokane WA,USA,2022-02-11,Luis Grijalva,1999.0,Male,1500,NR,Indoor
+3:41.11,GUA,Spokane,USA,2022-02-11,Luis Grijalva,1999.0,Male,1500,NR,Indoor
 4:14.03,HKG,Macau,MAC,2007-02-11,Chan Ka Ho,1984.0,Male,1500,NR,Indoor
 3:37.55,HUN,Wien,AUT,2021-01-30,István Szögi,1995.0,Male,1500,NR,Indoor
 3:41.18,IND,Doha,QAT,2008-02-15,Chatholi Hamza,1981.0,Male,1500,NR,Indoor
 3:48.32,IRI,Budapest,HUN,1989-03-04,Hamid Sadjadi,1969.0,Male,1500,NR,Indoor
 3:33.49,IRL,Birmingham,GBR,2023-02-25,Andrew Coscoran,1996.0,Male,1500,NR,Indoor
-3:44.38,IRQ,Stockholm/G,SWE,2009-02-18,Adnan Taees Akkar,1980.0,Male,1500,NR,Indoor
+3:44.38,IRQ,Stockholm,SWE,2009-02-18,Adnan Taees Akkar,1980.0,Male,1500,NR,Indoor
 3:41.05,ISL,Reykjavik,ISL,2024-02-04,Baldvin Thór Magnússon,1999.0,Male,1500,NR,Indoor
-3:47.85,ISR,Clemson SC,USA,2005-02-25,Itai Maggidi,1981.0,Male,1500,NR,Indoor
+3:47.85,ISR,Clemson,USA,2005-02-25,Itai Maggidi,1981.0,Male,1500,NR,Indoor
 3:35.63,ITA,Toruń,POL,2024-02-06,Ossama Meslek,1997.0,Male,1500,NR,Indoor
-3:40.7,JAM,New York NY,USA,1974-02-08,Byron Dyce,1948.0,Male,1500,NR,Indoor
+3:40.7,JAM,New York,USA,1974-02-08,Byron Dyce,1948.0,Male,1500,NR,Indoor
 3:53.65,JOR,Ashgabat,TKM,2017-09-20,Awwad Al-Sharafat,1993.0,Male,1500,NR,Indoor
-3:39.12,JPN,Boston MA,USA,2024-02-10,Ryuma Aoki,1997.0,Male,1500,NR,Indoor
+3:39.12,JPN,Boston,USA,2024-02-10,Ryuma Aoki,1997.0,Male,1500,NR,Indoor
 3:32.11,KEN,Stuttgart,GER,1998-02-01,Laban Rotich,1969.0,Male,1500,NR,Indoor
 3:45.82,KGZ,Ust-Kamenogorsk,KAZ,2024-01-20,Nursultan Keneshbekov,2000.0,Male,1500,NR,Indoor
 3:47.68,KOS,Birmingham,GBR,2018-03-03,Musa Hajdari,1987.0,Male,1500,NR,Indoor
@@ -279,13 +279,13 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 3:42.84,LAT,Praha,CZE,2015-03-07,Dmitrijs Jurkevičs,1987.0,Male,1500,NR,Indoor
 3:50.8,LIE,Böblingen,GER,1977-01-29,Günther Hasler,1951.0,Male,1500,NR,Indoor
 3:38.32,LTU,Ostrava,CZE,2022-02-03,Simas Bertašius,1993.0,Male,1500,NR,Indoor
-3:35.99,LUX,Boston MA,USA,2024-02-03,Charles Grethen,1992.0,Male,1500,NR,Indoor
-4:14.11,MAC,Macau,MAC,2007-02-11,Lei Chi Keong,1987.0,Male,1500,NR,Indoor
+3:35.99,LUX,Boston,USA,2024-02-03,Charles Grethen,1992.0,Male,1500,NR,Indoor
+4:12.53,MAC,Tehran,IRI,2024-02-17,Seng Tou Ip,2000.0,Male,1500,NR,Indoor
 3:31.18,MAR,Stuttgart,GER,1997-02-02,Hicham El Guerrouj,1974.0,Male,1500,NR,Indoor
 4:23.05,MAS,Pattaya,THA,2006-02-11,Jayakumar Dewarajoo,1982.0,Male,1500,NR,Indoor
 3:58.23,MAW,Barcelona,ESP,1995-03-10,Francis Munthali,1972.0,Male,1500,NR,Indoor
 3:41.1,MDA,Milano,ITA,1978-03-12,Anatoliy Mamontov,1949.0,Male,1500,NR,Indoor
-3:38.93,MEX,Boston MA,USA,2009-02-07,Pablo Solares,1984.0,Male,1500,NR,Indoor
+3:38.93,MEX,Boston,USA,2009-02-07,Pablo Solares,1984.0,Male,1500,NR,Indoor
 3:44.98,MKD,Beograd,SRB,2021-01-31,Dario Ivanovski,1997.0,Male,1500,NR,Indoor
 4:06.70,MLI,Lisboa,POR,2001-03-09,Youssouf Diallo,1976.0,Male,1500,NR,Indoor
 4:11.84,MNE,Beograd,SRB,2018-02-24,Aleksandar Maletic,1999.0,Male,1500,NR,Indoor
@@ -293,13 +293,13 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 3:51.41,MOZ,Espinho,POR,2007-02-17,Hélio Fumo,1983.0,Male,1500,NR,Indoor
 3:36.32,NED,Apeldoorn,NED,2024-01-27,Robin Van Riel,2000.0,Male,1500,NR,Indoor
 3:30.60,NOR,Liévin,FRA,2022-02-17,Jakob Ingebrigtsen,2000.0,Male,1500,NR,Indoor
-3:34.72,NZL,Staten Island NY,USA,2021-02-13,Samuel Tanner,2000.0,Male,1500,NR,Indoor
+3:34.72,NZL,Staten Island,USA,2021-02-13,Samuel Tanner,2000.0,Male,1500,NR,Indoor
 4:03.43,PAK,Lisboa,POR,2001-03-09,Saad Jalal Uddin,1982.0,Male,1500,NR,Indoor
 3:39.79,PER,Karlsruhe,GER,2017-02-04,David Torrence,1985.0,Male,1500,NR,Indoor
 3:53.84,PLE,Sopot,POL,2014-03-07,Wesam Al-Massri,1990.0,Male,1500,NR,Indoor
 3:35.71,POL,Toruń,POL,2021-02-17,Marcin Lewandowski,1987.0,Male,1500,NR,Indoor
 3:34.23,POR,Ostrava,CZE,2024-01-30,Isaac Nader,1999.0,Male,1500,NR,Indoor
-3:37.33,PUR,Boston MA,USA,2024-02-10,Rob Napolitano,1994.0,Male,1500,NR,Indoor
+3:37.33,PUR,Boston,USA,2024-02-10,Rob Napolitano,1994.0,Male,1500,NR,Indoor
 3:36.35,QAT,Doha,QAT,2016-02-20,Mohamed Al-Garni,1992.0,Male,1500,NR,Indoor
 3:40.30,ROU,Wien,AUT,2014-01-28,Ioan Zaizan,1983.0,Male,1500,NR,Indoor
 3:35.06,RSA,Toruń,POL,2024-02-06,Tshepo Tshite,1997.0,Male,1500,NR,Indoor
@@ -309,12 +309,12 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 4:09.50,SGP,Doha,QAT,2016-02-20,Fang Jian Yong,1989.0,Male,1500,NR,Indoor
 3:43.22,SLO,Sopot,POL,2014-03-07,Mitja Krevs,1989.0,Male,1500,NR,Indoor
 3:59.05,SMR,Ancona,ITA,1986-01-25,Gian Luigi Macina,1963.0,Male,1500,NR,Indoor
-3:38.50,SOM,Fairfax VA,USA,1986-02-16,Abdi Bile,1962.0,Male,1500,NR,Indoor
+3:38.50,SOM,Fairfax,USA,1986-02-16,Abdi Bile,1962.0,Male,1500,NR,Indoor
 3:37.84,SRB,Beograd,SRB,2022-03-07,Elzan Bibić,1999.0,Male,1500,NR,Indoor
 3:38.86,SUI,Stuttgart,GER,2001-02-04,Peter Philipp,1972.0,Male,1500,NR,Indoor
 3:42.5,SVK,Bratislava,TCH,1977-03-02,Jozef Lences,1957.0,Male,1500,NR,Indoor
 3:35.47,SWE,Ostrava,CZE,2024-01-30,Samuel Pihlström,2001.0,Male,1500,NR,Indoor
-3:41.59,THA,Boston MA,USA,2020-02-14,Kieran Tuntivate,1997.0,Male,1500,NR,Indoor
+3:41.59,THA,Boston,USA,2020-02-14,Kieran Tuntivate,1997.0,Male,1500,NR,Indoor
 3:50.30,TJK,Moskva,RUS,2004-02-19,Yevgeniy Stakanov,1980.0,Male,1500,NR,Indoor
 4:02.87,TKM,Ashgabat,TKM,2017-09-19,Perhat Annagylyjov,1985.0,Male,1500,NR,Indoor
 4:02.68,TPE,Tehran,IRI,2004-02-08,Chen Fu-Pin,1984.0,Male,1500,NR,Indoor
@@ -323,8 +323,8 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 3:34.76,TUR,Karlsruhe,GER,2012-02-12,İlham Tanui Özbilen,1990.0,Male,1500,NR,Indoor
 3:39.14,UGA,Lisboa,POR,2001-03-09,Julius Achon,1976.0,Male,1500,NR,Indoor
 3:33.99,UKR,Karlsruhe,GER,2005-02-13,Ivan Heshko,1979.0,Male,1500,NR,Indoor
-3:33.34,USA,Fayetteville AR,USA,2005-02-11,Bernard Lagat,1974.0,Male,1500,NR,Indoor
+3:33.34,USA,Fayetteville,USA,2005-02-11,Bernard Lagat,1974.0,Male,1500,NR,Indoor
 3:55.21,VIE,Astana,KAZ,2023-02-11,Luong Duc Phuoc,2002.0,Male,1500,NR,Indoor
 3:43.17,YUG,Pireás,GRE,2002-02-23,Darko Radomirović,1977.0,Male,1500,NR,Indoor
 3:53.46,ZAM,Maebashi,JPN,1999-03-06,Chipako Chungu,1971.0,Male,1500,NR,Indoor
-3:44.43,ZIM,Indianapolis IN,USA,1987-03-06,Tapfumaneyi Jonga,1959.0,Male,1500,NR,Indoor
+3:44.43,ZIM,Indianapolis,USA,1987-03-06,Tapfumaneyi Jonga,1959.0,Male,1500,NR,Indoor

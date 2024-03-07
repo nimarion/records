@@ -9,7 +9,7 @@ result,nation,venue,venueCountry,date,name,sex,discipline,type,environment
 39.48,ARG,Santiago de Chile,CHI,2023-11-02,Argentina,Male,4x1,NR,Outdoor
 41.5,ARM,Tbilisi,URS,1979-05-03,Armenia,Male,4x1,NR,Outdoor
 42.35,ARU,Mayaguez,PUR,2011-07-16,Aruba,Male,4x1,NR,Outdoor
-38.17,AUS,Göteborg/U,SWE,1995-08-12,Australia,Male,4x1,NR,Outdoor
+38.17,AUS,Göteborg,SWE,1995-08-12,Australia,Male,4x1,NR,Outdoor
 39.16,AUT,Luzern,SUI,1996-06-25,Austria,Male,4x1,NR,Outdoor
 39.78,AZE,Sarajevo,BIH,2009-06-20,Azerbaijan,Male,4x1,NR,Outdoor
 38.52,BAH,Glasgow,GBR,2014-08-01,Bahamas,Male,4x1,NR,Outdoor
@@ -30,7 +30,7 @@ result,nation,venue,venueCountry,date,name,sex,discipline,type,environment
 38.99,BUL,Moskva,URS,1980-08-01,Bulgaria,Male,4x1,NR,Outdoor
 39.57,BUR,Beyrouth,LBN,2009-10-03,Burkina Faso,Male,4x1,NR,Outdoor
 41.3,CAF,Libreville,GAB,1976-07-08,Central African Republic,Male,4x1,NR,Outdoor
-37.48,CAN,Eugene OR,USA,2022-07-23,Canada,Male,4x1,NR,Outdoor
+37.48,CAN,Eugene,USA,2022-07-23,Canada,Male,4x1,NR,Outdoor
 39.54,CAY,La Habana,CUB,2009-07-04,Cayman Islands,Male,4x1,NR,Outdoor
 39.54,CGO,Ciudad de México,MEX,1979-09-12,Congo,Male,4x1,NR,Outdoor
 41.1,CHA,Québec City,CAN,1974-08-17,Chad,Male,4x1,NR,Outdoor
@@ -65,7 +65,7 @@ result,nation,venue,venueCountry,date,name,sex,discipline,type,environment
 40.40,GEO,Moskva,URS,1979-07-29,Georgia,Male,4x1,NR,Outdoor
 43.9,GEQ,Malabo,GEQ,1996-06-05,Equatorial Guinea,Male,4x1,NR,Outdoor
 37.97,GER,München,GER,2022-08-19,Germany,Male,4x1,NR,Outdoor
-38.07,GHA,Eugene OR,USA,2022-07-23,Ghana,Male,4x1,NR,Outdoor
+38.07,GHA,Eugene,USA,2022-07-23,Ghana,Male,4x1,NR,Outdoor
 44.14,GIB,Sandown,GBR,2011-06-28,Gibraltar,Male,4x1,NR,Outdoor
 38.61,GRE,Paris,FRA,1999-06-19,Greece,Male,4x1,NR,Outdoor
 40.13,GRN,St. Georges,GRN,2003-07-06,Grenada,Male,4x1,NR,Outdoor
@@ -140,7 +140,7 @@ result,nation,venue,venueCountry,date,name,sex,discipline,type,environment
 40.31,SEY,Abidjan,CIV,2017-07-25,Seychelles,Male,4x1,NR,Outdoor
 39.24,SGP,Singapore,SGP,2015-06-12,Singapore,Male,4x1,NR,Outdoor
 38.41,SKN,London,GBR,2012-08-10,Saint Kitts & Nevis,Male,4x1,NR,Outdoor
-38.91,SLE,Atlanta GA,USA,1996-08-02,Sierra Leone,Male,4x1,NR,Outdoor
+38.91,SLE,Atlanta,USA,1996-08-02,Sierra Leone,Male,4x1,NR,Outdoor
 39.20,SLO,Sevilla,ESP,2002-06-22,Slovenia,Male,4x1,NR,Outdoor
 41.15,SMR,Marsa,MLT,2023-06-03,San Marino,Male,4x1,NR,Outdoor
 41.67,SOL,Melbourne,AUS,2006-03-24,Solomon Islands,Male,4x1,NR,Outdoor
@@ -152,12 +152,12 @@ result,nation,venue,venueCountry,date,name,sex,discipline,type,environment
 41.27,SUD,El Djezair,ALG,1978-07-26,Sudan,Male,4x1,NR,Outdoor
 38.36,SUI,München,GER,2022-08-21,Switzerland,Male,4x1,NR,Outdoor
 39.81,SVK,Banská Bystrica,SVK,2000-07-01,Slovak Republic,Male,4x1,NR,Outdoor
-38.63,SWE,Atlanta GA,USA,1996-08-02,Sweden,Male,4x1,NR,Outdoor
+38.63,SWE,Atlanta,USA,1996-08-02,Sweden,Male,4x1,NR,Outdoor
 39.75,SWZ,Germiston,RSA,2017-04-22,Swaziland,Male,4x1,NR,Outdoor
 40.92,TAN,Christchurch,NZL,1974-01-31,Tanzania,Male,4x1,NR,Outdoor
 38.55,THA,Bangkok,THA,2023-07-12,Thailand,Male,4x1,NR,Outdoor
 41.17,TKS,Birmingham,GBR,2022-08-06,Turks & Caicos Islands,Male,4x1,NR,Outdoor
-39.45,TOG,Göteborg/U,SWE,1995-08-12,Togo,Male,4x1,NR,Outdoor
+39.45,TOG,Göteborg,SWE,1995-08-12,Togo,Male,4x1,NR,Outdoor
 38.76,TPE,Taipei,TPE,2019-05-26,Chinese Taipei,Male,4x1,NR,Outdoor
 37.62,TTO,Berlin,GER,2009-08-22,Trinidad & Tobago,Male,4x1,NR,Outdoor
 41.51,TUN,Radès,TUN,2005-09-03,Tunisia,Male,4x1,NR,Outdoor

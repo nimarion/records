@@ -13,7 +13,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 20:28.70,KOR,Sokcho,KOR,2001-04-18,Lee Dae-Ro,1980.0,Male,5000W,NR,Outdoor
 21:46.87,MAD,Amiens,FRA,2008-06-18,Pietron Randrianandrasana,,Male,5000W,NR,Outdoor
 20:09.63,MRI,Blois,FRA,2017-05-07,Jérome Caprice,1983.0,Male,5000W,NR,Outdoor
-19:15.0,NZL,Williamstown MA,USA,2014-06-12,Quentin Rew,1984.0,Male,5000W,NR,Outdoor
+19:15.0,NZL,Williamstown,USA,2014-06-12,Quentin Rew,1984.0,Male,5000W,NR,Outdoor
 18:17.22,POL,Reims,FRA,1992-07-03,Robert Korzeniowski,1968.0,Male,5000W,NR,Outdoor
 18:55.60,RSA,Budapest,HUN,2017-06-30,Lebogang Shange,1990.0,Male,5000W,NR,Outdoor
 18:05.49,TUN,Tunis,TUN,1997-05-01,Hatem Ghoula,1973.0,Male,5000W,NR,Outdoor
@@ -21,7 +21,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 20:44.44,ALB,Genova,ITA,2005-02-12,Orest Laniku,1987.0,Male,5000W,NR,Indoor
 31:12.0,AND,Bompas,FRA,2006-11-25,Kevin Poulet,1991.0,Male,5000W,NR,Indoor
 22:16.80,ARM,Rasht,IRI,2002-02-08,Robert Avakyan,,Male,5000W,NR,Indoor
-18:52.20,AUS,Indianapolis IN,USA,1987-03-07,Dave Smith,1955.0,Male,5000W,NR,Indoor
+18:52.20,AUS,Indianapolis,USA,1987-03-07,Dave Smith,1955.0,Male,5000W,NR,Indoor
 19:37.57,AUT,Wien,AUT,1986-12-16,Martin Toporek,1961.0,Male,5000W,NR,Indoor
 21:45.56,AZE,Toronto,CAN,1993-03-13,Sergey Shildkret,1962.0,Male,5000W,NR,Indoor
 18:54.67,BEL,Budapest,HUN,1988-03-06,Jos Martens,1964.0,Male,5000W,NR,Indoor
@@ -47,12 +47,12 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 18:42.38,IRL,Nenagh,IRL,2023-02-12,David Kenny,1999.0,Male,5000W,NR,Indoor
 19:17.45,ISR,Praha,CZE,1991-02-23,Vladimir Ostrovskiy,1966.0,Male,5000W,NR,Indoor
 18:08.86,ITA,Ancona,ITA,2007-02-17,Ivano Brugnetti,1976.0,Male,5000W,NR,Indoor
-21:10.01,JPN,Indianapolis IN,USA,1987-03-07,Hirofumi Sakai,1965.0,Male,5000W,NR,Indoor
+21:10.01,JPN,Indianapolis,USA,1987-03-07,Hirofumi Sakai,1965.0,Male,5000W,NR,Indoor
 18:56.9,LAT,Riga,LAT,1995-02-19,Aigars Fadejevs,1975.0,Male,5000W,NR,Indoor
 18:48.8,LTU,Kaunas,LTU,1992-02-08,Valdas Kazlauskas,1958.0,Male,5000W,NR,Indoor
 20:56.01,LUX,Luxembourg,LUX,1992-01-25,Marc Sowa,1963.0,Male,5000W,NR,Indoor
 19:19.69,MDA,Kyiv,UKR,1994-02-13,Viacheslav Fediuc,1973.0,Male,5000W,NR,Indoor
-18:38.71,MEX,Indianapolis IN,USA,1987-03-07,Ernesto Canto,1959.0,Male,5000W,NR,Indoor
+18:38.71,MEX,Indianapolis,USA,1987-03-07,Ernesto Canto,1959.0,Male,5000W,NR,Indoor
 20:39.24,MRI,Dublin,IRL,2018-02-17,Jérome Caprice,1983.0,Male,5000W,NR,Indoor
 20:17.42,NED,Den Haag,NED,1997-02-22,Harold van Beek,1962.0,Male,5000W,NR,Indoor
 18:49.10,NOR,Budapest,HUN,1988-03-06,Erling Andersen,1960.0,Male,5000W,NR,Indoor
@@ -64,9 +64,9 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 21:54.74,SMR,Ancona,ITA,1987-01-10,Stefano Casali,1962.0,Male,5000W,NR,Indoor
 20:06.32,SRB,Bratislava,SVK,2013-02-23,Vladimir Savanović,1985.0,Male,5000W,NR,Indoor
 24:09.73,SUI,Vittel,FRA,2007-01-13,Christophe Bürki,1988.0,Male,5000W,NR,Indoor
-18:27.80,SVK,Indianapolis IN,USA,1987-03-07,Jozef Pribilinec,1960.0,Male,5000W,NR,Indoor
+18:27.80,SVK,Indianapolis,USA,1987-03-07,Jozef Pribilinec,1960.0,Male,5000W,NR,Indoor
 18:27.95,SWE,Genova,ITA,1992-02-28,Stefan Johansson,1967.0,Male,5000W,NR,Indoor
 19:39.92,TUN,Liévin,FRA,2018-02-18,Hédi Taraaoui,1989.0,Male,5000W,NR,Indoor
 19:13.59,TUR,Istanbul,TUR,2020-01-11,Salih Korkmaz,1997.0,Male,5000W,NR,Indoor
 18:21.76,UKR,Samara,RUS,2014-01-30,Ruslan Dmytrenko,1986.0,Male,5000W,NR,Indoor
-19:15.88,USA,Boston MA,USA,2006-02-25,Tim Seaman,1972.0,Male,5000W,NR,Indoor
+19:15.88,USA,Boston,USA,2006-02-25,Tim Seaman,1972.0,Male,5000W,NR,Indoor

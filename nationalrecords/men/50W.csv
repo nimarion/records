@@ -19,7 +19,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 3:36:06,CHN,Nanjing,CHN,2005-10-22,Yu Chaohong,1976.0,Male,50W,NR,Outdoor
 5:03:21,CMR,Mérignac,FRA,2018-03-18,Daniel Foudjem Ngano,,Male,50W,NR,Outdoor
 5:37:31,COK,Ōkato,NZL,1980-06-01,Uaongo Areai,1961.0,Male,50W,NR,Outdoor
-3:47:41,COL,Valley Cottage NY,USA,2014-09-14,James Rendón,1985.0,Male,50W,NR,Outdoor
+3:47:41,COL,Valley Cottage,USA,2014-09-14,James Rendón,1985.0,Male,50W,NR,Outdoor
 4:16:25,CRC,Dudince,SVK,2021-03-20,Deiby Cordero,1992.0,Male,50W,NR,Outdoor
 4:05:02,CRO,Dudince,SVK,2019-03-23,Bruno Erent,1990.0,Male,50W,NR,Outdoor
 3:52:19,CUB,Mar del Plata,ARG,1995-03-24,Edel Oliva,,Male,50W,NR,Outdoor
@@ -30,7 +30,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 4:22:04,EGY,Dudince,SVK,2016-03-19,Ahmed Dheif-Allah Ahmed,1985.0,Male,50W,NR,Outdoor
 3:53:57,ESA,London,GBR,2012-08-11,Émerson Hernández,1989.0,Male,50W,NR,Outdoor
 3:38:43,ESP,Orense,POR,1994-03-20,Valentí Massana,1970.0,Male,50W,NR,Outdoor
-4:07:10,EST,Kohtla-Järve,URS,1975-06-14,Olav Laiv,,Male,50W,NR,Outdoor
+4:07:10,EST,Kohtla-Järve,URS,1975-06-14,Olav Laiv,1948.0,Male,50W,NR,Outdoor
 4:58:54,ETH,La Coruña,ESP,2006-05-14,Debeko Yanka,1976.0,Male,50W,NR,Outdoor
 4:56:55,FIJ,Melbourne,AUS,2018-09-09,Pramesh Prasad,1974.0,Male,50W,NR,Outdoor
 3:39:34,FIN,Dudince,SVK,2000-03-25,Valentin Kononen,1969.0,Male,50W,NR,Outdoor

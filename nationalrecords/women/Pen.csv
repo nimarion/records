@@ -3,20 +3,20 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 3160,ARM,Tehran,IRI,2013-02-14,Kristine Harutyunyan,1991,Female,Pen,NR,Indoor
 4490,AUS,Maebashi,JPN,1999-03-05,Jane Jamieson,1975,Female,Pen,NR,Indoor
 4767,AUT,Beograd,SRB,2017-03-03,Ivona Dadic,1993,Female,Pen,NR,Indoor
-4643,BAR,Manhattan KS,USA,2016-01-22,Akela Inatta-Jones,1995,Female,Pen,NR,Indoor
+4643,BAR,Manhattan,USA,2016-01-22,Akela Inatta-Jones,1995,Female,Pen,NR,Indoor
 5055,BEL,Istanbul,TUR,2023-03-03,Nafissatou Thiam,1994,Female,Pen,NR,Indoor
 3820,BIH,Beograd,SRB,2018-03-03,Mladena Petrušic,1993,Female,Pen,NR,Indoor
 4850,BLR,Lisboa,POR,2001-03-09,Natallia Sazanovich,1973,Female,Pen,NR,Indoor
 4292,BRA,Tallinn,EST,2016-02-14,Vanessa Spínola,1990,Female,Pen,NR,Indoor
 4542,BUL,UNKNOWN,???,1983-03-06,Daniela Nenova,1961,Female,Pen,NR,Indoor
-4881,CAN,Portland OR,USA,2016-03-18,Brianne Theisen-Eaton,1988,Female,Pen,NR,Indoor
+4881,CAN,Portland,USA,2016-03-18,Brianne Theisen-Eaton,1988,Female,Pen,NR,Indoor
 4415,CHN,Beijing,CHN,2014-03-22,Wang Qingling,1993,Female,Pen,NR,Indoor
 3543,CMR,Paris,FRA,2003-01-26,Antoinette Nana Djimou,1985,Female,Pen,NR,Indoor
 4436,CRO,Tallinn,EST,2024-02-04,Jana Koščak,2006,Female,Pen,NR,Indoor
 3454,CYP,Pireás,GRE,2022-02-27,Charithea Irakleous,2002,Female,Pen,NR,Indoor
 4687,CZE,Praha,CZE,2015-03-06,Eliška Klučinová,1988,Female,Pen,NR,Indoor
 4072,DEN,Aarhus,DEN,2013-02-03,Tine Bach Ejlersen,1985,Female,Pen,NR,Indoor
-4222,DMA,Clemson SC,USA,2014-02-27,Thea LaFond,1994,Female,Pen,NR,Indoor
+4222,DMA,Clemson,USA,2014-02-27,Thea LaFond,1994,Female,Pen,NR,Indoor
 4728,ESP,Aubière,FRA,2024-01-28,María Vicente,2001,Female,Pen,NR,Indoor
 4580,EST,Tallinn,EST,2009-02-08,Kaie Kand,1984,Female,Pen,NR,Indoor
 4677,FIN,Glasgow,GBR,2024-03-01,Saga Vanninen,2003,Female,Pen,NR,Indoor
@@ -35,21 +35,21 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 3993,ISR,Minsk,BLR,1999-02-18,Marina Lippis,1978,Female,Pen,NR,Indoor
 3993,ISR,Minsk,BLR,1999-02-18,Martina Lippis,1978,Female,Pen,NR,Indoor
 4559,ITA,Glasgow,GBR,2024-03-01,Sveva Gerevini,1996,Female,Pen,NR,Indoor
-4181,JAM,Birmingham AL,USA,2015-03-14,Salsa Slack,1989,Female,Pen,NR,Indoor
+4181,JAM,Birmingham,USA,2015-03-14,Salsa Slack,1989,Female,Pen,NR,Indoor
 2426,JOR,Doha,QAT,2008-02-14,Rania Al-Qabali,1991,Female,Pen,NR,Indoor
 4078,JPN,Astana,KAZ,2023-02-10,Yuki Yamasaki,1995,Female,Pen,NR,Indoor
 4582,KAZ,Pattaya,THA,2006-02-10,Olga Rypakova,1984,Female,Pen,NR,Indoor
 1979,LAO,Hanoi,VIE,2009-10-31,Philaylack Sackpraseuth,1987,Female,Pen,NR,Indoor
 4701,LAT,Glasgow,GBR,2019-03-01,Laura Ikauniece,1992,Female,Pen,NR,Indoor
 3129,LBN,Hangzhou,CHN,2014-02-16,Krystel Saneh,1994,Female,Pen,NR,Indoor
-4569,LCA,Fayetteville AR,USA,2013-02-22,Makeba Alcide,1990,Female,Pen,NR,Indoor
+4569,LCA,Fayetteville,USA,2013-02-22,Makeba Alcide,1990,Female,Pen,NR,Indoor
 4802,LTU,Istanbul,TUR,2012-03-09,Austra Skujytė,1979,Female,Pen,NR,Indoor
 3654,LUX,Magglingen,SUI,2007-02-25,Mandy Charlet,1986,Female,Pen,NR,Indoor
 4714,MDA,Moskva,URS,1985-02-15,Lyubov Ratsu,1961,Female,Pen,NR,Indoor
-4008,MEX,Mankato MN,USA,2012-03-10,Crystal Ruiz,1988,Female,Pen,NR,Indoor
+4008,MEX,Mankato,USA,2012-03-10,Crystal Ruiz,1988,Female,Pen,NR,Indoor
 3815,MKD,Sofia,BUL,1988-02-28,Marina Damcevska,1962,Female,Pen,NR,Indoor
-3713,MLT,Geneva OH,USA,2024-02-23,Clare McNamara,2002,Female,Pen,NR,Indoor
-3498,MNE,Lynchburg VA,USA,2023-01-19,Mia Milašinović,2001,Female,Pen,NR,Indoor
+3713,MLT,Geneva,USA,2024-02-23,Clare McNamara,2002,Female,Pen,NR,Indoor
+3498,MNE,Lynchburg,USA,2023-01-19,Mia Milašinović,2001,Female,Pen,NR,Indoor
 2371,MON,Eaubonne,FRA,2004-12-12,Carine Cresto,1973,Female,Pen,NR,Indoor
 4830,NED,Sopot,POL,2014-03-07,Nadine Broersen,1990,Female,Pen,NR,Indoor
 4471,NOR,Bærum,NOR,2021-02-21,Henriette Jæger,2003,Female,Pen,NR,Indoor
@@ -74,9 +74,9 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 3956,TKM,Ashgabat,TKM,2020-01-30,Irina Velihanova,1996,Female,Pen,NR,Indoor
 3856,TOG,Eaubonne,FRA,2002-02-10,Sandrine Thiébaud-Kangni,1976,Female,Pen,NR,Indoor
 3739,TPE,Beijing,CHN,2018-03-23,Chu Chia-Ling,1991,Female,Pen,NR,Indoor
-4746,TTO,Fayetteville AR,USA,2021-03-11,Tyra Gittens,1998,Female,Pen,NR,Indoor
+4746,TTO,Fayetteville,USA,2021-03-11,Tyra Gittens,1998,Female,Pen,NR,Indoor
 4577,TUR,Gomel,BLR,2001-01-25,Anzhela Atroshchenko,1970,Female,Pen,NR,Indoor
 5013,UKR,Istanbul,TUR,2012-03-09,Nataliya Dobrynska,1982,Female,Pen,NR,Indoor
-5004,USA,Albuquerque NM,USA,2023-02-16,Anna Hall,2001,Female,Pen,NR,Indoor
+5004,USA,Albuquerque,USA,2023-02-16,Anna Hall,2001,Female,Pen,NR,Indoor
 4004,UZB,Pattaya,THA,2006-02-10,Yuliya Tarasova,1986,Female,Pen,NR,Indoor
 3812,VIE,Hangzhou,CHN,2012-02-19,Duong Thi Viet Anh,1990,Female,Pen,NR,Indoor

@@ -18,12 +18,12 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 8:36.19,,BDI,Evry-Bondoufle,FRA,1994-07-12,Hilaire Ntirampéba,1970.0,Male,3000S,NR,Outdoor
 8:10.01,,BEL,Bruxelles,BEL,1986-09-05,William Van Dijck,1961.0,Male,3000S,NR,Outdoor
 9:21.21,,BEN,Porto Novo,BEN,2012-06-29,Mohamet Adam,,Male,3000S,NR,Outdoor
-8:49.71,,BER,Nashville TN,USA,2017-06-10,Lamont Marshall,1984.0,Male,3000S,NR,Outdoor
+8:49.71,,BER,Nashville,USA,2017-06-10,Lamont Marshall,1984.0,Male,3000S,NR,Outdoor
 8:31.0,,BIH,Ardal,USA,1981-08-29,Bilko Kacar,1956.0,Male,3000S,NR,Outdoor
-9:59.77,,BIZ,Rock Hill SC,USA,2016-03-26,Novian Middleton,,Male,3000S,NR,Outdoor
+9:59.77,,BIZ,Rock Hill,USA,2016-03-26,Novian Middleton,,Male,3000S,NR,Outdoor
 8:25.2,,BLR,Moskva,URS,1980-07-06,Aleksandr Vorobey,1957.0,Male,3000S,NR,Outdoor
 8:58.6,,BOL,Bucaramanga,COL,1979-10-31,Johnny Perez,,Male,3000S,NR,Outdoor
-8:44.1,,BOT,Wichita KS,USA,1981-05-29,Reuben Rathedi,,Male,3000S,NR,Outdoor
+8:44.1,,BOT,Wichita,USA,1981-05-29,Reuben Rathedi,,Male,3000S,NR,Outdoor
 8:14.41,,BRA,Mar del Plata,ARG,1995-03-22,Wander Moura,1969.0,Male,3000S,NR,Outdoor
 8:06.13,,BRN,Athína,GRE,2009-07-13,Tareq Mubarak Taher,1984.0,Male,3000S,NR,Outdoor
 9:42.35,,BRU,Singapore,SGP,1987-07-22,Roslan Baha,,Male,3000S,NR,Outdoor
@@ -33,9 +33,9 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 10:05.0,,CAM,Jakarta,INA,1963-11-14,Nhea Khay,,Male,3000S,NR,Outdoor
 8:11.64,,CAN,Moskva,RUS,2013-08-15,Matt Hughes,1989.0,Male,3000S,NR,Outdoor
 12:12.29,,CAY,St. Peter Port,GBR,2003-06-29,Julio Hurlston,,Male,3000S,NR,Outdoor
-9:05.58,,CGO,Los Angeles CA,USA,1984-08-06,Emmanuel Mpioh,1952.0,Male,3000S,NR,Outdoor
+9:05.58,,CGO,Los Angeles,USA,1984-08-06,Emmanuel Mpioh,1952.0,Male,3000S,NR,Outdoor
 9:10.6,,CHA,Libreville,GAB,1976-01-01,Docteur Ben Bagai,,Male,3000S,NR,Outdoor
-8:28.99,,CHI,Los Angeles CA,USA,1984-08-08,Emilio Ulloa,1954.0,Male,3000S,NR,Outdoor
+8:28.99,,CHI,Los Angeles,USA,1984-08-08,Emilio Ulloa,1954.0,Male,3000S,NR,Outdoor
 8:10.46,,CHN,Shanghai,CHN,1997-10-19,Sun Ripeng,1974.0,Male,3000S,NR,Outdoor
 9:22.14,,CIV,Sevilla,ESP,2021-02-05,Kone Yossodjo,,Male,3000S,NR,Outdoor
 8:55.78,,CMR,Warri,NGR,2013-06-14,Hamajam Soudi,1994.0,Male,3000S,NR,Outdoor
@@ -43,7 +43,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 10:51.71,,COK,Avarua,COK,1985-03-08,Uaongo Areai,1961.0,Male,3000S,NR,Outdoor
 8:25.66,,COL,Castellón,ESP,2021-06-29,Carlos Andrés San Martín,1993.0,Male,3000S,NR,Outdoor
 9:15.95,,COM,Saint-Paul,FRA,2022-05-28,Attoumane Abdoul-Had,1989.0,Male,3000S,NR,Outdoor
-9:20.90,,CPV,Hanover NH,USA,2018-05-12,Bruno Pires,,Male,3000S,NR,Outdoor
+9:20.90,,CPV,Hanover,USA,2018-05-12,Bruno Pires,,Male,3000S,NR,Outdoor
 8:48.59,,CRC,La Habana,CUB,2004-04-25,Francisco Gómez,1975.0,Male,3000S,NR,Outdoor
 8:40.1,,CRO,Karlovac,YUG,1987-05-31,Slobodan Cmorzak,1962.0,Male,3000S,NR,Outdoor
 8:26.16,,CUB,La Habana,CUB,2009-06-19,José Sánchez,1986.0,Male,3000S,NR,Outdoor
@@ -51,16 +51,16 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 8:23.8,,CZE,Praha,TCH,1972-09-17,Dusan Moravcik,1948.0,Male,3000S,NR,Outdoor
 8:20.42,,DEN,Turku,FIN,2021-06-08,Ole Hesselbjerg,1990.0,Male,3000S,NR,Outdoor
 8:22.17,,DJI,Nice,FRA,2021-06-12,Mohamed Ismail Ibrahim,1997.0,Male,3000S,NR,Outdoor
-9:29.10,,DMA,St Charles IL,USA,1999-05-01,Neehall Philogene,,Male,3000S,NR,Outdoor
+9:29.10,,DMA,St Charles,USA,1999-05-01,Neehall Philogene,,Male,3000S,NR,Outdoor
 8:38.0,,DOM,San Germán,PUR,2017-03-02,Alvaro Abreu,1991.0,Male,3000S,NR,Outdoor
 8:47.0,,ECU,Guayaquil,ECU,2023-05-27,Jimmy Gomez,1992.0,Male,3000S,NR,Outdoor
 8:22.74,,EGY,Dély Ibrahim,ALG,2023-07-24,Salim Mohammed Salim,1993.0,Male,3000S,NR,Outdoor
 8:11.22,,ERI,Roma,ITA,2017-06-08,Yemane Haileselassie,1998.0,Male,3000S,NR,Outdoor
-8:45.36,,ESA,West Long Branch NJ,USA,2023-06-17,Carlos Santos,2000.0,Male,3000S,NR,Outdoor
+8:45.36,,ESA,West Long Branch,USA,2023-06-17,Carlos Santos,2000.0,Male,3000S,NR,Outdoor
 8:05.69,,ESP,Monaco,MON,2019-07-12,Fernando Carro,1992.0,Male,3000S,NR,Outdoor
 8:28.55,,EST,Zagreb,CRO,2019-09-03,Kaur Kivistik,1991.0,Male,3000S,NR,Outdoor
 7:52.11,,ETH,Paris,FRA,2023-06-09,Lamecha Girma,2000.0,Male,3000S,NR,Outdoor
-8:48.0,,FIJ,Seattle WA,USA,1971-06-17,Usaia Sotutu,1948.0,Male,3000S,NR,Outdoor
+8:48.0,,FIJ,Seattle,USA,1971-06-17,Usaia Sotutu,1948.0,Male,3000S,NR,Outdoor
 8:10.67,,FIN,Zürich,SUI,2009-08-28,Jukka Keskisalo,1981.0,Male,3000S,NR,Outdoor
 8:00.09,,FRA,Saint-Denis,FRA,2013-07-06,Mahiedine Mekhissi-Benabbad,1985.0,Male,3000S,NR,Outdoor
 9:31.2,,GAB,Libreville,GAB,1979-01-04,Philemon Moupaka,,Male,3000S,NR,Outdoor
@@ -68,13 +68,13 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 8:07.96,,GBR,Seoul,KOR,1988-09-30,Mark Rowland,1963.0,Male,3000S,NR,Outdoor
 10:06.22,,GBS,Beja,POR,2013-05-06,Mussa Djau,1995.0,Male,3000S,NR,Outdoor
 8:28.0,,GEO,Moskva,URS,1977-06-11,Sergei Skripka,1950.0,Male,3000S,NR,Outdoor
-9:04.54,,GEQ,Eagle Rock CA,USA,2008-06-07,Roberto Caraciolo Mandje,1982.0,Male,3000S,NR,Outdoor
+9:04.54,,GEQ,Eagle Rock,USA,2008-06-07,Roberto Caraciolo Mandje,1982.0,Male,3000S,NR,Outdoor
 8:09.48,,GER,Zürich,SUI,1999-08-11,Damian Kallabis,1973.0,Male,3000S,NR,Outdoor
 8:57.54,,GHA,München,FRG,1972-01-09,Robert Hackman,1948.0,Male,3000S,NR,Outdoor
 9:27.79,,GIB,Birmingham,GBR,2019-02-08,Harvey Dixon,1993.0,Male,3000S,NR,Outdoor
 8:46.45,,GUA,Kobe,JPN,1985-09-02,Hugo García,1963.0,Male,3000S,NR,Outdoor
 9:40.24,,GUI,Rieti,ITA,2019-07-06,Mamadou Barkinden Diallo,,Male,3000S,NR,Outdoor
-9:38.98,,GUM,San Francisco CA,USA,1996-03-16,Brent Mark Butler,1974.0,Male,3000S,NR,Outdoor
+9:38.98,,GUM,San Francisco,USA,1996-03-16,Brent Mark Butler,1974.0,Male,3000S,NR,Outdoor
 9:54.91,,GUY,Leonora,GUY,2019-06-08,Odwin Tudor,,Male,3000S,NR,Outdoor
 10:36.2,,HAI,Lübeck,GER,1972-08-05,Joseph Anilis,,Male,3000S,NR,Outdoor
 9:15.03,,HKG,Hongkong,HKG,2019-01-20,Nip Hanniel Chow Hon,1997.0,Male,3000S,NR,Outdoor
@@ -85,12 +85,12 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 8:22.79,,IRI,Jakarta,INA,2018-08-27,Hossein Keyhani,1990.0,Male,3000S,NR,Outdoor
 8:24.09,,IRL,Bruxelles,BEL,1985-08-30,Brendan Quinn,1960.0,Male,3000S,NR,Outdoor
 8:35.85,,IRQ,Doha,QAT,2023-04-26,Mohamed Abdullah Mahal,1991.0,Male,3000S,NR,Outdoor
-8:44.11,,ISL,Tampa FL,USA,2018-05-25,Hlynur Andrésson,1993.0,Male,3000S,NR,Outdoor
+8:44.11,,ISL,Tampa,USA,2018-05-25,Hlynur Andrésson,1993.0,Male,3000S,NR,Outdoor
 8:24.14,,ISR,Metz,FRA,2008-07-04,Itai Maggidi,1981.0,Male,3000S,NR,Outdoor
 9:25.30,,ISV,Ponce,PUR,2009-04-24,Juan Robles,1989.0,Male,3000S,NR,Outdoor
 8:08.57,,ITA,Roma,ITA,1987-09-05,Francesco Panetta,1963.0,Male,3000S,NR,Outdoor
-9:30.26,,IVB,Athens OH,USA,1998-05-02,Anderson Legair,,Male,3000S,NR,Outdoor
-8:52.82,,JAM,Indianapolis IN,USA,1985-05-04,Lionel Scott,,Male,3000S,NR,Outdoor
+9:30.26,,IVB,Athens,USA,1998-05-02,Anderson Legair,,Male,3000S,NR,Outdoor
+8:52.82,,JAM,Indianapolis,USA,1985-05-04,Lionel Scott,,Male,3000S,NR,Outdoor
 8:40.74,,JOR,Lübeck,GER,1990-07-07,Jihad Al-Balaoui,1969.0,Male,3000S,NR,Outdoor
 8:09.91,,JPN,Paris,FRA,2023-06-09,Ryuji Miura,2002.0,Male,3000S,NR,Outdoor
 8:24.13,,KAZ,Moskva,RUS,2012-06-11,Artyom Kosinov,1986.0,Male,3000S,NR,Outdoor
@@ -99,13 +99,13 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 12:03.70,,KIR,Honiara,SOL,1981-11-07,Peter Birati,,Male,3000S,NR,Outdoor
 8:42.86,,KOR,Seoul,KOR,1990-06-09,Jin Soo-Sun,1964.0,Male,3000S,NR,Outdoor
 9:12.8,,KOS,UNKNOWN,???,1987-09-05,Mustafe Shabani,,Male,3000S,NR,Outdoor
-8:08.14,,KSA,Stockholm/S,SWE,2002-07-16,Sa'ad Shaddad Al-Asmari,1968.0,Male,3000S,NR,Outdoor
+8:08.14,,KSA,Stockholm,SWE,2002-07-16,Sa'ad Shaddad Al-Asmari,1968.0,Male,3000S,NR,Outdoor
 8:35.62,,KUW,Alger,ALG,2008-05-29,Omar Awadh Al-Rashidi,1984.0,Male,3000S,NR,Outdoor
 9:37.41,,LAO,Singapore,SGP,2015-06-12,Sysavath Thammavongchit,,Male,3000S,NR,Outdoor
 8:31.35,,LAT,Moskva,URS,1988-09-04,Gatis Deksnis,1964.0,Male,3000S,NR,Outdoor
 9:02.84,,LBA,Radès,TUN,2016-07-16,Abderahim Slougui,,Male,3000S,NR,Outdoor
-8:44.05,,LBN,Eugene OR,USA,2022-05-14,Munir Kabbara,2000.0,Male,3000S,NR,Outdoor
-9:40.81,,LBR,Baton Rouge LA,USA,2003-12-04,Toartou Kargou,,Male,3000S,NR,Outdoor
+8:44.05,,LBN,Eugene,USA,2022-05-14,Munir Kabbara,2000.0,Male,3000S,NR,Outdoor
+9:40.81,,LBR,Baton Rouge,USA,2003-12-04,Toartou Kargou,,Male,3000S,NR,Outdoor
 10:34.96,,LES,Bulawayo,ZIM,2014-12-13,Bokang Motseki,,Male,3000S,NR,Outdoor
 10:08.37,,LIE,Zenica,BIH,2007-06-24,Florian Hilti,1979.0,Male,3000S,NR,Outdoor
 8:22.2,,LTU,Kyiv,URS,1969-08-19,Vladimiras Dudinas,1941.0,Male,3000S,NR,Outdoor
@@ -147,7 +147,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 9:05.86,,PLE,New Delhi,IND,1989-11-16,Jamal Mahmoud Hamada,1967.0,Male,3000S,NR,Outdoor
 9:25.8,,PNG,Port Moresby,PNG,1971-08-27,John Kokinai,1951.0,Male,3000S,NR,Outdoor
 8:09.11,,POL,Montréal,CAN,1976-07-28,Bronisław Malinowski,1951.0,Male,3000S,NR,Outdoor
-8:19.82,,POR,Stockholm/S,SWE,2004-07-27,Manuel Silva,1978.0,Male,3000S,NR,Outdoor
+8:19.82,,POR,Stockholm,SWE,2004-07-27,Manuel Silva,1978.0,Male,3000S,NR,Outdoor
 8:53.8,,PRK,Pyongyang,PRK,1994-04-03,Ju Il Myong,,Male,3000S,NR,Outdoor
 8:27.91,,PUR,Barakaldo,ESP,2004-07-10,Alex Greaux,1977.0,Male,3000S,NR,Outdoor
 7:53.63,,QAT,Bruxelles,BEL,2004-09-03,Saif Saeed Shaheen,1982.0,Male,3000S,NR,Outdoor
@@ -182,7 +182,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 9:14.07,,TLS,Jakarta,INA,2018-08-27,Felisberto De Deus,1999.0,Male,3000S,NR,Outdoor
 9:05.55,,TOG,Bamako,MLI,2013-05-18,Malaba Tchendo,,Male,3000S,NR,Outdoor
 8:34.76,,TPE,Busan,KOR,2002-10-09,Wu Wen-Chien,1977.0,Male,3000S,NR,Outdoor
-8:49.82,,TTO,Raleigh NC,USA,1994-05-27,Quintin John,,Male,3000S,NR,Outdoor
+8:49.82,,TTO,Raleigh,USA,1994-05-27,Quintin John,,Male,3000S,NR,Outdoor
 8:12.19,,TUN,Paris,FRA,2023-06-09,Mohamed Amine Jihnaoui,1997.0,Male,3000S,NR,Outdoor
 8:17.85,,TUR,London,GBR,2012-08-03,Tarik Langat Akdag,1988.0,Male,3000S,NR,Outdoor
 8:35.64,,UAE,Hamburg,GER,1993-08-04,Mohamed Ahmed Amer,1967.0,Male,3000S,NR,Outdoor
@@ -195,6 +195,6 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 8:20.87,,VEN,Berlin,GER,2013-09-01,José Gregorio Peña,1987.0,Male,3000S,NR,Outdoor
 8:51.16,,VIE,Tampere,FIN,2018-07-12,Nguyen Trung Cuong,2000.0,Male,3000S,NR,Outdoor
 9:06.55,,VIN,Hamilton,CAN,2019-05-26,DeLohnni Nicol-Samuel,1991.0,Male,3000S,NR,Outdoor
-8:55.34,,YEM,Adrian OR,USA,2018-05-12,Mohamed Aziz,,Male,3000S,NR,Outdoor
+8:55.34,,YEM,Adrian,USA,2018-05-12,Mohamed Aziz,,Male,3000S,NR,Outdoor
 8:25.49,,ZAM,Birmingham,GBR,1995-07-16,Godfrey Siamusiye,1972.0,Male,3000S,NR,Outdoor
-8:45.33,,ZIM,Austin TX,USA,1994-09-04,Passmore Furusa,1970.0,Male,3000S,NR,Outdoor
+8:45.33,,ZIM,Austin,USA,1994-09-04,Passmore Furusa,1970.0,Male,3000S,NR,Outdoor

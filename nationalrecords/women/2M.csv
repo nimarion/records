@@ -1,14 +1,14 @@
 result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,environment
-9:43.53,AUS,Carson CA,USA,2007-05-20,Georgie Clarke,1984,Female,2M,NR,Outdoor
+9:43.53,AUS,Carson,USA,2007-05-20,Georgie Clarke,1984,Female,2M,NR,Outdoor
 9:49.93,BEL,Bruxelles,BEL,2007-09-14,Veerle Dejaeghere,1973,Female,2M,NR,Outdoor
-9:13.85,BRN,Eugene OR,USA,2014-05-31,Mimi Belete,1988,Female,2M,NR,Outdoor
-9:49.33,CHN,Carson CA,USA,2007-05-20,Jin Yuan,1988,Female,2M,NR,Outdoor
-10:00.38,ERI,Greensboro NC,USA,2016-06-18,Weini Kelati,1996,Female,2M,NR,Outdoor
+9:13.85,BRN,Eugene,USA,2014-05-31,Mimi Belete,1988,Female,2M,NR,Outdoor
+9:49.33,CHN,Carson,USA,2007-05-20,Jin Yuan,1988,Female,2M,NR,Outdoor
+10:00.38,ERI,Greensboro,USA,2016-06-18,Weini Kelati,1996,Female,2M,NR,Outdoor
 8:58.58,ETH,Bruxelles,BEL,2007-09-14,Meseret Defar,1983,Female,2M,NR,Outdoor
 9:41.36,FIN,Tornio,FIN,1996-06-09,Annemari Kiekara,1977,Female,2M,NR,Outdoor
 9:30.39,FRA,Birmingham,GBR,2014-08-24,Clémence Calvin,1990,Female,2M,NR,Outdoor
-9:21.98,GBR,Eugene OR,USA,2021-08-20,Amy-Eloise Neale,1995,Female,2M,NR,Outdoor
-9:16.73,GER,Eugene OR,USA,2022-05-27,Konstanze Klosterhalfen,1997,Female,2M,NR,Outdoor
+9:21.98,GBR,Eugene,USA,2021-08-20,Amy-Eloise Neale,1995,Female,2M,NR,Outdoor
+9:16.73,GER,Eugene,USA,2022-05-27,Konstanze Klosterhalfen,1997,Female,2M,NR,Outdoor
 9:19.56,IRL,Cork,IRL,1998-06-27,Sonia O'Sullivan,1969,Female,2M,NR,Outdoor
 9:32.99,ITA,Milano,ITA,2022-04-23,Nadia Battocletti,2000,Female,2M,NR,Outdoor
 9:35.04,JPN,Cork,IRL,1998-06-27,Yuko Kawakami,1975,Female,2M,NR,Outdoor
@@ -19,10 +19,10 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 9:22.89,POR,Bruxelles,BEL,2007-09-14,Jessica Augusto,1981,Female,2M,NR,Outdoor
 9:48.10,RUS,Aachen,GER,1996-08-25,Yekaterina Podkopayeva,1952,Female,2M,NR,Outdoor
 11:21.96,SWE,Gävle,SWE,2003-05-28,Julie Leonard,1959,Female,2M,NR,Outdoor
-9:20.25,USA,Eugene OR,USA,2014-05-31,Shannon Rowbury,1984,Female,2M,NR,Outdoor
-9:04.84,GBR,New York NY,USA,2024-02-11,Laura Muir,1993,Female,2M,NR,Indoor
-9:34.27,GER,New York NY,USA,1986-02-28,Ines Bibernell,1965,Female,2M,NR,Indoor
+9:20.25,USA,Eugene,USA,2014-05-31,Shannon Rowbury,1984,Female,2M,NR,Outdoor
+9:04.84,GBR,New York,USA,2024-02-11,Laura Muir,1993,Female,2M,NR,Indoor
+9:34.27,GER,New York,USA,1986-02-28,Ines Bibernell,1965,Female,2M,NR,Indoor
 10:02.9,ISL,UNKNOWN,???,1984-12-31,Ragnheldur Ólafsdóttir,1963,Female,2M,NR,Indoor
-9:41.07,ROU,New York NY,USA,1986-02-28,Margareta Keszeg,1965,Female,2M,NR,Indoor
-10:29.58,SUI,Boston MA,USA,2023-03-10,Gioana Lopizzo,2006,Female,2M,NR,Indoor
-9:09.70,USA,New York NY,USA,2024-02-11,Alicia Monson,1998,Female,2M,NR,Indoor
+9:41.07,ROU,New York,USA,1986-02-28,Margareta Keszeg,1965,Female,2M,NR,Indoor
+10:29.58,SUI,Boston,USA,2023-03-10,Gioana Lopizzo,2006,Female,2M,NR,Indoor
+9:09.70,USA,New York,USA,2024-02-11,Alicia Monson,1998,Female,2M,NR,Indoor

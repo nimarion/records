@@ -20,33 +20,33 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,environment,code
 98.48,,CZE,Jena,GER,1996-05-25,Jan Železný,1966.0,Male,Outdoor,WR,SPE
 8.95,0.3,USA,Tokyo,JPN,1991-08-30,Mike Powell,1963.0,Male,Outdoor,WR,WEI
 3:43.13,,MAR,Roma,ITA,1999-07-07,Hicham El Guerrouj,1974.0,Male,Outdoor,WR,MEI
-6.23,,SWE,Eugene OR,USA,2023-09-17,Armand Duplantis,1999.0,Male,Outdoor,WR,STA
-23.37,,USA,Eugene OR,USA,2021-06-18,Ryan Crouser,1992.0,Male,Outdoor,WR,KUG
-18.29,1.3,GBR,Göteborg/U,SWE,1995-08-07,Jonathan Edwards,1966.0,Male,Outdoor,WR,DRE
-2:14.20,,DJI,Stockholm/G,SWE,2016-02-17,Ayanleh Souleiman,1992.0,Male,Indoor,WR,1K0
+6.23,,SWE,Eugene,USA,2023-09-17,Armand Duplantis,1999.0,Male,Outdoor,WR,STA
+23.37,,USA,Eugene,USA,2021-06-18,Ryan Crouser,1992.0,Male,Outdoor,WR,KUG
+18.29,1.3,GBR,Göteborg,SWE,1995-08-07,Jonathan Edwards,1966.0,Male,Outdoor,WR,DRE
+2:14.20,,DJI,Stockholm,SWE,2016-02-17,Ayanleh Souleiman,1992.0,Male,Indoor,WR,1K0
 3:30.60,,NOR,Liévin,FRA,2022-02-17,Jakob Ingebrigtsen,2000.0,Male,Indoor,WR,1K5
 4:51.23,,ETH,Liévin,FRA,2024-02-10,Lamecha Girma,2000.0,Male,Indoor,WR,2K0
 19.92,,NAM,Liévin,FRA,1996-02-18,Frank Fredericks,1967.0,Male,Indoor,WR,200
 7:23.81,,ETH,Liévin,FRA,2023-02-15,Lamecha Girma,2000.0,Male,Indoor,WR,3K0
 1:22.11,,GBR,Glasgow,GBR,1991-03-03,Great Britain,,Male,Indoor,WR,4×2
-3:01.51,,USA,Clemson SC,USA,2019-02-09,United States,,Male,Indoor,WR,4×4
-7:11.30,,USA,Boston MA,USA,2018-02-25,United States,,Male,Indoor,WR,4×8
-44.49,,CAN,Fayetteville AR,USA,2024-02-24,Christopher Morales Williams,2004.0,Male,Indoor,WR,400
+3:01.51,,USA,Clemson,USA,2019-02-09,United States,,Male,Indoor,WR,4×4
+7:11.30,,USA,Boston,USA,2018-02-25,United States,,Male,Indoor,WR,4×8
+44.49,,CAN,Fayetteville,USA,2024-02-24,Christopher Morales Williams,2004.0,Male,Indoor,WR,400
 12:49.60,,ETH,Birmingham,GBR,2004-02-20,Kenenisa Bekele,1982.0,Male,Indoor,WR,5K0
 18:07.08,,RUS,Moskva,RUS,1995-02-14,Mikhail Shchennikov,1967.0,Male,Indoor,WR,5G
-6.34,,USA,Albuquerque NM,USA,2018-02-18,Christian Coleman,1996.0,Male,Indoor,WR,60M
-7.27,,USA,Albuquerque NM,USA,2024-02-16,Grant Holloway,1997.0,Male,Indoor,WR,60H
+6.34,,USA,Albuquerque,USA,2018-02-18,Christian Coleman,1996.0,Male,Indoor,WR,60M
+7.27,,USA,Albuquerque,USA,2024-02-16,Grant Holloway,1997.0,Male,Indoor,WR,60H
 1:42.67,,DEN,Paris,FRA,1997-03-09,Wilson Kipketer,1972.0,Male,Indoor,WR,800
 2.43,,CUB,Budapest,HUN,1989-03-04,Javier Sotomayor,1967.0,Male,Indoor,WR,HOC
-8.79,,USA,New York NY,USA,1984-01-27,Carl Lewis,1961.0,Male,Indoor,WR,WEI
-3:47.01,,ETH,Boston MA,USA,2019-03-03,Yomif Kejelcha,1997.0,Male,Indoor,WR,MEI
+8.79,,USA,New York,USA,1984-01-27,Carl Lewis,1961.0,Male,Indoor,WR,WEI
+3:47.01,,ETH,Boston,USA,2019-03-03,Yomif Kejelcha,1997.0,Male,Indoor,WR,MEI
 6.22,,SWE,Clermont-Ferrand,FRA,2023-02-25,Armand Duplantis,1999.0,Male,Indoor,WR,STA
-23.38,,USA,Pocatello ID,USA,2023-02-18,Ryan Crouser,1992.0,Male,Indoor,WR,KUG
+23.38,,USA,Pocatello,USA,2023-02-18,Ryan Crouser,1992.0,Male,Indoor,WR,KUG
 18.07,,BUR,Aubière,FRA,2021-01-16,Hugues Fabrice Zango,1993.0,Male,Indoor,WR,DRE
 29:01.03,,ETH,Hengelo,NED,2021-06-08,Letesenbet Gidey,1998.0,Female,Outdoor,WR,10K
 2:28.98,,RUS,Bruxelles,BEL,1996-08-23,Svetlana Masterkova,1968.0,Female,Outdoor,WR,1K0
-10.49,0.0,USA,Indianapolis IN,USA,1988-07-16,Florence Griffith-Joyner,1959.0,Female,Outdoor,WR,100
-12.12,0.9,NGR,Eugene OR,USA,2022-07-24,Tobi Amusan,1997.0,Female,Outdoor,WR,10H
+10.49,0.0,USA,Indianapolis,USA,1988-07-16,Florence Griffith-Joyner,1959.0,Female,Outdoor,WR,100
+12.12,0.9,NGR,Eugene,USA,2022-07-24,Tobi Amusan,1997.0,Female,Outdoor,WR,10H
 3:49.11,,KEN,Firenze,ITA,2023-06-02,Faith Kipyegon,1994.0,Female,Outdoor,WR,1K5
 21.34,1.3,USA,Seoul,KOR,1988-09-29,Florence Griffith-Joyner,1959.0,Female,Outdoor,WR,200
 8:06.11,,CHN,Beijing,CHN,1993-09-13,Wang Junxia,1973.0,Female,Outdoor,WR,3K0
@@ -54,7 +54,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,environment,code
 40.82,,USA,London,GBR,2012-08-10,United States,,Female,Outdoor,WR,4×1
 3:15.17,,URS,Seoul,KOR,1988-10-01,Soviet Union,,Female,Outdoor,WR,4×4
 47.60,,GER,Canberra,AUS,1985-10-06,Marita Koch,1957.0,Female,Outdoor,WR,400
-50.68,,USA,Eugene OR,USA,2022-07-22,Sydney McLaughlin-Levrone,1999.0,Female,Outdoor,WR,40H
+50.68,,USA,Eugene,USA,2022-07-22,Sydney McLaughlin-Levrone,1999.0,Female,Outdoor,WR,40H
 14:06.62,,ETH,Valencia,ESP,2020-10-07,Letesenbet Gidey,1998.0,Female,Outdoor,WR,5K0
 1:53.28,,CZE,München,FRG,1983-07-26,Jarmila Kratochvílová,1951.0,Female,Outdoor,WR,800
 76.80,,GER,Neubrandenburg,GER,1988-07-09,Gabriele Reinsch,1963.0,Female,Outdoor,WR,DIS
@@ -67,23 +67,23 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,environment,code
 22.63,,RUS,Moskva,URS,1987-06-07,Natalya Lisovskaya,1962.0,Female,Outdoor,WR,KUG
 15.67,0.7,VEN,Tokyo,JPN,2021-08-01,Yulimar Rojas,1995.0,Female,Outdoor,WR,DRE
 41:22.5,,RUS,Saransk,RUS,2023-09-24,Elvira Khasanova,2000.0,Female,Indoor,WR,10G
-2:30.94,,MOZ,Stockholm/G,SWE,1999-02-25,Maria Mutola,1972.0,Female,Indoor,WR,1K0
+2:30.94,,MOZ,Stockholm,SWE,1999-02-25,Maria Mutola,1972.0,Female,Indoor,WR,1K0
 3:53.09,,ETH,Liévin,FRA,2021-02-09,Gudaf Tsegay,1997.0,Female,Indoor,WR,1K5
 21.87,,JAM,Liévin,FRA,1993-02-13,Merlene Ottey,1960.0,Female,Indoor,WR,200
-8:16.60,,ETH,Stockholm/G,SWE,2014-02-06,Genzebe Dibaba,1991.0,Female,Indoor,WR,3K0
+8:16.60,,ETH,Stockholm,SWE,2014-02-06,Genzebe Dibaba,1991.0,Female,Indoor,WR,3K0
 11:40.33,,ROU,Bucureşti,ROU,1999-01-30,Claudia Ştef,1978.0,Female,Indoor,WR,3G
 1:32.41,,RUS,Glasgow,GBR,2005-01-29,Russia,,Female,Indoor,WR,4×2
 3:23.37,,RUS,Glasgow,GBR,2006-01-28,Russia,,Female,Indoor,WR,4×4
-8:05.89,,USA,New York NY,USA,2018-02-03,United States,,Female,Indoor,WR,4×8
+8:05.89,,USA,New York,USA,2018-02-03,United States,,Female,Indoor,WR,4×8
 49.17,,NED,Glasgow,GBR,2024-03-02,Femke Bol,2000.0,Female,Indoor,WR,400
-14:18.86,,ETH,Stockholm/G,SWE,2015-02-19,Genzebe Dibaba,1991.0,Female,Indoor,WR,5K0
+14:18.86,,ETH,Stockholm,SWE,2015-02-19,Genzebe Dibaba,1991.0,Female,Indoor,WR,5K0
 6.92,,RUS,Madrid,ESP,1993-02-11,Irina Privalova,1968.0,Female,Indoor,WR,60M
 6.92,,RUS,Madrid,ESP,1995-02-09,Irina Privalova,1968.0,Female,Indoor,WR,60M
 7.65,,BAH,Glasgow,GBR,2024-03-03,Devynne Charlton,1995.0,Female,Indoor,WR,60H
 1:55.82,,SLO,Wien,AUT,2002-03-03,Jolanda Batagelj,1976.0,Female,Indoor,WR,800
 2.08,,SWE,Arnstadt,GER,2006-02-04,Kajsa Bergqvist,1976.0,Female,Indoor,WR,HOC
 7.37,,GER,Wien,AUT,1988-02-13,Heike Drechsler,1964.0,Female,Indoor,WR,WEI
-4:13.31,,ETH,Stockholm/G,SWE,2016-02-17,Genzebe Dibaba,1991.0,Female,Indoor,WR,MEI
-5.02,,USA,Albuquerque NM,USA,2013-03-02,Jenn Suhr,1982.0,Female,Indoor,WR,STA
+4:13.31,,ETH,Stockholm,SWE,2016-02-17,Genzebe Dibaba,1991.0,Female,Indoor,WR,MEI
+5.02,,USA,Albuquerque,USA,2013-03-02,Jenn Suhr,1982.0,Female,Indoor,WR,STA
 22.50,,CZE,Jablonec,TCH,1977-02-19,Helena Fibingerová,1949.0,Female,Indoor,WR,KUG
 15.74,,VEN,Beograd,SRB,2022-03-20,Yulimar Rojas,1995.0,Female,Indoor,WR,DRE

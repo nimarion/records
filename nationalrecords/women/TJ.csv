@@ -1,28 +1,28 @@
 result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,environment
 9.14,,AFG,Toronto,CAN,2011-06-14,Farkhunda Muhtaj,,Female,TJ,NR,Outdoor
 12.34,0.2,AHO,Sittard,NED,2010-06-06,Maruska Eduarda,1991.0,Female,TJ,NR,Outdoor
-13.74,0.6,AIA,Greensboro NC,USA,2009-05-30,Shara Proctor,1988.0,Female,TJ,NR,Outdoor
+13.74,0.6,AIA,Greensboro,USA,2009-05-30,Shara Proctor,1988.0,Female,TJ,NR,Outdoor
 13.50,,ALB,Durres,ALB,1996-05-10,Vera Bitanji,1969.0,Female,TJ,NR,Outdoor
 14.98,0.2,ALG,Almería,ESP,2005-07-01,Baya Rahouli,1979.0,Female,TJ,NR,Outdoor
 12.21,0.0,AND,Andorra,AND,2007-07-01,Montserrat Pujol,1979.0,Female,TJ,NR,Outdoor
 13.49,1.8,ANG,Angers,FRA,2002-07-27,Teresa Nzola Meso Ba,1983.0,Female,TJ,NR,Outdoor
-12.30,-0.3,ANT,Hobbs NM,USA,2023-05-20,Alyssa Dyett,2005.0,Female,TJ,NR,Outdoor
+12.30,-0.3,ANT,Hobbs,USA,2023-05-20,Alyssa Dyett,2005.0,Female,TJ,NR,Outdoor
 13.91,,ARG,Lima,PER,1993-07-09,Andrea Ávila,1970.0,Female,TJ,NR,Outdoor
-13.56,1.9,ARM,Alexándria GRE,GRE,2022-05-17,Kristína Alvertsián,1990.0,Female,TJ,NR,Outdoor
+13.56,1.9,ARM,Alexándria,GRE,2022-05-17,Kristína Alvertsián,1990.0,Female,TJ,NR,Outdoor
 11.99,0.3,ARU,Tilburg,NED,2018-05-21,Judeska Sheppard,1999.0,Female,TJ,NR,Outdoor
 8.72,,ASA,Utulei,ASA,1992-09-04,Ira Ripine,,Female,TJ,NR,Outdoor
 14.04,2.0,AUS,Hobart,AUS,2002-03-09,Nicole Mladenis,1975.0,Female,TJ,NR,Outdoor
 13.75,-0.2,AUT,Linz,AUT,1997-07-09,Ljudmila Ninova,1960.0,Female,TJ,NR,Outdoor
 13.89,1.0,AZE,Almaty,KAZ,2023-07-02,Yekaterina Sariyeva,1995.0,Female,TJ,NR,Outdoor
-14.03,1.0,BAH,Philadelphia PA,USA,2017-04-29,Tamara Myers,1993.0,Female,TJ,NR,Outdoor
-13.35,0.2,BAR,Austin TX,USA,2008-04-04,Seidre Forde,1985.0,Female,TJ,NR,Outdoor
+14.03,1.0,BAH,Philadelphia,USA,2017-04-29,Tamara Myers,1993.0,Female,TJ,NR,Outdoor
+13.35,0.2,BAR,Austin,USA,2008-04-04,Seidre Forde,1985.0,Female,TJ,NR,Outdoor
 10.89,,BDI,Butare,BDI,2015-08-21,Amissa Noëlla,,Female,TJ,NR,Outdoor
 14.55,2.0,BEL,Barcelona,ESP,2010-07-31,Svetlana Bolshakova,1984.0,Female,TJ,NR,Outdoor
 12.69,,BEN,Porto Novo,BEN,2018-07-15,Mariam Issifou,1994.0,Female,TJ,NR,Outdoor
-13.08,1.4,BER,Orlando FL,USA,2012-03-24,Jasmine Brunson,1991.0,Female,TJ,NR,Outdoor
+13.08,1.4,BER,Orlando,USA,2012-03-24,Jasmine Brunson,1991.0,Female,TJ,NR,Outdoor
 9.80,,BHU,Thimphu,BHU,2016-07-08,Tenzin Choden,,Female,TJ,NR,Outdoor
 12.92,,BIH,Sarajevo,BIH,2010-07-04,Andjela Kovacevic,1993.0,Female,TJ,NR,Outdoor
-12.79,,BIZ,Los Angeles CA,USA,1996-05-04,Althea Moses,1970.0,Female,TJ,NR,Outdoor
+12.79,,BIZ,Los Angeles,USA,1996-05-04,Althea Moses,1970.0,Female,TJ,NR,Outdoor
 14.76,0.5,BLR,Brest,BLR,2012-05-26,Aksinnia Dzetsuk,1986.0,Female,TJ,NR,Outdoor
 14.76,0.4,BLR,Brest,BLR,2012-05-26,Kseniya Datsuk,1986.0,Female,TJ,NR,Outdoor
 13.37,0.2,BOL,Cochabamba,BOL,2018-06-07,Valeria Quispe,1997.0,Female,TJ,NR,Outdoor
@@ -34,7 +34,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 13.63,1.3,BUR,Ouagadougou,BUR,2001-05-20,Chantal Ouaba,1975.0,Female,TJ,NR,Outdoor
 12.12,,CAF,Réduit,MRI,1999-05-04,Maria-Joëlle Conjungo,1975.0,Female,TJ,NR,Outdoor
 10.80,,CAM,Phnom Penh,CAM,2018-12-24,Seyha Chan,1994.0,Female,TJ,NR,Outdoor
-14.03,0.8,CAN,London ON,CAN,2023-05-28,Caroline Ehrhardt,1992.0,Female,TJ,NR,Outdoor
+14.03,0.8,CAN,London,CAN,2023-05-28,Caroline Ehrhardt,1992.0,Female,TJ,NR,Outdoor
 11.11,,CAY,George Town,CAY,2005-03-19,Opal Bodden,,Female,TJ,NR,Outdoor
 12.73,,CGO,Johannesburg,RSA,1999-09-18,Masaka Youlou,,Female,TJ,NR,Outdoor
 10.98,,CHA,N'Djamena,CHA,1996-07-04,Haoua Nouta Mantangor,,Female,TJ,NR,Outdoor
@@ -54,7 +54,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 15.20,0.0,CZE,Athína,GRE,1997-08-04,Šárka Kašpárková,1971.0,Female,TJ,NR,Outdoor
 13.99,0.8,DEN,Albi,FRA,2020-09-13,Janne Nielsen,1993.0,Female,TJ,NR,Outdoor
 14.90,-0.2,DMA,Budapest,HUN,2023-08-25,Thea LaFond,1994.0,Female,TJ,NR,Outdoor
-14.52,0.5,DOM,Eugene OR,USA,2022-07-16,Ana José Tima,1989.0,Female,TJ,NR,Outdoor
+14.52,0.5,DOM,Eugene,USA,2022-07-16,Ana José Tima,1989.0,Female,TJ,NR,Outdoor
 14.05,0.0,ECU,Medellín,COL,2019-05-01,Liuba M. Zaldívar,1993.0,Female,TJ,NR,Outdoor
 14.05,0.8,ECU,Barranquilla,COL,2019-05-18,Liuba M. Zaldívar,1993.0,Female,TJ,NR,Outdoor
 13.57,0.6,EGY,Oran,ALG,2023-07-07,Esraa Owis,1997.0,Female,TJ,NR,Outdoor
@@ -63,7 +63,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 14.87,0.5,ESP,Tokyo,JPN,2021-08-01,Ana Peleteiro-Compaoré,1995.0,Female,TJ,NR,Outdoor
 14.43,0.6,EST,Beijing,CHN,2006-08-17,Kaire Leibak,1988.0,Female,TJ,NR,Outdoor
 13.29,,ETH,Addis Ababa,ETH,2024-01-31,Ajuda Umed,,Female,TJ,NR,Outdoor
-12.86,-0.7,FIJ,Claremont CA,USA,2013-04-13,Milika Tuivanuavou,1990.0,Female,TJ,NR,Outdoor
+12.86,-0.7,FIJ,Claremont,USA,2013-04-13,Milika Tuivanuavou,1990.0,Female,TJ,NR,Outdoor
 14.64,-0.4,FIN,München,GER,2022-08-19,Kristiina Mäkelä,1992.0,Female,TJ,NR,Outdoor
 14.69,2.0,FRA,München,GER,2007-06-23,Teresa Nzola Meso Ba,1983.0,Female,TJ,NR,Outdoor
 9.86,,FSM,Santa Rita,GUM,1999-08-06,Angie Nedelec,,Female,TJ,NR,Outdoor
@@ -77,11 +77,11 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 14.33,0.8,GHA,Kingston,JAM,2019-06-08,Nadia Eke,1993.0,Female,TJ,NR,Outdoor
 9.81,,GIB,Reading,GBR,2017-10-06,Kaia Kaemmerlen,,Female,TJ,NR,Outdoor
 15.32,0.9,GRE,Athína,GRE,2004-08-21,Hrisopiyí Devetzí,1976.0,Female,TJ,NR,Outdoor
-14.06,-0.1,GRN,Athens GA,USA,2008-06-07,Patricia Sylvester,1983.0,Female,TJ,NR,Outdoor
+14.06,-0.1,GRN,Athens,USA,2008-06-07,Patricia Sylvester,1983.0,Female,TJ,NR,Outdoor
 13.72,0.0,GUA,San Salvador,ESA,2018-06-23,Thelma Nohemí Fuentes,1992.0,Female,TJ,NR,Outdoor
 12.74,,GUI,Hagetmau,FRA,2000-07-26,Maryama Bah,,Female,TJ,NR,Outdoor
 11.01,,GUM,Dededo,GUM,2016-05-13,Regine Tugade,1998.0,Female,TJ,NR,Outdoor
-14.03,-1.0,GUY,Gainesville FL,USA,2022-04-16,Natricia Hooper,1998.0,Female,TJ,NR,Outdoor
+14.03,-1.0,GUY,Gainesville,USA,2022-04-16,Natricia Hooper,1998.0,Female,TJ,NR,Outdoor
 13.47,-1.0,HAI,Xalapa,MEX,2014-11-27,Pascale Delaunay,1982.0,Female,TJ,NR,Outdoor
 12.99,1.0,HKG,Hongkong,HKG,2023-02-26,Vera Chan Shannon,1998.0,Female,TJ,NR,Outdoor
 11.60,,HON,Tegucigalpa,HON,1994-12-03,Pastora Chávez,1972.0,Female,TJ,NR,Outdoor
@@ -93,9 +93,9 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 11.84,,IRQ,Baghdad,IRQ,2021-10-30,Chawan Bahaalddin Hassan,1994.0,Female,TJ,NR,Outdoor
 13.40,0.2,ISL,København,DEN,2023-05-28,Irma Gunnarsdóttir,1998.0,Female,TJ,NR,Outdoor
 14.78,-0.1,ISR,Beijing,CHN,2015-08-24,Hanna Minenko,1989.0,Female,TJ,NR,Outdoor
-13.73,,ISV,Tuscaloosa AL,USA,1987-05-17,Flora Hyacinth,1966.0,Female,TJ,NR,Outdoor
+13.73,,ISV,Tuscaloosa,USA,1987-05-17,Flora Hyacinth,1966.0,Female,TJ,NR,Outdoor
 15.03,1.9,ITA,Roma,ITA,2004-06-26,Magdelin Martinez,1976.0,Female,TJ,NR,Outdoor
-13.36,1.1,IVB,Fayetteville AR,USA,2019-05-11,Kala Penn,1998.0,Female,TJ,NR,Outdoor
+13.36,1.1,IVB,Fayetteville,USA,2019-05-11,Kala Penn,1998.0,Female,TJ,NR,Outdoor
 15.16,0.7,JAM,Linz,AUT,2004-08-02,Trecia Smith,1975.0,Female,TJ,NR,Outdoor
 12.60,0.0,JOR,Al-Ain,UAE,2011-10-29,Rima Taha Farid,1987.0,Female,TJ,NR,Outdoor
 14.16,0.7,JPN,Osaka,JPN,2023-06-03,Mariko Morimoto,1995.0,Female,TJ,NR,Outdoor
@@ -110,7 +110,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 14.76,1.1,LAT,Sheffield,GBR,1997-06-29,Gundega Sproge,1972.0,Female,TJ,NR,Outdoor
 9.29,,LBA,San Donato Milanese,ITA,2008-06-18,Najla Aqdeir Ali Salem,,Female,TJ,NR,Outdoor
 12.08,,LBN,Sydney,AUS,2003-10-25,Sandra Gabrael,,Female,TJ,NR,Outdoor
-13.52,1.1,LBR,Sacramento CA,USA,2007-06-09,Decontee Kaye,1987.0,Female,TJ,NR,Outdoor
+13.52,1.1,LBR,Sacramento,USA,2007-06-09,Decontee Kaye,1987.0,Female,TJ,NR,Outdoor
 13.91,1.7,LCA,Barranquilla,COL,2018-08-01,Sandisha Antoine,1991.0,Female,TJ,NR,Outdoor
 13.57,0.6,LES,Gold Coast,AUS,2018-04-10,Lerato Sechele,1994.0,Female,TJ,NR,Outdoor
 10.20,,LIE,Zürich,SUI,2021-08-15,Nadine Stüber,2005.0,Female,TJ,NR,Outdoor
@@ -125,7 +125,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 10.63,1.6,MDV,Hulhumalé,MDV,2023-05-14,Ahnaa Nizaar,2007.0,Female,TJ,NR,Outdoor
 14.02,1.9,MEX,Queretaro,MEX,2018-04-29,Ivonne Rangel,1993.0,Female,TJ,NR,Outdoor
 12.60,,MGL,Ulan Bator,MGL,2022-09-17,E Oyundari,1999.0,Female,TJ,NR,Outdoor
-9.83,,MHL,McMinnville OR,USA,2016-05-13,Rosemaline Watley,2001.0,Female,TJ,NR,Outdoor
+9.83,,MHL,McMinnville,USA,2016-05-13,Rosemaline Watley,2001.0,Female,TJ,NR,Outdoor
 12.25,,MKD,Skopje,YUG,1991-05-25,Vasilka Stojcevska,1968.0,Female,TJ,NR,Outdoor
 12.94,0.0,MLI,Niamey,NIG,2005-12-11,Yah Koïta,1980.0,Female,TJ,NR,Outdoor
 13.04,1.2,MLT,Marsa,MLT,2023-04-22,Claire Azzopardi,1999.0,Female,TJ,NR,Outdoor
@@ -139,7 +139,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 13.51,-0.4,NED,Izmir,TUR,2011-06-18,Brenda Baar,1987.0,Female,TJ,NR,Outdoor
 12.20,,NEP,Kathmandu,NEP,2013-04-11,Keshari Chaudhari,1991.0,Female,TJ,NR,Outdoor
 9.85,1.3,NFI,Christchurch,NZL,2002-12-14,Jedda Fletcher,,Female,TJ,NR,Outdoor
-14.50,2.0,NGR,Lubbock TX,USA,2021-04-10,Ruth Usoro,1997.0,Female,TJ,NR,Outdoor
+14.50,2.0,NGR,Lubbock,USA,2021-04-10,Ruth Usoro,1997.0,Female,TJ,NR,Outdoor
 10.04,,NIG,Niamey,NIG,1998-05-31,Farida Illaaouta,,Female,TJ,NR,Outdoor
 9.86,,NIU,Tumbi Umbi,NIU,2003-02-01,Jade Roughan,,Female,TJ,NR,Outdoor
 10.10,,NMI,Koror,PLW,2010-05-08,Jackie Wonenberg,,Female,TJ,NR,Outdoor
@@ -152,14 +152,14 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 12.58,,PAN,Ciudad de Panamá,PAN,2016-04-30,Ana Martínez,1994.0,Female,TJ,NR,Outdoor
 13.04,2.0,PAR,Encarnación,PAR,2021-10-17,Ana Paula Arguello,2003.0,Female,TJ,NR,Outdoor
 13.63,0.4,PER,Lima,PER,2022-03-05,Silvana Segura,1990.0,Female,TJ,NR,Outdoor
-12.92,1.3,PHI,Sacramento CA,USA,2018-05-26,Marisa Kwiatkowski,1996.0,Female,TJ,NR,Outdoor
+12.92,1.3,PHI,Sacramento,USA,2018-05-26,Marisa Kwiatkowski,1996.0,Female,TJ,NR,Outdoor
 9.95,0.7,PLE,Damascus,SYR,2004-09-13,Kmar Assoued,,Female,TJ,NR,Outdoor
 9.89,0.7,PLW,Susupe,NMI,2006-06-26,Barbara Gbewonyo,,Female,TJ,NR,Outdoor
-13.28,1.4,PNG,Bradenton FL,USA,2017-05-27,Rellie Kaputin,1993.0,Female,TJ,NR,Outdoor
+13.28,1.4,PNG,Bradenton,USA,2017-05-27,Rellie Kaputin,1993.0,Female,TJ,NR,Outdoor
 14.44,1.8,POL,Barcelona,ESP,2010-07-29,Małgorzata Trybańska-Strońska,1981.0,Female,TJ,NR,Outdoor
 15.01,1.0,POR,Tokyo,JPN,2021-08-01,Patrícia Mamona,1988.0,Female,TJ,NR,Outdoor
 13.40,,PRK,Pyongyang,PRK,1998-10-10,O Mi Song,1976.0,Female,TJ,NR,Outdoor
-13.53,1.7,PUR,Chula Vista CA,USA,2019-06-16,Tanasia Lea,1991.0,Female,TJ,NR,Outdoor
+13.53,1.7,PUR,Chula Vista,USA,2019-06-16,Tanasia Lea,1991.0,Female,TJ,NR,Outdoor
 12.83,1.5,PYF,Suva,FIJ,2003-07-12,Velomique Boyer,1972.0,Female,TJ,NR,Outdoor
 11.22,,QAT,Muscat,OMA,2015-03-14,Mubaraka Al-Mannai,,Female,TJ,NR,Outdoor
 15.16,0.1,ROU,Athína,GRE,1997-08-04,Rodica Mateescu,1971.0,Female,TJ,NR,Outdoor
@@ -169,15 +169,15 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 11.13,,SAM,Apia,SAM,2006-12-16,Sopolema Tuitama,,Female,TJ,NR,Outdoor
 15.00,1.2,SEN,Iráklio,GRE,2004-07-04,Kéne Ndoye,1978.0,Female,TJ,NR,Outdoor
 12.95,,SEY,Nairobi,KEN,2011-07-15,Jane Boniface,1991.0,Female,TJ,NR,Outdoor
-12.92,-2.9,SGP,Philadelphia PA,USA,2023-05-07,Tia Louise Rozario,2000.0,Female,TJ,NR,Outdoor
-12.67,,SKN,Hobbs TX,USA,2019-05-18,Krystal Liburd,1997.0,Female,TJ,NR,Outdoor
-10.91,,SLE,Oakton VA,USA,2006-05-06,Assiatu Williams,,Female,TJ,NR,Outdoor
+12.92,-2.9,SGP,Philadelphia,USA,2023-05-07,Tia Louise Rozario,2000.0,Female,TJ,NR,Outdoor
+12.67,,SKN,Hobbs,USA,2019-05-18,Krystal Liburd,1997.0,Female,TJ,NR,Outdoor
+10.91,,SLE,Oakton,USA,2006-05-06,Assiatu Williams,,Female,TJ,NR,Outdoor
 15.03,1.1,SLO,Beijing,CHN,2008-08-17,Marija Šestak,1979.0,Female,TJ,NR,Outdoor
 11.65,,SMR,San Marino,SMR,2003-04-26,Lucia Gualandra,1978.0,Female,TJ,NR,Outdoor
 10.52,0.2,SOL,Honiara,SOL,2023-10-26,Charlyn Mamae,2000.0,Female,TJ,NR,Outdoor
 14.56,-0.4,SRB,Thessaloníki,GRE,2009-09-13,Biljana Topić,1977.0,Female,TJ,NR,Outdoor
 13.66,1.6,SRI,Colombo,SRI,2019-08-18,H.D. Viduka Lakshani,1996.0,Female,TJ,NR,Outdoor
-11.83,-2.0,SSD,La Crosse WI,USA,2018-05-17,Nyakume Becca Ter Dup,,Female,TJ,NR,Outdoor
+11.83,-2.0,SSD,La Crosse,USA,2018-05-17,Nyakume Becca Ter Dup,,Female,TJ,NR,Outdoor
 13.90,0.7,STP,Braga,POR,2023-07-30,Agate De Sousa,2000.0,Female,TJ,NR,Outdoor
 15.28,0.3,SUD,Linz,AUT,2004-08-02,Yamilé Aldama,1972.0,Female,TJ,NR,Outdoor
 13.49,-0.5,SUI,La Chaux-de-Fonds,SUI,2018-07-01,Fatim Affessi,1993.0,Female,TJ,NR,Outdoor
@@ -187,7 +187,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 10.60,,SWZ,Mbabane,SWZ,2002-01-01,Gcebile Gumedze,,Female,TJ,NR,Outdoor
 13.01,,SYR,Radès,TUN,2009-06-21,Fadwa Al-Boza,1990.0,Female,TJ,NR,Outdoor
 10.80,,TAN,Dar-es-Salaam,TAN,2016-06-12,Rose Seif,,Female,TJ,NR,Outdoor
-12.57,,TGA,Coffeyville KS,USA,2007-05-19,Melesia Mafile'o,1984.0,Female,TJ,NR,Outdoor
+12.57,,TGA,Coffeyville,USA,2007-05-19,Melesia Mafile'o,1984.0,Female,TJ,NR,Outdoor
 14.17,1.0,THA,Taipei,TPE,2018-05-25,Parinya Chuaimaroeng,1997.0,Female,TJ,NR,Outdoor
 12.58,0.6,TJK,Alma-Ata,URS,1991-05-12,Marina Rudneva,,Female,TJ,NR,Outdoor
 13.97,0.9,TKM,Singapore,SGP,1999-10-01,Viktoriya Brigadnaya,1980.0,Female,TJ,NR,Outdoor
@@ -195,24 +195,24 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 10.33,,TLS,Vagos,POR,2021-07-31,Ofélia Faria,,Female,TJ,NR,Outdoor
 13.18,,TOG,Obernai,FRA,2001-07-29,Edwige Néglogpé,,Female,TJ,NR,Outdoor
 13.63,,TPE,Taoyuan,TPE,1999-12-26,Wang Kuo-Huei,1978.0,Female,TJ,NR,Outdoor
-14.40,0.0,TTO,Alexandria VA,USA,2014-08-31,Ayanna Alexander,1982.0,Female,TJ,NR,Outdoor
+14.40,0.0,TTO,Alexandria,USA,2014-08-31,Ayanna Alexander,1982.0,Female,TJ,NR,Outdoor
 13.08,,TUN,Dakar,SEN,2000-05-06,Monya Jelassi,1979.0,Female,TJ,NR,Outdoor
 14.16,-0.2,TUR,Chorzów,POL,2023-06-24,Tuğba Danişmaz,1999.0,Female,TJ,NR,Outdoor
 10.29,1.0,TUV,Nikao,COK,2009-09-25,Asenate Manoa,1992.0,Female,TJ,NR,Outdoor
 11.30,,UAE,Al-Kuwait,KUW,2022-05-17,Latifa Al-Kaabi,,Female,TJ,NR,Outdoor
-14.06,0.0,UGA,Nashville TN,USA,2011-04-09,Sarah Nambawa,1985.0,Female,TJ,NR,Outdoor
-15.50,0.9,UKR,Göteborg/U,SWE,1995-08-10,Inessa Kravets,1966.0,Female,TJ,NR,Outdoor
+14.06,0.0,UGA,Nashville,USA,2011-04-09,Sarah Nambawa,1985.0,Female,TJ,NR,Outdoor
+15.50,0.9,UKR,Göteborg,SWE,1995-08-10,Inessa Kravets,1966.0,Female,TJ,NR,Outdoor
 13.59,-0.2,URU,Montevideo,URU,1999-05-08,Mónica Falcioni,1968.0,Female,TJ,NR,Outdoor
-14.91,1.1,USA,Chula Vista CA,USA,2021-04-25,Keturah Orji,1996.0,Female,TJ,NR,Outdoor
+14.91,1.1,USA,Chula Vista,USA,2021-04-25,Keturah Orji,1996.0,Female,TJ,NR,Outdoor
 14.55,1.8,UZB,Haniá,GRE,2005-06-06,Anastasiya Juravlyeva,1981.0,Female,TJ,NR,Outdoor
 12.04,-0.9,VAN,Honiara,SOL,2023-11-30,Lyza Malres,,Female,TJ,NR,Outdoor
 15.67,0.7,VEN,Tokyo,JPN,2021-08-01,Yulimar Rojas,1995.0,Female,TJ,NR,Outdoor
 14.15,0.1,VIE,Kuala Lumpur,MAS,2017-08-23,Vu Thi Men,1990.0,Female,TJ,NR,Outdoor
-14.07,1.6,VIN,Walnut CA,USA,2023-04-15,Mikeisha Welcome,2000.0,Female,TJ,NR,Outdoor
+14.07,1.6,VIN,Walnut,USA,2023-04-15,Mikeisha Welcome,2000.0,Female,TJ,NR,Outdoor
 8.75,,YEM,Amman,JOR,2007-10-27,Hana Srouri,1991.0,Female,TJ,NR,Outdoor
 11.06,,ZAM,Kabwe,ZAM,1991-09-29,Victoria Mwase,,Female,TJ,NR,Outdoor
 13.09,,ZIM,Johannesburg,RSA,2020-03-14,Catherine Makaya,1995.0,Female,TJ,NR,Outdoor
-13.88,,AIA,Blacksburg VA,USA,2010-02-06,Shara Proctor,1988.0,Female,TJ,NR,Indoor
+13.88,,AIA,Blacksburg,USA,2010-02-06,Shara Proctor,1988.0,Female,TJ,NR,Indoor
 13.14,,ALB,Pireás,GRE,1997-02-21,Vera Bitanji,1969.0,Female,TJ,NR,Indoor
 14.31,,ALG,Birmingham,GBR,2003-03-15,Baya Rahouli,1979.0,Female,TJ,NR,Indoor
 12.40,,AND,Antequera,ESP,2015-02-21,Claudia Guri,1995.0,Female,TJ,NR,Indoor
@@ -222,20 +222,20 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 13.31,,AUS,Budapest,HUN,2004-03-05,Nicole Mladenis,1975.0,Female,TJ,NR,Indoor
 13.67,,AUT,Genova,ITA,1992-02-29,Ljudmila Ninova,1960.0,Female,TJ,NR,Indoor
 13.56,,AZE,Baku,AZE,2024-01-26,Yekaterina Sariyeva,1995.0,Female,TJ,NR,Indoor
-14.88,,BAH,Albuquerque NM,USA,2023-03-11,Charisma Taylor,1999.0,Female,TJ,NR,Indoor
-13.24,,BAR,Fayetteville AR,USA,2008-03-15,Seidre Forde,1985.0,Female,TJ,NR,Indoor
+14.88,,BAH,Albuquerque,USA,2023-03-11,Charisma Taylor,1999.0,Female,TJ,NR,Indoor
+13.24,,BAR,Fayetteville,USA,2008-03-15,Seidre Forde,1985.0,Female,TJ,NR,Indoor
 14.31,,BEL,Gent,BEL,2011-02-13,Svetlana Bolshakova,1984.0,Female,TJ,NR,Indoor
-13.19,,BER,Boston MA,USA,2012-02-25,Jasmine Brunson,1991.0,Female,TJ,NR,Indoor
+13.19,,BER,Boston,USA,2012-02-25,Jasmine Brunson,1991.0,Female,TJ,NR,Indoor
 12.11,,BIH,Zenica,BIH,2011-02-12,Andjela Kovacevic,1993.0,Female,TJ,NR,Indoor
 14.48,,BLR,Gomel,BLR,2012-01-27,Aksinnia Dzetsuk,1986.0,Female,TJ,NR,Indoor
 14.48,,BLR,Gomel,BLR,2012-01-27,Kseniya Datsuk,1986.0,Female,TJ,NR,Indoor
 14.11,,BRA,Moskva,RUS,2006-03-10,Keila Costa,1983.0,Female,TJ,NR,Indoor
 14.94,,BUL,Maebashi,JPN,1999-03-07,Iva Prandzheva,1972.0,Female,TJ,NR,Indoor
 12.94,,BUR,Lyon,FRA,2013-03-16,Christophele Ouattara,1995.0,Female,TJ,NR,Indoor
-14.02,,CAN,Notre Dame IN,USA,2007-03-03,Tabia Charles,1985.0,Female,TJ,NR,Indoor
+14.02,,CAN,Notre Dame,USA,2007-03-03,Tabia Charles,1985.0,Female,TJ,NR,Indoor
 12.46,,CHI,Cochabamba,BOL,2024-01-28,Rocio Fernanda Munoz,2001.0,Female,TJ,NR,Indoor
 14.40,,CHN,Shanghai,CHN,2002-03-10,Huang Qiuyan,1980.0,Female,TJ,NR,Indoor
-13.20,,CIV,Fayetteville AR,USA,2003-03-15,Patricia Soman-Shunk,1981.0,Female,TJ,NR,Indoor
+13.20,,CIV,Fayetteville,USA,2003-03-15,Patricia Soman-Shunk,1981.0,Female,TJ,NR,Indoor
 14.88,,CMR,Birmingham,GBR,2003-03-15,Françoise Mbango,1976.0,Female,TJ,NR,Indoor
 12.92,,COD,UNKNOWN,???,1997-02-08,Carine Kanda,1980.0,Female,TJ,NR,Indoor
 13.55,,CRO,Zagreb,CRO,2019-02-02,Paola Borovic,1995.0,Female,TJ,NR,Indoor
@@ -255,9 +255,9 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 13.18,,GHA,Eaubonne,FRA,2014-02-11,Mathilde Boateng,1989.0,Female,TJ,NR,Indoor
 14.84,,GRE,Athína,GRE,2003-03-04,Hrisopiyí Devetzí,1976.0,Female,TJ,NR,Indoor
 14.84,,GRE,Athína,GRE,2003-03-04,Hysopigi Devetzi,1976.0,Female,TJ,NR,Indoor
-13.60,,GRN,Gainesville FL,USA,2007-01-27,Patricia Sylvester,1983.0,Female,TJ,NR,Indoor
-13.28,,GUA,Houston TX,USA,2019-02-08,Thelma Nohemí Fuentes,1992.0,Female,TJ,NR,Indoor
-14.10,,GUY,Clemson SC,USA,2022-01-29,Natricia Hooper,1998.0,Female,TJ,NR,Indoor
+13.60,,GRN,Gainesville,USA,2007-01-27,Patricia Sylvester,1983.0,Female,TJ,NR,Indoor
+13.28,,GUA,Houston,USA,2019-02-08,Thelma Nohemí Fuentes,1992.0,Female,TJ,NR,Indoor
+14.10,,GUY,Clemson,USA,2022-01-29,Natricia Hooper,1998.0,Female,TJ,NR,Indoor
 12.73,,HKG,Tehran,IRI,2024-02-18,Vera Chan Shannon,1998.0,Female,TJ,NR,Indoor
 13.93,,HUN,Ostrava,CZE,1998-01-29,Zita Bálint,1971.0,Female,TJ,NR,Indoor
 13.04,,INA,Hanoi,VIE,2009-11-01,Maria Natalia Londa,1990.0,Female,TJ,NR,Indoor
@@ -268,35 +268,35 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 14.49,,ISR,Praha,CZE,2015-03-08,Hanna Minenko,1989.0,Female,TJ,NR,Indoor
 13.52,,ISV,Toronto,CAN,1993-03-13,Flora Hyacinth,1966.0,Female,TJ,NR,Indoor
 14.81,,ITA,Budapest,HUN,2004-03-05,Magdelin Martinez,1976.0,Female,TJ,NR,Indoor
-13.45,,IVB,College Station TX,USA,2011-03-12,Chantel Malone,1991.0,Female,TJ,NR,Indoor
+13.45,,IVB,College Station,USA,2011-03-12,Chantel Malone,1991.0,Female,TJ,NR,Indoor
 14.84,,JAM,Moskva,RUS,2006-03-11,Trecia Smith,1975.0,Female,TJ,NR,Indoor
 13.66,,JPN,Astana,KAZ,2023-02-11,Mariko Morimoto,1995.0,Female,TJ,NR,Indoor
 15.14,,KAZ,Doha,QAT,2010-03-13,Olga Rypakova,1984.0,Female,TJ,NR,Indoor
 12.61,,KGZ,Bishkek,KGZ,2005-02-25,Rakhima Sardi,1986.0,Female,TJ,NR,Indoor
 12.70,,KOR,Tianjin,CHN,2004-02-18,Jung Hye-Kyung,1981.0,Female,TJ,NR,Indoor
 9.78,,KOS,Tirane,ALB,2015-02-02,Rita Hajdini,1998.0,Female,TJ,NR,Indoor
-14.15,,LAT,Fayetteville AR,USA,2021-03-13,Rūta Lasmane,2000.0,Female,TJ,NR,Indoor
-13.32,,LBR,Air Force Academy CO,USA,2009-02-28,Decontee Kaye,1987.0,Female,TJ,NR,Indoor
-12.40,,LCA,Cedar Falls IA,USA,1999-02-20,Michelle Baptiste,1977.0,Female,TJ,NR,Indoor
+14.15,,LAT,Fayetteville,USA,2021-03-13,Rūta Lasmane,2000.0,Female,TJ,NR,Indoor
+13.32,,LBR,Air Force Academy,USA,2009-02-28,Decontee Kaye,1987.0,Female,TJ,NR,Indoor
+12.40,,LCA,Cedar Falls,USA,1999-02-20,Michelle Baptiste,1977.0,Female,TJ,NR,Indoor
 14.13,,LTU,Madrid,ESP,2018-02-08,Dovilė Kilty,1993.0,Female,TJ,NR,Indoor
 12.16,,LUX,Dortmund,GER,2000-02-13,Claudia Czerwonka,1972.0,Female,TJ,NR,Indoor
 14.17,,MDA,Lisboa,POR,2001-03-11,Olga Bolshova,1968.0,Female,TJ,NR,Indoor
-13.20,,MEX,Albuquerque NM,USA,2019-02-02,Ivonne Rangel,1993.0,Female,TJ,NR,Indoor
+13.20,,MEX,Albuquerque,USA,2019-02-02,Ivonne Rangel,1993.0,Female,TJ,NR,Indoor
 11.01,,MKD,Beograd,SRB,2024-01-17,Lina Iseni,2008.0,Female,TJ,NR,Indoor
-13.40,,MLT,Albuquerque NM,USA,2024-02-10,Rachela Pace,2003.0,Female,TJ,NR,Indoor
+13.40,,MLT,Albuquerque,USA,2024-02-10,Rachela Pace,2003.0,Female,TJ,NR,Indoor
 12.60,,MNE,Beograd,SRB,2021-01-16,Ljiljana Matovic,1993.0,Female,TJ,NR,Indoor
 13.21,,NED,Liévin,FRA,2022-01-23,Maureen Herremans,1996.0,Female,TJ,NR,Indoor
-14.36,,NGR,Lubbock TX,USA,2021-02-27,Ruth Usoro,1997.0,Female,TJ,NR,Indoor
+14.36,,NGR,Lubbock,USA,2021-02-27,Ruth Usoro,1997.0,Female,TJ,NR,Indoor
 13.65,,NOR,Haugesund,NOR,2019-02-02,Oda Utsi Onstad,1990.0,Female,TJ,NR,Indoor
 14.16,,POL,Chemnitz,GER,2011-01-27,Malgorzata Trybanska,1981.0,Female,TJ,NR,Indoor
 14.16,,POL,Chemnitz,GER,2011-01-27,Małgorzata Trybańska-Strońska,1981.0,Female,TJ,NR,Indoor
 14.53,,POR,Toruń,POL,2021-03-07,Patrícia Mamona,1988.0,Female,TJ,NR,Indoor
 12.90,,PRK,Macau,MAC,2007-10-30,Kang Hye Soon,1987.0,Female,TJ,NR,Indoor
 14.94,,ROU,Bucureşti,ROU,2000-02-05,Cristina Nicolau,1977.0,Female,TJ,NR,Indoor
-12.62,,RSA,Ann Arbor MI,USA,2019-02-02,Renate Van Tonder,1998.0,Female,TJ,NR,Indoor
+12.62,,RSA,Ann Arbor,USA,2019-02-02,Renate Van Tonder,1998.0,Female,TJ,NR,Indoor
 15.36,,RUS,Budapest,HUN,2004-03-06,Tatyana Lebedeva,1976.0,Female,TJ,NR,Indoor
 14.72,,SEN,Birmingham,GBR,2003-03-15,Kéne Ndoye,1978.0,Female,TJ,NR,Indoor
-12.46,,SKN,Lubbock TX,USA,2018-03-03,Krystal Liburd,1997.0,Female,TJ,NR,Indoor
+12.46,,SKN,Lubbock,USA,2018-03-03,Krystal Liburd,1997.0,Female,TJ,NR,Indoor
 15.08,,SLO,Athína,GRE,2008-02-13,Marija Šestak,1979.0,Female,TJ,NR,Indoor
 11.74,,SMR,Ancona,ITA,2021-01-31,Emma Corbelli,1999.0,Female,TJ,NR,Indoor
 14.37,,SRB,Torino,ITA,2009-03-08,Biljana Topić,1977.0,Female,TJ,NR,Indoor
@@ -309,15 +309,15 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 13.78,,THA,Hanoi,VIE,2009-11-01,Thitima Muangjan,1983.0,Female,TJ,NR,Indoor
 12.52,,TKM,Moskva,RUS,1998-02-13,Viktoriya Brigadnaya,1980.0,Female,TJ,NR,Indoor
 12.61,,TPE,Tehran,IRI,2004-02-08,Wang Kuo-Huei,1978.0,Female,TJ,NR,Indoor
-13.99,,TTO,Blacksburg VA,USA,2010-02-20,Ayanna Alexander,1982.0,Female,TJ,NR,Indoor
-12.57,,TUN,Mankato MN,USA,2024-02-24,Ghada Hamdani,2001.0,Female,TJ,NR,Indoor
+13.99,,TTO,Blacksburg,USA,2010-02-20,Ayanna Alexander,1982.0,Female,TJ,NR,Indoor
+12.57,,TUN,Mankato,USA,2024-02-24,Ghada Hamdani,2001.0,Female,TJ,NR,Indoor
 14.31,,TUR,Istanbul,TUR,2023-03-04,Tuğba Danişmaz,1999.0,Female,TJ,NR,Indoor
-13.90,,UGA,Murfreesboro TN,USA,2010-12-11,Sarah Nambawa,1985.0,Female,TJ,NR,Indoor
-14.88,,UKR,Göteborg/Sc,SWE,2013-03-03,Olha Saladukha,1983.0,Female,TJ,NR,Indoor
-15.12,,USA,Albuquerque NM,USA,2023-03-11,Jasmine Moore,2001.0,Female,TJ,NR,Indoor
+13.90,,UGA,Murfreesboro,USA,2010-12-11,Sarah Nambawa,1985.0,Female,TJ,NR,Indoor
+14.88,,UKR,Göteborg,SWE,2013-03-03,Olha Saladukha,1983.0,Female,TJ,NR,Indoor
+15.12,,USA,Albuquerque,USA,2023-03-11,Jasmine Moore,2001.0,Female,TJ,NR,Indoor
 14.24,,UZB,Pireás,GRE,2006-02-25,Anastasiya Juravlyeva,1981.0,Female,TJ,NR,Indoor
 15.74,,VEN,Beograd,SRB,2022-03-20,Yulimar Rojas,1995.0,Female,TJ,NR,Indoor
 13.22,,VIE,Tehran,IRI,2018-02-01,Bui Thi Thu Thao,1992.0,Female,TJ,NR,Indoor
-14.21,,VIN,Albuquerque NM,USA,2023-03-11,Mikeisha Welcome,2000.0,Female,TJ,NR,Indoor
+14.21,,VIN,Albuquerque,USA,2023-03-11,Mikeisha Welcome,2000.0,Female,TJ,NR,Indoor
 14.26,,YUG,Pireás,GRE,2002-02-23,Marija Šestak,1979.0,Female,TJ,NR,Indoor
-13.03,,ZIM,Blacksburg VA,USA,2010-01-22,Grace Mavugara,1988.0,Female,TJ,NR,Indoor
+13.03,,ZIM,Blacksburg,USA,2010-01-22,Grace Mavugara,1988.0,Female,TJ,NR,Indoor

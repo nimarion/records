@@ -1,6 +1,6 @@
 result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,environment
 46:19.13,ALG,Alger,ALG,2023-03-10,Souad Azzi,1999.0,Female,10000W,NR,Outdoor
-41:57.22,AUS,Seattle WA,USA,1990-07-24,Kerry Saxby-Junna,1961.0,Female,10000W,NR,Outdoor
+41:57.22,AUS,Seattle,USA,1990-07-24,Kerry Saxby-Junna,1961.0,Female,10000W,NR,Outdoor
 45:41.3,AUT,Bergen,NOR,1992-05-16,Vera Toporek,1967.0,Female,10000W,NR,Outdoor
 51:18.9,BEL,Weert,NED,1992-06-03,Christa Ceulemans,1967.0,Female,10000W,NR,Outdoor
 1:12:05.00,CIV,Ouagadougou,BUR,2007-12-08,Agnes Kra Brou,,Female,10000W,NR,Outdoor
@@ -34,7 +34,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 1:01:52.09,PLE,Aleppo,SYR,2010-09-18,Aya Abbas,,Female,10000W,NR,Outdoor
 42:47.4,POL,Fana,NOR,1993-08-05,Katarzyna Radtke,1969.0,Female,10000W,NR,Outdoor
 43:08.17,POR,Seixal,POR,2008-07-19,Ana Cabecinha,1984.0,Female,10000W,NR,Outdoor
-41:56.23,RUS,Seattle WA,USA,1990-07-24,Nadezhda Ryashkina,1967.0,Female,10000W,NR,Outdoor
+41:56.23,RUS,Seattle,USA,1990-07-24,Nadezhda Ryashkina,1967.0,Female,10000W,NR,Outdoor
 53:33.46,SGP,New Delhi,IND,1989-12-17,Helen Low,,Female,10000W,NR,Outdoor
 1:02:13.1,STP,Garoua,CMR,2003-08-01,Fumilay Fonseca,1988.0,Female,10000W,NR,Outdoor
 1:22:58.3,SUD,El Djezair,ALG,2004-10-07,Mashair Ali,,Female,10000W,NR,Outdoor

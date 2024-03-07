@@ -86,16 +86,16 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 3:15.9,SMR,Ravenna,ITA,1973-01-01,Roberta Ranocchini,,Female,1000,NR,Outdoor
 3:25.2,SOL,Suva,FIJ,1998-05-29,Elsie Daiwo,,Female,1000,NR,Outdoor
 2:39.79,SRB,Dubnica nad Váhom,SVK,2012-08-26,Amela Ljajić,1993.0,Female,1000,NR,Outdoor
-2:47.04,SSD,Eugene OR,USA,2022-07-15,Anjelina Nadai Lohalith,1995.0,Female,1000,NR,Outdoor
+2:47.04,SSD,Eugene,USA,2022-07-15,Anjelina Nadai Lohalith,1995.0,Female,1000,NR,Outdoor
 3:01.44,STP,Porto,POR,2021-06-27,Hanifa El Khatib,,Female,1000,NR,Outdoor
 2:31.51,SUI,Jerez de la Frontera,ESP,1989-09-13,Sandra Gasser,1962.0,Female,1000,NR,Outdoor
 2:38.64,SVK,Bern,SUI,2023-08-04,Gabriela Gajanová,1999.0,Female,1000,NR,Outdoor
-2:35.15,SWE,Göteborg/S,SWE,2017-07-11,Lovisa Lindh,1991.0,Female,1000,NR,Outdoor
+2:35.15,SWE,Göteborg,SWE,2017-07-11,Lovisa Lindh,1991.0,Female,1000,NR,Outdoor
 3:00.52,TOG,Singapore,SGP,2010-08-23,Pouwedou Adjodi,,Female,1000,NR,Outdoor
 2:41.76,TUN,Tunis,TUN,2002-04-14,Abir Nakhli,,Female,1000,NR,Outdoor
 2:39.92,TUR,Istanbul,TUR,2009-06-06,Yeliz Kurt,1984.0,Female,1000,NR,Outdoor
 2:32.12,UGA,Monaco,MON,2020-08-14,Halimah Nakaayi,1994.0,Female,1000,NR,Outdoor
-2:31.80,USA,Brunswick ME,USA,1999-07-03,Regina Jacobs,1963.0,Female,1000,NR,Outdoor
+2:31.80,USA,Brunswick,USA,1999-07-03,Regina Jacobs,1963.0,Female,1000,NR,Outdoor
 2:33.6,UZB,Podolsk,URS,1979-08-05,Svetlana Ulmasova,1953.0,Female,1000,NR,Outdoor
 2:38.74,ZIM,Noisy-le-Grand,FRA,1994-07-02,Julia Sakara,1969.0,Female,1000,NR,Outdoor
 2:52.87,ALG,Aubière,FRA,2010-01-03,Athina Bouakira,1991.0,Female,1000,NR,Indoor
@@ -103,9 +103,9 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 2:38.31,AUT,Sindelfingen,GER,1992-03-08,Theresia Kiesl,1963.0,Female,1000,NR,Indoor
 2:39.68,BEL,Liévin,FRA,2005-02-26,Sandra Stals,1975.0,Female,1000,NR,Indoor
 2:40.15,BUL,Sofia,BUL,2002-02-02,Tsvetelina Kirilova,1977.0,Female,1000,NR,Indoor
-2:33.75,CAN,Boston MA,USA,2023-01-28,Lucia Stafford,1998.0,Female,1000,NR,Indoor
-2:44.90,DEN,Clemson SC,USA,1986-03-01,Tina Krebs Bahn,1963.0,Female,1000,NR,Indoor
-2:47.22,DOM,Blacksburg VA,USA,2014-01-17,Alexis Panisse,1993.0,Female,1000,NR,Indoor
+2:33.75,CAN,Boston,USA,2023-01-28,Lucia Stafford,1998.0,Female,1000,NR,Indoor
+2:44.90,DEN,Clemson,USA,1986-03-01,Tina Krebs Bahn,1963.0,Female,1000,NR,Indoor
+2:47.22,DOM,Blacksburg,USA,2014-01-17,Alexis Panisse,1993.0,Female,1000,NR,Indoor
 2:38.80,ESP,Madrid,ESP,2005-02-24,Mayte Martínez,1976.0,Female,1000,NR,Indoor
 2:44.51,EST,Tallinn,EST,2007-02-02,Egle Uljas,1984.0,Female,1000,NR,Indoor
 2:33.06,ETH,Madrid,ESP,2017-02-24,Genzebe Dibaba,1991.0,Female,1000,NR,Indoor
@@ -115,26 +115,26 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 2:40.16,HUN,Stange,NOR,1999-01-30,Judit Varga,1976.0,Female,1000,NR,Indoor
 2:43.22,ISL,Reykjavik,ISL,2012-12-15,Aníta Hinriksdóttir,1996.0,Female,1000,NR,Indoor
 2:37.09,ITA,Birmingham,GBR,2023-02-25,Elena Bellò,1997.0,Female,1000,NR,Indoor
-2:37.55,JAM,New York NY,USA,2019-01-26,Natoya Goule-Toppin,1991.0,Female,1000,NR,Indoor
+2:37.55,JAM,New York,USA,2019-01-26,Natoya Goule-Toppin,1991.0,Female,1000,NR,Indoor
 2:59.24,KOS,Beograd,SRB,2022-03-18,Greza Bakraqi,1995.0,Female,1000,NR,Indoor
 2:42.30,LAT,Kuldiga,LAT,2019-01-19,Līga Velvere,1990.0,Female,1000,NR,Indoor
 2:35.5,LTU,Vilnius,URS,1988-01-31,Laima Baikauskaitė,1956.0,Female,1000,NR,Indoor
 2:36.01,MAR,Birmingham,GBR,2004-02-20,Sultana Aït Hammou,1980.0,Female,1000,NR,Indoor
 2:38.69,MDA,Moskva,URS,1984-02-11,Svetlana Guskova,1957.0,Female,1000,NR,Indoor
 2:58.31,MNE,Beograd,SRB,2019-12-28,Sladjana Perunović,1984.0,Female,1000,NR,Indoor
-2:30.94,MOZ,Stockholm/G,SWE,1999-02-25,Maria Mutola,1972.0,Female,1000,NR,Indoor
+2:30.94,MOZ,Stockholm,SWE,1999-02-25,Maria Mutola,1972.0,Female,1000,NR,Indoor
 2:36.99,NAM,Birmingham,GBR,2005-02-18,Agnes Samaria,1972.0,Female,1000,NR,Indoor
 2:37.85,NED,Birmingham,GBR,2023-02-25,Maureen Koster,1992.0,Female,1000,NR,Indoor
 2:43.47,NOR,Wrocław,POL,2024-01-28,Anne Gine Løvnes,2003.0,Female,1000,NR,Indoor
-2:36.96,NZL,Boston MA,USA,2000-02-06,Toni Hodgkinson,1971.0,Female,1000,NR,Indoor
+2:36.96,NZL,Boston,USA,2000-02-06,Toni Hodgkinson,1971.0,Female,1000,NR,Indoor
 2:35.69,POL,Birmingham,GBR,2023-02-25,Sofia Ennaoui,1995.0,Female,1000,NR,Indoor
 2:35.35,ROU,Birmingham,GBR,2023-02-25,Claudia Bobocea,1992.0,Female,1000,NR,Indoor
 2:32.16,RUS,Moskva,RUS,2006-01-25,Yuliya Chizhenko,1979.0,Female,1000,NR,Indoor
 2:38.03,SLO,Birmingham,GBR,2003-02-21,Jolanda Batagelj,1976.0,Female,1000,NR,Indoor
-2:45.06,SRB,New York NY,USA,2012-01-13,Marina Munćan,1982.0,Female,1000,NR,Indoor
+2:45.06,SRB,New York,USA,2012-01-13,Marina Munćan,1982.0,Female,1000,NR,Indoor
 2:37.10,SUI,Karlsruhe,GER,1990-02-11,Sandra Gasser,1962.0,Female,1000,NR,Indoor
 2:39.74,SVK,Bratislava,SVK,2003-02-16,Lucia Hrivnák Klocová,1983.0,Female,1000,NR,Indoor
-2:38.11,SWE,Stockholm/G,SWE,1999-02-25,Malin Ewerlöf,1972.0,Female,1000,NR,Indoor
+2:38.11,SWE,Stockholm,SWE,1999-02-25,Malin Ewerlöf,1972.0,Female,1000,NR,Indoor
 2:45.36,TAN,Chemnitz,GER,2003-02-07,Lwiza John,1980.0,Female,1000,NR,Indoor
 2:33.93,UKR,Moskva,RUS,1992-02-07,Inna Yevseyeva,1964.0,Female,1000,NR,Indoor
 2:34.19,USA,Birmingham,GBR,2004-02-20,Jen Toomey,1971.0,Female,1000,NR,Indoor

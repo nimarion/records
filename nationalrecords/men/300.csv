@@ -1,6 +1,6 @@
 result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,environment
 33.94,ALG,Alger,ALG,2022-02-12,Anas Es Saddik Hammouni,1995.0,Male,300,NR,Outdoor
-33.61,ANT,Fort Lauderdale FL,USA,2022-02-05,Cejhae Greene,1995.0,Male,300,NR,Outdoor
+33.61,ANT,Fort Lauderdale,USA,2022-02-05,Cejhae Greene,1995.0,Male,300,NR,Outdoor
 35.29,ARG,Mar del Plata,ARG,2022-10-27,Ignacio Cabrera,2005.0,Male,300,NR,Outdoor
 35.46,AUT,Wien,AUT,2022-08-31,Samuel Reindl,1996.0,Male,300,NR,Outdoor
 31.52,BAH,Ponce,PUR,2022-05-12,Steven Gardiner,1995.0,Male,300,NR,Outdoor
@@ -20,7 +20,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 32.94,ISR,Tel Aviv,ISR,2015-02-14,Donald Blair-Sanford,1987.0,Male,300,NR,Outdoor
 30.97,JAM,Ostrava,CZE,2010-05-27,Usain Bolt,1986.0,Male,300,NR,Outdoor
 32.21,JPN,Izumo,JPN,2015-04-12,Kenji Fujimitsu,1986.0,Male,300,NR,Outdoor
-32.76,KSA,Göteborg/S,SWE,2002-08-27,Hamdan Odha Al-Bishi,1981.0,Male,300,NR,Outdoor
+32.76,KSA,Göteborg,SWE,2002-08-27,Hamdan Odha Al-Bishi,1981.0,Male,300,NR,Outdoor
 32.28,KUW,Ljubljana,SLO,2004-08-10,Fawzi Dahash Al-Shammari,1979.0,Male,300,NR,Outdoor
 32.40,MEX,Naimette-Xhovémont,BEL,2014-07-16,José Carlos Herrera,1986.0,Male,300,NR,Outdoor
 32.57,MRI,Villeneuve d'Ascq,FRA,2005-06-12,Éric Milazar,1975.0,Male,300,NR,Outdoor
@@ -35,8 +35,8 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 32.46,TUR,Ankara,TUR,2020-07-18,Sinan Ören,1998.0,Male,300,NR,Outdoor
 34.33,VAN,Cairns,AUS,2005-05-25,Moses Kamut,1982.0,Male,300,NR,Outdoor
 33.62,AZE,Moskva,RUS,2009-02-01,Ramil Guliyev,1990.0,Male,300,NR,Indoor
-31.56,BAH,Columbia SC,USA,2022-01-28,Steven Gardiner,1995.0,Male,300,NR,Indoor
-32.47,CAN,Clemson SC,USA,2024-01-13,Christopher Morales Williams,2004.0,Male,300,NR,Indoor
+31.56,BAH,Columbia,USA,2022-01-28,Steven Gardiner,1995.0,Male,300,NR,Indoor
+32.47,CAN,Clemson,USA,2024-01-13,Christopher Morales Williams,2004.0,Male,300,NR,Indoor
 33.17,CMR,Liévin,FRA,2005-02-26,Joseph Batangdon,1978.0,Male,300,NR,Indoor
 32.74,CUB,Liévin,FRA,2010-03-05,William Collazo,1986.0,Male,300,NR,Indoor
 32.15,CZE,Gent,BEL,2014-02-09,Pavel Maslák,1991.0,Male,300,NR,Indoor
@@ -44,21 +44,21 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 33.74,FIN,Jyväskylä,FIN,2024-02-03,Viljami Kaasalainen,1995.0,Male,300,NR,Indoor
 32.47,FRA,Liévin,FRA,2010-03-05,Leslie Djhone,1981.0,Male,300,NR,Indoor
 34.14,GAB,Winnipeg,CAN,2005-03-11,Antoine Boussombo,1968.0,Male,300,NR,Indoor
-32.72,GBR,Columbia SC,USA,2023-02-03,Matthew Hudson-Smith,1994.0,Male,300,NR,Indoor
+32.72,GBR,Columbia,USA,2023-02-03,Matthew Hudson-Smith,1994.0,Male,300,NR,Indoor
 32.72,GER,Karlsruhe,GER,1986-01-31,Erwin Skamrahl,1958.0,Male,300,NR,Indoor
 32.99,GRE,Pireás,GRE,1999-01-23,Konstadínos Kedéris,1973.0,Male,300,NR,Indoor
-33.08,GUY,Columbia SC,USA,2020-01-18,Arinze Chance,1996.0,Male,300,NR,Indoor
-32.54,JAM,Columbia SC,USA,2022-01-28,Nathon Allen,1995.0,Male,300,NR,Indoor
-39.34,JOR,Kearney NE,USA,2002-02-02,Rami Ali,,Male,300,NR,Indoor
+33.08,GUY,Columbia,USA,2020-01-18,Arinze Chance,1996.0,Male,300,NR,Indoor
+32.54,JAM,Columbia,USA,2022-01-28,Nathon Allen,1995.0,Male,300,NR,Indoor
+39.34,JOR,Kearney,USA,2002-02-02,Rami Ali,,Male,300,NR,Indoor
 33.14,KAZ,Ust-Kamenogorsk,KAZ,2022-02-12,Mikhail Litvin,1996.0,Male,300,NR,Indoor
 33.43,KEN,Moskva,RUS,2004-02-01,Vincent Mumo,1982.0,Male,300,NR,Indoor
 33.64,LAT,Tallinn,EST,2023-01-29,Iļja Petrušenko,1999.0,Male,300,NR,Indoor
-32.88,LTU,Ithaca NY,USA,2022-12-03,Tomas Kersulis,2001.0,Male,300,NR,Indoor
-33.76,MAR,Albuquerque NM,USA,2024-01-20,Aymane El Haddaoui,2001.0,Male,300,NR,Indoor
+32.88,LTU,Ithaca,USA,2022-12-03,Tomas Kersulis,2001.0,Male,300,NR,Indoor
+33.76,MAR,Albuquerque,USA,2024-01-20,Aymane El Haddaoui,2001.0,Male,300,NR,Indoor
 32.36,NAM,Karlsruhe,GER,2003-02-28,Frank Fredericks,1967.0,Male,300,NR,Indoor
 33.70,POR,Gent,BEL,2013-02-02,Arnaldo Abrantes,1986.0,Male,300,NR,Indoor
 32.75,RUS,Liévin,FRA,2011-02-08,Roman Smirnov,1984.0,Male,300,NR,Indoor
-33.50,SKN,Birmingham AL,USA,2021-01-15,Warren Hazel,1996.0,Male,300,NR,Indoor
+33.50,SKN,Birmingham,USA,2021-01-15,Warren Hazel,1996.0,Male,300,NR,Indoor
 33.04,SUD,Liévin,FRA,2010-03-05,Rabah Yousif,1986.0,Male,300,NR,Indoor
 32.61,SWE,Liévin,FRA,2006-03-03,Johan Wissman,1982.0,Male,300,NR,Indoor
-31.87,USA,Albuquerque NM,USA,2017-03-04,Noah Lyles,1997.0,Male,300,NR,Indoor
+31.87,USA,Albuquerque,USA,2017-03-04,Noah Lyles,1997.0,Male,300,NR,Indoor

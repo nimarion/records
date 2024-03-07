@@ -4,7 +4,7 @@ result,nation,venue,venueCountry,date,name,sex,discipline,type,environment
 3:39.18,ALG,Chengdu,CHN,2023-08-05,Algeria,Female,4x4,NR,Outdoor
 3:55.31,AND,Marsa,MLT,2023-06-03,Andorra,Female,4x4,NR,Outdoor
 4:06.4,ANG,Luanda,ANG,1981-08-27,Angola,Female,4x4,NR,Outdoor
-3:39.32,ANT,Los Angeles CA,USA,1984-08-10,Antigua & Barbuda,Female,4x4,NR,Outdoor
+3:39.32,ANT,Los Angeles,USA,1984-08-10,Antigua & Barbuda,Female,4x4,NR,Outdoor
 3:35.96,ARG,Cochabamba,BOL,2018-06-08,Argentina,Female,4x4,NR,Outdoor
 3:49.26,ARM,Reykjavik,ISL,2011-06-19,Armenia,Female,4x4,NR,Outdoor
 3:23.81,AUS,Sydney,AUS,2000-09-30,Australia,Female,4x4,NR,Outdoor
@@ -16,7 +16,7 @@ result,nation,venue,venueCountry,date,name,sex,discipline,type,environment
 4:11.4,BDI,Bujumbura,BDI,1992-08-23,Burundi,Female,4x4,NR,Outdoor
 3:22.12,BEL,München,GER,2022-08-20,Belgium,Female,4x4,NR,Outdoor
 3:42.85,BEN,Porto Novo,BEN,2009-05-24,Benin,Female,4x4,NR,Outdoor
-3:47.5,BER,Philadelphia PA,USA,1976-04-24,Bermuda,Female,4x4,NR,Outdoor
+3:47.5,BER,Philadelphia,USA,1976-04-24,Bermuda,Female,4x4,NR,Outdoor
 3:47.73,BIH,Sarajevo,YUG,1983-06-19,Bosnia-Herzegovina,Female,4x4,NR,Outdoor
 4:11.22,BIZ,Victoria,CAN,1990-06-23,Belize,Female,4x4,NR,Outdoor
 3:21.88,BLR,Osaka,JPN,2007-09-02,Belarus,Female,4x4,NR,Outdoor
@@ -27,7 +27,7 @@ result,nation,venue,venueCountry,date,name,sex,discipline,type,environment
 3:25.81,BUL,Sofia,BUL,1983-07-24,Bulgaria,Female,4x4,NR,Outdoor
 3:48.19,BUR,Ouagadougou,BUR,2017-09-10,Burkina Faso,Female,4x4,NR,Outdoor
 3:57.4,CAF,Bangui,CAF,1993-02-27,Central African Republic,Female,4x4,NR,Outdoor
-3:21.21,CAN,Los Angeles CA,USA,1984-08-11,Canada,Female,4x4,NR,Outdoor
+3:21.21,CAN,Los Angeles,USA,1984-08-11,Canada,Female,4x4,NR,Outdoor
 3:49.46,CGO,Brazzaville,CGO,2015-09-17,Congo,Female,4x4,NR,Outdoor
 4:01.4,CHA,N'Djamena,CHA,1996-04-06,Chad,Female,4x4,NR,Outdoor
 3:24.28,CHN,Beijing,CHN,1993-09-13,China,Female,4x4,NR,Outdoor
@@ -104,7 +104,7 @@ result,nation,venue,venueCountry,date,name,sex,discipline,type,environment
 3:35.10,MYA,Rangoon,MYA,2005-08-30,Myanmar,Female,4x4,NR,Outdoor
 3:40.21,NAM,Nassau,BAH,2015-05-03,Namibia,Female,4x4,NR,Outdoor
 3:20.72,NED,Budapest,HUN,2023-08-27,Netherlands,Female,4x4,NR,Outdoor
-3:21.04,NGR,Atlanta GA,USA,1996-08-03,Nigeria,Female,4x4,NR,Outdoor
+3:21.04,NGR,Atlanta,USA,1996-08-03,Nigeria,Female,4x4,NR,Outdoor
 3:50.30,NIG,Niamey,NIG,2019-07-21,Niger,Female,4x4,NR,Outdoor
 3:28.58,NOR,Oslo,NOR,2022-06-16,Norway,Female,4x4,NR,Outdoor
 3:34.62,NZL,Glasgow,GBR,2014-08-01,New Zealand,Female,4x4,NR,Outdoor
@@ -165,7 +165,7 @@ result,nation,venue,venueCountry,date,name,sex,discipline,type,environment
 3:31.86,ESP,Sevilla,ESP,1991-03-10,Spain,Female,4x4,NR,Indoor
 3:48.75,EST,Tallinn,EST,2015-02-22,Estonia,Female,4x4,NR,Indoor
 3:55.20,FIN,Jyväskylä,FIN,1994-02-27,Finland,Female,4x4,NR,Indoor
-3:28.71,FRA,Göteborg/Sc,SWE,2013-03-03,France,Female,4x4,NR,Indoor
+3:28.71,FRA,Göteborg,SWE,2013-03-03,France,Female,4x4,NR,Indoor
 3:26.36,GBR,Glasgow,GBR,2024-03-03,Great Britain,Female,4x4,NR,Indoor
 3:27.22,GER,Sevilla,ESP,1991-03-10,Germany,Female,4x4,NR,Indoor
 3:32.88,GRE,Budapest,HUN,2004-03-07,Greece,Female,4x4,NR,Indoor

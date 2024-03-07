@@ -1,14 +1,14 @@
 result,discipline,area,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,environment,type
 26:11.00,"10,000m",Africa,,UGA,Valencia,ESP,2020-10-07,Joshua Cheptegei,1996.0,Male,Outdoor,AR
 26:38.76,"10,000m",Asia,,QAT,Bruxelles,BEL,2003-09-05,Abdullah Ahmad Hassan,1981.0,Male,Outdoor,AR
-26:46.57,"10,000m",Europe,,GBR,Eugene OR,USA,2011-06-03,Mo Farah,1983.0,Male,Outdoor,AR
-26:44.36,"10,000m",NACAC,,USA,Eugene OR,USA,2014-05-30,Galen Rupp,1986.0,Male,Outdoor,AR
-27:15.35,"10,000m",Oceania,,AUS,San Juan Capistrano CA,USA,2022-03-06,Jack Rayner,1995.0,Male,Outdoor,AR
+26:46.57,"10,000m",Europe,,GBR,Eugene,USA,2011-06-03,Mo Farah,1983.0,Male,Outdoor,AR
+26:44.36,"10,000m",NACAC,,USA,Eugene,USA,2014-05-30,Galen Rupp,1986.0,Male,Outdoor,AR
+27:15.35,"10,000m",Oceania,,AUS,San Juan Capistrano,USA,2022-03-06,Jack Rayner,1995.0,Male,Outdoor,AR
 27:28.12,"10,000m",South America,,BRA,Neerpelt,BEL,2007-06-02,Marílson dos Santos,1977.0,Male,Outdoor,AR
 39:51.2,"10,000m Race Walk",Africa,,ETH,Addis Ababa,ETH,2023-05-20,Misganaw Wakuma,2004.0,Male,Outdoor,AR
 38:25.42,"10,000m Race Walk",NACAC,,CAN,Canberra,AUS,2024-01-28,Evan Dunfee,1990.0,Male,Outdoor,AR
 2:11.96,1000m,Africa,,KEN,Rieti,ITA,1999-09-05,Noah Ngeny,1978.0,Male,Outdoor,AR
-2:14.72,1000m,Asia,,BRN,Stockholm/S,SWE,2008-07-22,Youssef Saad Kamel,1981.0,Male,Outdoor,AR
+2:14.72,1000m,Asia,,BRN,Stockholm,SWE,2008-07-22,Youssef Saad Kamel,1981.0,Male,Outdoor,AR
 2:12.18,1000m,Europe,,GBR,Oslo,NOR,1981-07-11,Sebastian Coe,1956.0,Male,Outdoor,AR
 2:16.09,1000m,Oceania,,AUS,Ostrava,CZE,2014-06-17,Jeff Riseley,1986.0,Male,Outdoor,AR
 2:14.09,1000m,South America,,BRA,Nice,FRA,1984-08-20,Joaquim Cruz,1963.0,Male,Outdoor,AR
@@ -23,15 +23,15 @@ result,discipline,area,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,
 26:24,"10km, Road",Africa,,KEN,Valencia,ESP,2020-01-12,Rhonex Kipruto,1999.0,Male,Outdoor,AR
 26:57,"10km, Road",Asia,,BRN,Valencia,ESP,2024-01-14,Birhanu Balew,1996.0,Male,Outdoor,AR
 27:13,"10km, Road",Europe,,SUI,Valencia,ESP,2020-01-12,Julien Wanders,1996.0,Male,Outdoor,AR
-27:41,"10km, Road",NACAC,,MEX,Phoenix AZ,USA,1986-03-01,Arturo Barrios,1963.0,Male,Outdoor,AR
+27:41,"10km, Road",NACAC,,MEX,Phoenix,USA,1986-03-01,Arturo Barrios,1963.0,Male,Outdoor,AR
 27:28,"10km, Road",Oceania,,NZL,Berlin,GER,2016-10-09,Zane Robertson,1989.0,Male,Outdoor,AR
-27:28,"10km, Road",Oceania,,NZL,New Orleans LA,USA,2018-03-31,Jake Robertson,1989.0,Male,Outdoor,AR
+27:28,"10km, Road",Oceania,,NZL,New Orleans,USA,2018-03-31,Jake Robertson,1989.0,Male,Outdoor,AR
 27:48,"10km, Road",South America,,BRA,Udine,ITA,2007-10-14,Marílson dos Santos,1977.0,Male,Outdoor,AR
 13.11,110m Hurdles,Africa,1.8,RSA,Praha,CZE,2017-06-05,Antonio Alkana,1990.0,Male,Outdoor,AR
 12.88,110m Hurdles,Asia,1.1,CHN,Lausanne,SUI,2006-07-11,Liu Xiang,1983.0,Male,Outdoor,AR
 12.91,110m Hurdles,Europe,0.5,GBR,Stuttgart,GER,1993-08-20,Colin Jackson,1967.0,Male,Outdoor,AR
 12.80,110m Hurdles,NACAC,0.3,USA,Bruxelles,BEL,2012-09-07,Aries Merritt,1985.0,Male,Outdoor,AR
-13.29,110m Hurdles,Oceania,0.6,AUS,Göteborg/U,SWE,1995-08-11,Kyle Vander-Kuyp,1971.0,Male,Outdoor,AR
+13.29,110m Hurdles,Oceania,0.6,AUS,Göteborg,SWE,1995-08-11,Kyle Vander-Kuyp,1971.0,Male,Outdoor,AR
 13.17,110m Hurdles,South America,0.4,BRA,Río de Janeiro,BRA,2022-06-23,Rafael Henrique Pereira,1997.0,Male,Outdoor,AR
 3:26.00,1500m,Africa,,MAR,Roma,ITA,1998-07-14,Hicham El Guerrouj,1974.0,Male,Outdoor,AR
 3:29.14,1500m,Asia,,BRN,Roma,ITA,2006-07-14,Rashid Ramzi,1980.0,Male,Outdoor,AR
@@ -71,8 +71,8 @@ result,discipline,area,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,
 2:01:44.1,"30,000m Race Walk",Europe,,ITA,Cuneo,ITA,1992-10-04,Maurizio Damilano,1957.0,Male,Outdoor,AR
 7:20.67,3000m,Africa,,KEN,Rieti,ITA,1996-09-01,Daniel Komen,1976.0,Male,Outdoor,AR
 7:30.76,3000m,Asia,,QAT,Doha,QAT,2005-05-13,Jamal Bilal Salem,1978.0,Male,Outdoor,AR
-7:23.63,3000m,Europe,,NOR,Eugene OR,USA,2023-09-17,Jakob Ingebrigtsen,2000.0,Male,Outdoor,AR
-7:25.47,3000m,NACAC,,USA,Eugene OR,USA,2023-09-17,Grant Fisher,1997.0,Male,Outdoor,AR
+7:23.63,3000m,Europe,,NOR,Eugene,USA,2023-09-17,Jakob Ingebrigtsen,2000.0,Male,Outdoor,AR
+7:25.47,3000m,NACAC,,USA,Eugene,USA,2023-09-17,Grant Fisher,1997.0,Male,Outdoor,AR
 7:28.02,3000m,Oceania,,AUS,Roma,ITA,2020-09-17,Stewart McSweyn,1995.0,Male,Outdoor,AR
 7:37.15,3000m,South America,,URU,Zagreb,CRO,2023-09-10,Santiago Catrofe,1999.0,Male,Outdoor,AR
 7:52.11,3000m Steeplechase,Africa,,ETH,Paris,FRA,2023-06-09,Lamecha Girma,2000.0,Male,Outdoor,AR
@@ -82,16 +82,16 @@ result,discipline,area,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,
 8:13.26,3000m Steeplechase,Oceania,,NZL,Monaco,MON,2023-07-21,Geordie Beamish,1996.0,Male,Outdoor,AR
 8:14.41,3000m Steeplechase,South America,,BRA,Mar del Plata,ARG,1995-03-22,Wander Moura,1969.0,Male,Outdoor,AR
 30.69,300m,Africa,,BOT,Pretoria,RSA,2024-02-17,Letsile Tebogo,2003.0,Male,Outdoor,AR
-2:31:15,35km Race Walk,Africa,,RSA,Eugene OR,USA,2022-07-24,Wayne Snyman,1985.0,Male,Outdoor,AR
+2:31:15,35km Race Walk,Africa,,RSA,Eugene,USA,2022-07-24,Wayne Snyman,1985.0,Male,Outdoor,AR
 2:22:55,35km Race Walk,Asia,,CHN,Huangshan,CHN,2023-03-04,He Xianghong,1998.0,Male,Outdoor,AR
-2:23:14,35km Race Walk,Europe,,ITA,Eugene OR,USA,2022-07-24,Massimo Stano,1992.0,Male,Outdoor,AR
-2:25:02,35km Race Walk,NACAC,,CAN,Eugene OR,USA,2022-07-24,Evan Dunfee,1990.0,Male,Outdoor,AR
+2:23:14,35km Race Walk,Europe,,ITA,Eugene,USA,2022-07-24,Massimo Stano,1992.0,Male,Outdoor,AR
+2:25:02,35km Race Walk,NACAC,,CAN,Eugene,USA,2022-07-24,Evan Dunfee,1990.0,Male,Outdoor,AR
 2:24:34,35km Race Walk,South America,,ECU,Budapest,HUN,2023-08-24,Brian Pintado,1995.0,Male,Outdoor,AR
 37.65,4 x 100m,Africa,,RSA,Doha,QAT,2019-10-04,South Africa,,Male,Outdoor,AR
 37.43,4 x 100m,Asia,,JPN,Doha,QAT,2019-10-05,Japan,,Male,Outdoor,AR
 37.36,4 x 100m,Europe,,GBR,Doha,QAT,2019-10-05,Great Britain,,Male,Outdoor,AR
 36.84,4 x 100m,NACAC,,JAM,London,GBR,2012-08-11,Jamaica,,Male,Outdoor,AR
-38.17,4 x 100m,Oceania,,AUS,Göteborg/U,SWE,1995-08-12,Australia,,Male,Outdoor,AR
+38.17,4 x 100m,Oceania,,AUS,Göteborg,SWE,1995-08-12,Australia,,Male,Outdoor,AR
 38.17,4 x 100m,Oceania,,AUS,London,GBR,2012-08-10,Australia,,Male,Outdoor,AR
 37.72,4 x 100m,South America,,BRA,Doha,QAT,2019-10-05,Brazil,,Male,Outdoor,AR
 14:36.23,4 x 1500m,Africa,,KEN,Bruxelles,BEL,2009-09-04,Kenya,,Male,Outdoor,AR
@@ -103,12 +103,12 @@ result,discipline,area,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,
 1:20.83,4 x 200m,Asia,,CHN,Xi'an,CHN,2021-09-23,China,,Male,Outdoor,AR
 1:20.66,4 x 200m,Europe,,FRA,Nassau,BAH,2014-05-24,France,,Male,Outdoor,AR
 1:23.04,4 x 200m,Oceania,,AUS,Sydney,AUS,1998-12-06,Australia,,Male,Outdoor,AR
-1:24.42,4 x 200m,South America,,GUY,Philadelphia PA,USA,2015-04-25,Guyana,,Male,Outdoor,AR
+1:24.42,4 x 200m,South America,,GUY,Philadelphia,USA,2015-04-25,Guyana,,Male,Outdoor,AR
 2:57.27,4 x 400m,Africa,,BOT,Tokyo,JPN,2021-08-07,Botswana,,Male,Outdoor,AR
 2:59.05,4 x 400m,Asia,,IND,Budapest,HUN,2023-08-26,India,,Male,Outdoor,AR
-2:56.60,4 x 400m,Europe,,GBR,Atlanta GA,USA,1996-08-03,Great Britain,,Male,Outdoor,AR
+2:56.60,4 x 400m,Europe,,GBR,Atlanta,USA,1996-08-03,Great Britain,,Male,Outdoor,AR
 2:54.29,4 x 400m,NACAC,,USA,Stuttgart,GER,1993-08-22,United States,,Male,Outdoor,AR
-2:59.70,4 x 400m,Oceania,,AUS,Los Angeles CA,USA,1984-08-11,Australia,,Male,Outdoor,AR
+2:59.70,4 x 400m,Oceania,,AUS,Los Angeles,USA,1984-08-11,Australia,,Male,Outdoor,AR
 2:58.56,4 x 400m,South America,,BRA,Winnipeg,CAN,1999-07-30,Brazil,,Male,Outdoor,AR
 3:11.06,4 x 400m Mixed relay,Europe,,GBR,Budapest,HUN,2023-08-19,Great Britain,,Male,Outdoor,AR
 3:08.80,4 x 400m Mixed relay,NACAC,,USA,Budapest,HUN,2023-08-19,United States,,Male,Outdoor,AR
@@ -128,14 +128,14 @@ result,discipline,area,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,
 46.98,400m Hurdles,Asia,,QAT,Paris,FRA,2018-06-30,Abderrahmane Samba,1995.0,Male,Outdoor,AR
 45.94,400m Hurdles,Europe,,NOR,Tokyo,JPN,2021-08-03,Karsten Warholm,1996.0,Male,Outdoor,AR
 46.17,400m Hurdles,NACAC,,USA,Tokyo,JPN,2021-08-03,Rai Benjamin,1997.0,Male,Outdoor,AR
-48.28,400m Hurdles,Oceania,,AUS,Atlanta GA,USA,1996-07-31,Rohan Robinson,1971.0,Male,Outdoor,AR
-46.29,400m Hurdles,South America,,BRA,Eugene OR,USA,2022-07-19,Alison dos Santos,2000.0,Male,Outdoor,AR
+48.28,400m Hurdles,Oceania,,AUS,Atlanta,USA,1996-07-31,Rohan Robinson,1971.0,Male,Outdoor,AR
+46.29,400m Hurdles,South America,,BRA,Eugene,USA,2022-07-19,Alison dos Santos,2000.0,Male,Outdoor,AR
 12:35.36,5000m,Africa,,UGA,Monaco,MON,2020-08-14,Joshua Cheptegei,1996.0,Male,Outdoor,AR
 12:51.96,5000m,Asia,,BRN,Monaco,MON,2013-07-19,Albert Rop,1992.0,Male,Outdoor,AR
 12:45.01,5000m,Europe,,ESP,Monaco,MON,2023-07-21,Mohamed Katir,1998.0,Male,Outdoor,AR
 12:46.96,5000m,NACAC,,USA,Bruxelles,BEL,2022-09-02,Grant Fisher,1997.0,Male,Outdoor,AR
 12:55.76,5000m,Oceania,,AUS,London,GBR,2004-07-30,Craig Mottram,1980.0,Male,Outdoor,AR
-13:11.57,5000m,South America,,ARG,Stanford CA,USA,2023-04-21,Federico Bruno,1993.0,Male,Outdoor,AR
+13:11.57,5000m,South America,,ARG,Stanford,USA,2023-04-21,Federico Bruno,1993.0,Male,Outdoor,AR
 18:05.49,5000m Race Walk,Africa,,TUN,Tunis,TUN,1997-05-01,Hatem Ghoula,1973.0,Male,Outdoor,AR
 3:54:12,50km Race Walk,Africa,,RSA,Melbourne,AUS,2015-12-13,Marc Mundell,1983.0,Male,Outdoor,AR
 3:36:06,50km Race Walk,Asia,,CHN,Nanjing,CHN,2005-10-22,Yu Chaohong,1976.0,Male,Outdoor,AR
@@ -145,8 +145,8 @@ result,discipline,area,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,
 3:42:57,50km Race Walk,South America,,ECU,Juarez,MEX,2016-03-06,Andrés Chocho,1983.0,Male,Outdoor,AR
 13:05,"5km, Road",Asia,,BRN,Al Khobar,KSA,2023-12-09,Birhanu Balew,1996.0,Male,Outdoor,AR
 13:12,"5km, Road",Europe,,FRA,Monaco,MON,2023-02-12,Jimmy Gressier,1997.0,Male,Outdoor,AR
-13:18,"5km, Road",NACAC,,MEX,Carlsbad CA,USA,1996-03-31,Juan Armando Quintanilla,1968.0,Male,Outdoor,AR
-13:30,"5km, Road",South America,,BRA,Carlsbad CA,USA,1995-04-02,Valdenor dos Santos,1969.0,Male,Outdoor,AR
+13:18,"5km, Road",NACAC,,MEX,Carlsbad,USA,1996-03-31,Juan Armando Quintanilla,1968.0,Male,Outdoor,AR
+13:30,"5km, Road",South America,,BRA,Carlsbad,USA,1995-04-02,Valdenor dos Santos,1969.0,Male,Outdoor,AR
 1:40.91,800m,Africa,,KEN,London,GBR,2012-08-09,David Rudisha,1988.0,Male,Outdoor,AR
 1:42.79,800m,Asia,,BRN,Monaco,MON,2008-07-29,Youssef Saad Kamel,1981.0,Male,Outdoor,AR
 1:41.11,800m,Europe,,DEN,Köln,GER,1997-08-24,Wilson Kipketer,1972.0,Male,Outdoor,AR
@@ -162,24 +162,24 @@ result,discipline,area,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,
 70.32,Discus Throw,Africa,,RSA,Salôn-de-Provence,FRA,2002-05-26,Frantz Kruger,1975.0,Male,Outdoor,AR
 69.32,Discus Throw,Asia,,IRI,Tallinn,EST,2008-06-03,Ehsan Hadadi,1985.0,Male,Outdoor,AR
 74.08,Discus Throw,Europe,,GER,Neubrandenburg,GER,1986-06-06,Jürgen Schult,1960.0,Male,Outdoor,AR
-71.32,Discus Throw,NACAC,,USA,Eugene OR,USA,1983-06-04,Ben Plucknett,1954.0,Male,Outdoor,AR
-70.42,Discus Throw,Oceania,,SAM,Ramona OK,USA,2023-04-16,Alex Rose,1991.0,Male,Outdoor,AR
+71.32,Discus Throw,NACAC,,USA,Eugene,USA,1983-06-04,Ben Plucknett,1954.0,Male,Outdoor,AR
+70.42,Discus Throw,Oceania,,SAM,Ramona,USA,2023-04-16,Alex Rose,1991.0,Male,Outdoor,AR
 70.29,Discus Throw,South America,,COL,Vila Nova Cerveira,POR,2020-07-22,Mauricio Ortega,1994.0,Male,Outdoor,AR
 57:31,Half Marathon,Africa,,UGA,Lisboa,POR,2021-11-21,Jacob Kiplimo,2000.0,Male,Outdoor,AR
 58:40,Half Marathon,Asia,,BRN,København,DEN,2017-09-17,Abraham Cheroben,1992.0,Male,Outdoor,AR
 59:13,Half Marathon,Europe,,SUI,Ras Al Khaimah,UAE,2019-02-08,Julien Wanders,1996.0,Male,Outdoor,AR
-59:43,Half Marathon,NACAC,,USA,Houston TX,USA,2007-01-14,Ryan Hall,1982.0,Male,Outdoor,AR
+59:43,Half Marathon,NACAC,,USA,Houston,USA,2007-01-14,Ryan Hall,1982.0,Male,Outdoor,AR
 59:47,Half Marathon,Oceania,,NZL,Marugame,JPN,2015-02-01,Zane Robertson,1989.0,Male,Outdoor,AR
 59:33,Half Marathon,South America,,BRA,Udine,ITA,2007-10-14,Marílson dos Santos,1977.0,Male,Outdoor,AR
 81.27,Hammer Throw,Africa,,EGY,Cairo,EGY,2014-03-21,Mostafa Hicham Al-Gamal,1988.0,Male,Outdoor,AR
 84.86,Hammer Throw,Asia,,JPN,Praha,CZE,2003-06-29,Koji Murofushi,1974.0,Male,Outdoor,AR
 86.74,Hammer Throw,Europe,,UKR,Stuttgart,FRG,1986-08-30,Yuriy Sedykh,1955.0,Male,Outdoor,AR
-82.71,Hammer Throw,NACAC,,USA,Eugene OR,USA,2021-06-20,Rudy Winkler,1994.0,Male,Outdoor,AR
+82.71,Hammer Throw,NACAC,,USA,Eugene,USA,2021-06-20,Rudy Winkler,1994.0,Male,Outdoor,AR
 79.29,Hammer Throw,Oceania,,AUS,Varaždin,CRO,2002-07-06,Stuart Rendell,1972.0,Male,Outdoor,AR
 78.63,Hammer Throw,South America,,BRA,Celje,SLO,2016-06-19,Wagner Domingos,1983.0,Male,Outdoor,AR
 2.38,High Jump,Africa,,RSA,Oudtshoorn,RSA,2005-03-05,Jacques Freitag,1982.0,Male,Outdoor,AR
 2.43,High Jump,Asia,,QAT,Bruxelles,BEL,2014-09-05,Mutaz Essa Barshim,1991.0,Male,Outdoor,AR
-2.42,High Jump,Europe,,SWE,Stockholm/S,SWE,1987-06-30,Patrik Sjöberg,1965.0,Male,Outdoor,AR
+2.42,High Jump,Europe,,SWE,Stockholm,SWE,1987-06-30,Patrik Sjöberg,1965.0,Male,Outdoor,AR
 2.45,High Jump,NACAC,,CUB,Salamanca,ESP,1993-07-27,Javier Sotomayor,1967.0,Male,Outdoor,AR
 2.36,High Jump,Oceania,,AUS,Melbourne,AUS,1997-03-02,Tim Forsyth,1973.0,Male,Outdoor,AR
 2.36,High Jump,Oceania,,AUS,Eberstadt,GER,2018-08-26,Brandon Starc,1993.0,Male,Outdoor,AR
@@ -189,12 +189,12 @@ result,discipline,area,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,
 98.48,Javelin Throw,Europe,,CZE,Jena,GER,1996-05-25,Jan Železný,1966.0,Male,Outdoor,AR
 93.07,Javelin Throw,NACAC,,GRN,Doha,QAT,2022-05-13,Anderson Peters,1997.0,Male,Outdoor,AR
 89.02,Javelin Throw,Oceania,,AUS,Brisbane,AUS,2008-02-29,Jarrod Bannister,1984.0,Male,Outdoor,AR
-84.70,Javelin Throw,South America,,PAR,San Marcos CA,USA,1999-10-17,Edgar Baumann,1970.0,Male,Outdoor,AR
+84.70,Javelin Throw,South America,,PAR,San Marcos,USA,1999-10-17,Edgar Baumann,1970.0,Male,Outdoor,AR
 8.65,Long Jump,Africa,1.3,RSA,Potchefstroom,RSA,2017-04-22,Luvo Manyonga,1991.0,Male,Outdoor,AR
 8.48,Long Jump,Asia,0.6,KSA,Sotteville-lès-Rouen,FRA,2006-07-02,Mohamed Salman Al-Khuwalidi,1981.0,Male,Outdoor,AR
 8.86,Long Jump,Europe,1.9,ARM,Tsakhkadzor,URS,1987-05-22,Robert Emmiyan,1965.0,Male,Outdoor,AR
 8.95,Long Jump,NACAC,0.3,USA,Tokyo,JPN,1991-08-30,Mike Powell,1963.0,Male,Outdoor,AR
-8.54,Long Jump,Oceania,1.7,AUS,Stockholm/S,SWE,2011-07-29,Mitchell Watt,1988.0,Male,Outdoor,AR
+8.54,Long Jump,Oceania,1.7,AUS,Stockholm,SWE,2011-07-29,Mitchell Watt,1988.0,Male,Outdoor,AR
 8.73,Long Jump,South America,1.2,PAN,Hengelo,NED,2008-05-24,Irving Saladino,1983.0,Male,Outdoor,AR
 2:01:09,Marathon,Africa,,KEN,Berlin,GER,2022-09-25,Eliud Kipchoge,1984.0,Male,Outdoor,AR
 2:04:43,Marathon,Asia,,BRN,Valencia,ESP,2018-12-02,El Hassan El Abbassi,1984.0,Male,Outdoor,AR
@@ -206,49 +206,49 @@ result,discipline,area,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,
 21330,One Hour,Europe,,GBR,Bruxelles,BEL,2020-09-04,Mo Farah,1983.0,Male,Outdoor,AR
 3:43.13,One Mile,Africa,,MAR,Roma,ITA,1999-07-07,Hicham El Guerrouj,1974.0,Male,Outdoor,AR
 3:47.97,One Mile,Asia,,QAT,Oslo,NOR,2005-07-29,Dahame Najem Bashir,1979.0,Male,Outdoor,AR
-3:43.73,One Mile,Europe,,NOR,Eugene OR,USA,2023-09-16,Jakob Ingebrigtsen,2000.0,Male,Outdoor,AR
-3:43.97,One Mile,NACAC,,USA,Eugene OR,USA,2023-09-16,Yared Nuguse,1999.0,Male,Outdoor,AR
+3:43.73,One Mile,Europe,,NOR,Eugene,USA,2023-09-16,Jakob Ingebrigtsen,2000.0,Male,Outdoor,AR
+3:43.97,One Mile,NACAC,,USA,Eugene,USA,2023-09-16,Yared Nuguse,1999.0,Male,Outdoor,AR
 3:47.48,One Mile,Oceania,,AUS,Oslo,NOR,2022-06-16,Olli Hoare,1997.0,Male,Outdoor,AR
 3:51.05,One Mile,South America,,BRA,Oslo,NOR,2005-07-29,Hudson de Souza,1977.0,Male,Outdoor,AR
 6.03,Pole Vault,Africa,,RSA,Köln,GER,1995-08-18,Okkert Brits,1973.0,Male,Outdoor,AR
 6.00,Pole Vault,Asia,,PHI,Budapest,HUN,2023-08-26,Ernest John Obiena,1995.0,Male,Outdoor,AR
-6.23,Pole Vault,Europe,,SWE,Eugene OR,USA,2023-09-17,Armand Duplantis,1999.0,Male,Outdoor,AR
-6.07,Pole Vault,NACAC,,USA,Nashville TN,USA,2023-06-02,KC Lightfoot,1999.0,Male,Outdoor,AR
+6.23,Pole Vault,Europe,,SWE,Eugene,USA,2023-09-17,Armand Duplantis,1999.0,Male,Outdoor,AR
+6.07,Pole Vault,NACAC,,USA,Nashville,USA,2023-06-02,KC Lightfoot,1999.0,Male,Outdoor,AR
 6.03,Pole Vault,South America,,BRA,Río de Janeiro,BRA,2016-08-15,Thiago Braz,1993.0,Male,Outdoor,AR
-21.97,Shot Put,Africa,,RSA,Eugene OR,USA,2001-06-02,Janus Robberts,1979.0,Male,Outdoor,AR
+21.97,Shot Put,Africa,,RSA,Eugene,USA,2001-06-02,Janus Robberts,1979.0,Male,Outdoor,AR
 21.77,Shot Put,Asia,,IND,Bhubaneshwar,IND,2023-06-19,Tajinderpal Singh,1994.0,Male,Outdoor,AR
 23.06,Shot Put,Europe,,GER,Haniá,GRE,1988-05-22,Ulf Timmermann,1962.0,Male,Outdoor,AR
-23.56,Shot Put,NACAC,,USA,Westwood CA,USA,2023-05-27,Ryan Crouser,1992.0,Male,Outdoor,AR
+23.56,Shot Put,NACAC,,USA,Westwood,USA,2023-05-27,Ryan Crouser,1992.0,Male,Outdoor,AR
 22.90,Shot Put,Oceania,,NZL,Doha,QAT,2019-10-05,Tom Walsh,1992.0,Male,Outdoor,AR
-22.61,Shot Put,South America,,BRA,Stanford CA,USA,2019-06-30,Darlan Romani,1991.0,Male,Outdoor,AR
+22.61,Shot Put,South America,,BRA,Stanford,USA,2019-06-30,Darlan Romani,1991.0,Male,Outdoor,AR
 17.59,Triple Jump,Asia,0.0,CHN,Jinan,CHN,2009-10-26,Li Yanxi,1983.0,Male,Outdoor,AR
-18.29,Triple Jump,Europe,1.3,GBR,Göteborg/U,SWE,1995-08-07,Jonathan Edwards,1966.0,Male,Outdoor,AR
+18.29,Triple Jump,Europe,1.3,GBR,Göteborg,SWE,1995-08-07,Jonathan Edwards,1966.0,Male,Outdoor,AR
 18.21,Triple Jump,NACAC,0.2,USA,Beijing,CHN,2015-08-27,Christian Taylor,1990.0,Male,Outdoor,AR
 17.46,Triple Jump,Oceania,1.7,AUS,London,GBR,1982-08-07,Ken Lorraway,1956.0,Male,Outdoor,AR
 17.90,Triple Jump,South America,0.4,BRA,Belém,BRA,2007-05-20,Jadel Gregório,1980.0,Male,Outdoor,AR
 7:54.10,Two Miles,Europe,,NOR,Paris,FRA,2023-06-09,Jakob Ingebrigtsen,2000.0,Male,Outdoor,AR
-2:14.20,1000m,Africa,,DJI,Stockholm/G,SWE,2016-02-17,Ayanleh Souleiman,1992.0,Male,Indoor,AR
+2:14.20,1000m,Africa,,DJI,Stockholm,SWE,2016-02-17,Ayanleh Souleiman,1992.0,Male,Indoor,AR
 2:14.96,1000m,Europe,,DEN,Birmingham,GBR,2000-02-20,Wilson Kipketer,1972.0,Male,Indoor,AR
-2:14.74,1000m,NACAC,,CAN,Brighton MA,USA,2024-02-04,Marco Arop,1998.0,Male,Indoor,AR
-2:16.95,1000m,Oceania,,AUS,Boston MA,USA,2024-02-10,Jack Anstey,1997.0,Male,Indoor,AR
+2:14.74,1000m,NACAC,,CAN,Brighton,USA,2024-02-04,Marco Arop,1998.0,Male,Indoor,AR
+2:16.95,1000m,Oceania,,AUS,Boston,USA,2024-02-10,Jack Anstey,1997.0,Male,Indoor,AR
 10.42,100m,South America,,BRA,Tampere,FIN,2006-02-04,Vicente de Lima,1977.0,Male,Indoor,AR
 3:31.04,1500m,Africa,,ETH,Birmingham,GBR,2019-02-16,Samuel Tefera,1999.0,Male,Indoor,AR
-3:36.28,1500m,Asia,,BRN,Stockholm/G,SWE,2007-02-20,Bilal Mansour Ali,1988.0,Male,Indoor,AR
+3:36.28,1500m,Asia,,BRN,Stockholm,SWE,2007-02-20,Bilal Mansour Ali,1988.0,Male,Indoor,AR
 3:30.60,1500m,Europe,,NOR,Liévin,FRA,2022-02-17,Jakob Ingebrigtsen,2000.0,Male,Indoor,AR
-3:32.35,1500m,Oceania,,AUS,Staten Island NY,USA,2021-02-13,Olli Hoare,1997.0,Male,Indoor,AR
+3:32.35,1500m,Oceania,,AUS,Staten Island,USA,2021-02-13,Olli Hoare,1997.0,Male,Indoor,AR
 3:38.03,1500m,South America,,ARG,Sabadell,ESP,2022-02-08,Federico Bruno,1993.0,Male,Indoor,AR
 5:09.61,2000m,South America,,ARG,Bordeaux,FRA,2013-01-26,Federico Bruno,1993.0,Male,Indoor,AR
 19.92,200m,Africa,,NAM,Liévin,FRA,1996-02-18,Frank Fredericks,1967.0,Male,Indoor,AR
 20.63,200m,Asia,,JPN,Maebashi,JPN,1999-03-05,Koji Ito,1970.0,Male,Indoor,AR
 20.25,200m,Europe,,GBR,Liévin,FRA,1995-02-19,Linford Christie,1960.0,Male,Indoor,AR
-20.02,200m,NACAC,,USA,College Station TX,USA,2018-03-10,Elijah Hall-Thompson,1994.0,Male,Indoor,AR
+20.02,200m,NACAC,,USA,College Station,USA,2018-03-10,Elijah Hall-Thompson,1994.0,Male,Indoor,AR
 20.71,200m,Oceania,,AUS,Toronto,CAN,1993-03-14,Damien Marsh,1971.0,Male,Indoor,AR
 20.65,200m,South America,,BRA,Sindelfingen,FRG,1989-02-26,Robson Caetano da Silva,1964.0,Male,Indoor,AR
 7:23.81,3000m,Africa,,ETH,Liévin,FRA,2023-02-15,Lamecha Girma,2000.0,Male,Indoor,AR
 7:31.77,3000m,Asia,,BRN,Liévin,FRA,2022-02-17,Birhanu Balew,1996.0,Male,Indoor,AR
 7:24.68,3000m,Europe,,ESP,Liévin,FRA,2023-02-15,Mohamed Katir,1998.0,Male,Indoor,AR
-7:28.23,3000m,NACAC,,USA,Boston MA,USA,2023-01-27,Yared Nuguse,1999.0,Male,Indoor,AR
-7:34.50,3000m,Oceania,,AUS,Boston MA,USA,2008-01-26,Craig Mottram,1980.0,Male,Indoor,AR
+7:28.23,3000m,NACAC,,USA,Boston,USA,2023-01-27,Yared Nuguse,1999.0,Male,Indoor,AR
+7:34.50,3000m,Oceania,,AUS,Boston,USA,2008-01-26,Craig Mottram,1980.0,Male,Indoor,AR
 7:49.46,3000m,South America,,COL,Sevilla,ESP,1991-03-10,Jacinto Navarrete,1962.0,Male,Indoor,AR
 32.19,300m,South America,,BRA,Karlsruhe,GER,1989-02-24,Robson Caetano da Silva,1964.0,Male,Indoor,AR
 1:22.11,4 x 200m,Europe,,GBR,Glasgow,GBR,1991-03-03,Great Britain,,Male,Indoor,AR
@@ -256,24 +256,24 @@ result,discipline,area,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,
 3:06.71,4 x 400m,Africa,,KEN,Glasgow,GBR,2024-03-03,Kenya,,Male,Indoor,AR
 3:05.90,4 x 400m,Asia,,JPN,Maebashi,JPN,1999-03-06,Japan,,Male,Indoor,AR
 3:01.77,4 x 400m,Europe,,POL,Birmingham,GBR,2018-03-04,Poland,,Male,Indoor,AR
-3:01.39,4 x 400m,NACAC,,USA,College Station TX,USA,2018-03-10,United States,,Male,Indoor,AR
+3:01.39,4 x 400m,NACAC,,USA,College Station,USA,2018-03-10,United States,,Male,Indoor,AR
 3:03.88,4 x 400m,Oceania,,AUS,Brisbane,AUS,2024-02-24,Australia,,Male,Indoor,AR
 3:10.50,4 x 400m,South America,,BRA,Paris,FRA,1997-03-08,Brazil,,Male,Indoor,AR
 7:17.8,4 x 800m,Europe,,URS,Sofia,BUL,1971-03-14,Soviet Union,,Male,Indoor,AR
-7:11.30,4 x 800m,NACAC,,USA,Boston MA,USA,2018-02-25,United States,,Male,Indoor,AR
-45.18,400m,Africa,,UGA,Lubbock TX,USA,2024-02-23,Eugene Omalla,2000.0,Male,Indoor,AR
-45.39,400m,Asia,,QAT,Stockholm/G,SWE,2015-02-19,Abdalelah Haroun,1997.0,Male,Indoor,AR
+7:11.30,4 x 800m,NACAC,,USA,Boston,USA,2018-02-25,United States,,Male,Indoor,AR
+45.18,400m,Africa,,UGA,Lubbock,USA,2024-02-23,Eugene Omalla,2000.0,Male,Indoor,AR
+45.39,400m,Asia,,QAT,Stockholm,SWE,2015-02-19,Abdalelah Haroun,1997.0,Male,Indoor,AR
 45.05,400m,Europe,,GER,Sindelfingen,FRG,1988-02-05,Thomas Schönlebe,1965.0,Male,Indoor,AR
 45.05,400m,Europe,,NOR,Glasgow,GBR,2019-03-02,Karsten Warholm,1996.0,Male,Indoor,AR
-44.49,400m,NACAC,,CAN,Fayetteville AR,USA,2024-02-24,Christopher Morales Williams,2004.0,Male,Indoor,AR
-45.44,400m,Oceania,,AUS,Clemson SC,USA,2018-02-23,Steven Solomon,1993.0,Male,Indoor,AR
-46.07,400m,South America,,COL,Birmingham AL,USA,2019-03-09,Alejandro Perlaza,1994.0,Male,Indoor,AR
+44.49,400m,NACAC,,CAN,Fayetteville,USA,2024-02-24,Christopher Morales Williams,2004.0,Male,Indoor,AR
+45.44,400m,Oceania,,AUS,Clemson,USA,2018-02-23,Steven Solomon,1993.0,Male,Indoor,AR
+46.07,400m,South America,,COL,Birmingham,USA,2019-03-09,Alejandro Perlaza,1994.0,Male,Indoor,AR
 49.87,400m Hurdles,Europe,,ESP,Nerja,ESP,2023-04-15,Jesus David Delgado,1999.0,Male,Indoor,AR
 12:49.60,5000m,Africa,,ETH,Birmingham,GBR,2004-02-20,Kenenisa Bekele,1982.0,Male,Indoor,AR
-13:08.41,5000m,Asia,,THA,Boston MA,USA,2022-02-12,Kieran Tuntivate,1997.0,Male,Indoor,AR
-12:57.08,5000m,Europe,,GBR,Boston MA,USA,2022-02-12,Marc Scott,1993.0,Male,Indoor,AR
-12:51.61,5000m,NACAC,,USA,Boston MA,USA,2023-01-27,Woody Kincaid,1992.0,Male,Indoor,AR
-13:04.33,5000m,Oceania,,NZL,Boston MA,USA,2024-01-26,Geordie Beamish,1996.0,Male,Indoor,AR
+13:08.41,5000m,Asia,,THA,Boston,USA,2022-02-12,Kieran Tuntivate,1997.0,Male,Indoor,AR
+12:57.08,5000m,Europe,,GBR,Boston,USA,2022-02-12,Marc Scott,1993.0,Male,Indoor,AR
+12:51.61,5000m,NACAC,,USA,Boston,USA,2023-01-27,Woody Kincaid,1992.0,Male,Indoor,AR
+13:04.33,5000m,Oceania,,NZL,Boston,USA,2024-01-26,Geordie Beamish,1996.0,Male,Indoor,AR
 13:42.54,5000m,South America,,ARG,San Sebastián,ESP,1990-02-20,Antonio Silio,1966.0,Male,Indoor,AR
 19:39.92,5000m Race Walk,Africa,,TUN,Liévin,FRA,2018-02-18,Hédi Taraaoui,1989.0,Male,Indoor,AR
 21:46.37,5000m Race Walk,Asia,,KAZ,Ust-Kamenogorsk,KAZ,2024-02-23,Egizbay Zharylkasyn,2006.0,Male,Indoor,AR
@@ -281,35 +281,35 @@ result,discipline,area,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,
 19:21.18,5000m Race Walk,NACAC,,GUA,Bratislava,SVK,2019-01-27,Erick Barrondo,1991.0,Male,Indoor,AR
 19:28.87,5000m Race Walk,South America,,BRA,Toronto,CAN,1993-03-13,Sérgio Galdino,1969.0,Male,Indoor,AR
 6.48,50m Hurdles,Africa,,RSA,Liévin,FRA,2001-02-25,Shaun Bownes,1970.0,Male,Indoor,AR
-6.45,60m,Africa,,GHA,Air Force Academy CO,USA,1999-02-20,Leo Myles-Mills,1973.0,Male,Indoor,AR
+6.45,60m,Africa,,GHA,Air Force Academy,USA,1999-02-20,Leo Myles-Mills,1973.0,Male,Indoor,AR
 6.42,60m,Asia,,CHN,Birmingham,GBR,2018-03-03,Su Bingtian,1989.0,Male,Indoor,AR
 6.41,60m,Europe,,ITA,Beograd,SRB,2022-03-19,Lamont Marcell Jacobs,1994.0,Male,Indoor,AR
-6.34,60m,NACAC,,USA,Albuquerque NM,USA,2018-02-18,Christian Coleman,1996.0,Male,Indoor,AR
+6.34,60m,NACAC,,USA,Albuquerque,USA,2018-02-18,Christian Coleman,1996.0,Male,Indoor,AR
 6.52,60m,Oceania,,AUS,Maebashi,JPN,1999-03-07,Matt Shirvington,1978.0,Male,Indoor,AR
 6.52,60m,Oceania,,AUS,Maebashi,JPN,1999-03-07,Matt Shirvington,1978.0,Male,Indoor,AR
 6.52,60m,South America,,BRA,Paris,FRA,2009-02-13,José Carlos Moreira,1983.0,Male,Indoor,AR
 7.52,60m Hurdles,Africa,,RSA,Gent,BEL,2001-02-23,Shaun Bownes,1970.0,Male,Indoor,AR
 7.41,60m Hurdles,Asia,,CHN,Birmingham,GBR,2012-02-18,Liu Xiang,1983.0,Male,Indoor,AR
 7.30,60m Hurdles,Europe,,GBR,Sindelfingen,GER,1994-03-06,Colin Jackson,1967.0,Male,Indoor,AR
-7.27,60m Hurdles,NACAC,,USA,Albuquerque NM,USA,2024-02-16,Grant Holloway,1997.0,Male,Indoor,AR
+7.27,60m Hurdles,NACAC,,USA,Albuquerque,USA,2024-02-16,Grant Holloway,1997.0,Male,Indoor,AR
 7.56,60m Hurdles,Oceania,,AUS,Beograd,SRB,2022-03-20,Chris Douglas,1997.0,Male,Indoor,AR
 7.58,60m Hurdles,South America,,BRA,Berlin,GER,2022-02-04,Rafael Henrique Pereira,1997.0,Male,Indoor,AR
 7.58,60m Hurdles,South America,,BRA,Mondeville,FRA,2022-02-09,Rafael Henrique Pereira,1997.0,Male,Indoor,AR
 7.58,60m Hurdles,South America,,BRA,Val-de-Reuil,FRA,2022-02-14,Rafael Henrique Pereira,1997.0,Male,Indoor,AR
 7.58,60m Hurdles,South America,,BRA,Cochabamba,BOL,2022-02-20,Rafael Henrique Pereira,1997.0,Male,Indoor,AR
 7.58,60m Hurdles,South America,,BRA,Beograd,SRB,2022-03-20,Rafael Henrique Pereira,1997.0,Male,Indoor,AR
-1:43.98,800m,Africa,,KEN,New York NY,USA,2019-02-09,Michael Saruni,1995.0,Male,Indoor,AR
+1:43.98,800m,Africa,,KEN,New York,USA,2019-02-09,Michael Saruni,1995.0,Male,Indoor,AR
 1:45.26,800m,Asia,,BRN,Valencia,ESP,2008-03-09,Youssef Saad Kamel,1981.0,Male,Indoor,AR
 1:42.67,800m,Europe,,DEN,Paris,FRA,1997-03-09,Wilson Kipketer,1972.0,Male,Indoor,AR
-1:44.21,800m,NACAC,,USA,Staten Island NY,USA,2021-02-13,Donavan Brazier,1997.0,Male,Indoor,AR
-1:45.59,800m,Oceania,,AUS,Fayetteville AR,USA,2021-02-13,Charles Hunter,1996.0,Male,Indoor,AR
+1:44.21,800m,NACAC,,USA,Staten Island,USA,2021-02-13,Donavan Brazier,1997.0,Male,Indoor,AR
+1:45.59,800m,Oceania,,AUS,Fayetteville,USA,2021-02-13,Charles Hunter,1996.0,Male,Indoor,AR
 1:45.43,800m,South America,,BRA,Pireás,GRE,1989-03-08,José Luiz Barbosa,1961.0,Male,Indoor,AR
 5911,Heptathlon,Africa,,ALG,Paris,FRA,2010-02-28,Larbi Bouraada,1988.0,Male,Indoor,AR
 6229,Heptathlon,Asia,,KAZ,Tallinn,EST,2008-02-16,Dmitriy Karpov,1981.0,Male,Indoor,AR
 6479,Heptathlon,Europe,,FRA,Beograd,SRB,2017-03-05,Kevin Mayer,1992.0,Male,Indoor,AR
 6645,Heptathlon,NACAC,,USA,Istanbul,TUR,2012-03-10,Ashton Eaton,1988.0,Male,Indoor,AR
 6344,Heptathlon,Oceania,,AUS,Beograd,SRB,2022-03-19,Ashley Moloney,2000.0,Male,Indoor,AR
-5951,Heptathlon,South America,,CHI,Fayetteville AR,USA,2008-03-15,Gonzalo Barroilhet,1986.0,Male,Indoor,AR
+5951,Heptathlon,South America,,CHI,Fayetteville,USA,2008-03-15,Gonzalo Barroilhet,1986.0,Male,Indoor,AR
 5951,Heptathlon,South America,,BRA,Tallinn,EST,2014-02-08,Carlos Chinin,1985.0,Male,Indoor,AR
 2.32,High Jump,Africa,,NGR,Pátra,GRE,2000-02-15,Anthony Idiata,1975.0,Male,Indoor,AR
 2.41,High Jump,Asia,,QAT,Athlone,IRL,2015-02-18,Mutaz Essa Barshim,1991.0,Male,Indoor,AR
@@ -320,25 +320,25 @@ result,discipline,area,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,
 8.44,Long Jump,Africa,,RSA,Birmingham,GBR,2018-03-02,Luvo Manyonga,1991.0,Male,Indoor,AR
 8.27,Long Jump,Asia,,CHN,Nanjing,CHN,2010-03-11,Su Xiongfeng,1987.0,Male,Indoor,AR
 8.71,Long Jump,Europe,,GER,Torino,ITA,2009-03-08,Sebastian Bayer,1986.0,Male,Indoor,AR
-8.79,Long Jump,NACAC,,USA,New York NY,USA,1984-01-27,Carl Lewis,1961.0,Male,Indoor,AR
-8.25,Long Jump,Oceania,,AUS,Portland OR,USA,2016-03-20,Fabrice LaPierre,1983.0,Male,Indoor,AR
+8.79,Long Jump,NACAC,,USA,New York,USA,1984-01-27,Carl Lewis,1961.0,Male,Indoor,AR
+8.25,Long Jump,Oceania,,AUS,Portland,USA,2016-03-20,Fabrice LaPierre,1983.0,Male,Indoor,AR
 8.42,Long Jump,South America,,PAN,Athína,GRE,2008-02-13,Irving Saladino,1983.0,Male,Indoor,AR
-3:47.01,One Mile,Africa,,ETH,Boston MA,USA,2019-03-03,Yomif Kejelcha,1997.0,Male,Indoor,AR
-3:54.84,One Mile,Asia,,JPN,Boston MA,USA,2024-02-10,Ryuma Aoki,1997.0,Male,Indoor,AR
-3:48.93,One Mile,Europe,,GBR,New York NY,USA,2024-02-11,George Mills,1999.0,Male,Indoor,AR
-3:47.38,One Mile,NACAC,,USA,New York NY,USA,2023-02-11,Yared Nuguse,1999.0,Male,Indoor,AR
-3:50.83,One Mile,Oceania,,AUS,New York NY,USA,2022-01-29,Olli Hoare,1997.0,Male,Indoor,AR
-3:50.83,One Mile,Oceania,,AUS,New York NY,USA,2023-02-11,Olli Hoare,1997.0,Male,Indoor,AR
-3:56.26,One Mile,South America,,BRA,Fayetteville AR,USA,2001-02-10,Hudson de Souza,1977.0,Male,Indoor,AR
+3:47.01,One Mile,Africa,,ETH,Boston,USA,2019-03-03,Yomif Kejelcha,1997.0,Male,Indoor,AR
+3:54.84,One Mile,Asia,,JPN,Boston,USA,2024-02-10,Ryuma Aoki,1997.0,Male,Indoor,AR
+3:48.93,One Mile,Europe,,GBR,New York,USA,2024-02-11,George Mills,1999.0,Male,Indoor,AR
+3:47.38,One Mile,NACAC,,USA,New York,USA,2023-02-11,Yared Nuguse,1999.0,Male,Indoor,AR
+3:50.83,One Mile,Oceania,,AUS,New York,USA,2022-01-29,Olli Hoare,1997.0,Male,Indoor,AR
+3:50.83,One Mile,Oceania,,AUS,New York,USA,2023-02-11,Olli Hoare,1997.0,Male,Indoor,AR
+3:56.26,One Mile,South America,,BRA,Fayetteville,USA,2001-02-10,Hudson de Souza,1977.0,Male,Indoor,AR
 5.93,Pole Vault,Asia,,PHI,Berlin,GER,2024-02-23,Ernest John Obiena,1995.0,Male,Indoor,AR
 6.22,Pole Vault,Europe,,SWE,Clermont-Ferrand,FRA,2023-02-25,Armand Duplantis,1999.0,Male,Indoor,AR
 6.01,Pole Vault,NACAC,,USA,Rouen,FRA,2020-02-08,Sam Kendricks,1992.0,Male,Indoor,AR
-6.06,Pole Vault,Oceania,,AUS,Boston MA,USA,2009-02-07,Steve Hooker,1982.0,Male,Indoor,AR
+6.06,Pole Vault,Oceania,,AUS,Boston,USA,2009-02-07,Steve Hooker,1982.0,Male,Indoor,AR
 5.95,Pole Vault,South America,,BRA,Beograd,SRB,2022-03-20,Thiago Braz,1993.0,Male,Indoor,AR
 21.63,Shot Put,Africa,,NGR,Nehvizdy,CZE,2024-02-20,Chukwuebuka Enekwechi,1993.0,Male,Indoor,AR
 21.10,Shot Put,Asia,,BRN,Gomel,BLR,2021-01-29,Abdelrahman Mahmoud,2001.0,Male,Indoor,AR
 22.55,Shot Put,Europe,,GER,Senftenberg,GER,1989-02-11,Ulf Timmermann,1962.0,Male,Indoor,AR
-23.38,Shot Put,NACAC,,USA,Pocatello ID,USA,2023-02-18,Ryan Crouser,1992.0,Male,Indoor,AR
+23.38,Shot Put,NACAC,,USA,Pocatello,USA,2023-02-18,Ryan Crouser,1992.0,Male,Indoor,AR
 22.31,Shot Put,Oceania,,NZL,Birmingham,GBR,2018-03-03,Tom Walsh,1992.0,Male,Indoor,AR
 22.31,Shot Put,Oceania,,NZL,Beograd,SRB,2022-03-19,Tom Walsh,1992.0,Male,Indoor,AR
 22.53,Shot Put,South America,,BRA,Beograd,SRB,2022-03-19,Darlan Romani,1991.0,Male,Indoor,AR
@@ -349,37 +349,37 @@ result,discipline,area,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,
 17.83,Triple Jump,NACAC,,CUB,Sindelfingen,GER,1997-03-01,Aliecer Urrutia,1974.0,Male,Indoor,AR
 17.20,Triple Jump,Oceania,,AUS,Lisboa,POR,2001-03-09,Andrew Murphy,1969.0,Male,Indoor,AR
 17.56,Triple Jump,South America,,BRA,Moskva,RUS,2006-03-12,Jadel Gregório,1980.0,Male,Indoor,AR
-8:00.67,Two Miles,Europe,,GBR,New York NY,USA,2024-02-11,Josh Kerr,1997.0,Male,Indoor,AR
-8:43.24,Two Miles,NACAC,,USA,Brighton MA,USA,2023-03-12,Connor Burns,2004.0,Male,Indoor,AR
-8:05.73,Two Miles,Oceania,,NZL,New York NY,USA,2024-02-11,Geordie Beamish,1996.0,Male,Indoor,AR
-22.95,Weight Throw,Africa,,EGY,Blacksburg VA,USA,2006-02-24,Mohsen Anani,1985.0,Male,Indoor,AR
-25.68,Weight Throw,Europe,,SVK,Sterling IL,USA,2005-03-05,Libor Charfreitag,1977.0,Male,Indoor,AR
-26.35,Weight Throw,NACAC,,USA,Albuquerque NM,USA,2024-02-16,Daniel Haugh,1995.0,Male,Indoor,AR
-22.25,Weight Throw,Oceania,,AUS,Nampa ID,USA,2008-12-06,Simon Wardhaugh,1986.0,Male,Indoor,AR
+8:00.67,Two Miles,Europe,,GBR,New York,USA,2024-02-11,Josh Kerr,1997.0,Male,Indoor,AR
+8:43.24,Two Miles,NACAC,,USA,Brighton,USA,2023-03-12,Connor Burns,2004.0,Male,Indoor,AR
+8:05.73,Two Miles,Oceania,,NZL,New York,USA,2024-02-11,Geordie Beamish,1996.0,Male,Indoor,AR
+22.95,Weight Throw,Africa,,EGY,Blacksburg,USA,2006-02-24,Mohsen Anani,1985.0,Male,Indoor,AR
+25.68,Weight Throw,Europe,,SVK,Sterling,USA,2005-03-05,Libor Charfreitag,1977.0,Male,Indoor,AR
+26.35,Weight Throw,NACAC,,USA,Albuquerque,USA,2024-02-16,Daniel Haugh,1995.0,Male,Indoor,AR
+22.25,Weight Throw,Oceania,,AUS,Nampa,USA,2008-12-06,Simon Wardhaugh,1986.0,Male,Indoor,AR
 29:01.03,"10,000m",Africa,,ETH,Hengelo,NED,2021-06-08,Letesenbet Gidey,1998.0,Female,Outdoor,AR
 29:31.78,"10,000m",Asia,,CHN,Beijing,CHN,1993-09-08,Wang Junxia,1973.0,Female,Outdoor,AR
 29:06.82,"10,000m",Europe,,NED,Hengelo,NED,2021-06-06,Sifan Hassan,1993.0,Female,Outdoor,AR
-30:03.82,"10,000m",NACAC,,USA,San Juan Capistrano CA,USA,2023-03-04,Alicia Monson,1998.0,Female,Outdoor,AR
-30:35.54,"10,000m",Oceania,,NZL,Stanford CA,USA,2008-05-04,Kim Smith,1981.0,Female,Outdoor,AR
+30:03.82,"10,000m",NACAC,,USA,San Juan Capistrano,USA,2023-03-04,Alicia Monson,1998.0,Female,Outdoor,AR
+30:35.54,"10,000m",Oceania,,NZL,Stanford,USA,2008-05-04,Kim Smith,1981.0,Female,Outdoor,AR
 31:47.76,"10,000m",South America,,BRA,Stuttgart,GER,1993-08-21,Carmen de Oliveira,1965.0,Female,Outdoor,AR
 43:50.86,"10,000m Race Walk",Africa,,KEN,Birmingham,GBR,2022-08-06,Emily Ngii,1986.0,Female,Outdoor,AR
 44:13.88,"10,000m Race Walk",NACAC,,MEX,Tampere,FIN,2018-07-14,Alegna Gonzalez,1999.0,Female,Outdoor,AR
-41:57.22,"10,000m Race Walk",Oceania,,AUS,Seattle WA,USA,1990-07-24,Kerry Saxby-Junna,1961.0,Female,Outdoor,AR
+41:57.22,"10,000m Race Walk",Oceania,,AUS,Seattle,USA,1990-07-24,Kerry Saxby-Junna,1961.0,Female,Outdoor,AR
 42:02.99,"10,000m Race Walk",South America,,COL,Trujillo2,PER,2018-08-25,Sandra Arenas,1993.0,Female,Outdoor,AR
 2:29.15,1000m,Africa,,KEN,Monaco,MON,2020-08-14,Faith Kipyegon,1994.0,Female,Outdoor,AR
 2:33.00,1000m,Asia,,CHN,Beijing,CHN,1993-11-09,Qu Yunxia,,Female,Outdoor,AR
 2:28.98,1000m,Europe,,RUS,Bruxelles,BEL,1996-08-23,Svetlana Masterkova,1968.0,Female,Outdoor,AR
-2:31.80,1000m,NACAC,,USA,Brunswick ME,USA,1999-07-03,Regina Jacobs,1963.0,Female,Outdoor,AR
+2:31.80,1000m,NACAC,,USA,Brunswick,USA,1999-07-03,Regina Jacobs,1963.0,Female,Outdoor,AR
 2:34.63,1000m,Oceania,,AUS,Bern,SUI,2023-08-04,Abbey Caldwell,2001.0,Female,Outdoor,AR
 2:32.25,1000m,South America,,SUR,Berlin,GER,1991-09-10,Letitia Vriesde,1964.0,Female,Outdoor,AR
 7:27:44,100km,Asia,,JPN,Bengaluru,IND,2023-07-30,Miho Nakata,1989.0,Female,Outdoor,AR
 10.75,100m,Africa,0.9,CIV,Oslo,NOR,2023-06-15,Marie Josée Ta Lou,1988.0,Female,Outdoor,AR
 10.79,100m,Asia,0.0,CHN,Shanghai,CHN,1997-10-18,Li Xuemei,1977.0,Female,Outdoor,AR
 10.73,100m,Europe,2.0,FRA,Budapest,HUN,1998-08-19,Christine Arron,1973.0,Female,Outdoor,AR
-10.49,100m,NACAC,0.0,USA,Indianapolis IN,USA,1988-07-16,Florence Griffith-Joyner,1959.0,Female,Outdoor,AR
+10.49,100m,NACAC,0.0,USA,Indianapolis,USA,1988-07-16,Florence Griffith-Joyner,1959.0,Female,Outdoor,AR
 10.96,100m,Oceania,2.0,NZL,La Chaux-de-Fonds,SUI,2023-07-02,Zoe Hobbs,1997.0,Female,Outdoor,AR
 10.91,100m,South America,-0.2,BRA,London,GBR,2017-08-06,Rosângela Santos,1990.0,Female,Outdoor,AR
-12.12,100m Hurdles,Africa,0.9,NGR,Eugene OR,USA,2022-07-24,Tobi Amusan,1997.0,Female,Outdoor,AR
+12.12,100m Hurdles,Africa,0.9,NGR,Eugene,USA,2022-07-24,Tobi Amusan,1997.0,Female,Outdoor,AR
 12.44,100m Hurdles,Asia,-0.8,KAZ,Luzern,SUI,1995-06-27,Olga Shishigina,1968.0,Female,Outdoor,AR
 12.21,100m Hurdles,Europe,0.7,BUL,Stara Zagora,BUL,1988-08-20,Yordanka Donkova,1961.0,Female,Outdoor,AR
 12.20,100m Hurdles,NACAC,0.3,USA,London,GBR,2016-07-22,Kendra Harrison,1992.0,Female,Outdoor,AR
@@ -394,14 +394,14 @@ result,discipline,area,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,
 28:46,"10km, Road",Africa,,KEN,Valencia,ESP,2024-01-14,Agnes Ngetich,2001.0,Female,Outdoor,AR
 29:38,"10km, Road",Asia,,BRN,Génève,SUI,2021-10-03,Kalkidan Gezahegne,1991.0,Female,Outdoor,AR
 30:19,"10km, Road",Europe,,GBR,Manchester,GBR,2022-05-22,Eilish McColgan,1990.0,Female,Outdoor,AR
-30:52,"10km, Road",NACAC,,USA,Boston MA,USA,2016-06-26,Shalane Flanagan,1981.0,Female,Outdoor,AR
+30:52,"10km, Road",NACAC,,USA,Boston,USA,2016-06-26,Shalane Flanagan,1981.0,Female,Outdoor,AR
 31:17,"10km, Road",Oceania,,AUS,Manchester,GBR,2006-05-21,Benita Willis,1979.0,Female,Outdoor,AR
-31:59,"10km, Road",South America,,ARG,Miramar FL,USA,2023-11-19,Florencia Borelli,1992.0,Female,Outdoor,AR
+31:59,"10km, Road",South America,,ARG,Miramar,USA,2023-11-19,Florencia Borelli,1992.0,Female,Outdoor,AR
 3:49.11,1500m,Africa,,KEN,Firenze,ITA,2023-06-02,Faith Kipyegon,1994.0,Female,Outdoor,AR
 3:50.46,1500m,Asia,,CHN,Beijing,CHN,1993-09-11,Qu Yunxia,1972.0,Female,Outdoor,AR
 3:51.95,1500m,Europe,,NED,Doha,QAT,2019-10-05,Sifan Hassan,1993.0,Female,Outdoor,AR
 3:54.99,1500m,NACAC,,USA,Doha,QAT,2019-10-05,Shelby Houlihan,1993.0,Female,Outdoor,AR
-3:56.92,1500m,Oceania,,AUS,Eugene OR,USA,2023-09-16,Linden Hall,1991.0,Female,Outdoor,AR
+3:56.92,1500m,Oceania,,AUS,Eugene,USA,2023-09-16,Linden Hall,1991.0,Female,Outdoor,AR
 4:05.67,1500m,South America,,SUR,Tokyo,JPN,1991-08-31,Letitia Vriesde,1964.0,Female,Outdoor,AR
 1:05:26.6,"20,000m",Africa,,KEN,Borgholzhausen,GER,2000-09-03,Tegla Loroupe,1973.0,Female,Outdoor,AR
 1:06:48.8,"20,000m",Asia,,JPN,Amagasaki,JPN,1993-09-20,Izumi Maki,1968.0,Female,Outdoor,AR
@@ -423,7 +423,7 @@ result,discipline,area,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,
 21.63,200m,Europe,0.2,NED,Beijing,CHN,2015-08-28,Dafne Schippers,1992.0,Female,Outdoor,AR
 21.34,200m,NACAC,1.3,USA,Seoul,KOR,1988-09-29,Florence Griffith-Joyner,1959.0,Female,Outdoor,AR
 22.23,200m,Oceania,0.8,AUS,Stuttgart,GER,1997-07-13,Melinda Gainsford-Taylor,1971.0,Female,Outdoor,AR
-22.47,200m,South America,1.4,BRA,Eugene OR,USA,2022-07-19,Vitoria Cristina Rosa,1996.0,Female,Outdoor,AR
+22.47,200m,South America,1.4,BRA,Eugene,USA,2022-07-19,Vitoria Cristina Rosa,1996.0,Female,Outdoor,AR
 1:30:40,20km Race Walk,Africa,,KEN,Nairobi,KEN,2018-06-06,Grace Njue,1979.0,Female,Outdoor,AR
 1:23:49,20km Race Walk,Asia,,CHN,Huangshan,CHN,2021-03-20,Yang Jiayu,1996.0,Female,Outdoor,AR
 1:25:08,20km Race Walk,Europe,,RUS,Sochi,RUS,2011-02-26,Vera Sokolova,1987.0,Female,Outdoor,AR
@@ -432,13 +432,13 @@ result,discipline,area,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,
 1:25:29,20km Race Walk,South America,,ECU,La Coruña,ESP,2019-06-08,Glenda Estefanía Morejón,2000.0,Female,Outdoor,AR
 1:45:50.00,"30,000m",Africa,,KEN,Warstein,GER,2003-06-06,Tegla Loroupe,1973.0,Female,Outdoor,AR
 8:06.11,3000m,Asia,,CHN,Beijing,CHN,1993-09-13,Wang Junxia,1973.0,Female,Outdoor,AR
-8:18.49,3000m,Europe,,NED,Stanford CA,USA,2019-06-30,Sifan Hassan,1993.0,Female,Outdoor,AR
+8:18.49,3000m,Europe,,NED,Stanford,USA,2019-06-30,Sifan Hassan,1993.0,Female,Outdoor,AR
 8:31.81,3000m,Oceania,,AUS,Sydney,AUS,2023-03-11,Jessica Hull,1996.0,Female,Outdoor,AR
 8:43.26,3000m,South America,,VEN,Chorzów,POL,2023-07-16,Joselyn Daniely Brea,1994.0,Female,Outdoor,AR
 8:44.32,3000m Steeplechase,Africa,,KEN,Monaco,MON,2018-07-20,Beatrice Chepkoech,1991.0,Female,Outdoor,AR
-8:50.66,3000m Steeplechase,Asia,,BRN,Eugene OR,USA,2023-09-16,Winfred Yavi,1999.0,Female,Outdoor,AR
+8:50.66,3000m Steeplechase,Asia,,BRN,Eugene,USA,2023-09-16,Winfred Yavi,1999.0,Female,Outdoor,AR
 8:58.81,3000m Steeplechase,Europe,,RUS,Beijing,CHN,2008-08-17,Gulnara Galkina,1978.0,Female,Outdoor,AR
-8:57.77,3000m Steeplechase,NACAC,,USA,Eugene OR,USA,2021-08-21,Courtney Frerichs,1993.0,Female,Outdoor,AR
+8:57.77,3000m Steeplechase,NACAC,,USA,Eugene,USA,2021-08-21,Courtney Frerichs,1993.0,Female,Outdoor,AR
 9:14.28,3000m Steeplechase,Oceania,,AUS,Saint-Denis,FRA,2016-08-27,Genevieve Gregson,1989.0,Female,Outdoor,AR
 9:24.38,3000m Steeplechase,South America,,BRA,Watford,GBR,2022-06-11,Tatiane Raquel da Silva,1990.0,Female,Outdoor,AR
 3:42:04,35km Race Walk,Africa,,RSA,Cape Town,RSA,2022-01-15,Sandra Steenkamp,1960.0,Female,Outdoor,AR
@@ -460,7 +460,7 @@ result,discipline,area,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,
 1:32.76,4 x 200m,Asia,,CHN,Yokohama,JPN,2019-05-12,China,,Female,Outdoor,AR
 1:28.15,4 x 200m,Europe,,GER,Jena,GER,1980-08-09,Germany,,Female,Outdoor,AR
 1:35.91,4 x 200m,South America,,ECU,Yokohama,JPN,2019-05-12,Ecuador,,Female,Outdoor,AR
-3:21.04,4 x 400m,Africa,,NGR,Atlanta GA,USA,1996-08-03,Nigeria,,Female,Outdoor,AR
+3:21.04,4 x 400m,Africa,,NGR,Atlanta,USA,1996-08-03,Nigeria,,Female,Outdoor,AR
 3:24.28,4 x 400m,Asia,,CHN,Beijing,CHN,1993-09-13,China,,Female,Outdoor,AR
 3:15.17,4 x 400m,Europe,,URS,Seoul,KOR,1988-10-01,Soviet Union,,Female,Outdoor,AR
 3:15.51,4 x 400m,NACAC,,USA,Seoul,KOR,1988-10-01,United States,,Female,Outdoor,AR
@@ -469,23 +469,23 @@ result,discipline,area,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,
 8:04.28,4 x 800m,Africa,,KEN,Nassau,BAH,2014-05-25,Kenya,,Female,Outdoor,AR
 8:16.2,4 x 800m,Asia,,CHN,Shanghai,CHN,1991-10-01,China,,Female,Outdoor,AR
 7:50.17,4 x 800m,Europe,,URS,Moskva,URS,1984-08-05,Soviet Union,,Female,Outdoor,AR
-49.10,400m,Africa,,NGR,Atlanta GA,USA,1996-07-29,Falilat Ogunkoya,1968.0,Female,Outdoor,AR
+49.10,400m,Africa,,NGR,Atlanta,USA,1996-07-29,Falilat Ogunkoya,1968.0,Female,Outdoor,AR
 48.14,400m,Asia,,BRN,Doha,QAT,2019-10-03,Salwa Eid Naser,1998.0,Female,Outdoor,AR
 47.60,400m,Europe,,GER,Canberra,AUS,1985-10-06,Marita Koch,1957.0,Female,Outdoor,AR
 48.36,400m,NACAC,,BAH,Tokyo,JPN,2021-08-06,Shaunae Miller-Uibo,1994.0,Female,Outdoor,AR
-48.63,400m,Oceania,,AUS,Atlanta GA,USA,1996-07-29,Cathy Freeman,1973.0,Female,Outdoor,AR
+48.63,400m,Oceania,,AUS,Atlanta,USA,1996-07-29,Cathy Freeman,1973.0,Female,Outdoor,AR
 49.64,400m,South America,,COL,Barcelona,ESP,1992-08-05,Ximena Restrepo,1969.0,Female,Outdoor,AR
 52.90,400m Hurdles,Africa,,MAR,Sevilla,ESP,1999-08-25,Nezha Bidouane,1969.0,Female,Outdoor,AR
 53.09,400m Hurdles,Asia,,BRN,Budapest,HUN,2023-08-24,Kemi Adekoya,1993.0,Female,Outdoor,AR
 51.45,400m Hurdles,Europe,,NED,London,GBR,2023-07-23,Femke Bol,2000.0,Female,Outdoor,AR
-50.68,400m Hurdles,NACAC,,USA,Eugene OR,USA,2022-07-22,Sydney McLaughlin-Levrone,1999.0,Female,Outdoor,AR
+50.68,400m Hurdles,NACAC,,USA,Eugene,USA,2022-07-22,Sydney McLaughlin-Levrone,1999.0,Female,Outdoor,AR
 53.17,400m Hurdles,Oceania,,AUS,Seoul,KOR,1988-09-28,Debbie Flintoff-King,1960.0,Female,Outdoor,AR
-53.69,400m Hurdles,South America,,PAN,Eugene OR,USA,2022-07-20,Gianna Woodruff,1993.0,Female,Outdoor,AR
-14:00.21,5000m,Africa,,ETH,Eugene OR,USA,2023-09-17,Gudaf Tsegay,1997.0,Female,Outdoor,AR
+53.69,400m Hurdles,South America,,PAN,Eugene,USA,2022-07-20,Gianna Woodruff,1993.0,Female,Outdoor,AR
+14:00.21,5000m,Africa,,ETH,Eugene,USA,2023-09-17,Gudaf Tsegay,1997.0,Female,Outdoor,AR
 14:28.09,5000m,Asia,,CHN,Shanghai,CHN,1997-10-23,Jiang Bo,1977.0,Female,Outdoor,AR
 14:13.42,5000m,Europe,,NED,London,GBR,2023-07-23,Sifan Hassan,1993.0,Female,Outdoor,AR
 14:19.45,5000m,NACAC,,USA,London,GBR,2023-07-23,Alicia Monson,1998.0,Female,Outdoor,AR
-14:47.76,5000m,South America,,VEN,Walnut CA,USA,2023-05-06,Joselyn Daniely Brea,1994.0,Female,Outdoor,AR
+14:47.76,5000m,South America,,VEN,Walnut,USA,2023-05-06,Joselyn Daniely Brea,1994.0,Female,Outdoor,AR
 20:50.03,5000m Race Walk,Africa,,TUN,Radès,TUN,2021-06-23,Chahineze Nasri,1996.0,Female,Outdoor,AR
 4:48:00,50km Race Walk,Africa,,RSA,Taicang,CHN,2018-05-05,Natalie Le Roux,1982.0,Female,Outdoor,AR
 4:04:50,50km Race Walk,Europe,,ITA,Alytus,LTU,2019-05-19,Eleonora Giorgi,1989.0,Female,Outdoor,AR
@@ -495,32 +495,32 @@ result,discipline,area,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,
 14:13,"5km, Road",Africa,,KEN,Barcelona,ESP,2023-12-31,Beatrice Chebet,2000.0,Female,Outdoor,AR
 16:24,"5km, Road",Asia,,JPN,Karatsu,JPN,2024-02-11,Shiena Kanamori,2006.0,Female,Outdoor,AR
 14:44,"5km, Road",Europe,,NED,Monaco,MON,2019-02-17,Sifan Hassan,1993.0,Female,Outdoor,AR
-14:50,"5km, Road",NACAC,,USA,Boston MA,USA,2015-04-18,Molly Huddle,1984.0,Female,Outdoor,AR
+14:50,"5km, Road",NACAC,,USA,Boston,USA,2015-04-18,Molly Huddle,1984.0,Female,Outdoor,AR
 14:59,"5km, Road",Oceania,,AUS,London,GBR,2002-09-01,Benita Willis,1979.0,Female,Outdoor,AR
-15:39,"5km, Road",South America,,BRA,Albany NY,USA,1992-06-06,Carmen de Oliveira,1965.0,Female,Outdoor,AR
+15:39,"5km, Road",South America,,BRA,Albany,USA,1992-06-06,Carmen de Oliveira,1965.0,Female,Outdoor,AR
 1:54.01,800m,Africa,,KEN,Zürich,SUI,2008-08-29,Pamela Jelimo,1989.0,Female,Outdoor,AR
 1:55.54,800m,Asia,,CHN,Beijing,CHN,1993-09-09,Liu Dong,1973.0,Female,Outdoor,AR
 1:53.28,800m,Europe,,CZE,München,FRG,1983-07-26,Jarmila Kratochvílová,1951.0,Female,Outdoor,AR
 1:54.44,800m,NACAC,,CUB,Barcelona,ESP,1989-09-09,Ana Fidelia Quirot,1963.0,Female,Outdoor,AR
 1:57.78,800m,Oceania,,AUS,London,GBR,2023-07-23,Catriona Bisset,1994.0,Female,Outdoor,AR
-1:56.68,800m,South America,,SUR,Göteborg/U,SWE,1995-08-13,Letitia Vriesde,1964.0,Female,Outdoor,AR
-64.96,Discus Throw,Africa,,NGR,Ramona OK,USA,2023-04-15,Chioma Onyekwere,1994.0,Female,Outdoor,AR
+1:56.68,800m,South America,,SUR,Göteborg,SWE,1995-08-13,Letitia Vriesde,1964.0,Female,Outdoor,AR
+64.96,Discus Throw,Africa,,NGR,Ramona,USA,2023-04-15,Chioma Onyekwere,1994.0,Female,Outdoor,AR
 71.68,Discus Throw,Asia,,CHN,Beijing,CHN,1992-03-14,Xiao Yanling,1968.0,Female,Outdoor,AR
 76.80,Discus Throw,Europe,,GER,Neubrandenburg,GER,1988-07-09,Gabriele Reinsch,1963.0,Female,Outdoor,AR
-71.46,Discus Throw,NACAC,,USA,La Jolla CA,USA,2022-04-08,Valarie Allman,1995.0,Female,Outdoor,AR
+71.46,Discus Throw,NACAC,,USA,La Jolla,USA,2022-04-08,Valarie Allman,1995.0,Female,Outdoor,AR
 69.64,Discus Throw,Oceania,,AUS,London,GBR,2017-08-13,Dani Stevens,1988.0,Female,Outdoor,AR
 65.34,Discus Throw,South America,,BRA,Leiria,POR,2019-06-26,Andressa de Morais,1990.0,Female,Outdoor,AR
 1:02:52,Half Marathon,Africa,,ETH,Valencia,ESP,2021-10-24,Letesenbet Gidey,1998.0,Female,Outdoor,AR
 1:06:11,Half Marathon,Asia,,BRN,København,DEN,2017-09-17,Eunice Chumba,1993.0,Female,Outdoor,AR
 1:05:15,Half Marathon,Europe,,NED,København,DEN,2018-09-16,Sifan Hassan,1993.0,Female,Outdoor,AR
-1:06:52,Half Marathon,NACAC,,USA,Houston TX,USA,2023-01-15,Emily Sisson,1991.0,Female,Outdoor,AR
-1:07:11,Half Marathon,Oceania,,NZL,Philadelphia PA,USA,2011-09-18,Kim Smith,1981.0,Female,Outdoor,AR
+1:06:52,Half Marathon,NACAC,,USA,Houston,USA,2023-01-15,Emily Sisson,1991.0,Female,Outdoor,AR
+1:07:11,Half Marathon,Oceania,,NZL,Philadelphia,USA,2011-09-18,Kim Smith,1981.0,Female,Outdoor,AR
 1:09:31,Half Marathon,South America,,ARG,Buenos Aires,ARG,2022-08-21,Florencia Borelli,1992.0,Female,Outdoor,AR
-75.49,Hammer Throw,Africa,,NGR,Tucson AZ,USA,2021-05-22,Annette Echikunwoke,1996.0,Female,Outdoor,AR
+75.49,Hammer Throw,Africa,,NGR,Tucson,USA,2021-05-22,Annette Echikunwoke,1996.0,Female,Outdoor,AR
 77.68,Hammer Throw,Asia,,CHN,Chengdu,CHN,2014-03-29,Wang Zheng,1987.0,Female,Outdoor,AR
 82.98,Hammer Throw,Europe,,POL,Warszawa,POL,2016-08-28,Anita Włodarczyk,1985.0,Female,Outdoor,AR
-80.31,Hammer Throw,NACAC,,USA,Eugene OR,USA,2021-06-26,DeAnna Price,1993.0,Female,Outdoor,AR
-74.61,Hammer Throw,Oceania,,NZL,Tucson AZ,USA,2021-05-20,Lauren Bruce,1997.0,Female,Outdoor,AR
+80.31,Hammer Throw,NACAC,,USA,Eugene,USA,2021-06-26,DeAnna Price,1993.0,Female,Outdoor,AR
+74.61,Hammer Throw,Oceania,,NZL,Tucson,USA,2021-05-20,Lauren Bruce,1997.0,Female,Outdoor,AR
 73.74,Hammer Throw,South America,,ARG,Buenos Aires,ARG,2010-04-10,Jenny Dahlgren,1984.0,Female,Outdoor,AR
 6423,Heptathlon,Africa,,GHA,Götzis,AUT,2005-05-29,Margaret Simpson,1982.0,Female,Outdoor,AR
 6942,Heptathlon,Asia,,SYR,Götzis,AUT,1996-05-26,Ghada Shouaa,1972.0,Female,Outdoor,AR
@@ -531,26 +531,26 @@ result,discipline,area,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,
 2.06,High Jump,Africa,,RSA,Saint-Denis,FRA,2003-08-31,Hestrie Cloete,1978.0,Female,Outdoor,AR
 2.00,High Jump,Asia,,KAZ,Almaty,KAZ,2021-06-08,Nadezhda Dubovitskaya,1998.0,Female,Outdoor,AR
 2.09,High Jump,Europe,,BUL,Roma,ITA,1987-08-30,Stefka Kostadinova,1965.0,Female,Outdoor,AR
-2.05,High Jump,NACAC,,USA,Des Moines IA,USA,2010-06-26,Chaunté Lowe,1984.0,Female,Outdoor,AR
-2.03,High Jump,Oceania,,AUS,Eugene OR,USA,2023-09-17,Nicola Olyslagers,1996.0,Female,Outdoor,AR
+2.05,High Jump,NACAC,,USA,Des Moines,USA,2010-06-26,Chaunté Lowe,1984.0,Female,Outdoor,AR
+2.03,High Jump,Oceania,,AUS,Eugene,USA,2023-09-17,Nicola Olyslagers,1996.0,Female,Outdoor,AR
 1.96,High Jump,South America,,ARG,Oristano,ITA,1997-09-08,Solange Witteveen,1976.0,Female,Outdoor,AR
-69.35,Javelin Throw,Africa,,RSA,New York NY,USA,2012-06-09,Sunette Viljoen,1983.0,Female,Outdoor,AR
+69.35,Javelin Throw,Africa,,RSA,New York,USA,2012-06-09,Sunette Viljoen,1983.0,Female,Outdoor,AR
 67.98,Javelin Throw,Asia,,CHN,Shenyang,CHN,2019-08-02,Lu Huihui,1989.0,Female,Outdoor,AR
 72.28,Javelin Throw,Europe,,CZE,Stuttgart,GER,2008-09-13,Barbora Špotáková,1981.0,Female,Outdoor,AR
 71.70,Javelin Throw,NACAC,,CUB,Helsinki,FIN,2005-08-14,Osleidis Menéndez,1979.0,Female,Outdoor,AR
 68.92,Javelin Throw,Oceania,,AUS,Gold Coast,AUS,2018-04-11,Kathryn Mitchell,1982.0,Female,Outdoor,AR
 65.47,Javelin Throw,South America,,COL,Budapest,HUN,2023-08-25,Flor Dennis Ruiz,1991.0,Female,Outdoor,AR
-7.17,Long Jump,Africa,1.1,NGR,Chula Vista CA,USA,2021-05-29,Ese Brume,1996.0,Female,Outdoor,AR
+7.17,Long Jump,Africa,1.1,NGR,Chula Vista,USA,2021-05-29,Ese Brume,1996.0,Female,Outdoor,AR
 7.01,Long Jump,Asia,1.4,CHN,Jinan,CHN,1993-06-04,Yao Weili,1965.0,Female,Outdoor,AR
 7.52,Long Jump,Europe,1.4,RUS,Leningrad,URS,1988-06-11,Galina Cistjaková,1962.0,Female,Outdoor,AR
-7.49,Long Jump,NACAC,1.3,USA,New York NY,USA,1994-05-22,Jackie Joyner-Kersee,1962.0,Female,Outdoor,AR
+7.49,Long Jump,NACAC,1.3,USA,New York,USA,1994-05-22,Jackie Joyner-Kersee,1962.0,Female,Outdoor,AR
 7.49,Long Jump,NACAC,1.7,USA,Sestriere,ITA,1994-07-31,Jackie Joyner-Kersee,1962.0,Female,Outdoor,AR
-7.13,Long Jump,Oceania,1.8,AUS,Chula Vista CA,USA,2022-07-09,Brooke Buschkuehl,1993.0,Female,Outdoor,AR
+7.13,Long Jump,Oceania,1.8,AUS,Chula Vista,USA,2022-07-09,Brooke Buschkuehl,1993.0,Female,Outdoor,AR
 7.26,Long Jump,South America,1.8,BRA,Bogotá,COL,1999-06-26,Maurren Higa Maggi,1976.0,Female,Outdoor,AR
-2:14:04,Marathon,Africa,,KEN,Chicago IL,USA,2019-10-13,Brigid Kosgei,1994.0,Female,Outdoor,AR
+2:14:04,Marathon,Africa,,KEN,Chicago,USA,2019-10-13,Brigid Kosgei,1994.0,Female,Outdoor,AR
 2:19:12,Marathon,Asia,,JPN,Berlin,GER,2005-09-25,Mizuki Noguchi,1978.0,Female,Outdoor,AR
 2:15:25,Marathon,Europe,,GBR,London,GBR,2003-04-13,Paula Radcliffe,1973.0,Female,Outdoor,AR
-2:18:29,Marathon,NACAC,,USA,Chicago IL,USA,2022-10-09,Emily Sisson,1991.0,Female,Outdoor,AR
+2:18:29,Marathon,NACAC,,USA,Chicago,USA,2022-10-09,Emily Sisson,1991.0,Female,Outdoor,AR
 2:21:34,Marathon,Oceania,,AUS,Valencia,ESP,2022-12-04,Sinead Diver,1977.0,Female,Outdoor,AR
 2:25:57,Marathon,South America,,PER,Sevilla,ESP,2022-02-20,Gladys Tejeda,1985.0,Female,Outdoor,AR
 18930,One Hour,Europe,,NED,Bruxelles,BEL,2020-09-04,Sifan Hassan,1993.0,Female,Outdoor,AR
@@ -565,7 +565,7 @@ result,discipline,area,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,
 5.06,Pole Vault,Europe,,RUS,Zürich,SUI,2009-08-28,Yelena Isinbayeva,1982.0,Female,Outdoor,AR
 4.94,Pole Vault,Oceania,,NZL,Jockgrim,GER,2018-07-17,Eliza McCartney,1996.0,Female,Outdoor,AR
 4.87,Pole Vault,South America,,BRA,São Bernardo do Campo,BRA,2016-07-03,Fabiana Murer,1981.0,Female,Outdoor,AR
-18.43,Shot Put,Africa,,NGR,Walnut CA,USA,2003-04-19,Vivian Chukwuemeka,1975.0,Female,Outdoor,AR
+18.43,Shot Put,Africa,,NGR,Walnut,USA,2003-04-19,Vivian Chukwuemeka,1975.0,Female,Outdoor,AR
 21.76,Shot Put,Asia,,CHN,Shijiazhuang,CHN,1988-04-23,Li Meisu,1959.0,Female,Outdoor,AR
 22.63,Shot Put,Europe,,RUS,Moskva,URS,1987-06-07,Natalya Lisovskaya,1962.0,Female,Outdoor,AR
 20.96,Shot Put,NACAC,,CUB,Ciudad de México,MEX,1992-05-02,Belsis Laza,1967.0,Female,Outdoor,AR
@@ -573,30 +573,30 @@ result,discipline,area,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,
 19.30,Shot Put,South America,,BRA,Tunja,COL,2001-07-14,Elisângela Adriano,1972.0,Female,Outdoor,AR
 15.39,Triple Jump,Africa,0.5,CMR,Beijing,CHN,2008-08-17,Françoise Mbango,1976.0,Female,Outdoor,AR
 15.25,Triple Jump,Asia,1.7,KAZ,Split,CRO,2010-09-04,Olga Rypakova,1984.0,Female,Outdoor,AR
-15.50,Triple Jump,Europe,0.9,UKR,Göteborg/U,SWE,1995-08-10,Inessa Kravets,1966.0,Female,Outdoor,AR
+15.50,Triple Jump,Europe,0.9,UKR,Göteborg,SWE,1995-08-10,Inessa Kravets,1966.0,Female,Outdoor,AR
 15.29,Triple Jump,NACAC,0.3,CUB,Roma,ITA,2003-07-11,Yamilé Aldama,1972.0,Female,Outdoor,AR
 14.04,Triple Jump,Oceania,2.0,AUS,Hobart,AUS,2002-03-09,Nicole Mladenis,1975.0,Female,Outdoor,AR
 14.04,Triple Jump,Oceania,1.8,AUS,Perth,AUS,2003-12-07,Nicole Mladenis,1975.0,Female,Outdoor,AR
 41:22.5,"10,000m Race Walk",Europe,,RUS,Saransk,RUS,2023-09-24,Elvira Khasanova,2000.0,Female,Indoor,AR
-2:30.94,1000m,Africa,,MOZ,Stockholm/G,SWE,1999-02-25,Maria Mutola,1972.0,Female,Indoor,AR
+2:30.94,1000m,Africa,,MOZ,Stockholm,SWE,1999-02-25,Maria Mutola,1972.0,Female,Indoor,AR
 2:31.93,1000m,Europe,,GBR,Birmingham,GBR,2017-02-18,Laura Muir,1993.0,Female,Indoor,AR
-2:33.75,1000m,NACAC,,CAN,Boston MA,USA,2023-01-28,Lucia Stafford,1998.0,Female,Indoor,AR
-2:36.96,1000m,Oceania,,NZL,Boston MA,USA,2000-02-06,Toni Hodgkinson,1971.0,Female,Indoor,AR
-2:38.30,1000m,South America,,SUR,Stockholm/G,SWE,1999-02-25,Letitia Vriesde,1964.0,Female,Indoor,AR
+2:33.75,1000m,NACAC,,CAN,Boston,USA,2023-01-28,Lucia Stafford,1998.0,Female,Indoor,AR
+2:36.96,1000m,Oceania,,NZL,Boston,USA,2000-02-06,Toni Hodgkinson,1971.0,Female,Indoor,AR
+2:38.30,1000m,South America,,SUR,Stockholm,SWE,1999-02-25,Letitia Vriesde,1964.0,Female,Indoor,AR
 3:53.09,1500m,Africa,,ETH,Liévin,FRA,2021-02-09,Gudaf Tsegay,1997.0,Female,Indoor,AR
 3:59.79,1500m,Asia,,BRN,Valencia,ESP,2008-03-09,Maryam Jamal,1984.0,Female,Indoor,AR
-3:57.91,1500m,Europe,,SWE,Stockholm/G,SWE,2014-02-06,Abeba Aregawi,1990.0,Female,Indoor,AR
-3:59.98,1500m,NACAC,,USA,Boston MA,USA,2003-02-01,Regina Jacobs,1963.0,Female,Indoor,AR
-4:01.19,1500m,Oceania,,AUS,New York NY,USA,2024-02-11,Jessica Hull,1996.0,Female,Indoor,AR
+3:57.91,1500m,Europe,,SWE,Stockholm,SWE,2014-02-06,Abeba Aregawi,1990.0,Female,Indoor,AR
+3:59.98,1500m,NACAC,,USA,Boston,USA,2003-02-01,Regina Jacobs,1963.0,Female,Indoor,AR
+4:01.19,1500m,Oceania,,AUS,New York,USA,2024-02-11,Jessica Hull,1996.0,Female,Indoor,AR
 4:12.95,1500m,South America,,ARG,Sabadell,ESP,2023-01-28,Fedra Aldana Luna,1995.0,Female,Indoor,AR
-22.11,200m,Africa,,NGR,Albuquerque NM,USA,2023-03-10,Favour Ofili,2002.0,Female,Indoor,AR
+22.11,200m,Africa,,NGR,Albuquerque,USA,2023-03-10,Favour Ofili,2002.0,Female,Indoor,AR
 22.99,200m,Asia,,SRI,Lisboa,POR,2001-03-09,Susanthika Jayasinghe,1975.0,Female,Indoor,AR
 22.10,200m,Europe,,RUS,Liévin,FRA,1995-02-19,Irina Privalova,1968.0,Female,Indoor,AR
 21.87,200m,NACAC,,JAM,Liévin,FRA,1993-02-13,Merlene Ottey,1960.0,Female,Indoor,AR
 22.64,200m,Oceania,,AUS,Barcelona,ESP,1995-03-10,Melinda Gainsford-Taylor,1971.0,Female,Indoor,AR
 22.64,200m,Oceania,,AUS,Barcelona,ESP,1995-03-11,Melinda Gainsford-Taylor,1971.0,Female,Indoor,AR
-23.02,200m,South America,,GUY,Lubbock TX,USA,2019-01-26,Brenessa Thompson,1996.0,Female,Indoor,AR
-8:16.60,3000m,Africa,,ETH,Stockholm/G,SWE,2014-02-06,Genzebe Dibaba,1991.0,Female,Indoor,AR
+23.02,200m,South America,,GUY,Lubbock,USA,2019-01-26,Brenessa Thompson,1996.0,Female,Indoor,AR
+8:16.60,3000m,Africa,,ETH,Stockholm,SWE,2014-02-06,Genzebe Dibaba,1991.0,Female,Indoor,AR
 8:36.03,3000m,Asia,,JPN,Glasgow,GBR,2024-03-02,Nozomi Tanaka,1999.0,Female,Indoor,AR
 8:26.41,3000m,Europe,,GBR,Karlsruhe,GER,2017-02-04,Laura Muir,1993.0,Female,Indoor,AR
 8:20.87,3000m,NACAC,,USA,Glasgow,GBR,2024-03-02,Elle St. Pierre,1995.0,Female,Indoor,AR
@@ -606,35 +606,35 @@ result,discipline,area,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,
 12:20.79,3000m Race Walk,NACAC,,USA,Toronto,CAN,1993-03-12,Debbi Lawrence,1961.0,Female,Indoor,AR
 13:24.0,3000m Race Walk,South America,,BOL,Cochabamba,BOL,2023-02-12,Angela Castro,1993.0,Female,Indoor,AR
 1:32.41,4 x 200m,Europe,,RUS,Glasgow,GBR,2005-01-29,Russia,,Female,Indoor,AR
-1:32.67,4 x 200m,NACAC,,USA,New York NY,USA,2018-01-27,United States,,Female,Indoor,AR
+1:32.67,4 x 200m,NACAC,,USA,New York,USA,2018-01-27,United States,,Female,Indoor,AR
 3:35.07,4 x 400m,Asia,,BRN,Doha,QAT,2016-02-21,Bahrain,,Female,Indoor,AR
 3:23.37,4 x 400m,Europe,,RUS,Glasgow,GBR,2006-01-28,Russia,,Female,Indoor,AR
 3:23.85,4 x 400m,NACAC,,USA,Birmingham,GBR,2018-03-04,United States,,Female,Indoor,AR
 3:26.87,4 x 400m,Oceania,,AUS,Maebashi,JPN,1999-03-07,Australia,,Female,Indoor,AR
 3:47.37,4 x 400m,South America,,BOL,Cochabamba,BOL,2022-02-20,Bolivia,,Female,Indoor,AR
 8:06.24,4 x 800m,Europe,,RUS,Moskva,RUS,2011-02-18,Russia,,Female,Indoor,AR
-8:05.89,4 x 800m,NACAC,,USA,New York NY,USA,2018-02-03,United States,,Female,Indoor,AR
-51.45,400m,Asia,,BRN,Portland OR,USA,2016-03-19,Kemi Adekoya,1993.0,Female,Indoor,AR
+8:05.89,4 x 800m,NACAC,,USA,New York,USA,2018-02-03,United States,,Female,Indoor,AR
+51.45,400m,Asia,,BRN,Portland,USA,2016-03-19,Kemi Adekoya,1993.0,Female,Indoor,AR
 49.17,400m,Europe,,NED,Glasgow,GBR,2024-03-02,Femke Bol,2000.0,Female,Indoor,AR
-49.48,400m,NACAC,,USA,Albuquerque NM,USA,2023-03-11,Britton Wilson,2000.0,Female,Indoor,AR
+49.48,400m,NACAC,,USA,Albuquerque,USA,2023-03-11,Britton Wilson,2000.0,Female,Indoor,AR
 52.17,400m,Oceania,,AUS,Budapest,HUN,1989-03-04,Maree Holland,1963.0,Female,Indoor,AR
 51.57,400m,South America,,GUY,Beograd,SRB,2022-03-18,Aliyah Abrams,1997.0,Female,Indoor,AR
-14:18.86,5000m,Africa,,ETH,Stockholm/G,SWE,2015-02-19,Genzebe Dibaba,1991.0,Female,Indoor,AR
-14:30.79,5000m,Europe,,GER,Boston MA,USA,2020-02-27,Konstanze Klosterhalfen,1997.0,Female,Indoor,AR
-14:31.38,5000m,NACAC,,CAN,Boston MA,USA,2022-02-11,Gabriela DeBues-Stafford,1995.0,Female,Indoor,AR
-14:39.89,5000m,Oceania,,NZL,New York NY,USA,2009-02-27,Kim Smith,1981.0,Female,Indoor,AR
-15:51.98,5000m,South America,,ECU,Boston MA,USA,2023-12-02,Carmen Alder,2003.0,Female,Indoor,AR
-22:23.91,5000m Race Walk,NACAC,,USA,Rochester NY,USA,2018-12-29,Miranda Melville,1989.0,Female,Indoor,AR
+14:18.86,5000m,Africa,,ETH,Stockholm,SWE,2015-02-19,Genzebe Dibaba,1991.0,Female,Indoor,AR
+14:30.79,5000m,Europe,,GER,Boston,USA,2020-02-27,Konstanze Klosterhalfen,1997.0,Female,Indoor,AR
+14:31.38,5000m,NACAC,,CAN,Boston,USA,2022-02-11,Gabriela DeBues-Stafford,1995.0,Female,Indoor,AR
+14:39.89,5000m,Oceania,,NZL,New York,USA,2009-02-27,Kim Smith,1981.0,Female,Indoor,AR
+15:51.98,5000m,South America,,ECU,Boston,USA,2023-12-02,Carmen Alder,2003.0,Female,Indoor,AR
+22:23.91,5000m Race Walk,NACAC,,USA,Rochester,USA,2018-12-29,Miranda Melville,1989.0,Female,Indoor,AR
 24:27.15,5000m Race Walk,South America,,BOL,Cochabamba,BOL,2024-01-14,Mayra Karen Quispe,2000.0,Female,Indoor,AR
-6.31,50m,South America,,GUY,Daly City CA,USA,1983-02-11,Jennifer Inniss,1959.0,Female,Indoor,AR
+6.31,50m,South America,,GUY,Daly City,USA,1983-02-11,Jennifer Inniss,1959.0,Female,Indoor,AR
 6.76,50m Hurdles,Africa,,NGR,Liévin,FRA,2001-02-25,Glory Alozie,1977.0,Female,Indoor,AR
-1:16.76,600y,NACAC,,USA,Lubbock TX,USA,2024-01-20,Michaela Rose,2003.0,Female,Indoor,AR
+1:16.76,600y,NACAC,,USA,Lubbock,USA,2024-01-20,Michaela Rose,2003.0,Female,Indoor,AR
 7.02,60m,Africa,,NGR,Liévin,FRA,1998-02-22,Chioma Ajunwa,1970.0,Female,Indoor,AR
 7.09,60m,Asia,,SRI,Stuttgart,GER,1999-02-07,Susanthika Jayasinghe,1975.0,Female,Indoor,AR
 6.92,60m,Europe,,RUS,Madrid,ESP,1993-02-11,Irina Privalova,1968.0,Female,Indoor,AR
 6.92,60m,Europe,,RUS,Madrid,ESP,1995-02-09,Irina Privalova,1968.0,Female,Indoor,AR
-6.94,60m,NACAC,,USA,Albuquerque NM,USA,2023-02-18,Aleia Hobbs,1996.0,Female,Indoor,AR
-6.94,60m,NACAC,,LCA,Albuquerque NM,USA,2023-03-11,Julien Alfred,2001.0,Female,Indoor,AR
+6.94,60m,NACAC,,USA,Albuquerque,USA,2023-02-18,Aleia Hobbs,1996.0,Female,Indoor,AR
+6.94,60m,NACAC,,LCA,Albuquerque,USA,2023-03-11,Julien Alfred,2001.0,Female,Indoor,AR
 7.06,60m,Oceania,,NZL,Glasgow,GBR,2024-03-02,Zoe Hobbs,1997.0,Female,Indoor,AR
 7.14,60m,South America,,BRA,Beograd,SRB,2022-03-18,Vitoria Cristina Rosa,1996.0,Female,Indoor,AR
 7.82,60m Hurdles,Asia,,KAZ,Liévin,FRA,1999-02-21,Olga Shishigina,1968.0,Female,Indoor,AR
@@ -645,14 +645,14 @@ result,discipline,area,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,
 1:57.06,800m,Africa,,MOZ,Liévin,FRA,1999-02-21,Maria Mutola,1972.0,Female,Indoor,AR
 2:00.78,800m,Asia,,JPN,Yokohama,JPN,2003-02-22,Miho Sato,1978.0,Female,Indoor,AR
 1:55.82,800m,Europe,,SLO,Wien,AUT,2002-03-03,Jolanda Batagelj,1976.0,Female,Indoor,AR
-1:58.29,800m,NACAC,,USA,New York NY,USA,2020-02-08,Ajee’ Wilson,1994.0,Female,Indoor,AR
+1:58.29,800m,NACAC,,USA,New York,USA,2020-02-08,Ajee’ Wilson,1994.0,Female,Indoor,AR
 1:59.46,800m,Oceania,,AUS,Birmingham,GBR,2022-02-19,Catriona Bisset,1994.0,Female,Indoor,AR
 1:59.21,800m,South America,,SUR,Birmingham,GBR,1997-02-23,Letitia Vriesde,1964.0,Female,Indoor,AR
 1.97,High Jump,Africa,,RSA,Birmingham,GBR,2001-02-18,Hestrie Cloete,1978.0,Female,Indoor,AR
 1.98,High Jump,Asia,,KAZ,Samara,RUS,1996-03-04,Svetlana Zalevskaya,1973.0,Female,Indoor,AR
 1.98,High Jump,Asia,,KAZ,Beograd,SRB,2022-03-19,Nadezhda Dubovitskaya,1998.0,Female,Indoor,AR
 2.08,High Jump,Europe,,SWE,Arnstadt,GER,2006-02-04,Kajsa Bergqvist,1976.0,Female,Indoor,AR
-2.02,High Jump,NACAC,,USA,Albuquerque NM,USA,2012-02-26,Chaunté Lowe,1984.0,Female,Indoor,AR
+2.02,High Jump,NACAC,,USA,Albuquerque,USA,2012-02-26,Chaunté Lowe,1984.0,Female,Indoor,AR
 2.00,High Jump,Oceania,,AUS,Beograd,SRB,2022-03-19,Eleanor Patterson,1996.0,Female,Indoor,AR
 1.94,High Jump,South America,,ARG,Brno,CZE,2000-02-09,Solange Witteveen,1976.0,Female,Indoor,AR
 6.97,Long Jump,Africa,,NGR,Erfurt,GER,1997-02-05,Chioma Ajunwa,1970.0,Female,Indoor,AR
@@ -661,25 +661,25 @@ result,discipline,area,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,
 7.23,Long Jump,NACAC,,USA,Istanbul,TUR,2012-03-11,Brittney Reese,1986.0,Female,Indoor,AR
 6.81,Long Jump,Oceania,,AUS,Barcelona,ESP,1995-03-12,Nicole Boegman,1967.0,Female,Indoor,AR
 6.89,Long Jump,South America,,BRA,Valencia,ESP,2008-03-09,Maurren Higa Maggi,1976.0,Female,Indoor,AR
-4:13.31,One Mile,Africa,,ETH,Stockholm/G,SWE,2016-02-17,Genzebe Dibaba,1991.0,Female,Indoor,AR
+4:13.31,One Mile,Africa,,ETH,Stockholm,SWE,2016-02-17,Genzebe Dibaba,1991.0,Female,Indoor,AR
 4:24.71,One Mile,Asia,,BRN,Birmingham,GBR,2010-02-20,Maryam Jamal,1984.0,Female,Indoor,AR
-4:17.14,One Mile,Europe,,ROU,East Rutherford NJ,USA,1990-02-09,Doina Melinte,1956.0,Female,Indoor,AR
-4:16.41,One Mile,NACAC,,USA,New York NY,USA,2024-02-11,Elle St. Pierre,1995.0,Female,Indoor,AR
-4:19.03,One Mile,Oceania,,AUS,New York NY,USA,2024-02-11,Jessica Hull,1996.0,Female,Indoor,AR
-4:34.37,One Mile,South America,,ECU,Boston MA,USA,2024-01-27,Carmen Alder,2003.0,Female,Indoor,AR
+4:17.14,One Mile,Europe,,ROU,East Rutherford,USA,1990-02-09,Doina Melinte,1956.0,Female,Indoor,AR
+4:16.41,One Mile,NACAC,,USA,New York,USA,2024-02-11,Elle St. Pierre,1995.0,Female,Indoor,AR
+4:19.03,One Mile,Oceania,,AUS,New York,USA,2024-02-11,Jessica Hull,1996.0,Female,Indoor,AR
+4:34.37,One Mile,South America,,ECU,Boston,USA,2024-01-27,Carmen Alder,2003.0,Female,Indoor,AR
 4558,Pentathlon,Africa,,SLE,Paris,FRA,1997-03-07,Eunice Barber,1974.0,Female,Indoor,AR
 4582,Pentathlon,Asia,,KAZ,Pattaya,THA,2006-02-10,Olga Rypakova,1984.0,Female,Indoor,AR
 5055,Pentathlon,Europe,,BEL,Istanbul,TUR,2023-03-03,Nafissatou Thiam,1994.0,Female,Indoor,AR
-5004,Pentathlon,NACAC,,USA,Albuquerque NM,USA,2023-02-16,Anna Hall,2001.0,Female,Indoor,AR
+5004,Pentathlon,NACAC,,USA,Albuquerque,USA,2023-02-16,Anna Hall,2001.0,Female,Indoor,AR
 4490,Pentathlon,Oceania,,AUS,Maebashi,JPN,1999-03-05,Jane Jamieson,1975.0,Female,Indoor,AR
 4292,Pentathlon,South America,,BRA,Tallinn,EST,2016-02-14,Vanessa Spínola,1990.0,Female,Indoor,AR
 4.41,Pole Vault,Africa,,RSA,Birmingham,GBR,2000-02-20,Elmarie Gerryts,1972.0,Female,Indoor,AR
 4.70,Pole Vault,Asia,,CHN,Doha,QAT,2016-02-19,Li Ling,1989.0,Female,Indoor,AR
-5.01,Pole Vault,Europe,,RUS,Stockholm/G,SWE,2012-02-23,Yelena Isinbayeva,1982.0,Female,Indoor,AR
-5.03,Pole Vault,NACAC,,USA,Brockport NY,USA,2016-01-30,Jenn Suhr,1982.0,Female,Indoor,AR
+5.01,Pole Vault,Europe,,RUS,Stockholm,SWE,2012-02-23,Yelena Isinbayeva,1982.0,Female,Indoor,AR
+5.03,Pole Vault,NACAC,,USA,Brockport,USA,2016-01-30,Jenn Suhr,1982.0,Female,Indoor,AR
 4.91,Pole Vault,Oceania,,AUS,Zürich,SUI,2023-08-30,Nina Kennedy,1997.0,Female,Indoor,AR
 4.83,Pole Vault,South America,,BRA,Nevers,FRA,2015-02-07,Fabiana Murer,1981.0,Female,Indoor,AR
-18.13,Shot Put,Africa,,NGR,Flagstaff AZ,USA,2006-02-04,Vivian Chukwuemeka,1975.0,Female,Indoor,AR
+18.13,Shot Put,Africa,,NGR,Flagstaff,USA,2006-02-04,Vivian Chukwuemeka,1975.0,Female,Indoor,AR
 18.13,Shot Put,Africa,,GBS,Braga,POR,2021-02-13,Jessica Inchude,1996.0,Female,Indoor,AR
 21.10,Shot Put,Asia,,CHN,Beijing,CHN,1990-03-03,Sui Xinmei,1965.0,Female,Indoor,AR
 22.50,Shot Put,Europe,,CZE,Jablonec,TCH,1977-02-19,Helena Fibingerová,1949.0,Female,Indoor,AR
@@ -689,12 +689,12 @@ result,discipline,area,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,
 14.90,Triple Jump,Africa,,SUD,Budapest,HUN,2004-03-06,Yamilé Aldama,1972.0,Female,Indoor,AR
 15.14,Triple Jump,Asia,,KAZ,Doha,QAT,2010-03-13,Olga Rypakova,1984.0,Female,Indoor,AR
 15.36,Triple Jump,Europe,,RUS,Budapest,HUN,2004-03-06,Tatyana Lebedeva,1976.0,Female,Indoor,AR
-15.12,Triple Jump,NACAC,,USA,Albuquerque NM,USA,2023-03-11,Jasmine Moore,2001.0,Female,Indoor,AR
+15.12,Triple Jump,NACAC,,USA,Albuquerque,USA,2023-03-11,Jasmine Moore,2001.0,Female,Indoor,AR
 13.31,Triple Jump,Oceania,,AUS,Budapest,HUN,2004-03-05,Nicole Mladenis,1975.0,Female,Indoor,AR
 15.74,Triple Jump,South America,,VEN,Beograd,SRB,2022-03-20,Yulimar Rojas,1995.0,Female,Indoor,AR
-9:09.70,Two Miles,NACAC,,USA,New York NY,USA,2024-02-11,Alicia Monson,1998.0,Female,Indoor,AR
-24.90,Weight Throw,Africa,,NGR,Nashville TN,USA,2024-02-09,Sade Olatoye,1997.0,Female,Indoor,AR
-18.44,Weight Throw,Asia,,USA,Fayetteville AR,USA,2002-03-08,Serene Ross,1977.0,Female,Indoor,AR
-25.73,Weight Throw,NACAC,,USA,Albuquerque NM,USA,2024-02-17,Erin Reese,1995.0,Female,Indoor,AR
-22.40,Weight Throw,Oceania,,ASA,New York NY,USA,1999-02-05,Lisa Misipeka,1975.0,Female,Indoor,AR
-24.04,Weight Throw,South America,,ARG,Fayetteville AR,USA,2006-03-10,Jenny Dahlgren,1984.0,Female,Indoor,AR
+9:09.70,Two Miles,NACAC,,USA,New York,USA,2024-02-11,Alicia Monson,1998.0,Female,Indoor,AR
+24.90,Weight Throw,Africa,,NGR,Nashville,USA,2024-02-09,Sade Olatoye,1997.0,Female,Indoor,AR
+18.44,Weight Throw,Asia,,USA,Fayetteville,USA,2002-03-08,Serene Ross,1977.0,Female,Indoor,AR
+25.73,Weight Throw,NACAC,,USA,Albuquerque,USA,2024-02-17,Erin Reese,1995.0,Female,Indoor,AR
+22.40,Weight Throw,Oceania,,ASA,New York,USA,1999-02-05,Lisa Misipeka,1975.0,Female,Indoor,AR
+24.04,Weight Throw,South America,,ARG,Fayetteville,USA,2006-03-10,Jenny Dahlgren,1984.0,Female,Indoor,AR

@@ -8,12 +8,12 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 41.11,ANT,Providenciales,TKS,2007-04-09,Amanda Edwards,1988.0,Female,JT,NR,Outdoor
 56.18,ARG,Rosario,ARG,2004-04-14,Romina Maggi,1976.0,Female,JT,NR,Outdoor
 59.12,ARM,Adler,RUS,2012-04-21,Kristine Harutyunyan,1991.0,Female,JT,NR,Outdoor
-37.25,ARU,Youngstown OH,USA,2019-05-05,Julianne Dorothal,1997.0,Female,JT,NR,Outdoor
-36.87,ASA,Azusa CA,USA,2010-04-15,Claire Morgan,1989.0,Female,JT,NR,Outdoor
+37.25,ARU,Youngstown,USA,2019-05-05,Julianne Dorothal,1997.0,Female,JT,NR,Outdoor
+36.87,ASA,Azusa,USA,2010-04-15,Claire Morgan,1989.0,Female,JT,NR,Outdoor
 68.92,AUS,Gold Coast,AUS,2018-04-11,Kathryn Mitchell,1982.0,Female,JT,NR,Outdoor
 64.68,AUT,Eisenstadt,AUT,2021-04-26,Victoria Hudson,1996.0,Female,JT,NR,Outdoor
 46.20,AZE,Baku,AZE,2017-05-04,Ragneta Zulfugarova,1992.0,Female,JT,NR,Outdoor
-63.73,BAH,Nashville TN,USA,2000-04-22,Lavern Eve,1965.0,Female,JT,NR,Outdoor
+63.73,BAH,Nashville,USA,2000-04-22,Lavern Eve,1965.0,Female,JT,NR,Outdoor
 46.06,BAN,Dhaka,BAN,2022-09-23,Jannat Begum,,Female,JT,NR,Outdoor
 47.00,BAR,Basseterre,SKN,2008-03-24,Deandra Dottin,1991.0,Female,JT,NR,Outdoor
 29.80,BDI,Ngozi,BDI,2014-07-09,Goreth Barampama,,Female,JT,NR,Outdoor
@@ -21,8 +21,8 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 56.75,BEN,Rovereto,ITA,2020-09-08,Pascaline Adanhouegbe,1995.0,Female,JT,NR,Outdoor
 40.39,BER,Colomiers,FRA,2014-10-18,Shianne Furbert,1985.0,Female,JT,NR,Outdoor
 38.92,BHU,Phuntsholing,BHU,2001-12-13,Chechay,,Female,JT,NR,Outdoor
-55.69,BIH,Long Beach CA,USA,2022-04-16,Vanja Spaić,1995.0,Female,JT,NR,Outdoor
-55.69,BIH,Long Beach CA,USA,2022-04-16,Vanja Spajic,1995.0,Female,JT,NR,Outdoor
+55.69,BIH,Long Beach,USA,2022-04-16,Vanja Spaić,1995.0,Female,JT,NR,Outdoor
+55.69,BIH,Long Beach,USA,2022-04-16,Vanja Spajic,1995.0,Female,JT,NR,Outdoor
 39.20,BIZ,Managua,NCA,2017-12-10,Katy Sealy,1990.0,Female,JT,NR,Outdoor
 67.47,BLR,Oslo,NOR,2018-06-07,Tatsiana Khaladovich,1991.0,Female,JT,NR,Outdoor
 42.13,BOL,Cochabamba,BOL,2013-05-05,Natalia Chávez,1995.0,Female,JT,NR,Outdoor
@@ -34,7 +34,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 46.79,BUR,Ouagadougou,BUR,2001-05-20,Estelle Kagambega,1979.0,Female,JT,NR,Outdoor
 36.96,CAF,Montbéliard,FRA,2000-05-14,Nadege Nakombo,,Female,JT,NR,Outdoor
 64.83,CAN,Kawasaki,JPN,2015-05-10,Liz Gleadle,1988.0,Female,JT,NR,Outdoor
-43.43,CAY,Gulf Shores AL,USA,2019-05-23,Daneliz Thomas,1999.0,Female,JT,NR,Outdoor
+43.43,CAY,Gulf Shores,USA,2019-05-23,Daneliz Thomas,1999.0,Female,JT,NR,Outdoor
 46.95,CGO,Brazzaville,CGO,2015-09-15,Stella Vieira,1991.0,Female,JT,NR,Outdoor
 22.10,CHA,N'Djamena,CHA,2007-04-15,Fatime Djimtoloum,,Female,JT,NR,Outdoor
 54.94,CHI,Santiago de Chile,CHI,2018-02-18,María Paz Ríos,1989.0,Female,JT,NR,Outdoor
@@ -52,7 +52,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 72.28,CZE,Stuttgart,GER,2008-09-13,Barbora Špotáková,1981.0,Female,JT,NR,Outdoor
 64.83,DEN,Stuttgart,GER,2006-09-09,Christina Scherwin,1976.0,Female,JT,NR,Outdoor
 31.86,DJI,Djibouti,DJI,2008-04-18,Ikram Ali Ahmed,,Female,JT,NR,Outdoor
-46.72,DMA,Fayetteville AR,USA,2018-03-24,Shanee Angol,1998.0,Female,JT,NR,Outdoor
+46.72,DMA,Fayetteville,USA,2018-03-24,Shanee Angol,1998.0,Female,JT,NR,Outdoor
 54.29,DOM,Mayaguez,PUR,2011-07-17,Freisa Iris Núñez,1987.0,Female,JT,NR,Outdoor
 61.10,ECU,Asunción,PAR,2022-10-13,Yulesy Angulo,2001.0,Female,JT,NR,Outdoor
 58.60,EGY,Cairo,EGY,2010-06-25,Hana'a Hassan Omar,1983.0,Female,JT,NR,Outdoor
@@ -74,12 +74,12 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 70.20,GER,München,GER,2007-06-23,Christina Obergföll,1981.0,Female,JT,NR,Outdoor
 56.36,GHA,Helsinki,FIN,2005-08-07,Margaret Simpson,1982.0,Female,JT,NR,Outdoor
 67.51,GRE,Sydney,AUS,2000-09-30,Miréla Manjani,1976.0,Female,JT,NR,Outdoor
-54.82,GRN,Allendale MI,USA,2022-05-28,Candesha Scott,1997.0,Female,JT,NR,Outdoor
+54.82,GRN,Allendale,USA,2022-05-28,Candesha Scott,1997.0,Female,JT,NR,Outdoor
 44.27,GUA,Monterrey,MEX,2018-06-03,Sofía Alonso,1992.0,Female,JT,NR,Outdoor
 28.44,GUI,Bondy,FRA,2007-06-17,Mahawa Camara,,Female,JT,NR,Outdoor
 30.74,GUM,Yona,GUM,2013-05-24,Lianna Urbina,,Female,JT,NR,Outdoor
-51.27,GUY,Lubbock TX,USA,2023-03-25,Anisha Gibbons,2004.0,Female,JT,NR,Outdoor
-37.14,HAI,Clarksville TN,USA,2015-04-18,Vanessa Jules,1991.0,Female,JT,NR,Outdoor
+51.27,GUY,Lubbock,USA,2023-03-25,Anisha Gibbons,2004.0,Female,JT,NR,Outdoor
+37.14,HAI,Clarksville,USA,2015-04-18,Vanessa Jules,1991.0,Female,JT,NR,Outdoor
 49.37,HKG,Hongkong,HKG,2016-06-26,Ng Ki Sum,1996.0,Female,JT,NR,Outdoor
 45.00,HON,San José3,CRC,2023-05-07,Esther Padilla,1999.0,Female,JT,NR,Outdoor
 64.62,HUN,Pátra,GRE,2001-07-22,Nikolett Szabó,1980.0,Female,JT,NR,Outdoor
@@ -92,7 +92,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 64.56,ISR,Oslo,NOR,2015-06-11,Margaryta Dorozhon,1987.0,Female,JT,NR,Outdoor
 29.00,ISV,St. Croix,PUR,2015-05-22,Shanice Cazaubon,,Female,JT,NR,Outdoor
 65.30,ITA,Ljubljana,SLO,2000-06-10,Claudia Coslovich,1972.0,Female,JT,NR,Outdoor
-46.35,IVB,Hobbs NM,USA,2019-05-18,Akira Phillip,1999.0,Female,JT,NR,Outdoor
+46.35,IVB,Hobbs,USA,2019-05-18,Akira Phillip,1999.0,Female,JT,NR,Outdoor
 61.10,JAM,Nassau,BAH,2005-07-10,Olivia McKoy,1973.0,Female,JT,NR,Outdoor
 38.28,JOR,Baghdad,IRQ,2000-11-23,Fatin Al-Bakhit,,Female,JT,NR,Outdoor
 67.38,JPN,Bruxelles,BEL,2023-09-08,Haruka Kitaguchi,1998.0,Female,JT,NR,Outdoor
@@ -109,7 +109,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 37.21,LBA,Niamey,NIG,2009-09-02,Ebtehal Aboud,,Female,JT,NR,Outdoor
 39.31,LBN,Dubai,UAE,2012-12-12,Jeanette Saïd,,Female,JT,NR,Outdoor
 42.27,LBR,Québec City,CAN,2005-02-07,Lelica Zazaboi,,Female,JT,NR,Outdoor
-57.22,LCA,El Paso TX,USA,2008-03-29,Erma-Gene Evans,1984.0,Female,JT,NR,Outdoor
+57.22,LCA,El Paso,USA,2008-03-29,Erma-Gene Evans,1984.0,Female,JT,NR,Outdoor
 38.97,LES,Réduit,MRI,2011-04-17,Selloane Ts'oaeli,,Female,JT,NR,Outdoor
 48.10,LIE,Halle,GER,2003-05-25,Johanna Heeb,1982.0,Female,JT,NR,Outdoor
 63.98,LTU,Ogre,LAT,2019-06-15,Liveta Jasiūnaitė,1994.0,Female,JT,NR,Outdoor
@@ -122,10 +122,10 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 54.37,MDA,Tbilisi,GEO,2014-06-21,Mihaela Tacu,1995.0,Female,JT,NR,Outdoor
 34.56,MDV,Male,MDV,2008-12-20,Aminath Shiruna,,Female,JT,NR,Outdoor
 59.26,MEX,Morelia,MEX,2015-06-13,Abigail Gomez,1991.0,Female,JT,NR,Outdoor
-45.04,MKD,Mount Pleasant MI,USA,1999-05-21,Vesna Cadikovska,1980.0,Female,JT,NR,Outdoor
+45.04,MKD,Mount Pleasant,USA,1999-05-21,Vesna Cadikovska,1980.0,Female,JT,NR,Outdoor
 49.85,MLI,Abidjan,CIV,2017-07-26,Kenifing Traore,1997.0,Female,JT,NR,Outdoor
 45.16,MLT,Marsa,MLT,2017-03-18,Joanne Mifsud-Vella,1986.0,Female,JT,NR,Outdoor
-54.77,MNE,Atlanta GA,USA,2016-03-18,Marija Bogavac,1996.0,Female,JT,NR,Outdoor
+54.77,MNE,Atlanta,USA,2016-03-18,Marija Bogavac,1996.0,Female,JT,NR,Outdoor
 28.84,MON,Nice,FRA,2000-05-07,Carine Cresto,1973.0,Female,JT,NR,Outdoor
 46.54,MOZ,Maputo,MOZ,2012-06-16,Salome Mugabe,1989.0,Female,JT,NR,Outdoor
 54.56,MRI,Réduit,MRI,2002-06-30,Bernadette Ravina,1975.0,Female,JT,NR,Outdoor
@@ -150,14 +150,14 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 53.75,PHI,Manila,PHI,2001-05-18,Gerlayn Amandoron,1978.0,Female,JT,NR,Outdoor
 47.23,PLE,Haniá,GRE,2004-06-28,Sofia Sakorafa,1957.0,Female,JT,NR,Outdoor
 40.89,PLW,Koror,PLW,2005-07-27,Maleah Tengadik,,Female,JT,NR,Outdoor
-49.18,PNG,Kingsville TX,USA,2019-05-25,Sharon Toako,1992.0,Female,JT,NR,Outdoor
+49.18,PNG,Kingsville,USA,2019-05-25,Sharon Toako,1992.0,Female,JT,NR,Outdoor
 71.40,POL,Split,CRO,2021-05-09,Maria Andrejczyk,1996.0,Female,JT,NR,Outdoor
 59.76,POR,Leiria,POR,2008-06-21,Sílvia Cruz,1980.0,Female,JT,NR,Outdoor
 49.80,PRK,Pyongyang,PRK,2013-04-22,Kim Un Suk,,Female,JT,NR,Outdoor
 62.31,PUR,Gurabo,PUR,2022-06-17,Coralys Ortiz,1985.0,Female,JT,NR,Outdoor
 38.81,QAT,Manama,BRN,2016-04-15,Sarah Ahmad Al-Mannai,,Female,JT,NR,Outdoor
 65.08,ROU,Bucureşti,ROU,2001-06-10,Ana Mirela Ţermure,1975.0,Female,JT,NR,Outdoor
-69.35,RSA,New York NY,USA,2012-06-09,Sunette Viljoen,1983.0,Female,JT,NR,Outdoor
+69.35,RSA,New York,USA,2012-06-09,Sunette Viljoen,1983.0,Female,JT,NR,Outdoor
 70.53,RUS,Berlin,GER,2013-09-01,Mariya Abakumova,1986.0,Female,JT,NR,Outdoor
 33.94,RWA,Nogent-sur-Oise,FRA,2002-05-05,Dativa Mukandinda,,Female,JT,NR,Outdoor
 54.78,SAM,Wellington,NZL,2004-03-14,Serafina Akeli,1978.0,Female,JT,NR,Outdoor
@@ -175,7 +175,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 43.12,STP,Folha Féde,STP,2013-08-04,Jucelina Mendes,,Female,JT,NR,Outdoor
 39.02,SUD,Khartoum,SUD,2004-10-10,Munika Kosia,,Female,JT,NR,Outdoor
 58.31,SUI,Götzis,AUT,2017-05-28,Géraldine Ruckstuhl,1998.0,Female,JT,NR,Outdoor
-42.97,SUR,Georgetown DC,USA,2014-08-02,Charissa Douglas,,Female,JT,NR,Outdoor
+42.97,SUR,Georgetown,USA,2014-08-02,Charissa Douglas,,Female,JT,NR,Outdoor
 53.07,SVK,Pula,CRO,1999-06-05,Eva Hanuliaková,1975.0,Female,JT,NR,Outdoor
 61.96,SWE,Moskva,RUS,2013-08-16,Sofi Flink,1995.0,Female,JT,NR,Outdoor
 35.29,SWZ,Bellville,RSA,2000-05-06,G. Mbali,,Female,JT,NR,Outdoor
@@ -189,7 +189,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 19.10,TLS,Dili,TLS,2014-11-30,Delfina Soares,,Female,JT,NR,Outdoor
 43.68,TOG,Ouagadougou,BUR,2001-05-20,Princesse Tchangai,,Female,JT,NR,Outdoor
 57.15,TPE,Kaohsiung,TPE,2019-02-18,Li Huei-Chun,1999.0,Female,JT,NR,Outdoor
-54.10,TTO,Austin TX,USA,2000-04-08,Geraldine George,1972.0,Female,JT,NR,Outdoor
+54.10,TTO,Austin,USA,2000-04-08,Geraldine George,1972.0,Female,JT,NR,Outdoor
 60.87,TUN,Tunis,TUN,2004-06-23,Aida Sellam,1977.0,Female,JT,NR,Outdoor
 67.21,TUR,Baku,AZE,2017-05-18,Eda Tuğsuz,1997.0,Female,JT,NR,Outdoor
 31.66,TUV,Funafuti,TUV,2012-06-23,Inara Sioni,,Female,JT,NR,Outdoor

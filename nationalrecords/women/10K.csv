@@ -3,7 +3,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 31:45,AUT,Pinkafeld,AUT,2006-04-17,Susanne Pumper,1970,Female,10K,NR,Outdoor
 30:42,BDI,Valencia,ESP,2024-01-14,Francine Niyomukunzi,1999,Female,10K,NR,Outdoor
 29:38,BRN,Génève,SUI,2021-10-03,Kalkidan Gezahegne,1991,Female,10K,NR,Outdoor
-32:06,DEN,Miami FL,USA,1983-01-09,Dorthe Rasmussen,1960,Female,10K,NR,Outdoor
+32:06,DEN,Miami,USA,1983-01-09,Dorthe Rasmussen,1960,Female,10K,NR,Outdoor
 32:10,ERI,Manchester,GBR,2006-05-21,Simret Sultan,1984,Female,10K,NR,Outdoor
 29:14,ETH,Castellón,ESP,2022-02-27,Yalemzerf Yehualaw,1999,Female,10K,NR,Outdoor
 31:59,FIN,Oulu,FIN,2016-05-28,Johanna Peiponen,1990,Female,10K,NR,Outdoor
@@ -11,11 +11,11 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 31:41,HUN,Manchester,GBR,2006-05-21,Beáta Rakonczai,1977,Female,10K,NR,Outdoor
 28:46,KEN,Valencia,ESP,2024-01-14,Agnes Ngetich,2001,Female,10K,NR,Outdoor
 31:33,LAT,Manchester,GBR,2006-05-21,Jeļena Prokopčuka,1976,Female,10K,NR,Outdoor
-30:29,MAR,New York NY,USA,2002-06-08,Asmae Leghzaoui,1976,Female,10K,NR,Outdoor
+30:29,MAR,New York,USA,2002-06-08,Asmae Leghzaoui,1976,Female,10K,NR,Outdoor
 31:13,RSA,Budapest,HUN,2001-10-14,Elana Meyer,1966,Female,10K,NR,Outdoor
 31:31,SRB,Budapest,HUN,2001-10-14,Olivera Jevtić,1977,Female,10K,NR,Outdoor
 32:01,SUI,Berlin,GER,2018-10-14,Fabienne Schlumpf,1990,Female,10K,NR,Outdoor
 31:18,SWE,Ibiza,ESP,2022-01-16,Sarah Lahti,1995,Female,10K,NR,Outdoor
-31:53,TAN,New York NY,USA,2001-06-09,Restituta Joseph,1971,Female,10K,NR,Outdoor
+31:53,TAN,New York,USA,2001-06-09,Restituta Joseph,1971,Female,10K,NR,Outdoor
 31:14,UKR,Manchester,GBR,2006-05-21,Nataliya Berkut,1975,Female,10K,NR,Outdoor
 32:26,ZIM,Cape Town,RSA,2019-09-15,Fortunate Chidzivo,1987,Female,10K,NR,Outdoor

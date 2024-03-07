@@ -20,13 +20,13 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 36.87,TUR,Istanbul,TUR,2002-05-05,Nora Ivanova-Edletzberger,1977,Female,300,NR,Outdoor
 35.46,USA,London,GBR,1984-08-18,Chandra Cheeseborough,1959,Female,300,NR,Outdoor
 38.64,VIE,Pliezhausen,GER,2011-05-22,Vu Thi Huong,1986,Female,300,NR,Outdoor
-35.45,BAH,New York NY,USA,2018-02-03,Shaunae Miller-Uibo,1994,Female,300,NR,Indoor
+35.45,BAH,New York,USA,2018-02-03,Shaunae Miller-Uibo,1994,Female,300,NR,Indoor
 36.81,BUL,Liévin,FRA,2012-02-14,Vania Stambolova,1983,Female,300,NR,Indoor
 37.09,CHA,Winnipeg,CAN,2005-01-29,Kaltouma Nadjina,1976,Female,300,NR,Indoor
 36.94,CZE,Liévin,FRA,2010-03-05,Denisa Rosolová,1986,Female,300,NR,Indoor
 37.46,EST,Tallinn,EST,2022-01-30,Marielle Kleemeier,1996,Female,300,NR,Indoor
 37.54,FIN,Jyväskylä,FIN,2024-02-03,Mette Baas,2000,Female,300,NR,Indoor
-36.77,GBR,Albuquerque NM,USA,2024-01-20,Dina Asher-Smith,1995,Female,300,NR,Indoor
+36.77,GBR,Albuquerque,USA,2024-01-20,Dina Asher-Smith,1995,Female,300,NR,Indoor
 36.49,GER,Sindelfingen,FRG,1988-02-05,Helga Arendt,1964,Female,300,NR,Indoor
 36.49,GER,Chemnitz,GER,2022-01-22,Corinna Schwab,1999,Female,300,NR,Indoor
 38.33,GRE,Pireás,GRE,1999-01-23,Hristina Panagou,1977,Female,300,NR,Indoor
@@ -36,5 +36,5 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 38.29,POR,Espinho,POR,2002-02-02,Maria Carmo Tavares,1974,Female,300,NR,Indoor
 35.45,RUS,Moskva,RUS,1993-01-17,Irina Privalova,1968,Female,300,NR,Indoor
 41.55,SGP,Birmingham,GBR,2006-03-04,Valerie Seema Pereira,1990,Female,300,NR,Indoor
-37.65,SKN,Clemson SC,USA,2003-12-06,Tiandra Ponteen,1984,Female,300,NR,Indoor
+37.65,SKN,Clemson,USA,2003-12-06,Tiandra Ponteen,1984,Female,300,NR,Indoor
 37.70,SVK,Ostrava,CZE,2018-01-25,Alexandra Bezeková,1992,Female,300,NR,Indoor

@@ -8,7 +8,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 41:30,AUS,Canberra,AUS,1988-08-27,Kerry Saxby-Junna,1961.0,Female,10W,NR,Outdoor
 45:53,AUT,Trnava,SVK,1993-06-26,Vera Toporek,1967.0,Female,10W,NR,Outdoor
 46:01,AZE,Alytus,URS,1988-05-11,Albina Lesnikova,1965.0,Female,10W,NR,Outdoor
-49:55,BEL,New York NY,USA,1987-05-03,Sabine Desmet,1971.0,Female,10W,NR,Outdoor
+49:55,BEL,New York,USA,1987-05-03,Sabine Desmet,1971.0,Female,10W,NR,Outdoor
 57:22,BER,Hamilton,CAN,2013-01-19,Rajae Leverock,,Female,10W,NR,Outdoor
 46:52,BIH,Ruse,BUL,1992-04-16,Kada Delic,1965.0,Female,10W,NR,Outdoor
 41:29,BLR,Izhevsk,RUS,1995-04-06,Larisa Khmelnitskaya,1971.0,Female,10W,NR,Outdoor
@@ -16,7 +16,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 43:03,BRA,Suzhou,CHN,2017-09-25,Erica de Sena,1985.0,Female,10W,NR,Outdoor
 46:04,BUL,München,GER,1992-07-08,Nevena Mineva-Dimitrova,1972.0,Female,10W,NR,Outdoor
 1:09:03,CAF,Bangui,CAF,2003-07-13,Fernande Derebona,,Female,10W,NR,Outdoor
-43:52,CAN,Whiting NJ,USA,2015-04-12,Rachel Seaman,1986.0,Female,10W,NR,Outdoor
+43:52,CAN,Whiting,USA,2015-04-12,Rachel Seaman,1986.0,Female,10W,NR,Outdoor
 1:02:44,CGO,Yaoundé,CMR,2015-09-08,Lilia Bitsoumani,,Female,10W,NR,Outdoor
 50:18,CHI,Lautaro,CHI,2016-03-11,Anastasia Sanzana,1998.0,Female,10W,NR,Outdoor
 41:16,CHN,Eisenhüttenstadt,GER,1999-05-08,Wang Yan,1971.0,Female,10W,NR,Outdoor
@@ -37,7 +37,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 46:55,EST,Borský Mikuláš,SVK,2022-06-04,Jekaterina Mirotvortseva,2002.0,Female,10W,NR,Outdoor
 45:40,ETH,Roma,ITA,2016-07-05,Askale Tiksa,1994.0,Female,10W,NR,Outdoor
 1:16:27,FIJ,Suva,FIJ,2003-12-04,Deepika Chand,,Female,10W,NR,Outdoor
-42:20,FIN,Göteborg/U,SWE,1995-08-07,Sari Essayah,1967.0,Female,10W,NR,Outdoor
+42:20,FIN,Göteborg,SWE,1995-08-07,Sari Essayah,1967.0,Female,10W,NR,Outdoor
 44:06,FRA,Madrid,ESP,2023-04-30,Clemence Beretta,1997.0,Female,10W,NR,Outdoor
 43:52,GBR,Coventry,GBR,2010-03-06,Jo Atkinson,1985.0,Female,10W,NR,Outdoor
 41:51,GER,Eisenhüttenstadt,GER,1996-05-11,Beate Gummelt,1968.0,Female,10W,NR,Outdoor
@@ -46,7 +46,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 43:09,GUA,Katowice,POL,2014-09-13,Mirna Ortiz,1987.0,Female,10W,NR,Outdoor
 45:06,HKG,Kobe,JPN,2019-02-17,Jessica Ching Siu Nga,1987.0,Female,10W,NR,Outdoor
 54:40,HON,Tegucigalpa,HON,1992-07-10,Doris Vallecillo,,Female,10W,NR,Outdoor
-42:34,HUN,Göteborg/U,SWE,1995-08-07,Mária Urbanik-Rosza,1967.0,Female,10W,NR,Outdoor
+42:34,HUN,Göteborg,SWE,1995-08-07,Mária Urbanik-Rosza,1967.0,Female,10W,NR,Outdoor
 46:37,INA,Jakarta,INA,1998-06-27,Tersiana Riwu Rohi,1970.0,Female,10W,NR,Outdoor
 43:31,IND,Ranchi,IND,2021-02-13,Priyanka Goswami,1996.0,Female,10W,NR,Outdoor
 54:27,IRI,Tehran,IRI,2021-10-09,Fatemeh Shabanlou,1997.0,Female,10W,NR,Outdoor
@@ -108,6 +108,6 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 43:23,TUR,Antalya,TUR,2021-03-06,Meryem Bekmez,2000.0,Female,10W,NR,Outdoor
 1:10:16,UAE,Doha,QAT,2013-05-21,Munira Al-Balooshi,,Female,10W,NR,Outdoor
 42:01,UKR,Suzhou,CHN,2015-09-27,Lyudmyla Olyanovska,1993.0,Female,10W,NR,Outdoor
-44:09,USA,Earth City MO,USA,2016-04-03,Maria Michta-Coffey,1986.0,Female,10W,NR,Outdoor
+44:09,USA,Earth City,USA,2016-04-03,Maria Michta-Coffey,1986.0,Female,10W,NR,Outdoor
 47:44,VEN,Guadalajara,ESP,2011-10-23,Milángela Rosales,1987.0,Female,10W,NR,Outdoor
 46:09,VIE,London,GBR,2012-08-11,Phuc Nguyen Thi Thanh,1990.0,Female,10W,NR,Outdoor

@@ -4,7 +4,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 7.72,ALG,Metz,FRA,2011-02-25,Othman Hadj Lazib,1983,Male,60H,NR,Indoor
 8.15,AND,Escaldes,AND,2000-03-04,Esteve Martín,1975,Male,60H,NR,Indoor
 7.91,ANG,Paris,FRA,2007-01-14,Jonas Mateus,1983,Male,60H,NR,Indoor
-8.03,ANT,Madison WI,USA,1999-02-21,Randy Gillon,1976,Male,60H,NR,Indoor
+8.03,ANT,Madison,USA,1999-02-21,Randy Gillon,1976,Male,60H,NR,Indoor
 7.85,ARG,Cochabamba,BOL,2022-02-20,Agustín Carrera,1988,Male,60H,NR,Indoor
 9.45,ARM,Tbilisi,GEO,2014-02-16,Arsen Dubski,1993,Male,60H,NR,Indoor
 7.56,AUS,Beograd,SRB,2022-03-20,Chris Douglas,1997,Male,60H,NR,Indoor
@@ -12,7 +12,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 7.85,AZE,Moskva,URS,1987-01-01,Gennadiy Chugunov,1963,Male,60H,NR,Indoor
 7.49,BAH,Liévin,FRA,2009-02-10,Shamar Sands,1985,Male,60H,NR,Indoor
 7.89,BAN,Rieti,ITA,2012-01-29,Mahfuzur Rahman,1988,Male,60H,NR,Indoor
-7.54,BAR,New York NY,USA,2015-02-14,Greggmar Swift,1991,Male,60H,NR,Indoor
+7.54,BAR,New York,USA,2015-02-14,Greggmar Swift,1991,Male,60H,NR,Indoor
 7.55,BEL,Valencia,ESP,1998-03-01,Jonathan Nsenga,1973,Male,60H,NR,Indoor
 7.96,BIH,Torino,ITA,2009-03-06,Adnan Malkić,1988,Male,60H,NR,Indoor
 7.96,BIH,Torino,ITA,2009-03-06,Adrian Malkic,1988,Male,60H,NR,Indoor
@@ -23,47 +23,47 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 7.66,CHI,Cochabamba,BOL,2024-01-28,Martín Sáenz,2001,Male,60H,NR,Indoor
 7.41,CHN,Birmingham,GBR,2012-02-18,Liu Xiang,1983,Male,60H,NR,Indoor
 7.61,COL,Moskva,RUS,2006-03-11,Paulo Villar,1978,Male,60H,NR,Indoor
-7.87,COM,Ann Arbor MI,USA,2004-02-21,Abdallah Mohamed,1981,Male,60H,NR,Indoor
+7.87,COM,Ann Arbor,USA,2004-02-21,Abdallah Mohamed,1981,Male,60H,NR,Indoor
 7.69,CRO,Zagreb,CRO,2010-01-30,Jurica Grabušić,1983,Male,60H,NR,Indoor
 7.33,CUB,Düsseldorf,GER,2008-02-08,Dayron Robles,1986,Male,60H,NR,Indoor
 7.51,CYP,Birmingham,GBR,2018-03-04,Milan Trajkovic,1992,Male,60H,NR,Indoor
 7.44,CZE,Praha,CZE,2010-02-27,Petr Svoboda,1984,Male,60H,NR,Indoor
 7.68,DEN,Beograd,SRB,2017-03-03,Andreas Martinsen,1990,Male,60H,NR,Indoor
-7.75,DOM,New York NY,USA,2009-02-06,Ramón Sosa,1986,Male,60H,NR,Indoor
+7.75,DOM,New York,USA,2009-02-06,Ramón Sosa,1986,Male,60H,NR,Indoor
 7.71,ECU,Madrid,ESP,2005-02-24,Jackson Quiñónez,1980,Male,60H,NR,Indoor
 7.79,EGY,Mondeville,FRA,2024-02-07,Yousuf Badawy Sayyed,2002,Male,60H,NR,Indoor
-8.00,ESA,Cambridge MA,USA,2023-02-03,Víctor Steiner,2001,Male,60H,NR,Indoor
+8.00,ESA,Cambridge,USA,2023-02-03,Víctor Steiner,2001,Male,60H,NR,Indoor
 7.48,ESP,Toruń,POL,2017-02-10,Orlando Ortega,1991,Male,60H,NR,Indoor
 7.48,ESP,Madrid,ESP,2023-02-19,Enrique Llopis,2000,Male,60H,NR,Indoor
 7.66,EST,Pärnu,EST,2021-12-26,Keiso Pedriks,1994,Male,60H,NR,Indoor
 7.56,FIN,Budapest,HUN,1983-03-06,Arto Bryggare,1958,Male,60H,NR,Indoor
 7.41,FRA,Berlin,GER,2016-02-13,Dimitri Bascou,1987,Male,60H,NR,Indoor
 7.30,GBR,Sindelfingen,GER,1994-03-06,Colin Jackson,1967,Male,60H,NR,Indoor
-7.66,GEO,Göteborg/Sc,SWE,1974-03-10,Anatoliy Moshiashvili,1950,Male,60H,NR,Indoor
+7.66,GEO,Göteborg,SWE,1974-03-10,Anatoliy Moshiashvili,1950,Male,60H,NR,Indoor
 7.41,GER,Chemnitz,GER,1999-01-29,Falk Balzer,1973,Male,60H,NR,Indoor
-7.84,GHA,Boston MA,USA,2022-02-05,Yakubu Ibrahim,1995,Male,60H,NR,Indoor
+7.84,GHA,Boston,USA,2022-02-05,Yakubu Ibrahim,1995,Male,60H,NR,Indoor
 7.59,GRE,Metz,FRA,2020-02-09,Konstadínos Douvalídis,1987,Male,60H,NR,Indoor
-7.70,GRN,Fayetteville AR,USA,2007-03-09,Alleyne Lett,1983,Male,60H,NR,Indoor
-8.50,GUA,Colorado Springs CO,USA,2022-12-10,Mauricio Galindo,2000,Male,60H,NR,Indoor
-8.16,GUI,Brookings SD,USA,2019-03-01,Moussa Conde,1996,Male,60H,NR,Indoor
-7.55,HAI,Stockholm/G,SWE,2001-02-15,Dudley Dorival,1975,Male,60H,NR,Indoor
+7.70,GRN,Fayetteville,USA,2007-03-09,Alleyne Lett,1983,Male,60H,NR,Indoor
+8.50,GUA,Colorado Springs,USA,2022-12-10,Mauricio Galindo,2000,Male,60H,NR,Indoor
+8.16,GUI,Brookings,USA,2019-03-01,Moussa Conde,1996,Male,60H,NR,Indoor
+7.55,HAI,Stockholm,SWE,2001-02-15,Dudley Dorival,1975,Male,60H,NR,Indoor
 7.83,HKG,Astana,KAZ,2023-02-11,Cheung Wang Fung,1997,Male,60H,NR,Indoor
 8.04,HON,Valencia,ESP,2009-02-14,Ronald Bennett,1986,Male,60H,NR,Indoor
 7.53,HUN,Budapest,HUN,2017-02-19,Balázs Baji,1989,Male,60H,NR,Indoor
 7.98,INA,Birmingham,GBR,2018-03-03,Rio Maholtra,1993,Male,60H,NR,Indoor
-7.70,IND,Seattle WA,USA,2017-01-14,Thingalaya Siddhanth,1991,Male,60H,NR,Indoor
+7.70,IND,Seattle,USA,2017-01-14,Thingalaya Siddhanth,1991,Male,60H,NR,Indoor
 7.82,IRI,Tehran,IRI,2004-02-08,Rohallah Ashgari,1982,Male,60H,NR,Indoor
-7.57,IRL,Blacksburg VA,USA,1999-02-26,Peter Coghlan,1975,Male,60H,NR,Indoor
-7.77,IRQ,Malmö/A,SWE,2016-02-28,Amir Shaker,1989,Male,60H,NR,Indoor
+7.57,IRL,Blacksburg,USA,1999-02-26,Peter Coghlan,1975,Male,60H,NR,Indoor
+7.77,IRQ,Malmö,SWE,2016-02-28,Amir Shaker,1989,Male,60H,NR,Indoor
 7.98,ISL,Reykjavik,ISL,2000-02-13,Jón Arnar Magnússon,1969,Male,60H,NR,Indoor
 7.86,ISR,Bratislava,SVK,2024-01-28,Dor Hayon,1998,Male,60H,NR,Indoor
-7.57,ISV,Albuquerque NM,USA,2014-03-14,Eddie Lovett,1992,Male,60H,NR,Indoor
-7.57,ISV,New York NY,USA,2017-02-11,Eddie Lovett,1992,Male,60H,NR,Indoor
+7.57,ISV,Albuquerque,USA,2014-03-14,Eddie Lovett,1992,Male,60H,NR,Indoor
+7.57,ISV,New York,USA,2017-02-11,Eddie Lovett,1992,Male,60H,NR,Indoor
 7.43,ITA,Glasgow,GBR,2024-03-02,Lorenzo Ndele Simonelli,2002,Male,60H,NR,Indoor
-7.41,JAM,Portland OR,USA,2016-03-20,Omar McLeod,1994,Male,60H,NR,Indoor
+7.41,JAM,Portland,USA,2016-03-20,Omar McLeod,1994,Male,60H,NR,Indoor
 7.50,JPN,Osaka,JPN,2021-03-17,Shunsuke Izumiya,2000,Male,60H,NR,Indoor
 7.59,KAZ,Astana,KAZ,2024-01-27,David Yefremov,1999,Male,60H,NR,Indoor
-7.97,KEN,Mankato MN,USA,2023-02-26,Lawrence Lokonobei,2000,Male,60H,NR,Indoor
+7.97,KEN,Mankato,USA,2023-02-26,Lawrence Lokonobei,2000,Male,60H,NR,Indoor
 8.10,KGZ,Barcelona,ESP,1995-03-11,Yevgeniy Shorokhov,1974,Male,60H,NR,Indoor
 7.73,KOR,Astana,KAZ,2023-02-12,Kim Kyung-Tae,1997,Male,60H,NR,Indoor
 7.57,KSA,Mondeville,FRA,2018-02-03,Ahmad Al-Moualed,1988,Male,60H,NR,Indoor
@@ -71,8 +71,8 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 7.42,LAT,Moskva,URS,1989-02-25,Igors Kazanovs,1963,Male,60H,NR,Indoor
 8.20,LBN,Wien,AUT,2018-02-11,Ahmad Hazer,1989,Male,60H,NR,Indoor
 7.61,LBR,Mondeville,FRA,2022-02-09,Wellington Zaza,1995,Male,60H,NR,Indoor
-8.11,LCA,Waverly IA,USA,2023-03-04,Giovanni Alfred,2001,Male,60H,NR,Indoor
-7.69,LTU,Manhattan KS,USA,2012-01-21,Mantas Šilkauskas,1988,Male,60H,NR,Indoor
+8.11,LCA,Waverly,USA,2023-03-04,Giovanni Alfred,2001,Male,60H,NR,Indoor
+7.69,LTU,Manhattan,USA,2012-01-21,Mantas Šilkauskas,1988,Male,60H,NR,Indoor
 7.73,LUX,Louvain-la-Neuve,BEL,2022-02-26,François Grailet,1994,Male,60H,NR,Indoor
 8.17,MAC,Tehran,IRI,2018-02-02,Costa Lai Ho Tat,1993,Male,60H,NR,Indoor
 7.82,MAD,Luxembourg,LUX,2005-01-29,Joseph Berlioz Randriamihaja,1975,Male,60H,NR,Indoor
@@ -80,7 +80,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 7.91,MAS,Pattaya,THA,2006-02-11,Mohd Faiz Mohamad,1983,Male,60H,NR,Indoor
 7.84,MDA,Sofia,BUL,1995-02-04,Aleksandr Yenko,1972,Male,60H,NR,Indoor
 7.84,MDA,Sofia,BUL,1995-02-04,Alexandr Enco,1972,Male,60H,NR,Indoor
-8.08,MEX,Houston TX,USA,2014-02-01,José Antonio Flores,1989,Male,60H,NR,Indoor
+8.08,MEX,Houston,USA,2014-02-01,José Antonio Flores,1989,Male,60H,NR,Indoor
 8.41,MKD,Sofia,BUL,1993-02-08,Robert Kosev,1973,Male,60H,NR,Indoor
 7.77,MLI,Paris,FRA,2010-02-28,Mohammed Kone,1988,Male,60H,NR,Indoor
 7.95,MNE,Beograd,SRB,2021-01-16,Darko Pešić,1992,Male,60H,NR,Indoor
@@ -89,27 +89,27 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 7.52,NED,Stuttgart,GER,2009-02-07,Gregory Sedoc,1981,Male,60H,NR,Indoor
 11.04,NEP,Macau,MAC,2007-10-31,Santosh Kumar Shrestha,1983,Male,60H,NR,Indoor
 7.64,NGR,Paris,FRA,2009-02-13,Selim Nurudeen,1983,Male,60H,NR,Indoor
-7.69,NOR,Göteborg/Sc,SWE,2013-03-01,Vladimir Vukicevic,1991,Male,60H,NR,Indoor
-8.20,NZL,Joplin MO,USA,2017-02-11,Cody Thomas,1991,Male,60H,NR,Indoor
+7.69,NOR,Göteborg,SWE,2013-03-01,Vladimir Vukicevic,1991,Male,60H,NR,Indoor
+8.20,NZL,Joplin,USA,2017-02-11,Cody Thomas,1991,Male,60H,NR,Indoor
 8.16,OMA,Doha,QAT,2012-01-25,Jalal Salem Al-Ghabshi,1983,Male,60H,NR,Indoor
-7.79,PAN,Houston TX,USA,1998-01-31,Curt Young,1974,Male,60H,NR,Indoor
+7.79,PAN,Houston,USA,1998-01-31,Curt Young,1974,Male,60H,NR,Indoor
 7.87,PER,Cochabamba,BOL,2022-02-20,Mauricio Garrido,1996,Male,60H,NR,Indoor
 7.46,POL,Glasgow,GBR,2024-03-02,Jakub Szymański,2002,Male,60H,NR,Indoor
 7.66,POR,Metz,FRA,2014-02-28,Rasul Dabó,1989,Male,60H,NR,Indoor
 7.66,POR,Praha,CZE,2015-03-06,João Almeida,1988,Male,60H,NR,Indoor
-7.71,PUR,Flagstaff AZ,USA,2014-02-08,Héctor Cotto,1984,Male,60H,NR,Indoor
-7.71,PUR,Albuquerque NM,USA,2023-02-04,Ayden Owens-Delerme,2000,Male,60H,NR,Indoor
+7.71,PUR,Flagstaff,USA,2014-02-08,Héctor Cotto,1984,Male,60H,NR,Indoor
+7.71,PUR,Albuquerque,USA,2023-02-04,Ayden Owens-Delerme,2000,Male,60H,NR,Indoor
 8.23,PYF,Metz,FRA,2009-01-11,Toriki Urarii,1988,Male,60H,NR,Indoor
 7.78,QAT,Aarhus,DEN,2024-01-23,Saeed Othman Zamzoun Al-Absi,2002,Male,60H,NR,Indoor
 7.50,ROU,Liévin,FRA,1994-02-13,Gheorghe Boroi,1964,Male,60H,NR,Indoor
 7.52,RSA,Gent,BEL,2001-02-23,Shaun Bownes,1970,Male,60H,NR,Indoor
 7.44,RUS,Moskva,RUS,2008-02-16,Yevgeniy Borisov,1984,Male,60H,NR,Indoor
 8.64,SAM,Moskva,RUS,2006-03-11,Avele Tanielu,1969,Male,60H,NR,Indoor
-7.75,SEN,Hampton VA,USA,2013-02-10,Moussa Dembele,1988,Male,60H,NR,Indoor
-7.87,SLE,Fayetteville AR,USA,2021-02-26,Andre Turay,2000,Male,60H,NR,Indoor
+7.75,SEN,Hampton,USA,2013-02-10,Moussa Dembele,1988,Male,60H,NR,Indoor
+7.87,SLE,Fayetteville,USA,2021-02-26,Andre Turay,2000,Male,60H,NR,Indoor
 7.64,SLO,Wien,AUT,2008-01-29,Damjan Zlatnar,1977,Male,60H,NR,Indoor
 9.22,SMR,Ancona,ITA,2000-02-20,Manlio Molinari,1964,Male,60H,NR,Indoor
-7.67,SRB,Albuquerque NM,USA,2014-03-14,Milan Ristić,1991,Male,60H,NR,Indoor
+7.67,SRB,Albuquerque,USA,2014-03-14,Milan Ristić,1991,Male,60H,NR,Indoor
 7.94,SRI,Sindelfingen,GER,1998-02-14,Chaminda Fonseka,1972,Male,60H,NR,Indoor
 8.46,STP,Espinho,POR,2003-01-18,Arlindo Pinheiro,1971,Male,60H,NR,Indoor
 7.41,SUI,Istanbul,TUR,2023-03-05,Jason Joseph,1998,Male,60H,NR,Indoor
@@ -118,12 +118,12 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 7.78,THA,Hanoi,VIE,2009-11-01,Jumrut Rittidet,1989,Male,60H,NR,Indoor
 8.47,TKM,Maebashi,JPN,1999-03-05,Baimourad Achirmouradov,1973,Male,60H,NR,Indoor
 7.67,TPE,Beograd,SRB,2022-03-20,Chen Kuei-Ju,1993,Male,60H,NR,Indoor
-7.59,TTO,Fayetteville AR,USA,2013-03-09,Wayne Davis,1991,Male,60H,NR,Indoor
-7.81,TUN,Findlay OH,USA,2017-02-25,Rami Gharsalli,1993,Male,60H,NR,Indoor
+7.59,TTO,Fayetteville,USA,2013-03-09,Wayne Davis,1991,Male,60H,NR,Indoor
+7.81,TUN,Findlay,USA,2017-02-25,Rami Gharsalli,1993,Male,60H,NR,Indoor
 7.70,TUR,Beograd,SRB,2022-03-20,Mikdat Sevler,1998,Male,60H,NR,Indoor
 7.53,UKR,Kyiv,UKR,1994-02-12,Vladimir Belokon,1969,Male,60H,NR,Indoor
 7.53,UKR,Karlsruhe,GER,2007-02-11,Serhiy Demydyuk,1982,Male,60H,NR,Indoor
-7.27,USA,Albuquerque NM,USA,2024-02-16,Grant Holloway,1997,Male,60H,NR,Indoor
+7.27,USA,Albuquerque,USA,2024-02-16,Grant Holloway,1997,Male,60H,NR,Indoor
 8.19,VIE,Hanoi,VIE,2009-10-01,Tran Nghia Nhan,1985,Male,60H,NR,Indoor
 7.73,YUG,Wien,AUT,2002-03-01,Miroslav Novaković,1976,Male,60H,NR,Indoor
-7.94,ZIM,Blacksburg VA,USA,2000-02-19,Iain Harnden,1976,Male,60H,NR,Indoor
+7.94,ZIM,Blacksburg,USA,2000-02-19,Iain Harnden,1976,Male,60H,NR,Indoor
