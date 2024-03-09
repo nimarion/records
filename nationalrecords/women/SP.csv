@@ -15,7 +15,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 19.21,AUT,Casablanca,MAR,1999-07-13,Valentina Fedjuschina,1965.0,Female,SP,NR,Outdoor
 16.31,AZE,Donetsk,URS,1978-07-16,Valentina Podgornova,,Female,SP,NR,Outdoor
 17.23,BAH,Knoxville,USA,2006-05-26,Aymara Albury,1985.0,Female,SP,NR,Outdoor
-12.14,BAN,Dhaka,BAN,1992-09-08,Nelly Jesmin,,Female,SP,NR,Outdoor
+13.52,BAN,Dhaka,BAN,2024-02-09,Zakia Akter,,Female,SP,NR,Outdoor
 17.14,BAR,Lincoln,USA,2007-05-13,Shernelle Nicholls,1984.0,Female,SP,NR,Outdoor
 12.56,BDI,Bujumbura,BDI,1992-08-23,Tsizéyimana,,Female,SP,NR,Outdoor
 17.16,BEL,Sittard,NED,2023-06-18,Jolien Boumkwo,1993.0,Female,SP,NR,Outdoor
@@ -74,7 +74,6 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 11.42,GEQ,San Sebastián,ESP,2018-05-26,María Felisa Okomo,2002.0,Female,SP,NR,Outdoor
 22.45,GER,Potsdam,GER,1980-05-10,Ilona Slupianek,1956.0,Female,SP,NR,Outdoor
 16.01,GHA,Tampa,USA,2018-05-24,Claudia Ababio,,Female,SP,NR,Outdoor
-8.50,GIB,Gibraltar,GIB,1992-08-17,Nicole Baker,1977.0,Female,SP,NR,Outdoor
 19.10,GRE,Trikala,GRE,2003-06-14,Iríni Terzóglou,1979.0,Female,SP,NR,Outdoor
 16.18,GRN,St. Georges,GRN,2021-04-24,Kelsie Murrel-Ross,2002.0,Female,SP,NR,Outdoor
 13.52,GUA,Ciudad de Guatemala,GUA,2009-11-06,Doroty Lopez,1984.0,Female,SP,NR,Outdoor
@@ -200,7 +199,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 16.72,TUN,Jablonec,CZE,2002-06-11,Amel Ben Khaled,1974.0,Female,SP,NR,Outdoor
 18.57,TUR,Doha,QAT,2016-05-06,Emel Dereli,1996.0,Female,SP,NR,Outdoor
 10.41,TUV,Funafuti,TUV,2012-06-30,Inara Sioni,,Female,SP,NR,Outdoor
-12.64,UAE,Amman,JOR,2018-07-11,Fatima Youssef Al-Hosani,1998.0,Female,SP,NR,Outdoor
+12.86,UAE,Dubai,UAE,2024-02-02,Fatima Youssef Al-Hosani,1998.0,Female,SP,NR,Outdoor
 14.47,UGA,El Djezair,ALG,1978-07-24,Joyce Aciro,,Female,SP,NR,Outdoor
 21.69,UKR,Budapest,HUN,1998-08-20,Vita Pavlysh,1969.0,Female,SP,NR,Outdoor
 15.85,URU,Buenos Aires,ARG,1988-09-25,Berenice Da Silva,,Female,SP,NR,Outdoor

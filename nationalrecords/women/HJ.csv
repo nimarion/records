@@ -17,7 +17,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 1.97,AUT,Stuttgart,GER,1993-08-21,Sigrid Kirchmann,1966.0,Female,HJ,NR,Outdoor
 1.80,AZE,Baku,URS,1969-05-15,Nina Brintseva,1950.0,Female,HJ,NR,Outdoor
 1.81,BAH,Wichita,USA,2012-05-12,Kenya Culmer,1992.0,Female,HJ,NR,Outdoor
-1.75,BAN,Dhaka,BAN,2022-12-23,Ritu Akhter,2000.0,Female,HJ,NR,Outdoor
+1.76,BAN,Dhaka,BAN,2024-02-09,Ritu Akhter,2000.0,Female,HJ,NR,Outdoor
 1.95,BAR,Azusa,USA,2016-04-13,Akela Inatta-Jones,1995.0,Female,HJ,NR,Outdoor
 1.55,BDI,Bururi,BDI,1987-03-15,Niyonsaba,,Female,HJ,NR,Outdoor
 1.78,BEN,Marseille,FRA,2017-07-14,Odile Ahouanwanou,1991.0,Female,HJ,NR,Outdoor
@@ -158,7 +158,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 1.38,NMI,Pohnpei,FSM,2014-07-23,Rachel Abrams,1995.0,Female,HJ,NR,Outdoor
 2.01,NOR,Zürich,SUI,1997-08-13,Hanne Haugland,1967.0,Female,HJ,NR,Outdoor
 1.26,NRU,Yaren,NRU,2007-03-04,Arrora De Paune,,Female,HJ,NR,Outdoor
-1.92,NZL,Dunedin,NZL,1991-01-26,Tania Dixon,1970.0,Female,HJ,NR,Outdoor
+1.92,NZL,Auckland,NZL,1991-01-26,Tania Dixon,1970.0,Female,HJ,NR,Outdoor
 1.60,OMA,Beyrouth,LBN,2017-09-10,Aleya Faiq Al-Moghairiya,,Female,HJ,NR,Outdoor
 1.69,PAK,Kathmandu,NEP,1999-09-27,Rehana Kausar,,Female,HJ,NR,Outdoor
 1.84,PAN,Managua,NCA,2012-06-16,Kashani Ríos Miller,1991.0,Female,HJ,NR,Outdoor

@@ -73,7 +73,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 5.29,1.6,GEQ,Zaragoza,ESP,2008-05-07,Marlene Mevong Mba,,Female,LJ,NR,Outdoor
 7.48,1.2,GER,Neubrandenburg,GER,1988-07-09,Heike Drechsler,1964.0,Female,LJ,NR,Outdoor
 6.94,1.8,GHA,Birmingham,GBR,2022-08-07,Deborah Acquah,1996.0,Female,LJ,NR,Outdoor
-4.53,0.6,GIB,Gibraltar,GIB,1992-06-10,Alison Cano,1974.0,Female,LJ,NR,Outdoor
+4.53,,GIB,Gibraltar,GIB,1992-06-10,Alison Cano,1974.0,Female,LJ,NR,Outdoor
 7.03,0.6,GRE,Bellinzona,SUI,1997-08-18,Níki Xánthou,1973.0,Female,LJ,NR,Outdoor
 6.71,0.0,GRN,Atlanta,USA,2008-03-29,Patricia Sylvester,1983.0,Female,LJ,NR,Outdoor
 6.36,0.4,GUA,Ciudad de Guatemala,GUA,2018-07-14,Thelma Nohemí Fuentes,1992.0,Female,LJ,NR,Outdoor

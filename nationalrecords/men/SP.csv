@@ -86,7 +86,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 18.84,HAI,Auburn,USA,2021-03-20,Rickssen Opont,1997.0,Male,SP,NR,Outdoor
 15.70,HKG,Hongkong,HKG,2010-12-12,Chiu Lap San,,Male,SP,NR,Outdoor
 19.80,HON,Eugene,USA,2022-03-12,Zack Short,1997.0,Male,SP,NR,Outdoor
-20.56,HUN,Debrecen,HUN,2002-07-26,Szilard Kiss,1975.0,Male,SP,NR,Outdoor
+20.56,HUN,Debrecen,HUN,2002-07-25,Szilard Kiss,1975.0,Male,SP,NR,Outdoor
 16.87,INA,Jakarta,INA,1999-07-01,Sukraj Singh,1975.0,Male,SP,NR,Outdoor
 21.77,IND,Bhubaneshwar,IND,2023-06-19,Tajinderpal Singh,1994.0,Male,SP,NR,Outdoor
 20.66,IRI,Shahrekord,IRI,2021-06-28,Shahin Mehrdelan,1995.0,Male,SP,NR,Outdoor
@@ -223,7 +223,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 18.73,BAR,Houston,USA,2021-01-30,Triston Gibbons,1999.0,Male,SP,NR,Indoor
 18.92,BEL,Louvain-la-Neuve,BEL,2022-02-26,Matthias Quintelier,1997.0,Male,SP,NR,Indoor
 21.42,BIH,Beograd,SRB,2024-02-13,Mesud Pezer,1994.0,Male,SP,NR,Indoor
-21.46,BLR,Moskva,URS,1984-02-17,Sergey Kasnauskas,1961.0,Male,SP,NR,Indoor
+21.65,BLR,Moskva,RUS,2024-03-03,Aleh Tamashevich,2000.0,Male,SP,NR,Indoor
 22.53,BRA,Beograd,SRB,2022-03-19,Darlan Romani,1991.0,Male,SP,NR,Indoor
 21.10,BRN,Gomel,BLR,2021-01-29,Abdelrahman Mahmoud,2001.0,Male,SP,NR,Indoor
 21.02,BUL,Sopot,POL,2014-03-07,Georgi Ivanov,1985.0,Male,SP,NR,Indoor

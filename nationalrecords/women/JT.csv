@@ -82,7 +82,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 37.14,HAI,Clarksville,USA,2015-04-18,Vanessa Jules,1991.0,Female,JT,NR,Outdoor
 49.37,HKG,Hongkong,HKG,2016-06-26,Ng Ki Sum,1996.0,Female,JT,NR,Outdoor
 45.00,HON,San José3,CRC,2023-05-07,Esther Padilla,1999.0,Female,JT,NR,Outdoor
-64.62,HUN,Pátra,GRE,2001-07-22,Nikolett Szabó,1980.0,Female,JT,NR,Outdoor
+64.62,HUN,Pátra,GRE,2001-07-21,Nikolett Szabó,1980.0,Female,JT,NR,Outdoor
 51.26,INA,Timika,INA,2021-10-11,Atinna Nurkamilla Intan,1998.0,Female,JT,NR,Outdoor
 63.82,IND,Jamshedpur,IND,2022-05-08,Annu Rani,1992.0,Female,JT,NR,Outdoor
 51.55,IRI,Tehran,IRI,2018-05-22,Sahar Ziaei,1994.0,Female,JT,NR,Outdoor
@@ -102,7 +102,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 31.75,KIR,Apia,SAM,2007-06-09,Kaitinano Mwemweata,1984.0,Female,JT,NR,Outdoor
 60.92,KOR,Jecheon,KOR,2004-04-22,Jang Jung-Yeon,1977.0,Female,JT,NR,Outdoor
 38.30,KOS,Mitrovice,YUG,2003-03-20,Ardita Uka,1981.0,Female,JT,NR,Outdoor
-11.55,KSA,Al-Kuwait,KUW,2019-10-27,Sara Abdulrahman Ahmed,,Female,JT,NR,Outdoor
+20.02,KSA,Sharjah,UAE,2024-02-09,Sarah Abdel Karim Al Hilal,,Female,JT,NR,Outdoor
 35.01,KUW,Al-Kuwait,KUW,2019-10-27,Salsabeel Khaled Al-Sayar,,Female,JT,NR,Outdoor
 45.35,LAO,Bangkok,THA,2015-09-08,Math Thinmanao,1995.0,Female,JT,NR,Outdoor
 66.18,LAT,Bruxelles,BEL,2016-09-09,Madara Palameika,1987.0,Female,JT,NR,Outdoor
@@ -142,7 +142,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 69.48,NOR,Oslo,NOR,2000-07-28,Trine Hattestad,1966.0,Female,JT,NR,Outdoor
 23.96,NRU,Bairiki,KIR,2007-06-16,Rosa Mystique Jone,1990.0,Female,JT,NR,Outdoor
 63.26,NZL,Yokohama,JPN,2023-05-21,Tori Peeters,1994.0,Female,JT,NR,Outdoor
-37.96,OMA,Muscat,OMA,2015-03-13,Ghania Al-Nasser,,Female,JT,NR,Outdoor
+39.40,OMA,Sharjah,UAE,2024-02-10,Heba Hammoud Al-Asmi,,Female,JT,NR,Outdoor
 44.78,PAK,Karachi,PAK,2010-07-06,Parveen Akhtar,1977.0,Female,JT,NR,Outdoor
 46.79,PAN,Bogotá,COL,2023-04-01,Jennifer Rodriguez,2000.0,Female,JT,NR,Outdoor
 57.77,PAR,Barquisimeto,VEN,2012-06-08,Leryn Franco,1982.0,Female,JT,NR,Outdoor
