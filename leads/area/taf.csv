@@ -266,14 +266,14 @@ result,wind,nation,venue,date,sex,code,firstname,lastname,age,yearOfBirth,venueC
 14:42.94,,ETH,Boston Univ. Track & Tennis Center,2024-01-27,Female,AL,Senayet,Getachew,19.0,2005.0,USA,"Boston, MA",Boston Univ. Track & Tennis Center,Indoor,5K0,4
 7:17.26,,UGA,GC Foster College,2024-02-20,Female,AL,Florence,Nafamba,,,JAM,Spanish Town,GC Foster College,Outdoor,2KH,4
 3:04.99,,KEN,Ulinzi Sports Complex,2024-01-06,Male,AL,,,,,KEN,"Langata, Nairobi",Ulinzi Sports Complex,Outdoor,4×4,4
-9:43.57,,KEN,Nyayo National Stadium,2024-01-27,Female,AL,Caren,Chebet,24,2000,KEN,Nairobi,Nyayo National Stadium,Outdoor,3KH,4
+9:43.05,,KEN,Nyayo National Stadium,2024-03-06,Female,AL,Caren,Chebet,24,2000,KEN,Nairobi,Nyayo National Stadium,Outdoor,3KH,4
 24:53.44,,RSA,McArthur Stadium,2024-02-14,Female,AL,Marissa,Swanepoel,22,2002,RSA,Potchefstroom,McArthur Stadium,Outdoor,5G,4
 70.39,,RSA,McArthur Stadium,2024-02-20,Male,AL,Alan,Cumming,28.0,1996.0,RSA,Potchefstroom,McArthur Stadium,Outdoor,HAM,4
 13.91,0.9,RSA,Pilditch Stadium,2024-01-27,Male,AL,SW,Nel,22,2002,RSA,Pretoria,Pilditch Stadium,Outdoor,11H,4
 6.87,,NGR,Sports Performance Center,2024-02-09,Female,AL,Ruth,Usoro,27.0,1997.0,USA,"Lubbock, TX",Sports Performance Center,Indoor,WEI,4
 7.66,,NIG,Halle Michel d'Ornano,2024-02-07,Male,AL,Saguirou,Badamassi,24.0,2000.0,FRA,Mondeville,Halle Michel d'Ornano,Indoor,60H,4
 39.73,,KEN,Nyayo National Stadium,2024-01-27,Male,AL,,,,,KEN,Nairobi,Nyayo National Stadium,Outdoor,4×1,4
-51.97,,KEN,Nyayo National Stadium,2024-01-27,Female,AL,Mary,Moraa,24.0,2000.0,KEN,Nairobi,Nyayo National Stadium,Outdoor,400,4
+51.25,,KEN,Nyayo National Stadium,2024-03-06,Female,AL,Mary,Moraa,24.0,2000.0,KEN,Nairobi,Nyayo National Stadium,Outdoor,400,4
 7:25.82,,ETH,Arena,2024-02-06,Male,AL,Selemon,Barega,24.0,2000.0,POL,Toruń,Arena,Indoor,3K0,4
 58.16,,NAM,McArthur Stadium,2024-02-27,Male,AL,Ryan,Williams,24.0,2000.0,RSA,Potchefstroom,McArthur Stadium,Outdoor,DIS,4
 20.29,,ZIM,Sports Performance Center,2024-01-13,Male,AL,Tapiwanashe,Makarawu,24.0,2000.0,USA,"Lubbock, TX",Sports Performance Center,Indoor,200,4
@@ -285,8 +285,8 @@ result,wind,nation,venue,date,sex,code,firstname,lastname,age,yearOfBirth,venueC
 32:29.74,,RSA,Msunduzi Athletics Stadium,2024-01-27,Female,AL,Nwabisa,Mjoli,32.0,1992.0,RSA,Pietermaritzburg,Msunduzi Athletics Stadium,Outdoor,10K,4
 27:54.43,,KEN,Rishon Letzion,2024-02-15,Male,AL,Naibei,Kiplimo Mayebei,24.0,2000.0,ISR,Rishon Letzion,,Outdoor,10K,4
 3:36.16,,KEN,Nyayo National Stadium,2024-01-27,Female,AL,,,,,KEN,Nairobi,Nyayo National Stadium,Outdoor,4×4,4
-1:45.28,,MAR,Halle Stéphane Diagana,2024-02-09,Male,AL,Abdelati,El Guesse,31.0,1993.0,FRA,Lyon,Halle Stéphane Diagana,Indoor,800,4
-46:30.27,,ALG,Miloud HEDEFI Athletics Stadium,2024-03-01,Female,AL,Souad,Azzi,25,1999,ALG,Oran,Miloud HEDEFI Athletics Stadium,Outdoor,10G,4
+1:44.07,,KEN,Nyayo National Stadium,2024-03-06,Male,AL,Alex,Ngeno Kipngetich,24.0,2000.0,KEN,Nairobi,Nyayo National Stadium,Outdoor,800,4
+46:30.27,,ALG,Miloud HEDEFI Athletics Stadium,2024-03-01,Female,AL,Souad,Azzi,25.0,1999.0,ALG,Oran,Miloud HEDEFI Athletics Stadium,Outdoor,10G,4
 2:37.26,,KEN,Dempsey Indoor,2024-01-26,Female,AL,Dorcas,Ewoi,,,USA,"Seattle, WA",Dempsey Indoor,Indoor,1K0,4
 2:17.61,,MAR,Topsporthal Vlaanderen,2024-02-03,Male,AL,Abdelati,El Guesse,31.0,1993.0,BEL,Gent,Topsporthal Vlaanderen,Indoor,1K0,4
 7.1,,NGR,Sports Performance Center,2024-02-09,Female,AL,Rosemary,Chukwuma,23.0,2001.0,USA,"Lubbock, TX",Sports Performance Center,Indoor,60M,4
@@ -308,7 +308,7 @@ result,wind,nation,venue,date,sex,code,firstname,lastname,age,yearOfBirth,venueC
 46.4,,KEN,Nyayo National Stadium,2024-01-27,Female,AL,,,,,KEN,Nairobi,Nyayo National Stadium,Outdoor,4×1,4
 22.87,,NGR,Randal Tyson Indoor Center,2024-01-26,Female,AL,Favour,Ofili,22.0,2002.0,USA,"Fayetteville, AR",Randal Tyson Indoor Center,Indoor,200,4
 58.85,,KEN,Nyayo National Stadium,2024-01-27,Female,AL,Vanice,Kerubo Nyagisera,23,2001,KEN,Nairobi,Nyayo National Stadium,Outdoor,40H,4
-8:38.36,,KEN,Nyayo National Stadium,2024-01-27,Male,AL,Wesley,Langat,30.0,1994.0,KEN,Nairobi,Nyayo National Stadium,Outdoor,3KH,4
+8:22.72,,KEN,Nyayo National Stadium,2024-03-06,Male,AL,Amos,Serem,22.0,2002.0,KEN,Nairobi,Nyayo National Stadium,Outdoor,3KH,4
 13.89,,NGR,Sports Performance Center,2024-01-20,Female,AL,Ruth,Usoro,27.0,1997.0,USA,"Lubbock, TX",Sports Performance Center,Indoor,DRE,4
 7.75,,NGR,The Track at New Balance,2024-02-04,Female,AL,Tobi,Amusan,27.0,1997.0,USA,"Boston, MA",The Track at New Balance,Indoor,60H,4
 49.14,,BOT,National Stadium,2024-02-17,Male,AL,Victor,Ntweng,29.0,1995.0,BOT,Gaborone,National Stadium,Outdoor,40H,4
