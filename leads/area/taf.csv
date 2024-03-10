@@ -80,7 +80,7 @@ result,wind,nation,venue,date,sex,code,firstname,lastname,age,yearOfBirth,venueC
 49.17,,NED,Glasgow Arena,2024-03-02,Female,AL,Femke,Bol,24.0,2000.0,GBR,Glasgow,Glasgow Arena,Indoor,400,1
 7:30.14,,GBR,Armory Track&Field Center,2024-02-11,Male,AL,Josh,Kerr,27,1997,USA,"New York, NY",Armory Track&Field Center,Indoor,3K0,1
 3:27.27,,IRL,National Indoor Arena,2024-02-28,Mixed,AL,,,,,IRL,"Abbotstown, Dublin",National Indoor Arena,Indoor,4×4,1
-65.72,,SLO,Mercedes-Benz Arena,2024-02-23,Male,AL,Kristjan,Čeh,25.0,1999.0,GER,Berlin,Mercedes-Benz Arena,Indoor,DIS,1
+66.07,,ROU,Estádio Dr. Magalhães Pessoa,2024-03-09,Male,AL,Alin,Alexandru Firfirica,29.0,1995.0,POR,Leiria,Estádio Dr. Magalhães Pessoa,Outdoor,DIS,1
 20.3,0.0,NED,McArthur Stadium,2024-02-14,Male,AL,Taymir,Burnet,32,1992,RSA,Potchefstroom,McArthur Stadium,Outdoor,200,1
 73.28,,ROU,Stadionul Iolanda Balas Soter,2024-02-24,Female,AL,Bianca,Florentina Ghelber,34,1990,ROU,Bucureşti,Stadionul Iolanda Balas Soter,Outdoor,HAM,1
 5:00.01,,SWE,Arena Stade Couvert,2024-02-10,Male,AL,Samuel,Pihlström,23,2001,FRA,Liévin,Arena Stade Couvert,Indoor,2K0,1
@@ -97,7 +97,7 @@ result,wind,nation,venue,date,sex,code,firstname,lastname,age,yearOfBirth,venueC
 6.98,,POL,Glasgow Arena,2024-03-02,Female,AL,Ewa,Swoboda,27.0,1997.0,GBR,Glasgow,Glasgow Arena,Indoor,60M,1
 8.34,,ITA,Palaindoor Ancona,2024-02-17,Male,AL,Mattia,Furlani,19.0,2005.0,ITA,Ancona,Palaindoor Ancona,Indoor,WEI,1
 6.05,,SWE,Glasgow Arena,2024-03-03,Male,AL,Armand,Duplantis,25.0,1999.0,GBR,Glasgow,Glasgow Arena,Indoor,STA,1
-61.42,,BLR,Regional Sport Complex,2024-02-22,Female,AL,Tatsiana,Khaladovich,33.0,1991.0,BLR,Brest,Regional Sport Complex,Outdoor,SPE,1
+61.69,,NOR,Estádio Dr. Magalhães Pessoa,2024-03-09,Female,AL,Marie-Therese,Obst,28.0,1996.0,POR,Leiria,Estádio Dr. Magalhães Pessoa,Outdoor,SPE,1
 6.39,,SUI,Salle du Centre Mondial du Cyclisme,2024-01-20,Female,AL,Chloé,Rabac,19.0,2005.0,SUI,Aigle,Salle du Centre Mondial du Cyclisme,Indoor,50M,1
 3:33.86,,GBR,Armory Track&Field Center,2024-02-11,Male,AL,George,Mills,25,1999,USA,"New York, NY",Armory Track&Field Center,Indoor,1K5,1
 20.31,,NED,Omnisport,2024-02-17,Female,AL,Jessica,Schilder,25,1999,NED,Apeldoorn,Omnisport,Indoor,KUG,1
@@ -114,7 +114,7 @@ result,wind,nation,venue,date,sex,code,firstname,lastname,age,yearOfBirth,venueC
 9:42.14,,ESP,Lakeside Stadium,2024-02-25,Male,AL,Carlos,Rodriguez,32,1992,AUS,Melbourne,Lakeside Stadium,Outdoor,3KH,1
 14.75,,ESP,Glasgow Arena,2024-03-03,Female,AL,Ana,Peleteiro-Compaoré,29,1995,GBR,Glasgow,Glasgow Arena,Indoor,DRE,1
 7.73,,FRA,Glasgow Arena,2024-03-03,Female,AL,Cyréna,Samba-Mayela,24,2000,GBR,Glasgow,Glasgow Arena,Indoor,60H,1
-54.2,,ITA,Jack Rose Track,2024-03-02,Male,AL,Alessio,Sommacal,23,2001,USA,"Long Beach, CA",Jack Rose Track,Outdoor,40H,1
+53.49,,FRA,Pilditch Stadium,2024-03-02,Male,AL,Stephane,Yato,32,1992,RSA,Pretoria,Pilditch Stadium,Outdoor,40H,1
 1:58.24,,GBR,Arena Birmingham,2024-02-18,Female,AL,Jemma,Reekie,26,1998,GBR,Birmingham,Arena Birmingham,Indoor,800,1
 13.54,1.5,LUX,Nga Puna Wai Sports Hub,2024-02-24,Female,AL,Victoria,Rausch,28,1996,NZL,Christchurch,Nga Puna Wai Sports Hub,Outdoor,10H,1
 4:03.22,,GBR,Sätrahallen,2024-02-03,Female,AL,Georgia,Bell,31.0,1993.0,SWE,Stockholm,Sätrahallen,Indoor,1K5,1
@@ -165,7 +165,7 @@ result,wind,nation,venue,date,sex,code,firstname,lastname,age,yearOfBirth,venueC
 2:34.09,,USA,Dempsey Indoor,2024-01-26,Female,AL,Nikki,Hiltz,30.0,1994.0,USA,"Seattle, WA",Dempsey Indoor,Indoor,1K0,2
 2:14.74,,CAN,The Track at New Balance,2024-02-04,Male,AL,Marco,Arop,26.0,1998.0,USA,"Boston, MA",The Track at New Balance,Indoor,1K0,2
 6.98,,LCA,Glasgow Arena,2024-03-02,Female,AL,Julien,Alfred,23.0,2001.0,GBR,Glasgow,Glasgow Arena,Indoor,60M,2
-8.34,,JAM,Convention Center,2024-02-02,Male,AL,Wayne,Pinnock,24.0,2000.0,USA,"Albuquerque, NM",Convention Center,Indoor,WEI,2
+8.4,,JAM,The Track at New Balance,2024-03-08,Male,AL,Wayne,Pinnock,24.0,2000.0,USA,"Boston, MA",The Track at New Balance,Indoor,WEI,2
 6.0,,USA,Convention Center,2024-02-16,Male,AL,Christopher,Nilsen,26.0,1998.0,USA,"Albuquerque, NM",Convention Center,Indoor,STA,2
 63.9,,CUB,Pista La Salobreja,2024-02-24,Female,AL,Yulenmis,Aguilar,28.0,1996.0,ESP,Jaén,Pista La Salobreja,Outdoor,SPE,2
 6.33,,JAM,GSG9-Halle,2024-01-16,Female,AL,Christania,Williams,30.0,1994.0,AUT,Wien,GSG9-Halle,Indoor,50M,2
@@ -264,11 +264,11 @@ result,wind,nation,venue,date,sex,code,firstname,lastname,age,yearOfBirth,venueC
 6.51,,KEN,AccorHotels Arena de Bercy,2024-02-11,Male,AL,Ferdinand,Omanyala,28.0,1996.0,FRA,Paris,AccorHotels Arena de Bercy,Indoor,60M,4
 1:14.88,,MAR,Clemson Indoor Track & Field Complex,2024-01-27,Male,AL,Oussama,El Bouchayby,26.0,1998.0,USA,"Clemson, SC",Clemson Indoor Track & Field Complex,Indoor,600,4
 14:42.94,,ETH,Boston Univ. Track & Tennis Center,2024-01-27,Female,AL,Senayet,Getachew,19.0,2005.0,USA,"Boston, MA",Boston Univ. Track & Tennis Center,Indoor,5K0,4
-7:17.26,,UGA,GC Foster College,2024-02-20,Female,AL,Florence,Nafamba,,,JAM,Spanish Town,GC Foster College,Outdoor,2KH,4
+7:10.54,,RSA,Pilditch Stadium,2024-01-20,Female,AL,Elizma,Le Roux,17.0,2007.0,RSA,Pretoria,Pilditch Stadium,Outdoor,2KH,4
 3:04.99,,KEN,Ulinzi Sports Complex,2024-01-06,Male,AL,,,,,KEN,"Langata, Nairobi",Ulinzi Sports Complex,Outdoor,4×4,4
 9:43.05,,KEN,Nyayo National Stadium,2024-03-06,Female,AL,Caren,Chebet,24,2000,KEN,Nairobi,Nyayo National Stadium,Outdoor,3KH,4
 24:53.44,,RSA,McArthur Stadium,2024-02-14,Female,AL,Marissa,Swanepoel,22,2002,RSA,Potchefstroom,McArthur Stadium,Outdoor,5G,4
-70.39,,RSA,McArthur Stadium,2024-02-20,Male,AL,Alan,Cumming,28.0,1996.0,RSA,Potchefstroom,McArthur Stadium,Outdoor,HAM,4
+70.39,,RSA,McArthur Stadium,2024-02-20,Male,AL,Alan,Cumming,28,1996,RSA,Potchefstroom,McArthur Stadium,Outdoor,HAM,4
 13.91,0.9,RSA,Pilditch Stadium,2024-01-27,Male,AL,SW,Nel,22,2002,RSA,Pretoria,Pilditch Stadium,Outdoor,11H,4
 6.87,,NGR,Sports Performance Center,2024-02-09,Female,AL,Ruth,Usoro,27.0,1997.0,USA,"Lubbock, TX",Sports Performance Center,Indoor,WEI,4
 7.66,,NIG,Halle Michel d'Ornano,2024-02-07,Male,AL,Saguirou,Badamassi,24.0,2000.0,FRA,Mondeville,Halle Michel d'Ornano,Indoor,60H,4
@@ -307,13 +307,13 @@ result,wind,nation,venue,date,sex,code,firstname,lastname,age,yearOfBirth,venueC
 35.99,,NGR,The Track at New Balance,2024-02-04,Female,AL,Favour,Ofili,22.0,2002.0,USA,"Boston, MA",The Track at New Balance,Indoor,300,4
 46.4,,KEN,Nyayo National Stadium,2024-01-27,Female,AL,,,,,KEN,Nairobi,Nyayo National Stadium,Outdoor,4×1,4
 22.87,,NGR,Randal Tyson Indoor Center,2024-01-26,Female,AL,Favour,Ofili,22.0,2002.0,USA,"Fayetteville, AR",Randal Tyson Indoor Center,Indoor,200,4
-58.85,,KEN,Nyayo National Stadium,2024-01-27,Female,AL,Vanice,Kerubo Nyagisera,23,2001,KEN,Nairobi,Nyayo National Stadium,Outdoor,40H,4
+58.85,,KEN,Nyayo National Stadium,2024-01-27,Female,AL,Vanice,Kerubo Nyagisera,23.0,2001.0,KEN,Nairobi,Nyayo National Stadium,Outdoor,40H,4
 8:22.72,,KEN,Nyayo National Stadium,2024-03-06,Male,AL,Amos,Serem,22.0,2002.0,KEN,Nairobi,Nyayo National Stadium,Outdoor,3KH,4
 13.89,,NGR,Sports Performance Center,2024-01-20,Female,AL,Ruth,Usoro,27.0,1997.0,USA,"Lubbock, TX",Sports Performance Center,Indoor,DRE,4
 7.75,,NGR,The Track at New Balance,2024-02-04,Female,AL,Tobi,Amusan,27.0,1997.0,USA,"Boston, MA",The Track at New Balance,Indoor,60H,4
 49.14,,BOT,National Stadium,2024-02-17,Male,AL,Victor,Ntweng,29.0,1995.0,BOT,Gaborone,National Stadium,Outdoor,40H,4
 1:57.86,,ETH,Arena,2024-02-06,Female,AL,Habitam,Alemu,27.0,1997.0,POL,Toruń,Arena,Indoor,800,4
-13.18,-0.8,RSA,Pilditch Stadium,2024-02-10,Female,AL,Taylon,Bieldt,26,1998,RSA,Pretoria,Pilditch Stadium,Outdoor,10H,4
+13.18,-0.8,RSA,Pilditch Stadium,2024-02-10,Female,AL,Taylon,Bieldt,26.0,1998.0,RSA,Pretoria,Pilditch Stadium,Outdoor,10H,4
 3:55.28,,ETH,Arena,2024-02-06,Female,AL,Freweyni,Hailu,23.0,2001.0,POL,Toruń,Arena,Indoor,1K5,4
 30.69,,BOT,Pilditch Stadium,2024-02-17,Male,AL,Letsile,Tebogo,21.0,2003.0,RSA,Pretoria,Pilditch Stadium,Outdoor,300,4
 12:56.76,,RSA,Boston Univ. Track & Tennis Center,2024-01-26,Male,AL,Adriaan,Wildschutt,26.0,1998.0,USA,"Boston, MA",Boston Univ. Track & Tennis Center,Indoor,5K0,4
