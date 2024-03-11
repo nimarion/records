@@ -415,7 +415,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,code,environment,disc
 47.98,SWE,Atlanta,USA,1996-08-01,Sven Nylander,1962.0,Male,NR,Outdoor,40H,
 57.04,SWZ,Manzini,SWZ,2019-05-18,Cedusizi Vilakati,,Male,NR,Outdoor,40H,
 48.87,SYR,Sydney,AUS,1999-02-20,Ziad Abou Hamed,1970.0,Male,NR,Outdoor,40H,
-51.20,TAN,Doha,QAT,1985-08-12,Morris Okinda,1963.0,Male,NR,Outdoor,40H,
+51.20,TAN,Cairo,EGY,1985-08-12,Morris Okinda,,Male,NR,Outdoor,40H,
 52.02,TGA,Sacramento,USA,1996-05-05,Paeaki Kokohu,1966.0,Male,NR,Outdoor,40H,
 49.76,THA,Chiangmai,THA,1995-12-12,Chanond Keanchan,1967.0,Male,NR,Outdoor,40H,
 48.98,TJK,Tashkent,URS,1986-09-18,Nikolay Ilchenko,1963.0,Male,NR,Outdoor,40H,
@@ -3607,7 +3607,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,code,environment,disc
 21.97,CHA,Valencia,ESP,2022-02-26,Mahamat Goubaye Youssouf,1998.0,Male,NR,Indoor,200,
 20.98,CHI,Barcelona,ESP,1995-03-11,Sebastián Keitel,1973.0,Male,NR,Indoor,200,
 20.75,CHN,Beijing,CHN,2013-03-30,Zhang Peimeng,1987.0,Male,NR,Indoor,200,
-20.38,CIV,Brighton,USA,2024-03-08,Cheickna Traore,2000.0,Male,NR,Indoor,200,
+20.3,CIV,Brighton,USA,2024-03-09,Cheickna Traore,2000.0,Male,NR,Indoor,200,
 20.47,CMR,Aubière,FRA,2003-03-02,Joseph Batangdon,1978.0,Male,NR,Indoor,200,
 21.23,COD,Blacksburg,USA,2003-01-18,Gary Kikaya,1980.0,Male,NR,Indoor,200,
 20.99,COL,Metz,FRA,2019-02-10,Bernardo Baloyes,1994.0,Male,NR,Indoor,200,
@@ -5610,7 +5610,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,code,environment,disc
 77.1,ISL,Hafnarfjördur,ISL,2020-08-27,Hilmar Örn Jónsson,1996.0,Male,NR,Outdoor,HAM,
 65.7,ISR,Tel Aviv,ISR,1995-05-06,Igor Giller,1966.0,Male,NR,Outdoor,HAM,
 81.64,ITA,Ostia,ITA,1997-03-09,Enrico Sgrulletti,1965.0,Male,NR,Outdoor,HAM,
-49.19,IVB,Lubbock,USA,2021-04-30,Diamante Gumbs,2000.0,Male,NR,Outdoor,HAM,
+53.71,IVB,Lake Charles,USA,2024-03-09,Diamante Gumbs,2000.0,Male,NR,Outdoor,HAM,
 70.93,JAM,Kingston,JAM,2017-06-24,Caniggia Raynor,1990.0,Male,NR,Outdoor,HAM,
 57.36,JOR,Doha,QAT,2017-04-26,Ahmad Amer Hawaftnah,,Male,NR,Outdoor,HAM,
 84.86,JPN,Praha,CZE,2003-06-29,Koji Murofushi,1974.0,Male,NR,Outdoor,HAM,
@@ -6987,7 +6987,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,code,environment,disc
 31.71,PLW,Koror,PLW,2006-12-03,Chandis Cooper,,Female,NR,Outdoor,DIS,
 38.96,PNG,Port Moresby,PNG,2020-11-14,Sharon Toako,1992.0,Female,NR,Outdoor,DIS,
 66.18,POL,Łódź,POL,1988-08-07,Renata Katewicz,1965.0,Female,NR,Outdoor,DIS,
-66.4,POR,Leiria,POR,2021-03-06,Liliana Cá,1986.0,Female,NR,Outdoor,DIS,
+66.6,POR,Leiria,POR,2024-03-10,Irina Rodrigues,1991.0,Female,NR,Outdoor,DIS,
 51.04,PRK,Pyongyang,PRK,1970-03-27,Pak Chun Ja,,Female,NR,Outdoor,DIS,
 55.19,PUR,Ponce,PUR,2011-05-21,Brittany Borrero,1987.0,Female,NR,Outdoor,DIS,
 36.74,QAT,Muscat,OMA,2015-03-14,Asrar Ahmad Al-Mannai,,Female,NR,Outdoor,DIS,
@@ -11706,7 +11706,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,code,environment,disc
 13.14,HKG,"Walnut, Ca",USA,1994-04-17,Chan Sau Ying,1970.0,Female,NR,Outdoor,10H,0.0
 13.14,HKG,Walnut,USA,1994-04-17,Chan Sau-Ying,1970.0,Female,NR,Outdoor,10H,
 13.83,HON,Toluca,MEX,2008-07-21,Jeimy J. Bernárdez,1986.0,Female,NR,Outdoor,10H,-0.6
-12.69,HUN,München,GER,2022-08-21,Luca Kozák,1996.0,Female,NR,Outdoor,10H,0.3
+12.69,HUN,München,GER,2022-08-21,Luca Kozák,1996.0,Female,NR,Outdoor,10H,-0.1
 13.18,INA,Taipei,TPE,2012-05-26,Dedeh Erawati,1979.0,Female,NR,Outdoor,10H,0.7
 12.78,IND,Chengdu,CHN,2023-08-04,Jyothi Yarraji,1999.0,Female,NR,Outdoor,10H,1.0
 13.64,IRI,Tehran,IRI,2023-08-18,Elnaz Kompani,1989.0,Female,NR,Outdoor,10H,0.2
@@ -12686,7 +12686,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,code,environment,disc
 12.61,KGZ,Bishkek,KGZ,2005-02-25,Rakhima Sardi,1986.0,Female,NR,Indoor,DRE,
 12.7,KOR,Tianjin,CHN,2004-02-18,Jung Hye-Kyung,1981.0,Female,NR,Indoor,DRE,
 9.78,KOS,Tirane,ALB,2015-02-02,Rita Hajdini,1998.0,Female,NR,Indoor,DRE,
-14.15,LAT,Fayetteville,USA,2021-03-13,Rūta Lasmane,2000.0,Female,NR,Indoor,DRE,
+14.47,LAT,Brighton,USA,2024-03-09,Rūta Lasmane,2000.0,Female,NR,Indoor,DRE,
 13.32,LBR,Air Force Academy,USA,2009-02-28,Decontee Kaye,1987.0,Female,NR,Indoor,DRE,
 12.4,LCA,Cedar Falls,USA,1999-02-20,Michelle Baptiste,1977.0,Female,NR,Indoor,DRE,
 14.13,LTU,Madrid,ESP,2018-02-08,Dovilė Kilty,1993.0,Female,NR,Indoor,DRE,
