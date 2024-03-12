@@ -426,7 +426,7 @@ result,discipline,area,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,
 22.47,200m,South America,1.4,BRA,Eugene,USA,2022-07-19,Vitoria Cristina Rosa,1996.0,Female,Outdoor,AR
 1:30:40,20km Race Walk,Africa,,KEN,Nairobi,KEN,2018-06-06,Grace Njue,1979.0,Female,Outdoor,AR
 1:23:49,20km Race Walk,Asia,,CHN,Huangshan,CHN,2021-03-20,Yang Jiayu,1996.0,Female,Outdoor,AR
-1:25:08,20km Race Walk,Europe,,RUS,Sochi,RUS,2011-02-26,Vera Sokolova,1987.0,Female,Outdoor,AR
+1:24:31,20km Race Walk,Europe,,RUS,Sochi,RUS,2024-02-27,Elvira Khasanova,2000.0,Female,Outdoor,AR
 1:26:17,20km Race Walk,NACAC,,MEX,Roma,ITA,2016-05-07,Maria Guadalupe González,1989.0,Female,Outdoor,AR
 1:27:09,20km Race Walk,Oceania,,AUS,Adelaide,AUS,2024-02-11,Jemima Montag,1998.0,Female,Outdoor,AR
 1:25:29,20km Race Walk,South America,,ECU,La Coruña,ESP,2019-06-08,Glenda Estefanía Morejón,2000.0,Female,Outdoor,AR
@@ -487,6 +487,7 @@ result,discipline,area,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,
 14:19.45,5000m,NACAC,,USA,London,GBR,2023-07-23,Alicia Monson,1998.0,Female,Outdoor,AR
 14:47.76,5000m,South America,,VEN,Walnut,USA,2023-05-06,Joselyn Daniely Brea,1994.0,Female,Outdoor,AR
 20:50.03,5000m Race Walk,Africa,,TUN,Radès,TUN,2021-06-23,Chahineze Nasri,1996.0,Female,Outdoor,AR
+20:02.60,5000m Race Walk,Europe,,IRL,Dublin,IRL,2002-07-13,Gillian O'Sullivan,1976.0,Female,Outdoor,AR
 4:48:00,50km Race Walk,Africa,,RSA,Taicang,CHN,2018-05-05,Natalie Le Roux,1982.0,Female,Outdoor,AR
 4:04:50,50km Race Walk,Europe,,ITA,Alytus,LTU,2019-05-19,Eleonora Giorgi,1989.0,Female,Outdoor,AR
 4:13:56,50km Race Walk,NACAC,,GUA,Guatemala City,GUA,2019-02-24,Mirna Ortiz,1987.0,Female,Outdoor,AR
