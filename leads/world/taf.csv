@@ -19,7 +19,7 @@ result,wind,nation,venue,date,sex,code,firstname,lastname,age,yearOfBirth,venueC
 49.17,,NED,Glasgow Arena,2024-03-02,Female,WL,Femke,Bol,24.0,2000.0,GBR,Glasgow,Glasgow Arena,Indoor,400
 7:25.82,,ETH,Arena,2024-02-06,Male,WL,Selemon,Barega,24.0,2000.0,POL,Toruń,Arena,Indoor,3K0
 3:21.26,,AUS,Lakeside Stadium,2024-02-15,Mixed,WL,,,,,AUS,Melbourne,Lakeside Stadium,Outdoor,4×4
-67.57,,JAM,Excelsior High School,2024-02-10,Male,WL,Traves,Smikle,32.0,1992.0,JAM,Kingston,Excelsior High School,Outdoor,DIS
+67.83,,JAM,GC Foster College,2024-03-09,Male,WL,Traves,Smikle,32.0,1992.0,JAM,Spanish Town,GC Foster College,Outdoor,DIS
 20.21,,USA,Arena Stade Couvert,2024-02-10,Male,WL,Erriyon,Knighton,20.0,2004.0,FRA,Liévin,Arena Stade Couvert,Indoor,200
 20.21,,BAH,Sports Performance Center,2024-02-24,Male,WL,Terrence,Jones,22.0,2002.0,USA,"Lubbock, TX",Sports Performance Center,Indoor,200
 73.28,,ROU,Stadionul Iolanda Balas Soter,2024-02-24,Female,WL,Bianca,Florentina Ghelber,34,1990,ROU,Bucureşti,Stadionul Iolanda Balas Soter,Outdoor,HAM
@@ -38,7 +38,7 @@ result,wind,nation,venue,date,sex,code,firstname,lastname,age,yearOfBirth,venueC
 6.98,,POL,Glasgow Arena,2024-03-02,Female,WL,Ewa,Swoboda,27.0,1997.0,GBR,Glasgow,Glasgow Arena,Indoor,60M
 8.4,,JAM,The Track at New Balance,2024-03-08,Male,WL,Wayne,Pinnock,24.0,2000.0,USA,"Boston, MA",The Track at New Balance,Indoor,WEI
 6.05,,SWE,Glasgow Arena,2024-03-03,Male,WL,Armand,Duplantis,25.0,1999.0,GBR,Glasgow,Glasgow Arena,Indoor,STA
-63.9,,CUB,Pista La Salobreja,2024-02-24,Female,WL,Yulenmis,Aguilar,28,1996,ESP,Jaén,Pista La Salobreja,Outdoor,SPE
+63.9,,CUB,Pista La Salobreja,2024-02-24,Female,WL,Yulenmis,Aguilar,28.0,1996.0,ESP,Jaén,Pista La Salobreja,Outdoor,SPE
 6.33,,JAM,GSG9-Halle,2024-01-16,Female,WL,Christania,Williams,30.0,1994.0,AUT,Wien,GSG9-Halle,Indoor,50M
 3:33.30,,AUS,The Crest Athletics Centre,2024-02-22,Male,WL,Cameron,Myers,18.0,2006.0,AUS,"Bankstown, Sydney",The Crest Athletics Centre,Outdoor,1K5
 20.31,,NED,Omnisport,2024-02-17,Female,WL,Jessica,Schilder,25.0,1999.0,NED,Apeldoorn,Omnisport,Indoor,KUG
