@@ -3361,7 +3361,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,code,environment,disc
 21.19,ALB,Chorzów,POL,2023-06-22,Franko Burraj,1998.0,Male,NR,Outdoor,200,0.5
 20.53,ALG,Alger,ALG,2016-07-16,Soufiane Bouhada,1990.0,Male,NR,Outdoor,200,1.9
 21.93,AND,Basauri,ESP,2000-07-22,Daniel Gómez,1979.0,Male,NR,Outdoor,200,1.8
-21.05,ANG,Budapest,HUN,2023-08-23,Marcos Santos,2004.0,Male,NR,Outdoor,200,-1.4
+21.01,ANG,Pretoria,RSA,2024-01-20,Marcos Santos,2004.0,Male,NR,Outdoor,200,-1.1
 19.88,ANT,Kingston,JAM,2016-06-11,Miguel Francis,1995.0,Male,NR,Outdoor,200,1.2
 20.37,ARG,Lisboa,POR,1998-07-18,Carlos Gats,1969.0,Male,NR,Outdoor,200,0.7
 21.15,ARM,Volgograd,URS,1991-07-07,Hovanes Mkrchyan,1972.0,Male,NR,Outdoor,200,
@@ -7779,6 +7779,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,code,environment,disc
 6.79,BEL,Liévin,FRA,2020-03-01,Nafissatou Thiam,1994.0,Female,NR,Indoor,WEI,
 6.42,BER,Seattle,USA,2008-02-29,Arantxa King,1989.0,Female,NR,Indoor,WEI,
 5.94,BIH,Beograd,SRB,2022-12-25,Emina Omanović,2007.0,Female,NR,Indoor,WEI,
+6.03,BIZ,New York,USA,2024-03-10,Brooklyn Lyttle,2008.0,Female,NR,Indoor,WEI,
 7.01,BLR,Moskva,URS,1987-02-14,Yelena Belevskaya,1963.0,Female,NR,Indoor,WEI,
 6.89,BRA,Valencia,ESP,2008-03-09,Maurren Higa Maggi,1976.0,Female,NR,Indoor,WEI,
 6.91,BUL,Stockholm,SWE,1998-02-19,Magdalena Hristova,1977.0,Female,NR,Indoor,WEI,
@@ -8475,7 +8476,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,code,environment,disc
 11.56,TKM,Almaty,KAZ,2008-06-07,Valentina Meredova,1984.0,Female,NR,Outdoor,100,1.7
 11.99,TKS,Barranquilla,COL,2018-07-29,Akia Guerrier,1998.0,Female,NR,Outdoor,100,1.2
 13.57,TLS,Darwin,AUS,2001-05-20,Cesaltilna De Yesus Guterres,,Female,NR,Outdoor,100,
-11.82,TOG,Douala,CMR,2021-05-22,Akouvi Judith Koumedzina,2001.0,Female,NR,Outdoor,100,
+11.82,TOG,Douala,CMR,2021-05-22,Akouvi Judith Koumedzina,2001.0,Female,NR,Outdoor,100,-0.2
 11.22,TPE,Wien,AUT,1970-07-18,Chi Cheng,1944.0,Female,NR,Outdoor,100,1.9
 10.82,TTO,Port of Spain,TTO,2017-06-24,Michelle-Lee Ahye,1992.0,Female,NR,Outdoor,100,0.9
 11.68,TUN,Alger,ALG,2000-08-06,Awatef Hamrouni,1981.0,Female,NR,Outdoor,100,1.0
@@ -8806,7 +8807,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,code,environment,disc
 34:19.12,IRI,Tehran,IRI,2023-10-13,Parisa Arab,1992.0,Female,NR,Outdoor,10K,
 30:47.59,IRL,München,GER,2002-08-06,Sonia O'Sullivan,1969.0,Female,NR,Outdoor,10K,
 35:44.93,IRQ,Athína,GRE,1997-08-02,Maysa Hussein Matrood,1977.0,Female,NR,Outdoor,10K,
-32:47.40,ISL,Dublin,IRL,1994-06-12,Martha Ernstsdóttir,1964.0,Female,NR,Outdoor,10K,
+32:47.40,ISL,Dublin,IRL,1994-06-11,Martha Ernstsdóttir,1964.0,Female,NR,Outdoor,10K,
 30:46.37,ISR,München,GER,2022-08-15,Lonah Chemtai Salpeter,1988.0,Female,NR,Outdoor,10K,
 36:27.71,ISV,Walnut,USA,1999-04-16,Jackie Morgan,,Female,NR,Outdoor,10K,
 31:05.57,ITA,Heusden,BEL,2000-08-05,Maura Viceconte,1967.0,Female,NR,Outdoor,10K,
@@ -8978,7 +8979,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,code,environment,disc
 45.0,INA,Palembang,INA,2011-11-15,Indonesia,,Female,NR,Outdoor,4×1,
 43.37,IND,Patiala,IND,2021-06-21,India,,Female,NR,Outdoor,4×1,
 43.8,IRL,Berlin,GER,2018-08-12,Ireland,,Female,NR,Outdoor,4×1,
-45.31,ISL,Serravalle,SMR,2017-06-04,Iceland,,Female,NR,Outdoor,4×1,
+45.31,ISL,Serravalle,SMR,2017-06-03,Iceland,,Female,NR,Outdoor,4×1,
 44.79,ISR,Paris,FRA,2019-08-24,Israel,,Female,NR,Outdoor,4×1,
 42.14,ITA,Budapest,HUN,2023-08-25,Italy,,Female,NR,Outdoor,4×1,
 43.45,IVB,Road Town,IVB,2016-07-03,British Virgin Islands,,Female,NR,Outdoor,4×1,
@@ -11263,7 +11264,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,code,environment,disc
 4:10.98,CYP,Gold Coast,AUS,2018-04-09,Natalia Evangelidou,1991.0,Female,NR,Outdoor,1K5,
 4:01.23,CZE,Tokyo,JPN,2021-08-04,Kristiina Sasínek Mäki,1991.0,Female,NR,Outdoor,1K5,
 4:05.34,DEN,Budapest,HUN,2023-08-19,Sofia Thøgersen,2005.0,Female,NR,Outdoor,1K5,
-4:12.53,DJI,Djibouti,DJI,2023-03-17,Zourha Ali Mohamed,1994.0,Female,NR,Outdoor,1K5,
+4:04.02,DJI,Djibouti,DJI,2024-03-08,Kadra Mohamed Dembil,1997.0,Female,NR,Outdoor,1K5,
 4:42.00,DMA,San Diego,USA,1993-05-01,Dawn Williams-Sewer,1973.0,Female,NR,Outdoor,1K5,
 4:18.72,DOM,Ponce,PUR,2012-05-12,Maria Mancebo,1993.0,Female,NR,Outdoor,1K5,
 4:14.08,ECU,Azusa,USA,2023-04-15,Carmen Alder,2003.0,Female,NR,Outdoor,1K5,
@@ -12892,7 +12893,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,code,environment,disc
 1.38,NMI,Pohnpei,FSM,2014-07-23,Rachel Abrams,1995.0,Female,NR,Outdoor,HOC,
 2.01,NOR,Zürich,SUI,1997-08-13,Hanne Haugland,1967.0,Female,NR,Outdoor,HOC,
 1.26,NRU,Yaren,NRU,2007-03-04,Arrora De Paune,,Female,NR,Outdoor,HOC,
-1.92,NZL,Auckland,NZL,1991-01-26,Tania Dixon,1970.0,Female,NR,Outdoor,HOC,
+1.92,NZL,Dunedin,NZL,1991-01-26,Tania Dixon,1970.0,Female,NR,Outdoor,HOC,
 1.6,OMA,Beyrouth,LBN,2017-09-10,Aleya Faiq Al-Moghairiya,,Female,NR,Outdoor,HOC,
 1.69,PAK,Kathmandu,NEP,1999-09-27,Rehana Kausar,,Female,NR,Outdoor,HOC,
 1.84,PAN,Managua,NCA,2012-06-16,Kashani Ríos Miller,1991.0,Female,NR,Outdoor,HOC,
