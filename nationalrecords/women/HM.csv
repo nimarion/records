@@ -58,7 +58,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 1:26:52,EGY,Valencia,ESP,2018-03-24,Nesma Ammar Saad Mohamed Abdelghany,1993.0,Female,HM,NR,Outdoor
 1:08:53,ERI,Valencia,ESP,2022-12-04,Dolshi Tesfu,1999.0,Female,HM,NR,Outdoor
 1:17:48,ESA,Long Beach,USA,2003-10-12,Elizabeth Zaragoza,1968.0,Female,HM,NR,Outdoor
-1:09:41,ESP,Valencia,ESP,2023-10-22,Laura Luengo,1997.0,Female,HM,NR,Outdoor
+1:09:41,ESP,Valencia,ESP,2023-10-22,Laura Luengo,1986.0,Female,HM,NR,Outdoor
 1:10:10,EST,Den Haag,NED,1994-03-27,Jane Salumäe,1968.0,Female,HM,NR,Outdoor
 1:02:52,ETH,Valencia,ESP,2021-10-24,Letesenbet Gidey,1998.0,Female,HM,NR,Outdoor
 1:25:00,FIJ,Nouméa,FRA,1996-06-23,Salome Tabuatalei,,Female,HM,NR,Outdoor
@@ -101,7 +101,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 1:08:35,KOR,Marugame,JPN,2020-02-02,Choi Kyung-Sun,1992.0,Female,HM,NR,Outdoor
 1:17:24,KOS,Split,CRO,2022-02-28,Greza Bakraqi,1995.0,Female,HM,NR,Outdoor
 1:26:47,KSA,Houston,USA,2018-01-14,Sarah Attar,1992.0,Female,HM,NR,Outdoor
-1:33:33,KUW,Al-Kuwait,KUW,2022-11-26,Fatima Al-Hajeri,,Female,HM,NR,Outdoor
+1:28:23,KUW,Al-Kuwait,KUW,2024-03-02,Haya Al-Refai,,Female,HM,NR,Outdoor
 1:19:22,LAO,Buri Ram,THA,2024-01-27,Lodkeo Inthakoumman,1995.0,Female,HM,NR,Outdoor
 1:08:43,LAT,Bristol,GBR,2001-10-07,Jeļena Prokopčuka,1976.0,Female,HM,NR,Outdoor
 1:20:40,LBA,Verona,ITA,2020-02-16,Najla Aqdeir Ali Salem,,Female,HM,NR,Outdoor
@@ -134,7 +134,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 1:07:49,NAM,Gqeberha,RSA,2022-06-04,Helaria Johannes,1980.0,Female,HM,NR,Outdoor
 1:32:03,NCA,Ciudad de Guatemala,GUA,1980-04-29,Maria Antonieta Ocón,,Female,HM,NR,Outdoor
 1:05:15,NED,København,DEN,2018-09-16,Sifan Hassan,1993.0,Female,HM,NR,Outdoor
-1:16:41,NEP,Nepalgunj,NEP,2022-12-10,Shantoshi Shrestha,1993.0,Female,HM,NR,Outdoor
+1:16:22,NEP,Kathmandu,NEP,2024-03-02,Shantoshi Shrestha,1993.0,Female,HM,NR,Outdoor
 2:12:16,NFI,Burnt Pine,NFI,1995-10-15,Angela Keogh,1962.0,Female,HM,NR,Outdoor
 1:16:59,NGR,Kaduna,NGR,2020-11-21,Vera Yohanna Maisaje,2007.0,Female,HM,NR,Outdoor
 1:22:31,NIG,Royan,FRA,2023-05-27,Balkissa Abdoulaye Kirbo,1994.0,Female,HM,NR,Outdoor

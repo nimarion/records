@@ -49,7 +49,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 3:37:54,IRL,London,GBR,2012-08-11,Robert Heffernan,1978.0,Male,50W,NR,Outdoor
 4:15:42,ISR,UNKNOWN,???,1971-01-01,Shaul Ladany,1936.0,Male,50W,NR,Outdoor
 5:09:04,ISV,Malmö,SWE,1976-09-18,Henry Klein,1952.0,Male,50W,NR,Outdoor
-3:36:04,ITA,Rosignano Solvay,ITA,2007-02-11,Alex Schwazer,1984.0,Male,50W,NR,Outdoor
+3:36:04,ITA,Rosignano Solvay,ITA,2007-02-10,Alex Schwazer,1984.0,Male,50W,NR,Outdoor
 3:36:45,JPN,Takahata,JPN,2019-10-27,Masatora Kawano,1998.0,Male,50W,NR,Outdoor
 3:39:22,KAZ,Deauville-Mézidon,FRA,1999-05-02,Sergey Korepanov,1964.0,Male,50W,NR,Outdoor
 4:25:24,KEN,Seoul,KOR,1988-09-30,William Sawe,1955.0,Male,50W,NR,Outdoor
@@ -68,7 +68,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 4:21:52,MYA,Yangon,MYA,1997-01-17,Nyunt Win,,Male,50W,NR,Outdoor
 4:23:55,NCA,Ranchuelo,CUB,1989-04-02,Luis Canelo,,Male,50W,NR,Outdoor
 3:58:21,NED,Békéscsaba,HUN,1992-04-05,Harold van Beek,1962.0,Male,50W,NR,Outdoor
-6:00:16,NGR,Bradford,GBR,2002-03-06,Charles Arozanyin,,Male,50W,NR,Outdoor
+6:00:16,NGR,Bradford,GBR,2002-03-06,Charles Arosanyin,1967.0,Male,50W,NR,Outdoor
 3:41:16,NOR,Berlin,GER,2009-08-21,Trond Nymark,1976.0,Male,50W,NR,Outdoor
 3:46:29,NZL,London,GBR,2017-08-13,Quentin Rew,1984.0,Male,50W,NR,Outdoor
 4:37:17,PAN,UNKNOWN,???,1983-04-17,Leonel Ramos,,Male,50W,NR,Outdoor
