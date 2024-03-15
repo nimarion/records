@@ -43,7 +43,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 1.70,CGO,Quimper,FRA,1990-06-16,Addo Ndala,1973.0,Female,HJ,NR,Outdoor
 1.70,CGO,Antony,FRA,2016-05-07,Tania Matshoko,1993.0,Female,HJ,NR,Outdoor
 1.60,CHA,N'Djamena,CHA,1991-03-01,Christine Koumnobegue Ye,,Female,HJ,NR,Outdoor
-1.80,CHI,Santiago de Chile,CHI,1994-08-28,Alejandra Chomalí,,Female,HJ,NR,Outdoor
+1.80,CHI,Santiago de Chile,CHI,1994-08-28,Alejandra Chomalí,1970.0,Female,HJ,NR,Outdoor
 1.80,CHI,Cochabamba,BOL,2001-06-03,Kerstin Weiss,1982.0,Female,HJ,NR,Outdoor
 1.97,CHN,Hamamatsu,JPN,1989-05-07,Jin Ling,1967.0,Female,HJ,NR,Outdoor
 1.95,CIV,Belle Vue Mauricia,MRI,1992-06-28,Lucienne N'Da,1965.0,Female,HJ,NR,Outdoor
@@ -113,7 +113,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 1.97,KGZ,Roma,ITA,2003-07-11,Tatyana Efimenko,1981.0,Female,HJ,NR,Outdoor
 1.50,KIR,Bairiki,KIR,2005-11-05,Kimaia Dan Murdoch,,Female,HJ,NR,Outdoor
 1.93,KOR,Seoul,KOR,1990-06-10,Kim Hee-sun,1963.0,Female,HJ,NR,Outdoor
-1.40,KOS,Skopje,MKD,2017-04-23,Merlinda Kryeziu,,Female,HJ,NR,Outdoor
+1.40,KOS,Skopje,MKD,2017-04-23,Merlinda Kryeziu,1999.0,Female,HJ,NR,Outdoor
 1.53,KUW,Muscat,OMA,2015-03-15,Sarah Nasser Al-Sabea,,Female,HJ,NR,Outdoor
 1.58,LAO,Vientiane,LAO,2000-11-06,Phommasane Khammone,,Female,HJ,NR,Outdoor
 1.58,LAO,Vientiane,LAO,2012-12-17,Somkhit Bounsith,,Female,HJ,NR,Outdoor
