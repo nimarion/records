@@ -1,392 +1,393 @@
-result,nation,venue,date,sex,code,firstname,lastname,age,yearOfBirth,venueCountry,venueCity,stadium,environment,discipline,type,wind
-7:30.88,USA,Armory Track&Field Center,2024-02-11,Male,AL,Grant,Fisher,27.0,1997.0,USA,"New York, NY",Armory Track&Field Center,Indoor,3K0,2,
-1:34.78,INT,Armory Track&Field Center,2024-02-11,Female,AL,,,,,USA,"New York, NY",Armory Track&Field Center,Indoor,4×2,,
-44.49,CAN,Randal Tyson Indoor Center,2024-02-24,Male,AL,Christopher,Morales-Williams,20.0,2004.0,USA,"Fayetteville, AR",Randal Tyson Indoor Center,Indoor,400,2,
-38.93,JAM,GC Foster College,2024-01-20,Male,AL,,,,,JAM,Spanish Town,GC Foster College,Outdoor,4×1,2,
-3:02.35,INT,The Track at New Balance,2024-03-09,Male,AL,,,,,USA,"Boston, MA",The Track at New Balance,Indoor,4×4,,
-7:26.90,USA,Gately Indoor TF Center,2024-02-24,Male,AL,,,,,USA,"Chicago, IL",Gately Indoor TF Center,Indoor,4×8,2,
-16.88,USA,Glasgow Arena,2024-03-02,Male,AL,Donald,Scott,32.0,1992.0,GBR,Glasgow,Glasgow Arena,Indoor,DRE,2,
-12:51.84,USA,Boston Univ. Track & Tennis Center,2024-02-16,Male,AL,Grant,Fisher,27.0,1997.0,USA,"Boston, MA",Boston Univ. Track & Tennis Center,Indoor,5K0,2,
-6.33,JAM,GSG9-Halle,2024-01-16,Female,AL,Christania,Williams,30.0,1994.0,AUT,Wien,GSG9-Halle,Indoor,50M,2,
-11:24.11,USA,Jack Rose Track,2024-03-02,Female,AL,Allison,Montgomery,,,USA,"Long Beach, CA",Jack Rose Track,Outdoor,3KH,2,
-10.14,USA,Tom Tellez Track,2024-03-14,Male,AL,Josephus,Lyles,26.0,1998.0,USA,"Houston, TX",Tom Tellez Track,Outdoor,100,2,1.8
-4:16.41,USA,Armory Track&Field Center,2024-02-11,Female,AL,Elle,St. Pierre,29.0,1995.0,USA,"New York, NY",Armory Track&Field Center,Indoor,MEI,2,
-9:20.13,PUR,Pista UAGM,2024-02-24,Male,AL,Paulo,Gomez,,,PUR,Gurabo,Pista UAGM,Outdoor,3KH,2,
-13:55.24,USA,Convention Center,2024-02-16,Female,AL,Miranda,Melville,35.0,1989.0,USA,"Albuquerque, NM",Convention Center,Indoor,3G,2,
-7:12.40,JAM,National Stadium,2024-02-03,Female,AL,Sushana,Johnson,17.0,2007.0,JAM,Kingston,National Stadium,Outdoor,2KH,2,
-59.35,USA,Tom Tellez Track,2024-03-14,Female,AL,Mikaila,Alexis Martin,27.0,1997.0,USA,"Houston, TX",Tom Tellez Track,Outdoor,HAM,2,
-25:52.15,MEX,Unidad Deportiva Agustín Flores,2024-02-04,Female,AL,Naomi,Luis,,,MEX,Puerto Vallarta,Unidad Deportiva Agustín Flores,Outdoor,5G,2,
-8:44.66,INT,Gately Indoor TF Center,2024-02-24,Female,AL,,,,,USA,"Chicago, IL",Gately Indoor TF Center,Indoor,4×8,,
-32.36,USA,Clemson Indoor Track & Field Complex,2024-01-13,Male,AL,Brian,Faust,25.0,1999.0,USA,"Clemson, SC",Clemson Indoor Track & Field Complex,Indoor,300,2,
-80.69,GRN,Kirani James Athletic Stadium,2024-03-03,Male,AL,Anderson,Peters,27.0,1997.0,GRN,St. George's,Kirani James Athletic Stadium,Outdoor,SPE,2,
-6.98,LCA,Glasgow Arena,2024-03-02,Female,AL,Julien,Alfred,23.0,2001.0,GBR,Glasgow,Glasgow Arena,Indoor,60M,2,
-35.75,USA,The Track at New Balance,2024-02-04,Female,AL,Gabrielle,Thomas,28.0,1996.0,USA,"Boston, MA",The Track at New Balance,Indoor,300,2,
-1:14.03,USA,Convention Center,2024-02-09,Male,AL,Brandon,Miller,21.0,2003.0,USA,"Albuquerque, NM",Convention Center,Indoor,600,2,
-12.95,JAM,National Stadium,2024-03-03,Female,AL,Habiba,Harris,19.0,2005.0,JAM,Kingston,National Stadium,Outdoor,10H,2,1.9
-2:34.09,USA,Dempsey Indoor,2024-01-26,Female,AL,Nikki,Hiltz,30.0,1994.0,USA,"Seattle, WA",Dempsey Indoor,Indoor,1K0,2,
-7.27,USA,Convention Center,2024-02-16,Male,AL,Grant,Holloway,27.0,1997.0,USA,"Albuquerque, NM",Convention Center,Indoor,60H,2,
-3:47.83,USA,Armory Track&Field Center,2024-02-11,Male,AL,Yared,Nuguse,25.0,1999.0,USA,"New York, NY",Armory Track&Field Center,Indoor,MEI,2,
-50.73,JAM,National Stadium,2024-02-17,Male,AL,Antonio,Forbes,20.0,2004.0,JAM,Kingston,National Stadium,Outdoor,40H,2,
-58.02,JAM,National Stadium,2024-03-02,Female,AL,Kelly,Ann Carr,18.0,2006.0,JAM,Kingston,National Stadium,Outdoor,40H,2,
-6:30.37,CAN,Track and Field Centre,2024-01-13,Female,AL,Maria,Linton,,,CAN,Toronto,Track and Field Centre,Indoor,2K0,2,
-11.25,JAM,National Stadium,2024-03-01,Female,AL,Thieanna,Lee Terrelonge,17.0,2007.0,JAM,Kingston,National Stadium,Outdoor,100,2,1.0
-1:25.65,USA,Doug Shaw Memorial Stadium,2024-03-08,Male,AL,,,,,USA,"Myrtle Beach, SC",Doug Shaw Memorial Stadium,Outdoor,4×2,2,
-1:58.27,USA,Dempsey Indoor,2024-02-24,Female,AL,Nia,Akins,26.0,1998.0,USA,"Seattle, WA",Dempsey Indoor,Indoor,800,2,
-63.76,CUB,Pista Carlos Lopes,2024-01-20,Female,AL,Denia,Caballero,34.0,1990.0,POR,Torres Vedras,Pista Carlos Lopes,Outdoor,DIS,2,
-6.0,USA,Convention Center,2024-02-16,Male,AL,Christopher,Nilsen,26.0,1998.0,USA,"Albuquerque, NM",Convention Center,Indoor,STA,2,
-20.21,USA,Arena Stade Couvert,2024-02-10,Male,AL,Erriyon,Knighton,20.0,2004.0,FRA,Liévin,Arena Stade Couvert,Indoor,200,2,
-20.21,BAH,Sports Performance Center,2024-02-24,Male,AL,Terrence,Jones,22.0,2002.0,USA,"Lubbock, TX",Sports Performance Center,Indoor,200,2,
-67.83,JAM,GC Foster College,2024-03-09,Male,AL,Traves,Smikle,32.0,1992.0,JAM,Spanish Town,GC Foster College,Outdoor,DIS,2,
-8.4,JAM,The Track at New Balance,2024-03-08,Male,AL,Wayne,Pinnock,24.0,2000.0,USA,"Boston, MA",The Track at New Balance,Indoor,WEI,2,
-47:21.87,MEX,Unidad Deportiva Agustín Flores,2024-02-03,Female,AL,Maria,Fernanda Santiago,20.0,2004.0,MEX,Puerto Vallarta,Unidad Deportiva Agustín Flores,Outdoor,10G,2,
-5.76,USA,Field House,2024-01-26,Male,AL,JaVaughn,Moore,24.0,2000.0,CAN,Saskatoon,Field House,Indoor,50M,2,
-20.22,CAN,Glasgow Arena,2024-03-01,Female,AL,Sarah,Mitton,28.0,1996.0,GBR,Glasgow,Glasgow Arena,Indoor,KUG,2,
-8:20.87,USA,Glasgow Arena,2024-03-02,Female,AL,Elle,St. Pierre,29.0,1995.0,GBR,Glasgow,Glasgow Arena,Indoor,3K0,2,
-45.25,PUR,Pista Atletica Raul Rodriguez,2024-03-09,Female,AL,,,,,PUR,Villalba,Pista Atletica Raul Rodriguez,Outdoor,4×1,2,
-4.83,CAN,Maison des Sports,2024-02-22,Female,AL,Alysha,Newman,30.0,1994.0,FRA,Clermont-Ferrand,Maison des Sports,Indoor,STA,2,
-4.83,USA,Maison des Sports,2024-02-22,Female,AL,Bridget,Williams,28.0,1996.0,FRA,Clermont-Ferrand,Maison des Sports,Indoor,STA,2,
-29:56.83,MEX,Unidad Deportiva Agustín Flores,2024-02-04,Male,AL,Victor,Daniel Gomez,,,MEX,Puerto Vallarta,Unidad Deportiva Agustín Flores,Outdoor,10K,2,
-63.9,CUB,Pista La Salobreja,2024-02-24,Female,AL,Yulenmis,Aguilar,28.0,1996.0,ESP,Jaén,Pista La Salobreja,Outdoor,SPE,2,
-74.3,MEX,Centro Deportivo Olímpico Mexicano,2024-01-20,Male,AL,Diego,Del Real,30.0,1994.0,MEX,Ciudad de México,Centro Deportivo Olímpico Mexicano,Outdoor,HAM,2,
-15.01,DMA,Glasgow Arena,2024-03-03,Female,AL,Thea,Lafond,30.0,1994.0,GBR,Glasgow,Glasgow Arena,Indoor,DRE,2,
-35:35.39,MEX,Macrocentro Deportivo León,2024-01-19,Female,AL,Arian,Iveth Chia Hernández,23.0,2001.0,MEX,León,Macrocentro Deportivo León,Outdoor,10K,2,
-3:25.34,USA,Glasgow Arena,2024-03-03,Female,AL,,,,,GBR,Glasgow,Glasgow Arena,Indoor,4×4,2,
-3:33.43,USA,Armory Track&Field Center,2024-02-11,Male,AL,Yared,Nuguse,25.0,1999.0,USA,"New York, NY",Armory Track&Field Center,Indoor,1K5,2,
-6.41,USA,Glasgow Arena,2024-03-01,Male,AL,Christian,Coleman,28.0,1996.0,GBR,Glasgow,Glasgow Arena,Indoor,60M,2,
-2.0,JAM,Randal Tyson Indoor Center,2024-02-24,Female,AL,Lamara,Distin,24.0,2000.0,USA,"Fayetteville, AR",Randal Tyson Indoor Center,Indoor,HOC,2,
-2.0,USA,The Track at New Balance,2024-03-09,Female,AL,Rachel,Glenn,22.0,2002.0,USA,"Boston, MA",The Track at New Balance,Indoor,HOC,2,
-1:24.32,USA,Convention Center,2024-02-09,Female,AL,Nia,Akins,26.0,1998.0,USA,"Albuquerque, NM",Convention Center,Indoor,600,2,
-3:32.21,PUR,Pista Atletica Raul Rodriguez,2024-03-09,Mixed,AL,,,,,PUR,Villalba,Pista Atletica Raul Rodriguez,Outdoor,4×4,2,
-4:00.34,USA,Armory Track&Field Center,2024-02-11,Female,AL,Elle,St. Pierre,29.0,1995.0,USA,"New York, NY",Armory Track&Field Center,Indoor,1K5,2,
-6:06.79,VIN,GC Foster College,2024-01-20,Male,AL,Nellie,Ambriton,20.0,2004.0,JAM,Spanish Town,GC Foster College,Outdoor,2KH,2,
-7.18,USA,Convention Center,2024-02-16,Female,AL,Tara,Davis-Woodhall,25.0,1999.0,USA,"Albuquerque, NM",Convention Center,Indoor,WEI,2,
-22.8,USA,Convention Center,2024-02-17,Male,AL,Ryan,Crouser,32.0,1992.0,USA,"Albuquerque, NM",Convention Center,Indoor,KUG,2,
-50.24,USA,Glasgow Arena,2024-03-02,Female,AL,Alexis,Holmes,24.0,2000.0,GBR,Glasgow,Glasgow Arena,Indoor,400,2,
-38:25.42,CAN,AIS Athletics Track,2024-01-28,Male,AL,Evan,Dunfee,34.0,1990.0,AUS,Canberra,AIS Athletics Track,Outdoor,10G,2,
-14.2,USA,Jack Rose Track,2024-03-02,Male,AL,Nnamdi,Onwaeze,,,USA,"Long Beach, CA",Jack Rose Track,Outdoor,11H,2,1.5
-2:14.74,CAN,The Track at New Balance,2024-02-04,Male,AL,Marco,Arop,26.0,1998.0,USA,"Boston, MA",The Track at New Balance,Indoor,1K0,2,
-7.65,BAH,Glasgow Arena,2024-03-03,Female,AL,Devynne,Charlton,29.0,1995.0,GBR,Glasgow,Glasgow Arena,Indoor,60H,2,
-2.33,USA,Městská sportovní hala,2024-02-10,Male,AL,Shelby,Mcewen,28.0,1996.0,CZE,Hustopeče,Městská sportovní hala,Indoor,HOC,2,
-22.16,LCA,Convention Center,2024-02-02,Female,AL,Julien,Alfred,23.0,2001.0,USA,"Albuquerque, NM",Convention Center,Indoor,200,2,
-11:56.06,USA,Convention Center,2024-02-16,Male,AL,Nick,Christie,33,1991,USA,"Albuquerque, NM",Convention Center,Indoor,3G,2,
-14:46.51,USA,Boston Univ. Track & Tennis Center,2024-01-27,Female,AL,Josette,Andrews,29.0,1995.0,USA,"Boston, MA",Boston Univ. Track & Tennis Center,Indoor,5K0,2,
-1:44.92,USA,Glasgow Arena,2024-03-03,Male,AL,Bryce,Hoppel,27.0,1997.0,GBR,Glasgow,Glasgow Arena,Indoor,800,2,
-8:20.02,CHI,National Indoor Arena,2024-02-18,Male,AL,Juan,Peña,33.0,1991.0,IRL,"Abbotstown, Dublin",National Indoor Arena,Indoor,3K0,3,
-44.52,BRA,COTP Stadium,2024-03-02,Male,AL,Matheus,Lima,21.0,2003.0,BRA,São Paulo,COTP Stadium,Outdoor,400,3,
-39.67,PAR,Pista de Atletismo SND,2024-03-02,Male,AL,,,,,PAR,Asunción,Pista de Atletismo SND,Outdoor,4×1,3,
-3:11.13,INT,Clemson Indoor Track & Field Complex,2024-01-13,Male,AL,,,,,USA,"Clemson, SC",Clemson Indoor Track & Field Complex,Indoor,4×4,,
-16.63,BRA,Glasgow Arena,2024-03-02,Male,AL,Almir,Dos Santos,31.0,1993.0,GBR,Glasgow,Glasgow Arena,Indoor,DRE,3,
-13:59.91,ARG,"R.A. ""Murray"" Fasken Indoor Track Stadium",2024-02-02,Male,AL,Tomas,Vega,22,2002,USA,"College Station, TX","R.A. ""Murray"" Fasken Indoor Track Stadium",Indoor,5K0,3,
-10:30.58,COL,Estadio de Atletismo La Flora,2024-03-01,Female,AL,Stefany,López Mendoza,22,2002,COL,Bucaramanga,Estadio de Atletismo La Flora,Outdoor,3KH,3,
-10.23,GUY,National Track and Field Centre,2024-03-02,Male,AL,Noelex,Holder,25.0,1999.0,GUY,Leonora,National Track and Field Centre,Outdoor,100,3,1.2
-4:33.04,ECU,Dempsey Indoor,2024-02-10,Female,AL,Carmen,Alder Caisalitin,21.0,2003.0,USA,"Seattle, WA",Dempsey Indoor,Indoor,MEI,3,
-9:14.69,COL,Estadio de Atletismo La Flora,2024-03-01,Male,AL,Frank,Geovani Duran,23,2001,COL,Bucaramanga,Estadio de Atletismo La Flora,Outdoor,3KH,3,
-15:45.12,CHI,Pista Atlética Lázaro Escobar,2024-03-02,Female,AL,Daniela,Paz,20,2004,CHI,Temuco,Pista Atlética Lázaro Escobar,Outdoor,3G,3,
-7:41.50,VEN,Estadio Brigido Iriarte,2024-01-12,Female,AL,Albanis,Santana,,,VEN,Caracas,Estadio Brigido Iriarte,Outdoor,2KH,3,
-66.61,CHI,Pista Atlética Lázaro Escobar,2024-03-02,Female,AL,Mariana,García,25,1999,CHI,Temuco,Pista Atlética Lázaro Escobar,Outdoor,HAM,3,
-23:56.70,CHI,Estadio Municipal de Coronel,2024-03-02,Female,AL,Anastasia,Sanzana,26,1998,CHI,Los Angeles,Estadio Municipal de Coronel,Outdoor,5G,3,
-33.7,GUY,Clemson Indoor Track & Field Complex,2024-01-13,Male,AL,Arinze,Chance,28,1996,USA,"Clemson, SC",Clemson Indoor Track & Field Complex,Indoor,300,3,
-76.61,BRA,Centro de Treinamento Paralímpico Brasileiro,2024-03-03,Male,AL,Luiz,Mauricio Da Silva,24.0,2000.0,BRA,São Paulo,Centro de Treinamento Paralímpico Brasileiro,Outdoor,SPE,3,
-7.27,BRA,Pista de Atletismo do CNTA,2024-02-17,Female,AL,Anny,Caroline De Bassi,27.0,1997.0,BRA,Cascavel,Pista de Atletismo do CNTA,Indoor,60M,3,
-1:19.76,VEN,Vanderbilt Multipurpose Facility,2024-02-09,Male,AL,José,Guillermo Peñalver,24,2000,USA,"Nashville, TN",Vanderbilt Multipurpose Facility,Indoor,600,3,
-13.38,BRA,COTP Stadium,2024-02-17,Female,AL,Adelly,Oliveira Brito,37.0,1987.0,BRA,São Paulo,COTP Stadium,Outdoor,10H,3,0.0
-2:47.49,ECU,Sports Performance Center,2024-02-23,Female,AL,Carmen,Alder Caisalitin,21.0,2003.0,USA,"Lubbock, TX",Sports Performance Center,Indoor,1K0,3,
-7.58,BRA,Gobierno Autónomo Municipal de Cochabamba,2024-01-28,Male,AL,Eduardo,Rodrigues,29.0,1995.0,BOL,Cochabamba,Gobierno Autónomo Municipal de Cochabamba,Indoor,60H,3,
-4:10.15,CHI,National Indoor Arena,2024-02-07,Male,AL,Juan,Peña,33,1991,IRL,"Abbotstown, Dublin",National Indoor Arena,Indoor,MEI,3,
-50.17,BRA,Centro de Atletismo Professor Oswaldo Terra,2024-03-09,Male,AL,Francisco,Guilherme Dos Reis Viana,25.0,1999.0,BRA,Sao Bernardo do Campo,Centro de Atletismo Professor Oswaldo Terra,Outdoor,40H,3,
-56.48,BRA,COTP Stadium,2024-02-24,Female,AL,Chayenne,Da Silva,24.0,2000.0,BRA,São Paulo,COTP Stadium,Outdoor,40H,3,
-11.37,BRA,COTP Stadium,2024-03-02,Female,AL,Gabriela,Aline Grunow,26.0,1998.0,BRA,São Paulo,COTP Stadium,Outdoor,100,3,0.4
-2:04.56,GUY,Bob Devaney Sports Center,2024-02-03,Female,AL,Aaliyah,Moore,,,USA,"Lincoln, NE",Bob Devaney Sports Center,Indoor,800,3,
-61.55,BRA,Centro de Treinamento Paralímpico Brasileiro,2024-03-03,Female,AL,Izabela,Da Silva,29.0,1995.0,BRA,São Paulo,Centro de Treinamento Paralímpico Brasileiro,Outdoor,DIS,3,
-5.45,COL,GVSU Kelly Family Sports Cente,2024-02-10,Male,AL,José,Tomas Nieto,23.0,2001.0,USA,"Allendale, MI",GVSU Kelly Family Sports Cente,Indoor,STA,3,
-20.45,BRA,Centro de Treinamento Paralímpico Brasileiro,2024-02-25,Male,AL,Renan,Correa,20.0,2004.0,BRA,São Paulo,Centro de Treinamento Paralímpico Brasileiro,Outdoor,200,3,1.9
-58.68,BRA,Centro de Treinamento Paralímpico Brasileiro,2024-03-03,Male,AL,Douglas,Junior,29,1995,BRA,São Paulo,Centro de Treinamento Paralímpico Brasileiro,Outdoor,DIS,3,
-8.16,COL,Gobierno Autónomo Municipal de Cochabamba,2024-01-25,Male,AL,Arnovis,Dalmero,24.0,2000.0,BOL,Cochabamba,Gobierno Autónomo Municipal de Cochabamba,Indoor,WEI,3,
-43:27.48,COL,AIS Athletics Track,2024-01-27,Female,AL,Lorena,Arenas,31,1993,AUS,Canberra,AIS Athletics Track,Outdoor,10G,3,
-17.74,CHI,Gobierno Autónomo Municipal de Cochabamba,2024-01-27,Female,AL,Ivana,Xennia Gallardo,31,1993,BOL,Cochabamba,Gobierno Autónomo Municipal de Cochabamba,Indoor,KUG,3,
-9:12.96,URU,Pista Prado,2024-03-10,Female,AL,María,Pía Fernández,29.0,1995.0,URU,Montevideo,Pista Prado,Outdoor,3K0,3,
-48.5,COL,Estadio de Atletismo - Unidad Deportiva el Salitre,2024-02-23,Female,AL,,,,,COL,Bogotá,Estadio de Atletismo - Unidad Deportiva el Salitre,Outdoor,4×1,3,
-4.41,BRA,Dvorane Gradski Vrt,2024-02-20,Female,AL,Juliana,De Menis Campos,28,1996,CRO,Osijek,Dvorane Gradski Vrt,Indoor,STA,3,
-31:20.55,COL,Estadio de Atletismo La Flora,2024-03-01,Male,AL,Javier,Peñaloza,24,2000,COL,Bucaramanga,Estadio de Atletismo La Flora,Outdoor,10K,3,
-61.34,BRA,Centro de Atletismo Professor Oswaldo Terra,2024-03-09,Female,AL,Jucilene,Sales De Lima,34,1990,BRA,Sao Bernardo do Campo,Centro de Atletismo Professor Oswaldo Terra,Outdoor,SPE,3,
-70.47,BRA,Centro de Atletismo Professor Oswaldo Terra,2024-03-09,Male,AL,Allan,Wolski,34,1990,BRA,Sao Bernardo do Campo,Centro de Atletismo Professor Oswaldo Terra,Outdoor,HAM,3,
-14.04,BRA,Gobierno Autónomo Municipal de Cochabamba,2024-01-28,Female,AL,Gabriele,Santos,29.0,1995.0,BOL,Cochabamba,Gobierno Autónomo Municipal de Cochabamba,Indoor,DRE,3,
-35:09.61,COL,Estadio de Atletismo La Flora,2024-03-01,Female,AL,Muriel,Coneo Paredes,37,1987,COL,Bucaramanga,Estadio de Atletismo La Flora,Outdoor,10K,3,
-3:52.49,BOL,Gobierno Autónomo Municipal de Cochabamba,2024-01-28,Female,AL,,,,,BOL,Cochabamba,Gobierno Autónomo Municipal de Cochabamba,Indoor,4×4,3,
-3:45.98,BRA,CNDA,2024-01-10,Male,AL,Thiago,André,29.0,1995.0,BRA,Bragança Paulista,CNDA,Outdoor,1K5,3,
-6.58,BRA,Gobierno Autónomo Municipal de Cochabamba,2024-01-27,Male,AL,Felipe,Bardi,26.0,1998.0,BOL,Cochabamba,Gobierno Autónomo Municipal de Cochabamba,Indoor,60M,3,
-1.87,BRA,Centro de Atletismo Professor Oswaldo Terra,2024-03-09,Female,AL,Valdileia,Martins,35.0,1989.0,BRA,Sao Bernardo do Campo,Centro de Atletismo Professor Oswaldo Terra,Outdoor,HOC,3,
-1:32.84,GUY,Gladstein Fieldhouse Indiana Un.,2024-01-19,Female,AL,Kenisha,Phillips,23,2001,USA,"Bloomington, IN",Gladstein Fieldhouse Indiana Un.,Indoor,600,3,
-4:17.14,ARG,Glasgow Arena,2024-03-01,Female,AL,Fedra,Aldana Luna,29,1995,GBR,Glasgow,Glasgow Arena,Indoor,1K5,3,
-5:47.06,VEN,Estadio Brigido Iriarte,2024-01-12,Male,AL,Jose,Gonzalez,30.0,1994.0,VEN,Caracas,Estadio Brigido Iriarte,Outdoor,2KH,3,
-6.63,COL,Pista de Atletismo - Parque Deportivo,2024-03-09,Female,AL,Natalia,Linares,21.0,2003.0,COL,Ibagué,Pista de Atletismo - Parque Deportivo,Outdoor,WEI,3,1.7
-21.11,BRA,Glasgow Arena,2024-03-01,Male,AL,Darlan,Romani,33.0,1991.0,GBR,Glasgow,Glasgow Arena,Indoor,KUG,3,
-51.72,GUY,SPIRE Institute Indoor Track & Field Facility,2024-02-24,Female,AL,Kenisha,Phillips,23.0,2001.0,USA,"Geneva, OH",SPIRE Institute Indoor Track & Field Facility,Indoor,400,3,
-13.38,BRA,COTP Stadium,2024-02-17,Male,AL,Eduardo,Rodrigues,29,1995,BRA,São Paulo,COTP Stadium,Outdoor,11H,3,0.7
-2:29.36,URU,Pista Prado,2024-02-17,Male,AL,Gonzalo,Gervasini,19,2005,URU,Montevideo,Pista Prado,Outdoor,1K0,3,
-8.07,VEN,Bob Devaney Sports Center,2024-02-03,Female,AL,Yoveinny,Mota,24.0,2000.0,USA,"Lincoln, NE",Bob Devaney Sports Center,Indoor,60H,3,
-2.21,BRA,Gobierno Autónomo Municipal de Cochabamba,2024-01-28,Male,AL,Fernando,Ferreira,30.0,1994.0,BOL,Cochabamba,Gobierno Autónomo Municipal de Cochabamba,Indoor,HOC,3,
-23.75,GUY,National Track and Field Centre,2024-03-03,Female,AL,Tianna,Springer,17.0,2007.0,GUY,Leonora,National Track and Field Centre,Outdoor,200,3,0.9
-13:05.93,CHI,Pista Atlética Lázaro Escobar,2024-03-02,Male,AL,Luis,Navarrete Contreras,21,2003,CHI,Temuco,Pista Atlética Lázaro Escobar,Outdoor,3G,3,
-16:40.37,COL,Estadio de Atletismo La Flora,2024-03-03,Female,AL,Muriel,Coneo Paredes,37,1987,COL,Bucaramanga,Estadio de Atletismo La Flora,Outdoor,5K0,3,
-1:49.56,BRA,COTP Stadium,2024-02-24,Male,AL,Thiago,André,29.0,1995.0,BRA,São Paulo,COTP Stadium,Outdoor,800,3,
-7:25.82,ETH,Arena,2024-02-06,Male,AL,Selemon,Barega,24.0,2000.0,POL,Toruń,Arena,Indoor,3K0,4,
-45.16,BOT,Pilditch Stadium,2024-02-10,Male,AL,Bayapo,Ndori,25.0,1999.0,RSA,Pretoria,Pilditch Stadium,Outdoor,400,4,
-39.21,RSA,McArthur Stadium,2024-03-14,Male,AL,,,,,RSA,Potchefstroom,McArthur Stadium,Outdoor,4×1,4,
-3:04.99,KEN,Ulinzi Sports Complex,2024-01-06,Male,AL,,,,,KEN,"Langata, Nairobi",Ulinzi Sports Complex,Outdoor,4×4,4,
-4:51.23,ETH,Arena Stade Couvert,2024-02-10,Male,AL,Lamecha,Girma,24,2000,FRA,Liévin,Arena Stade Couvert,Indoor,2K0,4,
-17.53,BUR,Glasgow Arena,2024-03-02,Male,AL,Hugues,Fabrice Zango,31.0,1993.0,GBR,Glasgow,Glasgow Arena,Indoor,DRE,4,
-12:56.76,RSA,Boston Univ. Track & Tennis Center,2024-01-26,Male,AL,Adriaan,Wildschutt,26.0,1998.0,USA,"Boston, MA",Boston Univ. Track & Tennis Center,Indoor,5K0,4,
-6.73,CMR,Salle du Centre Mondial du Cyclisme,2024-01-20,Female,AL,Anastasie,Tsogo,21,2003,SUI,Aigle,Salle du Centre Mondial du Cyclisme,Indoor,50M,4,
-9:43.05,KEN,Nyayo National Stadium,2024-03-06,Female,AL,Caren,Chebet,24.0,2000.0,KEN,Nairobi,Nyayo National Stadium,Outdoor,3KH,4,
-10.1,NGR,Navy New Sport Center,2024-01-27,Male,AL,Emmanuel,Ekanem Consider,20.0,2004.0,NGR,Lagos,Navy New Sport Center,Outdoor,100,4,0.9
-4:17.36,ETH,Atletická hala,2024-01-30,Female,AL,Freweyni,Hailu,23.0,2001.0,CZE,Ostrava,Atletická hala,Indoor,MEI,4,
-8:22.72,KEN,Nyayo National Stadium,2024-03-06,Male,AL,Amos,Serem,22.0,2002.0,KEN,Nairobi,Nyayo National Stadium,Outdoor,3KH,4,
-14:57.25,RSA,McArthur Stadium,2024-01-30,Female,AL,Althea,Taylor,28,1996,RSA,Potchefstroom,McArthur Stadium,Outdoor,3G,4,
-7:00.15,RSA,Pilditch Stadium,2024-03-09,Female,AL,Elizma,Le Roux,17.0,2007.0,RSA,Pretoria,Pilditch Stadium,Outdoor,2KH,4,
-67.04,ALG,Miloud HEDEFI Athletics Stadium,2024-03-01,Female,AL,Zahra,Tatar,32,1992,ALG,Oran,Miloud HEDEFI Athletics Stadium,Outdoor,HAM,4,
-24:53.44,RSA,McArthur Stadium,2024-02-14,Female,AL,Marissa,Swanepoel,22,2002,RSA,Potchefstroom,McArthur Stadium,Outdoor,5G,4,
-30.69,BOT,Pilditch Stadium,2024-02-17,Male,AL,Letsile,Tebogo,21.0,2003.0,RSA,Pretoria,Pilditch Stadium,Outdoor,300,4,
-79.62,RSA,Athletics Track,2024-02-10,Male,AL,Rocco,Van Rooyen,32.0,1992.0,RSA,"Parow, Cape Town",Athletics Track,Outdoor,SPE,4,
-7.1,NGR,Sports Performance Center,2024-02-09,Female,AL,Rosemary,Chukwuma,23.0,2001.0,USA,"Lubbock, TX",Sports Performance Center,Indoor,60M,4,
-35.99,NGR,The Track at New Balance,2024-02-04,Female,AL,Favour,Ofili,22.0,2002.0,USA,"Boston, MA",The Track at New Balance,Indoor,300,4,
-1:14.52,ALG,McArthur Stadium,2024-03-14,Male,AL,Slimane,Moula,25.0,1999.0,RSA,Potchefstroom,McArthur Stadium,Outdoor,600,4,
-13.18,RSA,Pilditch Stadium,2024-02-10,Female,AL,Taylon,Bieldt,26.0,1998.0,RSA,Pretoria,Pilditch Stadium,Outdoor,10H,4,-0.8
-2:37.26,KEN,Dempsey Indoor,2024-01-26,Female,AL,Dorcas,Ewoi,,,USA,"Seattle, WA",Dempsey Indoor,Indoor,1K0,4,
-7.66,NIG,Halle Michel d'Ornano,2024-02-07,Male,AL,Saguirou,Badamassi,24.0,2000.0,FRA,Mondeville,Halle Michel d'Ornano,Indoor,60H,4,
-3:51.91,MAR,Boston Univ. Track & Tennis Center,2024-02-10,Male,AL,Anass,Essayi,23.0,2001.0,USA,"Boston, MA",Boston Univ. Track & Tennis Center,Indoor,MEI,4,
-49.14,BOT,National Stadium,2024-02-17,Male,AL,Victor,Ntweng,29.0,1995.0,BOT,Gaborone,National Stadium,Outdoor,40H,4,
-58.63,RSA,Pilditch Stadium,2024-03-08,Female,AL,Tumi,Ramokgopa,17.0,2007.0,RSA,Pretoria,Pilditch Stadium,Outdoor,40H,4,
-11.19,NGR,Stephen Keshi Stadium,2024-02-18,Female,AL,Olayinka,Olajide,22.0,2002.0,NGR,Asaba,Stephen Keshi Stadium,Outdoor,100,4,0.2
-1:57.86,ETH,Arena,2024-02-06,Female,AL,Habitam,Alemu,27.0,1997.0,POL,Toruń,Arena,Indoor,800,4,
-58.43,NGR,Jack Rose Track,2024-03-02,Female,AL,Chioma,Onyekwere,30.0,1994.0,USA,"Long Beach, CA",Jack Rose Track,Outdoor,DIS,4,
-5.45,RSA,Minnesota Fieldhouse,2024-01-27,Male,AL,Kyle,Rademeyer,22.0,2002.0,USA,"Minneapolis, MN",Minnesota Fieldhouse,Indoor,STA,4,
-20.29,ZIM,Sports Performance Center,2024-01-13,Male,AL,Tapiwanashe,Makarawu,24.0,2000.0,USA,"Lubbock, TX",Sports Performance Center,Indoor,200,4,
-58.16,NAM,McArthur Stadium,2024-02-27,Male,AL,Ryan,Williams,24.0,2000.0,RSA,Potchefstroom,McArthur Stadium,Outdoor,DIS,4,
-8.3,RSA,Pilditch Stadium,2024-03-09,Male,AL,Jovan,Van Vuuren,28.0,1996.0,RSA,Pretoria,Pilditch Stadium,Outdoor,WEI,4,1.3
-46:30.27,ALG,Miloud HEDEFI Athletics Stadium,2024-03-01,Female,AL,Souad,Azzi,25.0,1999.0,ALG,Oran,Miloud HEDEFI Athletics Stadium,Outdoor,10G,4,
-5.71,NGR,Field House,2024-01-26,Male,AL,Usheoritse,Itsekiri,26.0,1998.0,CAN,Saskatoon,Field House,Indoor,50M,4,
-17.79,RSA,Bob Devaney Sports Center,2024-02-03,Female,AL,Miné,De Klerk,21.0,2003.0,USA,"Lincoln, NE",Bob Devaney Sports Center,Indoor,KUG,4,
-8:17.11,ETH,Arena Stade Couvert,2024-02-10,Female,AL,Gudaf,Tsegay,27.0,1997.0,FRA,Liévin,Arena Stade Couvert,Indoor,3K0,4,
-46.4,KEN,Nyayo National Stadium,2024-01-27,Female,AL,,,,,KEN,Nairobi,Nyayo National Stadium,Outdoor,4×1,4,
-4.11,RSA,Omnisport,2024-01-27,Female,AL,Mirè,Reinstorf,22.0,2002.0,NED,Apeldoorn,Omnisport,Indoor,STA,4,
-4.11,RSA,Omnisport,2024-01-27,Female,AL,Sydney,Rothman,17.0,2007.0,NED,Apeldoorn,Omnisport,Indoor,STA,4,
-27:54.43,KEN,Rishon Letzion,2024-02-15,Male,AL,Naibei,Kiplimo Mayebei,24.0,2000.0,ISR,Rishon Letzion,,Outdoor,10K,4,
-62.24,RSA,McArthur Stadium,2024-02-14,Female,AL,Jo-Ane,Van Dyk,27.0,1997.0,RSA,Potchefstroom,McArthur Stadium,Outdoor,SPE,4,
-70.39,RSA,McArthur Stadium,2024-02-20,Male,AL,Alan,Cumming,28.0,1996.0,RSA,Potchefstroom,McArthur Stadium,Outdoor,HAM,4,
-13.89,NGR,Sports Performance Center,2024-01-20,Female,AL,Ruth,Usoro,27.0,1997.0,USA,"Lubbock, TX",Sports Performance Center,Indoor,DRE,4,
-32:04.08,RSA,Pilditch Stadium,2024-03-08,Female,AL,Glenrose,Xaba,30.0,1994.0,RSA,Pretoria,Pilditch Stadium,Outdoor,10K,4,
-3:36.16,KEN,Nyayo National Stadium,2024-01-27,Female,AL,,,,,KEN,Nairobi,Nyayo National Stadium,Outdoor,4×4,4,
-3:34.44,KEN,Arena Stade Couvert,2024-02-10,Male,AL,Vincent,Kibet Keter,22.0,2002.0,FRA,Liévin,Arena Stade Couvert,Indoor,1K5,4,
-6.51,KEN,AccorHotels Arena de Bercy,2024-02-11,Male,AL,Ferdinand,Omanyala,28.0,1996.0,FRA,Paris,AccorHotels Arena de Bercy,Indoor,60M,4,
-1.96,NGR,Sports Performance Center,2024-01-19,Female,AL,Temitope,Simbiat Adeshina,26.0,1998.0,USA,"Lubbock, TX",Sports Performance Center,Indoor,HOC,4,
-1:28.22,KEN,Clemson Indoor Track & Field Complex,2024-01-12,Female,AL,Gladys,Chepngetich,,,USA,"Clemson, SC",Clemson Indoor Track & Field Complex,Indoor,600,4,
-3:55.28,ETH,Arena,2024-02-06,Female,AL,Freweyni,Hailu,23.0,2001.0,POL,Toruń,Arena,Indoor,1K5,4,
-5:51.75,RSA,McArthur Stadium,2024-02-20,Male,AL,Tumisang,Monatlala,29.0,1995.0,RSA,Potchefstroom,McArthur Stadium,Outdoor,2KH,4,
-19:43.64,ALG,Complexe Olympique Mohamed Boudiaf,2024-01-06,Male,AL,Ismail,Benhammouda,21,2003,ALG,Algiers,Complexe Olympique Mohamed Boudiaf,Outdoor,5G,4,
-6.87,NGR,Sports Performance Center,2024-02-09,Female,AL,Ruth,Usoro,27.0,1997.0,USA,"Lubbock, TX",Sports Performance Center,Indoor,WEI,4,
-21.63,NGR,Sportovní Hala,2024-02-20,Male,AL,Chukwuebuka,Cornnell Enekwechi,31.0,1993.0,CZE,Nehvizdy,Sportovní Hala,Indoor,KUG,4,
-51.25,KEN,Nyayo National Stadium,2024-03-06,Female,AL,Mary,Moraa,24.0,2000.0,KEN,Nairobi,Nyayo National Stadium,Outdoor,400,4,
-40:14.25,ALG,Miloud HEDEFI Athletics Stadium,2024-03-01,Male,AL,Ismail,Benhammouda,21.0,2003.0,ALG,Oran,Miloud HEDEFI Athletics Stadium,Outdoor,10G,4,
-13.77,RSA,McArthur Stadium,2024-03-14,Male,AL,Mondray,Barnard,22.0,2002.0,RSA,Potchefstroom,McArthur Stadium,Outdoor,11H,4,-1.5
-2:17.61,MAR,Topsporthal Vlaanderen,2024-02-03,Male,AL,Abdelati,El Guesse,31.0,1993.0,BEL,Gent,Topsporthal Vlaanderen,Indoor,1K0,4,
-7.75,NGR,The Track at New Balance,2024-02-04,Female,AL,Tobi,Amusan,27.0,1997.0,USA,"Boston, MA",The Track at New Balance,Indoor,60H,4,
-2.25,RSA,McArthur Stadium,2024-03-14,Male,AL,Brian,Raats,20.0,2004.0,RSA,Potchefstroom,McArthur Stadium,Outdoor,HOC,4,
-22.87,NGR,Randal Tyson Indoor Center,2024-01-26,Female,AL,Favour,Ofili,22.0,2002.0,USA,"Fayetteville, AR",Randal Tyson Indoor Center,Indoor,200,4,
-12:23.54,RSA,McArthur Stadium,2024-01-30,Male,AL,Antonio,Farmer,24,2000,RSA,Potchefstroom,McArthur Stadium,Outdoor,3G,4,
-14:42.94,ETH,Boston Univ. Track & Tennis Center,2024-01-27,Female,AL,Senayet,Getachew,19.0,2005.0,USA,"Boston, MA",Boston Univ. Track & Tennis Center,Indoor,5K0,4,
-1:44.07,KEN,Nyayo National Stadium,2024-03-06,Male,AL,Alex,Ngeno Kipngetich,24.0,2000.0,KEN,Nairobi,Nyayo National Stadium,Outdoor,800,4,
-7:34.88,NZL,Armory Track&Field Center,2024-02-11,Male,AL,Geordie,Beamish,28.0,1996.0,USA,"New York, NY",Armory Track&Field Center,Indoor,3K0,6,
-45.57,AUS,AIS Athletics Track,2024-03-02,Male,AL,Luke,Van Ratingen,23.0,2001.0,AUS,Canberra,AIS Athletics Track,Outdoor,400,6,
-38.43,AUS,Queensland Sport and Athletics Centre,2024-02-24,Male,AL,,,,,AUS,"Nathan, Brisbane",Queensland Sport and Athletics Centre,Outdoor,4×1,6,
-3:03.88,AUS,Queensland Sport and Athletics Centre,2024-02-24,Male,AL,,,,,AUS,"Nathan, Brisbane",Queensland Sport and Athletics Centre,Outdoor,4×4,6,
-16.82,AUS,Lakeside Stadium,2024-02-15,Male,AL,Connor,Murphy,23.0,2001.0,AUS,Melbourne,Lakeside Stadium,Outdoor,DRE,6,-0.4
-13:04.33,NZL,Boston Univ. Track & Tennis Center,2024-01-26,Male,AL,Geordie,Beamish,28.0,1996.0,USA,"Boston, MA",Boston Univ. Track & Tennis Center,Indoor,5K0,6,
-9:42.71,AUS,SA Athletic Stadium,2024-02-10,Female,AL,Cara,Feain-Ryan,25.0,1999.0,AUS,Adelaide,SA Athletic Stadium,Outdoor,3KH,6,
-10.15,AUS,AIS Athletics Track,2024-01-27,Male,AL,Jacob,Despard,28.0,1996.0,AUS,Canberra,AIS Athletics Track,Outdoor,100,6,1.9
-10.15,AUS,AIS Athletics Track,2024-01-27,Male,AL,Joshua,Azzopardi,25.0,1999.0,AUS,Canberra,AIS Athletics Track,Outdoor,100,6,1.9
-10.15,AUS,AIS Athletics Track,2024-01-27,Male,AL,Alexander,Colgan,20.0,2004.0,AUS,Canberra,AIS Athletics Track,Outdoor,100,6,1.9
-4:19.03,AUS,Armory Track&Field Center,2024-02-11,Female,AL,Jessica,Hull,28.0,1996.0,USA,"New York, NY",Armory Track&Field Center,Indoor,MEI,6,
-8:32.19,AUS,AIS Athletics Track,2024-03-02,Male,AL,Edward,Trippas,26.0,1998.0,AUS,Canberra,AIS Athletics Track,Outdoor,3KH,6,
-13:20.17,NZL,Newtown Park Stadium,2024-02-02,Female,AL,Laura,Langley,27.0,1997.0,NZL,Wellington,Newtown Park Stadium,Outdoor,3G,6,
-6:56.76,AUS,Queensland Sport and Athletics Centre,2024-02-24,Female,AL,Milla,Roberts,17.0,2007.0,AUS,"Nathan, Brisbane",Queensland Sport and Athletics Centre,Outdoor,2KH,6,
-70.59,NZL,Nga Puna Wai Sports Hub,2024-02-24,Female,AL,Lauren,Bruce,27.0,1997.0,NZL,Christchurch,Nga Puna Wai Sports Hub,Outdoor,HAM,6,
-21:42.01,AUS,Lakeside Stadium,2024-02-24,Female,AL,Rebecca,Henderson,23.0,2001.0,AUS,Melbourne,Lakeside Stadium,Outdoor,5G,6,
-76.51,AUS,Domain Athletic Centre,2024-02-17,Male,AL,Hamish,Peacock,34.0,1990.0,AUS,Hobart,Domain Athletic Centre,Outdoor,SPE,6,
-7.06,NZL,Glasgow Arena,2024-03-02,Female,AL,Zoe,Hobbs,27.0,1997.0,GBR,Glasgow,Glasgow Arena,Indoor,60M,6,
-39.2,AUS,Clemson Indoor Track & Field Complex,2024-01-13,Female,AL,Aleksandra,Stoilova,19,2005,USA,"Clemson, SC",Clemson Indoor Track & Field Complex,Indoor,300,6,
-1:16.29,AUS,The Crest Athletics Centre,2024-02-22,Male,AL,Ian,Halpin,31,1993,AUS,"Bankstown, Sydney",The Crest Athletics Centre,Outdoor,600,6,
-13.01,AUS,AIS Athletics Track,2024-01-27,Female,AL,Danielle,Shaw,26.0,1998.0,AUS,Canberra,AIS Athletics Track,Outdoor,10H,6,0.2
-2:34.71,AUS,Dempsey Indoor,2024-01-26,Female,AL,Jessica,Hull,28.0,1996.0,USA,"Seattle, WA",Dempsey Indoor,Indoor,1K0,6,
-7.71,AUS,Track & Field complex QAZAQSTAN,2024-01-27,Male,AL,Chris,Douglas,27,1997,KAZ,Astana,Track & Field complex QAZAQSTAN,Indoor,60H,6,
-3:51.51,AUS,Armory Track&Field Center,2024-03-02,Male,AL,Jack,Anstey,27.0,1997.0,USA,"New York, NY",Armory Track&Field Center,Indoor,MEI,6,
-50.33,AUS,AIS Athletics Track,2024-03-02,Male,AL,Thomas,Hunt,23.0,2001.0,AUS,Canberra,AIS Athletics Track,Outdoor,40H,6,
-55.37,AUS,AIS Athletics Track,2024-03-02,Female,AL,Sarah,Carli,30.0,1994.0,AUS,Canberra,AIS Athletics Track,Outdoor,40H,6,
-11.1,AUS,AIS Athletics Track,2024-01-27,Female,AL,Torrie,Lewis,19.0,2005.0,AUS,Canberra,AIS Athletics Track,Outdoor,100,6,1.6
-1:58.81,AUS,AIS Athletics Track,2024-03-02,Female,AL,Claudia,Hollingsworth,19.0,2005.0,AUS,Canberra,AIS Athletics Track,Outdoor,800,6,
-58.69,AUS,Queensland Sport and Athletics Centre,2024-01-27,Female,AL,Taryn,Gollshewsky,31.0,1993.0,AUS,"Nathan, Brisbane",Queensland Sport and Athletics Centre,Outdoor,DIS,6,
-5.87,AUS,Stabinski Velodrome,2024-02-14,Male,AL,Kurtis,Marschall,27.0,1997.0,FRA,Roubaix,Stabinski Velodrome,Indoor,STA,6,
-20.61,AUS,AIS Athletics Track,2024-01-28,Male,AL,Christopher,Ius,24.0,2000.0,AUS,Canberra,AIS Athletics Track,Outdoor,200,6,0.9
-65.93,NZL,SA Athletic Stadium,2024-02-10,Male,AL,Connor,Bell,23.0,2001.0,AUS,Adelaide,SA Athletic Stadium,Outdoor,DIS,6,
-7.96,AUS,Queensland Sport and Athletics Centre,2024-02-03,Male,AL,Henry,Frayne,34.0,1990.0,AUS,"Nathan, Brisbane",Queensland Sport and Athletics Centre,Outdoor,WEI,6,0.6
-7.96,AUS,Lakeside Stadium,2024-02-15,Male,AL,Christopher,Mitrevski,28.0,1996.0,AUS,Melbourne,Lakeside Stadium,Outdoor,WEI,6,0.9
-43:14.78,AUS,AIS Athletics Track,2024-01-27,Female,AL,Jemima,Montag,26.0,1998.0,AUS,Canberra,AIS Athletics Track,Outdoor,10G,6,
-19.62,NZL,Glasgow Arena,2024-03-01,Female,AL,Maddison-Lee,Wesche,25.0,1999.0,GBR,Glasgow,Glasgow Arena,Indoor,KUG,6,
-8:24.39,AUS,Glasgow Arena,2024-03-02,Female,AL,Jessica,Hull,28.0,1996.0,GBR,Glasgow,Glasgow Arena,Indoor,3K0,6,
-44.49,AUS,Douglas Track & Field,2024-03-10,Female,AL,,,,,NZL,Auckland,Douglas Track & Field,Outdoor,4×1,6,
-4.84,NZL,Arena Stade Couvert,2024-02-10,Female,AL,Eliza,Mccartney,28.0,1996.0,FRA,Liévin,Arena Stade Couvert,Indoor,STA,6,
-29:29.37,NZL,The Caledonian Ground,2024-01-13,Male,AL,Michael,Voss,27.0,1997.0,NZL,Dunedin,The Caledonian Ground,Outdoor,10K,6,
-62.12,AUS,Lakeside Stadium,2024-02-15,Female,AL,Kathryn,Mitchell,42.0,1982.0,AUS,Melbourne,Lakeside Stadium,Outdoor,SPE,6,
-69.72,NZL,Hawke's Bay Sports Park,2024-01-20,Male,AL,Anthony,Nobilo,25,1999,NZL,Hastings,Hawke's Bay Sports Park,Outdoor,HAM,6,
-13.78,AUS,AIS Athletics Track,2024-03-02,Female,AL,Kayla,Cuba,25.0,1999.0,AUS,Canberra,AIS Athletics Track,Outdoor,DRE,6,1.8
-35:15.84,NZL,The Caledonian Ground,2024-01-13,Female,AL,Anneke,Arlidge,28.0,1996.0,NZL,Dunedin,The Caledonian Ground,Outdoor,10K,6,
-3:33.30,AUS,The Crest Athletics Centre,2024-02-22,Male,AL,Cameron,Myers,18.0,2006.0,AUS,"Bankstown, Sydney",The Crest Athletics Centre,Outdoor,1K5,6,
-6.65,AUS,Kerryn McCann Athletic Centre,2024-01-13,Male,AL,Jake,Penny,28.0,1996.0,AUS,Wollongong,Kerryn McCann Athletic Centre,Outdoor,60M,6,1.0
-2.03,AUS,AIS Athletics Track,2024-01-27,Female,AL,Nicola,Olyslagers,28.0,1996.0,AUS,Canberra,AIS Athletics Track,Outdoor,HOC,6,
-1:26.97,AUS,SPIRE Institute Indoor Track & Field Facility,2024-02-24,Female,AL,Hayley,Kitching,20.0,2004.0,USA,"Geneva, OH",SPIRE Institute Indoor Track & Field Facility,Indoor,600,6,
-3:21.26,AUS,Lakeside Stadium,2024-02-15,Mixed,AL,,,,,AUS,Melbourne,Lakeside Stadium,Outdoor,4×4,6,
-4:01.19,AUS,Armory Track&Field Center,2024-02-11,Female,AL,Jessica,Hull,28.0,1996.0,USA,"New York, NY",Armory Track&Field Center,Indoor,1K5,6,
-6:25.53,AUS,WA Sports Centre,2024-02-16,Male,AL,Nikil,Redipali,,,AUS,Perth,WA Sports Centre,Outdoor,2KH,6,
-18:28.47,AUS,Lakeside Stadium,2024-02-24,Male,AL,Rhydian,Cowley,33.0,1991.0,AUS,Melbourne,Lakeside Stadium,Outdoor,5G,6,
-6.5,AUS,Lakeside Stadium,2024-02-15,Female,AL,Samantha,Dale,23.0,2001.0,AUS,Melbourne,Lakeside Stadium,Outdoor,WEI,6,0.7
-22.16,NZL,Arena Stade Couvert,2024-02-10,Male,AL,Tom,Walsh,32,1992,FRA,Liévin,Arena Stade Couvert,Indoor,KUG,6,
-51.77,AUS,Douglas Track & Field,2024-03-10,Female,AL,Ellie,Beer,21.0,2003.0,NZL,Auckland,Douglas Track & Field,Outdoor,400,6,
-38:46.99,AUS,AIS Athletics Track,2024-01-28,Male,AL,Kyle,Swan,25.0,1999.0,AUS,Canberra,AIS Athletics Track,Outdoor,10G,6,
-13.79,AUS,Kerryn McCann Athletic Centre,2024-01-19,Male,AL,Tayleb,Willis,21.0,2003.0,AUS,Wollongong,Kerryn McCann Athletic Centre,Outdoor,11H,6,1.1
-2:16.95,AUS,Boston Univ. Track & Tennis Center,2024-02-10,Male,AL,Jack,Anstey,27.0,1997.0,USA,"Boston, MA",Boston Univ. Track & Tennis Center,Indoor,1K0,6,
-7.97,AUS,Glasgow Arena,2024-03-03,Female,AL,Michelle,Jenneke,31,1993,GBR,Glasgow,Glasgow Arena,Indoor,60H,6,
-2.36,NZL,Glasgow Arena,2024-03-03,Male,AL,Hamish,Kerr,28.0,1996.0,GBR,Glasgow,Glasgow Arena,Indoor,HOC,6,
-23.05,AUS,SA Athletic Stadium,2024-02-10,Female,AL,Torrie,Lewis,19.0,2005.0,AUS,Adelaide,SA Athletic Stadium,Outdoor,200,6,-1.5
-11:25.70,AUS,Queensland Sport and Athletics Centre,2024-02-03,Male,AL,Bailey,Housden,17.0,2007.0,AUS,"Nathan, Brisbane",Queensland Sport and Athletics Centre,Outdoor,3G,6,
-14:57.54,AUS,Lakeside Stadium,2024-02-15,Female,AL,Rose,Davies,25.0,1999.0,AUS,Melbourne,Lakeside Stadium,Outdoor,5K0,6,
-1:45.41,AUS,SA Athletic Stadium,2024-02-10,Male,AL,Peyton,Craig,19.0,2005.0,AUS,Adelaide,SA Athletic Stadium,Outdoor,800,6,
-7:42.56,JPN,Armory Track&Field Center,2024-02-11,Male,AL,Keita,Satoh,20.0,2004.0,USA,"New York, NY",Armory Track&Field Center,Indoor,3K0,5,
-45.83,SRI,Mahinda Rajapaksha Stadium,2024-03-02,Male,AL,Kalinga,Kumarage,32.0,1992.0,SRI,Diyagama,Mahinda Rajapaksha Stadium,Outdoor,400,5,
-39.35,KSA,McArthur Stadium,2024-03-14,Male,AL,,,,,RSA,Potchefstroom,McArthur Stadium,Outdoor,4×1,5,
-3:11.13,INT,Clemson Indoor Track & Field Complex,2024-01-13,Male,AL,,,,,USA,"Clemson, SC",Clemson Indoor Track & Field Complex,Indoor,4×4,,
-16.93,CHN,Glasgow Arena,2024-03-02,Male,AL,Yaoqing,Fang,28.0,1996.0,GBR,Glasgow,Glasgow Arena,Indoor,DRE,5,
-13:09.45,JPN,Boston Univ. Track & Tennis Center,2024-01-26,Male,AL,Keita,Satoh,20.0,2004.0,USA,"Boston, MA",Boston Univ. Track & Tennis Center,Indoor,5K0,5,
-10:10.08,IND,SAI Regional Centre Sarojini Nagar,2024-03-10,Female,AL,Ekta,Pradeep,19.0,2005.0,IND,Lucknow,SAI Regional Centre Sarojini Nagar,Outdoor,3KH,5,
-10.22,JPN,Nga Puna Wai Sports Hub,2024-02-24,Male,AL,Taju,Hongo,25.0,1999.0,NZL,Christchurch,Nga Puna Wai Sports Hub,Outdoor,100,5,1.3
-4:47.54,JPN,Vanderbilt Multipurpose Facility,2024-01-20,Female,AL,Helena,May Lindsay,,,USA,"Nashville, TN",Vanderbilt Multipurpose Facility,Indoor,MEI,5,
-8:42.49,JPN,AIS Athletics Track,2024-03-02,Male,AL,Yutaro,Niinae,23.0,2001.0,AUS,Canberra,AIS Athletics Track,Outdoor,3KH,5,
-7:28.54,TPE,Taipei Municipal Stadium,2024-02-01,Female,AL,Ying-Ying,Wang,15,2009,TPE,Taipei City,Taipei Municipal Stadium,Outdoor,2KH,5,
-71.67,CHN,Stadion Bürgerpark Nord,2024-02-03,Female,AL,Jiangyan,Li,25,1999,GER,Darmstadt,Stadion Bürgerpark Nord,Outdoor,HAM,5,
-24:52.18,KAZ,Athletic Center Olga Rypakova,2024-02-22,Female,AL,Sabrina,Arziyeva,18,2006,KAZ,Ust-Kamenogorsk,Athletic Center Olga Rypakova,Indoor,5G,5,
-35.56,QAT,McArthur Stadium,2024-02-06,Male,AL,,,,,RSA,Potchefstroom,McArthur Stadium,Outdoor,300,5,
-83.37,JPN,Douglas Track & Field,2024-03-10,Male,AL,Ryohei,Arai,33.0,1991.0,NZL,Auckland,Douglas Track & Field,Outdoor,SPE,5,
-7.2,IRI,Aftab Enghelab Sport Complex,2024-02-18,Female,AL,Fasihi,Farzaneh,31,1993,IRI,Tehran,Aftab Enghelab Sport Complex,Indoor,60M,5,
-1:18.29,JPN,SPIRE Institute Indoor Track & Field Facility,2024-02-23,Male,AL,Yukichi,Ishii,22.0,2002.0,USA,"Geneva, OH",SPIRE Institute Indoor Track & Field Facility,Indoor,600,5,
-13.19,JPN,Lakeside Stadium,2024-02-15,Female,AL,Yumi,Tanaka,26.0,1998.0,AUS,Melbourne,Lakeside Stadium,Outdoor,10H,5,0.3
-7.58,KUW,Helmut-Körnig-Halle,2024-01-20,Male,AL,Yaqoub,Alyouha,31.0,1993.0,GER,Dortmund,Helmut-Körnig-Halle,Indoor,60H,5,
-7.58,CHN,Track & Field complex QAZAQSTAN,2024-01-27,Male,AL,Junxi,Liu,21.0,2003.0,KAZ,Astana,Track & Field complex QAZAQSTAN,Indoor,60H,5,
-3:54.84,JPN,Boston Univ. Track & Tennis Center,2024-02-10,Male,AL,Ryoma,Aoki,27.0,1997.0,USA,"Boston, MA",Boston Univ. Track & Tennis Center,Indoor,MEI,5,
-48.68,QAT,McArthur Stadium,2024-03-14,Male,AL,Ismail,Doudai Abakar,20.0,2004.0,RSA,Potchefstroom,McArthur Stadium,Outdoor,40H,5,
-58.65,JPN,Douglas Track & Field,2024-03-10,Female,AL,Eri,Utsunomiya,31.0,1993.0,NZL,Auckland,Douglas Track & Field,Outdoor,40H,5,
-11.78,IRI,Jack Rose Track,2024-03-02,Female,AL,Maryam,Toosi,36.0,1988.0,USA,"Long Beach, CA",Jack Rose Track,Outdoor,100,5,1.1
-2:05.46,SRI,Mahinda Rajapaksha Stadium,2024-03-01,Female,AL,Nimali,Waliwarsha,35,1989,SRI,Diyagama,Mahinda Rajapaksha Stadium,Outdoor,800,5,
-53.22,JPN,Kyushu Kyoritsu University Stadium,2024-02-18,Female,AL,Nanaka,Kori,27.0,1997.0,JPN,Kitakyushu,Kyushu Kyoritsu University Stadium,Outdoor,DIS,5,
-5.93,PHI,Mercedes-Benz Arena,2024-02-23,Male,AL,Ernest,John Obiena,29.0,1995.0,GER,Berlin,Mercedes-Benz Arena,Indoor,STA,5,
-21.03,SRI,Mahinda Rajapaksha Stadium,2024-03-01,Male,AL,Aruna,Dharshana,25.0,1999.0,SRI,Diyagama,Mahinda Rajapaksha Stadium,Outdoor,200,5,0.2
-60.59,CHN,Jack Rose Track,2024-03-02,Male,AL,Abuduaini,Tuergong,27.0,1997.0,USA,"Long Beach, CA",Jack Rose Track,Outdoor,DIS,5,
-8.11,CHN,Xi'an,2024-03-02,Male,AL,Heng,Shu,20,2004,CHN,Xi'an,,Indoor,WEI,5,
-44:05.50,CHN,AIS Athletics Track,2024-01-27,Female,AL,Hong,Liu,37,1987,AUS,Canberra,AIS Athletics Track,Outdoor,10G,5,
-19.65,CHN,Turnhalle Am Regenbogen,2024-02-04,Female,AL,Lijiao,Gong,35.0,1989.0,GER,Rochlitz,Turnhalle Am Regenbogen,Indoor,KUG,5,
-8:36.03,JPN,Glasgow Arena,2024-03-02,Female,AL,Nozomi,Tanaka,25.0,1999.0,GBR,Glasgow,Glasgow Arena,Indoor,3K0,5,
-45.53,THA,Wan Chai Sports Ground,2024-03-10,Female,AL,,,,,HKG,Hong Kong,Wan Chai Sports Ground,Outdoor,4×1,5,
-4.51,CHN,Aftab Enghelab Sport Complex,2024-02-19,Female,AL,Ling,Li,35.0,1989.0,IRI,Tehran,Aftab Enghelab Sport Complex,Indoor,STA,5,
-30:14.00,IND,SAI Regional Centre Sarojini Nagar,2024-03-08,Male,AL,Vinod,Singh,19,2005,IND,Lucknow,SAI Regional Centre Sarojini Nagar,Outdoor,10K,5,
-59.23,JPN,Douglas Track & Field,2024-03-10,Female,AL,Yuka,Sato,32.0,1992.0,NZL,Auckland,Douglas Track & Field,Outdoor,SPE,5,
-70.25,CHN,Yunost Stadium,2024-02-18,Male,AL,Peixun,Li,24.0,2000.0,RUS,"Adler, Sochi",Yunost Stadium,Outdoor,HAM,5,
-13.81,CHN,Xipu Training Base Indoor Athletics Stadium,2024-02-28,Female,AL,Jie,Chen,26,1998,CHN,Chengdu,Xipu Training Base Indoor Athletics Stadium,Indoor,DRE,5,
-35:25.06,SRI,Mahinda Rajapaksha Stadium,2024-03-01,Female,AL,W.A.M.Rasara,Wijesuriya,22,2002,SRI,Diyagama,Mahinda Rajapaksha Stadium,Outdoor,10K,5,
-3:40.67,CHN,Xipu Training Base Indoor Athletics Stadium,2024-02-28,Female,AL,,,,,CHN,Chengdu,Xipu Training Base Indoor Athletics Stadium,Indoor,4×4,5,
-3:37.13,JPN,The Crest Athletics Centre,2024-02-22,Male,AL,Ryoji,Tatezawa,27.0,1997.0,AUS,"Bankstown, Sydney",The Crest Athletics Centre,Outdoor,1K5,5,
-6.5,OMA,Aftab Enghelab Sport Complex,2024-02-18,Male,AL,Ali,Anwar Ali Al Balushi,22,2002,IRI,Tehran,Aftab Enghelab Sport Complex,Indoor,60M,5,
-1.93,UZB,Športová hala Dukla,2024-02-13,Female,AL,Safina,Sadullayeva,26.0,1998.0,SVK,Banská Bystrica,Športová hala Dukla,Indoor,HOC,1,
-1:30.33,PHI,Rector Fieldhouse,2024-01-19,Female,AL,Lauren,Hoffman,25.0,1999.0,USA,"Blacksburg, VA",Rector Fieldhouse,Indoor,600,5,
-3:37.46,TPE,Taipei Municipal Stadium,2024-02-03,Mixed,AL,,,,,TPE,Taipei City,Taipei Municipal Stadium,Outdoor,4×4,5,
-4:08.46,JPN,The Track at New Balance,2024-02-04,Female,AL,Nozomi,Tanaka,25,1999,USA,"Boston, MA",The Track at New Balance,Indoor,1K5,5,
-21:46.37,KAZ,Athletic Center Olga Rypakova,2024-02-23,Male,AL,Zharylkasyn,Egizbay,18,2006,KAZ,Ust-Kamenogorsk,Athletic Center Olga Rypakova,Indoor,5G,5,
-6.55,CHN,Aftab Enghelab Sport Complex,2024-02-17,Female,AL,Shiqi,Xiong,20,2004,IRI,Tehran,Aftab Enghelab Sport Complex,Indoor,WEI,5,
-6.55,CHN,Xi'an,2024-03-03,Female,AL,Mengyi,Tan,22,2002,CHN,Xi'an,,Indoor,WEI,5,
-20.11,KSA,Stadium Miramas Métropole,2024-02-02,Male,AL,Mohamed,Daouda Tolo,23.0,2001.0,FRA,Miramas,Stadium Miramas Métropole,Indoor,KUG,5,
-53.1,CHN,Xipu Training Base Indoor Athletics Stadium,2024-02-28,Female,AL,Jiadie,Mo,24.0,2000.0,CHN,Chengdu,Xipu Training Base Indoor Athletics Stadium,Indoor,400,5,
-41:55.40,IND,SAI Regional Centre Sarojini Nagar,2024-03-09,Male,AL,Himanshu,Kumar,18,2006,IND,Lucknow,SAI Regional Centre Sarojini Nagar,Outdoor,10G,5,
-13.71,JPN,Nga Puna Wai Sports Hub,2024-02-24,Male,AL,Tatsuki,Abe,21.0,2003.0,NZL,Christchurch,Nga Puna Wai Sports Hub,Outdoor,11H,5,2.0
-2:22.12,JPN,Ashenfelter Indoor Track,2024-01-13,Male,AL,Yukichi,Ishii,22,2002,USA,"State College, PA",Ashenfelter Indoor Track,Indoor,1K0,5,
-8.09,JPN,Halle Michel d'Ornano,2024-02-07,Female,AL,Yumi,Tanaka,26,1998,FRA,Mondeville,Halle Michel d'Ornano,Indoor,60H,5,
-2.33,KOR,Městská sportovní hala,2024-02-10,Male,AL,Sanghyeok,Woo,28.0,1996.0,CZE,Hustopeče,Městská sportovní hala,Indoor,HOC,5,
-23.57,PHI,Randal Tyson Indoor Center,2024-02-16,Female,AL,Kristina,Marie Knott,29.0,1995.0,USA,"Fayetteville, AR",Randal Tyson Indoor Center,Indoor,200,5,
-15:26.06,CHN,Dempsey Indoor,2024-02-23,Female,AL,Wuga,He,26.0,1998.0,USA,"Seattle, WA",Dempsey Indoor,Indoor,5K0,5,
-1:46.64,QAT,Aspire Academy Warm Up Track,2024-03-07,Male,AL,Abraham,Dhuor Chout,20.0,2004.0,QAT,Doha,Aspire Academy Warm Up Track,Outdoor,800,5,
-7:30.14,GBR,Armory Track&Field Center,2024-02-11,Male,AL,Josh,Kerr,27,1997,USA,"New York, NY",Armory Track&Field Center,Indoor,3K0,1,
-1:35.42,GER,Quarterback Immobilien Arena,2024-02-18,Female,AL,,,,,GER,Leipzig,Quarterback Immobilien Arena,Indoor,4×2,1,
-45.25,BEL,Glasgow Arena,2024-03-02,Male,AL,Alexander,Doom,27,1997,GBR,Glasgow,Glasgow Arena,Indoor,400,1,
-38.79,DEN,McArthur Stadium,2024-03-14,Male,AL,,,,,RSA,Potchefstroom,McArthur Stadium,Outdoor,4×1,1,
-3:02.54,BEL,Glasgow Arena,2024-03-03,Male,AL,,,,,GBR,Glasgow,Glasgow Arena,Indoor,4×4,1,
-5:00.01,SWE,Arena Stade Couvert,2024-02-10,Male,AL,Samuel,Pihlström,23,2001,FRA,Liévin,Arena Stade Couvert,Indoor,2K0,1,
-17.61,ITA,Arena,2024-02-06,Male,AL,Andy,Díaz Hernández,29.0,1995.0,POL,Toruń,Arena,Indoor,DRE,1,
-12:58.68,GBR,Boston Univ. Track & Tennis Center,2024-01-26,Male,AL,George,Mills,25.0,1999.0,USA,"Boston, MA",Boston Univ. Track & Tennis Center,Indoor,5K0,1,
-6.39,SUI,Salle du Centre Mondial du Cyclisme,2024-01-20,Female,AL,Chloé,Rabac,19.0,2005.0,SUI,Aigle,Salle du Centre Mondial du Cyclisme,Indoor,50M,1,
-10.09,NED,McArthur Stadium,2024-02-14,Male,AL,Taymir,Burnet,32.0,1992.0,RSA,Potchefstroom,McArthur Stadium,Outdoor,100,1,1.9
-4:23.68,SWE,Armory Track&Field Center,2024-02-11,Female,AL,Yolanda,Ngarambe,33.0,1991.0,USA,"New York, NY",Armory Track&Field Center,Indoor,MEI,1,
-9:42.14,ESP,Lakeside Stadium,2024-02-25,Male,AL,Carlos,Rodriguez,32,1992,AUS,Melbourne,Lakeside Stadium,Outdoor,3KH,1,
-12:17.95,POR,Expocentro,2024-02-17,Female,AL,Vitória,Oliveira,32.0,1992.0,POR,Pombal,Expocentro,Indoor,3G,1,
-73.28,ROU,Stadionul Iolanda Balas Soter,2024-02-24,Female,AL,Bianca,Florentina Ghelber,34,1990,ROU,Bucureşti,Stadionul Iolanda Balas Soter,Outdoor,HAM,1,
-20:50.56,UKR,KMSHVSM Arena,2024-01-20,Female,AL,Lyudmila,Olyanovska,31,1993,UKR,Kyiv,KMSHVSM Arena,Indoor,5G,1,
-32.21,NED,Pilditch Stadium,2024-02-17,Male,AL,Liemarvin,Bonevacia,35.0,1989.0,RSA,Pretoria,Pilditch Stadium,Outdoor,300,1,
-90.2,GER,Werferzentrum Brandberge,2024-02-25,Male,AL,Max,Dehning,20.0,2004.0,GER,Halle,Werferzentrum Brandberge,Outdoor,SPE,1,
-6.98,POL,Glasgow Arena,2024-03-02,Female,AL,Ewa,Swoboda,27.0,1997.0,GBR,Glasgow,Glasgow Arena,Indoor,60M,1,
-35.52,POL,McArthur Stadium,2024-01-30,Female,AL,Natalia,Kaczmarek,26.0,1998.0,RSA,Potchefstroom,McArthur Stadium,Outdoor,300,1,
-1:15.09,RUS,SOK Luch,2024-01-07,Male,AL,Saveliy,Savlukov,24.0,2000.0,RUS,Yekaterinburg,SOK Luch,Indoor,600,1,
-13.54,LUX,Nga Puna Wai Sports Hub,2024-02-24,Female,AL,Victoria,Rausch,28,1996,NZL,Christchurch,Nga Puna Wai Sports Hub,Outdoor,10H,1,1.5
-2:37.57,ESP,Centro de Tecnificación de Atletismo,2024-01-13,Female,AL,Esther,Guerrero,34.0,1990.0,ESP,Antequera,Centro de Tecnificación de Atletismo,Indoor,1K0,1,
-7.43,FRA,Arena Stade Couvert,2024-02-10,Male,AL,Just,Kwaou-Mathey,25,1999,FRA,Liévin,Arena Stade Couvert,Indoor,60H,1,
-7.43,SUI,Athletik Zentrum,2024-02-18,Male,AL,Jason,Joseph,26,1998,SUI,St. Gallen,Athletik Zentrum,Indoor,60H,1,
-7.43,ITA,Glasgow Arena,2024-03-02,Male,AL,Lorenzo,Ndele Simonelli,22,2002,GBR,Glasgow,Glasgow Arena,Indoor,60H,1,
-3:48.93,GBR,Armory Track&Field Center,2024-02-11,Male,AL,George,Mills,25.0,1999.0,USA,"New York, NY",Armory Track&Field Center,Indoor,MEI,1,
-53.49,FRA,Pilditch Stadium,2024-03-02,Male,AL,Stephane,Yato,32,1992,RSA,Pretoria,Pilditch Stadium,Outdoor,40H,1,
-58.58,FRA,Douglas Track & Field,2024-03-10,Female,AL,Loan,Ville,21,2003,NZL,Auckland,Douglas Track & Field,Outdoor,40H,1,
-5:57.76,POL,Hala COS OPO,2024-01-28,Female,AL,Julia,Jaguścik,21.0,2003.0,POL,Spala,Hala COS OPO,Indoor,2K0,1,
-11.17,GER,McArthur Stadium,2024-02-06,Female,AL,Rebekka,Haase,31.0,1993.0,RSA,Potchefstroom,McArthur Stadium,Outdoor,100,1,-1.5
-1:25.40,GER,Quarterback Immobilien Arena,2024-02-18,Male,AL,,,,,GER,Leipzig,Quarterback Immobilien Arena,Indoor,4×2,1,
-1:58.24,GBR,Arena Birmingham,2024-02-18,Female,AL,Jemma,Reekie,26,1998,GBR,Birmingham,Arena Birmingham,Indoor,800,1,
-66.6,POR,Estádio Dr. Magalhães Pessoa,2024-03-10,Female,AL,Irina,Rodrigues,33.0,1991.0,POR,Leiria,Estádio Dr. Magalhães Pessoa,Outdoor,DIS,1,
-6.05,SWE,Glasgow Arena,2024-03-03,Male,AL,Armand,Duplantis,25.0,1999.0,GBR,Glasgow,Glasgow Arena,Indoor,STA,1,
-20.3,NED,McArthur Stadium,2024-02-14,Male,AL,Taymir,Burnet,32,1992,RSA,Potchefstroom,McArthur Stadium,Outdoor,200,1,0.0
-66.07,ROU,Estádio Dr. Magalhães Pessoa,2024-03-09,Male,AL,Alin,Alexandru Firfirica,29.0,1995.0,POR,Leiria,Estádio Dr. Magalhães Pessoa,Outdoor,DIS,1,
-8.34,ITA,Palaindoor Ancona,2024-02-17,Male,AL,Mattia,Furlani,19.0,2005.0,ITA,Ancona,Palaindoor Ancona,Indoor,WEI,1,
-43:35.52,FRA,AIS Athletics Track,2024-01-27,Female,AL,Clémence,Beretta,27,1997,AUS,Canberra,AIS Athletics Track,Outdoor,10G,1,
-5.93,ITA,Palalottici,2024-01-27,Male,AL,Pietro,Bazzoni,24.0,2000.0,ITA,Parma,Palalottici,Indoor,50M,1,
-20.31,NED,Omnisport,2024-02-17,Female,AL,Jessica,Schilder,25,1999,NED,Apeldoorn,Omnisport,Indoor,KUG,1,
-8:29.76,GBR,Glasgow Arena,2024-03-02,Female,AL,Laura,Muir,31,1993,GBR,Glasgow,Glasgow Arena,Indoor,3K0,1,
-44.44,EST,Botniahallen,2024-01-13,Female,AL,,,,,FIN,Mustasaari,Botniahallen,Outdoor,4×1,1,
-4.86,GBR,Complexe Kindarena,2024-02-24,Female,AL,Molly,Caudery,24.0,2000.0,FRA,Rouen,Complexe Kindarena,Indoor,STA,1,
-27:53.26,ESP,Estadi Municipal La Bòbila,2024-03-02,Male,AL,Ilias,Fifa,35.0,1989.0,ESP,Gavá,Estadi Municipal La Bòbila,Outdoor,10K,1,
-61.69,NOR,Estádio Dr. Magalhães Pessoa,2024-03-09,Female,AL,Marie-Therese,Obst,28.0,1996.0,POR,Leiria,Estádio Dr. Magalhães Pessoa,Outdoor,SPE,1,
-80.11,BLR,Regional Sport Complex,2024-02-21,Male,AL,Aliaksandr,Shymanovich,26,1998,BLR,Brest,Regional Sport Complex,Outdoor,HAM,1,
-6.99,CRO,Velesajam Hall,2024-02-03,Male,AL,Lukas,Cik,22.0,2002.0,CRO,Zagreb,Velesajam Hall,Indoor,50H,1,
-14.75,ESP,Glasgow Arena,2024-03-03,Female,AL,Ana,Peleteiro-Compaoré,29,1995,GBR,Glasgow,Glasgow Arena,Indoor,DRE,1,
-32:14.43,ESP,Estadi Municipal La Bòbila,2024-03-02,Female,AL,Carolina,Robles,33,1991,ESP,Gavá,Estadi Municipal La Bòbila,Outdoor,10K,1,
-7.04,AUT,GSG9-Halle,2024-01-16,Female,AL,Karin,Strametz,26.0,1998.0,AUT,Wien,GSG9-Halle,Indoor,50H,1,
-3:25.07,NED,Glasgow Arena,2024-03-03,Female,AL,,,,,GBR,Glasgow,Glasgow Arena,Indoor,4×4,1,
-3:33.86,GBR,Armory Track&Field Center,2024-02-11,Male,AL,George,Mills,25,1999,USA,"New York, NY",Armory Track&Field Center,Indoor,1K5,1,
-6.53,ITA,Glasgow Arena,2024-03-01,Male,AL,Chituru,Ali,25.0,1999.0,GBR,Glasgow,Glasgow Arena,Indoor,60M,1,
-2.04,UKR,Lausitz-Arena,2024-01-31,Female,AL,Yaroslava,Mahuchikh,23.0,2001.0,GER,Cottbus,Lausitz-Arena,Indoor,HOC,1,
-1:26.38,SUI,Halle End der Welt,2024-01-28,Female,AL,Audrey,Werro,20.0,2004.0,SUI,Magglingen,Halle End der Welt,Indoor,600,1,
-3:27.27,IRL,National Indoor Arena,2024-02-28,Mixed,AL,,,,,IRL,"Abbotstown, Dublin",National Indoor Arena,Indoor,4×4,1,
-4:03.22,GBR,Sätrahallen,2024-02-03,Female,AL,Georgia,Bell,31.0,1993.0,SWE,Stockholm,Sätrahallen,Indoor,1K5,1,
-18:25.15,ITA,Palaindoor Ancona,2024-02-17,Male,AL,Francesco,Fortunato,30.0,1994.0,ITA,Ancona,Palaindoor Ancona,Indoor,5G,1,
-6.95,GER,Mercedes-Benz Arena,2024-02-23,Female,AL,Malaika,Mihambo,30.0,1994.0,GER,Berlin,Mercedes-Benz Arena,Indoor,WEI,1,
-22.37,ITA,Arena Stade Couvert,2024-02-10,Male,AL,Leonardo,Fabbri,27.0,1997.0,FRA,Liévin,Arena Stade Couvert,Indoor,KUG,1,
-49.17,NED,Glasgow Arena,2024-03-02,Female,AL,Femke,Bol,24.0,2000.0,GBR,Glasgow,Glasgow Arena,Indoor,400,1,
-39:49.64,UKR,KMSHVSM Arena,2024-02-03,Male,AL,Ivan,Banzeruk,34.0,1990.0,UKR,Kyiv,KMSHVSM Arena,Indoor,10G,1,
-13.45,FRA,WA Sports Centre,2024-02-25,Male,AL,Sasha,Zhoya,22,2002,AUS,Perth,WA Sports Centre,Outdoor,11H,1,-2.1
-2:17.17,BEL,Topsporthal Vlaanderen,2024-02-03,Male,AL,Pieter,Sisk,25.0,1999.0,BEL,Gent,Topsporthal Vlaanderen,Indoor,1K0,1,
-7.73,FRA,Glasgow Arena,2024-03-03,Female,AL,Cyréna,Samba-Mayela,24,2000,GBR,Glasgow,Glasgow Arena,Indoor,60H,1,
-2.33,RUS,Salyut Geraklion Arena,2024-01-28,Male,AL,Danil,Lysenko,27.0,1997.0,RUS,Moskva,Salyut Geraklion Arena,Indoor,HOC,1,
-22.6,GBR,Randal Tyson Indoor Center,2024-01-26,Female,AL,Amber,Anning,24.0,2000.0,USA,"Fayetteville, AR",Randal Tyson Indoor Center,Indoor,200,1,
-10:44.00,GER,Hartwig-Gauder-Halle,2024-02-02,Male,AL,Christopher,Linke,36.0,1988.0,GER,Erfurt,Hartwig-Gauder-Halle,Indoor,3G,1,
-14:46.37,ESP,Boston Univ. Track & Tennis Center,2024-01-27,Female,AL,Marta,García,26.0,1998.0,USA,"Boston, MA",Boston Univ. Track & Tennis Center,Indoor,5K0,1,
-1:45.00,ITA,Gallur,2024-02-23,Male,AL,Catalin,Tecuceanu,25,1999,ESP,Madrid,Gallur,Indoor,800,1,
+code,type,discipline,result,wind,venue,venueCountry,venueCity,environment,date,name,firstname,lastname,nation,yearOfBirth,sex
+AL,2,3K0,7:30.88,,Armory Track&Field Center,USA,"New York, NY",Indoor,2024-02-11,,Grant,Fisher,USA,1997.0,Male
+AL,,4×2,1:34.78,,Armory Track&Field Center,USA,"New York, NY",Indoor,2024-02-11,,,,INT,,Female
+AL,2,400,44.49,,Randal Tyson Indoor Center,USA,"Fayetteville, AR",Indoor,2024-02-24,,Christopher,Morales-Williams,CAN,2004.0,Male
+AL,2,4×1,38.93,,GC Foster College,JAM,Spanish Town,Outdoor,2024-01-20,,,,JAM,,Male
+AL,,4×4,3:02.35,,The Track at New Balance,USA,"Boston, MA",Indoor,2024-03-09,,,,INT,,Male
+AL,2,4×8,7:26.90,,Gately Indoor TF Center,USA,"Chicago, IL",Indoor,2024-02-24,,,,USA,,Male
+AL,2,DRE,16.88,,Glasgow Arena,GBR,Glasgow,Indoor,2024-03-02,,Donald,Scott,USA,1992.0,Male
+AL,2,5K0,12:51.84,,Boston Univ. Track & Tennis Center,USA,"Boston, MA",Indoor,2024-02-16,,Grant,Fisher,USA,1997.0,Male
+AL,2,50M,6.33,,GSG9-Halle,AUT,Wien,Indoor,2024-01-16,,Christania,Williams,JAM,1994.0,Female
+AL,2,3KH,11:24.11,,Jack Rose Track,USA,"Long Beach, CA",Outdoor,2024-03-02,,Allison,Montgomery,USA,,Female
+AL,2,100,10.14,1.8,Tom Tellez Track,USA,"Houston, TX",Outdoor,2024-03-14,,Josephus,Lyles,USA,1998.0,Male
+AL,2,MEI,4:16.41,,Armory Track&Field Center,USA,"New York, NY",Indoor,2024-02-11,,Elle,St. Pierre,USA,1995.0,Female
+AL,2,3KH,9:20.13,,Pista UAGM,PUR,Gurabo,Outdoor,2024-02-24,,Paulo,Gomez,PUR,,Male
+AL,2,3G,13:55.24,,Convention Center,USA,"Albuquerque, NM",Indoor,2024-02-16,,Miranda,Melville,USA,1989.0,Female
+AL,2,2KH,7:12.40,,National Stadium,JAM,Kingston,Outdoor,2024-02-03,,Sushana,Johnson,JAM,2007.0,Female
+AL,2,HAM,59.35,,Tom Tellez Track,USA,"Houston, TX",Outdoor,2024-03-14,,Mikaila,Alexis Martin,USA,1997.0,Female
+AL,2,5G,25:52.15,,Unidad Deportiva Agustín Flores,MEX,Puerto Vallarta,Outdoor,2024-02-04,,Naomi,Luis,MEX,,Female
+AL,,4×8,8:44.66,,Gately Indoor TF Center,USA,"Chicago, IL",Indoor,2024-02-24,,,,INT,,Female
+AL,2,300,32.36,,Clemson Indoor Track & Field Complex,USA,"Clemson, SC",Indoor,2024-01-13,,Brian,Faust,USA,1999.0,Male
+AL,2,SPE,80.69,,Kirani James Athletic Stadium,GRN,St. George's,Outdoor,2024-03-03,,Anderson,Peters,GRN,1997.0,Male
+AL,2,60M,6.98,,Glasgow Arena,GBR,Glasgow,Indoor,2024-03-02,,Julien,Alfred,LCA,2001.0,Female
+AL,2,300,35.75,,The Track at New Balance,USA,"Boston, MA",Indoor,2024-02-04,,Gabrielle,Thomas,USA,1996.0,Female
+AL,2,600,1:14.03,,Convention Center,USA,"Albuquerque, NM",Indoor,2024-02-09,,Brandon,Miller,USA,2003.0,Male
+AL,2,10H,12.95,1.9,National Stadium,JAM,Kingston,Outdoor,2024-03-03,,Habiba,Harris,JAM,2005.0,Female
+AL,2,1K0,2:34.09,,Dempsey Indoor,USA,"Seattle, WA",Indoor,2024-01-26,,Nikki,Hiltz,USA,1994.0,Female
+AL,2,60H,7.27,,Convention Center,USA,"Albuquerque, NM",Indoor,2024-02-16,,Grant,Holloway,USA,1997.0,Male
+AL,2,MEI,3:47.83,,Armory Track&Field Center,USA,"New York, NY",Indoor,2024-02-11,,Yared,Nuguse,USA,1999.0,Male
+AL,2,40H,50.73,,National Stadium,JAM,Kingston,Outdoor,2024-02-17,,Antonio,Forbes,JAM,2004.0,Male
+AL,2,40H,58.02,,National Stadium,JAM,Kingston,Outdoor,2024-03-02,,Kelly,Ann Carr,JAM,2006.0,Female
+AL,2,2K0,6:30.37,,Track and Field Centre,CAN,Toronto,Indoor,2024-01-13,,Maria,Linton,CAN,,Female
+AL,2,100,11.25,1.0,National Stadium,JAM,Kingston,Outdoor,2024-03-01,,Thieanna,Lee Terrelonge,JAM,2007.0,Female
+AL,2,4×2,1:25.65,,Doug Shaw Memorial Stadium,USA,"Myrtle Beach, SC",Outdoor,2024-03-08,,,,USA,,Male
+AL,2,800,1:58.27,,Dempsey Indoor,USA,"Seattle, WA",Indoor,2024-02-24,,Nia,Akins,USA,1998.0,Female
+AL,2,DIS,63.76,,Pista Carlos Lopes,POR,Torres Vedras,Outdoor,2024-01-20,,Denia,Caballero,CUB,1990.0,Female
+AL,2,STA,6.0,,Convention Center,USA,"Albuquerque, NM",Indoor,2024-02-16,,Christopher,Nilsen,USA,1998.0,Male
+AL,2,200,20.21,,Arena Stade Couvert,FRA,Liévin,Indoor,2024-02-10,,Erriyon,Knighton,USA,2004.0,Male
+AL,2,200,20.21,,Sports Performance Center,USA,"Lubbock, TX",Indoor,2024-02-24,,Terrence,Jones,BAH,2002.0,Male
+AL,2,DIS,67.83,,GC Foster College,JAM,Spanish Town,Outdoor,2024-03-09,,Traves,Smikle,JAM,1992.0,Male
+AL,2,WEI,8.4,,The Track at New Balance,USA,"Boston, MA",Indoor,2024-03-08,,Wayne,Pinnock,JAM,2000.0,Male
+AL,2,10G,47:21.87,,Unidad Deportiva Agustín Flores,MEX,Puerto Vallarta,Outdoor,2024-02-03,,Maria,Fernanda Santiago,MEX,2004.0,Female
+AL,2,50M,5.76,,Field House,CAN,Saskatoon,Indoor,2024-01-26,,JaVaughn,Moore,USA,2000.0,Male
+AL,2,KUG,20.22,,Glasgow Arena,GBR,Glasgow,Indoor,2024-03-01,,Sarah,Mitton,CAN,1996.0,Female
+AL,2,3K0,8:20.87,,Glasgow Arena,GBR,Glasgow,Indoor,2024-03-02,,Elle,St. Pierre,USA,1995.0,Female
+AL,2,4×1,45.25,,Pista Atletica Raul Rodriguez,PUR,Villalba,Outdoor,2024-03-09,,,,PUR,,Female
+AL,2,STA,4.83,,Maison des Sports,FRA,Clermont-Ferrand,Indoor,2024-02-22,,Alysha,Newman,CAN,1994.0,Female
+AL,2,STA,4.83,,Maison des Sports,FRA,Clermont-Ferrand,Indoor,2024-02-22,,Bridget,Williams,USA,1996.0,Female
+AL,2,10K,29:56.83,,Unidad Deportiva Agustín Flores,MEX,Puerto Vallarta,Outdoor,2024-02-04,,Victor,Daniel Gomez,MEX,,Male
+AL,2,SPE,63.9,,Pista La Salobreja,ESP,Jaén,Outdoor,2024-02-24,,Yulenmis,Aguilar,CUB,1996.0,Female
+AL,2,HAM,74.3,,Centro Deportivo Olímpico Mexicano,MEX,Ciudad de México,Outdoor,2024-01-20,,Diego,Del Real,MEX,1994.0,Male
+AL,2,DRE,15.01,,Glasgow Arena,GBR,Glasgow,Indoor,2024-03-03,,Thea,Lafond,DMA,1994.0,Female
+AL,2,10K,35:35.39,,Macrocentro Deportivo León,MEX,León,Outdoor,2024-01-19,,Arian,Iveth Chia Hernández,MEX,2001.0,Female
+AL,2,4×4,3:25.34,,Glasgow Arena,GBR,Glasgow,Indoor,2024-03-03,,,,USA,,Female
+AL,2,1K5,3:33.43,,Armory Track&Field Center,USA,"New York, NY",Indoor,2024-02-11,,Yared,Nuguse,USA,1999.0,Male
+AL,2,60M,6.41,,Glasgow Arena,GBR,Glasgow,Indoor,2024-03-01,,Christian,Coleman,USA,1996.0,Male
+AL,2,HOC,2.0,,Randal Tyson Indoor Center,USA,"Fayetteville, AR",Indoor,2024-02-24,,Lamara,Distin,JAM,2000.0,Female
+AL,2,HOC,2.0,,The Track at New Balance,USA,"Boston, MA",Indoor,2024-03-09,,Rachel,Glenn,USA,2002.0,Female
+AL,2,600,1:24.32,,Convention Center,USA,"Albuquerque, NM",Indoor,2024-02-09,,Nia,Akins,USA,1998.0,Female
+AL,2,4×4,3:32.21,,Pista Atletica Raul Rodriguez,PUR,Villalba,Outdoor,2024-03-09,,,,PUR,,Mixed
+AL,2,1K5,4:00.34,,Armory Track&Field Center,USA,"New York, NY",Indoor,2024-02-11,,Elle,St. Pierre,USA,1995.0,Female
+AL,2,2KH,6:06.79,,GC Foster College,JAM,Spanish Town,Outdoor,2024-01-20,,Nellie,Ambriton,VIN,2004.0,Male
+AL,2,WEI,7.18,,Convention Center,USA,"Albuquerque, NM",Indoor,2024-02-16,,Tara,Davis-Woodhall,USA,1999.0,Female
+AL,2,KUG,22.8,,Convention Center,USA,"Albuquerque, NM",Indoor,2024-02-17,,Ryan,Crouser,USA,1992.0,Male
+AL,2,400,50.24,,Glasgow Arena,GBR,Glasgow,Indoor,2024-03-02,,Alexis,Holmes,USA,2000.0,Female
+AL,2,10G,38:25.42,,AIS Athletics Track,AUS,Canberra,Outdoor,2024-01-28,,Evan,Dunfee,CAN,1990.0,Male
+AL,2,11H,14.2,1.5,Jack Rose Track,USA,"Long Beach, CA",Outdoor,2024-03-02,,Nnamdi,Onwaeze,USA,,Male
+AL,2,1K0,2:14.74,,The Track at New Balance,USA,"Boston, MA",Indoor,2024-02-04,,Marco,Arop,CAN,1998.0,Male
+AL,2,60H,7.65,,Glasgow Arena,GBR,Glasgow,Indoor,2024-03-03,,Devynne,Charlton,BAH,1995.0,Female
+AL,2,HOC,2.33,,Městská sportovní hala,CZE,Hustopeče,Indoor,2024-02-10,,Shelby,Mcewen,USA,1996.0,Male
+AL,2,200,22.16,,Convention Center,USA,"Albuquerque, NM",Indoor,2024-02-02,,Julien,Alfred,LCA,2001.0,Female
+AL,2,3G,11:56.06,,Convention Center,USA,"Albuquerque, NM",Indoor,2024-02-16,,Nick,Christie,USA,1991,Male
+AL,2,5K0,14:46.51,,Boston Univ. Track & Tennis Center,USA,"Boston, MA",Indoor,2024-01-27,,Josette,Andrews,USA,1995.0,Female
+AL,2,800,1:44.92,,Glasgow Arena,GBR,Glasgow,Indoor,2024-03-03,,Bryce,Hoppel,USA,1997.0,Male
+AL,3,3K0,8:20.02,,National Indoor Arena,IRL,"Abbotstown, Dublin",Indoor,2024-02-18,,Juan,Peña,CHI,1991.0,Male
+AL,3,400,44.52,,COTP Stadium,BRA,São Paulo,Outdoor,2024-03-02,,Matheus,Lima,BRA,2003.0,Male
+AL,3,4×1,39.67,,Pista de Atletismo SND,PAR,Asunción,Outdoor,2024-03-02,,,,PAR,,Male
+AL,,4×4,3:11.13,,Clemson Indoor Track & Field Complex,USA,"Clemson, SC",Indoor,2024-01-13,,,,INT,,Male
+AL,3,DRE,16.63,,Glasgow Arena,GBR,Glasgow,Indoor,2024-03-02,,Almir,Dos Santos,BRA,1993.0,Male
+AL,3,5K0,13:59.91,,"R.A. ""Murray"" Fasken Indoor Track Stadium",USA,"College Station, TX",Indoor,2024-02-02,,Tomas,Vega,ARG,2002,Male
+AL,3,3KH,10:30.58,,Estadio de Atletismo La Flora,COL,Bucaramanga,Outdoor,2024-03-01,,Stefany,López Mendoza,COL,2002,Female
+AL,3,100,10.23,1.2,National Track and Field Centre,GUY,Leonora,Outdoor,2024-03-02,,Noelex,Holder,GUY,1999.0,Male
+AL,3,MEI,4:33.04,,Dempsey Indoor,USA,"Seattle, WA",Indoor,2024-02-10,,Carmen,Alder Caisalitin,ECU,2003.0,Female
+AL,3,3KH,9:14.69,,Estadio de Atletismo La Flora,COL,Bucaramanga,Outdoor,2024-03-01,,Frank,Geovani Duran,COL,2001,Male
+AL,3,3G,15:45.12,,Pista Atlética Lázaro Escobar,CHI,Temuco,Outdoor,2024-03-02,,Daniela,Paz,CHI,2004,Female
+AL,3,2KH,7:41.50,,Estadio Brigido Iriarte,VEN,Caracas,Outdoor,2024-01-12,,Albanis,Santana,VEN,,Female
+AL,3,HAM,66.61,,Pista Atlética Lázaro Escobar,CHI,Temuco,Outdoor,2024-03-02,,Mariana,García,CHI,1999,Female
+AL,3,5G,23:56.70,,Estadio Municipal de Coronel,CHI,Los Angeles,Outdoor,2024-03-02,,Anastasia,Sanzana,CHI,1998,Female
+AL,3,300,33.7,,Clemson Indoor Track & Field Complex,USA,"Clemson, SC",Indoor,2024-01-13,,Arinze,Chance,GUY,1996,Male
+AL,3,SPE,76.61,,Centro de Treinamento Paralímpico Brasileiro,BRA,São Paulo,Outdoor,2024-03-03,,Luiz,Mauricio Da Silva,BRA,2000.0,Male
+AL,3,60M,7.27,,Pista de Atletismo do CNTA,BRA,Cascavel,Indoor,2024-02-17,,Anny,Caroline De Bassi,BRA,1997.0,Female
+AL,3,600,1:19.76,,Vanderbilt Multipurpose Facility,USA,"Nashville, TN",Indoor,2024-02-09,,José,Guillermo Peñalver,VEN,2000,Male
+AL,3,10H,13.38,0.0,COTP Stadium,BRA,São Paulo,Outdoor,2024-02-17,,Adelly,Oliveira Brito,BRA,1987.0,Female
+AL,3,1K0,2:47.49,,Sports Performance Center,USA,"Lubbock, TX",Indoor,2024-02-23,,Carmen,Alder Caisalitin,ECU,2003.0,Female
+AL,3,60H,7.58,,Gobierno Autónomo Municipal de Cochabamba,BOL,Cochabamba,Indoor,2024-01-28,,Eduardo,Rodrigues,BRA,1995.0,Male
+AL,3,MEI,4:10.15,,National Indoor Arena,IRL,"Abbotstown, Dublin",Indoor,2024-02-07,,Juan,Peña,CHI,1991,Male
+AL,3,40H,50.17,,Centro de Atletismo Professor Oswaldo Terra,BRA,Sao Bernardo do Campo,Outdoor,2024-03-09,,Francisco,Guilherme Dos Reis Viana,BRA,1999.0,Male
+AL,3,40H,56.48,,COTP Stadium,BRA,São Paulo,Outdoor,2024-02-24,,Chayenne,Da Silva,BRA,2000.0,Female
+AL,3,100,11.37,0.4,COTP Stadium,BRA,São Paulo,Outdoor,2024-03-02,,Gabriela,Aline Grunow,BRA,1998.0,Female
+AL,3,800,2:04.56,,Bob Devaney Sports Center,USA,"Lincoln, NE",Indoor,2024-02-03,,Aaliyah,Moore,GUY,,Female
+AL,3,DIS,61.55,,Centro de Treinamento Paralímpico Brasileiro,BRA,São Paulo,Outdoor,2024-03-03,,Izabela,Da Silva,BRA,1995.0,Female
+AL,3,STA,5.45,,GVSU Kelly Family Sports Cente,USA,"Allendale, MI",Indoor,2024-02-10,,José,Tomas Nieto,COL,2001.0,Male
+AL,3,200,20.45,1.9,Centro de Treinamento Paralímpico Brasileiro,BRA,São Paulo,Outdoor,2024-02-25,,Renan,Correa,BRA,2004.0,Male
+AL,3,DIS,58.68,,Centro de Treinamento Paralímpico Brasileiro,BRA,São Paulo,Outdoor,2024-03-03,,Douglas,Junior,BRA,1995,Male
+AL,3,WEI,8.16,,Gobierno Autónomo Municipal de Cochabamba,BOL,Cochabamba,Indoor,2024-01-25,,Arnovis,Dalmero,COL,2000.0,Male
+AL,3,10G,43:27.48,,AIS Athletics Track,AUS,Canberra,Outdoor,2024-01-27,,Lorena,Arenas,COL,1993,Female
+AL,3,KUG,17.74,,Gobierno Autónomo Municipal de Cochabamba,BOL,Cochabamba,Indoor,2024-01-27,,Ivana,Xennia Gallardo,CHI,1993,Female
+AL,3,3K0,9:12.96,,Pista Prado,URU,Montevideo,Outdoor,2024-03-10,,María,Pía Fernández,URU,1995.0,Female
+AL,3,4×1,48.5,,Estadio de Atletismo - Unidad Deportiva el Salitre,COL,Bogotá,Outdoor,2024-02-23,,,,COL,,Female
+AL,3,STA,4.41,,Dvorane Gradski Vrt,CRO,Osijek,Indoor,2024-02-20,,Juliana,De Menis Campos,BRA,1996,Female
+AL,3,10K,31:20.55,,Estadio de Atletismo La Flora,COL,Bucaramanga,Outdoor,2024-03-01,,Javier,Peñaloza,COL,2000,Male
+AL,3,SPE,61.34,,Centro de Atletismo Professor Oswaldo Terra,BRA,Sao Bernardo do Campo,Outdoor,2024-03-09,,Jucilene,Sales De Lima,BRA,1990,Female
+AL,3,HAM,70.47,,Centro de Atletismo Professor Oswaldo Terra,BRA,Sao Bernardo do Campo,Outdoor,2024-03-09,,Allan,Wolski,BRA,1990,Male
+AL,3,DRE,14.04,,Gobierno Autónomo Municipal de Cochabamba,BOL,Cochabamba,Indoor,2024-01-28,,Gabriele,Santos,BRA,1995.0,Female
+AL,3,10K,35:09.61,,Estadio de Atletismo La Flora,COL,Bucaramanga,Outdoor,2024-03-01,,Muriel,Coneo Paredes,COL,1987,Female
+AL,3,4×4,3:52.49,,Gobierno Autónomo Municipal de Cochabamba,BOL,Cochabamba,Indoor,2024-01-28,,,,BOL,,Female
+AL,3,1K5,3:45.98,,CNDA,BRA,Bragança Paulista,Outdoor,2024-01-10,,Thiago,André,BRA,1995.0,Male
+AL,3,60M,6.58,,Gobierno Autónomo Municipal de Cochabamba,BOL,Cochabamba,Indoor,2024-01-27,,Felipe,Bardi,BRA,1998.0,Male
+AL,3,HOC,1.87,,Centro de Atletismo Professor Oswaldo Terra,BRA,Sao Bernardo do Campo,Outdoor,2024-03-09,,Valdileia,Martins,BRA,1989.0,Female
+AL,3,600,1:32.84,,Gladstein Fieldhouse Indiana Un.,USA,"Bloomington, IN",Indoor,2024-01-19,,Kenisha,Phillips,GUY,2001,Female
+AL,3,1K5,4:17.14,,Glasgow Arena,GBR,Glasgow,Indoor,2024-03-01,,Fedra,Aldana Luna,ARG,1995,Female
+AL,3,2KH,5:47.06,,Estadio Brigido Iriarte,VEN,Caracas,Outdoor,2024-01-12,,Jose,Gonzalez,VEN,1994.0,Male
+AL,3,WEI,6.63,1.7,Pista de Atletismo - Parque Deportivo,COL,Ibagué,Outdoor,2024-03-09,,Natalia,Linares,COL,2003.0,Female
+AL,3,KUG,21.11,,Glasgow Arena,GBR,Glasgow,Indoor,2024-03-01,,Darlan,Romani,BRA,1991.0,Male
+AL,3,400,51.72,,SPIRE Institute Indoor Track & Field Facility,USA,"Geneva, OH",Indoor,2024-02-24,,Kenisha,Phillips,GUY,2001.0,Female
+AL,3,11H,13.38,0.7,COTP Stadium,BRA,São Paulo,Outdoor,2024-02-17,,Eduardo,Rodrigues,BRA,1995,Male
+AL,3,1K0,2:29.36,,Pista Prado,URU,Montevideo,Outdoor,2024-02-17,,Gonzalo,Gervasini,URU,2005,Male
+AL,3,60H,8.07,,Bob Devaney Sports Center,USA,"Lincoln, NE",Indoor,2024-02-03,,Yoveinny,Mota,VEN,2000.0,Female
+AL,3,HOC,2.21,,Gobierno Autónomo Municipal de Cochabamba,BOL,Cochabamba,Indoor,2024-01-28,,Fernando,Ferreira,BRA,1994.0,Male
+AL,3,200,23.75,0.9,National Track and Field Centre,GUY,Leonora,Outdoor,2024-03-03,,Tianna,Springer,GUY,2007.0,Female
+AL,3,3G,13:05.93,,Pista Atlética Lázaro Escobar,CHI,Temuco,Outdoor,2024-03-02,,Luis,Navarrete Contreras,CHI,2003,Male
+AL,3,5K0,16:40.37,,Estadio de Atletismo La Flora,COL,Bucaramanga,Outdoor,2024-03-03,,Muriel,Coneo Paredes,COL,1987,Female
+AL,3,800,1:49.56,,COTP Stadium,BRA,São Paulo,Outdoor,2024-02-24,,Thiago,André,BRA,1995.0,Male
+AL,4,3K0,7:25.82,,Arena,POL,Toruń,Indoor,2024-02-06,,Selemon,Barega,ETH,2000.0,Male
+AL,4,400,45.16,,Pilditch Stadium,RSA,Pretoria,Outdoor,2024-02-10,,Bayapo,Ndori,BOT,1999.0,Male
+AL,4,4×1,39.21,,McArthur Stadium,RSA,Potchefstroom,Outdoor,2024-03-14,,,,RSA,,Male
+AL,4,4×4,3:04.99,,Ulinzi Sports Complex,KEN,"Langata, Nairobi",Outdoor,2024-01-06,,,,KEN,,Male
+AL,4,2K0,4:51.23,,Arena Stade Couvert,FRA,Liévin,Indoor,2024-02-10,,Lamecha,Girma,ETH,2000,Male
+AL,4,DRE,17.53,,Glasgow Arena,GBR,Glasgow,Indoor,2024-03-02,,Hugues,Fabrice Zango,BUR,1993.0,Male
+AL,4,5K0,12:56.76,,Boston Univ. Track & Tennis Center,USA,"Boston, MA",Indoor,2024-01-26,,Adriaan,Wildschutt,RSA,1998.0,Male
+AL,4,50M,6.73,,Salle du Centre Mondial du Cyclisme,SUI,Aigle,Indoor,2024-01-20,,Anastasie,Tsogo,CMR,2003,Female
+AL,4,3KH,9:43.05,,Nyayo National Stadium,KEN,Nairobi,Outdoor,2024-03-06,,Caren,Chebet,KEN,2000.0,Female
+AL,4,100,10.1,0.9,Navy New Sport Center,NGR,Lagos,Outdoor,2024-01-27,,Emmanuel,Ekanem Consider,NGR,2004.0,Male
+AL,4,MEI,4:17.36,,Atletická hala,CZE,Ostrava,Indoor,2024-01-30,,Freweyni,Hailu,ETH,2001.0,Female
+AL,4,3KH,8:22.72,,Nyayo National Stadium,KEN,Nairobi,Outdoor,2024-03-06,,Amos,Serem,KEN,2002.0,Male
+AL,4,3G,14:57.25,,McArthur Stadium,RSA,Potchefstroom,Outdoor,2024-01-30,,Althea,Taylor,RSA,1996,Female
+AL,4,2KH,7:00.15,,Pilditch Stadium,RSA,Pretoria,Outdoor,2024-03-09,,Elizma,Le Roux,RSA,2007.0,Female
+AL,4,HAM,67.04,,Miloud HEDEFI Athletics Stadium,ALG,Oran,Outdoor,2024-03-01,,Zahra,Tatar,ALG,1992,Female
+AL,4,5G,24:53.44,,McArthur Stadium,RSA,Potchefstroom,Outdoor,2024-02-14,,Marissa,Swanepoel,RSA,2002,Female
+AL,4,300,30.69,,Pilditch Stadium,RSA,Pretoria,Outdoor,2024-02-17,,Letsile,Tebogo,BOT,2003.0,Male
+AL,4,SPE,79.62,,Athletics Track,RSA,"Parow, Cape Town",Outdoor,2024-02-10,,Rocco,Van Rooyen,RSA,1992.0,Male
+AL,4,60M,7.1,,Sports Performance Center,USA,"Lubbock, TX",Indoor,2024-02-09,,Rosemary,Chukwuma,NGR,2001.0,Female
+AL,4,300,35.99,,The Track at New Balance,USA,"Boston, MA",Indoor,2024-02-04,,Favour,Ofili,NGR,2002.0,Female
+AL,4,600,1:14.52,,McArthur Stadium,RSA,Potchefstroom,Outdoor,2024-03-14,,Slimane,Moula,ALG,1999.0,Male
+AL,4,10H,13.18,-0.8,Pilditch Stadium,RSA,Pretoria,Outdoor,2024-02-10,,Taylon,Bieldt,RSA,1998.0,Female
+AL,4,1K0,2:37.26,,Dempsey Indoor,USA,"Seattle, WA",Indoor,2024-01-26,,Dorcas,Ewoi,KEN,,Female
+AL,4,60H,7.66,,Halle Michel d'Ornano,FRA,Mondeville,Indoor,2024-02-07,,Saguirou,Badamassi,NIG,2000.0,Male
+AL,4,MEI,3:51.91,,Boston Univ. Track & Tennis Center,USA,"Boston, MA",Indoor,2024-02-10,,Anass,Essayi,MAR,2001.0,Male
+AL,4,40H,49.14,,National Stadium,BOT,Gaborone,Outdoor,2024-02-17,,Victor,Ntweng,BOT,1995.0,Male
+AL,4,40H,58.63,,Pilditch Stadium,RSA,Pretoria,Outdoor,2024-03-08,,Tumi,Ramokgopa,RSA,2007.0,Female
+AL,4,100,11.19,0.2,Stephen Keshi Stadium,NGR,Asaba,Outdoor,2024-02-18,,Olayinka,Olajide,NGR,2002.0,Female
+AL,4,800,1:57.86,,Arena,POL,Toruń,Indoor,2024-02-06,,Habitam,Alemu,ETH,1997.0,Female
+AL,4,DIS,58.43,,Jack Rose Track,USA,"Long Beach, CA",Outdoor,2024-03-02,,Chioma,Onyekwere,NGR,1994.0,Female
+AL,4,STA,5.45,,Minnesota Fieldhouse,USA,"Minneapolis, MN",Indoor,2024-01-27,,Kyle,Rademeyer,RSA,2002.0,Male
+AL,4,200,20.29,,Sports Performance Center,USA,"Lubbock, TX",Indoor,2024-01-13,,Tapiwanashe,Makarawu,ZIM,2000.0,Male
+AL,4,DIS,58.16,,McArthur Stadium,RSA,Potchefstroom,Outdoor,2024-02-27,,Ryan,Williams,NAM,2000.0,Male
+AL,4,WEI,8.3,1.3,Pilditch Stadium,RSA,Pretoria,Outdoor,2024-03-09,,Jovan,Van Vuuren,RSA,1996.0,Male
+AL,4,10G,46:30.27,,Miloud HEDEFI Athletics Stadium,ALG,Oran,Outdoor,2024-03-01,,Souad,Azzi,ALG,1999.0,Female
+AL,4,50M,5.71,,Field House,CAN,Saskatoon,Indoor,2024-01-26,,Usheoritse,Itsekiri,NGR,1998.0,Male
+AL,4,KUG,17.79,,Bob Devaney Sports Center,USA,"Lincoln, NE",Indoor,2024-02-03,,Miné,De Klerk,RSA,2003.0,Female
+AL,4,3K0,8:17.11,,Arena Stade Couvert,FRA,Liévin,Indoor,2024-02-10,,Gudaf,Tsegay,ETH,1997.0,Female
+AL,4,4×1,46.4,,Nyayo National Stadium,KEN,Nairobi,Outdoor,2024-01-27,,,,KEN,,Female
+AL,4,STA,4.11,,Omnisport,NED,Apeldoorn,Indoor,2024-01-27,,Mirè,Reinstorf,RSA,2002.0,Female
+AL,4,STA,4.11,,Omnisport,NED,Apeldoorn,Indoor,2024-01-27,,Sydney,Rothman,RSA,2007.0,Female
+AL,4,10K,27:54.43,,Rishon Letzion,ISR,Rishon Letzion,Outdoor,2024-02-15,,Naibei,Kiplimo Mayebei,KEN,2000.0,Male
+AL,4,SPE,62.24,,McArthur Stadium,RSA,Potchefstroom,Outdoor,2024-02-14,,Jo-Ane,Van Dyk,RSA,1997.0,Female
+AL,4,HAM,70.39,,McArthur Stadium,RSA,Potchefstroom,Outdoor,2024-02-20,,Alan,Cumming,RSA,1996.0,Male
+AL,4,DRE,13.89,,Sports Performance Center,USA,"Lubbock, TX",Indoor,2024-01-20,,Ruth,Usoro,NGR,1997.0,Female
+AL,4,10K,32:04.08,,Pilditch Stadium,RSA,Pretoria,Outdoor,2024-03-08,,Glenrose,Xaba,RSA,1994.0,Female
+AL,4,4×4,3:36.16,,Nyayo National Stadium,KEN,Nairobi,Outdoor,2024-01-27,,,,KEN,,Female
+AL,4,1K5,3:34.44,,Arena Stade Couvert,FRA,Liévin,Indoor,2024-02-10,,Vincent,Kibet Keter,KEN,2002.0,Male
+AL,4,60M,6.51,,AccorHotels Arena de Bercy,FRA,Paris,Indoor,2024-02-11,,Ferdinand,Omanyala,KEN,1996.0,Male
+AL,4,HOC,1.96,,Sports Performance Center,USA,"Lubbock, TX",Indoor,2024-01-19,,Temitope,Simbiat Adeshina,NGR,1998.0,Female
+AL,4,600,1:28.22,,Clemson Indoor Track & Field Complex,USA,"Clemson, SC",Indoor,2024-01-12,,Gladys,Chepngetich,KEN,,Female
+AL,4,1K5,3:55.28,,Arena,POL,Toruń,Indoor,2024-02-06,,Freweyni,Hailu,ETH,2001.0,Female
+AL,4,2KH,5:51.75,,McArthur Stadium,RSA,Potchefstroom,Outdoor,2024-02-20,,Tumisang,Monatlala,RSA,1995.0,Male
+AL,4,5G,19:43.64,,Complexe Olympique Mohamed Boudiaf,ALG,Algiers,Outdoor,2024-01-06,,Ismail,Benhammouda,ALG,2003,Male
+AL,4,WEI,6.87,,Sports Performance Center,USA,"Lubbock, TX",Indoor,2024-02-09,,Ruth,Usoro,NGR,1997.0,Female
+AL,4,KUG,21.63,,Sportovní Hala,CZE,Nehvizdy,Indoor,2024-02-20,,Chukwuebuka,Cornnell Enekwechi,NGR,1993.0,Male
+AL,4,400,51.25,,Nyayo National Stadium,KEN,Nairobi,Outdoor,2024-03-06,,Mary,Moraa,KEN,2000.0,Female
+AL,4,10G,40:14.25,,Miloud HEDEFI Athletics Stadium,ALG,Oran,Outdoor,2024-03-01,,Ismail,Benhammouda,ALG,2003.0,Male
+AL,4,11H,13.77,-1.5,McArthur Stadium,RSA,Potchefstroom,Outdoor,2024-03-14,,Mondray,Barnard,RSA,2002.0,Male
+AL,4,1K0,2:17.61,,Topsporthal Vlaanderen,BEL,Gent,Indoor,2024-02-03,,Abdelati,El Guesse,MAR,1993.0,Male
+AL,4,60H,7.75,,The Track at New Balance,USA,"Boston, MA",Indoor,2024-02-04,,Tobi,Amusan,NGR,1997.0,Female
+AL,4,HOC,2.25,,McArthur Stadium,RSA,Potchefstroom,Outdoor,2024-03-14,,Brian,Raats,RSA,2004.0,Male
+AL,4,200,22.87,,Randal Tyson Indoor Center,USA,"Fayetteville, AR",Indoor,2024-01-26,,Favour,Ofili,NGR,2002.0,Female
+AL,4,3G,12:23.54,,McArthur Stadium,RSA,Potchefstroom,Outdoor,2024-01-30,,Antonio,Farmer,RSA,2000,Male
+AL,4,5K0,14:42.94,,Boston Univ. Track & Tennis Center,USA,"Boston, MA",Indoor,2024-01-27,,Senayet,Getachew,ETH,2005.0,Female
+AL,4,800,1:44.07,,Nyayo National Stadium,KEN,Nairobi,Outdoor,2024-03-06,,Alex,Ngeno Kipngetich,KEN,2000.0,Male
+AL,6,3K0,7:34.88,,Armory Track&Field Center,USA,"New York, NY",Indoor,2024-02-11,,Geordie,Beamish,NZL,1996.0,Male
+AL,6,400,45.57,,AIS Athletics Track,AUS,Canberra,Outdoor,2024-03-02,,Luke,Van Ratingen,AUS,2001.0,Male
+AL,6,4×1,38.43,,Queensland Sport and Athletics Centre,AUS,"Nathan, Brisbane",Outdoor,2024-02-24,,,,AUS,,Male
+AL,6,4×4,3:03.88,,Queensland Sport and Athletics Centre,AUS,"Nathan, Brisbane",Outdoor,2024-02-24,,,,AUS,,Male
+AL,6,DRE,16.82,-0.4,Lakeside Stadium,AUS,Melbourne,Outdoor,2024-02-15,,Connor,Murphy,AUS,2001.0,Male
+AL,6,5K0,13:04.33,,Boston Univ. Track & Tennis Center,USA,"Boston, MA",Indoor,2024-01-26,,Geordie,Beamish,NZL,1996.0,Male
+AL,6,3KH,9:42.71,,SA Athletic Stadium,AUS,Adelaide,Outdoor,2024-02-10,,Cara,Feain-Ryan,AUS,1999.0,Female
+AL,6,100,10.15,1.9,AIS Athletics Track,AUS,Canberra,Outdoor,2024-01-27,,Jacob,Despard,AUS,1996.0,Male
+AL,6,100,10.15,1.9,AIS Athletics Track,AUS,Canberra,Outdoor,2024-01-27,,Joshua,Azzopardi,AUS,1999.0,Male
+AL,6,100,10.15,1.9,AIS Athletics Track,AUS,Canberra,Outdoor,2024-01-27,,Alexander,Colgan,AUS,2004.0,Male
+AL,6,MEI,4:19.03,,Armory Track&Field Center,USA,"New York, NY",Indoor,2024-02-11,,Jessica,Hull,AUS,1996.0,Female
+AL,6,3KH,8:32.19,,AIS Athletics Track,AUS,Canberra,Outdoor,2024-03-02,,Edward,Trippas,AUS,1998.0,Male
+AL,6,3G,13:20.17,,Newtown Park Stadium,NZL,Wellington,Outdoor,2024-02-02,,Laura,Langley,NZL,1997.0,Female
+AL,6,2KH,6:56.76,,Queensland Sport and Athletics Centre,AUS,"Nathan, Brisbane",Outdoor,2024-02-24,,Milla,Roberts,AUS,2007.0,Female
+AL,6,HAM,70.59,,Nga Puna Wai Sports Hub,NZL,Christchurch,Outdoor,2024-02-24,,Lauren,Bruce,NZL,1997.0,Female
+AL,6,5G,21:42.01,,Lakeside Stadium,AUS,Melbourne,Outdoor,2024-02-24,,Rebecca,Henderson,AUS,2001.0,Female
+AL,6,SPE,76.57,,Queensland Sport and Athletics Centre,AUS,"Nathan, Brisbane",Outdoor,2024-03-15,,William,White,AUS,1994.0,Male
+AL,6,60M,7.06,,Glasgow Arena,GBR,Glasgow,Indoor,2024-03-02,,Zoe,Hobbs,NZL,1997.0,Female
+AL,6,300,39.2,,Clemson Indoor Track & Field Complex,USA,"Clemson, SC",Indoor,2024-01-13,,Aleksandra,Stoilova,AUS,2005,Female
+AL,6,600,1:16.29,,The Crest Athletics Centre,AUS,"Bankstown, Sydney",Outdoor,2024-02-22,,Ian,Halpin,AUS,1993,Male
+AL,6,10H,13.01,0.2,AIS Athletics Track,AUS,Canberra,Outdoor,2024-01-27,,Danielle,Shaw,AUS,1998.0,Female
+AL,6,1K0,2:34.71,,Dempsey Indoor,USA,"Seattle, WA",Indoor,2024-01-26,,Jessica,Hull,AUS,1996.0,Female
+AL,6,60H,7.71,,Track & Field complex QAZAQSTAN,KAZ,Astana,Indoor,2024-01-27,,Chris,Douglas,AUS,1997,Male
+AL,6,MEI,3:51.51,,Armory Track&Field Center,USA,"New York, NY",Indoor,2024-03-02,,Jack,Anstey,AUS,1997.0,Male
+AL,6,40H,50.33,,AIS Athletics Track,AUS,Canberra,Outdoor,2024-03-02,,Thomas,Hunt,AUS,2001.0,Male
+AL,6,40H,55.37,,AIS Athletics Track,AUS,Canberra,Outdoor,2024-03-02,,Sarah,Carli,AUS,1994.0,Female
+AL,6,100,11.1,1.6,AIS Athletics Track,AUS,Canberra,Outdoor,2024-01-27,,Torrie,Lewis,AUS,2005.0,Female
+AL,6,800,1:58.81,,AIS Athletics Track,AUS,Canberra,Outdoor,2024-03-02,,Claudia,Hollingsworth,AUS,2005.0,Female
+AL,6,DIS,58.69,,Queensland Sport and Athletics Centre,AUS,"Nathan, Brisbane",Outdoor,2024-01-27,,Taryn,Gollshewsky,AUS,1993.0,Female
+AL,6,STA,5.87,,Stabinski Velodrome,FRA,Roubaix,Indoor,2024-02-14,,Kurtis,Marschall,AUS,1997.0,Male
+AL,6,200,20.61,0.9,AIS Athletics Track,AUS,Canberra,Outdoor,2024-01-28,,Christopher,Ius,AUS,2000.0,Male
+AL,6,DIS,65.93,,SA Athletic Stadium,AUS,Adelaide,Outdoor,2024-02-10,,Connor,Bell,NZL,2001.0,Male
+AL,6,WEI,7.96,0.6,Queensland Sport and Athletics Centre,AUS,"Nathan, Brisbane",Outdoor,2024-02-03,,Henry,Frayne,AUS,1990.0,Male
+AL,6,WEI,7.96,0.9,Lakeside Stadium,AUS,Melbourne,Outdoor,2024-02-15,,Christopher,Mitrevski,AUS,1996.0,Male
+AL,6,10G,43:14.78,,AIS Athletics Track,AUS,Canberra,Outdoor,2024-01-27,,Jemima,Montag,AUS,1998.0,Female
+AL,6,KUG,19.62,,Glasgow Arena,GBR,Glasgow,Indoor,2024-03-01,,Maddison-Lee,Wesche,NZL,1999.0,Female
+AL,6,3K0,8:24.39,,Glasgow Arena,GBR,Glasgow,Indoor,2024-03-02,,Jessica,Hull,AUS,1996.0,Female
+AL,6,4×1,44.49,,Douglas Track & Field,NZL,Auckland,Outdoor,2024-03-10,,,,AUS,,Female
+AL,6,STA,4.84,,Arena Stade Couvert,FRA,Liévin,Indoor,2024-02-10,,Eliza,Mccartney,NZL,1996.0,Female
+AL,6,10K,29:29.37,,The Caledonian Ground,NZL,Dunedin,Outdoor,2024-01-13,,Michael,Voss,NZL,1997.0,Male
+AL,6,SPE,62.12,,Lakeside Stadium,AUS,Melbourne,Outdoor,2024-02-15,,Kathryn,Mitchell,AUS,1982.0,Female
+AL,6,HAM,69.72,,Hawke's Bay Sports Park,NZL,Hastings,Outdoor,2024-01-20,,Anthony,Nobilo,NZL,1999,Male
+AL,6,DRE,13.78,1.8,AIS Athletics Track,AUS,Canberra,Outdoor,2024-03-02,,Kayla,Cuba,AUS,1999.0,Female
+AL,6,10K,35:15.84,,The Caledonian Ground,NZL,Dunedin,Outdoor,2024-01-13,,Anneke,Arlidge,NZL,1996.0,Female
+AL,6,4×4,3:30.66,,Queensland Sport and Athletics Centre,AUS,"Nathan, Brisbane",Outdoor,2024-03-14,,,,AUS,,Female
+AL,6,1K5,3:33.30,,The Crest Athletics Centre,AUS,"Bankstown, Sydney",Outdoor,2024-02-22,,Cameron,Myers,AUS,2006.0,Male
+AL,6,60M,6.65,1.0,Kerryn McCann Athletic Centre,AUS,Wollongong,Outdoor,2024-01-13,,Jake,Penny,AUS,1996.0,Male
+AL,6,HOC,2.03,,AIS Athletics Track,AUS,Canberra,Outdoor,2024-01-27,,Nicola,Olyslagers,AUS,1996.0,Female
+AL,6,600,1:26.97,,SPIRE Institute Indoor Track & Field Facility,USA,"Geneva, OH",Indoor,2024-02-24,,Hayley,Kitching,AUS,2004.0,Female
+AL,6,4×4,3:21.26,,Lakeside Stadium,AUS,Melbourne,Outdoor,2024-02-15,,,,AUS,,Mixed
+AL,6,1K5,4:01.19,,Armory Track&Field Center,USA,"New York, NY",Indoor,2024-02-11,,Jessica,Hull,AUS,1996.0,Female
+AL,6,2KH,6:25.53,,WA Sports Centre,AUS,Perth,Outdoor,2024-02-16,,Nikil,Redipali,AUS,,Male
+AL,6,5G,18:28.47,,Lakeside Stadium,AUS,Melbourne,Outdoor,2024-02-24,,Rhydian,Cowley,AUS,1991.0,Male
+AL,6,WEI,6.5,0.7,Lakeside Stadium,AUS,Melbourne,Outdoor,2024-02-15,,Samantha,Dale,AUS,2001.0,Female
+AL,6,KUG,22.16,,Arena Stade Couvert,FRA,Liévin,Indoor,2024-02-10,,Tom,Walsh,NZL,1992,Male
+AL,6,400,51.77,,Douglas Track & Field,NZL,Auckland,Outdoor,2024-03-10,,Ellie,Beer,AUS,2003.0,Female
+AL,6,10G,38:46.99,,AIS Athletics Track,AUS,Canberra,Outdoor,2024-01-28,,Kyle,Swan,AUS,1999.0,Male
+AL,6,11H,13.79,1.1,Kerryn McCann Athletic Centre,AUS,Wollongong,Outdoor,2024-01-19,,Tayleb,Willis,AUS,2003.0,Male
+AL,6,1K0,2:16.95,,Boston Univ. Track & Tennis Center,USA,"Boston, MA",Indoor,2024-02-10,,Jack,Anstey,AUS,1997.0,Male
+AL,6,60H,7.97,,Glasgow Arena,GBR,Glasgow,Indoor,2024-03-03,,Michelle,Jenneke,AUS,1993,Female
+AL,6,HOC,2.36,,Glasgow Arena,GBR,Glasgow,Indoor,2024-03-03,,Hamish,Kerr,NZL,1996.0,Male
+AL,6,200,23.05,-1.5,SA Athletic Stadium,AUS,Adelaide,Outdoor,2024-02-10,,Torrie,Lewis,AUS,2005.0,Female
+AL,6,3G,11:25.70,,Queensland Sport and Athletics Centre,AUS,"Nathan, Brisbane",Outdoor,2024-02-03,,Bailey,Housden,AUS,2007.0,Male
+AL,6,5K0,14:57.54,,Lakeside Stadium,AUS,Melbourne,Outdoor,2024-02-15,,Rose,Davies,AUS,1999.0,Female
+AL,6,800,1:44.87,,Newtown Park Stadium,NZL,Wellington,Outdoor,2024-03-15,,James,Preston,NZL,1997.0,Male
+AL,5,3K0,7:42.56,,Armory Track&Field Center,USA,"New York, NY",Indoor,2024-02-11,,Keita,Satoh,JPN,2004.0,Male
+AL,5,400,45.83,,Mahinda Rajapaksha Stadium,SRI,Diyagama,Outdoor,2024-03-02,,Kalinga,Kumarage,SRI,1992.0,Male
+AL,5,4×1,39.35,,McArthur Stadium,RSA,Potchefstroom,Outdoor,2024-03-14,,,,KSA,,Male
+AL,,4×4,3:11.13,,Clemson Indoor Track & Field Complex,USA,"Clemson, SC",Indoor,2024-01-13,,,,INT,,Male
+AL,5,DRE,16.93,,Glasgow Arena,GBR,Glasgow,Indoor,2024-03-02,,Yaoqing,Fang,CHN,1996.0,Male
+AL,5,5K0,13:09.45,,Boston Univ. Track & Tennis Center,USA,"Boston, MA",Indoor,2024-01-26,,Keita,Satoh,JPN,2004.0,Male
+AL,5,3KH,10:10.08,,SAI Regional Centre Sarojini Nagar,IND,Lucknow,Outdoor,2024-03-10,,Ekta,Pradeep,IND,2005.0,Female
+AL,5,100,10.22,1.3,Nga Puna Wai Sports Hub,NZL,Christchurch,Outdoor,2024-02-24,,Taju,Hongo,JPN,1999.0,Male
+AL,5,MEI,4:47.54,,Vanderbilt Multipurpose Facility,USA,"Nashville, TN",Indoor,2024-01-20,,Helena,May Lindsay,JPN,,Female
+AL,5,3KH,8:42.49,,AIS Athletics Track,AUS,Canberra,Outdoor,2024-03-02,,Yutaro,Niinae,JPN,2001.0,Male
+AL,5,2KH,7:28.54,,Taipei Municipal Stadium,TPE,Taipei City,Outdoor,2024-02-01,,Ying-Ying,Wang,TPE,2009,Female
+AL,5,HAM,71.67,,Stadion Bürgerpark Nord,GER,Darmstadt,Outdoor,2024-02-03,,Jiangyan,Li,CHN,1999,Female
+AL,5,5G,24:52.18,,Athletic Center Olga Rypakova,KAZ,Ust-Kamenogorsk,Indoor,2024-02-22,,Sabrina,Arziyeva,KAZ,2006,Female
+AL,5,300,35.56,,McArthur Stadium,RSA,Potchefstroom,Outdoor,2024-02-06,,,,QAT,,Male
+AL,5,SPE,83.37,,Douglas Track & Field,NZL,Auckland,Outdoor,2024-03-10,,Ryohei,Arai,JPN,1991.0,Male
+AL,5,60M,7.2,,Aftab Enghelab Sport Complex,IRI,Tehran,Indoor,2024-02-18,,Fasihi,Farzaneh,IRI,1993,Female
+AL,5,600,1:18.29,,SPIRE Institute Indoor Track & Field Facility,USA,"Geneva, OH",Indoor,2024-02-23,,Yukichi,Ishii,JPN,2002.0,Male
+AL,5,10H,13.19,0.3,Lakeside Stadium,AUS,Melbourne,Outdoor,2024-02-15,,Yumi,Tanaka,JPN,1998.0,Female
+AL,5,60H,7.58,,Helmut-Körnig-Halle,GER,Dortmund,Indoor,2024-01-20,,Yaqoub,Alyouha,KUW,1993.0,Male
+AL,5,60H,7.58,,Track & Field complex QAZAQSTAN,KAZ,Astana,Indoor,2024-01-27,,Junxi,Liu,CHN,2003.0,Male
+AL,5,MEI,3:54.84,,Boston Univ. Track & Tennis Center,USA,"Boston, MA",Indoor,2024-02-10,,Ryoma,Aoki,JPN,1997.0,Male
+AL,5,40H,48.68,,McArthur Stadium,RSA,Potchefstroom,Outdoor,2024-03-14,,Ismail,Doudai Abakar,QAT,2004.0,Male
+AL,5,40H,58.65,,Douglas Track & Field,NZL,Auckland,Outdoor,2024-03-10,,Eri,Utsunomiya,JPN,1993.0,Female
+AL,5,100,11.78,1.1,Jack Rose Track,USA,"Long Beach, CA",Outdoor,2024-03-02,,Maryam,Toosi,IRI,1988.0,Female
+AL,5,800,2:05.46,,Mahinda Rajapaksha Stadium,SRI,Diyagama,Outdoor,2024-03-01,,Nimali,Waliwarsha,SRI,1989,Female
+AL,5,DIS,53.22,,Kyushu Kyoritsu University Stadium,JPN,Kitakyushu,Outdoor,2024-02-18,,Nanaka,Kori,JPN,1997.0,Female
+AL,5,STA,5.93,,Mercedes-Benz Arena,GER,Berlin,Indoor,2024-02-23,,Ernest,John Obiena,PHI,1995.0,Male
+AL,5,200,21.03,0.2,Mahinda Rajapaksha Stadium,SRI,Diyagama,Outdoor,2024-03-01,,Aruna,Dharshana,SRI,1999.0,Male
+AL,5,DIS,60.59,,Jack Rose Track,USA,"Long Beach, CA",Outdoor,2024-03-02,,Abuduaini,Tuergong,CHN,1997.0,Male
+AL,5,WEI,8.11,,Xi'an,CHN,Xi'an,Indoor,2024-03-02,,Heng,Shu,CHN,2004,Male
+AL,5,10G,44:05.50,,AIS Athletics Track,AUS,Canberra,Outdoor,2024-01-27,,Hong,Liu,CHN,1987,Female
+AL,5,KUG,19.65,,Turnhalle Am Regenbogen,GER,Rochlitz,Indoor,2024-02-04,,Lijiao,Gong,CHN,1989.0,Female
+AL,5,3K0,8:36.03,,Glasgow Arena,GBR,Glasgow,Indoor,2024-03-02,,Nozomi,Tanaka,JPN,1999.0,Female
+AL,5,4×1,45.53,,Wan Chai Sports Ground,HKG,Hong Kong,Outdoor,2024-03-10,,,,THA,,Female
+AL,5,STA,4.51,,Aftab Enghelab Sport Complex,IRI,Tehran,Indoor,2024-02-19,,Ling,Li,CHN,1989.0,Female
+AL,5,10K,30:14.00,,SAI Regional Centre Sarojini Nagar,IND,Lucknow,Outdoor,2024-03-08,,Vinod,Singh,IND,2005,Male
+AL,5,SPE,59.23,,Douglas Track & Field,NZL,Auckland,Outdoor,2024-03-10,,Yuka,Sato,JPN,1992.0,Female
+AL,5,HAM,70.25,,Yunost Stadium,RUS,"Adler, Sochi",Outdoor,2024-02-18,,Peixun,Li,CHN,2000.0,Male
+AL,5,DRE,13.81,,Xipu Training Base Indoor Athletics Stadium,CHN,Chengdu,Indoor,2024-02-28,,Jie,Chen,CHN,1998,Female
+AL,5,10K,35:25.06,,Mahinda Rajapaksha Stadium,SRI,Diyagama,Outdoor,2024-03-01,,W.A.M.Rasara,Wijesuriya,SRI,2002,Female
+AL,5,4×4,3:40.67,,Xipu Training Base Indoor Athletics Stadium,CHN,Chengdu,Indoor,2024-02-28,,,,CHN,,Female
+AL,5,1K5,3:37.13,,The Crest Athletics Centre,AUS,"Bankstown, Sydney",Outdoor,2024-02-22,,Ryoji,Tatezawa,JPN,1997.0,Male
+AL,5,60M,6.5,,Aftab Enghelab Sport Complex,IRI,Tehran,Indoor,2024-02-18,,Ali,Anwar Ali Al Balushi,OMA,2002,Male
+AL,1,HOC,1.93,,Športová hala Dukla,SVK,Banská Bystrica,Indoor,2024-02-13,,Safina,Sadullayeva,UZB,1998.0,Female
+AL,5,600,1:30.33,,Rector Fieldhouse,USA,"Blacksburg, VA",Indoor,2024-01-19,,Lauren,Hoffman,PHI,1999.0,Female
+AL,5,4×4,3:37.46,,Taipei Municipal Stadium,TPE,Taipei City,Outdoor,2024-02-03,,,,TPE,,Mixed
+AL,5,1K5,4:08.46,,The Track at New Balance,USA,"Boston, MA",Indoor,2024-02-04,,Nozomi,Tanaka,JPN,1999,Female
+AL,5,5G,21:46.37,,Athletic Center Olga Rypakova,KAZ,Ust-Kamenogorsk,Indoor,2024-02-23,,Zharylkasyn,Egizbay,KAZ,2006,Male
+AL,5,WEI,6.55,,Aftab Enghelab Sport Complex,IRI,Tehran,Indoor,2024-02-17,,Shiqi,Xiong,CHN,2004,Female
+AL,5,WEI,6.55,,Xi'an,CHN,Xi'an,Indoor,2024-03-03,,Mengyi,Tan,CHN,2002,Female
+AL,5,KUG,20.11,,Stadium Miramas Métropole,FRA,Miramas,Indoor,2024-02-02,,Mohamed,Daouda Tolo,KSA,2001.0,Male
+AL,5,400,53.1,,Xipu Training Base Indoor Athletics Stadium,CHN,Chengdu,Indoor,2024-02-28,,Jiadie,Mo,CHN,2000.0,Female
+AL,5,10G,41:55.40,,SAI Regional Centre Sarojini Nagar,IND,Lucknow,Outdoor,2024-03-09,,Himanshu,Kumar,IND,2006,Male
+AL,5,11H,13.71,2.0,Nga Puna Wai Sports Hub,NZL,Christchurch,Outdoor,2024-02-24,,Tatsuki,Abe,JPN,2003.0,Male
+AL,5,1K0,2:22.12,,Ashenfelter Indoor Track,USA,"State College, PA",Indoor,2024-01-13,,Yukichi,Ishii,JPN,2002,Male
+AL,5,60H,8.09,,Halle Michel d'Ornano,FRA,Mondeville,Indoor,2024-02-07,,Yumi,Tanaka,JPN,1998,Female
+AL,5,HOC,2.33,,Městská sportovní hala,CZE,Hustopeče,Indoor,2024-02-10,,Sanghyeok,Woo,KOR,1996.0,Male
+AL,5,200,23.57,,Randal Tyson Indoor Center,USA,"Fayetteville, AR",Indoor,2024-02-16,,Kristina,Marie Knott,PHI,1995.0,Female
+AL,5,5K0,15:26.06,,Dempsey Indoor,USA,"Seattle, WA",Indoor,2024-02-23,,Wuga,He,CHN,1998.0,Female
+AL,5,800,1:46.63,,Shandong Sports Training Center,CHN,Jinan,Indoor,2024-03-12,,Dezhu,Liu,CHN,2000.0,Male
+AL,1,3K0,7:30.14,,Armory Track&Field Center,USA,"New York, NY",Indoor,2024-02-11,,Josh,Kerr,GBR,1997,Male
+AL,1,4×2,1:35.42,,Quarterback Immobilien Arena,GER,Leipzig,Indoor,2024-02-18,,,,GER,,Female
+AL,1,400,45.25,,Glasgow Arena,GBR,Glasgow,Indoor,2024-03-02,,Alexander,Doom,BEL,1997,Male
+AL,1,4×1,38.79,,McArthur Stadium,RSA,Potchefstroom,Outdoor,2024-03-14,,,,DEN,,Male
+AL,1,4×4,3:02.54,,Glasgow Arena,GBR,Glasgow,Indoor,2024-03-03,,,,BEL,,Male
+AL,1,2K0,5:00.01,,Arena Stade Couvert,FRA,Liévin,Indoor,2024-02-10,,Samuel,Pihlström,SWE,2001,Male
+AL,1,DRE,17.61,,Arena,POL,Toruń,Indoor,2024-02-06,,Andy,Díaz Hernández,ITA,1995.0,Male
+AL,1,5K0,12:58.68,,Boston Univ. Track & Tennis Center,USA,"Boston, MA",Indoor,2024-01-26,,George,Mills,GBR,1999.0,Male
+AL,1,50M,6.39,,Salle du Centre Mondial du Cyclisme,SUI,Aigle,Indoor,2024-01-20,,Chloé,Rabac,SUI,2005.0,Female
+AL,1,100,10.09,1.9,McArthur Stadium,RSA,Potchefstroom,Outdoor,2024-02-14,,Taymir,Burnet,NED,1992.0,Male
+AL,1,MEI,4:23.68,,Armory Track&Field Center,USA,"New York, NY",Indoor,2024-02-11,,Yolanda,Ngarambe,SWE,1991.0,Female
+AL,1,3KH,9:42.14,,Lakeside Stadium,AUS,Melbourne,Outdoor,2024-02-25,,Carlos,Rodriguez,ESP,1992,Male
+AL,1,3G,12:17.95,,Expocentro,POR,Pombal,Indoor,2024-02-17,,Vitória,Oliveira,POR,1992.0,Female
+AL,1,HAM,73.28,,Stadionul Iolanda Balas Soter,ROU,Bucureşti,Outdoor,2024-02-24,,Bianca,Florentina Ghelber,ROU,1990,Female
+AL,1,5G,20:50.56,,KMSHVSM Arena,UKR,Kyiv,Indoor,2024-01-20,,Lyudmila,Olyanovska,UKR,1993,Female
+AL,1,300,32.21,,Pilditch Stadium,RSA,Pretoria,Outdoor,2024-02-17,,Liemarvin,Bonevacia,NED,1989.0,Male
+AL,1,SPE,90.2,,Werferzentrum Brandberge,GER,Halle,Outdoor,2024-02-25,,Max,Dehning,GER,2004.0,Male
+AL,1,60M,6.98,,Glasgow Arena,GBR,Glasgow,Indoor,2024-03-02,,Ewa,Swoboda,POL,1997.0,Female
+AL,1,300,35.52,,McArthur Stadium,RSA,Potchefstroom,Outdoor,2024-01-30,,Natalia,Kaczmarek,POL,1998.0,Female
+AL,1,600,1:15.09,,SOK Luch,RUS,Yekaterinburg,Indoor,2024-01-07,,Saveliy,Savlukov,RUS,2000.0,Male
+AL,1,10H,13.54,1.5,Nga Puna Wai Sports Hub,NZL,Christchurch,Outdoor,2024-02-24,,Victoria,Rausch,LUX,1996,Female
+AL,1,1K0,2:37.57,,Centro de Tecnificación de Atletismo,ESP,Antequera,Indoor,2024-01-13,,Esther,Guerrero,ESP,1990.0,Female
+AL,1,60H,7.43,,Arena Stade Couvert,FRA,Liévin,Indoor,2024-02-10,,Just,Kwaou-Mathey,FRA,1999,Male
+AL,1,60H,7.43,,Athletik Zentrum,SUI,St. Gallen,Indoor,2024-02-18,,Jason,Joseph,SUI,1998,Male
+AL,1,60H,7.43,,Glasgow Arena,GBR,Glasgow,Indoor,2024-03-02,,Lorenzo,Ndele Simonelli,ITA,2002,Male
+AL,1,MEI,3:48.93,,Armory Track&Field Center,USA,"New York, NY",Indoor,2024-02-11,,George,Mills,GBR,1999.0,Male
+AL,1,40H,53.49,,Pilditch Stadium,RSA,Pretoria,Outdoor,2024-03-02,,Stephane,Yato,FRA,1992,Male
+AL,1,40H,58.58,,Douglas Track & Field,NZL,Auckland,Outdoor,2024-03-10,,Loan,Ville,FRA,2003,Female
+AL,1,2K0,5:57.76,,Hala COS OPO,POL,Spala,Indoor,2024-01-28,,Julia,Jaguścik,POL,2003.0,Female
+AL,1,100,11.17,-1.5,McArthur Stadium,RSA,Potchefstroom,Outdoor,2024-02-06,,Rebekka,Haase,GER,1993.0,Female
+AL,1,4×2,1:25.40,,Quarterback Immobilien Arena,GER,Leipzig,Indoor,2024-02-18,,,,GER,,Male
+AL,1,800,1:58.24,,Arena Birmingham,GBR,Birmingham,Indoor,2024-02-18,,Jemma,Reekie,GBR,1998,Female
+AL,1,DIS,66.6,,Estádio Dr. Magalhães Pessoa,POR,Leiria,Outdoor,2024-03-10,,Irina,Rodrigues,POR,1991.0,Female
+AL,1,STA,6.05,,Glasgow Arena,GBR,Glasgow,Indoor,2024-03-03,,Armand,Duplantis,SWE,1999.0,Male
+AL,1,200,20.3,0.0,McArthur Stadium,RSA,Potchefstroom,Outdoor,2024-02-14,,Taymir,Burnet,NED,1992,Male
+AL,1,DIS,66.07,,Estádio Dr. Magalhães Pessoa,POR,Leiria,Outdoor,2024-03-09,,Alin,Alexandru Firfirica,ROU,1995.0,Male
+AL,1,WEI,8.34,,Palaindoor Ancona,ITA,Ancona,Indoor,2024-02-17,,Mattia,Furlani,ITA,2005.0,Male
+AL,1,10G,43:35.52,,AIS Athletics Track,AUS,Canberra,Outdoor,2024-01-27,,Clémence,Beretta,FRA,1997,Female
+AL,1,50M,5.93,,Palalottici,ITA,Parma,Indoor,2024-01-27,,Pietro,Bazzoni,ITA,2000.0,Male
+AL,1,KUG,20.31,,Omnisport,NED,Apeldoorn,Indoor,2024-02-17,,Jessica,Schilder,NED,1999,Female
+AL,1,3K0,8:29.76,,Glasgow Arena,GBR,Glasgow,Indoor,2024-03-02,,Laura,Muir,GBR,1993,Female
+AL,1,4×1,44.44,,Botniahallen,FIN,Mustasaari,Outdoor,2024-01-13,,,,EST,,Female
+AL,1,STA,4.86,,Complexe Kindarena,FRA,Rouen,Indoor,2024-02-24,,Molly,Caudery,GBR,2000.0,Female
+AL,1,10K,27:53.26,,Estadi Municipal La Bòbila,ESP,Gavá,Outdoor,2024-03-02,,Ilias,Fifa,ESP,1989.0,Male
+AL,1,SPE,61.69,,Estádio Dr. Magalhães Pessoa,POR,Leiria,Outdoor,2024-03-09,,Marie-Therese,Obst,NOR,1996.0,Female
+AL,1,HAM,80.11,,Regional Sport Complex,BLR,Brest,Outdoor,2024-02-21,,Aliaksandr,Shymanovich,BLR,1998,Male
+AL,1,50H,6.99,,Velesajam Hall,CRO,Zagreb,Indoor,2024-02-03,,Lukas,Cik,CRO,2002.0,Male
+AL,1,DRE,14.75,,Glasgow Arena,GBR,Glasgow,Indoor,2024-03-03,,Ana,Peleteiro-Compaoré,ESP,1995,Female
+AL,1,10K,32:14.43,,Estadi Municipal La Bòbila,ESP,Gavá,Outdoor,2024-03-02,,Carolina,Robles,ESP,1991,Female
+AL,1,50H,7.04,,GSG9-Halle,AUT,Wien,Indoor,2024-01-16,,Karin,Strametz,AUT,1998.0,Female
+AL,1,4×4,3:25.07,,Glasgow Arena,GBR,Glasgow,Indoor,2024-03-03,,,,NED,,Female
+AL,1,1K5,3:33.86,,Armory Track&Field Center,USA,"New York, NY",Indoor,2024-02-11,,George,Mills,GBR,1999,Male
+AL,1,60M,6.53,,Glasgow Arena,GBR,Glasgow,Indoor,2024-03-01,,Chituru,Ali,ITA,1999.0,Male
+AL,1,HOC,2.04,,Lausitz-Arena,GER,Cottbus,Indoor,2024-01-31,,Yaroslava,Mahuchikh,UKR,2001.0,Female
+AL,1,600,1:26.38,,Halle End der Welt,SUI,Magglingen,Indoor,2024-01-28,,Audrey,Werro,SUI,2004.0,Female
+AL,1,4×4,3:27.27,,National Indoor Arena,IRL,"Abbotstown, Dublin",Indoor,2024-02-28,,,,IRL,,Mixed
+AL,1,1K5,4:03.22,,Sätrahallen,SWE,Stockholm,Indoor,2024-02-03,,Georgia,Bell,GBR,1993.0,Female
+AL,1,5G,18:25.15,,Palaindoor Ancona,ITA,Ancona,Indoor,2024-02-17,,Francesco,Fortunato,ITA,1994.0,Male
+AL,1,WEI,6.95,,Mercedes-Benz Arena,GER,Berlin,Indoor,2024-02-23,,Malaika,Mihambo,GER,1994.0,Female
+AL,1,KUG,22.37,,Arena Stade Couvert,FRA,Liévin,Indoor,2024-02-10,,Leonardo,Fabbri,ITA,1997.0,Male
+AL,1,400,49.17,,Glasgow Arena,GBR,Glasgow,Indoor,2024-03-02,,Femke,Bol,NED,2000.0,Female
+AL,1,10G,39:49.64,,KMSHVSM Arena,UKR,Kyiv,Indoor,2024-02-03,,Ivan,Banzeruk,UKR,1990.0,Male
+AL,1,11H,13.45,-2.1,WA Sports Centre,AUS,Perth,Outdoor,2024-02-25,,Sasha,Zhoya,FRA,2002,Male
+AL,1,1K0,2:17.17,,Topsporthal Vlaanderen,BEL,Gent,Indoor,2024-02-03,,Pieter,Sisk,BEL,1999.0,Male
+AL,1,60H,7.73,,Glasgow Arena,GBR,Glasgow,Indoor,2024-03-03,,Cyréna,Samba-Mayela,FRA,2000,Female
+AL,1,HOC,2.33,,Salyut Geraklion Arena,RUS,Moskva,Indoor,2024-01-28,,Danil,Lysenko,RUS,1997.0,Male
+AL,1,200,22.6,,Randal Tyson Indoor Center,USA,"Fayetteville, AR",Indoor,2024-01-26,,Amber,Anning,GBR,2000.0,Female
+AL,1,3G,10:44.00,,Hartwig-Gauder-Halle,GER,Erfurt,Indoor,2024-02-02,,Christopher,Linke,GER,1988.0,Male
+AL,1,5K0,14:46.37,,Boston Univ. Track & Tennis Center,USA,"Boston, MA",Indoor,2024-01-27,,Marta,García,ESP,1998.0,Female
+AL,1,800,1:45.00,,Gallur,ESP,Madrid,Indoor,2024-02-23,,Catalin,Tecuceanu,ITA,1999,Male
