@@ -120,6 +120,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 13.67,1.7,MAS,Weinheim,GER,2017-05-27,Rayzamshah Wan Sofian,1988.0,Male,110H,NR,Outdoor
 18.54,,MAW,München,FRG,1972-08-09,Wilfred Mwalawanda-Ngwenya,1944.0,Male,110H,NR,Outdoor
 13.58,0.2,MDA,Gomel,BLR,1995-07-06,Aleksandr Yenko,1972.0,Male,110H,NR,Outdoor
+13.58,0.2,MDA,Gomel,BLR,1995-07-06,Alexandr Enco,1972.0,Male,110H,NR,Outdoor
 13.64,0.0,MEX,Ciudad de México,MEX,2018-03-30,Genaro Rodríguez,1990.0,Male,110H,NR,Outdoor
 16.36,,MGL,Sofia,BUL,1977-08-05,Gombo Munlhsaikhan,,Male,110H,NR,Outdoor
 18.01,,MHL,Kolonia,FSM,2002-07-23,Martin Motuahala,,Male,110H,NR,Outdoor
@@ -164,7 +165,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 14.46,-0.2,SAM,Kuala Lumpur,MAS,1998-09-19,Avele Tanielu,1969.0,Male,110H,NR,Outdoor
 13.18,1.0,SEN,Troyes,FRA,2023-07-01,Louis François Mendy,1999.0,Male,110H,NR,Outdoor
 14.49,,SEY,Harare,ZIM,1995-09-17,William Gamatis,,Male,110H,NR,Outdoor
-13.83,,SGP,Phnom Penh,CAM,2023-05-10,Chen Xiang Ang,1994.0,Male,110H,NR,Outdoor
+13.84,0.1,SGP,Phnom Penh,CAM,2023-05-10,Chen Xiang Ang,1994.0,Male,110H,NR,Outdoor
 13.95,1.1,SKN,Basseterre,SKN,2016-06-18,Akeem Chumney,1997.0,Male,110H,NR,Outdoor
 14.06,1.1,SLE,Corby,GBR,1992-05-25,Benjamin Grant,1970.0,Male,110H,NR,Outdoor
 13.56,0.8,SLO,Novo Mesto,SLO,2007-06-19,Damjan Zlatnar,1977.0,Male,110H,NR,Outdoor

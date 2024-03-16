@@ -130,7 +130,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 11.09,1.2,MEX,Ciudad de México,MEX,1999-06-19,Liliana Allen,1970.0,Female,100,NR,Outdoor
 12.26,0.1,MGL,Tokyo,JPN,1991-08-26,Jatansuren Otgonchimeg,,Female,100,NR,Outdoor
 12.79,,MHL,Burnsville,USA,2015-09-05,Mariana Cress,1998.0,Female,100,NR,Outdoor
-11.74,1.7,MKD,Istanbul,TUR,2004-07-03,Aleksandra Vojneska,1981.0,Female,100,NR,Outdoor
+11.70,,MKD,Sofia,BUL,1973-08-11,Vera Veljanovska,1955.0,Female,100,NR,Outdoor
 11.39,1.0,MLI,Dakar,SEN,2008-03-30,Kadiatou Camara,1981.0,Female,100,NR,Outdoor
 11.54,1.1,MLT,Marsa,MLT,2017-05-10,Charlotte Wingfield,1994.0,Female,100,NR,Outdoor
 12.24,0.8,MNE,Osaka,JPN,2007-08-26,Milena Milašević,1984.0,Female,100,NR,Outdoor
@@ -199,7 +199,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 11.56,1.7,TKM,Almaty,KAZ,2008-06-07,Valentina Meredova,1984.0,Female,100,NR,Outdoor
 11.99,1.2,TKS,Barranquilla,COL,2018-07-29,Akia Guerrier,1998.0,Female,100,NR,Outdoor
 13.57,,TLS,Darwin,AUS,2001-05-20,Cesaltilna De Yesus Guterres,,Female,100,NR,Outdoor
-11.82,-0.2,TOG,Douala,CMR,2021-05-22,Akouvi Judith Koumedzina,2001.0,Female,100,NR,Outdoor
+11.82,,TOG,Douala,CMR,2021-05-22,Akouvi Judith Koumedzina,2001.0,Female,100,NR,Outdoor
 11.22,1.9,TPE,Wien,AUT,1970-07-18,Chi Cheng,1944.0,Female,100,NR,Outdoor
 10.82,0.9,TTO,Port of Spain,TTO,2017-06-24,Michelle-Lee Ahye,1992.0,Female,100,NR,Outdoor
 11.68,1.0,TUN,Alger,ALG,2000-08-06,Awatef Hamrouni,1981.0,Female,100,NR,Outdoor
