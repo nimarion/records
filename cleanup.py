@@ -148,4 +148,8 @@ if __name__ == '__main__':
 
         outputDf = outputDf.drop(columns=['Performance'])
 
+        if 'yearOfBirth' in outputDf.columns:
+            outputDf['yearOfBirth'] = outputDf['yearOfBirth'].fillna(-1).astype(float).astype(int)
+            outputDf['yearOfBirth'] = outputDf['yearOfBirth'].replace(-1, "")
+
         outputDf.to_csv(file, index=False)

@@ -85,11 +85,12 @@ if __name__ == '__main__':
 
         outputDf = pd.concat([outputDf, df])
 
-    
-    desired_order = ['code', 'type', 'discipline', 'result', 'wind', 'venue', 'venueCountry', 'venueCity', 'environment', 'date', 'name', 'firstname', 'lastname', 'nation', 'yearOfBirth', 'sex']
+    outputDf['class'] = outputDf['sex'].apply(lambda x: 'M' if x == 'Male' else ('W' if x == 'Female' else 'X'))
+
+    desired_order = ['code', 'type', 'discipline', 'class', 'result', 'wind', 'venue', 'venueCountry', 'environment', 'date', 'name', 'firstname', 'lastname', 'nation', 'yearOfBirth', 'sex']
     columns_to_drop = set(df.columns) - set(desired_order)
     outputDf = outputDf.drop(columns=columns_to_drop, errors="ignore")
 
     outputDf = outputDf.reindex(columns=desired_order)
 
-    outputDf.to_csv(args.output, index=False)
+    outputDf.to_csv(args.output, index=False, sep=';', encoding='ansi')

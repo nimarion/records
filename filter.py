@@ -24,4 +24,8 @@ if __name__ == '__main__':
     filtered_input = filtered_input.fillna("")
     filtered_input = filtered_input.replace("nan", "")
 
-    filtered_input.to_csv(args.output, index=False)
+    # yearOfBirth as int
+    if 'yearOfBirth' in filtered_input.columns:
+        filtered_input['yearOfBirth'] = filtered_input['yearOfBirth'].astype(float).astype(int)
+
+    filtered_input.to_csv(args.output, index=False, sep=';', encoding='ansi')
