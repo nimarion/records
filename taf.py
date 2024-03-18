@@ -93,4 +93,4 @@ if __name__ == '__main__':
 
     outputDf = outputDf.reindex(columns=desired_order)
 
-    outputDf.to_csv(args.output, index=False, sep=';', encoding='ansi')
+    outputDf.to_csv(args.output, index=False, sep=';')

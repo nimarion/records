@@ -28,4 +28,4 @@ if __name__ == '__main__':
     if 'yearOfBirth' in filtered_input.columns:
         filtered_input['yearOfBirth'] = filtered_input['yearOfBirth'].astype(float).astype(int)
 
-    filtered_input.to_csv(args.output, index=False, sep=';', encoding='ansi')
+    filtered_input.to_csv(args.output, index=False, sep=';')
