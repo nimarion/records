@@ -1,64 +1,64 @@
 result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,environment
-33.94,ALG,Alger,ALG,2022-02-12,Anas Es Saddik Hammouni,1995.0,Male,300,NR,Outdoor
-33.61,ANT,Fort Lauderdale,USA,2022-02-05,Cejhae Greene,1995.0,Male,300,NR,Outdoor
-35.29,ARG,Mar del Plata,ARG,2022-10-27,Ignacio Cabrera,2005.0,Male,300,NR,Outdoor
-35.46,AUT,Wien,AUT,2022-08-31,Samuel Reindl,1996.0,Male,300,NR,Outdoor
-31.52,BAH,Ponce,PUR,2022-05-12,Steven Gardiner,1995.0,Male,300,NR,Outdoor
-34.01,BEN,Sydney,AUS,2000-09-14,Pascal Dangbo,1972.0,Male,300,NR,Outdoor
-30.69,BOT,Pretoria,RSA,2024-02-17,Letsile Tebogo,2003.0,Male,300,NR,Outdoor
-31.95,COD,Villeneuve d'Ascq,FRA,2005-06-12,Gary Kikaya,1980.0,Male,300,NR,Outdoor
-31.80,CZE,Ostrava,CZE,2017-06-28,Pavel Maslák,1991.0,Male,300,NR,Outdoor
-32.77,EGY,Sollentuna,SWE,2008-07-08,Amr Ibrahim Mostafa Seoud,1986.0,Male,300,NR,Outdoor
-32.24,EST,Rieti,ITA,2014-09-07,Marek Niit,1987.0,Male,300,NR,Outdoor
-32.72,FIJ,Naimette-Xhovémont,BEL,2008-07-16,Niko Verekauta,1987.0,Male,300,NR,Outdoor
-33.27,FIN,Lappeenranta,FIN,2023-06-01,Samuel Purola,2000.0,Male,300,NR,Outdoor
-31.96,FRA,Strasbourg,FRA,1999-06-29,Marc Foucan,1971.0,Male,300,NR,Outdoor
-33.92,GAB,Victoria,CAN,2002-05-22,Antoine Boussombo,1968.0,Male,300,NR,Outdoor
-31.56,GBR,Gateshead,GBR,1998-07-19,Doug Walker,1973.0,Male,300,NR,Outdoor
-33.62,GUY,Pliezhausen,GER,2000-05-21,Paul Tucker,1976.0,Male,300,NR,Outdoor
-32.47,IRL,Ostrava,CZE,2008-06-12,Paul Hession,1983.0,Male,300,NR,Outdoor
-32.94,ISR,Tel Aviv,ISR,2015-02-14,Donald Blair-Sanford,1987.0,Male,300,NR,Outdoor
-30.97,JAM,Ostrava,CZE,2010-05-27,Usain Bolt,1986.0,Male,300,NR,Outdoor
-32.21,JPN,Izumo,JPN,2015-04-12,Kenji Fujimitsu,1986.0,Male,300,NR,Outdoor
-32.76,KSA,Göteborg,SWE,2002-08-27,Hamdan Odha Al-Bishi,1981.0,Male,300,NR,Outdoor
-32.28,KUW,Ljubljana,SLO,2004-08-10,Fawzi Dahash Al-Shammari,1979.0,Male,300,NR,Outdoor
-32.40,MEX,Naimette-Xhovémont,BEL,2014-07-16,José Carlos Herrera,1986.0,Male,300,NR,Outdoor
-32.57,MRI,Villeneuve d'Ascq,FRA,2005-06-12,Éric Milazar,1975.0,Male,300,NR,Outdoor
-32.49,NOR,Bergen,NOR,2021-09-18,Karsten Warholm,1996.0,Male,300,NR,Outdoor
-31.93,POL,Rieti,ITA,2014-09-07,Karol Zalewski,1993.0,Male,300,NR,Outdoor
-30.81,RSA,Ostrava,CZE,2017-06-28,Wayde van Niekerk,1992.0,Male,300,NR,Outdoor
-31.89,SLO,Slovenska Bistrica,SLO,2017-05-27,Luka Janežič,1995.0,Male,300,NR,Outdoor
-32.49,SUD,Sestriere,ITA,2005-07-23,Ali Babiker Nagmeldin,1986.0,Male,300,NR,Outdoor
-32.10,SWE,Sollentuna,SWE,2008-07-08,Johan Wissman,1982.0,Male,300,NR,Outdoor
-33.84,THA,Pliezhausen,GER,2016-05-08,Kunanon Sukkaew,1994.0,Male,300,NR,Outdoor
-32.53,TUN,Namur,BEL,2001-08-17,Sofiane Labidi,1977.0,Male,300,NR,Outdoor
-32.46,TUR,Ankara,TUR,2020-07-18,Sinan Ören,1998.0,Male,300,NR,Outdoor
-34.33,VAN,Cairns,AUS,2005-05-25,Moses Kamut,1982.0,Male,300,NR,Outdoor
-33.62,AZE,Moskva,RUS,2009-02-01,Ramil Guliyev,1990.0,Male,300,NR,Indoor
-31.56,BAH,Columbia,USA,2022-01-28,Steven Gardiner,1995.0,Male,300,NR,Indoor
-32.47,CAN,Clemson,USA,2024-01-13,Christopher Morales Williams,2004.0,Male,300,NR,Indoor
-33.17,CMR,Liévin,FRA,2005-02-26,Joseph Batangdon,1978.0,Male,300,NR,Indoor
-32.74,CUB,Liévin,FRA,2010-03-05,William Collazo,1986.0,Male,300,NR,Indoor
-32.15,CZE,Gent,BEL,2014-02-09,Pavel Maslák,1991.0,Male,300,NR,Indoor
-33.40,EST,Tallinn,EST,2022-01-30,Lukas Lessel,2000.0,Male,300,NR,Indoor
-33.74,FIN,Jyväskylä,FIN,2024-02-03,Viljami Kaasalainen,1995.0,Male,300,NR,Indoor
-32.47,FRA,Liévin,FRA,2010-03-05,Leslie Djhone,1981.0,Male,300,NR,Indoor
-34.14,GAB,Winnipeg,CAN,2005-03-11,Antoine Boussombo,1968.0,Male,300,NR,Indoor
-32.72,GBR,Columbia,USA,2023-02-03,Matthew Hudson-Smith,1994.0,Male,300,NR,Indoor
-32.72,GER,Karlsruhe,GER,1986-01-31,Erwin Skamrahl,1958.0,Male,300,NR,Indoor
-32.99,GRE,Pireás,GRE,1999-01-23,Konstadínos Kedéris,1973.0,Male,300,NR,Indoor
-33.08,GUY,Columbia,USA,2020-01-18,Arinze Chance,1996.0,Male,300,NR,Indoor
-32.54,JAM,Columbia,USA,2022-01-28,Nathon Allen,1995.0,Male,300,NR,Indoor
+33.94,ALG,Alger,ALG,2022-02-12,Anas Es Saddik Hammouni,1995,Male,300,NR,Outdoor
+33.61,ANT,Fort Lauderdale,USA,2022-02-05,Cejhae Greene,1995,Male,300,NR,Outdoor
+35.29,ARG,Mar del Plata,ARG,2022-10-27,Ignacio Cabrera,2005,Male,300,NR,Outdoor
+35.46,AUT,Wien,AUT,2022-08-31,Samuel Reindl,1996,Male,300,NR,Outdoor
+31.52,BAH,Ponce,PUR,2022-05-12,Steven Gardiner,1995,Male,300,NR,Outdoor
+34.01,BEN,Sydney,AUS,2000-09-14,Pascal Dangbo,1972,Male,300,NR,Outdoor
+30.69,BOT,Pretoria,RSA,2024-02-17,Letsile Tebogo,2003,Male,300,NR,Outdoor
+31.95,COD,Villeneuve d'Ascq,FRA,2005-06-12,Gary Kikaya,1980,Male,300,NR,Outdoor
+31.80,CZE,Ostrava,CZE,2017-06-28,Pavel Maslák,1991,Male,300,NR,Outdoor
+32.77,EGY,Sollentuna,SWE,2008-07-08,Amr Ibrahim Mostafa Seoud,1986,Male,300,NR,Outdoor
+32.24,EST,Rieti,ITA,2014-09-07,Marek Niit,1987,Male,300,NR,Outdoor
+32.72,FIJ,Naimette-Xhovémont,BEL,2008-07-16,Niko Verekauta,1987,Male,300,NR,Outdoor
+33.27,FIN,Lappeenranta,FIN,2023-06-01,Samuel Purola,2000,Male,300,NR,Outdoor
+31.96,FRA,Strasbourg,FRA,1999-06-29,Marc Foucan,1971,Male,300,NR,Outdoor
+33.92,GAB,Victoria,CAN,2002-05-22,Antoine Boussombo,1968,Male,300,NR,Outdoor
+31.56,GBR,Gateshead,GBR,1998-07-19,Doug Walker,1973,Male,300,NR,Outdoor
+33.62,GUY,Pliezhausen,GER,2000-05-21,Paul Tucker,1976,Male,300,NR,Outdoor
+32.47,IRL,Ostrava,CZE,2008-06-12,Paul Hession,1983,Male,300,NR,Outdoor
+32.94,ISR,Tel Aviv,ISR,2015-02-14,Donald Blair-Sanford,1987,Male,300,NR,Outdoor
+30.97,JAM,Ostrava,CZE,2010-05-27,Usain Bolt,1986,Male,300,NR,Outdoor
+32.21,JPN,Izumo,JPN,2015-04-12,Kenji Fujimitsu,1986,Male,300,NR,Outdoor
+32.76,KSA,Göteborg,SWE,2002-08-27,Hamdan Odha Al-Bishi,1981,Male,300,NR,Outdoor
+32.28,KUW,Ljubljana,SLO,2004-08-10,Fawzi Dahash Al-Shammari,1979,Male,300,NR,Outdoor
+32.40,MEX,Naimette-Xhovémont,BEL,2014-07-16,José Carlos Herrera,1986,Male,300,NR,Outdoor
+32.57,MRI,Villeneuve d'Ascq,FRA,2005-06-12,Éric Milazar,1975,Male,300,NR,Outdoor
+32.49,NOR,Bergen,NOR,2021-09-18,Karsten Warholm,1996,Male,300,NR,Outdoor
+31.93,POL,Rieti,ITA,2014-09-07,Karol Zalewski,1993,Male,300,NR,Outdoor
+30.81,RSA,Ostrava,CZE,2017-06-28,Wayde van Niekerk,1992,Male,300,NR,Outdoor
+31.89,SLO,Slovenska Bistrica,SLO,2017-05-27,Luka Janežič,1995,Male,300,NR,Outdoor
+32.49,SUD,Sestriere,ITA,2005-07-23,Ali Babiker Nagmeldin,1986,Male,300,NR,Outdoor
+32.10,SWE,Sollentuna,SWE,2008-07-08,Johan Wissman,1982,Male,300,NR,Outdoor
+33.84,THA,Pliezhausen,GER,2016-05-08,Kunanon Sukkaew,1994,Male,300,NR,Outdoor
+32.53,TUN,Namur,BEL,2001-08-17,Sofiane Labidi,1977,Male,300,NR,Outdoor
+32.46,TUR,Ankara,TUR,2020-07-18,Sinan Ören,1998,Male,300,NR,Outdoor
+34.33,VAN,Cairns,AUS,2005-05-25,Moses Kamut,1982,Male,300,NR,Outdoor
+33.62,AZE,Moskva,RUS,2009-02-01,Ramil Guliyev,1990,Male,300,NR,Indoor
+31.56,BAH,Columbia,USA,2022-01-28,Steven Gardiner,1995,Male,300,NR,Indoor
+32.47,CAN,Clemson,USA,2024-01-13,Christopher Morales Williams,2004,Male,300,NR,Indoor
+33.17,CMR,Liévin,FRA,2005-02-26,Joseph Batangdon,1978,Male,300,NR,Indoor
+32.74,CUB,Liévin,FRA,2010-03-05,William Collazo,1986,Male,300,NR,Indoor
+32.15,CZE,Gent,BEL,2014-02-09,Pavel Maslák,1991,Male,300,NR,Indoor
+33.40,EST,Tallinn,EST,2022-01-30,Lukas Lessel,2000,Male,300,NR,Indoor
+33.74,FIN,Jyväskylä,FIN,2024-02-03,Viljami Kaasalainen,1995,Male,300,NR,Indoor
+32.47,FRA,Liévin,FRA,2010-03-05,Leslie Djhone,1981,Male,300,NR,Indoor
+34.14,GAB,Winnipeg,CAN,2005-03-11,Antoine Boussombo,1968,Male,300,NR,Indoor
+32.72,GBR,Columbia,USA,2023-02-03,Matthew Hudson-Smith,1994,Male,300,NR,Indoor
+32.72,GER,Karlsruhe,GER,1986-01-31,Erwin Skamrahl,1958,Male,300,NR,Indoor
+32.99,GRE,Pireás,GRE,1999-01-23,Konstadínos Kedéris,1973,Male,300,NR,Indoor
+33.08,GUY,Columbia,USA,2020-01-18,Arinze Chance,1996,Male,300,NR,Indoor
+32.54,JAM,Columbia,USA,2022-01-28,Nathon Allen,1995,Male,300,NR,Indoor
 39.34,JOR,Kearney,USA,2002-02-02,Rami Ali,,Male,300,NR,Indoor
-33.14,KAZ,Ust-Kamenogorsk,KAZ,2022-02-12,Mikhail Litvin,1996.0,Male,300,NR,Indoor
-33.43,KEN,Moskva,RUS,2004-02-01,Vincent Mumo,1982.0,Male,300,NR,Indoor
-33.64,LAT,Tallinn,EST,2023-01-29,Iļja Petrušenko,1999.0,Male,300,NR,Indoor
-32.88,LTU,Ithaca,USA,2022-12-03,Tomas Kersulis,2001.0,Male,300,NR,Indoor
-33.76,MAR,Albuquerque,USA,2024-01-20,Aymane El Haddaoui,2001.0,Male,300,NR,Indoor
-32.36,NAM,Karlsruhe,GER,2003-02-28,Frank Fredericks,1967.0,Male,300,NR,Indoor
-33.70,POR,Gent,BEL,2013-02-02,Arnaldo Abrantes,1986.0,Male,300,NR,Indoor
-32.75,RUS,Liévin,FRA,2011-02-08,Roman Smirnov,1984.0,Male,300,NR,Indoor
-33.50,SKN,Birmingham,USA,2021-01-15,Warren Hazel,1996.0,Male,300,NR,Indoor
-33.04,SUD,Liévin,FRA,2010-03-05,Rabah Yousif,1986.0,Male,300,NR,Indoor
-32.61,SWE,Liévin,FRA,2006-03-03,Johan Wissman,1982.0,Male,300,NR,Indoor
-31.87,USA,Albuquerque,USA,2017-03-04,Noah Lyles,1997.0,Male,300,NR,Indoor
+33.14,KAZ,Ust-Kamenogorsk,KAZ,2022-02-12,Mikhail Litvin,1996,Male,300,NR,Indoor
+33.43,KEN,Moskva,RUS,2004-02-01,Vincent Mumo,1982,Male,300,NR,Indoor
+33.64,LAT,Tallinn,EST,2023-01-29,Iļja Petrušenko,1999,Male,300,NR,Indoor
+32.88,LTU,Ithaca,USA,2022-12-03,Tomas Kersulis,2001,Male,300,NR,Indoor
+33.76,MAR,Albuquerque,USA,2024-01-20,Aymane El Haddaoui,2001,Male,300,NR,Indoor
+32.36,NAM,Karlsruhe,GER,2003-02-28,Frank Fredericks,1967,Male,300,NR,Indoor
+33.70,POR,Gent,BEL,2013-02-02,Arnaldo Abrantes,1986,Male,300,NR,Indoor
+32.75,RUS,Liévin,FRA,2011-02-08,Roman Smirnov,1984,Male,300,NR,Indoor
+33.50,SKN,Birmingham,USA,2021-01-15,Warren Hazel,1996,Male,300,NR,Indoor
+33.04,SUD,Liévin,FRA,2010-03-05,Rabah Yousif,1986,Male,300,NR,Indoor
+32.61,SWE,Liévin,FRA,2006-03-03,Johan Wissman,1982,Male,300,NR,Indoor
+31.87,USA,Albuquerque,USA,2017-03-04,Noah Lyles,1997,Male,300,NR,Indoor

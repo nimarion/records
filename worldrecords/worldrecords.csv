@@ -1,114 +1,114 @@
 result,discipline,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,environment,type
-26:11.00,"10,000m",,UGA,Valencia,ESP,2020-10-07,Joshua Cheptegei,1996.0,Male,Outdoor,WR
-2:11.96,1000m,,KEN,Rieti,ITA,1999-09-05,Noah Ngeny,1978.0,Male,Outdoor,WR
-9.58,100m,0.9,JAM,Berlin,GER,2009-08-16,Usain Bolt,1986.0,Male,Outdoor,WR
-26:24,"10km, Road",,KEN,Valencia,ESP,2020-01-12,Rhonex Kipruto,1999.0,Male,Outdoor,WR
-12.80,110m Hurdles,0.3,USA,Bruxelles,BEL,2012-09-07,Aries Merritt,1985.0,Male,Outdoor,WR
-3:26.00,1500m,,MAR,Roma,ITA,1998-07-14,Hicham El Guerrouj,1974.0,Male,Outdoor,WR
-4:43.13,2000m,,NOR,Bruxelles,BEL,2023-09-08,Jakob Ingebrigtsen,2000.0,Male,Outdoor,WR
-19.19,200m,-0.3,JAM,Berlin,GER,2009-08-20,Usain Bolt,1986.0,Male,Outdoor,WR
-1:16:36,20km Race Walk,,JPN,Nomi,JPN,2015-03-15,Yusuke Suzuki,1988.0,Male,Outdoor,WR
-7:20.67,3000m,,KEN,Rieti,ITA,1996-09-01,Daniel Komen,1976.0,Male,Outdoor,WR
-7:53.63,3000m Steeplechase,,QAT,Bruxelles,BEL,2004-09-03,Saif Saeed Shaheen,1982.0,Male,Outdoor,WR
-2:21:31,35km Race Walk,,RUS,Adler,RUS,2006-02-19,Vladimir Kanaykin,1985.0,Male,Outdoor,WR
+26:11.00,"10,000m",,UGA,Valencia,ESP,2020-10-07,Joshua Cheptegei,1996,Male,Outdoor,WR
+2:11.96,1000m,,KEN,Rieti,ITA,1999-09-05,Noah Ngeny,1978,Male,Outdoor,WR
+9.58,100m,0.9,JAM,Berlin,GER,2009-08-16,Usain Bolt,1986,Male,Outdoor,WR
+26:24,"10km, Road",,KEN,Valencia,ESP,2020-01-12,Rhonex Kipruto,1999,Male,Outdoor,WR
+12.80,110m Hurdles,0.3,USA,Bruxelles,BEL,2012-09-07,Aries Merritt,1985,Male,Outdoor,WR
+3:26.00,1500m,,MAR,Roma,ITA,1998-07-14,Hicham El Guerrouj,1974,Male,Outdoor,WR
+4:43.13,2000m,,NOR,Bruxelles,BEL,2023-09-08,Jakob Ingebrigtsen,2000,Male,Outdoor,WR
+19.19,200m,-0.3,JAM,Berlin,GER,2009-08-20,Usain Bolt,1986,Male,Outdoor,WR
+1:16:36,20km Race Walk,,JPN,Nomi,JPN,2015-03-15,Yusuke Suzuki,1988,Male,Outdoor,WR
+7:20.67,3000m,,KEN,Rieti,ITA,1996-09-01,Daniel Komen,1976,Male,Outdoor,WR
+7:53.63,3000m Steeplechase,,QAT,Bruxelles,BEL,2004-09-03,Saif Saeed Shaheen,1982,Male,Outdoor,WR
+2:21:31,35km Race Walk,,RUS,Adler,RUS,2006-02-19,Vladimir Kanaykin,1985,Male,Outdoor,WR
 36.84,4 x 100m,,JAM,London,GBR,2012-08-11,Jamaica,,Male,Outdoor,WR
 2:54.29,4 x 400m,,USA,Stuttgart,GER,1993-08-22,United States,,Male,Outdoor,WR
 3:09.34,4 x 400m Mixed relay,,USA,Doha,QAT,2019-09-29,United States,,Male,Outdoor,WR
-43.03,400m,,RSA,Río de Janeiro,BRA,2016-08-14,Wayde van Niekerk,1992.0,Male,Outdoor,WR
-45.94,400m Hurdles,,NOR,Tokyo,JPN,2021-08-03,Karsten Warholm,1996.0,Male,Outdoor,WR
-12:35.36,5000m,,UGA,Monaco,MON,2020-08-14,Joshua Cheptegei,1996.0,Male,Outdoor,WR
-3:32:33,50km Race Walk,,FRA,Zürich,SUI,2014-08-15,Yohann Diniz,1978.0,Male,Outdoor,WR
-12:51,"5km, Road",,UGA,Monaco,MON,2020-02-16,Joshua Cheptegei,1996.0,Male,Outdoor,WR
-1:40.91,800m,,KEN,London,GBR,2012-08-09,David Rudisha,1988.0,Male,Outdoor,WR
-9126,Decathlon,,FRA,Talence,FRA,2018-09-16,Kevin Mayer,1992.0,Male,Outdoor,WR
-74.08,Discus Throw,,GER,Neubrandenburg,GER,1986-06-06,Jürgen Schult,1960.0,Male,Outdoor,WR
-57:31,Half Marathon,,UGA,Lisboa,POR,2021-11-21,Jacob Kiplimo,2000.0,Male,Outdoor,WR
-86.74,Hammer Throw,,UKR,Stuttgart,FRG,1986-08-30,Yuriy Sedykh,1955.0,Male,Outdoor,WR
-2.45,High Jump,,CUB,Salamanca,ESP,1993-07-27,Javier Sotomayor,1967.0,Male,Outdoor,WR
-98.48,Javelin Throw,,CZE,Jena,GER,1996-05-25,Jan Železný,1966.0,Male,Outdoor,WR
-8.95,Long Jump,0.3,USA,Tokyo,JPN,1991-08-30,Mike Powell,1963.0,Male,Outdoor,WR
-2:01:09,Marathon,,KEN,Berlin,GER,2022-09-25,Eliud Kipchoge,1984.0,Male,Outdoor,WR
-4:23,"Mile, Road",,UKR,Chernivtsi,UKR,2023-09-26,Oleh Myronets,1998.0,Male,Outdoor,WR
-3:43.13,One Mile,,MAR,Roma,ITA,1999-07-07,Hicham El Guerrouj,1974.0,Male,Outdoor,WR
-6.23,Pole Vault,,SWE,Eugene,USA,2023-09-17,Armand Duplantis,1999.0,Male,Outdoor,WR
-23.37,Shot Put,,USA,Eugene,USA,2021-06-18,Ryan Crouser,1992.0,Male,Outdoor,WR
-18.29,Triple Jump,1.3,GBR,Göteborg,SWE,1995-08-07,Jonathan Edwards,1966.0,Male,Outdoor,WR
-7:54.10,Two Miles,,NOR,Paris,FRA,2023-06-09,Jakob Ingebrigtsen,2000.0,Male,Outdoor,WR
-2:14.20,1000m,,DJI,Stockholm,SWE,2016-02-17,Ayanleh Souleiman,1992.0,Male,Indoor,WR
-3:30.60,1500m,,NOR,Liévin,FRA,2022-02-17,Jakob Ingebrigtsen,2000.0,Male,Indoor,WR
-4:51.23,2000m,,ETH,Liévin,FRA,2024-02-10,Lamecha Girma,2000.0,Male,Indoor,WR
-19.92,200m,,NAM,Liévin,FRA,1996-02-18,Frank Fredericks,1967.0,Male,Indoor,WR
-7:23.81,3000m,,ETH,Liévin,FRA,2023-02-15,Lamecha Girma,2000.0,Male,Indoor,WR
+43.03,400m,,RSA,Río de Janeiro,BRA,2016-08-14,Wayde van Niekerk,1992,Male,Outdoor,WR
+45.94,400m Hurdles,,NOR,Tokyo,JPN,2021-08-03,Karsten Warholm,1996,Male,Outdoor,WR
+12:35.36,5000m,,UGA,Monaco,MON,2020-08-14,Joshua Cheptegei,1996,Male,Outdoor,WR
+3:32:33,50km Race Walk,,FRA,Zürich,SUI,2014-08-15,Yohann Diniz,1978,Male,Outdoor,WR
+12:51,"5km, Road",,UGA,Monaco,MON,2020-02-16,Joshua Cheptegei,1996,Male,Outdoor,WR
+1:40.91,800m,,KEN,London,GBR,2012-08-09,David Rudisha,1988,Male,Outdoor,WR
+9126,Decathlon,,FRA,Talence,FRA,2018-09-16,Kevin Mayer,1992,Male,Outdoor,WR
+74.08,Discus Throw,,GER,Neubrandenburg,GER,1986-06-06,Jürgen Schult,1960,Male,Outdoor,WR
+57:31,Half Marathon,,UGA,Lisboa,POR,2021-11-21,Jacob Kiplimo,2000,Male,Outdoor,WR
+86.74,Hammer Throw,,UKR,Stuttgart,FRG,1986-08-30,Yuriy Sedykh,1955,Male,Outdoor,WR
+2.45,High Jump,,CUB,Salamanca,ESP,1993-07-27,Javier Sotomayor,1967,Male,Outdoor,WR
+98.48,Javelin Throw,,CZE,Jena,GER,1996-05-25,Jan Železný,1966,Male,Outdoor,WR
+8.95,Long Jump,0.3,USA,Tokyo,JPN,1991-08-30,Mike Powell,1963,Male,Outdoor,WR
+2:01:09,Marathon,,KEN,Berlin,GER,2022-09-25,Eliud Kipchoge,1984,Male,Outdoor,WR
+4:23,"Mile, Road",,UKR,Chernivtsi,UKR,2023-09-26,Oleh Myronets,1998,Male,Outdoor,WR
+3:43.13,One Mile,,MAR,Roma,ITA,1999-07-07,Hicham El Guerrouj,1974,Male,Outdoor,WR
+6.23,Pole Vault,,SWE,Eugene,USA,2023-09-17,Armand Duplantis,1999,Male,Outdoor,WR
+23.37,Shot Put,,USA,Eugene,USA,2021-06-18,Ryan Crouser,1992,Male,Outdoor,WR
+18.29,Triple Jump,1.3,GBR,Göteborg,SWE,1995-08-07,Jonathan Edwards,1966,Male,Outdoor,WR
+7:54.10,Two Miles,,NOR,Paris,FRA,2023-06-09,Jakob Ingebrigtsen,2000,Male,Outdoor,WR
+2:14.20,1000m,,DJI,Stockholm,SWE,2016-02-17,Ayanleh Souleiman,1992,Male,Indoor,WR
+3:30.60,1500m,,NOR,Liévin,FRA,2022-02-17,Jakob Ingebrigtsen,2000,Male,Indoor,WR
+4:51.23,2000m,,ETH,Liévin,FRA,2024-02-10,Lamecha Girma,2000,Male,Indoor,WR
+19.92,200m,,NAM,Liévin,FRA,1996-02-18,Frank Fredericks,1967,Male,Indoor,WR
+7:23.81,3000m,,ETH,Liévin,FRA,2023-02-15,Lamecha Girma,2000,Male,Indoor,WR
 1:22.11,4 x 200m,,GBR,Glasgow,GBR,1991-03-03,Great Britain,,Male,Indoor,WR
 3:01.51,4 x 400m,,USA,Clemson,USA,2019-02-09,United States,,Male,Indoor,WR
 7:11.30,4 x 800m,,USA,Boston,USA,2018-02-25,United States,,Male,Indoor,WR
-44.49,400m,,CAN,Fayetteville,USA,2024-02-24,Christopher Morales Williams,2004.0,Male,Indoor,WR
-12:49.60,5000m,,ETH,Birmingham,GBR,2004-02-20,Kenenisa Bekele,1982.0,Male,Indoor,WR
-18:07.08,5000m Race Walk,,RUS,Moskva,RUS,1995-02-14,Mikhail Shchennikov,1967.0,Male,Indoor,WR
-6.34,60m,,USA,Albuquerque,USA,2018-02-18,Christian Coleman,1996.0,Male,Indoor,WR
-7.27,60m Hurdles,,USA,Albuquerque,USA,2024-02-16,Grant Holloway,1997.0,Male,Indoor,WR
-1:42.67,800m,,DEN,Paris,FRA,1997-03-09,Wilson Kipketer,1972.0,Male,Indoor,WR
-6645,Heptathlon,,USA,Istanbul,TUR,2012-03-10,Ashton Eaton,1988.0,Male,Indoor,WR
-2.43,High Jump,,CUB,Budapest,HUN,1989-03-04,Javier Sotomayor,1967.0,Male,Indoor,WR
-8.79,Long Jump,,USA,New York,USA,1984-01-27,Carl Lewis,1961.0,Male,Indoor,WR
-3:47.01,One Mile,,ETH,Boston,USA,2019-03-03,Yomif Kejelcha,1997.0,Male,Indoor,WR
-6.22,Pole Vault,,SWE,Clermont-Ferrand,FRA,2023-02-25,Armand Duplantis,1999.0,Male,Indoor,WR
-23.38,Shot Put,,USA,Pocatello,USA,2023-02-18,Ryan Crouser,1992.0,Male,Indoor,WR
-9.07,Shot Put (3kg),,EST,Rakvere,EST,2024-01-09,Andero Bergström,2011.0,Male,Indoor,WR
-18.07,Triple Jump,,BUR,Aubière,FRA,2021-01-16,Hugues Fabrice Zango,1993.0,Male,Indoor,WR
-8:00.67,Two Miles,,GBR,New York,USA,2024-02-11,Josh Kerr,1997.0,Male,Indoor,WR
-29:01.03,"10,000m",,ETH,Hengelo,NED,2021-06-08,Letesenbet Gidey,1998.0,Female,Outdoor,WR
-2:28.98,1000m,,RUS,Bruxelles,BEL,1996-08-23,Svetlana Masterkova,1968.0,Female,Outdoor,WR
-10.49,100m,0.0,USA,Indianapolis,USA,1988-07-16,Florence Griffith-Joyner,1959.0,Female,Outdoor,WR
-12.12,100m Hurdles,0.9,NGR,Eugene,USA,2022-07-24,Tobi Amusan,1997.0,Female,Outdoor,WR
-41:04,10km Race Walk,,RUS,Sochi,RUS,1996-04-20,Yelena Nikolayeva,1966.0,Female,Outdoor,WR
-28:46,"10km, Road",,KEN,Valencia,ESP,2024-01-14,Agnes Ngetich,2001.0,Female,Outdoor,WR
-3:49.11,1500m,,KEN,Firenze,ITA,2023-06-02,Faith Kipyegon,1994.0,Female,Outdoor,WR
-21.34,200m,1.3,USA,Seoul,KOR,1988-09-29,Florence Griffith-Joyner,1959.0,Female,Outdoor,WR
-1:23:39,20km Race Walk,,RUS,Cheboksary,RUS,2018-06-09,Yelena Lashmanova,1992.0,Female,Outdoor,WR
-8:06.11,3000m,,CHN,Beijing,CHN,1993-09-13,Wang Junxia,1973.0,Female,Outdoor,WR
-8:44.32,3000m Steeplechase,,KEN,Monaco,MON,2018-07-20,Beatrice Chepkoech,1991.0,Female,Outdoor,WR
-2:37:11,35km Race Walk,,RUS,Saransk,RUS,2023-05-20,Klavdiya Afanasyeva,1996.0,Female,Outdoor,WR
+44.49,400m,,CAN,Fayetteville,USA,2024-02-24,Christopher Morales Williams,2004,Male,Indoor,WR
+12:49.60,5000m,,ETH,Birmingham,GBR,2004-02-20,Kenenisa Bekele,1982,Male,Indoor,WR
+18:07.08,5000m Race Walk,,RUS,Moskva,RUS,1995-02-14,Mikhail Shchennikov,1967,Male,Indoor,WR
+6.34,60m,,USA,Albuquerque,USA,2018-02-18,Christian Coleman,1996,Male,Indoor,WR
+7.27,60m Hurdles,,USA,Albuquerque,USA,2024-02-16,Grant Holloway,1997,Male,Indoor,WR
+1:42.67,800m,,DEN,Paris,FRA,1997-03-09,Wilson Kipketer,1972,Male,Indoor,WR
+6645,Heptathlon,,USA,Istanbul,TUR,2012-03-10,Ashton Eaton,1988,Male,Indoor,WR
+2.43,High Jump,,CUB,Budapest,HUN,1989-03-04,Javier Sotomayor,1967,Male,Indoor,WR
+8.79,Long Jump,,USA,New York,USA,1984-01-27,Carl Lewis,1961,Male,Indoor,WR
+3:47.01,One Mile,,ETH,Boston,USA,2019-03-03,Yomif Kejelcha,1997,Male,Indoor,WR
+6.22,Pole Vault,,SWE,Clermont-Ferrand,FRA,2023-02-25,Armand Duplantis,1999,Male,Indoor,WR
+23.38,Shot Put,,USA,Pocatello,USA,2023-02-18,Ryan Crouser,1992,Male,Indoor,WR
+9.07,Shot Put (3kg),,EST,Rakvere,EST,2024-01-09,Andero Bergström,2011,Male,Indoor,WR
+18.07,Triple Jump,,BUR,Aubière,FRA,2021-01-16,Hugues Fabrice Zango,1993,Male,Indoor,WR
+8:00.67,Two Miles,,GBR,New York,USA,2024-02-11,Josh Kerr,1997,Male,Indoor,WR
+29:01.03,"10,000m",,ETH,Hengelo,NED,2021-06-08,Letesenbet Gidey,1998,Female,Outdoor,WR
+2:28.98,1000m,,RUS,Bruxelles,BEL,1996-08-23,Svetlana Masterkova,1968,Female,Outdoor,WR
+10.49,100m,0.0,USA,Indianapolis,USA,1988-07-16,Florence Griffith-Joyner,1959,Female,Outdoor,WR
+12.12,100m Hurdles,0.9,NGR,Eugene,USA,2022-07-24,Tobi Amusan,1997,Female,Outdoor,WR
+41:04,10km Race Walk,,RUS,Sochi,RUS,1996-04-20,Yelena Nikolayeva,1966,Female,Outdoor,WR
+28:46,"10km, Road",,KEN,Valencia,ESP,2024-01-14,Agnes Ngetich,2001,Female,Outdoor,WR
+3:49.11,1500m,,KEN,Firenze,ITA,2023-06-02,Faith Kipyegon,1994,Female,Outdoor,WR
+21.34,200m,1.3,USA,Seoul,KOR,1988-09-29,Florence Griffith-Joyner,1959,Female,Outdoor,WR
+1:23:39,20km Race Walk,,RUS,Cheboksary,RUS,2018-06-09,Yelena Lashmanova,1992,Female,Outdoor,WR
+8:06.11,3000m,,CHN,Beijing,CHN,1993-09-13,Wang Junxia,1973,Female,Outdoor,WR
+8:44.32,3000m Steeplechase,,KEN,Monaco,MON,2018-07-20,Beatrice Chepkoech,1991,Female,Outdoor,WR
+2:37:11,35km Race Walk,,RUS,Saransk,RUS,2023-05-20,Klavdiya Afanasyeva,1996,Female,Outdoor,WR
 40.82,4 x 100m,,USA,London,GBR,2012-08-10,United States,,Female,Outdoor,WR
 3:15.17,4 x 400m,,URS,Seoul,KOR,1988-10-01,Soviet Union,,Female,Outdoor,WR
-47.60,400m,,GER,Canberra,AUS,1985-10-06,Marita Koch,1957.0,Female,Outdoor,WR
-50.68,400m Hurdles,,USA,Eugene,USA,2022-07-22,Sydney McLaughlin-Levrone,1999.0,Female,Outdoor,WR
-14:06.62,5000m,,ETH,Valencia,ESP,2020-10-07,Letesenbet Gidey,1998.0,Female,Outdoor,WR
-14:13,"5km, Road",,KEN,Barcelona,ESP,2023-12-31,Beatrice Chebet,2000.0,Female,Outdoor,WR
-1:53.28,800m,,CZE,München,FRG,1983-07-26,Jarmila Kratochvílová,1951.0,Female,Outdoor,WR
-76.80,Discus Throw,,GER,Neubrandenburg,GER,1988-07-09,Gabriele Reinsch,1963.0,Female,Outdoor,WR
-1:02:52,Half Marathon,,ETH,Valencia,ESP,2021-10-24,Letesenbet Gidey,1998.0,Female,Outdoor,WR
-82.98,Hammer Throw,,POL,Warszawa,POL,2016-08-28,Anita Włodarczyk,1985.0,Female,Outdoor,WR
-7291,Heptathlon,,USA,Seoul,KOR,1988-09-24,Jackie Joyner-Kersee,1962.0,Female,Outdoor,WR
-2.09,High Jump,,BUL,Roma,ITA,1987-08-30,Stefka Kostadinova,1965.0,Female,Outdoor,WR
-72.28,Javelin Throw,,CZE,Stuttgart,GER,2008-09-13,Barbora Špotáková,1981.0,Female,Outdoor,WR
-7.52,Long Jump,1.4,RUS,Leningrad,URS,1988-06-11,Galina Cistjaková,1962.0,Female,Outdoor,WR
-2:14:04,Marathon,,KEN,Chicago,USA,2019-10-13,Brigid Kosgei,1994.0,Female,Outdoor,WR
-5:04,"Mile, Road",,UKR,Chernivtsi,UKR,2023-09-26,Ivanna Potapchuk,2001.0,Female,Outdoor,WR
-4:12.33,One Mile,,NED,Monaco,MON,2019-07-12,Sifan Hassan,1993.0,Female,Outdoor,WR
-5.06,Pole Vault,,RUS,Zürich,SUI,2009-08-28,Yelena Isinbayeva,1982.0,Female,Outdoor,WR
-22.63,Shot Put,,RUS,Moskva,URS,1987-06-07,Natalya Lisovskaya,1962.0,Female,Outdoor,WR
-15.67,Triple Jump,0.7,VEN,Tokyo,JPN,2021-08-01,Yulimar Rojas,1995.0,Female,Outdoor,WR
-41:22.5,"10,000m Race Walk",,RUS,Saransk,RUS,2023-09-24,Elvira Khasanova,2000.0,Female,Indoor,WR
-2:30.94,1000m,,MOZ,Stockholm,SWE,1999-02-25,Maria Mutola,1972.0,Female,Indoor,WR
-3:53.09,1500m,,ETH,Liévin,FRA,2021-02-09,Gudaf Tsegay,1997.0,Female,Indoor,WR
-21.87,200m,,JAM,Liévin,FRA,1993-02-13,Merlene Ottey,1960.0,Female,Indoor,WR
-8:16.60,3000m,,ETH,Stockholm,SWE,2014-02-06,Genzebe Dibaba,1991.0,Female,Indoor,WR
-11:40.33,3000m Race Walk,,ROU,Bucureşti,ROU,1999-01-30,Claudia Ştef,1978.0,Female,Indoor,WR
+47.60,400m,,GER,Canberra,AUS,1985-10-06,Marita Koch,1957,Female,Outdoor,WR
+50.68,400m Hurdles,,USA,Eugene,USA,2022-07-22,Sydney McLaughlin-Levrone,1999,Female,Outdoor,WR
+14:06.62,5000m,,ETH,Valencia,ESP,2020-10-07,Letesenbet Gidey,1998,Female,Outdoor,WR
+14:13,"5km, Road",,KEN,Barcelona,ESP,2023-12-31,Beatrice Chebet,2000,Female,Outdoor,WR
+1:53.28,800m,,CZE,München,FRG,1983-07-26,Jarmila Kratochvílová,1951,Female,Outdoor,WR
+76.80,Discus Throw,,GER,Neubrandenburg,GER,1988-07-09,Gabriele Reinsch,1963,Female,Outdoor,WR
+1:02:52,Half Marathon,,ETH,Valencia,ESP,2021-10-24,Letesenbet Gidey,1998,Female,Outdoor,WR
+82.98,Hammer Throw,,POL,Warszawa,POL,2016-08-28,Anita Włodarczyk,1985,Female,Outdoor,WR
+7291,Heptathlon,,USA,Seoul,KOR,1988-09-24,Jackie Joyner-Kersee,1962,Female,Outdoor,WR
+2.09,High Jump,,BUL,Roma,ITA,1987-08-30,Stefka Kostadinova,1965,Female,Outdoor,WR
+72.28,Javelin Throw,,CZE,Stuttgart,GER,2008-09-13,Barbora Špotáková,1981,Female,Outdoor,WR
+7.52,Long Jump,1.4,RUS,Leningrad,URS,1988-06-11,Galina Cistjaková,1962,Female,Outdoor,WR
+2:14:04,Marathon,,KEN,Chicago,USA,2019-10-13,Brigid Kosgei,1994,Female,Outdoor,WR
+5:04,"Mile, Road",,UKR,Chernivtsi,UKR,2023-09-26,Ivanna Potapchuk,2001,Female,Outdoor,WR
+4:12.33,One Mile,,NED,Monaco,MON,2019-07-12,Sifan Hassan,1993,Female,Outdoor,WR
+5.06,Pole Vault,,RUS,Zürich,SUI,2009-08-28,Yelena Isinbayeva,1982,Female,Outdoor,WR
+22.63,Shot Put,,RUS,Moskva,URS,1987-06-07,Natalya Lisovskaya,1962,Female,Outdoor,WR
+15.67,Triple Jump,0.7,VEN,Tokyo,JPN,2021-08-01,Yulimar Rojas,1995,Female,Outdoor,WR
+41:22.5,"10,000m Race Walk",,RUS,Saransk,RUS,2023-09-24,Elvira Khasanova,2000,Female,Indoor,WR
+2:30.94,1000m,,MOZ,Stockholm,SWE,1999-02-25,Maria Mutola,1972,Female,Indoor,WR
+3:53.09,1500m,,ETH,Liévin,FRA,2021-02-09,Gudaf Tsegay,1997,Female,Indoor,WR
+21.87,200m,,JAM,Liévin,FRA,1993-02-13,Merlene Ottey,1960,Female,Indoor,WR
+8:16.60,3000m,,ETH,Stockholm,SWE,2014-02-06,Genzebe Dibaba,1991,Female,Indoor,WR
+11:40.33,3000m Race Walk,,ROU,Bucureşti,ROU,1999-01-30,Claudia Ştef,1978,Female,Indoor,WR
 1:32.41,4 x 200m,,RUS,Glasgow,GBR,2005-01-29,Russia,,Female,Indoor,WR
 3:23.37,4 x 400m,,RUS,Glasgow,GBR,2006-01-28,Russia,,Female,Indoor,WR
 8:05.89,4 x 800m,,USA,New York,USA,2018-02-03,United States,,Female,Indoor,WR
-49.17,400m,,NED,Glasgow,GBR,2024-03-02,Femke Bol,2000.0,Female,Indoor,WR
-14:18.86,5000m,,ETH,Stockholm,SWE,2015-02-19,Genzebe Dibaba,1991.0,Female,Indoor,WR
-6.92,60m,,RUS,Madrid,ESP,1993-02-11,Irina Privalova,1968.0,Female,Indoor,WR
-6.92,60m,,RUS,Madrid,ESP,1995-02-09,Irina Privalova,1968.0,Female,Indoor,WR
-7.65,60m Hurdles,,BAH,Glasgow,GBR,2024-03-03,Devynne Charlton,1995.0,Female,Indoor,WR
-1:55.82,800m,,SLO,Wien,AUT,2002-03-03,Jolanda Batagelj,1976.0,Female,Indoor,WR
-2.08,High Jump,,SWE,Arnstadt,GER,2006-02-04,Kajsa Bergqvist,1976.0,Female,Indoor,WR
-7.37,Long Jump,,GER,Wien,AUT,1988-02-13,Heike Drechsler,1964.0,Female,Indoor,WR
-4:13.31,One Mile,,ETH,Stockholm,SWE,2016-02-17,Genzebe Dibaba,1991.0,Female,Indoor,WR
-5055,Pentathlon,,BEL,Istanbul,TUR,2023-03-03,Nafissatou Thiam,1994.0,Female,Indoor,WR
-5.02,Pole Vault,,USA,Albuquerque,USA,2013-03-02,Jenn Suhr,1982.0,Female,Indoor,WR
-22.50,Shot Put,,CZE,Jablonec,TCH,1977-02-19,Helena Fibingerová,1949.0,Female,Indoor,WR
-15.74,Triple Jump,,VEN,Beograd,SRB,2022-03-20,Yulimar Rojas,1995.0,Female,Indoor,WR
-25.73,Weight Throw,,USA,Albuquerque,USA,2024-02-17,Erin Reese,1995.0,Female,Indoor,WR
+49.17,400m,,NED,Glasgow,GBR,2024-03-02,Femke Bol,2000,Female,Indoor,WR
+14:18.86,5000m,,ETH,Stockholm,SWE,2015-02-19,Genzebe Dibaba,1991,Female,Indoor,WR
+6.92,60m,,RUS,Madrid,ESP,1993-02-11,Irina Privalova,1968,Female,Indoor,WR
+6.92,60m,,RUS,Madrid,ESP,1995-02-09,Irina Privalova,1968,Female,Indoor,WR
+7.65,60m Hurdles,,BAH,Glasgow,GBR,2024-03-03,Devynne Charlton,1995,Female,Indoor,WR
+1:55.82,800m,,SLO,Wien,AUT,2002-03-03,Jolanda Batagelj,1976,Female,Indoor,WR
+2.08,High Jump,,SWE,Arnstadt,GER,2006-02-04,Kajsa Bergqvist,1976,Female,Indoor,WR
+7.37,Long Jump,,GER,Wien,AUT,1988-02-13,Heike Drechsler,1964,Female,Indoor,WR
+4:13.31,One Mile,,ETH,Stockholm,SWE,2016-02-17,Genzebe Dibaba,1991,Female,Indoor,WR
+5055,Pentathlon,,BEL,Istanbul,TUR,2023-03-03,Nafissatou Thiam,1994,Female,Indoor,WR
+5.02,Pole Vault,,USA,Albuquerque,USA,2013-03-02,Jenn Suhr,1982,Female,Indoor,WR
+22.50,Shot Put,,CZE,Jablonec,TCH,1977-02-19,Helena Fibingerová,1949,Female,Indoor,WR
+15.74,Triple Jump,,VEN,Beograd,SRB,2022-03-20,Yulimar Rojas,1995,Female,Indoor,WR
+25.73,Weight Throw,,USA,Albuquerque,USA,2024-02-17,Erin Reese,1995,Female,Indoor,WR

@@ -1,145 +1,145 @@
 result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,environment
-2:27.84,ALB,Pavia,ITA,2017-04-08,David Nikolli,1994.0,Male,1000,NR,Outdoor
-2:13.08,ALG,Tomblaine,FRA,2015-07-01,Taoufik Makhloufi,1988.0,Male,1000,NR,Outdoor
-2:23.34,AND,Olot,ESP,2020-07-21,Pol Moya,1996.0,Male,1000,NR,Outdoor
-2:18.82,ANG,Hamburg,GER,1994-07-27,João N'Tyamba,1968.0,Male,1000,NR,Outdoor
-2:25.89,ARM,Istanbul,TUR,2006-06-03,Armen Asryan,1982.0,Male,1000,NR,Outdoor
-2:16.09,AUS,Ostrava,CZE,2014-06-17,Jeff Riseley,1986.0,Male,1000,NR,Outdoor
-2:18.06,AUT,Ostrava,CZE,2014-06-17,Andreas Vojta,1989.0,Male,1000,NR,Outdoor
-2:18.90,BAR,Sydney,AUS,2000-09-14,Milton Browne,1976.0,Male,1000,NR,Outdoor
-2:15.48,BDI,Nice,FRA,1995-07-12,Arthémon Hatungimana,1974.0,Male,1000,NR,Outdoor
-2:15.50,BEL,Namur,BEL,1976-07-14,Ivo Van Damme,1954.0,Male,1000,NR,Outdoor
-2:18.4,BLR,Köln,GER,1979-08-12,Nikolay Kirov,1957.0,Male,1000,NR,Outdoor
-2:19.19,BOT,Auckland,NZL,1990-01-20,Mbiganyi Thee,1962.0,Male,1000,NR,Outdoor
-2:14.09,BRA,Nice,FRA,1984-08-20,Joaquim Cruz,1963.0,Male,1000,NR,Outdoor
-2:14.72,BRN,Stockholm,SWE,2008-07-22,Youssef Saad Kamel,1981.0,Male,1000,NR,Outdoor
-2:18.22,BUL,Stara Zagora,BUL,1988-08-20,Miroslav Chochkov,1967.0,Male,1000,NR,Outdoor
-2:14.35,CAN,Monaco,MON,2022-08-10,Marco Arop,1998.0,Male,1000,NR,Outdoor
-2:24.7,CMR,Yaoundé,CMR,2000-05-27,Pierre Foka,1972.0,Male,1000,NR,Outdoor
-2:22.8,COL,Cuenca2,ESP,2002-08-24,Edgar Rivera,1980.0,Male,1000,NR,Outdoor
-2:17.9,CRO,Karlstad,SWE,1977-08-10,Milovan Savic,1953.0,Male,1000,NR,Outdoor
-2:19.8,CUB,La Habana,CUB,2014-04-25,Jorge Félix Liranzo,1994.0,Male,1000,NR,Outdoor
-2:16.56,CZE,Stockholm,SWE,1998-08-05,Lukáš Vydra,1973.0,Male,1000,NR,Outdoor
-2:16.29,DEN,København,DEN,1995-08-23,Wilson Kipketer,1972.0,Male,1000,NR,Outdoor
-2:13.49,DJI,Lausanne,SUI,2016-08-25,Ayanleh Souleiman,1992.0,Male,1000,NR,Outdoor
-2:17.66,EGY,Göteborg,SWE,2016-07-15,Mohamed Ahmed Hamada,1992.0,Male,1000,NR,Outdoor
-2:15.99,ESP,Nerja,ESP,2021-05-12,Jesús Gómez,1991.0,Male,1000,NR,Outdoor
-2:20.49,EST,Florø,NOR,1998-05-23,Urmet Uusorg,1976.0,Male,1000,NR,Outdoor
+2:27.84,ALB,Pavia,ITA,2017-04-08,David Nikolli,1994,Male,1000,NR,Outdoor
+2:13.08,ALG,Tomblaine,FRA,2015-07-01,Taoufik Makhloufi,1988,Male,1000,NR,Outdoor
+2:23.34,AND,Olot,ESP,2020-07-21,Pol Moya,1996,Male,1000,NR,Outdoor
+2:18.82,ANG,Hamburg,GER,1994-07-27,João N'Tyamba,1968,Male,1000,NR,Outdoor
+2:25.89,ARM,Istanbul,TUR,2006-06-03,Armen Asryan,1982,Male,1000,NR,Outdoor
+2:16.09,AUS,Ostrava,CZE,2014-06-17,Jeff Riseley,1986,Male,1000,NR,Outdoor
+2:18.06,AUT,Ostrava,CZE,2014-06-17,Andreas Vojta,1989,Male,1000,NR,Outdoor
+2:18.90,BAR,Sydney,AUS,2000-09-14,Milton Browne,1976,Male,1000,NR,Outdoor
+2:15.48,BDI,Nice,FRA,1995-07-12,Arthémon Hatungimana,1974,Male,1000,NR,Outdoor
+2:15.50,BEL,Namur,BEL,1976-07-14,Ivo Van Damme,1954,Male,1000,NR,Outdoor
+2:18.4,BLR,Köln,GER,1979-08-12,Nikolay Kirov,1957,Male,1000,NR,Outdoor
+2:19.19,BOT,Auckland,NZL,1990-01-20,Mbiganyi Thee,1962,Male,1000,NR,Outdoor
+2:14.09,BRA,Nice,FRA,1984-08-20,Joaquim Cruz,1963,Male,1000,NR,Outdoor
+2:14.72,BRN,Stockholm,SWE,2008-07-22,Youssef Saad Kamel,1981,Male,1000,NR,Outdoor
+2:18.22,BUL,Stara Zagora,BUL,1988-08-20,Miroslav Chochkov,1967,Male,1000,NR,Outdoor
+2:14.35,CAN,Monaco,MON,2022-08-10,Marco Arop,1998,Male,1000,NR,Outdoor
+2:24.7,CMR,Yaoundé,CMR,2000-05-27,Pierre Foka,1972,Male,1000,NR,Outdoor
+2:22.8,COL,Cuenca2,ESP,2002-08-24,Edgar Rivera,1980,Male,1000,NR,Outdoor
+2:17.9,CRO,Karlstad,SWE,1977-08-10,Milovan Savic,1953,Male,1000,NR,Outdoor
+2:19.8,CUB,La Habana,CUB,2014-04-25,Jorge Félix Liranzo,1994,Male,1000,NR,Outdoor
+2:16.56,CZE,Stockholm,SWE,1998-08-05,Lukáš Vydra,1973,Male,1000,NR,Outdoor
+2:16.29,DEN,København,DEN,1995-08-23,Wilson Kipketer,1972,Male,1000,NR,Outdoor
+2:13.49,DJI,Lausanne,SUI,2016-08-25,Ayanleh Souleiman,1992,Male,1000,NR,Outdoor
+2:17.66,EGY,Göteborg,SWE,2016-07-15,Mohamed Ahmed Hamada,1992,Male,1000,NR,Outdoor
+2:15.99,ESP,Nerja,ESP,2021-05-12,Jesús Gómez,1991,Male,1000,NR,Outdoor
+2:20.49,EST,Florø,NOR,1998-05-23,Urmet Uusorg,1976,Male,1000,NR,Outdoor
 2:15.75,ETH,Bruxelles,BEL,2014-05-09,Mohammed Aman,,Male,1000,NR,Outdoor
-2:22.2,FIJ,København,DEN,1981-07-09,Richard Kermode,1955.0,Male,1000,NR,Outdoor
-2:16.88,FIN,Lahti,FIN,1987-08-11,Ari Suhonen,1965.0,Male,1000,NR,Outdoor
-2:13.96,FRA,Strasbourg,FRA,2003-06-26,Mehdi Baala,1978.0,Male,1000,NR,Outdoor
-2:24.93,GAM,Pliezhausen,GER,2019-05-12,Omar Jammeh,1995.0,Male,1000,NR,Outdoor
-2:12.18,GBR,Oslo,NOR,1981-07-11,Sebastian Coe,1956.0,Male,1000,NR,Outdoor
-2:14.53,GER,Oslo,NOR,1980-07-01,Willi Wülbeck,1954.0,Male,1000,NR,Outdoor
-2:18.94,GRE,Athína,GRE,2000-06-28,Pávlos Faroúggias,1977.0,Male,1000,NR,Outdoor
+2:22.2,FIJ,København,DEN,1981-07-09,Richard Kermode,1955,Male,1000,NR,Outdoor
+2:16.88,FIN,Lahti,FIN,1987-08-11,Ari Suhonen,1965,Male,1000,NR,Outdoor
+2:13.96,FRA,Strasbourg,FRA,2003-06-26,Mehdi Baala,1978,Male,1000,NR,Outdoor
+2:24.93,GAM,Pliezhausen,GER,2019-05-12,Omar Jammeh,1995,Male,1000,NR,Outdoor
+2:12.18,GBR,Oslo,NOR,1981-07-11,Sebastian Coe,1956,Male,1000,NR,Outdoor
+2:14.53,GER,Oslo,NOR,1980-07-01,Willi Wülbeck,1954,Male,1000,NR,Outdoor
+2:18.94,GRE,Athína,GRE,2000-06-28,Pávlos Faroúggias,1977,Male,1000,NR,Outdoor
 2:30.14,GUI,Paris,FRA,2011-10-07,Felemou Athos,,Male,1000,NR,Outdoor
-2:19.06,HAI,New York,USA,2005-06-11,Moise Joseph,1981.0,Male,1000,NR,Outdoor
-2:17.19,HUN,Székesfehérvár,HUN,2018-07-02,Tamás Kazi,1985.0,Male,1000,NR,Outdoor
-2:16.40,IRL,Monaco,MON,2022-08-10,Luke McCann,1998.0,Male,1000,NR,Outdoor
-2:25.52,IRQ,Beyrouth,LBN,2020-08-20,Mohamed Abdullah Mahal,1991.0,Male,1000,NR,Outdoor
-2:21.1,ISL,Minden,GER,1980-06-15,Jón Didriksson,1955.0,Male,1000,NR,Outdoor
-2:21.38,ISR,Menden,GER,1983-08-19,Ronnie Maoz,1961.0,Male,1000,NR,Outdoor
-2:15.76,ITA,Nuoro,ITA,1992-09-12,Andrea Benvenuti,1969.0,Male,1000,NR,Outdoor
-2:17.0,JAM,København,DEN,1973-08-15,Byron Dyce,1948.0,Male,1000,NR,Outdoor
-2:18.69,JPN,Kobe,JPN,2022-10-15,Kentaro Usuda,1999.0,Male,1000,NR,Outdoor
-2:19.0,KAZ,Podolsk,URS,1978-08-20,Vladimir Kalsin,1958.0,Male,1000,NR,Outdoor
-2:11.96,KEN,Rieti,ITA,1999-09-05,Noah Ngeny,1978.0,Male,1000,NR,Outdoor
-2:23.1,KOS,Mitrovice,KOS,2014-08-23,Musa Hajdari,1987.0,Male,1000,NR,Outdoor
-2:18.03,LAT,Nice,FRA,1997-07-16,Einārs Tupurītis,1973.0,Male,1000,NR,Outdoor
-2:24.68,LBN,Beyrouth,LBN,2020-08-20,Peter Khoury,1999.0,Male,1000,NR,Outdoor
-2:18.6,LIE,Nice,FRA,1978-08-20,Günther Hasler,1951.0,Male,1000,NR,Outdoor
-2:20.1,LTU,Podolsk,URS,1978-08-13,Egidius Petrikas,1955.0,Male,1000,NR,Outdoor
-2:17.51,LUX,Metz,FRA,2006-07-02,David Fiegen,1984.0,Male,1000,NR,Outdoor
-2:14.69,MAR,Nice,FRA,1995-07-12,Mahjoub Haïda,1970.0,Male,1000,NR,Outdoor
-2:29.43,MLT,Marsa,MLT,2023-02-04,Ben Andrew Micallef,1999.0,Male,1000,NR,Outdoor
-2:29.5,MNE,Rijeka,YUG,1980-08-02,Lazar Radulovic,1961.0,Male,1000,NR,Outdoor
-2:35.70,MON,Monaco,MON,2008-07-29,Antoine Berlin,1989.0,Male,1000,NR,Outdoor
-2:26.70,MRI,Athis-Mons,USA,1994-05-13,Christopher Blackburn,1969.0,Male,1000,NR,Outdoor
-2:15.05,NED,Nice,FRA,1997-07-16,Marko Koers,1972.0,Male,1000,NR,Outdoor
-2:30.9,NEP,Kathmandu,NEP,2006-06-29,Prem Bahadur Mahat,1970.0,Male,1000,NR,Outdoor
+2:19.06,HAI,New York,USA,2005-06-11,Moise Joseph,1981,Male,1000,NR,Outdoor
+2:17.19,HUN,Székesfehérvár,HUN,2018-07-02,Tamás Kazi,1985,Male,1000,NR,Outdoor
+2:16.40,IRL,Monaco,MON,2022-08-10,Luke McCann,1998,Male,1000,NR,Outdoor
+2:25.52,IRQ,Beyrouth,LBN,2020-08-20,Mohamed Abdullah Mahal,1991,Male,1000,NR,Outdoor
+2:21.1,ISL,Minden,GER,1980-06-15,Jón Didriksson,1955,Male,1000,NR,Outdoor
+2:21.38,ISR,Menden,GER,1983-08-19,Ronnie Maoz,1961,Male,1000,NR,Outdoor
+2:15.76,ITA,Nuoro,ITA,1992-09-12,Andrea Benvenuti,1969,Male,1000,NR,Outdoor
+2:17.0,JAM,København,DEN,1973-08-15,Byron Dyce,1948,Male,1000,NR,Outdoor
+2:18.69,JPN,Kobe,JPN,2022-10-15,Kentaro Usuda,1999,Male,1000,NR,Outdoor
+2:19.0,KAZ,Podolsk,URS,1978-08-20,Vladimir Kalsin,1958,Male,1000,NR,Outdoor
+2:11.96,KEN,Rieti,ITA,1999-09-05,Noah Ngeny,1978,Male,1000,NR,Outdoor
+2:23.1,KOS,Mitrovice,KOS,2014-08-23,Musa Hajdari,1987,Male,1000,NR,Outdoor
+2:18.03,LAT,Nice,FRA,1997-07-16,Einārs Tupurītis,1973,Male,1000,NR,Outdoor
+2:24.68,LBN,Beyrouth,LBN,2020-08-20,Peter Khoury,1999,Male,1000,NR,Outdoor
+2:18.6,LIE,Nice,FRA,1978-08-20,Günther Hasler,1951,Male,1000,NR,Outdoor
+2:20.1,LTU,Podolsk,URS,1978-08-13,Egidius Petrikas,1955,Male,1000,NR,Outdoor
+2:17.51,LUX,Metz,FRA,2006-07-02,David Fiegen,1984,Male,1000,NR,Outdoor
+2:14.69,MAR,Nice,FRA,1995-07-12,Mahjoub Haïda,1970,Male,1000,NR,Outdoor
+2:29.43,MLT,Marsa,MLT,2023-02-04,Ben Andrew Micallef,1999,Male,1000,NR,Outdoor
+2:29.5,MNE,Rijeka,YUG,1980-08-02,Lazar Radulovic,1961,Male,1000,NR,Outdoor
+2:35.70,MON,Monaco,MON,2008-07-29,Antoine Berlin,1989,Male,1000,NR,Outdoor
+2:26.70,MRI,Athis-Mons,USA,1994-05-13,Christopher Blackburn,1969,Male,1000,NR,Outdoor
+2:15.05,NED,Nice,FRA,1997-07-16,Marko Koers,1972,Male,1000,NR,Outdoor
+2:30.9,NEP,Kathmandu,NEP,2006-06-29,Prem Bahadur Mahat,1970,Male,1000,NR,Outdoor
 2:57.2,NMI,Nikao,COK,1995-03-05,Glen Aldan Nunez,,Male,1000,NR,Outdoor
-2:16.46,NOR,Oslo,NOR,2020-06-11,Filip Ingebrigtsen,1993.0,Male,1000,NR,Outdoor
-3:19.97,NRU,Apia,SAM,2006-12-15,Deamo Baguga,1986.0,Male,1000,NR,Outdoor
-2:16.57,NZL,Oslo,NOR,1980-07-01,John Walker,1952.0,Male,1000,NR,Outdoor
-3:05.15,PLW,Apia,SAM,2006-12-15,Leon Mengloi,1989.0,Male,1000,NR,Outdoor
+2:16.46,NOR,Oslo,NOR,2020-06-11,Filip Ingebrigtsen,1993,Male,1000,NR,Outdoor
+3:19.97,NRU,Apia,SAM,2006-12-15,Deamo Baguga,1986,Male,1000,NR,Outdoor
+2:16.57,NZL,Oslo,NOR,1980-07-01,John Walker,1952,Male,1000,NR,Outdoor
+3:05.15,PLW,Apia,SAM,2006-12-15,Leon Mengloi,1989,Male,1000,NR,Outdoor
 2:27.4,PNG,Pirae,PYF,1995-08-14,Sebastine Sena,,Male,1000,NR,Outdoor
-2:14.30,POL,Lausanne,SUI,2016-08-25,Marcin Lewandowski,1987.0,Male,1000,NR,Outdoor
-2:16.30,POR,Nice,FRA,1999-07-17,Rui Silva,1977.0,Male,1000,NR,Outdoor
-2:17.32,QAT,Linz,AUT,2012-08-20,Mohamed Al-Garni,1992.0,Male,1000,NR,Outdoor
-2:20.46,ROU,Bucureşti,ROU,1994-05-29,Ion Bogde,1972.0,Male,1000,NR,Outdoor
-2:15.86,RSA,Stockholm,SWE,2007-08-07,Mbulaeni Mulaudzi,1980.0,Male,1000,NR,Outdoor
-2:15.50,RUS,Stockholm,SWE,2008-07-22,Yuriy Borzakovskiy,1981.0,Male,1000,NR,Outdoor
-2:22.96,SAM,Gold Coast,AUS,2008-06-30,Aunese Curreen,1985.0,Male,1000,NR,Outdoor
-2:20.12,SLO,Šamorín,SVK,2019-06-15,Jan Petrač,1995.0,Male,1000,NR,Outdoor
-2:30.9,SMR,Riccione,ITA,1989-03-29,Manlio Molinari,1964.0,Male,1000,NR,Outdoor
-2:35.48,SOL,Port Vila,VAN,1993-07-12,Noel Vilivata,1968.0,Male,1000,NR,Outdoor
-2:14.50,SOM,Jerez de la Frontera,ESP,1989-09-13,Abdi Bile,1962.0,Male,1000,NR,Outdoor
-2:18.88,SRB,London,GBR,1989-07-14,Slobodan Popovic,1962.0,Male,1000,NR,Outdoor
-2:13.62,SUD,Eugene,USA,2010-07-03,Abubaker Kaki,1989.0,Male,1000,NR,Outdoor
-2:15.63,SUI,Langenthal,SUI,2001-05-24,André Bucher,1976.0,Male,1000,NR,Outdoor
-2:17.76,SVK,Ostrava,CZE,2014-06-17,Jozef Repčík,1986.0,Male,1000,NR,Outdoor
-2:16.96,SWE,Göteborg,SWE,2023-06-18,Andreas Kramer,1997.0,Male,1000,NR,Outdoor
-2:23.06,SWZ,Göteborg,SWE,2000-08-03,Ozzie Mdziniso,1970.0,Male,1000,NR,Outdoor
-2:17.85,TAN,Oristano,ITA,2003-09-06,Samuel Mwera Chegere,1985.0,Male,1000,NR,Outdoor
+2:14.30,POL,Lausanne,SUI,2016-08-25,Marcin Lewandowski,1987,Male,1000,NR,Outdoor
+2:16.30,POR,Nice,FRA,1999-07-17,Rui Silva,1977,Male,1000,NR,Outdoor
+2:17.32,QAT,Linz,AUT,2012-08-20,Mohamed Al-Garni,1992,Male,1000,NR,Outdoor
+2:20.46,ROU,Bucureşti,ROU,1994-05-29,Ion Bogde,1972,Male,1000,NR,Outdoor
+2:15.86,RSA,Stockholm,SWE,2007-08-07,Mbulaeni Mulaudzi,1980,Male,1000,NR,Outdoor
+2:15.50,RUS,Stockholm,SWE,2008-07-22,Yuriy Borzakovskiy,1981,Male,1000,NR,Outdoor
+2:22.96,SAM,Gold Coast,AUS,2008-06-30,Aunese Curreen,1985,Male,1000,NR,Outdoor
+2:20.12,SLO,Šamorín,SVK,2019-06-15,Jan Petrač,1995,Male,1000,NR,Outdoor
+2:30.9,SMR,Riccione,ITA,1989-03-29,Manlio Molinari,1964,Male,1000,NR,Outdoor
+2:35.48,SOL,Port Vila,VAN,1993-07-12,Noel Vilivata,1968,Male,1000,NR,Outdoor
+2:14.50,SOM,Jerez de la Frontera,ESP,1989-09-13,Abdi Bile,1962,Male,1000,NR,Outdoor
+2:18.88,SRB,London,GBR,1989-07-14,Slobodan Popovic,1962,Male,1000,NR,Outdoor
+2:13.62,SUD,Eugene,USA,2010-07-03,Abubaker Kaki,1989,Male,1000,NR,Outdoor
+2:15.63,SUI,Langenthal,SUI,2001-05-24,André Bucher,1976,Male,1000,NR,Outdoor
+2:17.76,SVK,Ostrava,CZE,2014-06-17,Jozef Repčík,1986,Male,1000,NR,Outdoor
+2:16.96,SWE,Göteborg,SWE,2023-06-18,Andreas Kramer,1997,Male,1000,NR,Outdoor
+2:23.06,SWZ,Göteborg,SWE,2000-08-03,Ozzie Mdziniso,1970,Male,1000,NR,Outdoor
+2:17.85,TAN,Oristano,ITA,2003-09-06,Samuel Mwera Chegere,1985,Male,1000,NR,Outdoor
 2:31.05,TGA,Victoria,CAN,1994-08-19,Funaki Paea,,Male,1000,NR,Outdoor
-2:16.71,TUN,Stockholm,SWE,1999-07-30,Ali Hakimi,1976.0,Male,1000,NR,Outdoor
-2:15.08,TUR,Ostrava,CZE,2014-06-17,İlham Tanui Özbilen,1990.0,Male,1000,NR,Outdoor
-2:17.10,UGA,Rhede,GER,1995-07-30,Julius Achon,1976.0,Male,1000,NR,Outdoor
-2:19.04,UKR,Istanbul,TUR,2001-06-16,Ivan Heshko,1979.0,Male,1000,NR,Outdoor
-2:32.55,VAN,Flien,VAN,1995-07-26,Kayless Tavakalo,1973.0,Male,1000,NR,Outdoor
-2:16.56,VEN,Bern,SUI,1983-07-29,William Wuycke,1958.0,Male,1000,NR,Outdoor
-2:17.68,ZIM,Lindau,GER,1995-07-28,Passmore Furusa,1970.0,Male,1000,NR,Outdoor
-2:20.98,ALB,Padova,ITA,2023-11-02,David Nikolli,1994.0,Male,1000,NR,Indoor
-2:15.26,ALG,Birmingham,GBR,1992-02-22,Noureddine Morceli,1970.0,Male,1000,NR,Indoor
-2:50.29,AND,Vilafranca,ESP,2007-02-17,Ivan Da Costa,1992.0,Male,1000,NR,Indoor
-2:16.95,AUS,Boston,USA,2024-02-10,Jack Anstey,1997.0,Male,1000,NR,Indoor
-2:17.17,BEL,Gent,BEL,2024-02-03,Pieter Sisk,1999.0,Male,1000,NR,Indoor
-2:24.37,BER,Boston,USA,2015-01-31,Dage Minors,1995.0,Male,1000,NR,Indoor
-2:19.27,BLR,Erfurt,GER,1999-02-03,Ivan Komar,1970.0,Male,1000,NR,Indoor
-2:18.02,BOT,Stuttgart,GER,2003-02-02,Glody Dube,1978.0,Male,1000,NR,Indoor
-2:16.99,BRA,Stuttgart,FRG,1989-02-12,Joaquim Cruz,1963.0,Male,1000,NR,Indoor
-2:17.06,BRN,Gent,BEL,2008-02-24,Bilal Mansour Ali,1988.0,Male,1000,NR,Indoor
-2:25.05,BUL,Moskva,URS,1986-02-01,Binko Kolev,1958.0,Male,1000,NR,Indoor
-2:14.74,CAN,Brighton,USA,2024-02-04,Marco Arop,1998.0,Male,1000,NR,Indoor
-2:20.35,CRO,Erfurt,GER,1998-02-04,Branko Zorko,1967.0,Male,1000,NR,Indoor
-2:18.27,CZE,Stockholm,SWE,2016-02-17,Jakub Holuša,1988.0,Male,1000,NR,Indoor
-2:14.96,DEN,Birmingham,GBR,2000-02-20,Wilson Kipketer,1972.0,Male,1000,NR,Indoor
-2:14.20,DJI,Stockholm,SWE,2016-02-17,Ayanleh Souleiman,1992.0,Male,1000,NR,Indoor
-2:19.70,DOM,Staten Island,USA,2024-01-19,Luis Peralta,1999.0,Male,1000,NR,Indoor
-2:17.97,ESP,Brighton,USA,2024-02-04,Mariano Garcia,1997.0,Male,1000,NR,Indoor
-2:21.87,EST,Stockholm,SWE,2000-02-17,Marko Metsala,1974.0,Male,1000,NR,Indoor
-2:19.12,ETH,Stockholm,SWE,2011-02-22,Deresse Mekonnen,1987.0,Male,1000,NR,Indoor
-2:22.74,FIN,Pireás,GRE,2001-02-21,Wilson Kirwa,1974.0,Male,1000,NR,Indoor
-2:17.01,FRA,Karlsruhe,GER,2005-02-13,Mehdi Baala,1978.0,Male,1000,NR,Indoor
-2:17.20,GBR,Staten Island,USA,2021-02-13,Charlie Da’Vall Grice,1993.0,Male,1000,NR,Indoor
-2:17.09,GER,Berlin,GER,1993-02-05,Jens-Peter Herold,1965.0,Male,1000,NR,Indoor
-2:19.38,GHA,Stockholm,SWE,1995-02-27,Kennedy Osei,1966.0,Male,1000,NR,Indoor
-2:42.91,GRN,College Station,USA,2011-03-12,Kurt Felix,1988.0,Male,1000,NR,Indoor
-2:20.30,HUN,Sindelfingen,FRG,1990-01-21,Róbert Banai,1967.0,Male,1000,NR,Indoor
-2:17.40,IRL,Louisville,USA,2022-02-12,Luke McCann,1998.0,Male,1000,NR,Indoor
-2:23.87,ISR,New York,USA,2012-01-13,Dustin Emrani,1985.0,Male,1000,NR,Indoor
-2:18.58,ITA,Stockholm,SWE,2008-02-21,Christian Obrist,1980.0,Male,1000,NR,Indoor
-2:15.50,KEN,Stuttgart,GER,2000-02-06,Kennedy Kimwetich,1973.0,Male,1000,NR,Indoor
+2:16.71,TUN,Stockholm,SWE,1999-07-30,Ali Hakimi,1976,Male,1000,NR,Outdoor
+2:15.08,TUR,Ostrava,CZE,2014-06-17,İlham Tanui Özbilen,1990,Male,1000,NR,Outdoor
+2:17.10,UGA,Rhede,GER,1995-07-30,Julius Achon,1976,Male,1000,NR,Outdoor
+2:19.04,UKR,Istanbul,TUR,2001-06-16,Ivan Heshko,1979,Male,1000,NR,Outdoor
+2:32.55,VAN,Flien,VAN,1995-07-26,Kayless Tavakalo,1973,Male,1000,NR,Outdoor
+2:16.56,VEN,Bern,SUI,1983-07-29,William Wuycke,1958,Male,1000,NR,Outdoor
+2:17.68,ZIM,Lindau,GER,1995-07-28,Passmore Furusa,1970,Male,1000,NR,Outdoor
+2:20.98,ALB,Padova,ITA,2023-11-02,David Nikolli,1994,Male,1000,NR,Indoor
+2:15.26,ALG,Birmingham,GBR,1992-02-22,Noureddine Morceli,1970,Male,1000,NR,Indoor
+2:50.29,AND,Vilafranca,ESP,2007-02-17,Ivan Da Costa,1992,Male,1000,NR,Indoor
+2:16.95,AUS,Boston,USA,2024-02-10,Jack Anstey,1997,Male,1000,NR,Indoor
+2:17.17,BEL,Gent,BEL,2024-02-03,Pieter Sisk,1999,Male,1000,NR,Indoor
+2:24.37,BER,Boston,USA,2015-01-31,Dage Minors,1995,Male,1000,NR,Indoor
+2:19.27,BLR,Erfurt,GER,1999-02-03,Ivan Komar,1970,Male,1000,NR,Indoor
+2:18.02,BOT,Stuttgart,GER,2003-02-02,Glody Dube,1978,Male,1000,NR,Indoor
+2:16.99,BRA,Stuttgart,FRG,1989-02-12,Joaquim Cruz,1963,Male,1000,NR,Indoor
+2:17.06,BRN,Gent,BEL,2008-02-24,Bilal Mansour Ali,1988,Male,1000,NR,Indoor
+2:25.05,BUL,Moskva,URS,1986-02-01,Binko Kolev,1958,Male,1000,NR,Indoor
+2:14.74,CAN,Brighton,USA,2024-02-04,Marco Arop,1998,Male,1000,NR,Indoor
+2:20.35,CRO,Erfurt,GER,1998-02-04,Branko Zorko,1967,Male,1000,NR,Indoor
+2:18.27,CZE,Stockholm,SWE,2016-02-17,Jakub Holuša,1988,Male,1000,NR,Indoor
+2:14.96,DEN,Birmingham,GBR,2000-02-20,Wilson Kipketer,1972,Male,1000,NR,Indoor
+2:14.20,DJI,Stockholm,SWE,2016-02-17,Ayanleh Souleiman,1992,Male,1000,NR,Indoor
+2:19.70,DOM,Staten Island,USA,2024-01-19,Luis Peralta,1999,Male,1000,NR,Indoor
+2:17.97,ESP,Brighton,USA,2024-02-04,Mariano Garcia,1997,Male,1000,NR,Indoor
+2:21.87,EST,Stockholm,SWE,2000-02-17,Marko Metsala,1974,Male,1000,NR,Indoor
+2:19.12,ETH,Stockholm,SWE,2011-02-22,Deresse Mekonnen,1987,Male,1000,NR,Indoor
+2:22.74,FIN,Pireás,GRE,2001-02-21,Wilson Kirwa,1974,Male,1000,NR,Indoor
+2:17.01,FRA,Karlsruhe,GER,2005-02-13,Mehdi Baala,1978,Male,1000,NR,Indoor
+2:17.20,GBR,Staten Island,USA,2021-02-13,Charlie Da’Vall Grice,1993,Male,1000,NR,Indoor
+2:17.09,GER,Berlin,GER,1993-02-05,Jens-Peter Herold,1965,Male,1000,NR,Indoor
+2:19.38,GHA,Stockholm,SWE,1995-02-27,Kennedy Osei,1966,Male,1000,NR,Indoor
+2:42.91,GRN,College Station,USA,2011-03-12,Kurt Felix,1988,Male,1000,NR,Indoor
+2:20.30,HUN,Sindelfingen,FRG,1990-01-21,Róbert Banai,1967,Male,1000,NR,Indoor
+2:17.40,IRL,Louisville,USA,2022-02-12,Luke McCann,1998,Male,1000,NR,Indoor
+2:23.87,ISR,New York,USA,2012-01-13,Dustin Emrani,1985,Male,1000,NR,Indoor
+2:18.58,ITA,Stockholm,SWE,2008-02-21,Christian Obrist,1980,Male,1000,NR,Indoor
+2:15.50,KEN,Stuttgart,GER,2000-02-06,Kennedy Kimwetich,1973,Male,1000,NR,Indoor
 2:22.82,LAT,Moskva,URS,1985-02-09,Genadijs Mickevics,,Male,1000,NR,Indoor
-2:52.46,LBN,Pattaya,THA,2006-02-12,Ali Hazer,1984.0,Male,1000,NR,Indoor
-2:22.90,LTU,Chelyabinsk,URS,1990-02-03,Pavelas Fedorenko,1964.0,Male,1000,NR,Indoor
-2:22.12,LUX,Luxembourg,LUX,2004-01-24,David Fiegen,1984.0,Male,1000,NR,Indoor
-2:17.17,MAR,Stockholm,SWE,1996-02-25,Mahjoub Haïda,1970.0,Male,1000,NR,Indoor
-2:25.3,MDA,Moskva,URS,1973-03-02,Anatoliy Mamontov,1949.0,Male,1000,NR,Indoor
-2:38.18,MNE,Beograd,SRB,2019-12-26,Miloš Dragovic,1993.0,Male,1000,NR,Indoor
-2:57.4,MON,Nice,FRA,2003-12-14,Anthony de Sevelinges,1978.0,Male,1000,NR,Indoor
-2:16.4,NED,Den Haag,NED,1988-02-20,Rob Druppers,1962.0,Male,1000,NR,Indoor
-2:20.96,NOR,Hvam,NOR,2018-02-17,Thomas Roth,1991.0,Male,1000,NR,Indoor
-2:20.86,NZL,East Rutherford,USA,1986-02-08,John Walker,1952.0,Male,1000,NR,Indoor
-2:17.67,POL,Metz,FRA,2014-02-28,Marcin Lewandowski,1987.0,Male,1000,NR,Indoor
-2:17.36,POR,Gent,BEL,2001-02-23,Rui Silva,1977.0,Male,1000,NR,Indoor
-2:16.71,RSA,Erfurt,GER,1999-02-03,Johan Botha,1974.0,Male,1000,NR,Indoor
-2:17.10,RUS,Moskva,RUS,2009-02-01,Yuriy Borzakovskiy,1981.0,Male,1000,NR,Indoor
-2:21.29,SLO,Zagreb,CRO,2024-02-03,Rok Markelj,2000.0,Male,1000,NR,Indoor
-2:20.73,SUI,Sindelfingen,FRG,1989-02-26,Markus Trinkler,1962.0,Male,1000,NR,Indoor
-2:19.15,SVK,Stockholm,SWE,2008-02-21,Jozef Repčík,1986.0,Male,1000,NR,Indoor
-2:20.56,SWE,Stockholm,SWE,1996-02-25,Torbjörn Johansson,1970.0,Male,1000,NR,Indoor
-2:15.96,TUR,Istanbul,TUR,2014-02-20,İlham Tanui Özbilen,1990.0,Male,1000,NR,Indoor
-2:18.18,UGA,Stuttgart,GER,2009-02-07,Abraham Chepkirwok,1988.0,Male,1000,NR,Indoor
-2:16.16,USA,Louisville,USA,2022-02-12,Shane Streich,1996.0,Male,1000,NR,Indoor
+2:52.46,LBN,Pattaya,THA,2006-02-12,Ali Hazer,1984,Male,1000,NR,Indoor
+2:22.90,LTU,Chelyabinsk,URS,1990-02-03,Pavelas Fedorenko,1964,Male,1000,NR,Indoor
+2:22.12,LUX,Luxembourg,LUX,2004-01-24,David Fiegen,1984,Male,1000,NR,Indoor
+2:17.17,MAR,Stockholm,SWE,1996-02-25,Mahjoub Haïda,1970,Male,1000,NR,Indoor
+2:25.3,MDA,Moskva,URS,1973-03-02,Anatoliy Mamontov,1949,Male,1000,NR,Indoor
+2:38.18,MNE,Beograd,SRB,2019-12-26,Miloš Dragovic,1993,Male,1000,NR,Indoor
+2:57.4,MON,Nice,FRA,2003-12-14,Anthony de Sevelinges,1978,Male,1000,NR,Indoor
+2:16.4,NED,Den Haag,NED,1988-02-20,Rob Druppers,1962,Male,1000,NR,Indoor
+2:20.96,NOR,Hvam,NOR,2018-02-17,Thomas Roth,1991,Male,1000,NR,Indoor
+2:20.86,NZL,East Rutherford,USA,1986-02-08,John Walker,1952,Male,1000,NR,Indoor
+2:17.67,POL,Metz,FRA,2014-02-28,Marcin Lewandowski,1987,Male,1000,NR,Indoor
+2:17.36,POR,Gent,BEL,2001-02-23,Rui Silva,1977,Male,1000,NR,Indoor
+2:16.71,RSA,Erfurt,GER,1999-02-03,Johan Botha,1974,Male,1000,NR,Indoor
+2:17.10,RUS,Moskva,RUS,2009-02-01,Yuriy Borzakovskiy,1981,Male,1000,NR,Indoor
+2:21.29,SLO,Zagreb,CRO,2024-02-03,Rok Markelj,2000,Male,1000,NR,Indoor
+2:20.73,SUI,Sindelfingen,FRG,1989-02-26,Markus Trinkler,1962,Male,1000,NR,Indoor
+2:19.15,SVK,Stockholm,SWE,2008-02-21,Jozef Repčík,1986,Male,1000,NR,Indoor
+2:20.56,SWE,Stockholm,SWE,1996-02-25,Torbjörn Johansson,1970,Male,1000,NR,Indoor
+2:15.96,TUR,Istanbul,TUR,2014-02-20,İlham Tanui Özbilen,1990,Male,1000,NR,Indoor
+2:18.18,UGA,Stuttgart,GER,2009-02-07,Abraham Chepkirwok,1988,Male,1000,NR,Indoor
+2:16.16,USA,Louisville,USA,2022-02-12,Shane Streich,1996,Male,1000,NR,Indoor

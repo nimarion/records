@@ -1,65 +1,65 @@
 result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,environment
-2:56:12,ALG,New York,USA,1987-02-05,H'Mimed Rahouli,1964.0,Male,35W,NR,Outdoor
-3:05:49,ARG,Saransk,RUS,2012-05-13,Fabio González,1983.0,Male,35W,NR,Outdoor
-2:29:11,AUS,Geelong,AUS,2006-02-12,Nathan Deakes,1977.0,Male,35W,NR,Outdoor
-2:38:29,BEL,Fleurus,BEL,1988-02-07,Godfried De Jonckheere,1952.0,Male,35W,NR,Outdoor
-2:38:29,BEL,Fleurus,BEL,1988-07-02,Godfried De Jonckheere,1952.0,Male,35W,NR,Outdoor
-2:31:43,BLR,Adler,RUS,2000-02-20,Vitaliy Gordey,1973.0,Male,35W,NR,Outdoor
-2:47:13,BOL,London,GBR,2017-08-13,Ronal Quispe,1989.0,Male,35W,NR,Outdoor
-2:25:14,BRA,Eugene,USA,2022-07-24,Caio Bonfim,1991.0,Male,35W,NR,Outdoor
-2:25:02,CAN,Eugene,USA,2022-07-24,Evan Dunfee,1990.0,Male,35W,NR,Outdoor
-2:42:43,CHI,Nueva Imperial,CHI,2012-02-04,Camilo Acuña,1988.0,Male,35W,NR,Outdoor
-2:24:45,CHN,Eugene,USA,2022-07-24,He Xianghong,1998.0,Male,35W,NR,Outdoor
+2:56:12,ALG,New York,USA,1987-02-05,H'Mimed Rahouli,1964,Male,35W,NR,Outdoor
+3:05:49,ARG,Saransk,RUS,2012-05-13,Fabio González,1983,Male,35W,NR,Outdoor
+2:29:11,AUS,Geelong,AUS,2006-02-12,Nathan Deakes,1977,Male,35W,NR,Outdoor
+2:38:29,BEL,Fleurus,BEL,1988-02-07,Godfried De Jonckheere,1952,Male,35W,NR,Outdoor
+2:38:29,BEL,Fleurus,BEL,1988-07-02,Godfried De Jonckheere,1952,Male,35W,NR,Outdoor
+2:31:43,BLR,Adler,RUS,2000-02-20,Vitaliy Gordey,1973,Male,35W,NR,Outdoor
+2:47:13,BOL,London,GBR,2017-08-13,Ronal Quispe,1989,Male,35W,NR,Outdoor
+2:25:14,BRA,Eugene,USA,2022-07-24,Caio Bonfim,1991,Male,35W,NR,Outdoor
+2:25:02,CAN,Eugene,USA,2022-07-24,Evan Dunfee,1990,Male,35W,NR,Outdoor
+2:42:43,CHI,Nueva Imperial,CHI,2012-02-04,Camilo Acuña,1988,Male,35W,NR,Outdoor
+2:24:45,CHN,Eugene,USA,2022-07-24,He Xianghong,1998,Male,35W,NR,Outdoor
 3:18:39,CMR,La Coruña,ESP,2006-05-14,Daniel Foudjem Ngano,,Male,35W,NR,Outdoor
-4:00:00,COD,Saransk,RUS,2012-05-13,Albert Mukwa Ngambene,1980.0,Male,35W,NR,Outdoor
-2:25:21,COL,Eugene,USA,2022-07-24,Eider Arévalo,1993.0,Male,35W,NR,Outdoor
-2:45:15,CRO,Antalya,TUR,2022-01-22,Bruno Erent,1990.0,Male,35W,NR,Outdoor
-3:43:40,CYP,Tilburg,NED,2006-01-10,John Constandinou,1972.0,Male,35W,NR,Outdoor
-2:32:50,CZE,Eugene,USA,2022-07-24,Vít Hlaváč,1997.0,Male,35W,NR,Outdoor
-2:58:16,DEN,Valby,DEN,1980-04-26,Leif Christensen,1943.0,Male,35W,NR,Outdoor
-2:24:37,ECU,Eugene,USA,2022-07-24,Brian Pintado,1995.0,Male,35W,NR,Outdoor
-2:50:22,EGY,Dudince,SVK,2016-03-16,Ahmed Dheif-Allah Ahmed,1985.0,Male,35W,NR,Outdoor
-2:37:11,ESA,San Salvador,ESA,2011-02-06,Émerson Hernández,1989.0,Male,35W,NR,Outdoor
-2:25:58,ESP,Eugene,USA,2022-07-24,Miguel Ángel López,1988.0,Male,35W,NR,Outdoor
-3:10:08,EST,Saransk,RUS,2012-05-13,Margus Luik,1980.0,Male,35W,NR,Outdoor
-3:13:46,ETH,La Coruña,ESP,2006-05-14,Debeko Yanka,1976.0,Male,35W,NR,Outdoor
-3:18:42,FIJ,Melbourne,AUS,2018-09-09,Pramesh Prasad,1974.0,Male,35W,NR,Outdoor
-2:28:22,FIN,Eugene,USA,2022-07-24,Aleksi Ojala,1992.0,Male,35W,NR,Outdoor
-2:28:46,FRA,Eugene,USA,2022-07-24,Aurelien Quinion,1993.0,Male,35W,NR,Outdoor
-2:36:19,GBR,Örnsköldsvik,SWE,1991-06-29,Chris Maddocks,1957.0,Male,35W,NR,Outdoor
-2:46:10,GEO,London,GBR,2012-08-11,Maciej Rosiewicz,1977.0,Male,35W,NR,Outdoor
-2:46:10,GEO,London,GBR,2012-11-08,Maciej Rosiewicz,1977.0,Male,35W,NR,Outdoor
-2:25:35,GER,Budapest,HUN,2023-08-24,Christopher Linke,1988.0,Male,35W,NR,Outdoor
-2:34:48,GRE,Eugene,USA,2022-07-24,Aléxandros Papamihaíl,1988.0,Male,35W,NR,Outdoor
-2:32:26,GUA,London,GBR,2012-08-11,Erick Barrondo,1991.0,Male,35W,NR,Outdoor
-3:03:52,HKG,Hongkong,HKG,2021-12-20,Chin Man Kit,1991.0,Male,35W,NR,Outdoor
-2:54:01,HON,Dudince,SVK,2021-03-20,José Leonidas Romero,1983.0,Male,35W,NR,Outdoor
-2:32:30,HUN,Budapest,HUN,1999-02-06,Sándor Urbanik,1964.0,Male,35W,NR,Outdoor
-2:29:56,IND,Dudince,SVK,2023-03-25,Ram Baboo,1999.0,Male,35W,NR,Outdoor
-2:31:19,IRL,Dublin,IRL,2000-07-15,Robert Heffernan,1978.0,Male,35W,NR,Outdoor
-2:23:14,ITA,Eugene,USA,2022-07-24,Massimo Stano,1992.0,Male,35W,NR,Outdoor
-2:23:13,JPN,Wajima,JPN,2023-04-16,Tomohiro Noda,1996.0,Male,35W,NR,Outdoor
+4:00:00,COD,Saransk,RUS,2012-05-13,Albert Mukwa Ngambene,1980,Male,35W,NR,Outdoor
+2:25:21,COL,Eugene,USA,2022-07-24,Eider Arévalo,1993,Male,35W,NR,Outdoor
+2:45:15,CRO,Antalya,TUR,2022-01-22,Bruno Erent,1990,Male,35W,NR,Outdoor
+3:43:40,CYP,Tilburg,NED,2006-01-10,John Constandinou,1972,Male,35W,NR,Outdoor
+2:32:50,CZE,Eugene,USA,2022-07-24,Vít Hlaváč,1997,Male,35W,NR,Outdoor
+2:58:16,DEN,Valby,DEN,1980-04-26,Leif Christensen,1943,Male,35W,NR,Outdoor
+2:24:37,ECU,Eugene,USA,2022-07-24,Brian Pintado,1995,Male,35W,NR,Outdoor
+2:50:22,EGY,Dudince,SVK,2016-03-16,Ahmed Dheif-Allah Ahmed,1985,Male,35W,NR,Outdoor
+2:37:11,ESA,San Salvador,ESA,2011-02-06,Émerson Hernández,1989,Male,35W,NR,Outdoor
+2:25:58,ESP,Eugene,USA,2022-07-24,Miguel Ángel López,1988,Male,35W,NR,Outdoor
+3:10:08,EST,Saransk,RUS,2012-05-13,Margus Luik,1980,Male,35W,NR,Outdoor
+3:13:46,ETH,La Coruña,ESP,2006-05-14,Debeko Yanka,1976,Male,35W,NR,Outdoor
+3:18:42,FIJ,Melbourne,AUS,2018-09-09,Pramesh Prasad,1974,Male,35W,NR,Outdoor
+2:28:22,FIN,Eugene,USA,2022-07-24,Aleksi Ojala,1992,Male,35W,NR,Outdoor
+2:28:46,FRA,Eugene,USA,2022-07-24,Aurelien Quinion,1993,Male,35W,NR,Outdoor
+2:36:19,GBR,Örnsköldsvik,SWE,1991-06-29,Chris Maddocks,1957,Male,35W,NR,Outdoor
+2:46:10,GEO,London,GBR,2012-08-11,Maciej Rosiewicz,1977,Male,35W,NR,Outdoor
+2:46:10,GEO,London,GBR,2012-11-08,Maciej Rosiewicz,1977,Male,35W,NR,Outdoor
+2:25:35,GER,Budapest,HUN,2023-08-24,Christopher Linke,1988,Male,35W,NR,Outdoor
+2:34:48,GRE,Eugene,USA,2022-07-24,Aléxandros Papamihaíl,1988,Male,35W,NR,Outdoor
+2:32:26,GUA,London,GBR,2012-08-11,Erick Barrondo,1991,Male,35W,NR,Outdoor
+3:03:52,HKG,Hongkong,HKG,2021-12-20,Chin Man Kit,1991,Male,35W,NR,Outdoor
+2:54:01,HON,Dudince,SVK,2021-03-20,José Leonidas Romero,1983,Male,35W,NR,Outdoor
+2:32:30,HUN,Budapest,HUN,1999-02-06,Sándor Urbanik,1964,Male,35W,NR,Outdoor
+2:29:56,IND,Dudince,SVK,2023-03-25,Ram Baboo,1999,Male,35W,NR,Outdoor
+2:31:19,IRL,Dublin,IRL,2000-07-15,Robert Heffernan,1978,Male,35W,NR,Outdoor
+2:23:14,ITA,Eugene,USA,2022-07-24,Massimo Stano,1992,Male,35W,NR,Outdoor
+2:23:13,JPN,Wajima,JPN,2023-04-16,Tomohiro Noda,1996,Male,35W,NR,Outdoor
 2:36:40,KOR,Incheon,KOR,2014-10-01,Park Chil-Sun,,Male,35W,NR,Outdoor
-2:34:36,LAT,München,GER,2002-08-08,Aigars Fadejevs,1975.0,Male,35W,NR,Outdoor
-2:34:16,LTU,Eugene,USA,2022-07-24,Marius Žiūkas,1985.0,Male,35W,NR,Outdoor
-3:00:45,MDA,Dudince,SVK,2011-03-25,Feodosii Ciumacenco,1973.0,Male,35W,NR,Outdoor
-2:27:11,MEX,Eugene,USA,2022-07-24,Ricardo Ortiz,1995.0,Male,35W,NR,Outdoor
-2:54:52,MRI,Dudince,SVK,2019-03-23,Jérome Caprice,1983.0,Male,35W,NR,Outdoor
-2:50:01,NED,Dudince,SVK,2019-03-23,Rick Liesting,1977.0,Male,35W,NR,Outdoor
-2:33:59,NOR,Berlin,GER,2009-08-21,Trond Nymark,1976.0,Male,35W,NR,Outdoor
-2:37:35,NZL,Naumburg,GER,1998-05-23,Craig Barrett,1971.0,Male,35W,NR,Outdoor
-2:29:24,PER,Eugene,USA,2022-07-24,César Augusto Rodríguez,1997.0,Male,35W,NR,Outdoor
+2:34:36,LAT,München,GER,2002-08-08,Aigars Fadejevs,1975,Male,35W,NR,Outdoor
+2:34:16,LTU,Eugene,USA,2022-07-24,Marius Žiūkas,1985,Male,35W,NR,Outdoor
+3:00:45,MDA,Dudince,SVK,2011-03-25,Feodosii Ciumacenco,1973,Male,35W,NR,Outdoor
+2:27:11,MEX,Eugene,USA,2022-07-24,Ricardo Ortiz,1995,Male,35W,NR,Outdoor
+2:54:52,MRI,Dudince,SVK,2019-03-23,Jérome Caprice,1983,Male,35W,NR,Outdoor
+2:50:01,NED,Dudince,SVK,2019-03-23,Rick Liesting,1977,Male,35W,NR,Outdoor
+2:33:59,NOR,Berlin,GER,2009-08-21,Trond Nymark,1976,Male,35W,NR,Outdoor
+2:37:35,NZL,Naumburg,GER,1998-05-23,Craig Barrett,1971,Male,35W,NR,Outdoor
+2:29:24,PER,Eugene,USA,2022-07-24,César Augusto Rodríguez,1997,Male,35W,NR,Outdoor
 3:34:36,PHI,Torino,ITA,2002-10-13,Saturnino Salazar,,Male,35W,NR,Outdoor
-2:28:30,POL,Eschborn,POL,1993-12-06,Robert Korzeniowski,1968.0,Male,35W,NR,Outdoor
-2:33:23,POR,Dudince,SVK,2022-04-23,João Vieira,1976.0,Male,35W,NR,Outdoor
-2:38:00,ROU,Lepe,ESP,2022-01-30,Marius Cocioran,1983.0,Male,35W,NR,Outdoor
-2:31:15,RSA,Eugene,USA,2022-07-24,Wayne Snyman,1985.0,Male,35W,NR,Outdoor
-2:21:31,RUS,Adler,RUS,2006-02-19,Vladimir Kanaykin,1985.0,Male,35W,NR,Outdoor
-2:42:08,SRB,Dudince,SVK,1997-05-16,Aleksandar Raković,1968.0,Male,35W,NR,Outdoor
-2:45:08,SUI,Senigallia,ITA,1998-05-31,Pascal Charrière,1964.0,Male,35W,NR,Outdoor
-2:30:34,SVK,Dudince,SVK,2015-03-21,Matej Tóth,1983.0,Male,35W,NR,Outdoor
-2:23:44,SWE,Eugene,USA,2022-07-24,Perseus Karlström,1990.0,Male,35W,NR,Outdoor
-2:44:30,TUR,Izmir,TUR,2019-03-03,Mert Atli,1993.0,Male,35W,NR,Outdoor
-2:30:17,UKR,Alushta,UKR,2014-02-28,Ihor Saharuk,1988.0,Male,35W,NR,Outdoor
-2:38:45,USA,Edmonton,CAN,2001-08-11,Curt Clausen,1967.0,Male,35W,NR,Outdoor
-2:48:19,VEN,Roma,ITA,2016-05-08,Yerenman Salazar,1978.0,Male,35W,NR,Outdoor
+2:28:30,POL,Eschborn,POL,1993-12-06,Robert Korzeniowski,1968,Male,35W,NR,Outdoor
+2:33:23,POR,Dudince,SVK,2022-04-23,João Vieira,1976,Male,35W,NR,Outdoor
+2:38:00,ROU,Lepe,ESP,2022-01-30,Marius Cocioran,1983,Male,35W,NR,Outdoor
+2:31:15,RSA,Eugene,USA,2022-07-24,Wayne Snyman,1985,Male,35W,NR,Outdoor
+2:21:31,RUS,Adler,RUS,2006-02-19,Vladimir Kanaykin,1985,Male,35W,NR,Outdoor
+2:42:08,SRB,Dudince,SVK,1997-05-16,Aleksandar Raković,1968,Male,35W,NR,Outdoor
+2:45:08,SUI,Senigallia,ITA,1998-05-31,Pascal Charrière,1964,Male,35W,NR,Outdoor
+2:30:34,SVK,Dudince,SVK,2015-03-21,Matej Tóth,1983,Male,35W,NR,Outdoor
+2:23:44,SWE,Eugene,USA,2022-07-24,Perseus Karlström,1990,Male,35W,NR,Outdoor
+2:44:30,TUR,Izmir,TUR,2019-03-03,Mert Atli,1993,Male,35W,NR,Outdoor
+2:30:17,UKR,Alushta,UKR,2014-02-28,Ihor Saharuk,1988,Male,35W,NR,Outdoor
+2:38:45,USA,Edmonton,CAN,2001-08-11,Curt Clausen,1967,Male,35W,NR,Outdoor
+2:48:19,VEN,Roma,ITA,2016-05-08,Yerenman Salazar,1978,Male,35W,NR,Outdoor

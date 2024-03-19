@@ -1,44 +1,44 @@
 result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,environment
-4:09:33,AUS,Taicang,CHN,2018-05-05,Claire Woods,1981.0,Female,50W,NR,Outdoor
-5:21:18,BEL,Fameck,FRA,2012-10-28,Myriam Nicolas,1963.0,Female,50W,NR,Outdoor
-4:12:16,BLR,Scanzorosciate,ITA,2004-10-17,Elena Ginko,1976.0,Female,50W,NR,Outdoor
-5:48:56,BOL,Monterrey,MEX,2018-02-25,Casandra Milenka Nieto,1994.0,Female,50W,NR,Outdoor
-4:22:46,BRA,Lima,PER,2019-08-11,Viviane Lyra,1993.0,Female,50W,NR,Outdoor
+4:09:33,AUS,Taicang,CHN,2018-05-05,Claire Woods,1981,Female,50W,NR,Outdoor
+5:21:18,BEL,Fameck,FRA,2012-10-28,Myriam Nicolas,1963,Female,50W,NR,Outdoor
+4:12:16,BLR,Scanzorosciate,ITA,2004-10-17,Elena Ginko,1976,Female,50W,NR,Outdoor
+5:48:56,BOL,Monterrey,MEX,2018-02-25,Casandra Milenka Nieto,1994,Female,50W,NR,Outdoor
+4:22:46,BRA,Lima,PER,2019-08-11,Viviane Lyra,1993,Female,50W,NR,Outdoor
 5:02:55,CAN,West Long Branch,USA,1992-05-17,Micheline Daneau,,Female,50W,NR,Outdoor
-5:12:05,CHI,Lazaro Cardenas,MEX,2019-04-21,Anita Rico,1985.0,Female,50W,NR,Outdoor
-3:59:15,CHN,Huangshan,CHN,2019-03-09,Liu Hong,1987.0,Female,50W,NR,Outdoor
-5:08:02,CRC,Ciudad de Guatemala,GUA,2019-02-24,Ilena Ocampo,1988.0,Female,50W,NR,Outdoor
-4:20:17,CRO,Dudince,SVK,2019-03-23,Ivana Renić,1996.0,Female,50W,NR,Outdoor
-6:03:50,CYP,Marathónas,GRE,2019-01-20,Sofia Olympiou,1994.0,Female,50W,NR,Outdoor
-4:49:44,CZE,Scanzorosciate,ITA,2002-10-27,Monika Choděrová,1976.0,Female,50W,NR,Outdoor
-4:11:12,ECU,Lima,PER,2019-08-11,Johana Ordóñez,1987.0,Female,50W,NR,Outdoor
-4:05:46,ESP,Alytus,LTU,2019-05-19,Julia Takács,1989.0,Female,50W,NR,Outdoor
-4:29:25,FIN,Alytus,LTU,2019-05-19,Tiia Kuikka,1994.0,Female,50W,NR,Outdoor
-4:41:57,FRA,Ay-Champagne,FRA,1995-09-17,Kora Boufflert,1966.0,Female,50W,NR,Outdoor
-4:50:51,GBR,Basildon,GBR,1991-07-13,Sandra Brown,1949.0,Female,50W,NR,Outdoor
-4:42:58,GER,Aschersleben,GER,2018-10-14,Bianka Dittrich,1993.0,Female,50W,NR,Outdoor
-4:28:13,GRE,Scanzorosciate,ITA,2004-10-17,Evaggelía Xinoú,1981.0,Female,50W,NR,Outdoor
-4:13:56,GUA,Guatemala City,GUA,2019-02-24,Mirna Ortiz,1987.0,Female,50W,NR,Outdoor
+5:12:05,CHI,Lazaro Cardenas,MEX,2019-04-21,Anita Rico,1985,Female,50W,NR,Outdoor
+3:59:15,CHN,Huangshan,CHN,2019-03-09,Liu Hong,1987,Female,50W,NR,Outdoor
+5:08:02,CRC,Ciudad de Guatemala,GUA,2019-02-24,Ilena Ocampo,1988,Female,50W,NR,Outdoor
+4:20:17,CRO,Dudince,SVK,2019-03-23,Ivana Renić,1996,Female,50W,NR,Outdoor
+6:03:50,CYP,Marathónas,GRE,2019-01-20,Sofia Olympiou,1994,Female,50W,NR,Outdoor
+4:49:44,CZE,Scanzorosciate,ITA,2002-10-27,Monika Choděrová,1976,Female,50W,NR,Outdoor
+4:11:12,ECU,Lima,PER,2019-08-11,Johana Ordóñez,1987,Female,50W,NR,Outdoor
+4:05:46,ESP,Alytus,LTU,2019-05-19,Julia Takács,1989,Female,50W,NR,Outdoor
+4:29:25,FIN,Alytus,LTU,2019-05-19,Tiia Kuikka,1994,Female,50W,NR,Outdoor
+4:41:57,FRA,Ay-Champagne,FRA,1995-09-17,Kora Boufflert,1966,Female,50W,NR,Outdoor
+4:50:51,GBR,Basildon,GBR,1991-07-13,Sandra Brown,1949,Female,50W,NR,Outdoor
+4:42:58,GER,Aschersleben,GER,2018-10-14,Bianka Dittrich,1993,Female,50W,NR,Outdoor
+4:28:13,GRE,Scanzorosciate,ITA,2004-10-17,Evaggelía Xinoú,1981,Female,50W,NR,Outdoor
+4:13:56,GUA,Guatemala City,GUA,2019-02-24,Mirna Ortiz,1987,Female,50W,NR,Outdoor
 5:40:51,HKG,Hongkong,HKG,2020-01-01,Billy Kwok Chik Ha,,Female,50W,NR,Outdoor
-4:40:05,HUN,Alytus,LTU,2019-05-19,Andrea Kovács,1980.0,Female,50W,NR,Outdoor
-4:04:50,ITA,Alytus,LTU,2019-05-19,Eleonora Giorgi,1989.0,Female,50W,NR,Outdoor
-4:19:56,JPN,Wajima,JPN,2019-04-14,Masumi Fuchise,1986.0,Female,50W,NR,Outdoor
+4:40:05,HUN,Alytus,LTU,2019-05-19,Andrea Kovács,1980,Female,50W,NR,Outdoor
+4:04:50,ITA,Alytus,LTU,2019-05-19,Eleonora Giorgi,1989,Female,50W,NR,Outdoor
+4:19:56,JPN,Wajima,JPN,2019-04-14,Masumi Fuchise,1986,Female,50W,NR,Outdoor
 7:26:09,KEN,Putrajaya,MAS,2009-12-12,Irine Jeptoo,,Female,50W,NR,Outdoor
-4:16:27,LAT,Paralepa,EST,2006-09-09,Jolanta Dukure,1979.0,Female,50W,NR,Outdoor
-4:25:22,LTU,Villa di Serio,ITA,2010-10-17,Brigita Virbalytė-Dimšienė,1985.0,Female,50W,NR,Outdoor
-4:51:32,MAS,Seremban,MAS,2014-12-06,Norliana Binti Mohd Rusni,1989.0,Female,50W,NR,Outdoor
+4:16:27,LAT,Paralepa,EST,2006-09-09,Jolanta Dukure,1979,Female,50W,NR,Outdoor
+4:25:22,LTU,Villa di Serio,ITA,2010-10-17,Brigita Virbalytė-Dimšienė,1985,Female,50W,NR,Outdoor
+4:51:32,MAS,Seremban,MAS,2014-12-06,Norliana Binti Mohd Rusni,1989,Female,50W,NR,Outdoor
 4:20:36,MEX,Hauppauge,USA,2018-10-21,Erika Morales,,Female,50W,NR,Outdoor
-5:19:18,NED,Weert,NED,2015-05-23,Anne van Andel,1990.0,Female,50W,NR,Outdoor
+5:19:18,NED,Weert,NED,2015-05-23,Anne van Andel,1990,Female,50W,NR,Outdoor
 6:14:53,NZL,Auckland,NZL,2014-11-15,Terri Grimmett,,Female,50W,NR,Outdoor
-4:22:57,PER,Lazaro Cardenas,MEX,2019-04-21,Evelin Inga,1998.0,Female,50W,NR,Outdoor
-4:31:19,POL,Alytus,LTU,2019-05-19,Agnieszka Ellward,1989.0,Female,50W,NR,Outdoor
-4:05:56,POR,London,GBR,2017-08-13,Inês Henriques,1980.0,Female,50W,NR,Outdoor
-4:48:00,RSA,Taicang,CHN,2018-05-05,Natalie Le Roux,1982.0,Female,50W,NR,Outdoor
-3:50:42,RUS,Voronovo,RUS,2020-09-05,Yelena Lashmanova,1992.0,Female,50W,NR,Outdoor
+4:22:57,PER,Lazaro Cardenas,MEX,2019-04-21,Evelin Inga,1998,Female,50W,NR,Outdoor
+4:31:19,POL,Alytus,LTU,2019-05-19,Agnieszka Ellward,1989,Female,50W,NR,Outdoor
+4:05:56,POR,London,GBR,2017-08-13,Inês Henriques,1980,Female,50W,NR,Outdoor
+4:48:00,RSA,Taicang,CHN,2018-05-05,Natalie Le Roux,1982,Female,50W,NR,Outdoor
+3:50:42,RUS,Voronovo,RUS,2020-09-05,Yelena Lashmanova,1992,Female,50W,NR,Outdoor
 7:12:34,SGP,Putrajaya,MAS,2012-12-08,Kowsula Kaur,,Female,50W,NR,Outdoor
-4:30:43,SRB,Berlin,GER,2018-08-07,Dušica Topić,1982.0,Female,50W,NR,Outdoor
-4:45:57,SUI,Scanzorosciate,ITA,2005-10-16,Laura Polli,1983.0,Female,50W,NR,Outdoor
-4:14:25,SVK,Dudince,SVK,2018-03-24,Mária Czaková,1988.0,Female,50W,NR,Outdoor
-4:10:59,SWE,Scanzorosciate,ITA,2007-10-21,Monica Svensson,1978.0,Female,50W,NR,Outdoor
-4:18:50,UKR,Ivano-Frankivsk,UKR,2018-10-20,Valentyna Naiavko,1994.0,Female,50W,NR,Outdoor
-4:21:51,USA,London,GBR,2017-08-13,Katie Burnett,1988.0,Female,50W,NR,Outdoor
+4:30:43,SRB,Berlin,GER,2018-08-07,Dušica Topić,1982,Female,50W,NR,Outdoor
+4:45:57,SUI,Scanzorosciate,ITA,2005-10-16,Laura Polli,1983,Female,50W,NR,Outdoor
+4:14:25,SVK,Dudince,SVK,2018-03-24,Mária Czaková,1988,Female,50W,NR,Outdoor
+4:10:59,SWE,Scanzorosciate,ITA,2007-10-21,Monica Svensson,1978,Female,50W,NR,Outdoor
+4:18:50,UKR,Ivano-Frankivsk,UKR,2018-10-20,Valentyna Naiavko,1994,Female,50W,NR,Outdoor
+4:21:51,USA,London,GBR,2017-08-13,Katie Burnett,1988,Female,50W,NR,Outdoor

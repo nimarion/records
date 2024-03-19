@@ -1,176 +1,176 @@
 result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,environment
-13.10,AFG,Helsinki,FIN,2017-05-15,Yalda Amini,1999.0,Female,HT,NR,Outdoor
-59.26,ALB,Tirane,ALB,2002-04-18,Emiliana Ciko,1978.0,Female,HT,NR,Outdoor
-69.48,ALG,Oran,ALG,2023-07-06,Zahra Tatar,1992.0,Female,HT,NR,Outdoor
-42.65,AND,Toulouse,FRA,2006-07-08,Elena Villalón,1982.0,Female,HT,NR,Outdoor
-52.55,ANG,Leiria,POR,2011-08-07,Mafuta Maketa,1989.0,Female,HT,NR,Outdoor
-59.49,ANT,Guadalajara2,MEX,2011-10-24,Althea Charles,1989.0,Female,HT,NR,Outdoor
-73.74,ARG,Buenos Aires,ARG,2010-04-10,Jenny Dahlgren,1984.0,Female,HT,NR,Outdoor
-54.17,ARM,Tbilisi,GEO,2022-06-26,Zhanna Shahnazaryan,1984.0,Female,HT,NR,Outdoor
-69.24,ASA,Burnaby,CAN,2003-06-08,Lisa Misipeka,1975.0,Female,HT,NR,Outdoor
-73.63,AUS,Austin,USA,2023-06-08,Stephanie Ratcliffe,2000.0,Female,HT,NR,Outdoor
-61.37,AUT,Innsbruck,AUT,2019-07-27,Tatjana Meklau,1999.0,Female,HT,NR,Outdoor
-77.10,AZE,Budapest,HUN,2023-08-23,Hanna Skydan,1992.0,Female,HT,NR,Outdoor
-60.90,BAH,Fresno,USA,2022-03-31,Tahjnee Thurston,1997.0,Female,HT,NR,Outdoor
-58.21,BAR,Lawrence,USA,2007-04-19,Shernelle Nicholls,1984.0,Female,HT,NR,Outdoor
-69.91,BEL,Leverkusen,GER,2020-08-23,Vanessa Sterckendries,1995.0,Female,HT,NR,Outdoor
-40.14,BEN,Sesto Fiorentino,ITA,2021-01-24,Carole Agnes yvon Azove,2005.0,Female,HT,NR,Outdoor
-39.09,BER,Prairie View,USA,2021-05-06,Tiara DeRosa,1998.0,Female,HT,NR,Outdoor
-64.95,BIH,Durham,GBR,2019-04-19,Stefani Vukajlović,1996.0,Female,HT,NR,Outdoor
-77.32,BLR,Minsk,BLR,2008-06-29,Aksana Miankova,1982.0,Female,HT,NR,Outdoor
-50.21,BOL,Sucre,BOL,2002-07-27,Natalia Valda,1975.0,Female,HT,NR,Outdoor
+13.10,AFG,Helsinki,FIN,2017-05-15,Yalda Amini,1999,Female,HT,NR,Outdoor
+59.26,ALB,Tirane,ALB,2002-04-18,Emiliana Ciko,1978,Female,HT,NR,Outdoor
+69.48,ALG,Oran,ALG,2023-07-06,Zahra Tatar,1992,Female,HT,NR,Outdoor
+42.65,AND,Toulouse,FRA,2006-07-08,Elena Villalón,1982,Female,HT,NR,Outdoor
+52.55,ANG,Leiria,POR,2011-08-07,Mafuta Maketa,1989,Female,HT,NR,Outdoor
+59.49,ANT,Guadalajara2,MEX,2011-10-24,Althea Charles,1989,Female,HT,NR,Outdoor
+73.74,ARG,Buenos Aires,ARG,2010-04-10,Jenny Dahlgren,1984,Female,HT,NR,Outdoor
+54.17,ARM,Tbilisi,GEO,2022-06-26,Zhanna Shahnazaryan,1984,Female,HT,NR,Outdoor
+69.24,ASA,Burnaby,CAN,2003-06-08,Lisa Misipeka,1975,Female,HT,NR,Outdoor
+73.63,AUS,Austin,USA,2023-06-08,Stephanie Ratcliffe,2000,Female,HT,NR,Outdoor
+61.37,AUT,Innsbruck,AUT,2019-07-27,Tatjana Meklau,1999,Female,HT,NR,Outdoor
+77.10,AZE,Budapest,HUN,2023-08-23,Hanna Skydan,1992,Female,HT,NR,Outdoor
+60.90,BAH,Fresno,USA,2022-03-31,Tahjnee Thurston,1997,Female,HT,NR,Outdoor
+58.21,BAR,Lawrence,USA,2007-04-19,Shernelle Nicholls,1984,Female,HT,NR,Outdoor
+69.91,BEL,Leverkusen,GER,2020-08-23,Vanessa Sterckendries,1995,Female,HT,NR,Outdoor
+40.14,BEN,Sesto Fiorentino,ITA,2021-01-24,Carole Agnes yvon Azove,2005,Female,HT,NR,Outdoor
+39.09,BER,Prairie View,USA,2021-05-06,Tiara DeRosa,1998,Female,HT,NR,Outdoor
+64.95,BIH,Durham,GBR,2019-04-19,Stefani Vukajlović,1996,Female,HT,NR,Outdoor
+77.32,BLR,Minsk,BLR,2008-06-29,Aksana Miankova,1982,Female,HT,NR,Outdoor
+50.21,BOL,Sucre,BOL,2002-07-27,Natalia Valda,1975,Female,HT,NR,Outdoor
 25.94,BOT,Gaborone,BOT,2011-05-14,Andina Tapaphiwa,,Female,HT,NR,Outdoor
-68.35,BRA,Braganca Paulista,BRA,2021-06-23,Mariana Grasielly Marcelino,1992.0,Female,HT,NR,Outdoor
-35.50,BRN,Cairo,EGY,2002-09-18,Fatima Namshan,1983.0,Female,HT,NR,Outdoor
+68.35,BRA,Braganca Paulista,BRA,2021-06-23,Mariana Grasielly Marcelino,1992,Female,HT,NR,Outdoor
+35.50,BRN,Cairo,EGY,2002-09-18,Fatima Namshan,1983,Female,HT,NR,Outdoor
 28.10,BRU,Bandar Seri Begawan,BRU,2009-12-02,Michelle Charlene Basir,,Female,HT,NR,Outdoor
-65.35,BUL,Sofia,BUL,2000-06-10,Anelia Kumanova,1972.0,Female,HT,NR,Outdoor
-68.59,BUR,Sotteville-lès-Rouen,FRA,2016-07-18,Laëtitia Bambara,1984.0,Female,HT,NR,Outdoor
+65.35,BUL,Sofia,BUL,2000-06-10,Anelia Kumanova,1972,Female,HT,NR,Outdoor
+68.59,BUR,Sotteville-lès-Rouen,FRA,2016-07-18,Laëtitia Bambara,1984,Female,HT,NR,Outdoor
 21.51,CAF,Avignon,FRA,2007-06-05,Chancela Moundo,,Female,HT,NR,Outdoor
-78.62,CAN,Westwood,USA,2023-05-26,Camryn Rogers,1999.0,Female,HT,NR,Outdoor
+78.62,CAN,Westwood,USA,2023-05-26,Camryn Rogers,1999,Female,HT,NR,Outdoor
 39.88,CAY,Cullowhee,USA,2010-04-15,Kristie Hurlston,,Female,HT,NR,Outdoor
-66.43,CGO,Asaba,NGR,2018-08-02,Jennifer Batu,1993.0,Female,HT,NR,Outdoor
+66.43,CGO,Asaba,NGR,2018-08-02,Jennifer Batu,1993,Female,HT,NR,Outdoor
 23.22,CHA,Mont-de-Marsan,FRA,2004-05-16,Amina Mahamat,,Female,HT,NR,Outdoor
-69.70,CHI,Temuco,CHI,2021-05-20,Mariana García,1999.0,Female,HT,NR,Outdoor
-77.68,CHN,Chengdu,CHN,2014-03-29,Wang Zheng,1987.0,Female,HT,NR,Outdoor
-52.85,CIV,Winston-Salem,USA,2016-03-18,Andrea Vahoua,1996.0,Female,HT,NR,Outdoor
-67.42,CMR,Flagstaff,USA,2008-07-18,Georgina Toth,1982.0,Female,HT,NR,Outdoor
+69.70,CHI,Temuco,CHI,2021-05-20,Mariana García,1999,Female,HT,NR,Outdoor
+77.68,CHN,Chengdu,CHN,2014-03-29,Wang Zheng,1987,Female,HT,NR,Outdoor
+52.85,CIV,Winston-Salem,USA,2016-03-18,Andrea Vahoua,1996,Female,HT,NR,Outdoor
+67.42,CMR,Flagstaff,USA,2008-07-18,Georgina Toth,1982,Female,HT,NR,Outdoor
 31.62,COD,Montreuil,FRA,1994-06-21,Bintou Kitoko,,Female,HT,NR,Outdoor
-46.70,COK,Nikao,COK,2001-05-22,Siniva Marsters,1980.0,Female,HT,NR,Outdoor
-69.80,COL,Santa Fé,ARG,2009-03-28,Johana Moreno,1985.0,Female,HT,NR,Outdoor
+46.70,COK,Nikao,COK,2001-05-22,Siniva Marsters,1980,Female,HT,NR,Outdoor
+69.80,COL,Santa Fé,ARG,2009-03-28,Johana Moreno,1985,Female,HT,NR,Outdoor
 48.82,COM,Bondy,FRA,2006-01-06,Farrah Boinali,,Female,HT,NR,Outdoor
-41.48,CPV,Beja,POR,2004-10-06,Maria Antónia Borges,1983.0,Female,HT,NR,Outdoor
-51.47,CRC,Managua,NCA,2022-07-03,Daniela Cortez,1997.0,Female,HT,NR,Outdoor
-75.08,CRO,Warszawa,POL,2007-06-17,Ivana Brkljačić,1983.0,Female,HT,NR,Outdoor
-76.62,CUB,Zagreb,CRO,2008-09-09,Yipsi Moreno,1980.0,Female,HT,NR,Outdoor
-69.29,CYP,Trípoli,GRE,2009-05-17,Paraskevi Theodorou,1986.0,Female,HT,NR,Outdoor
-72.47,CZE,Kolín,CZE,2016-06-12,Kateřina Šafránková,1989.0,Female,HT,NR,Outdoor
-74.22,DEN,Trnava,SVK,2022-06-08,Katrine Koch Jacobsen,1999.0,Female,HT,NR,Outdoor
-61.77,DOM,West Point,USA,2004-04-30,Maria Garcia,1981.0,Female,HT,NR,Outdoor
-67.32,ECU,Vila Nova Cerveira,POR,2019-05-04,Valeria Chiliquinga,1991.0,Female,HT,NR,Outdoor
-68.48,EGY,Cairo,EGY,2005-02-18,Marwa Ahmed Hussein,1978.0,Female,HT,NR,Outdoor
-62.43,ESA,San Salvador,ESA,2001-06-09,Nancy Guillén,1976.0,Female,HT,NR,Outdoor
-72.00,ESP,Madrid,ESP,2022-06-18,Laura Redondo,1988.0,Female,HT,NR,Outdoor
-71.50,EST,Pori,FIN,2020-08-29,Kati Ojaloo,1990.0,Female,HT,NR,Outdoor
-61.41,FIJ,Oxford,USA,2022-05-12,Avisake Bulai,1999.0,Female,HT,NR,Outdoor
-74.40,FIN,Leiria,POR,2022-03-19,Krista Tervo,1997.0,Female,HT,NR,Outdoor
-75.38,FRA,Salôn-de-Provence,FRA,2021-02-21,Alexandra Tavernier,1993.0,Female,HT,NR,Outdoor
+41.48,CPV,Beja,POR,2004-10-06,Maria Antónia Borges,1983,Female,HT,NR,Outdoor
+51.47,CRC,Managua,NCA,2022-07-03,Daniela Cortez,1997,Female,HT,NR,Outdoor
+75.08,CRO,Warszawa,POL,2007-06-17,Ivana Brkljačić,1983,Female,HT,NR,Outdoor
+76.62,CUB,Zagreb,CRO,2008-09-09,Yipsi Moreno,1980,Female,HT,NR,Outdoor
+69.29,CYP,Trípoli,GRE,2009-05-17,Paraskevi Theodorou,1986,Female,HT,NR,Outdoor
+72.47,CZE,Kolín,CZE,2016-06-12,Kateřina Šafránková,1989,Female,HT,NR,Outdoor
+74.22,DEN,Trnava,SVK,2022-06-08,Katrine Koch Jacobsen,1999,Female,HT,NR,Outdoor
+61.77,DOM,West Point,USA,2004-04-30,Maria Garcia,1981,Female,HT,NR,Outdoor
+67.32,ECU,Vila Nova Cerveira,POR,2019-05-04,Valeria Chiliquinga,1991,Female,HT,NR,Outdoor
+68.48,EGY,Cairo,EGY,2005-02-18,Marwa Ahmed Hussein,1978,Female,HT,NR,Outdoor
+62.43,ESA,San Salvador,ESA,2001-06-09,Nancy Guillén,1976,Female,HT,NR,Outdoor
+72.00,ESP,Madrid,ESP,2022-06-18,Laura Redondo,1988,Female,HT,NR,Outdoor
+71.50,EST,Pori,FIN,2020-08-29,Kati Ojaloo,1990,Female,HT,NR,Outdoor
+61.41,FIJ,Oxford,USA,2022-05-12,Avisake Bulai,1999,Female,HT,NR,Outdoor
+74.40,FIN,Leiria,POR,2022-03-19,Krista Tervo,1997,Female,HT,NR,Outdoor
+75.38,FRA,Salôn-de-Provence,FRA,2021-02-21,Alexandra Tavernier,1993,Female,HT,NR,Outdoor
 36.76,GAB,Saint Julien de Concelles,FRA,2018-11-24,Armelle Otola,,Female,HT,NR,Outdoor
-74.54,GBR,Río de Janeiro,BRA,2016-08-15,Sophie Hitchon,1991.0,Female,HT,NR,Outdoor
+74.54,GBR,Río de Janeiro,BRA,2016-08-15,Sophie Hitchon,1991,Female,HT,NR,Outdoor
 27.32,GBS,Lisboa,POR,2014-05-17,Claudia Pereira,,Female,HT,NR,Outdoor
-67.62,GEO,Tbilisi,GEO,2021-05-29,Nino Tsikvadze,1999.0,Female,HT,NR,Outdoor
+67.62,GEO,Tbilisi,GEO,2021-05-29,Nino Tsikvadze,1999,Female,HT,NR,Outdoor
 40.14,GEQ,Genova,ITA,2015-09-05,Crescencia Nnang Mba,,Female,HT,NR,Outdoor
-79.42,GER,Halle,GER,2011-05-21,Betty Heidler,1983.0,Female,HT,NR,Outdoor
+79.42,GER,Halle,GER,2011-05-21,Betty Heidler,1983,Female,HT,NR,Outdoor
 61.95,GHA,Charlottesville,USA,2018-04-21,Claudia Ababio,,Female,HT,NR,Outdoor
-72.10,GRE,Nikíti,GRE,2008-07-20,Stilianí Papadopoúlou,1982.0,Female,HT,NR,Outdoor
+72.10,GRE,Nikíti,GRE,2008-07-20,Stilianí Papadopoúlou,1982,Female,HT,NR,Outdoor
 58.85,GRN,Storrs,USA,2002-05-05,Sheba George,,Female,HT,NR,Outdoor
-59.85,GUA,Winston-Salem,USA,2023-04-21,Sophie Pérez,2004.0,Female,HT,NR,Outdoor
+59.85,GUA,Winston-Salem,USA,2023-04-21,Sophie Pérez,2004,Female,HT,NR,Outdoor
 25.92,GUI,Châteauroux,FRA,2017-05-21,Fatoumata Keita,,Female,HT,NR,Outdoor
 49.22,GUM,Eugene,USA,2023-05-05,Tahnisha Manibusan,,Female,HT,NR,Outdoor
-52.77,HAI,Philadelphia,USA,2016-04-28,Ann Dagrin,1994.0,Female,HT,NR,Outdoor
+60.80,HAI,Coral Gables,USA,2024-03-15,Michaelle Valentin,2001,Female,HT,NR,Outdoor
 52.59,HKG,Taoyuan,TPE,2016-05-19,Lam Sau Kwan,,Female,HT,NR,Outdoor
-62.24,HON,Ashland,USA,2022-04-29,Gabrielle Figueroa,1996.0,Female,HT,NR,Outdoor
-73.44,HUN,Halle,GER,2013-05-25,Éva Orbán,1984.0,Female,HT,NR,Outdoor
-54.12,INA,Vientiane,LAO,2009-12-15,Rose Herlinda,1982.0,Female,HT,NR,Outdoor
-65.25,IND,Patiala,IND,2017-06-01,Sarita Prakash Singh,1989.0,Female,HT,NR,Outdoor
-59.43,IRI,Tehran,IRI,2023-05-19,Zahra Arab Rostami,2003.0,Female,HT,NR,Outdoor
-73.21,IRL,Dublin,IRL,2007-07-21,Eileen O'Keeffe,1981.0,Female,HT,NR,Outdoor
-47.95,IRQ,Doha,QAT,2023-04-27,Marwa Qais Marhoun,2001.0,Female,HT,NR,Outdoor
-66.98,ISL,Austin,USA,2023-06-08,Elísabet Rut Rúnarsdóttir,2002.0,Female,HT,NR,Outdoor
-61.78,ISR,Tel Aviv,ISR,2017-04-15,Margarita Belov,1991.0,Female,HT,NR,Outdoor
-54.69,ISV,College Station,USA,2021-04-10,Maia Campbell,1998.0,Female,HT,NR,Outdoor
-75.77,ITA,Madrid,ESP,2022-06-18,Sara Fantini,1997.0,Female,HT,NR,Outdoor
-60.97,IVB,Gold Coast,AUS,2018-04-10,Tynelle Gumbs,1996.0,Female,HT,NR,Outdoor
-71.48,JAM,Lawrence,USA,2016-06-25,Daina Levy,1993.0,Female,HT,NR,Outdoor
-44.66,JOR,Los Angeles,USA,1996-03-16,Nada Kawar,1975.0,Female,HT,NR,Outdoor
-69.89,JPN,Los Angeles,USA,2023-04-07,Joy McArthur,1999.0,Female,HT,NR,Outdoor
-62.50,KAZ,Almaty,KAZ,2016-05-25,Diana Serik,1995.0,Female,HT,NR,Outdoor
-60.80,KEN,Austin,USA,2012-05-26,Linda Oseso,1990.0,Female,HT,NR,Outdoor
+62.24,HON,Ashland,USA,2022-04-29,Gabrielle Figueroa,1996,Female,HT,NR,Outdoor
+73.44,HUN,Halle,GER,2013-05-25,Éva Orbán,1984,Female,HT,NR,Outdoor
+54.12,INA,Vientiane,LAO,2009-12-15,Rose Herlinda,1982,Female,HT,NR,Outdoor
+65.25,IND,Patiala,IND,2017-06-01,Sarita Prakash Singh,1989,Female,HT,NR,Outdoor
+59.43,IRI,Tehran,IRI,2023-05-19,Zahra Arab Rostami,2003,Female,HT,NR,Outdoor
+73.21,IRL,Dublin,IRL,2007-07-21,Eileen O'Keeffe,1981,Female,HT,NR,Outdoor
+47.95,IRQ,Doha,QAT,2023-04-27,Marwa Qais Marhoun,2001,Female,HT,NR,Outdoor
+69.11,ISL,San Antonio,USA,2024-03-15,Elísabet Rut Rúnarsdóttir,2002,Female,HT,NR,Outdoor
+61.78,ISR,Tel Aviv,ISR,2017-04-15,Margarita Belov,1991,Female,HT,NR,Outdoor
+54.69,ISV,College Station,USA,2021-04-10,Maia Campbell,1998,Female,HT,NR,Outdoor
+75.77,ITA,Madrid,ESP,2022-06-18,Sara Fantini,1997,Female,HT,NR,Outdoor
+60.97,IVB,Gold Coast,AUS,2018-04-10,Tynelle Gumbs,1996,Female,HT,NR,Outdoor
+71.48,JAM,Lawrence,USA,2016-06-25,Daina Levy,1993,Female,HT,NR,Outdoor
+44.66,JOR,Los Angeles,USA,1996-03-16,Nada Kawar,1975,Female,HT,NR,Outdoor
+69.89,JPN,Los Angeles,USA,2023-04-07,Joy McArthur,1999,Female,HT,NR,Outdoor
+62.50,KAZ,Almaty,KAZ,2016-05-25,Diana Serik,1995,Female,HT,NR,Outdoor
+60.80,KEN,Austin,USA,2012-05-26,Linda Oseso,1990,Female,HT,NR,Outdoor
 64.44,KGZ,Adler,URS,1991-02-24,Alla Fyodorova,,Female,HT,NR,Outdoor
 30.10,KIR,Mont Dore,FRA,2011-03-09,Taatia Riino,,Female,HT,NR,Outdoor
-64.14,KOR,Hangzhou,CHN,2023-09-29,Kim Tae-Hee,2005.0,Female,HT,NR,Outdoor
-24.64,KOS,Olten,SUI,2018-03-07,Nushe Shehu,2000.0,Female,HT,NR,Outdoor
+64.14,KOR,Hangzhou,CHN,2023-09-29,Kim Tae-Hee,2005,Female,HT,NR,Outdoor
+24.64,KOS,Olten,SUI,2018-03-07,Nushe Shehu,2000,Female,HT,NR,Outdoor
 39.09,KUW,Muscat,OMA,2015-03-15,Batool Nasir Bakir Al Din,,Female,HT,NR,Outdoor
 40.24,LAO,New Clark City,PHI,2019-12-08,Math Thinmanao,,Female,HT,NR,Outdoor
-73.56,LAT,Mount Olive,USA,2019-05-11,Laura Igaune,1988.0,Female,HT,NR,Outdoor
+73.56,LAT,Mount Olive,USA,2019-05-11,Laura Igaune,1988,Female,HT,NR,Outdoor
 50.92,LBA,Tlemcen,ALG,2016-07-05,Rijaj Salem,,Female,HT,NR,Outdoor
 42.07,LBN,Ann Arbor,USA,2021-05-07,Samantha Haddad,,Female,HT,NR,Outdoor
-54.47,LBR,New Haven,USA,2007-04-29,Tetee Kuyateh,1984.0,Female,HT,NR,Outdoor
-52.44,LCA,Philadelphia,USA,2023-05-06,Kayla-Rae Gordon,2001.0,Female,HT,NR,Outdoor
-66.09,LTU,Walnut,USA,2021-05-09,Agnė Lukoševičiūtė,1998.0,Female,HT,NR,Outdoor
-52.64,LUX,Longeville-les-Metz,FRA,2021-05-08,Isabeau Pleimling,1993.0,Female,HT,NR,Outdoor
-53.18,MAD,Abuja,NGR,2003-10-14,Ange-Doris Ratsimbazafy,1974.0,Female,HT,NR,Outdoor
-68.28,MAR,Asaba,NGR,2018-08-02,Soukana Zakkour,1993.0,Female,HT,NR,Outdoor
-62.48,MAS,Kuala Lumpur,MAS,2021-04-10,Grace Wong Xiu Mei,2000.0,Female,HT,NR,Outdoor
+54.47,LBR,New Haven,USA,2007-04-29,Tetee Kuyateh,1984,Female,HT,NR,Outdoor
+52.44,LCA,Philadelphia,USA,2023-05-06,Kayla-Rae Gordon,2001,Female,HT,NR,Outdoor
+66.09,LTU,Walnut,USA,2021-05-09,Agnė Lukoševičiūtė,1998,Female,HT,NR,Outdoor
+52.64,LUX,Longeville-les-Metz,FRA,2021-05-08,Isabeau Pleimling,1993,Female,HT,NR,Outdoor
+53.18,MAD,Abuja,NGR,2003-10-14,Ange-Doris Ratsimbazafy,1974,Female,HT,NR,Outdoor
+68.28,MAR,Asaba,NGR,2018-08-02,Soukana Zakkour,1993,Female,HT,NR,Outdoor
+62.48,MAS,Kuala Lumpur,MAS,2021-04-10,Grace Wong Xiu Mei,2000,Female,HT,NR,Outdoor
 17.43,MAW,London,GBR,2019-06-15,Ambwene Simukonda,,Female,HT,NR,Outdoor
-74.70,MDA,Chisinau,MDA,2019-06-22,Zalina Petrivskaya,1988.0,Female,HT,NR,Outdoor
-66.52,MEX,Logan,USA,2009-05-16,Sharon Ayala,1986.0,Female,HT,NR,Outdoor
+74.70,MDA,Chisinau,MDA,2019-06-22,Zalina Petrivskaya,1988,Female,HT,NR,Outdoor
+66.52,MEX,Logan,USA,2009-05-16,Sharon Ayala,1986,Female,HT,NR,Outdoor
 45.90,MGL,Ulan Bator,MGL,2006-07-22,Purev Maamuu,,Female,HT,NR,Outdoor
-45.91,MKD,Columbus,USA,2001-05-06,Vesna Cadikovska,1980.0,Female,HT,NR,Outdoor
-53.21,MLI,Versailles,FRA,2022-05-08,Emilie Dia,1999.0,Female,HT,NR,Outdoor
-52.50,MLT,Marsa,MLT,2022-04-09,Mireya Cassar,2003.0,Female,HT,NR,Outdoor
-48.67,MNE,Danilovgrad,MNE,2019-07-27,Ana Bošković,2001.0,Female,HT,NR,Outdoor
-13.73,MON,Nice,FRA,2005-05-08,Vanessa Gazielo,1986.0,Female,HT,NR,Outdoor
+45.91,MKD,Columbus,USA,2001-05-06,Vesna Cadikovska,1980,Female,HT,NR,Outdoor
+53.21,MLI,Versailles,FRA,2022-05-08,Emilie Dia,1999,Female,HT,NR,Outdoor
+52.50,MLT,Marsa,MLT,2022-04-09,Mireya Cassar,2003,Female,HT,NR,Outdoor
+48.67,MNE,Danilovgrad,MNE,2019-07-27,Ana Bošković,2001,Female,HT,NR,Outdoor
+13.73,MON,Nice,FRA,2005-05-08,Vanessa Gazielo,1986,Female,HT,NR,Outdoor
 35.77,MOZ,Maputo,MOZ,2001-04-07,Joana Vasco,,Female,HT,NR,Outdoor
-62.06,MRI,Montgeron,FRA,1996-06-30,Caroline Fournier,1975.0,Female,HT,NR,Outdoor
-38.18,MTN,Nice,FRA,2010-06-30,Binta Diagana,1976.0,Female,HT,NR,Outdoor
-46.85,MYA,Bangkok,THA,2017-06-14,M Soe Zar,1991.0,Female,HT,NR,Outdoor
+62.06,MRI,Montgeron,FRA,1996-06-30,Caroline Fournier,1975,Female,HT,NR,Outdoor
+38.18,MTN,Nice,FRA,2010-06-30,Binta Diagana,1976,Female,HT,NR,Outdoor
+46.85,MYA,Bangkok,THA,2017-06-14,M Soe Zar,1991,Female,HT,NR,Outdoor
 38.57,NAM,Windhoek,NAM,2018-04-21,Karlien Botha,,Female,HT,NR,Outdoor
 44.63,NCA,Managua,NCA,2017-12-12,Marisol Zeledón,,Female,HT,NR,Outdoor
-65.79,NED,Halle,GER,2004-05-22,Debby van der Schilt,1981.0,Female,HT,NR,Outdoor
+65.79,NED,Halle,GER,2004-05-22,Debby van der Schilt,1981,Female,HT,NR,Outdoor
 44.20,NFI,Middlegate,USA,2013-08-12,Brianna Stephens,,Female,HT,NR,Outdoor
-75.49,NGR,Tucson,USA,2021-05-22,Annette Echikunwoke,1996.0,Female,HT,NR,Outdoor
+75.49,NGR,Tucson,USA,2021-05-22,Annette Echikunwoke,1996,Female,HT,NR,Outdoor
 24.80,NIG,Gonfreville l'Orcher,FRA,2015-10-05,Zariyat Imam,,Female,HT,NR,Outdoor
 27.57,NMI,Saipan,FRA,2008-06-27,Jenequa Benavente,,Female,HT,NR,Outdoor
-72.10,NOR,Eugene,USA,2022-06-09,Beatrice Nedberge Llano,1997.0,Female,HT,NR,Outdoor
+72.10,NOR,Eugene,USA,2022-06-09,Beatrice Nedberge Llano,1997,Female,HT,NR,Outdoor
 19.56,NRU,Gold Coast,AUS,2009-06-08,Jerusha Mau,,Female,HT,NR,Outdoor
-74.61,NZL,Tucson,USA,2021-05-20,Lauren Bruce,1997.0,Female,HT,NR,Outdoor
+74.61,NZL,Tucson,USA,2021-05-20,Lauren Bruce,1997,Female,HT,NR,Outdoor
 49.36,OMA,Al-Kuwait,KUW,2022-05-18,Hanna Saeed Al-Tokya,,Female,HT,NR,Outdoor
-45.03,PAK,Islamabad,PAK,2005-08-11,Razia Sultana,1980.0,Female,HT,NR,Outdoor
-60.04,PAN,Eugene,USA,1996-06-01,Theresa Findlay,1974.0,Female,HT,NR,Outdoor
-60.81,PAR,Lawrence,USA,2016-05-27,Paola Carolina Miranda,1994.0,Female,HT,NR,Outdoor
-66.96,PER,Valledupar,COL,2022-07-01,Ximena Zorrilla,2000.0,Female,HT,NR,Outdoor
-58.36,PHI,Irvine,USA,2023-04-28,Shiloh Corrales-Nelson,2001.0,Female,HT,NR,Outdoor
+45.03,PAK,Islamabad,PAK,2005-08-11,Razia Sultana,1980,Female,HT,NR,Outdoor
+60.04,PAN,Eugene,USA,1996-06-01,Theresa Findlay,1974,Female,HT,NR,Outdoor
+60.81,PAR,Lawrence,USA,2016-05-27,Paola Carolina Miranda,1994,Female,HT,NR,Outdoor
+66.96,PER,Valledupar,COL,2022-07-01,Ximena Zorrilla,2000,Female,HT,NR,Outdoor
+58.36,PHI,Irvine,USA,2023-04-28,Shiloh Corrales-Nelson,2001,Female,HT,NR,Outdoor
 28.92,PLW,Koror,PLW,2007-06-21,Corrine Hideos,,Female,HT,NR,Outdoor
 47.99,PNG,Apia,SAM,2019-07-16,Jacklyn Travertz,,Female,HT,NR,Outdoor
-82.98,POL,Warszawa,POL,2016-08-28,Anita Włodarczyk,1985.0,Female,HT,NR,Outdoor
-69.55,POR,Vila Real de Santo Antonio,POR,2011-05-29,Vânia Silva,1980.0,Female,HT,NR,Outdoor
+82.98,POL,Warszawa,POL,2016-08-28,Anita Włodarczyk,1985,Female,HT,NR,Outdoor
+69.55,POR,Vila Real de Santo Antonio,POR,2011-05-29,Vânia Silva,1980,Female,HT,NR,Outdoor
 52.68,PRK,Pyongyang,PRK,2015-04-29,Choe Kum Ju,,Female,HT,NR,Outdoor
-66.57,PUR,Ottawa,CAN,2006-07-01,Amarilis Alméstica,1981.0,Female,HT,NR,Outdoor
-50.79,QAT,Gifu,JPN,2018-06-07,Rania Raed Al-Naji,2000.0,Female,HT,NR,Outdoor
-76.07,ROU,Rüdlingen,SUI,1999-08-29,Mihaela Melinte,1975.0,Female,HT,NR,Outdoor
-66.11,RSA,Johannesburg,RSA,2023-04-19,Leandri Geel,1997.0,Female,HT,NR,Outdoor
-78.51,RUS,Cheboksary,RUS,2012-07-05,Tatyana Beloborodova,1983.0,Female,HT,NR,Outdoor
+66.57,PUR,Ottawa,CAN,2006-07-01,Amarilis Alméstica,1981,Female,HT,NR,Outdoor
+50.79,QAT,Gifu,JPN,2018-06-07,Rania Raed Al-Naji,2000,Female,HT,NR,Outdoor
+76.07,ROU,Rüdlingen,SUI,1999-08-29,Mihaela Melinte,1975,Female,HT,NR,Outdoor
+66.11,RSA,Johannesburg,RSA,2023-04-19,Leandri Geel,1997,Female,HT,NR,Outdoor
+78.51,RUS,Cheboksary,RUS,2012-07-05,Tatyana Beloborodova,1983,Female,HT,NR,Outdoor
 39.58,RWA,Nivelles,BEL,2006-04-26,Félicité Uwilingiyimana,,Female,HT,NR,Outdoor
-53.69,SAM,Portland,USA,2016-12-07,Kasandra Vegas,1991.0,Female,HT,NR,Outdoor
-69.70,SEN,Forbach,FRA,2014-05-25,Amy Sené,1985.0,Female,HT,NR,Outdoor
+53.69,SAM,Portland,USA,2016-12-07,Kasandra Vegas,1991,Female,HT,NR,Outdoor
+69.70,SEN,Forbach,FRA,2014-05-25,Amy Sené,1985,Female,HT,NR,Outdoor
 44.55,SEY,Victoria,CAN,2007-03-03,Helda Marie,,Female,HT,NR,Outdoor
 38.57,SGP,Singapore,SGP,2018-01-21,Valerie Loong,,Female,HT,NR,Outdoor
-71.25,SLO,Čakovec,CRO,2012-05-05,Barbara Špiler,1992.0,Female,HT,NR,Outdoor
+71.25,SLO,Čakovec,CRO,2012-05-05,Barbara Špiler,1992,Female,HT,NR,Outdoor
 36.72,SMR,Comacchio,ITA,2004-05-29,Cristina Zafferani,,Female,HT,NR,Outdoor
-66.41,SRB,Ames,USA,2015-05-15,Sara Savatović,1993.0,Female,HT,NR,Outdoor
+66.41,SRB,Ames,USA,2015-05-15,Sara Savatović,1993,Female,HT,NR,Outdoor
 48.76,SRI,Matara,SRI,2017-09-24,Shanika Manoji Amarasinghe,,Female,HT,NR,Outdoor
 40.45,STP,Vagos,POR,2022-04-26,Nádia Delgado,,Female,HT,NR,Outdoor
-67.42,SUI,Luzern,SUI,2018-07-09,Nicole Zihlmann,1986.0,Female,HT,NR,Outdoor
-76.90,SVK,Trnava,SVK,2009-05-16,Martina Hrašnová,1983.0,Female,HT,NR,Outdoor
-71.52,SWE,Fränkisch-Crumbach,GER,2017-06-04,Ida Storm,1991.0,Female,HT,NR,Outdoor
-50.24,SYR,Hainfeld,AUT,2021-07-27,Fatima Jeratli,1994.0,Female,HT,NR,Outdoor
-53.53,TGA,Aix-les-Bains,FRA,2009-02-07,Ana Po'uhila-Kisina,1979.0,Female,HT,NR,Outdoor
-62.49,THA,Kolín,CZE,2018-07-19,Mingkamon Koomphon,1998.0,Female,HT,NR,Outdoor
-63.43,TJK,Dushanbe,TJK,2009-06-20,Galina Mityayeva,1991.0,Female,HT,NR,Outdoor
-56.70,TKM,Ashgabat,TKM,2011-05-21,Ayna Mamedova,1988.0,Female,HT,NR,Outdoor
-62.75,TOG,Reims,FRA,2008-07-08,Florence Ezeh,1977.0,Female,HT,NR,Outdoor
-67.32,TPE,Long Beach,USA,2023-04-14,Yu Ya-Chien,1999.0,Female,HT,NR,Outdoor
-71.45,TTO,Marietta,USA,2005-05-15,Candice Scott,1980.0,Female,HT,NR,Outdoor
-65.93,TUN,Bobigny,FRA,2014-04-27,Sarah Bensaad,1987.0,Female,HT,NR,Outdoor
-74.17,TUR,Izmir,TUR,2012-05-19,Tuğçe Şahutoğlu,1988.0,Female,HT,NR,Outdoor
+67.42,SUI,Luzern,SUI,2018-07-09,Nicole Zihlmann,1986,Female,HT,NR,Outdoor
+76.90,SVK,Trnava,SVK,2009-05-16,Martina Hrašnová,1983,Female,HT,NR,Outdoor
+71.52,SWE,Fränkisch-Crumbach,GER,2017-06-04,Ida Storm,1991,Female,HT,NR,Outdoor
+50.24,SYR,Hainfeld,AUT,2021-07-27,Fatima Jeratli,1994,Female,HT,NR,Outdoor
+53.53,TGA,Aix-les-Bains,FRA,2009-02-07,Ana Po'uhila-Kisina,1979,Female,HT,NR,Outdoor
+62.49,THA,Kolín,CZE,2018-07-19,Mingkamon Koomphon,1998,Female,HT,NR,Outdoor
+63.43,TJK,Dushanbe,TJK,2009-06-20,Galina Mityayeva,1991,Female,HT,NR,Outdoor
+56.70,TKM,Ashgabat,TKM,2011-05-21,Ayna Mamedova,1988,Female,HT,NR,Outdoor
+62.75,TOG,Reims,FRA,2008-07-08,Florence Ezeh,1977,Female,HT,NR,Outdoor
+67.32,TPE,Long Beach,USA,2023-04-14,Yu Ya-Chien,1999,Female,HT,NR,Outdoor
+71.45,TTO,Marietta,USA,2005-05-15,Candice Scott,1980,Female,HT,NR,Outdoor
+65.93,TUN,Bobigny,FRA,2014-04-27,Sarah Bensaad,1987,Female,HT,NR,Outdoor
+74.17,TUR,Izmir,TUR,2012-05-19,Tuğçe Şahutoğlu,1988,Female,HT,NR,Outdoor
 43.70,UAE,Doha,QAT,2017-03-11,Widad Ibrahim Rubare,,Female,HT,NR,Outdoor
-74.52,UKR,Kyiv,UKR,2008-07-02,Iryna Sekachyova,1976.0,Female,HT,NR,Outdoor
-61.52,URU,Montevideo,URU,2006-04-02,Stefanía Zoryez,1983.0,Female,HT,NR,Outdoor
-80.31,USA,Eugene,USA,2021-06-26,DeAnna Price,1993.0,Female,HT,NR,Outdoor
-67.05,UZB,Tashkent,UZB,2021-06-29,Zarina Nosirshonova,2002.0,Female,HT,NR,Outdoor
+74.52,UKR,Kyiv,UKR,2008-07-02,Iryna Sekachyova,1976,Female,HT,NR,Outdoor
+61.52,URU,Montevideo,URU,2006-04-02,Stefanía Zoryez,1983,Female,HT,NR,Outdoor
+80.31,USA,Eugene,USA,2021-06-26,DeAnna Price,1993,Female,HT,NR,Outdoor
+67.05,UZB,Tashkent,UZB,2021-06-29,Zarina Nosirshonova,2002,Female,HT,NR,Outdoor
 19.31,VAN,Port Vila,VAN,2017-12-12,Elis Malep,,Female,HT,NR,Outdoor
-73.64,VEN,Barquisimeto,VEN,2013-05-16,Rosa Rodríguez,1986.0,Female,HT,NR,Outdoor
-51.27,VIE,Ho Chi Minh,VIE,2017-10-26,Pham Thi Thanh Truc,1990.0,Female,HT,NR,Outdoor
+73.64,VEN,Barquisimeto,VEN,2013-05-16,Rosa Rodríguez,1986,Female,HT,NR,Outdoor
+51.27,VIE,Ho Chi Minh,VIE,2017-10-26,Pham Thi Thanh Truc,1990,Female,HT,NR,Outdoor
 48.42,VIN,Towson,USA,2019-04-06,Nikelene Mclean,,Female,HT,NR,Outdoor
-54.14,YUG,Beograd,SRB,2000-06-03,Danijela Jankovic,1980.0,Female,HT,NR,Outdoor
+54.14,YUG,Beograd,SRB,2000-06-03,Danijela Jankovic,1980,Female,HT,NR,Outdoor
 25.14,ZIM,Luanda,ANG,2016-12-14,Tadiwa Kandeya,,Female,HT,NR,Outdoor
