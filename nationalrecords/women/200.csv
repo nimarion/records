@@ -90,7 +90,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 22.77,0.4,HUN,Budapest,HUN,2023-06-08,Boglárka Takács,2001,Female,200,NR,Outdoor
 23.76,0.4,INA,Cibinong,INA,2019-08-04,Alfina Tehupeiory,1995,Female,200,NR,Outdoor
 22.82,0.8,IND,Ludhiana,IND,2002-08-28,Saraswati Saha,1979,Female,200,NR,Outdoor
-23.46,0.6,IRI,Almaty,KAZ,2012-07-01,Maryam Toosi,1988,Female,200,NR,Outdoor
+23.35,0.3,IRI,Pretoria,RSA,2024-03-18,Maryam Toosi,1988,Female,200,NR,Outdoor
 22.34,1.8,IRL,Gainesville,USA,2023-04-14,Rhasidat Adeleke,2002,Female,200,NR,Outdoor
 22.51,0.0,IRQ,Radès,TUN,2021-06-20,Dana Abdulrazak,1986,Female,200,NR,Outdoor
 23.45,1.9,ISL,Selfoss,ISL,2019-06-16,Gudbjörg Jóna Bjarnadóttir,2001,Female,200,NR,Outdoor
@@ -134,7 +134,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 23.74,1.5,MLT,Marsa,MLT,2023-06-03,Carla Scicluna,2001,Female,200,NR,Outdoor
 24.88,0.6,MNE,Smederevo,SRB,2021-06-27,Kristina Dubak,1996,Female,200,NR,Outdoor
 26.69,,MNT,Vieux-Fort,LCA,2016-02-28,Jenalyn Weekes,,Female,200,NR,Outdoor
-26.65,,MON,Nice,FRA,2021-07-14,Marie Charlotte Gastaud,1999,Female,200,NR,Outdoor
+25.89,,MON,Nice,FRA,2023-07-08,Marie Charlotte Gastaud,1999,Female,200,NR,Outdoor
 23.86,,MOZ,Langenthal,SUI,1994-07-20,Maria Mutola,1972,Female,200,NR,Outdoor
 23.83,,MRI,Chapel Hill,USA,1994-04-14,Jane Thondojee,1971,Female,200,NR,Outdoor
 27.67,,MTN,Ad Dawhah,QAT,2012-04-25,Badia Camara,1997,Female,200,NR,Outdoor
