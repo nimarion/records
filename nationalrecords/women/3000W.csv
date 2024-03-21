@@ -17,6 +17,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 13:57.75,MAR,Roma,ITA,2018-02-04,Fatima Lotfi,1992,Female,3000W,NR,Outdoor
 15:37.23,MDV,Lagos,NGR,1998-07-06,S Reem,,Female,3000W,NR,Outdoor
 14:35.97,MRI,Réduit,MRI,2006-04-09,Maria Yolene Raffin,,Female,3000W,NR,Outdoor
+14:11.29,NED,Drunen,NED,2022-06-17,Anne van Andel,1990,Female,3000W,NR,Outdoor
 12:00.53,NOR,Lillehammer,NOR,2009-07-31,Kjersti Tysse Plätzer,1972,Female,3000W,NR,Outdoor
 12:53.19,RSA,Pretoria,RSA,2004-02-20,Nicolene Cronje,1983,Female,3000W,NR,Outdoor
 11:50.30,RUS,Moskva,RUS,2016-07-28,Marina Pandakova,1989,Female,3000W,NR,Outdoor
@@ -54,7 +55,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 12:07.19,LTU,Wien,AUT,2014-02-08,Brigita Virbalytė-Dimšienė,1985,Female,3000W,NR,Indoor
 13:10.43,MDA,Paris,FRA,1994-03-11,Yulia Lisnik,1966,Female,3000W,NR,Indoor
 13:23.45,MEX,Indianapolis,USA,1987-03-06,María Colin,1966,Female,3000W,NR,Indoor
-14:18.5,NED,Goes,NED,1983-01-22,Marcia Onos-Zethof,1956,Female,3000W,NR,Indoor
+14:18.5,NED,Goes,NED,1983-01-22,Marica Onos-Zethof,1956,Female,3000W,NR,Indoor
 11:59.3,NOR,Liévin,FRA,2004-02-01,Kjersti Tysse Plätzer,1972,Female,3000W,NR,Indoor
 12:17.17,POL,Spala,POL,1994-02-27,Katarzyna Radtke,1969,Female,3000W,NR,Indoor
 12:17.93,POR,Pombal,POR,2015-02-14,Ana Cabecinha,1984,Female,3000W,NR,Indoor

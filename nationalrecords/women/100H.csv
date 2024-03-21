@@ -83,7 +83,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 13.14,0.0,HKG,"Walnut, Ca",USA,1994-04-17,Chan Sau Ying,1970,Female,100H,NR,Outdoor
 13.14,,HKG,Walnut,USA,1994-04-17,Chan Sau-Ying,1970,Female,100H,NR,Outdoor
 13.83,-0.6,HON,Toluca,MEX,2008-07-21,Jeimy J. Bernárdez,1986,Female,100H,NR,Outdoor
-12.69,-0.1,HUN,München,GER,2022-08-21,Luca Kozák,1996,Female,100H,NR,Outdoor
+12.69,0.3,HUN,München,GER,2022-08-21,Luca Kozák,1996,Female,100H,NR,Outdoor
 13.18,0.7,INA,Taipei,TPE,2012-05-26,Dedeh Erawati,1979,Female,100H,NR,Outdoor
 12.78,1.0,IND,Chengdu,CHN,2023-08-04,Jyothi Yarraji,1999,Female,100H,NR,Outdoor
 13.64,0.2,IRI,Tehran,IRI,2023-08-18,Elnaz Kompani,1989,Female,100H,NR,Outdoor
@@ -130,7 +130,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 15.25,0.0,MLT,Marsa,MLT,2010-06-20,Marija Sciberras,1993,Female,100H,NR,Outdoor
 14.20,1.0,MNE,Istanbul,TUR,1999-06-27,Sanja Đurnić,1977,Female,100H,NR,Outdoor
 15.09,,MON,Evry,FRA,1992-06-14,Carine Cresto,1973,Female,100H,NR,Outdoor
-14.09,-0.2,MOZ,Macau,MAC,2006-10-12,Telma Cossa,1981,Female,100H,NR,Outdoor
+14.00,-1.8,MOZ,Accra,GHA,2024-03-19,Cecilia Francisco Guambe,2000,Female,100H,NR,Outdoor
 14.10,1.3,MRI,Val-de-Reuil,FRA,2001-06-23,Stephanie Domaingue,1980,Female,100H,NR,Outdoor
 15.48,,MTN,Sharjah,UAE,2014-02-04,Badia Camara,1997,Female,100H,NR,Outdoor
 14.35,,MYA,Manila,PHI,1981-12-13,Nwe Nwe Yee,,Female,100H,NR,Outdoor

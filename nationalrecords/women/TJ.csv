@@ -100,7 +100,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 12.60,0.0,JOR,Al-Ain,UAE,2011-10-29,Rima Taha Farid,1987,Female,TJ,NR,Outdoor
 14.16,0.7,JPN,Osaka,JPN,2023-06-03,Mariko Morimoto,1995,Female,TJ,NR,Outdoor
 15.25,1.7,KAZ,Split,CRO,2010-09-04,Olga Rypakova,1984,Female,TJ,NR,Outdoor
-13.13,,KEN,Nairobi,KEN,2023-06-24,Maximilia Imali,1996,Female,TJ,NR,Outdoor
+13.64,1.5,KEN,Accra,GHA,2024-03-19,Winnie Chepngetich Bii,2003,Female,TJ,NR,Outdoor
 13.76,1.5,KGZ,Bangkok,THA,2007-06-19,Rakhima Sardi,1986,Female,TJ,NR,Outdoor
 10.76,,KIR,Bairiki,KIR,2008-07-01,Terina Tangitang,,Female,TJ,NR,Outdoor
 13.92,1.6,KOR,Gongju,KOR,2006-05-26,Kim Soo-Yun,1977,Female,TJ,NR,Outdoor
@@ -156,6 +156,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 9.95,0.7,PLE,Damascus,SYR,2004-09-13,Kmar Assoued,,Female,TJ,NR,Outdoor
 9.89,0.7,PLW,Susupe,NMI,2006-06-26,Barbara Gbewonyo,,Female,TJ,NR,Outdoor
 13.28,1.4,PNG,Bradenton,USA,2017-05-27,Rellie Kaputin,1993,Female,TJ,NR,Outdoor
+14.44,1.8,POL,Barcelona,ESP,2010-07-29,Malgorzata Trybanska,1981,Female,TJ,NR,Outdoor
 14.44,1.8,POL,Barcelona,ESP,2010-07-29,Małgorzata Trybańska-Strońska,1981,Female,TJ,NR,Outdoor
 15.01,1.0,POR,Tokyo,JPN,2021-08-01,Patrícia Mamona,1988,Female,TJ,NR,Outdoor
 13.40,,PRK,Pyongyang,PRK,1998-10-10,O Mi Song,1976,Female,TJ,NR,Outdoor
@@ -193,7 +194,7 @@ result,wind,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,
 13.97,0.9,TKM,Singapore,SGP,1999-10-01,Viktoriya Brigadnaya,1980,Female,TJ,NR,Outdoor
 10.34,1.6,TKS,Vieux-Fort,LCA,2009-04-12,Shamara Rigby,,Female,TJ,NR,Outdoor
 10.33,,TLS,Vagos,POR,2021-07-31,Ofélia Faria,,Female,TJ,NR,Outdoor
-13.18,,TOG,Obernai,FRA,2001-07-29,Edwige Néglogpé,,Female,TJ,NR,Outdoor
+13.23,0.8,TOG,Accra,GHA,2024-03-19,Fayza Issaka Abdou Kerim,1996,Female,TJ,NR,Outdoor
 13.63,,TPE,Taoyuan,TPE,1999-12-26,Wang Kuo-Huei,1978,Female,TJ,NR,Outdoor
 14.40,0.0,TTO,Alexandria,USA,2014-08-31,Ayanna Alexander,1982,Female,TJ,NR,Outdoor
 13.08,,TUN,Dakar,SEN,2000-05-06,Monya Jelassi,1979,Female,TJ,NR,Outdoor
