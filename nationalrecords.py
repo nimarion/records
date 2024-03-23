@@ -3,7 +3,7 @@ import pandas as pd
 import os
 
 def getDisciplines(sex):
-    url = f'https://www.tilastopaja.eu/api/inputs/events/nationalrecords/senior/{sex}'
+    url = f'https://www.tilastopaja.info/api/inputs/events/nationalrecords/senior/{sex}'
     response = requests.get(url)
     json = response.json()
     data = json["data"]
@@ -17,7 +17,7 @@ def determine_environment(row):
     return "Outdoor"
 
 def getRecords(sex, discipline):
-    url = f'https://www.tilastopaja.eu/api/nationalrecords/world/{sex}?indoor=all&event={discipline}'
+    url = f'https://www.tilastopaja.info/api/nationalrecords/world/{sex}?indoor=all&event={discipline}'
     response = requests.get(url)
     json = response.json()
     if (json['templates'] is None):

@@ -10,7 +10,7 @@ def determine_environment(row):
     return "Outdoor"
 
 def getRecords(sex, indoor=False):
-    url = f'https://www.tilastopaja.eu/api/records/area/{sex}?&indoor=all'
+    url = f'https://www.tilastopaja.info/api/records/area/{sex}?&indoor=all'
     response = requests.get(url)
     json = response.json()
     if (json['templates'] is None):
