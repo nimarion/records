@@ -20,7 +20,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 1:20:43,BUL,Sofia,BUL,1988-06-26,Lyubomir Ivanov,1960,Male,20W,NR,Outdoor
 1:54:31,CAM,La Habana,CUB,2006-05-06,Sinn Siravut,,Male,20W,NR,Outdoor
 1:18:03,CAN,Budapest,HUN,2023-08-19,Evan Dunfee,1990,Male,20W,NR,Outdoor
-1:39:08,CGO,Brazzaville,CGO,2019-02-08,Armand Bazoungoula,,Male,20W,NR,Outdoor
+1:39:08,CGO,Brazzaville,CGO,2019-02-08,Armand Bazoungoula,2000,Male,20W,NR,Outdoor
 1:21:26,CHI,Adelaide,AUS,2016-02-21,Yerko Araya,1986,Male,20W,NR,Outdoor
 1:16:54,CHN,Huangshan,CHN,2021-03-20,Wang Kaihua,1994,Male,20W,NR,Outdoor
 1:30:12,CMR,Bafoussam,CMR,2014-06-20,Herve Nzossie,1982,Male,20W,NR,Outdoor
@@ -100,7 +100,7 @@ result,nation,venue,venueCountry,date,name,yearOfBirth,sex,discipline,type,envir
 1:20:09,POR,Göteborg,SWE,2006-08-08,João Vieira,1976,Male,20W,NR,Outdoor
 1:24:08,PUR,Adelaide,AUS,2019-02-10,José Israel Meléndez,1995,Male,20W,NR,Outdoor
 1:26:26,QAT,Nice,FRA,2013-09-14,Mabrouk Mohammed Saleh Nasser,1983,Male,20W,NR,Outdoor
-1:21:06,ROU,Bucureşti,ROU,1996-06-14,Costică Bălan,1964,Male,20W,NR,Outdoor
+1:21:06,ROU,Bucureşti,ROU,1996-06-13,Costică Bălan,1964,Male,20W,NR,Outdoor
 1:19:18,RSA,London,GBR,2017-08-13,Lebogang Shange,1990,Male,20W,NR,Outdoor
 1:17:16,RUS,Saransk,RUS,2007-09-29,Vladimir Kanaykin,1985,Male,20W,NR,Outdoor
 2:12:52,SEY,Bambous,MRI,2013-04-19,Rennick Wayne Pierre Bélize,,Male,20W,NR,Outdoor
