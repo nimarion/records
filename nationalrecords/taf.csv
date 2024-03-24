@@ -3825,7 +3825,7 @@ NR;;40H;M;48.94;;Praha;TCH;Outdoor;1989-06-21;Jozef Kucej;;;SVK;1965.0;Male
 NR;;40H;M;47.98;;Atlanta;USA;Outdoor;1996-08-01;Sven Nylander;;;SWE;1962.0;Male
 NR;;40H;M;57.04;;Manzini;SWZ;Outdoor;2019-05-18;Cedusizi Vilakati;;;SWZ;;Male
 NR;;40H;M;48.87;;Sydney;AUS;Outdoor;1999-02-20;Ziad Abou Hamed;;;SYR;1970.0;Male
-NR;;40H;M;51.20;;Cairo;EGY;Outdoor;1985-08-12;Morris Okinda;;;TAN;;Male
+NR;;40H;M;51.20;;Doha;QAT;Outdoor;1985-08-12;Morris Okinda;;;TAN;1963.0;Male
 NR;;40H;M;52.02;;Sacramento;USA;Outdoor;1996-05-05;Paeaki Kokohu;;;TGA;1966.0;Male
 NR;;40H;M;49.76;;Chiangmai;THA;Outdoor;1995-12-12;Chanond Keanchan;;;THA;1967.0;Male
 NR;;40H;M;48.98;;Tashkent;URS;Outdoor;1986-09-18;Nikolay Ilchenko;;;TJK;1963.0;Male
@@ -11578,7 +11578,7 @@ NR;;HOC;W;1.49;;Sydney;AUS;Outdoor;2005-05-08;Jade Roughan;;;NIU;;Female
 NR;;HOC;W;1.38;;Pohnpei;FSM;Outdoor;2014-07-23;Rachel Abrams;;;NMI;1995.0;Female
 NR;;HOC;W;2.01;;Zürich;SUI;Outdoor;1997-08-13;Hanne Haugland;;;NOR;1967.0;Female
 NR;;HOC;W;1.26;;Yaren;NRU;Outdoor;2007-03-04;Arrora De Paune;;;NRU;;Female
-NR;;HOC;W;1.92;;Dunedin;NZL;Outdoor;1991-01-26;Tania Dixon;;;NZL;1970.0;Female
+NR;;HOC;W;1.92;;Auckland;NZL;Outdoor;1991-01-26;Tania Dixon;;;NZL;1970.0;Female
 NR;;HOC;W;1.6;;Beyrouth;LBN;Outdoor;2017-09-10;Aleya Faiq Al-Moghairiya;;;OMA;;Female
 NR;;HOC;W;1.69;;Kathmandu;NEP;Outdoor;1999-09-27;Rehana Kausar;;;PAK;;Female
 NR;;HOC;W;1.84;;Managua;NCA;Outdoor;2012-06-16;Kashani Ríos Miller;;;PAN;1991.0;Female
@@ -12294,7 +12294,7 @@ NR;;DRE;W;10.64;1.0;Klagenfurt;AUT;Outdoor;2018-09-19;Arsema Kifle;;;ERI;;Female
 NR;;DRE;W;12.81;;San Salvador;ESA;Outdoor;2006-04-09;Maria Carrillo;;;ESA;1984.0;Female
 NR;;DRE;W;14.87;0.5;Tokyo;JPN;Outdoor;2021-08-01;Ana Peleteiro-Compaoré;;;ESP;1995.0;Female
 NR;;DRE;W;14.43;0.6;Beijing;CHN;Outdoor;2006-08-17;Kaire Leibak;;;EST;1988.0;Female
-NR;;DRE;W;13.29;;Addis Ababa;ETH;Outdoor;2024-01-31;Ajuda Umed;;;ETH;;Female
+NR;;DRE;W;13.29;;Addis Ababa;ETH;Outdoor;2024-01-31;Ajuda Umed;;;ETH;2004.0;Female
 NR;;DRE;W;12.86;-0.7;Claremont;USA;Outdoor;2013-04-13;Milika Tuivanuavou;;;FIJ;1990.0;Female
 NR;;DRE;W;14.64;-0.4;München;GER;Outdoor;2022-08-19;Kristiina Mäkelä;;;FIN;1992.0;Female
 NR;;DRE;W;14.69;2.0;München;GER;Outdoor;2007-06-23;Teresa Nzola Meso Ba;;;FRA;1983.0;Female
