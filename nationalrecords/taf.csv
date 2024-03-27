@@ -3386,7 +3386,7 @@ NR;;4×1;M;38.99;;Sydney;AUS;Outdoor;2005-11-20;New Zealand;;;NZL;;Male
 NR;;4×1;M;39.17;;Bangkok;THA;Outdoor;2023-07-12;Oman;;;OMA;;Male
 NR;;4×1;M;40.24;;Quetta;PAK;Outdoor;2016-05-11;Pakistan;;;PAK;;Male
 NR;;4×1;M;40.07;;Caracas;VEN;Outdoor;2007-05-09;Panama;;;PAN;;Male
-NR;;4×1;M;39.25;;São Paulo;BRA;Outdoor;2023-07-29;Paraguay;;;PAR;;Male
+NR;;4×1;M;39.24;;Asunción;PAR;Outdoor;2024-03-23;Paraguay;;;PAR;;Male
 NR;;4×1;M;39.11;;Kuala Lumpur;MAS;Outdoor;2017-08-25;Philippines;;;PHI;;Male
 NR;;4×1;M;40.29;;Pirae;PYF;Outdoor;1995-08-24;Papua-New Guinea;;;PNG;;Male
 NR;;4×1;M;38.15;;München;GER;Outdoor;2022-08-21;Poland;;;POL;;Male
@@ -3825,7 +3825,7 @@ NR;;40H;M;48.94;;Praha;TCH;Outdoor;1989-06-21;Jozef Kucej;;;SVK;1965.0;Male
 NR;;40H;M;47.98;;Atlanta;USA;Outdoor;1996-08-01;Sven Nylander;;;SWE;1962.0;Male
 NR;;40H;M;57.04;;Manzini;SWZ;Outdoor;2019-05-18;Cedusizi Vilakati;;;SWZ;;Male
 NR;;40H;M;48.87;;Sydney;AUS;Outdoor;1999-02-20;Ziad Abou Hamed;;;SYR;1970.0;Male
-NR;;40H;M;51.20;;Cairo;EGY;Outdoor;1985-08-12;Morris Okinda;;;TAN;;Male
+NR;;40H;M;51.20;;Doha;QAT;Outdoor;1985-08-12;Morris Okinda;;;TAN;1963.0;Male
 NR;;40H;M;52.02;;Sacramento;USA;Outdoor;1996-05-05;Paeaki Kokohu;;;TGA;1966.0;Male
 NR;;40H;M;49.76;;Chiangmai;THA;Outdoor;1995-12-12;Chanond Keanchan;;;THA;1967.0;Male
 NR;;40H;M;48.98;;Tashkent;URS;Outdoor;1986-09-18;Nikolay Ilchenko;;;TJK;1963.0;Male
@@ -9826,7 +9826,7 @@ NR;;600;W;1:31.34;;Champaign;USA;Indoor;2002-01-12;Verneta Lesforis;;;LCA;1975;F
 NR;;600;W;1:33.78;;Örebro;SWE;Indoor;2020-03-28;Rebecca Högberg;;;SWE;1984;Female
 NR;;600;W;1:32.13;;New York;USA;Indoor;2014-03-07;Jessica James;;;TTO;1991;Female
 NR;;600;W;1:27.45;;Fayetteville;USA;Indoor;2023-01-13;Shafiqua Maloney;;;VIN;1999;Female
-NR;;4×1;W;47.39;;Ponce;PUR;Outdoor;2010-05-08;Netherlands Antilles;;;AHO;;Female
+NR;;4×1;W;47.39;;Ponce;PUR;Outdoor;2010-05-08;M.;;;AHO;;Female
 NR;;4×1;W;50.6;;Port of Spain;TTO;Outdoor;1987-04-20;Anguilla;;;AIA;;Female
 NR;;4×1;W;47.16;;Ankara;TUR;Outdoor;1988-07-16;Albania;;;ALB;;Female
 NR;;4×1;W;46.83;;Alger;ALG;Outdoor;2012-07-07;Algeria;;;ALG;;Female
@@ -10709,7 +10709,7 @@ NR;;200;W;22.81;1.8;Christchurch;NZL;Outdoor;2023-02-19;Rosie Elliott;;;NZL;1997
 NR;;200;W;24.97;-1.5;Antalya;TUR;Outdoor;2021-04-18;Mazoon Al-Alawi;;;OMA;1997.0;Female
 NR;;200;W;23.69;0.7;Kathmandu;NEP;Outdoor;2019-12-04;Najma Parveen;;;PAK;1990.0;Female
 NR;;200;W;23.29;-0.2;Fairfax;USA;Outdoor;2023-05-14;Cristal Chenoa Cuervo;;;PAN;2002.0;Female
-NR;;200;W;24.26;1.7;Asunción;PAR;Outdoor;2021-08-08;Xenia Noreen Hiebert;;;PAR;1998.0;Female
+NR;;200;W;24.12;0.8;Asunción;PAR;Outdoor;2024-03-23;Xenia Noreen Hiebert;;;PAR;1998.0;Female
 NR;;200;W;23.55;;La Paz;BOL;Outdoor;1978-11-11;Carmela Bolivar;;;PER;1957.0;Female
 NR;;200;W;23.01;0.0;New Clark City;PHI;Outdoor;2019-12-07;Kristina Knott;;;PHI;1995.0;Female
 NR;;200;W;24.7;0.8;Claremont;USA;Outdoor;2018-06-02;Hanna Barakat;;;PLE;1999.0;Female
