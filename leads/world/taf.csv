@@ -13,7 +13,7 @@ WL;;3KH;W;9:15.61;;University of Ghana Sports Stadium;GHA;Outdoor;2024-03-20;;Be
 WL;;100;M;10.02;0.5;UMiami Cobb Stadium;USA;Outdoor;2024-03-23;;Abdul;Hakim Sani Brown;JPN;1999.0;Male
 WL;;MEI;W;4:16.41;;Armory Track&Field Center;USA;Indoor;2024-02-11;;Elle;St. Pierre;USA;1995.0;Female
 WL;;3KH;M;8:22.72;;Nyayo National Stadium;KEN;Outdoor;2024-03-06;;Amos;Serem;KEN;2002.0;Male
-WL;;3G;W;12:17.95;;Expocentro;POR;Indoor;2024-02-17;;Vitória;Oliveira;POR;1992.0;Female
+WL;;3G;W;12:17.95;;Expocentro;POR;Indoor;2024-02-17;;Vitória;Oliveira;POR;1992;Female
 WL;;2KH;W;6:35.71;;University of South Florida Track & Field Stadium;USA;Outdoor;2024-03-16;;Rachel;Anderson;USA;;Female
 WL;;HAM;W;73.28;;Stadionul Iolanda Balas Soter;ROU;Outdoor;2024-02-24;;Bianca;Florentina Ghelber;ROU;1990.0;Female
 WL;;5G;W;20:50.56;;KMSHVSM Arena;UKR;Indoor;2024-01-20;;Lyudmila;Olyanovska;UKR;1993.0;Female
@@ -36,7 +36,7 @@ WL;;4×2;M;1:25.40;;Quarterback Immobilien Arena;GER;Indoor;2024-02-18;;;;GER;;M
 WL;;800;W;1:57.73;;University of Ghana Sports Stadium;GHA;Outdoor;2024-03-19;;Tsige;Duguma;ETH;2001.0;Female
 WL;;DIS;W;66.6;;Estádio Dr. Magalhães Pessoa;POR;Outdoor;2024-03-10;;Irina;Rodrigues;POR;1991.0;Female
 WL;;STA;M;6.05;;Glasgow Arena;GBR;Indoor;2024-03-03;;Armand;Duplantis;SWE;1999.0;Male
-WL;;200;M;20.17;1.9;National Stadium;JAM;Outdoor;2024-03-16;;Oblique;Seville;JAM;2001.0;Male
+WL;;200;M;19.94;-1.2;UJ Stadium;RSA;Outdoor;2024-03-27;;Letsile;Tebogo;BOT;2003.0;Male
 WL;;DIS;M;67.83;;GC Foster College;JAM;Outdoor;2024-03-09;;Traves;Smikle;JAM;1992.0;Male
 WL;;WEI;M;8.4;;The Track at New Balance;USA;Indoor;2024-03-08;;Wayne;Pinnock;JAM;2000.0;Male
 WL;;10G;W;43:14.78;;AIS Athletics Track;AUS;Outdoor;2024-01-27;;Jemima;Montag;AUS;1998.0;Female
@@ -53,7 +53,7 @@ WL;;DRE;W;15.01;;Glasgow Arena;GBR;Indoor;2024-03-03;;Thea;Lafond;DMA;1994.0;Fem
 WL;;10K;W;29:48.34;;JSerra Catholic HS;USA;Outdoor;2024-03-16;;Tsigie;Gebreselama;ETH;2000.0;Female
 WL;;50H;W;7.04;;GSG9-Halle;AUT;Indoor;2024-01-16;;Karin;Strametz;AUT;1998.0;Female
 WL;;4×4;W;3:25.07;;Glasgow Arena;GBR;Indoor;2024-03-03;;;;NED;;Female
-WL;;1K5;M;3:33.30;;The Crest Athletics Centre;AUS;Outdoor;2024-02-22;;Cameron;Myers;AUS;2006;Male
+WL;;1K5;M;3:33.30;;The Crest Athletics Centre;AUS;Outdoor;2024-02-22;;Cameron;Myers;AUS;2006.0;Male
 WL;;60M;M;6.41;;Glasgow Arena;GBR;Indoor;2024-03-01;;Christian;Coleman;USA;1996.0;Male
 WL;;HOC;W;2.04;;Lausitz-Arena;GER;Indoor;2024-01-31;;Yaroslava;Mahuchikh;UKR;2001.0;Female
 WL;;600;W;1:24.32;;Convention Center;USA;Indoor;2024-02-09;;Nia;Akins;USA;1998.0;Female
