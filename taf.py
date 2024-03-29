@@ -72,6 +72,7 @@ if __name__ == '__main__':
             df = pd.merge(df, areaMapping, on="Country", how="left")
             df = df.drop(columns=["area", "Country"], errors="ignore")
             df = df.rename(columns={"AreaId": "type"})
+            df["type"] = df["type"].fillna(0)
 
         if nationleadFile:
             df["type"] = df["nation"]
@@ -86,6 +87,12 @@ if __name__ == '__main__':
         outputDf = pd.concat([outputDf, df])
 
     outputDf['class'] = outputDf['sex'].apply(lambda x: 'M' if x == 'Male' else ('W' if x == 'Female' else 'X'))
+
+    if 'yearOfBirth' in outputDf.columns:
+        outputDf['yearOfBirth'] = outputDf['yearOfBirth'].fillna('').astype(str) 
+        outputDf['yearOfBirth'] = outputDf['yearOfBirth'].replace('', '-1') 
+        outputDf['yearOfBirth'] = outputDf['yearOfBirth'].astype(float).astype(int) 
+        outputDf['yearOfBirth'] = outputDf['yearOfBirth'].replace(-1, "") 
 
     desired_order = ['code', 'type', 'discipline', 'class', 'result', 'wind', 'venue', 'venueCountry', 'environment', 'date', 'name', 'firstname', 'lastname', 'nation', 'yearOfBirth', 'sex']
     columns_to_drop = set(df.columns) - set(desired_order)
