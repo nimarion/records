@@ -1,6 +1,6 @@
 import requests
 import pandas as pd
-
+import os
 
 def determine_environment(row):
     if 'recordEvent' in row and row['recordEvent'] == "indoor":
@@ -58,4 +58,8 @@ df = pd.concat([menOutdoorRecords, womenOutdoorRecords,
 
 df["type"] = "AR"
 
-df.to_csv('arearecords/arearecords.csv', index=False)
+output_dir = os.path.dirname('tmp/arearecords/arearecords.csv')
+if not os.path.exists(output_dir):
+    os.makedirs(output_dir, exist_ok=True)
+    
+df.to_csv('tmp/arearecords/arearecords.csv', index=False)

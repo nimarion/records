@@ -60,6 +60,6 @@ if __name__ == '__main__':
             print(f'Getting records for {discipline}')
             records = getRecords(sex, discipline)
             if records is not None:
-                saveRecords(records, f'./nationalrecords/{sex}/{discipline}.csv')
+                saveRecords(records, f'./tmp/nationalrecords/{sex}/{discipline}.csv')
             else:
                 print(f'No records found for {discipline}')

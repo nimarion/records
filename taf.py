@@ -93,4 +93,9 @@ if __name__ == '__main__':
 
     outputDf = outputDf.reindex(columns=desired_order)
 
+    output_dir = os.path.dirname(args.output)
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir, exist_ok=True)
+
+
     outputDf.to_csv(args.output, index=False, sep=';')
