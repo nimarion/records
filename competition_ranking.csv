@@ -1,101 +1,101 @@
-Place,Competition,Country,Start Date,End Date,Part. Score,P.S. Place,Result Score,R.S. Place,Comp. Score
-1,"Tom Jones Memorial, Percy Beard Track, Gainesville, FL",USA,12 APR 2024,13 APR 2024,2310,1.0,86012,1,88322
-2,"Clyde Littlefield Texas Relays presented by Truist, Mike A. Myers Stadium, Austin, TX",USA,27 MAR 2024,30 MAR 2024,1305,4.0,83819,2,85124
-3,"Pepsi Florida Relays, Percy Beard Track, Gainesville, FL",USA,29 MAR 2024,30 MAR 2024,795,6.0,83536,3,84331
-4,"Bryan Clay Invitational, Cougar Athletic Stadium, Azusa, CA",USA,11 APR 2024,13 APR 2024,920,5.0,82012,5,82932
-5,"Battle on the Bayou, LSU Bernie Moore Stadium, Baton Rouge, LA",USA,29 MAR 2024,30 MAR 2024,465,15.0,82292,4,82757
-6,"Miramar Invitational, Ansin Sports Complex, Miramar, FL",USA,06 APR 2024,06 APR 2024,1695,2.0,81011,6,82706
-7,"Maurie Plant Meet, Lakeside Stadium, Melbourne",AUS,15 FEB 2024,15 FEB 2024,1460,3.0,79614,9,81074
-8,"Sydney Track Classic, ES Marks Athletics Field, Sydney",AUS,23 MAR 2024,23 MAR 2024,570,12.0,79897,7,80467
-9,"Adelaide Invitational, SA Athletic Stadium, Adelaide",AUS,10 FEB 2024,10 FEB 2024,730,7.0,79659,8,80389
-10,"National Athletics Grand Prix 2, HOC Stadium, Hangzhou",CHN,13 APR 2024,14 APR 2024,615,11.0,79243,12,79858
-11,"ASA Athletics Grand Prix 3 / Continental Tour Challenger, UJ Stadium, Johannesburg",RSA,27 MAR 2024,27 MAR 2024,505,14.0,79175,13,79680
-12,"Stanford Invitational, Cobb Track and Angell Field, Palo Alto, CA",USA,29 MAR 2024,30 MAR 2024,240,31.0,79295,11,79535
-13,"Trials for African Games 2024, Nyayo National Stadium, Nairobi",KEN,05 MAR 2024,06 MAR 2024,715,9.0,78802,15,79517
-14,"Raleigh Relays, Paul Derr TF Facility, Raleigh, NC",USA,28 MAR 2024,30 MAR 2024,85,74.0,79400,10,79485
-15,"Canberra Track Classic, AIS Athletics Track, Canberra",AUS,01 MAR 2024,02 MAR 2024,345,22.0,78829,14,79174
-16,"Hurricane Invitational, UMiami Cobb Stadium, Coral Gables, FL",USA,15 MAR 2024,16 MAR 2024,420,16.0,78509,17,78929
-17,"Hurricane Alumni Invitational, UMiami Cobb Stadium, Coral Gables, FL",USA,05 APR 2024,06 APR 2024,415,18.0,78349,20,78764
-18,"USF Alumni Invitational, University of South Florida Track & Field Stadium, Tampa, FL",USA,15 MAR 2024,16 MAR 2024,35,115.0,78708,16,78743
-19,"44 Farms Team Invitational, Cushing Stadium, College Station, TX",USA,05 APR 2024,06 APR 2024,225,32.0,78479,19,78704
-20,"Duke Invitational, Morris Williams T&F Stadium, Durham, NC",USA,11 APR 2024,13 APR 2024,75,83.0,78500,18,78575
-21,"National Athletics Grand Prix 1, Zhaoqing Sports Center, Zhaoqing",CHN,09 APR 2024,10 APR 2024,340,23.0,77926,24,78266
-22,"Beach Invitational, Jack Rose Track, Long Beach, CA",USA,12 APR 2024,13 APR 2024,280,28.0,77968,23,78248
-23,"Bobcat Invitational, Bobcat Track and Field Complex, San Marcos, TX",USA,28 MAR 2024,30 MAR 2024,105,61.0,78034,22,78139
-24,"Crimson Tide Invitational, Sam Bailey Track Stadium, Tuscaloosa, AL",USA,05 APR 2024,06 APR 2024,65,88.0,78054,21,78119
-25,"ASA Athletics Grand Prix 2, Bestmed Tuks Stadium, Pretoria",RSA,18 MAR 2024,18 MAR 2024,195,36.0,77884,25,78079
-26,"Troféu Adhemar Ferreira da Silva Loterias Caixa de Atletismo, CNDA, Bragança Paulista",BRA,05 APR 2024,07 APR 2024,410,19.0,77626,28,78036
-27,"ASA Athletics Grand Prix 1, McArthur Stadium, Potchefstroom",RSA,14 MAR 2024,14 MAR 2024,420,16.0,77488,32,77908
-28,"Arizona Spring Break Fiesta, Univ. of Arizona Roy P. Drachman Stadium, Tucson, AZ",USA,16 MAR 2024,16 MAR 2024,140,44.0,77637,27,77777
-29,"South Florida Invitational, University of South Florida Track & Field Stadium, Tampa, FL",USA,05 APR 2024,06 APR 2024,185,38.0,77518,31,77703
-30,"UCF Black & Gold Invite, UCF Soccer and Track Complex, Orlando, FL",USA,15 MAR 2024,16 MAR 2024,30,123.0,77643,26,77673
-31,"Willie Williams Classic, Univ. of Arizona Roy P. Drachman Stadium, Tucson, AZ",USA,22 MAR 2024,23 MAR 2024,80,77.0,77570,29,77650
-32,"Clyde Hart Classic, Clyde Hart Track & Field Stadium, Waco, TX",USA,22 MAR 2024,23 MAR 2024,95,67.0,77537,30,77632
-33,"International Track Meet, Nga Puna Wai Sports Hub, Christchurch",NZL,24 FEB 2024,24 FEB 2024,730,7.0,76829,38,77559
-34,"3rd AK Track And Field Weekend Meeting, Nyayo National Stadium, Nairobi",KEN,26 JAN 2024,27 JAN 2024,310,24.0,77245,34,77555
-35,"Pacific Coast Invitational, Jack Rose Track, Long Beach, CA",USA,11 APR 2024,11 APR 2024,120,57.0,77353,33,77473
-36,"Sir Graeme Douglas Memorial Track Classic, Douglas Track & Field, Auckland",NZL,10 MAR 2024,10 MAR 2024,560,13.0,76891,37,77451
-37,"Keyth Talley Invitational, LSU Bernie Moore Stadium, Baton Rouge, LA",USA,23 MAR 2024,23 MAR 2024,130,50.0,77209,35,77339
-38,"Jim Click Shootout & Multis, Univ. of Arizona Roy P. Drachman Stadium, Tucson, AZ",USA,05 APR 2024,06 APR 2024,130,50.0,77071,36,77201
-39,"Hurricane Collegiate Invitational, UMiami Cobb Stadium, Coral Gables, FL",USA,23 MAR 2024,23 MAR 2024,265,30.0,76764,40,77029
-40,"UCF Knights Invite, UCF Soccer and Track Complex, Orlando, FL",USA,22 MAR 2024,23 MAR 2024,60,92.0,76815,39,76875
-41,"UC San Diego Triton Invitational, Triton Stadium, San Diego, CA",USA,05 APR 2024,06 APR 2024,410,19.0,76077,42,76487
-42,"2nd AK Track & Field Weekend Meeting/AK Relay Series, Ulinzi Sports Complex, Langata, Nairobi",KEN,05 JAN 2024,06 JAN 2024,105,61.0,76347,41,76452
-43,"Cameron Burrell Alumni Invitational, Carl Lewis TF and Soccer Complex, Houston, TX",USA,06 APR 2024,06 APR 2024,305,25.0,75626,43,75931
-44,"Aztec Invitational, San Diego State University, San Diego, CA",USA,21 MAR 2024,23 MAR 2024,270,29.0,75472,45,75742
-45,"AGN League 3, Pilditch Stadium, Pretoria",RSA,10 FEB 2024,10 FEB 2024,140,44.0,75547,44,75687
-46,"Texas A&M Invitational, Cushing Stadium, College Station, TX",USA,23 MAR 2024,23 MAR 2024,80,77.0,75443,46,75523
-47,"18th Spring Break Classic, Pista Basilio Rodriguez, Carolina",PUR,14 MAR 2024,16 MAR 2024,195,36.0,75318,47,75513
-48,"FSU Relays, Florida State University - Mike Long Track, Tallahassee, FL",USA,21 MAR 2024,22 MAR 2024,85,74.0,75184,49,75269
-49,"JAAA CARIFTA Trials, National Stadium, Kingston",JAM,01 MAR 2024,03 MAR 2024,0,,75256,48,75256
-50,"Arkansas Spring Invitational, John McDonnell Field, Fayetteville, AR",USA,06 APR 2024,06 APR 2024,120,57.0,75065,52,75185
-51,"Larry Ellis Invitational, Weaver Stadium, Princeton, NJ",USA,12 APR 2024,13 APR 2024,35,115.0,75142,50,75177
-52,"AGN League 4, Pilditch Stadium, Pretoria",RSA,24 FEB 2024,24 FEB 2024,105,61.0,75064,53,75169
-53,"Curro Podium Final, Pilditch Stadium, Pretoria",RSA,17 FEB 2024,17 FEB 2024,165,40.0,74939,56,75104
-54,"VertKlasse Meeting, Dick Vert Stadium, High Point, NC",USA,05 APR 2024,06 APR 2024,160,41.0,74928,57,75088
-55,"Virginia Showcase, Virginia Beach Sports Center, Virginia Beach, VA",USA,12 JAN 2024,14 JAN 2024,10,158.0,75076,51,75086
-56,"Kirk Baptiste Spring Break Invitational, Tom Tellez Track, Houston, TX",USA,14 MAR 2024,14 MAR 2024,75,83.0,75003,55,75078
-57,"John Jacobs Invitational, John Jacobs Track Complex, Norman, OK",USA,12 APR 2024,13 APR 2024,35,115.0,75039,54,75074
-58,"Masked Rider Open, Terry & Linda Fuller T&F Complex, Lubbock, TX",USA,22 MAR 2024,23 MAR 2024,45,107.0,74891,58,74936
-59,"Gary Wieneke Memorial, Demirjian Park, Champaign, IL",USA,13 APR 2024,13 APR 2024,125,55.0,74799,60,74924
-60,"Africa Games National Trials, Stephen Keshi Stadium, Asaba",NGR,17 FEB 2024,19 FEB 2024,0,,74840,59,74840
-61,"60th Four University Inter-College Track and Field Tournament, Gion Stadium, Sagamihara",JPN,14 APR 2024,14 APR 2024,15,140.0,74796,61,74811
-62,"WT Jo Meaker Classic & Multi, West Texas A&M University Track & Soccer Complex, Canyon, TX",USA,04 APR 2024,05 APR 2024,0,,74775,62,74775
-63,"Tennessee Invite, Tom Black Track at LaPorte Stadium, Knoxville, TN",USA,05 APR 2024,06 APR 2024,30,123.0,74692,63,74722
-64,"GC Foster Classic, GC Foster College, Spanish Town",JAM,09 MAR 2024,09 MAR 2024,295,27.0,74301,65,74596
-65,"The 57th Tokyo Big 6, Keio Univ. Hiyoshi Athletics Field, Yokohama",JPN,06 APR 2024,07 APR 2024,50,98.0,74357,64,74407
-66,"Joe Walker Invitational, Ole Miss T&F Complex, Oxford, MS",USA,05 APR 2024,06 APR 2024,125,55.0,74187,66,74312
-67,"Bob Davidson Team Challenge presented by Norris Woody, Dick Vert Stadium, High Point, NC",USA,22 MAR 2024,23 MAR 2024,25,130.0,74133,67,74158
-68,"Trojan Invite, USC Cromwell Field at Loker Track Stadium, Los Angeles, CA",USA,22 MAR 2024,23 MAR 2024,90,70.0,74054,68,74144
-69,"KT Woodman Classic, Cessna Stadium, Wichita, KS",USA,12 APR 2024,13 APR 2024,0,,73786,69,73786
-70,"2º Circuito Paulista OPEN, Centro de Atletismo Professor Oswaldo Terra, Sao Bernardo do Campo",BRA,16 MAR 2024,16 MAR 2024,130,50.0,73151,70,73281
-71,"Ole Miss Classic, Ole Miss T&F Complex, Oxford, MS",USA,22 MAR 2024,23 MAR 2024,135,49.0,73140,71,73275
-72,"AGN League 5, Pilditch Stadium, Pretoria",RSA,02 MAR 2024,02 MAR 2024,50,98.0,73090,72,73140
-73,"Continental Tour Semana del Mar, Pista de Atletismo Justo Román, Mar del Plata",ARG,10 APR 2024,10 APR 2024,365,21.0,72637,74,73002
-74,"UTSA Invitational, Park West Ath. Complex, San Antonio, TX",USA,15 MAR 2024,16 MAR 2024,20,135.0,72695,73,72715
-75,"Western Milo Relays, GC Foster College, Spanish Town",JAM,10 FEB 2024,10 FEB 2024,55,96.0,72574,75,72629
-76,"Sri Lanka Athletics Open Stage 1, Mahinda Rajapaksha Stadium, Diyagama",SRI,01 MAR 2024,02 MAR 2024,50,98.0,72499,76,72549
-77,"AGN League 2, Pilditch Stadium, Pretoria",RSA,27 JAN 2024,27 JAN 2024,85,74.0,72452,77,72537
-78,"Continental Tour Ciudad de Santiago, E.Nacional, Santiago de Chile",CHI,31 MAR 2024,31 MAR 2024,305,25.0,72159,84,72464
-79,"Sam Howell Invitational, Weaver Stadium, Princeton, NJ",USA,30 MAR 2024,30 MAR 2024,10,158.0,72420,78,72430
-80,"2024 Spring Challenge Meet, National Stadium, Tokyo",JPN,15 MAR 2024,17 MAR 2024,15,140.0,72365,79,72380
-81,"Virginia Grand Prix, UVA Lanningan Field, Charlottesville, VA",USA,12 APR 2024,13 APR 2024,10,158.0,72349,80,72359
-82,"Yellow Jacket Invitational, Geroge C. Griffin Track, Atlanta, GA",USA,16 MAR 2024,16 MAR 2024,10,158.0,72340,81,72350
-83,"17th Iwakabe Cup, Athletic Park, Ageo",JPN,07 APR 2024,07 APR 2024,45,107.0,72284,82,72329
-84,"Encuentro FMAA César Moreno Bravo 2024, Centro Deportivo Olímpico Mexicano, Ciudad de México",MEX,05 APR 2024,07 APR 2024,10,158.0,72271,83,72281
-85,"Copa Nuevo León Luciano Ramírez Gallardo, Pista del Centro Deportivo Borregos, Estadio Azul ITESM, Monterrey",MEX,24 FEB 2024,25 FEB 2024,90,70.0,72069,85,72159
-86,"New Taipei City Youth Cup National Athletics Opens, Banqiao Stadium, New Taipei City",TPE,04 MAR 2024,08 MAR 2024,35,115.0,71879,87,71914
-87,"Beach Opener, Jack Rose Track, Long Beach, CA",USA,01 MAR 2024,02 MAR 2024,55,96.0,71854,88,71909
-88,"41th Tokai University-Nihon University Game, Nihon University Athletics Stadium, Setagaya",JPN,07 APR 2024,07 APR 2024,0,,71891,86,71891
-89,"Central Hurdles Relays & Field Events, GC Foster College, Spanish Town",JAM,20 JAN 2024,20 JAN 2024,60,92.0,71796,90,71856
-90,"Corporate Area Development Meet, National Stadium, Kingston",JAM,16 FEB 2024,17 FEB 2024,0,,71812,89,71812
-91,"Mangrum Invitational, Mangrum Track & Field, San Marcos, CA",USA,22 MAR 2024,22 MAR 2024,0,,71706,91,71706
-92,"UNLV Rebels Elite, Myron Partridge Stadium & Sheila Tarr-Smith Field, Las Vegas, NV",USA,05 APR 2024,06 APR 2024,100,64.0,71469,93,71569
-93,"Oliver Nikoloff Invitational, Gettler Stadium, Cincinnati, OH",USA,29 MAR 2024,30 MAR 2024,50,98.0,71484,92,71534
-94,"Grand Prix Atletica Chilena, E.Nacional, Santiago de Chile",CHI,28 MAR 2024,28 MAR 2024,225,32.0,71230,96,71455
-95,"Oregon Preview, Hayward Field, Eugene, OR",USA,22 MAR 2024,23 MAR 2024,10,158.0,71425,94,71435
-96,"Charles Austin Classic, Bobcat Track and Field Complex, San Marcos, TX",USA,22 MAR 2024,23 MAR 2024,45,107.0,71308,95,71353
-97,"USD Early Bird, Mildred J. Hillenbrand Memorial Track, Vermillion, SD",USA,05 APR 2024,06 APR 2024,35,115.0,71190,97,71225
-98,"Pre-Africa Games Meet, MKO Abiola National Stadium, Abuja",NGR,02 FEB 2024,03 FEB 2024,0,,71190,97,71190
-99,"Velocity Fest 14, National Stadium, Kingston",JAM,16 MAR 2024,16 MAR 2024,620,10.0,70534,109,71154
-100,"54th Hokuriku Corporate team Competition, Niigatashi Field, Niigata",JPN,06 APR 2024,07 APR 2024,80,77.0,71041,100,71121
+Place,Competition,Country,Start Date,End Date,Part. Score,P.S. Place,Result Score,R.S. Place,W.R. Score,Comp. Score
+1,"Wanda Diamond League Xiamen, Egret Stadium, Xiamen",CHN,20 APR 2024,20 APR 2024,6440,1.0,86136,1,120,92696
+2,"Tom Jones Memorial, Percy Beard Track, Gainesville, FL",USA,12 APR 2024,13 APR 2024,2310,3.0,86012,2,0,88322
+3,"Kip Keino Classic, Nyayo National Stadium, Nairobi",KEN,20 APR 2024,20 APR 2024,2605,2.0,83622,4,0,86227
+4,"Clyde Littlefield Texas Relays presented by Truist, Mike A. Myers Stadium, Austin, TX",USA,27 MAR 2024,30 MAR 2024,1305,6.0,83819,3,0,85124
+5,"Pepsi Florida Relays, Percy Beard Track, Gainesville, FL",USA,29 MAR 2024,30 MAR 2024,795,8.0,83536,5,0,84331
+6,"Bryan Clay Invitational, Cougar Athletic Stadium, Azusa, CA",USA,11 APR 2024,13 APR 2024,920,7.0,82012,7,0,82932
+7,"Battle on the Bayou, LSU Bernie Moore Stadium, Baton Rouge, LA",USA,29 MAR 2024,30 MAR 2024,465,17.0,82292,6,0,82757
+8,"Miramar Invitational, Ansin Sports Complex, Miramar, FL",USA,06 APR 2024,06 APR 2024,1695,4.0,81011,8,0,82706
+9,"Maurie Plant Meet, Lakeside Stadium, Melbourne",AUS,15 FEB 2024,15 FEB 2024,1460,5.0,79614,11,0,81074
+10,"Sydney Track Classic, ES Marks Athletics Field, Sydney",AUS,23 MAR 2024,23 MAR 2024,570,14.0,79897,9,0,80467
+11,"Adelaide Invitational, SA Athletic Stadium, Adelaide",AUS,10 FEB 2024,10 FEB 2024,730,9.0,79659,10,0,80389
+12,"National Athletics Grand Prix 2, HOC Stadium, Hangzhou",CHN,13 APR 2024,14 APR 2024,615,13.0,79243,14,0,79858
+13,"ASA Athletics Grand Prix 3 / Continental Tour Challenger, UJ Stadium, Johannesburg",RSA,27 MAR 2024,27 MAR 2024,505,16.0,79175,15,0,79680
+14,"Stanford Invitational, Cobb Track and Angell Field, Palo Alto, CA",USA,29 MAR 2024,30 MAR 2024,240,33.0,79295,13,0,79535
+15,"Trials for African Games 2024, Nyayo National Stadium, Nairobi",KEN,05 MAR 2024,06 MAR 2024,715,11.0,78802,18,0,79517
+16,"Raleigh Relays, Paul Derr TF Facility, Raleigh, NC",USA,28 MAR 2024,30 MAR 2024,85,77.0,79400,12,0,79485
+17,"Wake Forest Invitational, Kentner Stadium Wake Forest University, Winston Salem, NC",USA,19 APR 2024,19 APR 2024,135,51.0,79061,16,0,79196
+18,"Canberra Track Classic, AIS Athletics Track, Canberra",AUS,01 MAR 2024,02 MAR 2024,345,24.0,78829,17,0,79174
+19,"Hurricane Invitational, UMiami Cobb Stadium, Coral Gables, FL",USA,15 MAR 2024,16 MAR 2024,420,18.0,78509,20,0,78929
+20,"Hurricane Alumni Invitational, UMiami Cobb Stadium, Coral Gables, FL",USA,05 APR 2024,06 APR 2024,415,20.0,78349,23,0,78764
+21,"USF Alumni Invitational, University of South Florida Track & Field Stadium, Tampa, FL",USA,15 MAR 2024,16 MAR 2024,35,119.0,78708,19,0,78743
+22,"44 Farms Team Invitational, Cushing Stadium, College Station, TX",USA,05 APR 2024,06 APR 2024,225,34.0,78479,22,0,78704
+23,"Duke Invitational, Morris Williams T&F Stadium, Durham, NC",USA,11 APR 2024,13 APR 2024,75,87.0,78500,21,0,78575
+24,"National Athletics Grand Prix 1, Zhaoqing Sports Center, Zhaoqing",CHN,09 APR 2024,10 APR 2024,340,25.0,77926,28,0,78266
+25,"John McDonnell Invitational, John McDonnell Field, Fayetteville, AR",USA,18 APR 2024,19 APR 2024,85,77.0,78164,24,0,78249
+26,"Beach Invitational, Jack Rose Track, Long Beach, CA",USA,12 APR 2024,13 APR 2024,280,30.0,77968,27,0,78248
+27,"Bobcat Invitational, Bobcat Track and Field Complex, San Marcos, TX",USA,28 MAR 2024,30 MAR 2024,105,64.0,78034,26,0,78139
+28,"Crimson Tide Invitational, Sam Bailey Track Stadium, Tuscaloosa, AL",USA,05 APR 2024,06 APR 2024,65,92.0,78054,25,0,78119
+29,"ASA Athletics Grand Prix 2, Bestmed Tuks Stadium, Pretoria",RSA,18 MAR 2024,18 MAR 2024,195,38.0,77884,29,0,78079
+30,"Troféu Adhemar Ferreira da Silva Loterias Caixa de Atletismo, CNDA, Bragança Paulista",BRA,05 APR 2024,07 APR 2024,410,21.0,77626,32,0,78036
+31,"ASA Athletics Grand Prix 1, McArthur Stadium, Potchefstroom",RSA,14 MAR 2024,14 MAR 2024,420,18.0,77488,36,0,77908
+32,"Arizona Spring Break Fiesta, Univ. of Arizona Roy P. Drachman Stadium, Tucson, AZ",USA,16 MAR 2024,16 MAR 2024,140,46.0,77637,31,0,77777
+33,"South Florida Invitational, University of South Florida Track & Field Stadium, Tampa, FL",USA,05 APR 2024,06 APR 2024,185,40.0,77518,35,0,77703
+34,"UCF Black & Gold Invite, UCF Soccer and Track Complex, Orlando, FL",USA,15 MAR 2024,16 MAR 2024,30,127.0,77643,30,0,77673
+35,"Willie Williams Classic, Univ. of Arizona Roy P. Drachman Stadium, Tucson, AZ",USA,22 MAR 2024,23 MAR 2024,80,81.0,77570,33,0,77650
+36,"Clyde Hart Classic, Clyde Hart Track & Field Stadium, Waco, TX",USA,22 MAR 2024,23 MAR 2024,95,70.0,77537,34,0,77632
+37,"International Track Meet, Nga Puna Wai Sports Hub, Christchurch",NZL,24 FEB 2024,24 FEB 2024,730,9.0,76829,42,0,77559
+38,"3rd AK Track And Field Weekend Meeting, Nyayo National Stadium, Nairobi",KEN,26 JAN 2024,27 JAN 2024,310,26.0,77245,38,0,77555
+39,"Pacific Coast Invitational, Jack Rose Track, Long Beach, CA",USA,11 APR 2024,11 APR 2024,120,60.0,77353,37,0,77473
+40,"Sir Graeme Douglas Memorial Track Classic, Douglas Track & Field, Auckland",NZL,10 MAR 2024,10 MAR 2024,560,15.0,76891,41,0,77451
+41,"Keyth Talley Invitational, LSU Bernie Moore Stadium, Baton Rouge, LA",USA,23 MAR 2024,23 MAR 2024,130,53.0,77209,39,0,77339
+42,"Jim Click Shootout & Multis, Univ. of Arizona Roy P. Drachman Stadium, Tucson, AZ",USA,05 APR 2024,06 APR 2024,130,53.0,77071,40,0,77201
+43,"Hurricane Collegiate Invitational, UMiami Cobb Stadium, Coral Gables, FL",USA,23 MAR 2024,23 MAR 2024,265,32.0,76764,44,0,77029
+44,"UCF Knights Invite, UCF Soccer and Track Complex, Orlando, FL",USA,22 MAR 2024,23 MAR 2024,60,96.0,76815,43,0,76875
+45,"UC San Diego Triton Invitational, Triton Stadium, San Diego, CA",USA,05 APR 2024,06 APR 2024,410,21.0,76077,46,0,76487
+46,"2nd AK Track & Field Weekend Meeting/AK Relay Series, Ulinzi Sports Complex, Langata, Nairobi",KEN,05 JAN 2024,06 JAN 2024,105,64.0,76347,45,0,76452
+47,"Cameron Burrell Alumni Invitational, Carl Lewis TF and Soccer Complex, Houston, TX",USA,06 APR 2024,06 APR 2024,305,27.0,75626,47,0,75931
+48,"Aztec Invitational, San Diego State University, San Diego, CA",USA,21 MAR 2024,23 MAR 2024,270,31.0,75472,49,0,75742
+49,"AGN League 3, Pilditch Stadium, Pretoria",RSA,10 FEB 2024,10 FEB 2024,140,46.0,75547,48,0,75687
+50,"Texas A&M Invitational, Cushing Stadium, College Station, TX",USA,23 MAR 2024,23 MAR 2024,80,81.0,75443,50,0,75523
+51,"18th Spring Break Classic, Pista Basilio Rodriguez, Carolina",PUR,14 MAR 2024,16 MAR 2024,195,38.0,75318,51,0,75513
+52,"FSU Relays, Florida State University - Mike Long Track, Tallahassee, FL",USA,21 MAR 2024,22 MAR 2024,85,77.0,75184,53,0,75269
+53,"JAAA CARIFTA Trials, National Stadium, Kingston",JAM,01 MAR 2024,03 MAR 2024,0,,75256,52,0,75256
+54,"Arkansas Spring Invitational, John McDonnell Field, Fayetteville, AR",USA,06 APR 2024,06 APR 2024,120,60.0,75065,56,0,75185
+55,"Larry Ellis Invitational, Weaver Stadium, Princeton, NJ",USA,12 APR 2024,13 APR 2024,35,119.0,75142,54,0,75177
+56,"AGN League 4, Pilditch Stadium, Pretoria",RSA,24 FEB 2024,24 FEB 2024,105,64.0,75064,57,0,75169
+57,"Curro Podium Final, Pilditch Stadium, Pretoria",RSA,17 FEB 2024,17 FEB 2024,165,42.0,74939,60,0,75104
+58,"VertKlasse Meeting, Dick Vert Stadium, High Point, NC",USA,05 APR 2024,06 APR 2024,160,43.0,74928,61,0,75088
+59,"Virginia Showcase, Virginia Beach Sports Center, Virginia Beach, VA",USA,12 JAN 2024,14 JAN 2024,10,162.0,75076,55,0,75086
+60,"Kirk Baptiste Spring Break Invitational, Tom Tellez Track, Houston, TX",USA,14 MAR 2024,14 MAR 2024,75,87.0,75003,59,0,75078
+61,"John Jacobs Invitational, John Jacobs Track Complex, Norman, OK",USA,12 APR 2024,13 APR 2024,35,119.0,75039,58,0,75074
+62,"Masked Rider Open, Terry & Linda Fuller T&F Complex, Lubbock, TX",USA,22 MAR 2024,23 MAR 2024,45,111.0,74891,62,0,74936
+63,"Gary Wieneke Memorial, Demirjian Park, Champaign, IL",USA,13 APR 2024,13 APR 2024,125,58.0,74799,64,0,74924
+64,"Africa Games National Trials, Stephen Keshi Stadium, Asaba",NGR,17 FEB 2024,19 FEB 2024,0,,74840,63,0,74840
+65,"60th Four University Inter-College Track and Field Tournament, Gion Stadium, Sagamihara",JPN,14 APR 2024,14 APR 2024,15,144.0,74796,65,0,74811
+66,"WT Jo Meaker Classic & Multi, West Texas A&M University Track & Soccer Complex, Canyon, TX",USA,04 APR 2024,05 APR 2024,0,,74775,66,0,74775
+67,"Tennessee Invite, Tom Black Track at LaPorte Stadium, Knoxville, TN",USA,05 APR 2024,06 APR 2024,30,127.0,74692,67,0,74722
+68,"GC Foster Classic, GC Foster College, Spanish Town",JAM,09 MAR 2024,09 MAR 2024,295,29.0,74301,69,0,74596
+69,"The 57th Tokyo Big 6, Keio Univ. Hiyoshi Athletics Field, Yokohama",JPN,06 APR 2024,07 APR 2024,50,102.0,74357,68,0,74407
+70,"Joe Walker Invitational, Ole Miss T&F Complex, Oxford, MS",USA,05 APR 2024,06 APR 2024,125,58.0,74187,70,0,74312
+71,"Bob Davidson Team Challenge presented by Norris Woody, Dick Vert Stadium, High Point, NC",USA,22 MAR 2024,23 MAR 2024,25,134.0,74133,71,0,74158
+72,"Trojan Invite, USC Cromwell Field at Loker Track Stadium, Los Angeles, CA",USA,22 MAR 2024,23 MAR 2024,90,73.0,74054,72,0,74144
+73,"KT Woodman Classic, Cessna Stadium, Wichita, KS",USA,12 APR 2024,13 APR 2024,0,,73786,73,0,73786
+74,"2º Circuito Paulista OPEN, Centro de Atletismo Professor Oswaldo Terra, Sao Bernardo do Campo",BRA,16 MAR 2024,16 MAR 2024,130,53.0,73151,74,0,73281
+75,"Ole Miss Classic, Ole Miss T&F Complex, Oxford, MS",USA,22 MAR 2024,23 MAR 2024,135,51.0,73140,75,0,73275
+76,"AGN League 5, Pilditch Stadium, Pretoria",RSA,02 MAR 2024,02 MAR 2024,50,102.0,73090,76,0,73140
+77,"Continental Tour Semana del Mar, Pista de Atletismo Justo Román, Mar del Plata",ARG,10 APR 2024,10 APR 2024,365,23.0,72637,78,0,73002
+78,"UTSA Invitational, Park West Ath. Complex, San Antonio, TX",USA,15 MAR 2024,16 MAR 2024,20,139.0,72695,77,0,72715
+79,"Western Milo Relays, GC Foster College, Spanish Town",JAM,10 FEB 2024,10 FEB 2024,55,100.0,72574,79,0,72629
+80,"Sri Lanka Athletics Open Stage 1, Mahinda Rajapaksha Stadium, Diyagama",SRI,01 MAR 2024,02 MAR 2024,50,102.0,72499,80,0,72549
+81,"AGN League 2, Pilditch Stadium, Pretoria",RSA,27 JAN 2024,27 JAN 2024,85,77.0,72452,81,0,72537
+82,"Continental Tour Ciudad de Santiago, E.Nacional, Santiago de Chile",CHI,31 MAR 2024,31 MAR 2024,305,27.0,72159,88,0,72464
+83,"Sam Howell Invitational, Weaver Stadium, Princeton, NJ",USA,30 MAR 2024,30 MAR 2024,10,162.0,72420,82,0,72430
+84,"2024 Spring Challenge Meet, National Stadium, Tokyo",JPN,15 MAR 2024,17 MAR 2024,15,144.0,72365,83,0,72380
+85,"Virginia Grand Prix, UVA Lanningan Field, Charlottesville, VA",USA,12 APR 2024,13 APR 2024,10,162.0,72349,84,0,72359
+86,"Yellow Jacket Invitational, Geroge C. Griffin Track, Atlanta, GA",USA,16 MAR 2024,16 MAR 2024,10,162.0,72340,85,0,72350
+87,"17th Iwakabe Cup, Athletic Park, Ageo",JPN,07 APR 2024,07 APR 2024,45,111.0,72284,86,0,72329
+88,"Encuentro FMAA César Moreno Bravo 2024, Centro Deportivo Olímpico Mexicano, Ciudad de México",MEX,05 APR 2024,07 APR 2024,10,162.0,72271,87,0,72281
+89,"Copa Nuevo León Luciano Ramírez Gallardo, Pista del Centro Deportivo Borregos, Estadio Azul ITESM, Monterrey",MEX,24 FEB 2024,25 FEB 2024,90,73.0,72069,89,0,72159
+90,"New Taipei City Youth Cup National Athletics Opens, Banqiao Stadium, New Taipei City",TPE,04 MAR 2024,08 MAR 2024,35,119.0,71879,91,0,71914
+91,"Beach Opener, Jack Rose Track, Long Beach, CA",USA,01 MAR 2024,02 MAR 2024,55,100.0,71854,92,0,71909
+92,"41th Tokai University-Nihon University Game, Nihon University Athletics Stadium, Setagaya",JPN,07 APR 2024,07 APR 2024,0,,71891,90,0,71891
+93,"Central Hurdles Relays & Field Events, GC Foster College, Spanish Town",JAM,20 JAN 2024,20 JAN 2024,60,96.0,71796,94,0,71856
+94,"Corporate Area Development Meet, National Stadium, Kingston",JAM,16 FEB 2024,17 FEB 2024,0,,71812,93,0,71812
+95,"Mangrum Invitational, Mangrum Track & Field, San Marcos, CA",USA,22 MAR 2024,22 MAR 2024,0,,71706,95,0,71706
+96,"UNLV Rebels Elite, Myron Partridge Stadium & Sheila Tarr-Smith Field, Las Vegas, NV",USA,05 APR 2024,06 APR 2024,100,67.0,71469,97,0,71569
+97,"Oliver Nikoloff Invitational, Gettler Stadium, Cincinnati, OH",USA,29 MAR 2024,30 MAR 2024,50,102.0,71484,96,0,71534
+98,"Grand Prix Atletica Chilena, E.Nacional, Santiago de Chile",CHI,28 MAR 2024,28 MAR 2024,225,34.0,71230,100,0,71455
+99,"Oregon Preview, Hayward Field, Eugene, OR",USA,22 MAR 2024,23 MAR 2024,10,162.0,71425,98,0,71435
+100,"Charles Austin Classic, Bobcat Track and Field Complex, San Marcos, TX",USA,22 MAR 2024,23 MAR 2024,45,111.0,71308,99,0,71353
