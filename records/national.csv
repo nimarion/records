@@ -4033,7 +4033,7 @@ NR;;5K0;M;13:00.31;;Roma;ITA;Outdoor;2015-06-04;Ali Kaya;;;TUR;1994;Male
 NR;;5K0;M;13:49.74;;Manila;PHI;Outdoor;1993-12-04;Mohamed Ahmed Amer;;;UAE;1967;Male
 NR;;5K0;M;12:35.36;;Monaco;MON;Outdoor;2020-08-14;Joshua Cheptegei;;;UGA;1996;Male
 NR;;5K0;M;13:10.78;;Berlin;GER;Outdoor;2002-09-06;Serhiy Lebid;;;UKR;1975;Male
-NR;;5K0;M;13:26.78;;Grosseto;ITA;Outdoor;2022-05-22;Santiago Catrofe;;;URU;1999;Male
+NR;;5K0;M;13:21.67;;Decines Charpieu;FRA;Outdoor;2024-05-04;Santiago Catrofe;;;URU;1999;Male
 NR;;5K0;M;12:46.96;;Bruxelles;BEL;Outdoor;2022-09-02;Grant Fisher;;;USA;1997;Male
 NR;;5K0;M;13:41.0;;Podolsk;URS;Outdoor;1975-08-19;Ashur Normuradov;;;UZB;1947;Male
 NR;;5K0;M;15:08.1;;Port Vila;VAN;Outdoor;1997-07-25;Tawai Keiruan;;;VAN;1972;Male
@@ -4541,7 +4541,7 @@ NR;;200;M;20.53;-1.5;Port Moresby;PNG;Outdoor;2015-07-17;Ratu Banuve Tabakaucoro
 NR;;200;M;20.45;1.7;Malmö;SWE;Outdoor;2022-07-17;Samuel Purola;;;FIN;2000;Male
 NR;;200;M;19.8;0.8;Daegu;KOR;Outdoor;2011-09-03;Christophe Lemaitre;;;FRA;1990;Male
 NR;;200;M;21.65;1.4;Apia;SAM;Outdoor;2003-06-27;John Howard;;;FSM;1981;Male
-NR;;200;M;20.44;1.0;Eugene;USA;Outdoor;2022-07-18;Guy Maganga Gorra;;;GAB;1993;Male
+NR;;200;M;20.4;1.2;Greensboro;USA;Outdoor;2024-05-03;Guy Maganga Gorra;;;GAB;1993;Male
 NR;;200;M;20.45;1.8;Durban;RSA;Outdoor;2016-06-26;Adama Jammeh;;;GAM;1993;Male
 NR;;200;M;19.73;1.6;London;GBR;Outdoor;2023-07-23;Zharnel Hughes;;;GBR;1995;Male
 NR;;200;M;21.01;1.4;Salamanca;ESP;Outdoor;2009-07-08;Holder da Silva;;;GBS;1988;Male
@@ -7275,7 +7275,7 @@ NR;;1K5;W;3:55.87;;Bruxelles;BEL;Outdoor;2023-09-08;Ciara Mageean;;;IRL;1992;Fem
 NR;;1K5;W;4:23.5;;Baghdad;IRQ;Outdoor;1995-05-15;Maysa Hussein Matrood;;;IRQ;1977;Female
 NR;;1K5;W;4:06.43;;Hengelo;NED;Outdoor;2017-06-11;Aníta Hinriksdóttir;;;ISL;1996;Female
 NR;;1K5;W;4:11.37;;Naimette-Xhovémont;BEL;Outdoor;2019-07-17;Selamawit Teferi;;;ISR;1994;Female
-NR;;1K5;W;4:30.53;;Chester;USA;Outdoor;2023-05-15;Rachel Conhoff;;;ISV;;Female
+NR;;1K5;W;4:26.72;;Bloomington;USA;Outdoor;2024-05-03;Rachel Conhoff;;;ISV;;Female
 NR;;1K5;W;3:58.65;;Tirrenia;ITA;Outdoor;1982-08-25;Gabriella Dorio;;;ITA;1957;Female
 NR;;1K5;W;4:50.50;;Tortola;IVB;Outdoor;2012-03-19;Lakeisha Warner;;;IVB;1997;Female
 NR;;1K5;W;3:58.77;;Budapest;HUN;Outdoor;2023-08-20;Adelle Tracey;;;JAM;1993;Female
@@ -7376,7 +7376,7 @@ NR;;1K5;W;4:40.33;;Sydney;AUS;Outdoor;1996-02-17;Vasa Tulahe;;;TGA;1973;Female
 NR;;1K5;W;4:22.58;;Bangkok;THA;Outdoor;1985-12-10;Sasithorn Chantanuhong;;;THA;1966;Female
 NR;;1K5;W;4:04.66;;Roma;ITA;Outdoor;1987-09-05;Svetlana Kitova;;;TJK;1960;Female
 NR;;1K5;W;4:23.44;;Moskva;URS;Outdoor;1991-06-10;Marina Tutinina;;;TKM;;Female
-NR;;1K5;W;4:48.16;;St. George's;GRN;Outdoor;2024-03-30;Tanesia Gardiner;;;TKS;2005;Female
+NR;;1K5;W;4:44.90;;Gainesville;USA;Outdoor;2023-03-31;Rebecca Bernardin;;;TKS;2000;Female
 NR;;1K5;W;4:29.96;;Doha;QAT;Outdoor;2019-04-24;Angela Freitas De Araujo;;;TLS;2001;Female
 NR;;1K5;W;4:36.08;;Lagos;NGR;Outdoor;2001-06-30;Direma Banasso;;;TOG;;Female
 NR;;1K5;W;4:22.80;;Bakersfield;USA;Outdoor;1975-05-17;Lee Chiu-Hsia;;;TPE;;Female
@@ -8277,9 +8277,9 @@ NR;;10H;W;12.96;1.8;Sacramento;USA;Outdoor;2007-06-08;Fatmata Fofanah;;;GUI;1985
 NR;;10H;W;15.65;;Manenggon Hills;GUM;Outdoor;2012-05-18;Stefani Loisel;;;GUM;;Female
 NR;;10H;W;13.27;1.7;Barranquilla;COL;Outdoor;2018-07-30;Jenea McCammon;;;GUY;1991;Female
 NR;;10H;W;12.74;1.7;Athína;GRE;Outdoor;2004-08-23;Nadine Faustin-Parker;;;HAI;1976;Female
-NR;;10H;W;13.14;0.0;Walnut, Ca;USA;Outdoor;1994-04-17;Chan Sau-Ying;;;HKG;1970;Female
+NR;;10H;W;13.14;;Walnut;USA;Outdoor;1994-04-17;Chan Sau-Ying;;;HKG;1970;Female
 NR;;10H;W;13.83;-0.6;Toluca;MEX;Outdoor;2008-07-21;Jeimy J. Bernárdez;;;HON;1986;Female
-NR;;10H;W;12.69;-0.1;München;GER;Outdoor;2022-08-21;Luca Kozák;;;HUN;1996;Female
+NR;;10H;W;12.69;0.3;München;GER;Outdoor;2022-08-21;Luca Kozák;;;HUN;1996;Female
 NR;;10H;W;13.18;0.7;Taipei;TPE;Outdoor;2012-05-26;Dedeh Erawati;;;INA;1979;Female
 NR;;10H;W;12.78;1.0;Chengdu;CHN;Outdoor;2023-08-04;Jyothi Yarraji;;;IND;1999;Female
 NR;;10H;W;13.64;0.2;Tehran;IRI;Outdoor;2023-08-18;Elnaz Kompani;;;IRI;1989;Female
@@ -8769,7 +8769,7 @@ NR;;KUG;W;9.27;;Glasgow;GBR;Outdoor;2014-07-29;Dee-Ann Rogers;;;AIA;1993;Female
 NR;;KUG;W;16.36;;Tirane;ALB;Outdoor;1984-04-29;Antoneta Koçi;;;ALB;1962;Female
 NR;;KUG;W;16.16;;Annaba;ALG;Outdoor;1995-07-13;Yasmina Azzizi;;;ALG;1966;Female
 NR;;KUG;W;9.7;;Andorra;AND;Outdoor;2002-02-23;Joana Santamaria;;;AND;1986;Female
-NR;;KUG;W;12.9;;Luanda;ANG;Outdoor;1981-08-24;Carla Carvalho;;;ANG;;Female
+NR;;KUG;W;13.24;;Lisboa;POR;Outdoor;2024-05-01;Shakina Andrade;;;ANG;2005;Female
 NR;;KUG;W;17.32;;Gold Coast;AUS;Outdoor;2018-04-13;Jess St. John;;;ANT;1995;Female
 NR;;KUG;W;16.59;;São Caetano do Sul;BRA;Outdoor;2006-07-22;Rocío Comba;;;ARG;1987;Female
 NR;;KUG;W;18.51;;Helsinki;FIN;Outdoor;1973-09-15;Faina Melnik;;;ARM;1945;Female
@@ -9367,7 +9367,7 @@ NR;;HAM;W;61.78;;Tel Aviv;ISR;Outdoor;2017-04-15;Margarita Belov;;;ISR;1991;Fema
 NR;;HAM;W;54.69;;College Station;USA;Outdoor;2021-04-10;Maia Campbell;;;ISV;1998;Female
 NR;;HAM;W;75.77;;Madrid;ESP;Outdoor;2022-06-18;Sara Fantini;;;ITA;1997;Female
 NR;;HAM;W;60.97;;Gold Coast;AUS;Outdoor;2018-04-10;Tynelle Gumbs;;;IVB;1996;Female
-NR;;HAM;W;71.48;;Lawrence;USA;Outdoor;2016-06-25;Daina Levy;;;JAM;1993;Female
+NR;;HAM;W;71.83;;Tucson;USA;Outdoor;2024-05-04;Nayoka Clunis;;;JAM;1995;Female
 NR;;HAM;W;44.66;;Los Angeles;USA;Outdoor;1996-03-16;Nada Kawar;;;JOR;1975;Female
 NR;;HAM;W;70.51;;Los Angeles;USA;Outdoor;2024-03-22;Joy McArthur;;;JPN;1999;Female
 NR;;HAM;W;62.5;;Almaty;KAZ;Outdoor;2016-05-25;Diana Serik;;;KAZ;1995;Female
@@ -9774,7 +9774,7 @@ NR;;40H;W;1:14.26;;Muscat;OMA;Outdoor;2015-03-14;Lina Samir Al-Qallaf;;;KUW;;Fem
 NR;;40H;W;1:06.63;;Phonsavan;LAO;Outdoor;2022-06-12;Manivanh Chanthavong;;;LAO;1993;Female
 NR;;40H;W;55.46;;Tallinn;EST;Outdoor;1996-06-09;Lana Jekabesone;;;LAT;1974;Female
 NR;;40H;W;1:01.54;;Rieti;ITA;Outdoor;2015-06-14;Najla Aqdeir Ali Salem;;;LBA;;Female
-NR;;40H;W;1:00.96;;Busan;KOR;Outdoor;2002-10-08;Diala Al Chabi;;;LBN;1979;Female
+NR;;40H;W;59.30;;Turlock;USA;Outdoor;2024-05-04;Rasha Badrani;;;LBN;2004;Female
 NR;;40H;W;55.55;;Baie Mahault;FRA;Outdoor;2009-05-01;Kou Luogon;;;LBR;1984;Female
 NR;;40H;W;1:00.62;;High Point;USA;Outdoor;2015-05-15;Kassandra Pierre;;;LCA;1994;Female
 NR;;40H;W;1:04.08;;Colombier;SUI;Outdoor;1992-09-06;Claudia Fantina;;;LIE;1973;Female
@@ -12069,7 +12069,7 @@ NR;;100;W;11.45;0.1;Durban;RSA;Outdoor;2016-06-22;Assia Raziki;;;MAR;1996;Female
 NR;;100;W;11.5;;Kuala Lumpur;MAS;Outdoor;1993-05-07;Govindasamy Shanti;;;MAS;1967;Female
 NR;;100;W;11.68;-0.1;Tokyo;JPN;Outdoor;2021-07-30;Asimenye Simwaka;;;MAW;1997;Female
 NR;;100;W;11.58;2.0;Tallinn;URS;Outdoor;1985-06-26;Irina Grigoryeva;;;MDA;1955;Female
-NR;;100;W;12.17;1.4;Birmingham;GBR;Outdoor;2022-08-02;Aishath Himna Hassan;;;MDV;2002;Female
+NR;;100;W;12.02;1.3;Kingston;JAM;Outdoor;2024-05-04;Mariyam Ru'ya Ali;;;MDV;2005;Female
 NR;;100;W;11.09;1.2;Ciudad de México;MEX;Outdoor;1999-06-19;Liliana Allen;;;MEX;1970;Female
 NR;;100;W;12.26;0.1;Tokyo;JPN;Outdoor;1991-08-26;Jatansuren Otgonchimeg;;;MGL;;Female
 NR;;100;W;12.79;;Burnsville;USA;Outdoor;2015-09-05;Mariana Cress;;;MHL;1998;Female
@@ -12141,7 +12141,7 @@ NR;;100;W;11.62;1.5;Dushanbe;TJK;Outdoor;2021-04-09;Gulsunbi Sharifova;;;TJK;199
 NR;;100;W;11.56;1.7;Almaty;KAZ;Outdoor;2008-06-07;Valentina Meredova;;;TKM;1984;Female
 NR;;100;W;11.99;1.2;Barranquilla;COL;Outdoor;2018-07-29;Akia Guerrier;;;TKS;1998;Female
 NR;;100;W;13.57;;Darwin;AUS;Outdoor;2001-05-20;Cesaltilna De Yesus Guterres;;;TLS;;Female
-NR;;100;W;11.82;;Douala;CMR;Outdoor;2021-05-22;Akouvi Judith Koumedzina;;;TOG;2001;Female
+NR;;100;W;11.82;-0.2;Douala;CMR;Outdoor;2021-05-22;Akouvi Judith Koumedzina;;;TOG;2001;Female
 NR;;100;W;11.22;1.9;Wien;AUT;Outdoor;1970-07-18;Chi Cheng;;;TPE;1944;Female
 NR;;100;W;10.82;0.9;Port of Spain;TTO;Outdoor;2017-06-24;Michelle-Lee Ahye;;;TTO;1992;Female
 NR;;100;W;11.68;1.0;Alger;ALG;Outdoor;2000-08-06;Awatef Hamrouni;;;TUN;1981;Female
