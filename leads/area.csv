@@ -7,7 +7,7 @@ AL;1;100;W;11.02;1.7;National Training Center;USA;Outdoor;2024-04-20;;Imani;Lans
 AL;1;DIS;W;66.6;;Estádio Dr. Magalhães Pessoa;POR;Outdoor;2024-03-10;;Irina;Rodrigues;POR;1991;Female
 AL;1;2KH;W;6:13.15;;Schönbuchstadion;GER;Outdoor;2024-05-05;;Gesa;Felicitas Krause;GER;1992;Female
 AL;1;400;W;49.17;;Glasgow Arena;GBR;Indoor;2024-03-02;;Femke;Bol;NED;2000;Female
-AL;1;KUG;M;22.88;;Campo Communale;ITA;Outdoor;2024-05-01;;Leonardo;Fabbri;ITA;1997;Male
+AL;1;KUG;M;22.88;;Campo Comunale;ITA;Outdoor;2024-05-01;;Leonardo;Fabbri;ITA;1997;Male
 AL;1;HOC;M;2.33;;Salyut Geraklion Arena;RUS;Indoor;2024-01-28;;Danil;Lysenko;RUS;1997;Male
 AL;1;MEI;M;3:48.93;;Armory Track&Field Center;USA;Indoor;2024-02-11;;George;Mills;GBR;1999;Male
 AL;1;10K;M;26:52.87;;JSerra Catholic HS;USA;Outdoor;2024-03-16;;Andreas;Almgren;SWE;1995;Male
@@ -32,7 +32,7 @@ AL;1;MEI;W;4:23.68;;Armory Track&Field Center;USA;Indoor;2024-02-11;;Yolanda;Nga
 AL;1;60M;W;6.98;;Glasgow Arena;GBR;Indoor;2024-03-02;;Ewa;Swoboda;POL;1997;Female
 AL;1;1K5;W;4:03.22;;Sätrahallen;SWE;Indoor;2024-02-03;;Georgia;Bell;GBR;1993;Female
 AL;1;10H;W;12.55;-0.2;Egret Stadium;CHN;Outdoor;2024-04-20;;Cyréna;Samba-Mayela;FRA;2000;Female
-AL;1;100;M;10.09;1.9;McArthur Stadium;RSA;Outdoor;2024-02-14;;Taymir;Burnet;NED;1992;Male
+AL;1;100;M;10.06;1.8;Dubai Police Club Stadium;UAE;Outdoor;2024-05-03;;Chituru;Ali;ITA;1999;Male
 AL;1;300;M;32.21;;Pilditch Stadium;RSA;Outdoor;2024-02-17;;Liemarvin;Bonevacia;NED;1989;Male
 AL;1;600;M;1:14.56;;Schönbuchstadion;GER;Outdoor;2024-05-05;;Tobias;Grønstad;NOR;2002;Male
 AL;1;800;W;1:58.24;;Arena Birmingham;GBR;Indoor;2024-02-18;;Jemma;Reekie;GBR;1998;Female
@@ -195,7 +195,7 @@ AL;4;600;W;1:28.17;;Schönbuchstadion;GER;Outdoor;2024-05-05;;Assia;Raziki;MAR;1
 AL;4;5G;W;24:49.52;;Complexe Olympique Mohamed Boudiaf;ALG;Outdoor;2024-04-19;;Aya;Zenkhri;ALG;2007;Female
 AL;4;4×4;X;3:12.87;;The Bahamas National Stadium;BAH;Outdoor;2024-05-05;;;;NGR;;Mixed
 AL;4;5K0;M;12:55.68;;Suzhou Olympic Sports Centre;CHN;Outdoor;2024-04-27;;Selemon;Barega;ETH;2000;Male
-AL;4;4×4;M;2:59.12;;University of Ghana Sports Stadium;GHA;Outdoor;2024-03-22;;;;ZAM;;Male
+AL;4;4×4;M;2:59.11;;The Bahamas National Stadium;BAH;Outdoor;2024-05-05;;;;BOT;;Male
 AL;4;3KH;W;8:55.40;;Egret Stadium;CHN;Outdoor;2024-04-20;;Beatrice;Chepkoech;KEN;1991;Female
 AL;4;HOC;W;1.96;;Sports Performance Center;USA;Indoor;2024-01-19;;Temitope;Simbiat Adeshina;NGR;1998;Female
 AL;4;DRE;M;17.53;;Glasgow Arena;GBR;Indoor;2024-03-02;;Hugues;Fabrice Zango;BUR;1993;Male
@@ -287,16 +287,16 @@ AL;0;4×2;W;1:32.70;;Mike A. Myers Stadium;USA;Outdoor;2024-03-30;;;;INT;;Female
 AL;2;3K0;M;7:30.88;;Armory Track&Field Center;USA;Indoor;2024-02-11;;Grant;Fisher;USA;1997;Male
 AL;2;1K0;M;2:14.74;;The Track at New Balance;USA;Indoor;2024-02-04;;Marco;Arop;CAN;1998;Male
 AL;2;300;W;35.75;;The Track at New Balance;USA;Indoor;2024-02-04;;Gabrielle;Thomas;USA;1996;Female
-AL;2;4×1;M;37.49;;The Bahamas National Stadium;BAH;Outdoor;2024-05-04;;;;USA;;Male
+AL;2;4×1;M;37.4;;The Bahamas National Stadium;BAH;Outdoor;2024-05-05;;;;USA;;Male
 AL;2;11H;M;13.11;-0.3;Egret Stadium;CHN;Outdoor;2024-04-20;;Daniel;Roberts;USA;1997;Male
 AL;2;1K0;W;2:34.09;;Dempsey Indoor;USA;Indoor;2024-01-26;;Nikki;Hiltz;USA;1994;Female
 AL;2;DRE;W;15.01;;Glasgow Arena;GBR;Indoor;2024-03-03;;Thea;Lafond;DMA;1994;Female
 AL;2;50M;W;6.33;;GSG9-Halle;AUT;Indoor;2024-01-16;;Christania;Williams;JAM;1994;Female
 AL;2;4×8;W;8:27.94;;Drake Stadium;USA;Outdoor;2024-04-26;;;;USA;;Female
 AL;2;1K5;M;3:32.16;;UVA Lanningan Field;USA;Outdoor;2024-04-28;;Cooper;Teare;USA;1999;Male
-AL;2;4×4;W;3:23.83;;Percy Beard Track;USA;Outdoor;2024-04-13;;;;USA;;Female
+AL;2;4×4;W;3:21.70;;The Bahamas National Stadium;BAH;Outdoor;2024-05-05;;;;USA;;Female
 AL;2;3G;W;13:55.24;;Convention Center;USA;Indoor;2024-02-16;;Miranda;Melville;USA;1989;Female
-AL;0;4×2;M;1:22.33;;Mike A. Myers Stadium;USA;Outdoor;2024-03-30;;;;INT;;Male
+AL;2;4×2;M;1:22.25;;Mike A. Myers Stadium;USA;Outdoor;2024-05-05;;;;USA;;Male
 AL;2;800;M;1:43.61;;Egret Stadium;CHN;Outdoor;2024-04-20;;Marco;Arop;CAN;1998;Male
 AL;2;WEI;M;8.4;;The Track at New Balance;USA;Indoor;2024-03-08;;Wayne;Pinnock;JAM;2000;Male
 AL;2;200;M;19.71;-1.5;Nyayo National Stadium;KEN;Outdoor;2024-04-20;;Courtney;Lindsey;USA;1998;Male
