@@ -568,7 +568,7 @@ NR;;1K5;M;3:58.28;;Port Vila;VAN;Outdoor;1993-12-16;Tawai Keiruan;;;VAN;1972;Mal
 NR;;1K5;M;3:36.96;;Daegu;KOR;Outdoor;2011-09-01;Eduard Villanueva;;;VEN;1984;Male
 NR;;1K5;M;3:45.31;;Nakhon Ratchasima;THA;Outdoor;2007-12-11;Nguyen Dinh Cuong;;;VIE;1982;Male
 NR;;1K5;M;3:46.20;;London;CAN;Outdoor;2016-06-19;DeLohnni Nicol-Samuel;;;VIN;1991;Male
-NR;;1K5;M;3:44.32;;Canyon;USA;Outdoor;2024-04-21;Mohamed Aziz;;;YEM;;Male
+NR;;1K5;M;3:49.70;;Doha;QAT;Outdoor;2019-04-09;Mohamed Mamoum Al-Rajah;;;YEM;;Male
 NR;;1K5;M;3:42.09;;Orvieto;ITA;Outdoor;2012-06-03;Tonny Wamulwa;;;ZAM;1989;Male
 NR;;1K5;M;3:35.76;;Grosseto;ITA;Outdoor;1991-08-11;Philemon Hanneck;;;ZIM;1971;Male
 NR;;1K5;M;3:42.16;;Ancona;ITA;Indoor;2021-02-20;David Nikolli;;;ALB;1994;Male
@@ -834,7 +834,7 @@ NR;;11H;M;14.11;;Islamabad;PAK;Outdoor;1989-10-21;Ghulam Abbas;;;PAK;1968;Male
 NR;;11H;M;13.65;-0.8;Ciudad de México;MEX;Outdoor;1998-05-23;Curt Young;;;PAN;1974;Male
 NR;;11H;M;14.36;1.7;Asunción;PAR;Outdoor;2023-06-10;Kevin Mendieta;;;PAR;2003;Male
 NR;;11H;M;13.52;0.0;Cali;COL;Outdoor;2016-06-26;Javier McFarlane;;;PER;1991;Male
-NR;;11H;M;13.53;0.4;Torrent;ESP;Outdoor;2023-07-30;John Cabang;;;PHI;2001;Male
+NR;;11H;M;13.37;0.6;Pasig;PHI;Outdoor;2024-05-08;John Cabang;;;PHI;2001;Male
 NR;;11H;M;16.63;1.8;Damascus;SYR;Outdoor;2004-09-11;Ahmed Al Saleh;;;PLE;;Male
 NR;;11H;M;16.52;-0.7;Nouméa;FRA;Outdoor;2011-09-09;Leon Mengloi;;;PLW;1989;Male
 NR;;11H;M;14.04;1.9;Allendale;USA;Outdoor;2014-05-23;Wala Gime;;;PNG;1985;Male
@@ -1554,7 +1554,7 @@ NR;;SPE;M;47.15;;Kigali;RWA;Outdoor;2020-12-13;Eric Muringa;;;RWA;;Male
 NR;;SPE;M;70.97;;Wellington;NZL;Outdoor;2024-02-03;Donny Tuimaseve;;;SAM;1999;Male
 NR;;SPE;M;79.3;;Fort-de-France;FRA;Outdoor;1997-07-06;Bouna Diop;;;SEN;1976;Male
 NR;;SPE;M;56.85;;Réduit;MRI;Outdoor;1989-05-14;Gonzague Boniface;;;SEY;;Male
-NR;;SPE;M;61.54;;Singapore;SGP;Outdoor;2024-04-18;Meen Chandramohan;;;SGP;;Male
+NR;;SPE;M;61.07;;Singapore;SGP;Outdoor;2020-11-29;Justyn Phoa Zairen;;;SGP;1999;Male
 NR;;SPE;M;69.34;;Lubbock;USA;Outdoor;2017-05-06;Adrian Williams;;;SKN;1995;Male
 NR;;SPE;M;52.41;;Freetown;SLE;Outdoor;2012-12-26;Alpha Turay;;;SLE;;Male
 NR;;SPE;M;81.13;;Brežice;SLO;Outdoor;2016-06-23;Matija Kranjc;;;SLO;1984;Male
@@ -3222,7 +3222,7 @@ NR;;40H;M;48.94;;Praha;TCH;Outdoor;1989-06-21;Jozef Kucej;;;SVK;1965;Male
 NR;;40H;M;47.98;;Atlanta;USA;Outdoor;1996-08-01;Sven Nylander;;;SWE;1962;Male
 NR;;40H;M;57.04;;Manzini;SWZ;Outdoor;2019-05-18;Cedusizi Vilakati;;;SWZ;;Male
 NR;;40H;M;48.87;;Sydney;AUS;Outdoor;1999-02-20;Ziad Abou Hamed;;;SYR;1970;Male
-NR;;40H;M;51.20;;Cairo;EGY;Outdoor;1985-08-12;Morris Okinda;;;TAN;;Male
+NR;;40H;M;51.20;;Doha;QAT;Outdoor;1985-08-12;Morris Okinda;;;TAN;1963;Male
 NR;;40H;M;52.02;;Sacramento;USA;Outdoor;1996-05-05;Paeaki Kokohu;;;TGA;1966;Male
 NR;;40H;M;49.76;;Chiang Mai;THA;Outdoor;1995-12-12;Chanond Keanchan;;;THA;1967;Male
 NR;;40H;M;48.98;;Tashkent;URS;Outdoor;1986-09-18;Nikolay Ilchenko;;;TJK;1963;Male
@@ -4516,7 +4516,7 @@ NR;;200;M;20.55;;Doha;QAT;Outdoor;2019-04-09;Mahamat Goubaye Youssouf;;;CHA;1998
 NR;;200;M;20.15;0.4;Santiago de Chile;CHI;Outdoor;1998-05-17;Sebastián Keitel;;;CHI;1973;Male
 NR;;200;M;19.88;0.9;London;GBR;Outdoor;2019-07-21;Xie Zhenye;;;CHN;1993;Male
 NR;;200;M;20.23;0.9;Doha;QAT;Outdoor;2020-09-25;Arthur Gue Cissé;;;CIV;1996;Male
-NR;;200;M;20.29;-0.6;Yaoundé;CMR;Outdoor;2023-01-08;Emmanuel Eseme;;;CMR;1993;Male
+NR;;200;M;20.28;-0.3;Yaoundé;CMR;Outdoor;2024-05-05;Claude Itoungue;;;CMR;2001;Male
 NR;;200;M;20.4;0.2;Karlskrona;SWE;Outdoor;2006-06-12;Gary Kikaya;;;COD;1980;Male
 NR;;200;M;22.46;;Adelaide;AUS;Outdoor;2000-08-25;Teina Teiti;;;COK;1983;Male
 NR;;200;M;20.0;0.3;Barranquilla;COL;Outdoor;2018-07-31;Bernardo Baloyes;;;COL;1994;Male
@@ -5292,7 +5292,7 @@ NR;;10K;M;31:31.1;;St. George's;GRN;Outdoor;1991-03-08;Emerald Frederick;;;GRN;;
 NR;;10K;M;27:26.02;;San Juan Capistrano;USA;Outdoor;2024-03-16;Luis Grijalva;;;GUA;1999;Male
 NR;;10K;M;32:20.96;;Rubiera;ITA;Outdoor;2021-04-18;Mamadi Kaba;;;GUI;1996;Male
 NR;;10K;M;31:39.24;;Monmouth;USA;Outdoor;2008-04-18;Johnson Lee;;;GUM;;Male
-NR;;10K;M;30:50.25;;La Verne;USA;Outdoor;2024-04-13;Matthew Gordon;;;GUY;2003;Male
+NR;;10K;M;31:14.14;;Port of Spain;TTO;Outdoor;2013-06-21;Kelvin Johnson;;;GUY;1980;Male
 NR;;10K;M;29:18.03;;Stanford;USA;Outdoor;2009-03-27;Steeve Gabart;;;HAI;1986;Male
 NR;;10K;M;30:26.51;;Nanning;CHN;Outdoor;2023-11-13;Chun Yin Tse;;;HKG;2001;Male
 NR;;10K;M;30:44.8;;Lüdenscheid;GER;Outdoor;1977-08-03;Clovis Morales;;;HON;1949;Male
@@ -11217,7 +11217,7 @@ NR;;200;W;22.57;-0.4;Budapest;HUN;Outdoor;2023-08-23;Shanti Veronica Pereira;;;S
 NR;;200;W;22.68;-1.0;Des Moines;USA;Outdoor;2007-05-25;Virgil Hodge;;;SKN;1983;Female
 NR;;200;W;23.27;0.4;Columbus;USA;Outdoor;2018-04-21;Maggie Barrie;;;SLE;1996;Female
 NR;;200;W;22.72;1.4;Athína;GRE;Outdoor;2004-08-23;Merlene Ottey;;;SLO;1960;Female
-NR;;200;W;24.3;0.2;Chorzów;POL;Outdoor;2023-06-22;Alessandra Gasparelli;;;SMR;2004;Female
+NR;;200;W;23.65;1.0;Modena;ITA;Outdoor;2024-05-05;Alessandra Gasparelli;;;SMR;2004;Female
 NR;;200;W;26.17;1.7;Honiara;SOL;Outdoor;2023-12-01;Jovita Arunia;;;SOL;2002;Female
 NR;;200;W;28.43;0.6;Athína;GRE;Outdoor;1986-07-18;Fowizia Ibrahim;;;SOM;1967;Female
 NR;;200;W;23.28;-0.2;Bari;ITA;Outdoor;1997-06-17;Marina Filipovic;;;SRB;1970;Female
@@ -12142,7 +12142,7 @@ NR;;100;W;11.62;1.5;Dushanbe;TJK;Outdoor;2021-04-09;Gulsunbi Sharifova;;;TJK;199
 NR;;100;W;11.56;1.7;Almaty;KAZ;Outdoor;2008-06-07;Valentina Meredova;;;TKM;1984;Female
 NR;;100;W;11.99;1.2;Barranquilla;COL;Outdoor;2018-07-29;Akia Guerrier;;;TKS;1998;Female
 NR;;100;W;13.57;;Darwin;AUS;Outdoor;2001-05-20;Cesaltilna De Yesus Guterres;;;TLS;;Female
-NR;;100;W;11.82;-0.2;Douala;CMR;Outdoor;2021-05-22;Akouvi Judith Koumedzina;;;TOG;2001;Female
+NR;;100;W;11.82;;Douala;CMR;Outdoor;2021-05-22;Akouvi Judith Koumedzina;;;TOG;2001;Female
 NR;;100;W;11.22;1.9;Wien;AUT;Outdoor;1970-07-18;Chi Cheng;;;TPE;1944;Female
 NR;;100;W;10.82;0.9;Port of Spain;TTO;Outdoor;2017-06-24;Michelle-Lee Ahye;;;TTO;1992;Female
 NR;;100;W;11.68;1.0;Alger;ALG;Outdoor;2000-08-06;Awatef Hamrouni;;;TUN;1981;Female
