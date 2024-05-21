@@ -49,16 +49,16 @@ AL;5;60M;W;7.2;;Aftab Enghelab Sport Complex;IRI;Indoor;2024-02-18;;Farzaneh;Fas
 AL;5;300;M;32.52;;Hamayama Park Athletic Field;JPN;Outdoor;2024-04-14;;Yudai;Nishi;JPN;2000;Male
 AL;5;60H;W;8.06;;Tuanbo Sports Center;CHN;Indoor;2024-03-29;;Yanni;Wu;CHN;1997;Female
 AL;5;200;W;23.05;-0.2;Tashkent;UZB;Outdoor;2024-05-12;;Olga;Safronova;KAZ;1991;Female
-AL;5;40H;M;48.58;;Yanmar Stadium Nagai;JPN;Outdoor;2024-05-12;;Kaito;Tsutsue;JPN;1998;Male
+AL;5;40H;M;48.36;;National Stadium;JPN;Outdoor;2024-05-19;;Ken;Toyoda;JPN;2002;Male
 AL;5;SPE;W;64.28;;HOC Stadium;CHN;Outdoor;2024-04-14;;Ziyi;Yan;CHN;2008;Female
 AL;5;800;W;1:58.93;;Nyayo National Stadium;KEN;Outdoor;2024-04-20;;Nelly;Jepkosgei;BRN;1991;Female
 AL;5;MEI;M;3:54.84;;Boston Univ. Track & Tennis Center;USA;Indoor;2024-02-10;;Ryoma;Aoki;JPN;1997;Male
 AL;5;600;W;1:30.33;;Rector Fieldhouse;USA;Indoor;2024-01-19;;Lauren;Hoffman;PHI;1999;Female
-AL;5;10H;W;12.86;0.2;Yanmar Stadium Nagai;JPN;Outdoor;2024-05-12;;Yanni;Wu;CHN;1997;Female
+AL;5;10H;W;12.8;-0.6;National Stadium;JPN;Outdoor;2024-05-19;;Yanni;Wu;CHN;1997;Female
 AL;5;5G;M;20:55.68;;Niigatashi Field;JPN;Outdoor;2024-04-07;;Min-gi;Song;KOR;2001;Male
 AL;5;2KH;M;5:53.21;;Aspire Academy Warm Up Track;QAT;Outdoor;2024-03-20;;Abdelghafor;Kabbad;QAT;2008;Male
-AL;5;400;M;45.3;;Mahinda Rajapaksha Stadium;SRI;Outdoor;2024-03-31;;Aruna;Dharshana Singhapurage;SRI;1999;Male
-AL;1;DIS;M;62.03;;Tashkent;UZB;Outdoor;2024-05-11;;Aziz;Nurillayev;UZB;;Male
+AL;5;400;M;45.21;;National Stadium;JPN;Outdoor;2024-05-19;;Kentaro;Sato;JPN;1994;Male
+AL;5;DIS;M;64.32;;Millican Field at Throw Town;USA;Outdoor;2024-05-19;;Abuduaini;Tuergong;CHN;1997;Male
 AL;5;40H;W;54.78;;Prefectural Shizuoka Stadium;JPN;Outdoor;2024-05-03;;Jiadie;Mo;CHN;2000;Female
 AL;5;300;W;41.17;;Municipal Stadium;JPN;Outdoor;2024-03-23;;;;JPN;;Female
 AL;5;STA;W;4.6;;Tianjin;CHN;Outdoor;2024-05-12;;Ling;Li;CHN;1989;Female
@@ -100,6 +100,7 @@ AL;3;3K0;M;8:05.26;;Pista de Atletismo da Universidade Federal do Mato Grosso;BR
 AL;3;11H;M;13.3;0.0;Centro de Atletismo Professor Oswaldo Terra;BRA;Outdoor;2024-03-16;;Eduardo;Rodrigues;BRA;1995;Male
 AL;3;HAM;M;76.85;;E.Nacional;CHI;Outdoor;2024-03-31;;Gabriel;Kehr;CHI;1996;Male
 AL;3;HOC;M;2.21;;Gobierno Autónomo Municipal de Cochabamba;BOL;Indoor;2024-01-28;;Fernando;Ferreira;BRA;1994;Male
+AL;3;HOC;M;2.21;;Pista da Universidade Federal Fluminense – UFF;BRA;Outdoor;2024-05-19;;Thiago;Moura;BRA;1995;Male
 AL;3;4×1;M;38.72;;The Bahamas National Stadium;BAH;Outdoor;2024-05-05;;;;BRA;;Male
 AL;3;10K;W;31:33.07;;JSerra Catholic HS;USA;Outdoor;2024-03-16;;Florencia;Borelli;ARG;1992;Female
 AL;3;WEI;M;8.16;;Gobierno Autónomo Municipal de Cochabamba;BOL;Indoor;2024-01-25;;Arnovis;Dalmero;COL;2000;Male
@@ -131,7 +132,7 @@ AL;4;DRE;M;17.53;;Glasgow Arena;GBR;Indoor;2024-03-02;;Hugues;Fabrice Zango;BUR;
 AL;4;3KH;W;8:55.40;;Egret Stadium;CHN;Outdoor;2024-04-20;;Beatrice;Chepkoech;KEN;1991;Female
 AL;4;60H;M;7.66;;Halle Michel d'Ornano;FRA;Indoor;2024-02-07;;Saguirou;Badamassi;NIG;2000;Male
 AL;4;1K5;W;3:50.30;;Egret Stadium;CHN;Outdoor;2024-04-20;;Gudaf;Tsegay;ETH;1997;Female
-AL;4;DIS;W;62.92;;Millican Field at Throw Town;USA;Outdoor;2024-04-13;;Obiageri;Pamela Amaechi;NGR;1999;Female
+AL;4;DIS;W;63.17;;Millican Field at Throw Town;USA;Outdoor;2024-05-19;;Obiageri;Pamela Amaechi;NGR;1999;Female
 AL;4;60M;M;6.51;;AccorHotels Arena de Bercy;FRA;Indoor;2024-02-11;;Ferdinand;Omanyala;KEN;1996;Male
 AL;4;4×4;W;3:27.29;;University of Ghana Sports Stadium;GHA;Outdoor;2024-03-22;;;;NGR;;Female
 AL;4;3G;W;14:00.64;;Stade Paul Petitpoisson;FRA;Outdoor;2024-05-12;;Melissa;Touloum;ALG;2002;Female
@@ -152,7 +153,7 @@ AL;4;400;W;50.56;;Drake Stadium;USA;Outdoor;2024-05-18;;Mary;Moraa;KEN;2000;Fema
 AL;4;1K0;M;2:13.97;;McArthur Stadium;RSA;Outdoor;2024-03-05;;Djamel;Sedjati;ALG;1999;Male
 AL;4;4×4;M;2:59.11;;The Bahamas National Stadium;BAH;Outdoor;2024-05-05;;;;BOT;;Male
 AL;4;600;M;1:14.52;;McArthur Stadium;RSA;Outdoor;2024-03-14;;Slimane;Moula;ALG;1999;Male
-AL;4;DRE;W;14.05;0.6;Pilditch Stadium;RSA;Outdoor;2024-05-18;;Zinzi;Xulu;RSA;1996;Female
+AL;4;DRE;W;14.08;0.3;National Stadium;JPN;Outdoor;2024-05-19;;Saly;Sarr;SEN;2002;Female
 AL;4;3KH;M;8:07.25;;Suhaim bin Hamad Stadium;QAT;Outdoor;2024-05-10;;Samuel;Firewu;ETH;2004;Male
 AL;4;5G;W;24:49.52;;Complexe Olympique Mohamed Boudiaf;ALG;Outdoor;2024-04-19;;Aya;Zenkhri;ALG;2007;Female
 AL;4;1K5;M;3:31.96;;Nyayo National Stadium;KEN;Outdoor;2024-04-20;;Reynold;Kipkorir Cheruiyot;KEN;2004;Male
@@ -162,7 +163,7 @@ AL;4;5K0;W;14:26.98;;Suhaim bin Hamad Stadium;QAT;Outdoor;2024-05-10;;Beatrice;C
 AL;4;10G;M;40:14.25;;Miloud HEDEFI Athletics Stadium;ALG;Outdoor;2024-03-01;;Ismail;Benhammouda;ALG;2003;Male
 AL;4;100;W;10.91;1.1;National Stadium;JAM;Outdoor;2024-05-11;;Marie-Josée;Ta Lou-Smith;CIV;1988;Female
 AL;4;3K0;M;7:25.82;;Arena;POL;Indoor;2024-02-06;;Selemon;Barega;ETH;2000;Male
-AL;4;11H;M;13.54;-1.2;University of Ghana Sports Stadium;GHA;Outdoor;2024-03-18;;Louis;François Mendy;SEN;1999;Male
+AL;4;11H;M;13.45;1.7;Stade Pierre de Coubertin;FRA;Outdoor;2024-05-19;;Amine;Bouanani;ALG;1997;Male
 AL;4;HAM;M;74.35;;The Olympic Center For Training National Teams;EGY;Outdoor;2024-05-02;;Mostafa;Elgamel;EGY;1988;Male
 AL;4;HOC;M;2.25;;McArthur Stadium;RSA;Outdoor;2024-03-14;;Brian;Raats;RSA;2004;Male
 AL;4;HOC;M;2.25;;Msunduzi Athletics Stadium;RSA;Outdoor;2024-04-19;;Breyton;Poole;RSA;2000;Male
@@ -180,8 +181,7 @@ AL;4;60H;W;7.75;;The Track at New Balance;USA;Indoor;2024-02-04;;Tobi;Amusan;NGR
 AL;4;200;W;22.33;1.4;Percy Beard Track;USA;Outdoor;2024-04-12;;Favour;Ofili;NGR;2002;Female
 AL;4;40H;M;48.0;;Clyde Hart Track & Field Stadium;USA;Outdoor;2024-05-11;;Ezekiel;Nathaniel;NGR;2003;Male
 AL;4;SPE;W;63.57;;ETSV Stadion;GER;Outdoor;2024-05-12;;Jo-Ane;Van Dyk;RSA;1997;Female
-AL;4;800;W;1:57.56;;Drake Stadium;USA;Outdoor;2024-05-18;;Halimah;Nakaayi;UGA;1994;Female
-AL;4;800;W;1:57.56;;Drake Stadium;USA;Outdoor;2024-05-18;;Tsige;Duguma;ETH;2001;Female
+AL;4;800;W;1:57.26;;Le Grand Stade;MAR;Outdoor;2024-05-19;;Prudence;Sekgodiso;RSA;2002;Female
 AL;4;MEI;M;3:51.91;;Boston Univ. Track & Tennis Center;USA;Indoor;2024-02-10;;Anass;Essayi;MAR;2001;Male
 AL;4;1K0;W;2:37.26;;Dempsey Indoor;USA;Indoor;2024-01-26;;Dorcas;Ewoi;KEN;;Female
 AL;4;600;W;1:28.17;;Schönbuchstadion;GER;Outdoor;2024-05-05;;Assia;Raziki;MAR;1996;Female
@@ -227,17 +227,17 @@ AL;1;1K0;M;2:16.73;;Arena Civica Gianni Brera;ITA;Outdoor;2024-04-27;;Catalin;Te
 AL;1;4×4;M;3:00.09;;The Bahamas National Stadium;BAH;Outdoor;2024-05-04;;;;BEL;;Male
 AL;1;600;M;1:14.56;;Schönbuchstadion;GER;Outdoor;2024-05-05;;Tobias;Grønstad;NOR;2002;Male
 AL;1;DRE;W;14.75;;Glasgow Arena;GBR;Indoor;2024-03-03;;Ana;Peleteiro-Compaoré;ESP;1995;Female
-AL;1;3KH;M;8:16.36;;Stadion Śląski;POL;Outdoor;2024-05-18;;Nicolas-Marie;Daru;FRA;1988;Male
+AL;1;3KH;M;8:12.28;;Le Grand Stade;MAR;Outdoor;2024-05-19;;Daniel;Arce;ESP;1992;Male
 AL;1;5G;W;20:50.56;;KMSHVSM Arena;UKR;Indoor;2024-01-20;;Lyudmila;Olyanovska;UKR;1993;Female
 AL;1;2K0;W;5:45.30;;Pista atletismo Can Mises;ESP;Outdoor;2024-05-11;;Esther;Guerrero;ESP;1990;Female
-AL;1;1K5;M;3:33.50;;Suhaim bin Hamad Stadium;QAT;Outdoor;2024-05-10;;Isaac;Nader;POR;1999;Male
+AL;1;1K5;M;3:32.86;;Le Grand Stade;MAR;Outdoor;2024-05-19;;Azeddine;Habz;FRA;1993;Male
 AL;1;3K0;W;8:29.76;;Glasgow Arena;GBR;Indoor;2024-03-02;;Laura;Muir;GBR;1993;Female
 AL;1;KUG;M;22.95;;Centro Sportivo Fontanassa;ITA;Outdoor;2024-05-15;;Leonardo;Fabbri;ITA;1997;Male
 AL;1;5K0;W;14:43.24;;Suzhou Olympic Sports Centre;CHN;Outdoor;2024-04-27;;Megan;Keith;GBR;2002;Female
 AL;1;10G;M;38:51.71;;Campo Comunale N. Palladino;ITA;Outdoor;2024-03-24;;Francesco;Fortunato;ITA;1994;Male
 AL;1;100;W;10.98;2.0;Suhaim bin Hamad Stadium;QAT;Outdoor;2024-05-10;;Daryll;Neita;GBR;1996;Female
 AL;1;3K0;M;7:30.14;;Armory Track&Field Center;USA;Indoor;2024-02-11;;Josh;Kerr;GBR;1997;Male
-AL;1;11H;M;13.27;0.9;Stadion Zygmunta Szelesta;POL;Outdoor;2024-05-11;;Damian;Czykier;POL;1992;Male
+AL;1;11H;M;13.2;1.7;Stade Pierre de Coubertin;FRA;Outdoor;2024-05-19;;Michael;Obasuyi;BEL;1999;Male
 AL;1;HAM;M;80.76;;Nyayo National Stadium;KEN;Outdoor;2024-04-20;;Mykhaylo;Kokhan;UKR;2001;Male
 AL;1;HOC;M;2.33;;Salyut Geraklion Arena;RUS;Indoor;2024-01-28;;Danil;Lysenko;RUS;1997;Male
 AL;1;4×1;M;38.14;;The Bahamas National Stadium;BAH;Outdoor;2024-05-04;;;;ITA;;Male
@@ -305,7 +305,7 @@ AL;6;5G;W;21:42.01;;Lakeside Stadium;AUS;Outdoor;2024-02-24;;Rebecca;Henderson;A
 AL;6;1K5;M;3:33.30;;The Crest Athletics Centre;AUS;Outdoor;2024-02-22;;Cameron;Myers;AUS;2006;Male
 AL;6;3K0;W;8:24.39;;Glasgow Arena;GBR;Indoor;2024-03-02;;Jessica;Hull;AUS;1996;Female
 AL;6;KUG;M;22.16;;Arena Stade Couvert;FRA;Indoor;2024-02-10;;Tom;Walsh;NZL;1992;Male
-AL;6;5K0;W;14:47.86;;Suzhou Olympic Sports Centre;CHN;Outdoor;2024-04-27;;Rose;Davies;AUS;1999;Female
+AL;6;5K0;W;14:41.65;;National Stadium;JPN;Outdoor;2024-05-19;;Rose;Davies;AUS;1999;Female
 AL;6;10G;M;38:07.88;;SA Athletic Stadium;AUS;Outdoor;2024-04-11;;Declan;Tingay;AUS;1999;Male
 AL;6;100;W;11.1;1.6;AIS Athletics Track;AUS;Outdoor;2024-01-27;;Torrie;Lewis;AUS;2005;Female
 AL;6;3K0;M;7:34.88;;Armory Track&Field Center;USA;Indoor;2024-02-11;;Geordie;Beamish;NZL;1996;Male
@@ -316,7 +316,7 @@ AL;6;4×1;M;38.43;;Queensland Sport and Athletics Centre;AUS;Outdoor;2024-02-24;
 AL;6;10K;W;30:35.66;;JSerra Catholic HS;USA;Outdoor;2024-03-16;;Lauren;Ryan;AUS;1998;Female
 AL;6;WEI;M;8.32;-0.2;SA Athletic Stadium;AUS;Outdoor;2024-04-14;;Christopher;Mitrevski;AUS;1996;Male
 AL;6;HAM;W;70.59;;Nga Puna Wai Sports Hub;NZL;Outdoor;2024-02-24;;Lauren;Bruce;NZL;1997;Female
-AL;6;SPE;M;81.56;;Univ. of Arizona Roy P. Drachman Stadium;USA;Outdoor;2024-05-04;;Cameron;Mcentyre;AUS;1999;Male
+AL;6;SPE;M;82.01;;National Stadium;JPN;Outdoor;2024-05-19;;Cameron;Mcentyre;AUS;1999;Male
 AL;6;800;M;1:44.73;;SA Athletic Stadium;AUS;Outdoor;2024-04-14;;Luke;Boyes;AUS;2003;Male
 AL;6;60M;W;7.06;;Glasgow Arena;GBR;Indoor;2024-03-02;;Zoe;Hobbs;NZL;1997;Female
 AL;6;60H;W;7.97;;Glasgow Arena;GBR;Indoor;2024-03-03;;Michelle;Jenneke;AUS;1993;Female
@@ -370,7 +370,7 @@ AL;2;1K0;M;2:14.74;;The Track at New Balance;USA;Indoor;2024-02-04;;Marco;Arop;C
 AL;2;4×4;M;2:59.03;;Percy Beard Track;USA;Outdoor;2024-05-11;;;;USA;;Male
 AL;2;600;M;1:14.03;;Convention Center;USA;Indoor;2024-02-09;;Brandon;Miller;USA;2003;Male
 AL;2;DRE;W;15.01;;Glasgow Arena;GBR;Indoor;2024-03-03;;Thea;Lafond;DMA;1994;Female
-AL;2;3KH;M;8:15.08;;Jack Kemp Stadium;USA;Outdoor;2024-05-11;;Kenneth;Rooks;USA;1999;Male
+AL;2;3KH;M;8:13.30;;Le Grand Stade;MAR;Outdoor;2024-05-19;;Hillary;Bor;USA;1989;Male
 AL;2;5G;W;22:52.18;;Franklin Field;USA;Outdoor;2024-04-27;;Miranda;Melville;USA;1989;Female
 AL;2;2K0;W;6:29.44;;Pista de Atletismo del Centro Deportivo Benito Juárez;MEX;Outdoor;2024-03-22;;Kenya;Cuahutle;MEX;;Female
 AL;2;1K5;M;3:32.16;;UVA Lanningan Field;USA;Outdoor;2024-04-28;;Cooper;Teare;USA;1999;Male
