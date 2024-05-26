@@ -4513,7 +4513,7 @@ NR;;40H;M;48.94;;Praha;TCH;Outdoor;1989-06-21;Jozef Kucej;;;SVK;1965;Male
 NR;;40H;M;47.98;;Atlanta;USA;Outdoor;1996-08-01;Sven Nylander;;;SWE;1962;Male
 NR;;40H;M;57.04;;Manzini;SWZ;Outdoor;2019-05-18;Cedusizi Vilakati;;;SWZ;;Male
 NR;;40H;M;48.87;;Sydney;AUS;Outdoor;1999-02-20;Ziad Abou Hamed;;;SYR;1970;Male
-NR;;40H;M;51.20;;Doha;QAT;Outdoor;1985-08-12;Morris Okinda;;;TAN;1963;Male
+NR;;40H;M;51.20;;Cairo;EGY;Outdoor;1985-08-12;Morris Okinda;;;TAN;;Male
 NR;;40H;M;52.02;;Sacramento;USA;Outdoor;1996-05-05;Paeaki Kokohu;;;TGA;1966;Male
 NR;;40H;M;49.76;;Chiang Mai;THA;Outdoor;1995-12-12;Chanond Keanchan;;;THA;1967;Male
 NR;;40H;M;48.98;;Tashkent;URS;Outdoor;1986-09-18;Nikolay Ilchenko;;;TJK;1963;Male
@@ -7792,7 +7792,7 @@ NR;;HAM;W;62.43;;San Salvador;ESA;Outdoor;2001-06-09;Nancy Guillén;;;ESA;1976;F
 NR;;HAM;W;72.0;;Madrid;ESP;Outdoor;2022-06-18;Laura Redondo;;;ESP;1988;Female
 NR;;HAM;W;71.5;;Pori;FIN;Outdoor;2020-08-29;Kati Ojaloo;;;EST;1990;Female
 NR;;HAM;W;61.41;;Oxford;USA;Outdoor;2022-05-12;Avisake Bulai;;;FIJ;1999;Female
-NR;;HAM;W;74.4;;Leiria;POR;Outdoor;2022-03-19;Krista Tervo;;;FIN;1997;Female
+NR;;HAM;W;74.63;;Lahti;FIN;Outdoor;2024-05-24;Krista Tervo;;;FIN;1997;Female
 NR;;HAM;W;75.38;;Salon-de-Provence;FRA;Outdoor;2021-02-21;Alexandra Tavernier;;;FRA;1993;Female
 NR;;HAM;W;36.76;;Saint Julien de Concelles;FRA;Outdoor;2018-11-24;Armelle Otola;;;GAB;;Female
 NR;;HAM;W;74.54;;Rio de Janeiro;BRA;Outdoor;2016-08-15;Sophie Hitchon;;;GBR;1991;Female
@@ -7892,7 +7892,7 @@ NR;;HAM;W;48.76;;Matara;SRI;Outdoor;2017-09-24;Shanika Manoji Amarasinghe;;;SRI;
 NR;;HAM;W;40.45;;Vagos;POR;Outdoor;2022-04-26;Nádia Delgado;;;STP;;Female
 NR;;HAM;W;67.42;;Luzern;SUI;Outdoor;2018-07-09;Nicole Zihlmann;;;SUI;1986;Female
 NR;;HAM;W;76.9;;Trnava;SVK;Outdoor;2009-05-16;Martina Hrašnová;;;SVK;1983;Female
-NR;;HAM;W;72.2;;Jõhvi;EST;Outdoor;2024-05-23;Thea Löfman;;;SWE;2003;Female
+NR;;HAM;W;73.31;;Halle;GER;Outdoor;2024-05-25;Thea Löfman;;;SWE;2003;Female
 NR;;HAM;W;50.24;;Hainfeld;AUT;Outdoor;2021-07-27;Fatima Jeratli;;;SYR;1994;Female
 NR;;HAM;W;53.53;;Aix-les-Bains;FRA;Outdoor;2009-02-07;Ana Po'uhila-Kisina;;;TGA;1979;Female
 NR;;HAM;W;62.49;;Kolín;CZE;Outdoor;2018-07-19;Mingkamon Koomphon;;;THA;1998;Female
@@ -8394,7 +8394,7 @@ NR;;10H;W;13.27;1.7;Barranquilla;COL;Outdoor;2018-07-30;Jenea McCammon;;;GUY;199
 NR;;10H;W;12.74;1.7;Athína;GRE;Outdoor;2004-08-23;Nadine Faustin-Parker;;;HAI;1976;Female
 NR;;10H;W;13.14;;Walnut;USA;Outdoor;1994-04-17;Chan Sau-Ying;;;HKG;1970;Female
 NR;;10H;W;13.83;-0.6;Toluca;MEX;Outdoor;2008-07-21;Jeimy J. Bernárdez;;;HON;1986;Female
-NR;;10H;W;12.69;-0.1;München;GER;Outdoor;2022-08-21;Luca Kozák;;;HUN;1996;Female
+NR;;10H;W;12.69;0.3;München;GER;Outdoor;2022-08-21;Luca Kozák;;;HUN;1996;Female
 NR;;10H;W;13.18;0.7;Taipei;TPE;Outdoor;2012-05-26;Dedeh Erawati;;;INA;1979;Female
 NR;;10H;W;12.78;1.0;Chengdu;CHN;Outdoor;2023-08-04;Jyothi Yarraji;;;IND;1999;Female
 NR;;10H;W;13.64;0.2;Tehran;IRI;Outdoor;2023-08-18;Elnaz Kompani;;;IRI;1989;Female
@@ -9283,7 +9283,7 @@ NR;;3KH;W;11:12.63;;Ismailia;EGY;Outdoor;2024-05-09;Malak Abdul-Ghani Abdullah I
 NR;;3KH;W;10:25.2;;Asmara;ERI;Outdoor;2011-04-03;Yohana Zemuy;;;ERI;1995;Female
 NR;;3KH;W;10:38.25;;Baton Rouge;USA;Outdoor;2012-04-21;Zuna Portillo;;;ESA;1989;Female
 NR;;3KH;W;9:09.39;;Barcelona;ESP;Outdoor;2009-07-25;Marta Domínguez;;;ESP;1975;Female
-NR;;3KH;W;9:50.15;;Tallinn;EST;Outdoor;2014-06-21;Jekaterina Patjuk;;;EST;1983;Female
+NR;;3KH;W;9:48.62;;Dessau-Roßlau;GER;Outdoor;2024-05-24;Laura Maasik;;;EST;1993;Female
 NR;;3KH;W;8:54.61;;Eugene;USA;Outdoor;2022-07-20;Werkwuha Getachew;;;ETH;1995;Female
 NR;;3KH;W;9:24.70;;Glasgow;GBR;Outdoor;2014-07-12;Sandra Eriksson;;;FIN;1989;Female
 NR;;3KH;W;9:06.15;;Budapest;HUN;Outdoor;2023-08-27;Alice Finot;;;FRA;1991;Female
@@ -9526,7 +9526,7 @@ NR;;KUG;W;17.23;;Knoxville;USA;Outdoor;2006-05-26;Aymara Albury;;;BAH;1985;Femal
 NR;;KUG;W;13.52;;Dhaka;BAN;Outdoor;2024-02-09;Zakia Akter;;;BAN;;Female
 NR;;KUG;W;17.14;;Lincoln;USA;Outdoor;2007-05-13;Shernelle Nicholls;;;BAR;1984;Female
 NR;;KUG;W;12.56;;Bujumbura;BDI;Outdoor;1992-08-23;Tsizéyimana;;;BDI;;Female
-NR;;KUG;W;17.16;;Sittard;NED;Outdoor;2023-06-18;Jolien Boumkwo;;;BEL;1993;Female
+NR;;KUG;W;17.29;;Halle;GER;Outdoor;2024-05-25;Jolien Boumkwo;;;BEL;1993;Female
 NR;;KUG;W;15.79;;Ratingen;GER;Outdoor;2021-06-19;Odile Ahouanwanou;;;BEN;1991;Female
 NR;;KUG;W;14.3;;Hattiesburg;USA;Outdoor;2019-03-30;Tiara DeRosa;;;BER;1998;Female
 NR;;KUG;W;11.74;;Punakha;BHU;Outdoor;2000-12-28;Phup Lhamngmo;;;BHU;;Female
@@ -11915,7 +11915,7 @@ NR;;200;W;23.01;-0.2;Kinshasa;COD;Outdoor;2023-08-03;Natacha Ngoye;;;CGO;1993;Fe
 NR;;200;W;22.73;0.9;Edmonton;CAN;Outdoor;2002-06-22;Kaltouma Nadjina;;;CHA;1976;Female
 NR;;200;W;22.95;1.2;Toronto;CAN;Outdoor;2015-07-23;Isidora Jiménez;;;CHI;1993;Female
 NR;;200;W;22.01;0.0;Shanghai;CHN;Outdoor;1997-10-22;Li Xuemei;;;CHN;1977;Female
-NR;;200;W;22.08;0.8;London;GBR;Outdoor;2017-08-11;Marie Josée Ta Lou;;;CIV;1988;Female
+NR;;200;W;22.08;0.8;London;GBR;Outdoor;2017-08-11;Marie Josée Ta Lou-Smith;;;CIV;1988;Female
 NR;;200;W;22.41;0.2;Kourou;FRA;Outdoor;2000-05-21;Myriam Mani;;;CMR;1977;Female
 NR;;200;W;24.26;-0.9;Oordegem;BEL;Outdoor;2011-06-04;Cynthia Bolingo Mbongo;;;COD;1993;Female
 NR;;200;W;24.16;0.3;Port Vila;VAN;Outdoor;2017-12-14;Patricia Taea;;;COK;1993;Female
@@ -12463,7 +12463,7 @@ NR;;100;W;11.22;0.5;Kinshasa;COD;Outdoor;2023-07-31;Natacha Ngoye;;;CGO;1993;Fem
 NR;;100;W;11.54;1.9;Calgary;CAN;Outdoor;2009-05-24;Kaltouma Nadjina;;;CHA;1976;Female
 NR;;100;W;11.19;-1.2;Cochabamba;BOL;Outdoor;2018-06-06;Isidora Jiménez;;;CHI;1993;Female
 NR;;100;W;10.79;0.0;Shanghai;CHN;Outdoor;1997-10-18;Li Xuemei;;;CHN;1977;Female
-NR;;100;W;10.72;0.4;Monaco;MON;Outdoor;2022-08-10;Marie Josée Ta Lou;;;CIV;1988;Female
+NR;;100;W;10.72;0.4;Monaco;MON;Outdoor;2022-08-10;Marie Josée Ta Lou-Smith;;;CIV;1988;Female
 NR;;100;W;10.98;0.6;Athína;GRE;Outdoor;2001-06-11;Myriam Mani;;;CMR;1977;Female
 NR;;100;W;11.86;0.9;Herve;BEL;Outdoor;2011-05-21;Cynthia Bolingo Mbongo;;;COD;1993;Female
 NR;;100;W;11.97;1.5;Brisbane;AUS;Outdoor;2017-12-03;Patricia Taea;;;COK;1993;Female
