@@ -74,7 +74,7 @@ if __name__ == '__main__':
             df = df.rename(columns={"AreaId": "type"})
             df["type"] = df["type"].fillna(0)
 
-        if nationleadFile:
+        if nationleadFile or nationrecordFile:
             df["type"] = df["nation"]
 
         df = df.fillna("")

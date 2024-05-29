@@ -26,7 +26,7 @@ jobs:
           python cleanup.py --input tmp/arearecords
           python taf.py --input tmp/nationalrecords --output records/national.csv
           python taf.py --input tmp/worldrecords --output records/world.csv
-          python taf.py --input tmp/arearecords --output records/europe.csv
+          python taf.py --input tmp/arearecords --output records/area.csv
           git config user.name Github Action
           git config user.email actions@github.com
           git add records/*
