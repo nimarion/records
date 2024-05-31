@@ -6173,7 +6173,7 @@ NR;CAN;100;M;9.84;0.7;Atlanta;USA;Outdoor;1996-07-26;Donovan Bailey;;;CAN;1967;M
 NR;CAN;100;M;9.84;0.2;Sevilla;ESP;Outdoor;1999-08-22;Bruny Surin;;;CAN;1967;Male
 NR;CAY;100;M;9.95;1.8;Madrid;ESP;Outdoor;2012-07-07;Kemar Hyman;;;CAY;1989;Male
 NR;CGO;100;M;10.27;0.0;Schifflange;LUX;Outdoor;2021-08-22;Dorian Rostan Keletela;;;CGO;1999;Male
-NR;CHA;100;M;10.25;0.3;Sassari;ITA;Outdoor;2012-06-17;Abdourahim Haroun;;;CHA;1992;Male
+NR;CHA;100;M;10.18;0.9;Doha;QAT;Outdoor;2024-04-28;Mahamat Goubaye Youssouf;;;CHA;1998;Male
 NR;CHI;100;M;10.1;2.0;São Leopoldo;BRA;Outdoor;1998-04-26;Sebastián Keitel;;;CHI;1973;Male
 NR;CHN;100;M;9.83;0.9;Tokyo;JPN;Outdoor;2021-08-01;Su Bingtian;;;CHN;1989;Male
 NR;CIV;100;M;9.93;1.9;Leverkusen;GER;Outdoor;2019-07-24;Arthur Gue Cissé;;;CIV;1996;Male
@@ -9056,7 +9056,7 @@ NR;NIU;HOC;W;1.49;;Sydney;AUS;Outdoor;2005-05-08;Jade Roughan;;;NIU;;Female
 NR;NMI;HOC;W;1.38;;Pohnpei;FSM;Outdoor;2014-07-23;Rachel Abrams;;;NMI;1995;Female
 NR;NOR;HOC;W;2.01;;Zürich;SUI;Outdoor;1997-08-13;Hanne Haugland;;;NOR;1967;Female
 NR;NRU;HOC;W;1.26;;Yaren;NRU;Outdoor;2007-03-04;Arrora De Paune;;;NRU;;Female
-NR;NZL;HOC;W;1.92;;Auckland;NZL;Outdoor;1991-01-26;Tania Dixon;;;NZL;1970;Female
+NR;NZL;HOC;W;1.92;;Dunedin;NZL;Outdoor;1991-01-26;Tania Dixon;;;NZL;1970;Female
 NR;OMA;HOC;W;1.6;;Beyrouth;LBN;Outdoor;2017-09-10;Aleya Faiq Al-Moghairiya;;;OMA;;Female
 NR;PAK;HOC;W;1.69;;Kathmandu;NEP;Outdoor;1999-09-27;Rehana Kausar;;;PAK;;Female
 NR;PAN;HOC;W;1.84;;Managua;NCA;Outdoor;2012-06-16;Kashani Ríos Miller;;;PAN;1991;Female
@@ -11884,7 +11884,7 @@ NR;AND;200;W;24.95;1.4;Schaan;LIE;Outdoor;2018-06-09;Cristina Llovera;;;AND;1996
 NR;ANG;200;W;24.61;0.3;Lisboa;POR;Outdoor;2017-06-17;Adriana Alves;;;ANG;1995;Female
 NR;ANT;200;W;22.66;-0.2;Eugene;USA;Outdoor;2022-06-09;Joella Lloyd;;;ANT;2002;Female
 NR;ARG;200;W;22.94;;La Paz;BOL;Outdoor;1978-11-11;Beatriz Allocco;;;ARG;1955;Female
-NR;ARM;200;W;24.3;1.5;Tbilisi;GEO;Outdoor;2016-07-15;Gayane Chiloyan;;;ARM;2000;Female
+NR;ARM;200;W;24.12;-1.1;Artashat;ARM;Outdoor;2024-05-20;Gayane Chiloyan;;;ARM;2000;Female
 NR;ARU;200;W;25.2;0.1;Oranjestad;NED;Outdoor;2011-06-23;Jelissa Nedd;;;ARU;;Female
 NR;ASA;200;W;26.66;0.0;Honiara;SOL;Outdoor;2023-11-29;Filomenaleonisa Iakopo;;;ASA;2006;Female
 NR;AUS;200;W;22.23;0.8;Stuttgart;GER;Outdoor;1997-07-13;Melinda Gainsford-Taylor;;;AUS;1971;Female
@@ -11942,8 +11942,7 @@ NR;ETH;200;W;23.84;-1.6;Addis Ababa;ETH;Outdoor;2015-03-08;Tegest Tamagnu;;;ETH;
 NR;FIJ;200;W;23.22;1.9;Heusden;BEL;Outdoor;2008-07-20;Makelesi Batimala;;;FIJ;1977;Female
 NR;FIN;200;W;22.39;0.6;Moskva;URS;Outdoor;1973-08-20;Mona-Lisa Pursiainen;;;FIN;1951;Female
 NR;FRA;200;W;21.99;1.1;Villeneuve d'Ascq;FRA;Outdoor;1993-07-02;Marie-José Pérec;;;FRA;1968;Female
-NR;FSM;200;W;27.44;1.6;Kolonia;FSM;Outdoor;2002-07-25;Angie Nedelec;;;FSM;;Female
-NR;FSM;200;W;27.44;;Cairns;AUS;Outdoor;2015-10-05;Lihen Jonas;;;FSM;1998;Female
+NR;FSM;200;W;26.94;;Tamuning;GUM;Outdoor;2024-05-26;Erica Palisoc;;;FSM;2005;Female
 NR;GAB;200;W;23.54;0.9;Nairobi;KEN;Outdoor;2010-07-31;Ruddy Zang Milama;;;GAB;1987;Female
 NR;GAM;200;W;22.58;1.8;Rabat;MAR;Outdoor;2019-08-30;Gina Bass;;;GAM;1995;Female
 NR;GBR;200;W;21.88;0.9;Doha;QAT;Outdoor;2019-10-02;Dina Asher-Smith;;;GBR;1995;Female
@@ -11964,7 +11963,7 @@ NR;HAI;200;W;23.06;-0.3;Charlottesville;USA;Outdoor;2012-04-21;Marlena Wesh;;;HA
 NR;HKG;200;W;23.79;0.0;Xi'an;CHN;Outdoor;1999-05-16;Wan Kin Yee;;;HKG;1975;Female
 NR;HON;200;W;25.02;1.5;Managua;NCA;Outdoor;2012-06-16;Heidy Palacios;;;HON;1990;Female
 NR;HUN;200;W;22.71;0.8;Budapest;HUN;Outdoor;2024-05-26;Boglárka Takács;;;HUN;2001;Female
-NR;INA;200;W;23.76;0.4;Cibinong;INA;Outdoor;2019-08-04;Alfina Tehupeiory;;;INA;1995;Female
+NR;INA;200;W;23.63;-1.2;Chongqing;CHN;Outdoor;2024-05-29;Agustin Nella;;;INA;2003;Female
 NR;IND;200;W;22.82;0.8;Ludhiana;IND;Outdoor;2002-08-28;Saraswati Saha;;;IND;1979;Female
 NR;IRI;200;W;23.22;1.2;Bogotá;COL;Outdoor;2024-05-25;Maryam Toosi;;;IRI;1988;Female
 NR;IRL;200;W;22.34;1.8;Gainesville;USA;Outdoor;2023-04-14;Rhasidat Adeleke;;;IRL;2002;Female
