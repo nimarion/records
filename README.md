@@ -18,5 +18,5 @@ Alle Dateien sind im CSV Format und können in TAF3 importiert werden.
 
 ## Normen
 
-- [Normen für Deutsche Meisterschaften](limits/nationals-dlv-2024.csv)
-- [Normen für Süddeutsche Meisterschaften](limits/regionals-slv-2024.csv)
+- [Normen für Deutsche Meisterschaften](limits)
+- [Normen für Süddeutsche Meisterschaften](limits)
