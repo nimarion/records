@@ -54,7 +54,7 @@ def get_url(type, discipline, sex, ageCategory, year, regionType, region, limitB
     return url
 
 
-def download_parse(url, discipline, sex, regionType, region):
+def download_parse(url, discipline, sex, regionType, region, ageCategory):
     response = requests.get(url)
     soup = BeautifulSoup(response.text, 'html.parser')
     table = soup.find('table', class_='records-table')
@@ -69,6 +69,8 @@ def download_parse(url, discipline, sex, regionType, region):
         df["Sex"] = "Male"
     else:
         df["Sex"] = "Female"
+
+    df["ageCategory"] = ageCategory
 
     df['Date'] = pd.to_datetime(df['Date'], format='%d %b %Y')
     if regionType == "countries":
@@ -154,7 +156,7 @@ if __name__ == "__main__":
                   year, regionType, region, limitByCountry)
     print(url)
 
-    df = download_parse(url, discipline, sex, regionType, region)
+    df = download_parse(url, discipline, sex, regionType, region, ageCategory)
 
     if df is None:
         print("No data found")

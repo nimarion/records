@@ -86,7 +86,11 @@ if __name__ == '__main__':
 
         outputDf = pd.concat([outputDf, df])
 
+    
+
     outputDf['class'] = outputDf['sex'].apply(lambda x: 'M' if x == 'Male' else ('W' if x == 'Female' else 'X'))
+    if 'agecategory' in outputDf.columns:
+        outputDf['class'] = outputDf['class'] + outputDf['agecategory'].apply(lambda x: 'JU20' if x == 'u20' else '')
 
     if 'yearOfBirth' in outputDf.columns:
         outputDf['yearOfBirth'] = outputDf['yearOfBirth'].fillna('').astype(str) 
