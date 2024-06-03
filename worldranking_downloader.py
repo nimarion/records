@@ -17,12 +17,12 @@ for index, row in df.iterrows():
     
     for a in ageGroup:
         for s in sex:
-            print(f"python worldranking.py --type {type} --discipline {discipline} --sex {s} --ageCategory {a} --year {year} --regionType world --output tmp/leads/world/{s}-{a}-{discipline}.csv")
-            os.system(f"python worldranking.py --type {type} --discipline {discipline} --sex {s} --ageCategory {a} --year {year} --regionType world --output tmp/leads/world/{s}-{a}-{discipline}.csv")
-            os.system(f"python worldranking.py --type {type} --discipline {discipline} --sex {s} --ageCategory {a} --year {year} --regionType area --region europe --output tmp/leads/area/europe/{s}-{a}-{discipline}.csv")
-            os.system(f"python worldranking.py --type {type} --discipline {discipline} --sex {s} --ageCategory {a} --year {year} --regionType area --region africa --output tmp/leads/area/africa/{s}-{a}-{discipline}.csv")
-            os.system(f"python worldranking.py --type {type} --discipline {discipline} --sex {s} --ageCategory {a} --year {year} --regionType area --region asia --output tmp/leads/area/asia/{s}-{a}-{discipline}.csv")
-            os.system(f"python worldranking.py --type {type} --discipline {discipline} --sex {s} --ageCategory {a} --year {year} --regionType area --region \"north and central america\" --output tmp/leads/area/naca/{s}-{a}-{discipline}.csv")
-            os.system(f"python worldranking.py --type {type} --discipline {discipline} --sex {s} --ageCategory {a} --year {year} --regionType area --region oceania --output tmp/leads/area/oceania/{s}-{a}-{discipline}.csv")
-            os.system(f"python worldranking.py --type {type} --discipline {discipline} --sex {s} --ageCategory {a} --year {year} --regionType area --region \"south america\" --output tmp/leads/area/sa/{s}-{a}-{discipline}.csv")
-            os.system(f"python worldranking.py --type {type} --discipline {discipline} --sex {s} --ageCategory {a} --year {year} --regionType countries --region ger --output tmp/leads/country/ger/{s}-{a}-{discipline}.csv") 
+            print(f"python worldranking.py --type {type} --discipline {discipline} --sex {s} --ageCategory {a} --year {year} --regionType world --output tmp/leads/world/{a}/{s}-{a}-{discipline}.csv")
+            os.system(f"python worldranking.py --type {type} --discipline {discipline} --sex {s} --ageCategory {a} --year {year} --regionType world --output tmp/leads/world/{a}/{s}-{a}-{discipline}.csv")
+            os.system(f"python worldranking.py --type {type} --discipline {discipline} --sex {s} --ageCategory {a} --year {year} --regionType area --region europe --output tmp/leads/area/europe/{a}/{s}-{a}-{discipline}.csv")
+            os.system(f"python worldranking.py --type {type} --discipline {discipline} --sex {s} --ageCategory {a} --year {year} --regionType area --region africa --output tmp/leads/area/africa/{a}/{s}-{a}-{discipline}.csv")
+            os.system(f"python worldranking.py --type {type} --discipline {discipline} --sex {s} --ageCategory {a} --year {year} --regionType area --region asia --output tmp/leads/area/asia/{a}/{s}-{a}-{discipline}.csv")
+            os.system(f"python worldranking.py --type {type} --discipline {discipline} --sex {s} --ageCategory {a} --year {year} --regionType area --region \"north and central america\" --output tmp/leads/area/naca/{a}/{s}-{a}-{discipline}.csv")
+            os.system(f"python worldranking.py --type {type} --discipline {discipline} --sex {s} --ageCategory {a} --year {year} --regionType area --region oceania --output tmp/leads/area/oceania/{a}/{s}-{a}-{discipline}.csv")
+            os.system(f"python worldranking.py --type {type} --discipline {discipline} --sex {s} --ageCategory {a} --year {year} --regionType area --region \"south america\" --output tmp/leads/area/sa/{a}/{s}-{a}-{discipline}.csv")
+            os.system(f"python worldranking.py --type {type} --discipline {discipline} --sex {s} --ageCategory {a} --year {year} --regionType countries --region ger --output tmp/leads/country/ger/{a}/{s}-{a}-{discipline}.csv") 

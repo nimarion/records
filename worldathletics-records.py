@@ -2,6 +2,35 @@ import pandas as pd
 import requests
 import argparse
 import io
+import re
+
+
+def parse_venue(venue):
+    venue = venue.strip()
+    parts = venue.split(', ')
+
+    if len(parts) == 1:
+        city, country = parse_country_and_city(parts[0])
+        return pd.Series({'country': country, 'city': city, 'stadium': None})
+
+    stadium = parts[0]
+    rest = ', '.join(parts[1:])
+    city, country = parse_country_and_city(rest)
+
+    return pd.Series({'country': country, 'city': city, 'stadium': stadium})
+
+def parse_country_and_city(country_and_city):
+    regex = re.compile(r'(.+?)\s*\((\w+(?:\s+\w+)*)\)')
+    match_result = regex.match(country_and_city)
+
+    if not match_result:
+        raise ValueError(
+            f"Cannot parse country and city from {country_and_city}")
+
+    city = match_result.group(1)
+    country = match_result.group(2)
+
+    return city, country
 
 def getRecords(category):
     url = f'https://worldathletics.org/records/by-category/{category}'
@@ -22,8 +51,43 @@ def getRecords(category):
             records["sex"] == "Mixed"
         else:
             print(f"Unknown table with index {i}")
-            continue
-        df = pd.concat([df, records], ignore_index=True)    
+            continue    
+        
+        df = pd.concat([df, records], ignore_index=True)
+
+    if 'DOB' in df.columns:
+        df[['Firstname', 'Lastname']] = df['Competitor'].str.split(
+            pat=' ', n=1, expand=True)
+        df['Lastname'] = df['Lastname'].str.lower().str.title()
+        df['name'] = df['Firstname'] + ' ' + df['Lastname']
+        df.drop(columns=['Firstname', 'Lastname'], inplace=True, errors='ignore')
+        df['DOB'] = pd.to_datetime(
+            df['DOB'], format='%d %b %Y', errors='coerce')
+        df["yearOfBirth"] = df['DOB'].dt.year
+        df['yearOfBirth'] = df['yearOfBirth'].fillna('').astype(str) 
+        df['yearOfBirth'] = df['yearOfBirth'].replace('', '-1') 
+        df['yearOfBirth'] = df['yearOfBirth'].astype(float).astype(int) 
+
+    df["environment"] = df["Venue"].apply(
+        lambda x: "Indoor" if "(i)" in x else "Outdoor")
+
+    df[['venueCountry', 'venue', 'stadium']] = df['Venue'].apply(parse_venue)
+
+    # remove state from venue eg New York BY or Eugene OR
+    df['venue'] = df['venue'].str.replace(r' ([A-Z]+)$', '', regex=True)
+    # eg from Stockholm/G to Stockholm, Göteborg/U to Göteborg 
+    df['venue'] = df['venue'].str.replace(r'/.*$', '', regex=True)
+    df['venue'] = df['venue'].str.replace(r',$', '', regex=True)
+    df['Date'] = pd.to_datetime(df['Date'], format='%d %b %Y')
+
+    df = df.drop(columns=['Progression'], errors='ignore')
+    df.rename(columns={'Perf': 'Progression', 'Discipline': 'discipline', 'Country': 'nation', 'Wind': 'wind'}, inplace=True, errors='ignore')
+    df = df.drop(columns=['DOB', 'stadium', 'Perf', 'Venue', 'Competitor'], errors='ignore')    
+    df.rename(columns={'Progression': 'result', 'Discipline': 'discipline', 'Country': 'nation', 'Wind': 'wind', 'Date': 'date'}, inplace=True, errors='ignore')
+
+    # Pending ratification
+    df = df[~df['result'].str.contains(r'\*')]
+
     return df
 
 if __name__ == '__main__':
