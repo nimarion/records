@@ -1,66 +1,122 @@
 code;type;discipline;class;result;wind;venue;venueCountry;environment;date;name;firstname;lastname;nation;yearOfBirth;sex
-NL;GER;DRE;M;17.03;;Quarterback Immobilien Arena;GER;Indoor;2024-02-17;;Max;Heß;GER;1996;Male
+NL;GER;5G;M;21:36.52;;Helmut-Körnig-Halle;GER;Indoor;2024-02-24;;Nick;Joel Richardt;GER;2006;Male
+NL;GER;DIS;W;67.31;;Helmut-Schön-Sportpark;GER;Outdoor;2024-05-11;;Marike;Steinacker;GER;1992;Female
+NL;GER;4×4;X;3:13.85;;The Bahamas National Stadium;BAH;Outdoor;2024-05-05;;;;GER;;Mixed
+NL;GER;4×1;MJU20;40.18;;Universitätsstadion Am Biopark;GER;Outdoor;2024-05-25;;;;GER;;Male
+NL;GER;200;MJU20;21.06;1.4;Sportanlage an der Kanalstraße;GER;Outdoor;2024-05-19;;Max;Husemann;GER;2005;Male
+NL;GER;SPE;M;90.2;;Werferzentrum Brandberge;GER;Outdoor;2024-02-25;;Max;Dehning;GER;2004;Male
+NL;GER;WEI;WJU20;6.27;;Werner-von-Linde-Halle;GER;Indoor;2024-02-04;;Nelly;Sohn;GER;;Female
+NL;GER;KUG;MJU20;18.55;;Quarterback Immobilien Arena;GER;Indoor;2024-02-16;;Georg;Harpf;GER;2005;Male
+NL;GER;KUG;W;20.19;;Glasgow Arena;GBR;Indoor;2024-03-01;;Yemisi;Ogunleye;GER;1998;Female
+NL;GER;10H;WJU20;13.64;0.0;Universitätsstadion Am Biopark;GER;Outdoor;2024-05-25;;Helene;Hoffmann;GER;2006;Female
+NL;GER;2KH;WJU20;6:30.98;;Schönbuchstadion;GER;Outdoor;2024-05-05;;Jule;Jutta Lindner;GER;2006;Female
+NL;GER;HAM;M;78.11;;Werferzentrum Brandberge;GER;Outdoor;2024-05-25;;Merlin;Hummel;GER;2002;Male
+NL;GER;300;WJU20;39.71;;Schönbuchstadion;GER;Outdoor;2024-05-05;;Lilith;Belau;GER;2007;Female
+NL;GER;STA;W;4.55;;Quarterback Immobilien Arena;GER;Indoor;2024-02-18;;Anjuli;Knäsche;GER;1993;Female
+NL;GER;11H;M;13.36;0.9;Stadion Manfort;GER;Outdoor;2024-05-25;;Manuel;Mordi;GER;2003;Male
+NL;GER;3K0;M;7:40.01;;Olympiastadion;SWE;Outdoor;2024-06-02;;Sam;Parsons;GER;1994;Male
+NL;GER;3K0;WJU20;9:15.67;;Stadion Hacheney;GER;Outdoor;2024-04-27;;Vanessa;Mikitenko;GER;2005;Female
+NL;GER;60M;M;6.54;;Atletická hala;CZE;Indoor;2024-01-30;;Joshua;Hartmann;GER;1999;Male
+NL;GER;300;M;32.63;;McArthur Stadium;RSA;Outdoor;2024-01-30;;Jean;Paul Bredau;GER;1999;Male
+NL;GER;HOC;M;2.3;;Športová hala Dukla;SVK;Indoor;2024-02-13;;Tobias;Potye;GER;1995;Male
+NL;GER;1K0;WJU20;2:45.00;;Stadion Hacheney;GER;Outdoor;2024-04-27;;Jana;Marie Becker;GER;2006;Female
+NL;GER;DRE;W;14.15;;Leichtathletikhallen Manfort;GER;Indoor;2024-01-20;;Jessie;Maduka;GER;1996;Female
+NL;GER;MEI;W;4:35.93;;Track & Field complex QAZAQSTAN;KAZ;Indoor;2024-01-27;;Vera;Coutellier;GER;1995;Female
+NL;GER;WEI;M;8.18;;Halle Stéphane Diagana;FRA;Indoor;2024-02-09;;Simon;Batz;GER;2002;Male
+NL;GER;2K0;WJU20;6:33.98;;Sportzentrum Kalbach;GER;Indoor;2024-02-11;;Luise;Brzoska;GER;;Female
+NL;GER;1K0;MJU20;2:27.55;;Stadion Hacheney;GER;Outdoor;2024-04-27;;Louis;Buschbeck;GER;2005;Male
+NL;GER;STA;WJU20;4.2;;Helmut-Körnig-Halle;GER;Indoor;2024-02-24;;Anna;Hiesinger;GER;;Female
 NL;GER;3KH;W;9:16.24;;Suzhou Olympic Sports Centre;CHN;Outdoor;2024-04-27;;Gesa;Felicitas Krause;GER;1992;Female
+NL;GER;HAM;W;69.87;;Sportplatz Langenbrand;GER;Outdoor;2024-05-12;;Samantha;Borutta;GER;2000;Female
+NL;GER;4×1;WJU20;44.2;;Universitätsstadion Am Biopark;GER;Outdoor;2024-05-25;;;;GER;;Female
+NL;GER;SPE;W;59.63;;ETSV Stadion;GER;Outdoor;2024-05-12;;Christin;Hussong;GER;1994;Female
+NL;GER;100;W;11.06;1.6;National Training Center;USA;Outdoor;2024-05-11;;Gina;Lückenkemper;GER;1996;Female
+NL;GER;600;W;1:26.64;;Schönbuchstadion;GER;Outdoor;2024-05-05;;Lisa;Sophie Hartmann;GER;1999;Female
+NL;GER;2KH;M;5:26.22;;Schönbuchstadion;GER;Outdoor;2024-05-05;;Niklas;Buchholz;GER;1998;Male
+NL;GER;DRE;M;17.03;;Quarterback Immobilien Arena;GER;Indoor;2024-02-17;;Max;Heß;GER;1996;Male
+NL;GER;3KH;MJU20;8:58.86;;Carl-Kaufmann-Stadion;GER;Outdoor;2024-05-11;;Paul;Walochny;GER;2005;Male
+NL;GER;10K;W;31:56.58;;Sportpark Orsbeck;GER;Outdoor;2024-05-04;;Eva;Dieterich;GER;1999;Female
+NL;GER;1K5;M;3:32.20;;Bislett Stadion;NOR;Outdoor;2024-05-30;;Robert;Farken;GER;1997;Male
+NL;GER;3G;WJU20;13:06.45;;Helmut-Körnig-Halle;GER;Indoor;2024-02-24;;Kylie;Garreis;GER;2005;Female
+NL;GER;800;MJU20;1:49.69;;TSV Stadion;GER;Outdoor;2024-05-25;;Louis;Buschbeck;GER;2005;Male
+NL;GER;60H;W;8.08;;Quarterback Immobilien Arena;GER;Indoor;2024-02-17;;Rosina;Schneider;GER;2004;Female
+NL;GER;400;MJU20;47.22;;Universitätsstadion Am Biopark;GER;Outdoor;2024-05-25;;Max;Husemann;GER;2005;Male
+NL;GER;100;M;10.08;1.9;Stadion Manfort;GER;Outdoor;2024-05-25;;Yannick;Wolf;GER;2000;Male
+NL;GER;HAM;MJU20;55.83;;Stade Henri Lux;FRA;Outdoor;2024-05-12;;Max;Baier;GER;;Male
+NL;GER;DIS;M;69.09;;Jahnstadion;GER;Outdoor;2024-05-22;;Clemens;Prüfer;GER;1997;Male
+NL;GER;400;WJU20;52.55;;Quarterback Immobilien Arena;GER;Indoor;2024-02-17;;Johanna;Martin;GER;2006;Female
+NL;GER;5K0;WJU20;16:14.32;;Sportpark Orsbeck;GER;Outdoor;2024-05-04;;Adia;Budde;GER;2005;Female
+NL;GER;HOC;W;1.95;;Sporthalle Küllenhahn;GER;Indoor;2024-01-26;;Christina;Honsel;GER;1997;Female
+NL;GER;200;W;23.05;0.8;Enwag-Stadion;GER;Outdoor;2024-05-18;;Talea;Prepens;GER;2001;Female
 NL;GER;60H;M;7.65;;Mercedes-Benz Arena;GER;Indoor;2024-02-23;;Manuel;Mordi;GER;2003;Male
 NL;GER;1K5;W;4:06.71;;Bungertstadion;GER;Outdoor;2024-05-19;;Gesa;Felicitas Krause;GER;1992;Female
-NL;GER;4×2;M;1:25.40;;Quarterback Immobilien Arena;GER;Indoor;2024-02-18;;;;GER;;Male
-NL;GER;DIS;W;67.31;;Helmut-Schön-Sportpark;GER;Outdoor;2024-05-11;;Marike;Steinacker;GER;1992;Female
-NL;GER;60M;M;6.54;;Atletická hala;CZE;Indoor;2024-01-30;;Joshua;Hartmann;GER;1999;Male
-NL;GER;4×4;W;3:32.04;;The Bahamas National Stadium;BAH;Outdoor;2024-05-04;;;;GER;;Female
-NL;GER;50H;W;7.99;;GSG9-Halle;AUT;Indoor;2024-01-16;;Lena;Schröder;GER;1999;Female
-NL;GER;3G;W;13:06.45;;Helmut-Körnig-Halle;GER;Indoor;2024-02-24;;Kylie;Garreis;GER;2005;Female
-NL;GER;STA;M;5.82;;Stadion Manfort;GER;Outdoor;2024-05-25;;Torben;Blech;GER;1995;Male
-NL;GER;200;M;20.36;1.7;Suhaim bin Hamad Stadium;QAT;Outdoor;2024-05-10;;Joshua;Hartmann;GER;1999;Male
-NL;GER;HOC;W;1.95;;Sporthalle Küllenhahn;GER;Indoor;2024-01-26;;Christina;Honsel;GER;1997;Female
-NL;GER;2KH;W;6:13.15;;Schönbuchstadion;GER;Outdoor;2024-05-05;;Gesa;Felicitas Krause;GER;1992;Female
-NL;GER;MEI;W;4:35.93;;Track & Field complex QAZAQSTAN;KAZ;Indoor;2024-01-27;;Vera;Coutellier;GER;1995;Female
-NL;GER;4×1;W;42.72;;The Bahamas National Stadium;BAH;Outdoor;2024-05-04;;;;GER;;Female
-NL;GER;KUG;W;20.19;;Glasgow Arena;GBR;Indoor;2024-03-01;;Yemisi;Ogunleye;GER;1998;Female
-NL;GER;100;M;10.08;1.9;Stadion Manfort;GER;Outdoor;2024-05-25;;Yannick;Wolf;GER;2000;Male
-NL;GER;4×4;X;3:13.85;;The Bahamas National Stadium;BAH;Outdoor;2024-05-05;;;;GER;;Mixed
-NL;GER;WEI;W;6.95;;Mercedes-Benz Arena;GER;Indoor;2024-02-23;;Malaika;Mihambo;GER;1994;Female
-NL;GER;400;W;52.44;;Mestský Stadion Sletište;CZE;Outdoor;2024-05-22;;Skadi;Schier;GER;2000;Female
-NL;GER;4×2;W;1:35.42;;Quarterback Immobilien Arena;GER;Indoor;2024-02-18;;;;GER;;Female
-NL;GER;1K0;M;2:21.00;;Schönbuchstadion;GER;Outdoor;2024-05-05;;Adrian;Engstler;GER;2002;Male
-NL;GER;4×4;M;3:01.25;;The Bahamas National Stadium;BAH;Outdoor;2024-05-04;;;;GER;;Male
-NL;GER;600;M;1:18.27;;Sportzentrum Kalbach;GER;Indoor;2024-01-27;;Malik;Skupin-Alfa;GER;2004;Male
-NL;GER;DRE;W;14.15;;Leichtathletikhallen Manfort;GER;Indoor;2024-01-20;;Jessie;Maduka;GER;1996;Female
-NL;GER;3KH;M;8:16.84;;Stadion Śląski;POL;Outdoor;2024-05-18;;Karl;Bebendorf;GER;1996;Male
-NL;GER;5G;W;24:54.74;;Sportzentrum Kalbach;GER;Indoor;2024-01-27;;Tabea;Kiefer;GER;2005;Female
-NL;GER;2K0;W;6:33.98;;Sportzentrum Kalbach;GER;Indoor;2024-02-11;;Luise;Brzoska;GER;;Female
-NL;GER;1K5;M;3:32.20;;Bislett Stadion;NOR;Outdoor;2024-05-30;;Robert;Farken;GER;1997;Male
-NL;GER;3K0;W;9:01.77;;Glaspalast;GER;Indoor;2024-01-28;;Eva;Dieterich;GER;1999;Female
-NL;GER;KUG;M;20.25;;Werferzentrum Brandberge;GER;Outdoor;2024-05-25;;Silas;Ristl;GER;1995;Male
-NL;GER;5K0;W;15:01.14;;Sportcomplex De Leidse Hout;NED;Outdoor;2024-05-25;;Hanna;Klein;GER;1993;Female
-NL;GER;100;W;11.06;1.6;National Training Center;USA;Outdoor;2024-05-11;;Gina;Lückenkemper;GER;1996;Female
-NL;GER;3K0;M;7:43.15;;The Track at New Balance;USA;Indoor;2024-02-04;;Maximilian;Thorwirth;GER;1995;Male
-NL;GER;11H;M;13.36;0.9;Stadion Manfort;GER;Outdoor;2024-05-25;;Manuel;Mordi;GER;2003;Male
-NL;GER;HAM;M;78.11;;Werferzentrum Brandberge;GER;Outdoor;2024-05-25;;Merlin;Hummel;GER;2002;Male
-NL;GER;HOC;M;2.3;;Športová hala Dukla;SVK;Indoor;2024-02-13;;Tobias;Potye;GER;1995;Male
-NL;GER;4×1;M;38.57;;The Bahamas National Stadium;BAH;Outdoor;2024-05-05;;;;GER;;Male
-NL;GER;10K;W;31:56.58;;Sportpark Orsbeck;GER;Outdoor;2024-05-04;;Eva;Dieterich;GER;1999;Female
-NL;GER;WEI;M;8.18;;Halle Stéphane Diagana;FRA;Indoor;2024-02-09;;Simon;Batz;GER;2002;Male
-NL;GER;HAM;W;69.87;;Sportplatz Langenbrand;GER;Outdoor;2024-05-12;;Samantha;Borutta;GER;2000;Female
-NL;GER;SPE;M;90.2;;Werferzentrum Brandberge;GER;Outdoor;2024-02-25;;Max;Dehning;GER;2004;Male
-NL;GER;800;M;1:46.15;;Carl-Kaufmann-Stadion;GER;Outdoor;2024-05-11;;Marius;Probst;GER;1995;Male
-NL;GER;60M;W;7.2;;ISS Dome;GER;Indoor;2024-02-04;;Alexandra;Burghardt;GER;1994;Female
-NL;GER;300;M;32.63;;McArthur Stadium;RSA;Outdoor;2024-01-30;;Jean;Paul Bredau;GER;1999;Male
-NL;GER;60H;W;8.08;;Quarterback Immobilien Arena;GER;Indoor;2024-02-17;;Rosina;Schneider;GER;2004;Female
-NL;GER;200;W;23.05;0.8;Enwag-Stadion;GER;Outdoor;2024-05-18;;Talea;Prepens;GER;2001;Female
-NL;GER;40H;M;48.9;;Stade Delort;FRA;Outdoor;2024-05-22;;Joshua;Abuaku;GER;1996;Male
-NL;GER;SPE;W;59.63;;ETSV Stadion;GER;Outdoor;2024-05-12;;Christin;Hussong;GER;1994;Female
-NL;GER;800;W;2:00.88;;Carl-Kaufmann-Stadion;GER;Outdoor;2024-05-11;;Majtie;Kolberg;GER;1999;Female
-NL;GER;MEI;M;3:59.93;;Boston Univ. Track & Tennis Center;USA;Indoor;2024-02-10;;Paul;Specht;GER;2002;Male
+NL;GER;DRE;WJU20;13.14;0.2;Helmut-Schön-Sportpark;GER;Outdoor;2024-05-04;;Josie;Krone;GER;2005;Female
+NL;GER;DRE;MJU20;15.8;1.5;Stadion Bodenbacher Straße;GER;Outdoor;2024-05-11;;Steven;Freund;GER;2005;Male
+NL;GER;SPE;WJU20;55.72;;ETSV Stadion;GER;Outdoor;2024-05-12;;Mirja;Lukas;GER;2005;Female
 NL;GER;1K0;W;2:37.96;;Schönbuchstadion;GER;Outdoor;2024-05-05;;Gesa;Felicitas Krause;GER;1992;Female
-NL;GER;600;W;1:26.64;;Schönbuchstadion;GER;Outdoor;2024-05-05;;Lisa;Sophie Hartmann;GER;1999;Female
-NL;GER;10H;W;12.99;1.1;National Training Center;USA;Outdoor;2024-04-20;;Ricarda;Lobe;GER;1994;Female
-NL;GER;5G;M;21:36.52;;Helmut-Körnig-Halle;GER;Indoor;2024-02-24;;Nick;Joel Richardt;GER;2006;Male
-NL;GER;2KH;M;5:26.22;;Schönbuchstadion;GER;Outdoor;2024-05-05;;Niklas;Buchholz;GER;1998;Male
-NL;GER;3G;M;10:44.00;;Hartwig-Gauder-Halle;GER;Indoor;2024-02-02;;Christopher;Linke;GER;1988;Male
+NL;GER;KUG;M;20.25;;Werferzentrum Brandberge;GER;Outdoor;2024-05-25;;Silas;Ristl;GER;1995;Male
+NL;GER;4×2;W;1:35.42;;Quarterback Immobilien Arena;GER;Indoor;2024-02-18;;;;GER;;Female
 NL;GER;400;M;45.42;;Stade Delort;FRA;Outdoor;2024-05-22;;Jean;Paul Bredau;GER;1999;Male
-NL;GER;DIS;M;69.09;;Jahnstadion;GER;Outdoor;2024-05-22;;Clemens;Prüfer;GER;1997;Male
-NL;GER;40H;W;55.58;;Elzstadion;GER;Outdoor;2024-05-09;;Carolina;Krafzik;GER;1995;Female
+NL;GER;400;W;52.44;;Mestský Stadion Sletište;CZE;Outdoor;2024-05-22;;Skadi;Schier;GER;2000;Female
+NL;GER;3KH;WJU20;9:51.00;;Sportanlage an der Kanalstraße;GER;Outdoor;2024-05-19;;Adia;Budde;GER;2005;Female
+NL;GER;5G;W;24:54.74;;Sportzentrum Kalbach;GER;Indoor;2024-01-27;;Tabea;Kiefer;GER;2005;Female
+NL;GER;HOC;MJU20;2.07;;Sportleistungszentrum;GER;Indoor;2024-02-11;;Jason;Lee Hoppe;GER;2006;Male
+NL;GER;KUG;WJU20;15.76;;LA-Halle Brandberge;GER;Indoor;2024-02-24;;Chantal;Rimke;GER;2005;Female
+NL;GER;4×1;W;42.72;;The Bahamas National Stadium;BAH;Outdoor;2024-05-04;;;;GER;;Female
+NL;GER;4×4;M;3:01.25;;The Bahamas National Stadium;BAH;Outdoor;2024-05-04;;;;GER;;Male
+NL;GER;5K0;W;15:01.14;;Sportcomplex De Leidse Hout;NED;Outdoor;2024-05-25;;Hanna;Klein;GER;1993;Female
+NL;GER;3G;W;13:06.45;;Helmut-Körnig-Halle;GER;Indoor;2024-02-24;;Kylie;Garreis;GER;2005;Female
+NL;GER;40H;WJU20;59.74;;Gibson Track & Field Complex;USA;Outdoor;2024-05-12;;Anouk;Krause-Jentsch;GER;2005;Female
+NL;GER;100;WJU20;11.47;0.0;Universitätsstadion Am Biopark;GER;Outdoor;2024-05-25;;Chelsea;Kadiri;GER;2005;Female
+NL;GER;200;WJU20;23.72;1.1;Universitätsstadion Am Biopark;GER;Outdoor;2024-05-25;;Pauline;Richter;GER;2007;Female
+NL;GER;3K0;MJU20;8:18.43;;Stadion Hacheney;GER;Outdoor;2024-04-27;;Tristan;Kaufhold;GER;2006;Male
 NL;GER;300;W;37.43;;McArthur Stadium;RSA;Outdoor;2024-01-30;;Corinna;Schwab;GER;1999;Female
-NL;GER;STA;W;4.55;;Quarterback Immobilien Arena;GER;Indoor;2024-02-18;;Anjuli;Knäsche;GER;1993;Female
-NL;GER;5K0;M;13:10.50;;Boudewijnstadion;BEL;Outdoor;2024-05-25;;Maximilian;Thorwirth;GER;1995;Male
+NL;GER;1K5;MJU20;3:46.44;;TSV Stadion;GER;Outdoor;2024-05-25;;Tobias;Tent;GER;2005;Male
+NL;GER;HAM;WJU20;63.03;;Terrain de Sport;FRA;Outdoor;2024-06-01;;Johanna;Marrwitz;GER;2006;Female
+NL;GER;1K5;WJU20;4:07.44;;Bungertstadion;GER;Outdoor;2024-05-19;;Jolanda;Kallabis;GER;2005;Female
+NL;GER;1K0;M;2:21.00;;Schönbuchstadion;GER;Outdoor;2024-05-05;;Adrian;Engstler;GER;2002;Male
+NL;GER;60M;MJU20;6.84;;Leichtathletikhalle im Sportforum;GER;Indoor;2024-01-20;;Louis;Schuster;GER;2007;Male
+NL;GER;100;MJU20;10.5;0.4;Universitätsstadion Am Biopark;GER;Outdoor;2024-05-25;;Milian;Zirbus;GER;2005;Male
+NL;GER;10K;MJU20;32:16.18;;Rock Chalk Park;USA;Outdoor;2024-04-18;;Lukas;Mehl;GER;;Male
+NL;GER;SPE;MJU20;70.56;;ETSV Stadion;GER;Outdoor;2024-05-12;;Florian;Schmid;GER;2005;Male
+NL;GER;200;M;20.36;1.7;Suhaim bin Hamad Stadium;QAT;Outdoor;2024-05-10;;Joshua;Hartmann;GER;1999;Male
+NL;GER;MEI;WJU20;5:00.58;;Dempsey Indoor;USA;Indoor;2024-02-10;;Bianca;Böhnke;GER;2005;Female
+NL;GER;2KH;W;6:13.15;;Schönbuchstadion;GER;Outdoor;2024-05-05;;Gesa;Felicitas Krause;GER;1992;Female
+NL;GER;60H;MJU20;8.86;;Sportforum;GER;Indoor;2024-01-27;;Aidan;Ballaschke;GER;;Male
+NL;GER;3K0;W;9:01.77;;Glaspalast;GER;Indoor;2024-01-28;;Eva;Dieterich;GER;1999;Female
+NL;GER;STA;MJU20;5.55;;Helmut-Körnig-Halle;GER;Indoor;2024-02-24;;Hendrik;Müller;GER;2005;Male
+NL;GER;10H;W;12.99;1.1;National Training Center;USA;Outdoor;2024-04-20;;Ricarda;Lobe;GER;1994;Female
+NL;GER;WEI;MJU20;7.77;;Helmut-Körnig-Halle;GER;Indoor;2024-02-25;;Simon;Plitzko;GER;2005;Male
+NL;GER;300;MJU20;33.74;;Schönbuchstadion;GER;Outdoor;2024-05-05;;Lucien;Berger;GER;2006;Male
+NL;GER;3G;MJU20;11:59.46;;Hartwig-Gauder-Halle;GER;Indoor;2024-02-02;;Frederick;Weigel;GER;2005;Male
+NL;GER;4×1;M;38.57;;The Bahamas National Stadium;BAH;Outdoor;2024-05-05;;;;GER;;Male
+NL;GER;40H;M;48.9;;Stade Delort;FRA;Outdoor;2024-05-22;;Joshua;Abuaku;GER;1996;Male
+NL;GER;2KH;MJU20;5:46.17;;Stadion Hacheney;GER;Outdoor;2024-04-27;;Jonas;Patri;GER;2005;Male
+NL;GER;3KH;M;8:16.84;;Stadion Śląski;POL;Outdoor;2024-05-18;;Karl;Bebendorf;GER;1996;Male
+NL;GER;5G;WJU20;24:54.74;;Sportzentrum Kalbach;GER;Indoor;2024-01-27;;Tabea;Kiefer;GER;2005;Female
 NL;GER;10K;M;27:41.92;;Parliament Hill Fields Athletics Track;GBR;Outdoor;2024-05-18;;Nils;Voigt;GER;1997;Male
+NL;GER;60M;WJU20;7.29;;Quarterback Immobilien Arena;GER;Indoor;2024-02-17;;Chelsea;Kadiri;GER;2005;Female
+NL;GER;40H;MJU20;53.05;;Universitätsstadion Am Biopark;GER;Outdoor;2024-05-25;;Niklas;Amthor;GER;2005;Male
+NL;GER;5G;MJU20;21:36.52;;Helmut-Körnig-Halle;GER;Indoor;2024-02-24;;Nick;Joel Richardt;GER;2006;Male
+NL;GER;STA;M;5.82;;Stadion Manfort;GER;Outdoor;2024-05-25;;Torben;Blech;GER;1995;Male
+NL;GER;DIS;WJU20;57.66;;Jahnstadion;GER;Outdoor;2024-05-22;;Curly;Brown;GER;2006;Female
+NL;GER;3G;M;10:44.00;;Hartwig-Gauder-Halle;GER;Indoor;2024-02-02;;Christopher;Linke;GER;1988;Male
+NL;GER;MEI;M;3:59.93;;Boston Univ. Track & Tennis Center;USA;Indoor;2024-02-10;;Paul;Specht;GER;2002;Male
+NL;GER;5K0;MJU20;14:14.42;;Carl-Kaufmann-Stadion;GER;Outdoor;2024-05-11;;Viktor;Plümacher;GER;2005;Male
+NL;GER;800;W;2:00.88;;Carl-Kaufmann-Stadion;GER;Outdoor;2024-05-11;;Majtie;Kolberg;GER;1999;Female
+NL;GER;2K0;W;6:33.98;;Sportzentrum Kalbach;GER;Indoor;2024-02-11;;Luise;Brzoska;GER;;Female
+NL;GER;4×2;M;1:25.40;;Quarterback Immobilien Arena;GER;Indoor;2024-02-18;;;;GER;;Male
+NL;GER;4×4;W;3:32.04;;The Bahamas National Stadium;BAH;Outdoor;2024-05-04;;;;GER;;Female
+NL;GER;MEI;MJU20;4:13.80;;Norton Sports Center;USA;Indoor;2024-02-02;;Hauke;Trost;GER;2005;Male
+NL;GER;600;MJU20;1:18.91;;Stadion Hacheney;GER;Outdoor;2024-04-27;;Nico;Hörnke;GER;;Male
+NL;GER;800;WJU20;2:02.68;;TSV Stadion;GER;Outdoor;2024-05-25;;Jana;Marie Becker;GER;2006;Female
+NL;GER;600;WJU20;1:33.02;;Stadion Hacheney;GER;Outdoor;2024-04-27;;Vanda;Skupin-Alfa;GER;2005;Female
+NL;GER;800;M;1:46.15;;Carl-Kaufmann-Stadion;GER;Outdoor;2024-05-11;;Marius;Probst;GER;1995;Male
+NL;GER;HOC;WJU20;1.86;;Universitätsstadion Am Biopark;GER;Outdoor;2024-05-25;;Johanna;Göring;GER;2005;Female
+NL;GER;600;M;1:18.27;;Sportzentrum Kalbach;GER;Indoor;2024-01-27;;Malik;Skupin-Alfa;GER;2004;Male
+NL;GER;5K0;M;13:10.50;;Boudewijnstadion;BEL;Outdoor;2024-05-25;;Maximilian;Thorwirth;GER;1995;Male
+NL;GER;50H;W;7.99;;GSG9-Halle;AUT;Indoor;2024-01-16;;Lena;Schröder;GER;1999;Female
+NL;GER;60M;W;7.2;;ISS Dome;GER;Indoor;2024-02-04;;Alexandra;Burghardt;GER;1994;Female
+NL;GER;WEI;W;6.95;;Mercedes-Benz Arena;GER;Indoor;2024-02-23;;Malaika;Mihambo;GER;1994;Female
+NL;GER;60H;WJU20;8.4;;Helmut-Körnig-Halle;GER;Indoor;2024-02-24;;Pia;Meßing;GER;2005;Female
+NL;GER;40H;W;55.58;;Elzstadion;GER;Outdoor;2024-05-09;;Carolina;Krafzik;GER;1995;Female
