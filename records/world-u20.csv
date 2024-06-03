@@ -1,0 +1,15 @@
+code;type;discipline;class;result;wind;venue;venueCountry;environment;date;name;firstname;lastname;nation;yearOfBirth;sex
+WRU20;;HOC;M;2.37;;Plovdiv;BUL;Outdoor;1990-08-12;Dragutin Topić;;;YUG;1971;Male
+WRU20;;HOC;M;2.37;;Jamsil, Seoul;KOR;Outdoor;1992-09-20;Steve Smith;;;GBR;1973;Male
+WRU20;;SPE;M;86.48;;Bydgoszcz;POL;Outdoor;2016-07-23;Neeraj Chopra;;;IND;1997;Male
+WRU20;;WEI;M;8.35;1.1;Cheboksary;RUS;Outdoor;2012-06-20;Sergey Morgunov;;;RUS;1993;Male
+WRU20;;STA;M;6.05;;Berlin;GER;Outdoor;2018-08-12;Armand Duplantis;;;SWE;1999;Male
+WRU20;;DRE;M;17.54;;Albuquerque;USA;Indoor;2023-03-11;Jaydon Hibbert;;;JAM;2005;Male
+WRU20;;DIS;W;74.40;;Berlin;GER;Outdoor;1988-09-13;Ilke Wyludda;;;GDR;1969;Female
+WRU20;;HAM;W;73.43;;Vaasa;FIN;Outdoor;2021-06-28;Silja Kosonen;;;FIN;2002;Female
+WRU20;;HOC;W;2.04;;Doha;QAT;Outdoor;2019-09-30;Yaroslava Mahuchikh;;;UKR;2001;Female
+WRU20;;SPE;W;63.86;;Edmonton;CAN;Outdoor;2015-08-02;Yulenmis Aguilar;;;CUB;1996;Female
+WRU20;;WEI;W;7.14;1.1;Bratislava;TCH;Outdoor;1983-06-04;Heike Daute;;;GDR;1964;Female
+WRU20;;KUG;W;20.54;;Orimattila;FIN;Outdoor;1989-07-01;Astrid Kumbernuss;;;GDR;1970;Female
+WRU20;;DRE;W;14.62;1.0;Sydney;AUS;Outdoor;1996-08-25;Tereza Marinova;;;BUL;1977;Female
+WRU20;;STA;W;4.71;;Zweibrücken;GER;Indoor;2016-01-31;Wilma Murto;;;FIN;1998;Female
