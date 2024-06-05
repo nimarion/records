@@ -42,6 +42,9 @@ def getRecords(sex, indoor=False):
             valid_columns.append(col)
     df = df[valid_columns]
 
+    df = df.rename(columns={'result': 'Result', 'venue': 'Venue', 'venueCountry': 'Venue Country',
+                            'date': 'Date', 'name': 'Name', 'yearOfBirth': 'YOB', 'sex': 'Sex', 'environment': 'Environment', 'discipline': 'Discipline', 'wind': 'Wind', 'nation': 'Nation'})
+
     return df
 
 
@@ -52,7 +55,7 @@ womenIndoorRecords = getRecords('women', True)
 df = pd.concat([menOutdoorRecords, womenOutdoorRecords,
                menIndoorRecords, womenIndoorRecords])
 
-df["type"] = "WR"
+df["Record Type"] = "WR"
 
 output_dir = os.path.dirname('tmp/worldrecords/worldrecords.csv')
 if not os.path.exists(output_dir):

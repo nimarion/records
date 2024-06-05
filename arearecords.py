@@ -26,7 +26,7 @@ def getRecords(sex, indoor=False):
         disciplineDf['sex'] = "Male" if sex == "men" else "Female"
         df = pd.concat([df, disciplineDf])
 
-    df = df.rename(columns={'rowTitle': 'area', 'country': 'nation'})
+    df = df.rename(columns={'rowTitle': 'Area', 'country': 'nation'})
     df['environment'] = df.apply(determine_environment, axis=1)
 
     if indoor:
@@ -35,7 +35,7 @@ def getRecords(sex, indoor=False):
         df = df[df['environment'] == "Outdoor"]
 
     df['result'] = df['result'].str.replace(r'[^0-9:.]', '', regex=True)
-    desired_columns = ['result', 'discipline', 'area', 'wind', 'nation', 'venue',
+    desired_columns = ['result', 'discipline', 'Area', 'wind', 'nation', 'venue',
                        'venueCountry', 'date', 'name', 'yearOfBirth', 'sex', 'event', 'type', 'environment']
 
     valid_columns = []
@@ -44,6 +44,9 @@ def getRecords(sex, indoor=False):
         if col in df.columns:
             valid_columns.append(col)
     df = df[valid_columns]
+
+    df = df.rename(columns={'result': 'Result', 'venue': 'Venue', 'venueCountry': 'Venue Country',
+                            'date': 'Date', 'name': 'Name', 'yearOfBirth': 'YOB', 'sex': 'Sex', 'environment': 'Environment', 'discipline': 'Discipline', 'wind': 'Wind', 'nation': 'Nation'})
     
     return df
 
@@ -56,7 +59,7 @@ womenIndoorRecords = getRecords('women', True)
 df = pd.concat([menOutdoorRecords, womenOutdoorRecords,
                menIndoorRecords, womenIndoorRecords])
 
-df["type"] = "AR"
+df["Record Type"] = "AR"
 
 output_dir = os.path.dirname('tmp/arearecords/arearecords.csv')
 if not os.path.exists(output_dir):

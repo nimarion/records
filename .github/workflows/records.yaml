@@ -26,10 +26,10 @@ jobs:
           python cleanup.py --input tmp/nationalrecords
           python cleanup.py --input tmp/arearecords
           python cleanup.py --input tmp/u20worldrecords.csv
-          python taf.py --input tmp/nationalrecords --output records/national.csv
-          python taf.py --input tmp/worldrecords --output records/world.csv
-          python taf.py --input tmp/arearecords --output records/area.csv
-          python taf.py --input tmp/u20worldrecords.csv --output records/world-u20.csv
+          python taf.py --input tmp/nationalrecords --output records/national.csv --mapping tilastopaja_nr --ageGroup senior
+          python taf.py --input tmp/worldrecords --output records/world.csv --mapping tilastopaja_wr_ar --ageGroup senior
+          python taf.py --input tmp/arearecords --output records/area.csv --mapping tilastopaja_wr_ar --ageGroup senior
+          python taf.py --input tmp/u20worldrecords.csv --output records/world-u20.csv --mapping worldathletics_records --ageGroup JU20
           git config user.name Github Action
           git config user.email actions@github.com
           git add records/*

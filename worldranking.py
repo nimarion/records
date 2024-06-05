@@ -54,7 +54,7 @@ def get_url(type, discipline, sex, ageCategory, year, regionType, region, limitB
     return url
 
 
-def download_parse(url, discipline, sex, regionType, region, ageCategory):
+def download_parse(url, discipline, sex, regionType, region):
     response = requests.get(url)
     soup = BeautifulSoup(response.text, 'html.parser')
     table = soup.find('table', class_='records-table')
@@ -70,15 +70,13 @@ def download_parse(url, discipline, sex, regionType, region, ageCategory):
     else:
         df["Sex"] = "Female"
 
-    df["ageCategory"] = ageCategory
-
     df['Date'] = pd.to_datetime(df['Date'], format='%d %b %Y')
     if regionType == "countries":
-        df["Type"] = "NL"
+        df["Record Type"] = "NL"
     elif regionType == "area":
-        df["Type"] = "AL"
+        df["Record Type"] = "AL"
     elif regionType == "world":
-        df["Type"] = "WL"
+        df["Record Type"] = "WL"
 
     # Relays dont have DOB
     if 'DOB' in df.columns:
@@ -87,35 +85,26 @@ def download_parse(url, discipline, sex, regionType, region, ageCategory):
         df[['Firstname', 'Lastname']] = df['Competitor'].str.split(
             pat=' ', n=1, expand=True)
         df['Lastname'] = df['Lastname'].str.lower().str.title()
-        df['Age'] = df['Date'].dt.year - df['DOB'].dt.year
-        df["yearOfBirth"] = df['DOB'].dt.year
-    df = df.drop(columns=['Pos'])
+        df["YOB"] = df['DOB'].dt.year
 
-    df["RegionType"] = regionType
     if (region != None):
         df["Region"] = region
 
     df[['Country', 'City', 'Stadium']] = df['Venue'].apply(parse_venue)
-    df = df.rename(columns={
-                   'Mark': 'Result', 'Nat': 'Nation', 'WIND': 'Wind'})
 
     df["Environment"] = df["Venue"].apply(
         lambda x: "Indoor" if "(i)" in x else "Outdoor")
 
-    # drop Competitor
+    # Drop unused columns
     df = df.drop(columns=['Competitor', 'Results Score',
-                 'RegionType', 'DOB'], errors='ignore')
+                 'RegionType', 'DOB', 'Pos'], errors='ignore')
 
-    # all columns to lower case
-    df.columns = map(str.lower, df.columns)
-
-    # rename city to venueCity, country to venueCountry
     df = df.rename(columns={
-                   'city': 'venueCity', 'country': 'venueCountry', 'yearofbirth': 'yearOfBirth'})
+                   'City': 'Venue City', 'Country': 'Venue Country', 'Mark': 'Result', 'Nat': 'Nation', 'WIND': 'Wind'})
 
-    df['venue'] = df['venue'].apply(lambda x: x.split(' (', 1)[0])
-    df['venue'] = df['venue'].apply(lambda x: x.split(', ', 1)[0])
-    df['venue'] = df['venue'].apply(lambda x: x.strip())
+    df['Venue'] = df['Venue'].apply(lambda x: x.split(' (', 1)[0])
+    df['Venue'] = df['Venue'].apply(lambda x: x.split(', ', 1)[0])
+    df['Venue'] = df['Venue'].apply(lambda x: x.strip())
 
     return df
 
@@ -156,7 +145,7 @@ if __name__ == "__main__":
                   year, regionType, region, limitByCountry)
     print(url)
 
-    df = download_parse(url, discipline, sex, regionType, region, ageCategory)
+    df = download_parse(url, discipline, sex, regionType, region)
 
     if df is None:
         print("No data found")

@@ -71,60 +71,60 @@ if __name__ == '__main__':
         df = pd.read_csv(file)
         outputDf = pd.DataFrame()
 
-        df['result'] = df['result'].astype(str)
-        df['result'] = df['result'].str.replace(r'[^0-9:.]', '', regex=True)
+        df['Result'] = df['Result'].astype(str)
+        df['Result'] = df['Result'].str.replace(r'[^0-9:.]', '', regex=True)
         # remove leading : from result if present
-        df['result'] = df['result'].str.replace(r'^:', '', regex=True)
-        df['Performance'] = df['result'].apply(performance_to_float)
-        df["date"] = pd.to_datetime(df["date"], format='%Y-%m-%d')
+        df['Result'] = df['Result'].str.replace(r'^:', '', regex=True)
+        df['Performance'] = df['Result'].apply(performance_to_float)
+        df["Date"] = pd.to_datetime(df["Date"], format='%Y-%m-%d')
 
         arearecordCleanup = 'area' in df.columns
-        worldrecordCleanup = 'type' in df.columns and df['type'].str.contains(
+        worldrecordCleanup = 'Type' in df.columns and df['Type'].str.contains(
             'WR').any()
-        nationalrecordCleanup = 'type' in df.columns and df['type'].str.contains(
+        nationalrecordCleanup = 'Type' in df.columns and df['Type'].str.contains(
             'NR').any()
 
         for e in ["Outdoor", "Indoor"]:
-            dfEnvironment = df[df['environment'] == e]
+            dfEnvironment = df[df['Environment'] == e]
             for s in ["Male", "Female"]:
-                dfSex = dfEnvironment[dfEnvironment['sex'] == s]
-                technical_rows = dfSex[dfSex['discipline'].apply(
+                dfSex = dfEnvironment[dfEnvironment['Sex'] == s]
+                technical_rows = dfSex[dfSex['Discipline'].apply(
                     isTechnical)]
-                non_technical_rows = dfSex[~dfSex['discipline'].apply(
+                non_technical_rows = dfSex[~dfSex['Discipline'].apply(
                     isTechnical)]
 
                 if not technical_rows.empty:
                     if arearecordCleanup:
                         technical_rows = technical_rows.sort_values(
-                            ['discipline', 'area', 'Performance'], ascending=[True, True, False])
-                        technical_rows = technical_rows.groupby(['area', 'discipline']).apply(
+                            ['Discipline', 'Area', 'Performance'], ascending=[True, True, False])
+                        technical_rows = technical_rows.groupby(['Area', 'Discipline']).apply(
                             lambda x: x[x['Performance'] == x['Performance'].max()]).reset_index(drop=True)
                     elif worldrecordCleanup:
                         technical_rows = technical_rows.sort_values(
-                            ['discipline', 'Performance'], ascending=[True, False])
-                        technical_rows = technical_rows.groupby(['discipline']).apply(
+                            ['Discipline', 'Performance'], ascending=[True, False])
+                        technical_rows = technical_rows.groupby(['Discipline']).apply(
                             lambda x: x[x['Performance'] == x['Performance'].max()]).reset_index(drop=True)
                     elif nationalrecordCleanup:
                         technical_rows = technical_rows.sort_values(
-                            ['nation', 'Performance'], ascending=[True, False])
-                        technical_rows = technical_rows.groupby('nation').apply(
+                            ['Nation', 'Performance'], ascending=[True, False])
+                        technical_rows = technical_rows.groupby('Nation').apply(
                             lambda x: x[x['Performance'] == x['Performance'].max()]).reset_index(drop=True)
 
                 if not non_technical_rows.empty:
                     if arearecordCleanup:
                         non_technical_rows = non_technical_rows.sort_values(
-                            ['discipline', 'area', 'Performance'], ascending=[True, True, True])
-                        non_technical_rows = non_technical_rows.groupby(['area', 'discipline']).apply(
+                            ['Discipline', 'Area', 'Performance'], ascending=[True, True, True])
+                        non_technical_rows = non_technical_rows.groupby(['Area', 'Discipline']).apply(
                             lambda x: x[x['Performance'] == x['Performance'].min()]).reset_index(drop=True)
                     elif worldrecordCleanup:
                         non_technical_rows = non_technical_rows.sort_values(
-                            ['discipline', 'Performance'], ascending=[True, True])
-                        non_technical_rows = non_technical_rows.groupby(['discipline']).apply(
+                            ['Discipline', 'Performance'], ascending=[True, True])
+                        non_technical_rows = non_technical_rows.groupby(['Discipline']).apply(
                             lambda x: x[x['Performance'] == x['Performance'].min()]).reset_index(drop=True)
                     elif nationalrecordCleanup:
                         non_technical_rows = non_technical_rows.sort_values(
-                            ['nation', 'Performance'], ascending=[True, True])
-                        non_technical_rows = non_technical_rows.groupby('nation').apply(
+                            ['Nation', 'Performance'], ascending=[True, True])
+                        non_technical_rows = non_technical_rows.groupby('Nation').apply(
                             lambda x: x[x['Performance'] == x['Performance'].min()]).reset_index(drop=True)
 
                 outputDf = pd.concat(
@@ -132,19 +132,20 @@ if __name__ == '__main__':
 
         if arearecordCleanup:
             outputDf = outputDf.sort_values(
-                ['sex', 'environment', 'discipline',  'area', 'date'], ascending=[False, False, True, True, True]
+                ['Sex', 'Environment', 'Discipline',  'Area', 'Date'], ascending=[False, False, True, True, True]
             )
         elif worldrecordCleanup:
             outputDf = outputDf.sort_values(
-                ['sex', 'environment', 'discipline', 'date'], ascending=[False, False, True, True])
+                ['Sex', 'Environment', 'Discipline', 'Date'], ascending=[False, False, True, True])
         elif nationalrecordCleanup:
             outputDf = outputDf.sort_values(
-                ['environment', 'nation', 'date', 'name'], ascending=[False, True, True, True])
+                ['Environment', 'Nation', 'Date', 'Name'], ascending=[False, True, True, True])
         
         # remove state from venue eg New York BY or Eugene OR
-        outputDf['venue'] = outputDf['venue'].str.replace(r' ([A-Z]+)$', '', regex=True)
+        outputDf['Venue'] = outputDf['Venue'].str.replace(r' ([A-Z]+)$', '', regex=True)
         # eg from Stockholm/G to Stockholm, Göteborg/U to Göteborg 
-        outputDf['venue'] = outputDf['venue'].str.replace(r'/.*$', '', regex=True)
+        outputDf['Venue'] = outputDf['Venue'].str.replace(r'/.*$', '', regex=True)
+        outputDf['Venue'] = outputDf['Venue'].str.replace(r',$', '', regex=True)
 
         outputDf = outputDf.drop(columns=['Performance'])
 

@@ -11,10 +11,13 @@ if __name__ == '__main__':
         '--output', help='Output file', required=True)
     argparser.add_argument(
         '--ignore', help='Ignore files', required=False, default=["taf.csv"])
+    argparser.add_argument('--mapping', help='Mapping column', required=True)
+    argparser.add_argument('--ageGroup', help='Age group', choices=['senior', "JU20", "JU18"], required=True)
     args = argparser.parse_args()
 
     disciplineMapping = pd.read_csv("mapping/disciplines.csv").astype(str)
     areaMapping = pd.read_csv("mapping/areas.csv").astype(str)
+    mappingColumn = args.mapping
 
     files = []
 
@@ -29,76 +32,69 @@ if __name__ == '__main__':
         if os.path.basename(file) in args.ignore:
             continue
         df = pd.read_csv(file).astype(str)
-        arearecordFile = 'type' in df.columns and df['type'].str.contains(
+        arearecordFile = 'Record Type' in df.columns and df['Record Type'].str.contains(
             'AR').any()
-        worldrecordFile = 'type' in df.columns and df['type'].str.contains(
+        worldrecordFile = 'Record Type' in df.columns and df['Record Type'].str.contains(
             'WR').any()
-        nationrecordFile = 'type' in df.columns and df['type'].str.contains(
+        nationalrecordFile = 'Record Type' in df.columns and df['Record Type'].str.contains(
             'NR').any()
-        arealeadFile = 'type' in df.columns and df['type'].str.contains(
+        arealeadFile = 'Record Type' in df.columns and df['Record Type'].str.contains(
             'AL').any()
-        worldleadFile = 'type' in df.columns and df['type'].str.contains(
+        worldleadFile = 'Record Type' in df.columns and df['Record Type'].str.contains(
             'WL').any()
-        nationleadFile = 'type' in df.columns and df['type'].str.contains(
+        nationalleadFile = 'Record Type' in df.columns and df['Record Type'].str.contains(
             'NL').any()
-        leadFile = arealeadFile or worldleadFile or nationleadFile
+        leadFile = arealeadFile or worldleadFile or nationalleadFile
 
-        df["discipline"] = df["discipline"].astype(str)
 
-        # map discipline to taf
-        if arearecordFile or worldrecordFile:
-            mapping = disciplineMapping[["tilastopaja_wr_ar", "taf"]]
-            mapping.columns = ["discipline", "taf"]
-            df = pd.merge(df, mapping, on="discipline", how="left")
-        elif nationrecordFile:
-            mapping = disciplineMapping[["tilastopaja_nr", "taf"]]
-            mapping.columns = ["discipline", "taf"]
-            mapping["discipline"] = mapping["discipline"].astype(str)
-            df = pd.merge(df, mapping, on="discipline", how="left")
-        elif leadFile:
-            mapping = disciplineMapping[["worldathletics_ranking", "taf"]]
-            mapping.columns = ["discipline", "taf"]
-            df = pd.merge(df, mapping, on="discipline", how="left")
+        # Map discipline to taf discipline code
+        mapping = disciplineMapping[[mappingColumn, "taf"]]
+        mapping.columns = ["Discipline", "taf"]
+        mapping["Discipline"] = mapping["Discipline"].astype(str)
+        df["Discipline"] = df["Discipline"].astype(str)
+        df = pd.merge(df, mapping, on="Discipline", how="left")
+        df = df.drop(columns=["Discipline"])
+        df = df.rename(columns={"taf": "Discipline"})
+        df = df.dropna(subset=["Discipline"])
 
-        df = df.drop(columns=["discipline"])
-        df = df.rename(columns={"taf": "discipline"})
-        df = df.dropna(subset=["discipline"])
+        # Rename record type to code
+        df = df.rename(columns={"Record Type": "Code"})
 
-        df = df.rename(columns={"type": "code"})
-
-        # map area to taf
+        # Map area to taf area code
         if arearecordFile or arealeadFile:
-            df["Country"] = df["nation"]
+            df["Country"] = df["Nation"]
             df = pd.merge(df, areaMapping, on="Country", how="left")
             df = df.drop(columns=["area", "Country"], errors="ignore")
-            df = df.rename(columns={"AreaId": "type"})
-            df["type"] = df["type"].fillna(0)
+            df = df.rename(columns={"AreaId": "Type"})
+            df["Type"] = df["Type"].fillna(0)
 
-        if nationleadFile or nationrecordFile:
-            df["type"] = df["nation"]
+        # Bei nationalen Rekorden und Bestleistungen wird die Nation als Typ verwendet 
+        # damit die Rekorde nur für Athleten aus dem eigenen Land angezeigt werden
+        if nationalleadFile or nationalrecordFile:
+            df["Type"] = df["Nation"]
 
         df = df.fillna("")
         df = df.replace("nan", "")
 
+        # Bei Bestleistungen wird nur der erste Eintrag verwendet
         if leadFile:
-            df = df[df["rank"] == "1"]
-            df = df.drop(columns=["rank", "region"], errors="ignore")
+            if "Rank" in df.columns:
+                df = df[df["Rank"] == "1"]
+            df = df.drop(columns=["Rank", "Region"], errors="ignore")
 
         outputDf = pd.concat([outputDf, df])
 
-    
+    outputDf['Class'] = outputDf['Sex'].apply(lambda x: 'M' if x == 'Male' else ('W' if x == 'Female' else 'X'))
+    if(args.ageGroup != 'senior'):
+        outputDf['Class'] = outputDf['Class'] + args.ageGroup
 
-    outputDf['class'] = outputDf['sex'].apply(lambda x: 'M' if x == 'Male' else ('W' if x == 'Female' else 'X'))
-    if 'agecategory' in outputDf.columns:
-        outputDf['class'] = outputDf['class'] + outputDf['agecategory'].apply(lambda x: 'JU20' if x == 'u20' else '')
+    if 'YOB' in outputDf.columns:
+        outputDf['YOB'] = outputDf['YOB'].fillna('').astype(str) 
+        outputDf['YOB'] = outputDf['YOB'].replace('', '-1') 
+        outputDf['YOB'] = outputDf['YOB'].astype(float).astype(int) 
+        outputDf['YOB'] = outputDf['YOB'].replace(-1, "") 
 
-    if 'yearOfBirth' in outputDf.columns:
-        outputDf['yearOfBirth'] = outputDf['yearOfBirth'].fillna('').astype(str) 
-        outputDf['yearOfBirth'] = outputDf['yearOfBirth'].replace('', '-1') 
-        outputDf['yearOfBirth'] = outputDf['yearOfBirth'].astype(float).astype(int) 
-        outputDf['yearOfBirth'] = outputDf['yearOfBirth'].replace(-1, "") 
-
-    desired_order = ['code', 'type', 'discipline', 'class', 'result', 'wind', 'venue', 'venueCountry', 'environment', 'date', 'name', 'firstname', 'lastname', 'nation', 'yearOfBirth', 'sex']
+    desired_order = ['Code', 'Type', 'Discipline', 'Class', 'Result', 'Wind', 'Venue', 'Venue Country', 'Environment', 'Date', 'Name', 'Firstname', 'Lastname', 'Nation', 'YOB', 'Sex']
     columns_to_drop = set(df.columns) - set(desired_order)
     outputDf = outputDf.drop(columns=columns_to_drop, errors="ignore")
 

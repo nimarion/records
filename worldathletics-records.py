@@ -44,11 +44,11 @@ def getRecords(category):
     for i, table in enumerate(tables):
         records = table
         if i == 0:
-            records['sex'] = "Female"
+            records['Sex'] = "Female"
         elif i == 1:
-            records['sex'] = "Male"
+            records['Sex'] = "Male"
         elif i == 2:
-            records["sex"] == "Mixed"
+            records['Sex'] = "Mixed"
         else:
             print(f"Unknown table with index {i}")
             continue    
@@ -59,14 +59,14 @@ def getRecords(category):
         df[['Firstname', 'Lastname']] = df['Competitor'].str.split(
             pat=' ', n=1, expand=True)
         df['Lastname'] = df['Lastname'].str.lower().str.title()
-        df['name'] = df['Firstname'] + ' ' + df['Lastname']
+        df['Name'] = df['Firstname'] + ' ' + df['Lastname']
         df.drop(columns=['Firstname', 'Lastname'], inplace=True, errors='ignore')
         df['DOB'] = pd.to_datetime(
             df['DOB'], format='%d %b %Y', errors='coerce')
-        df["yearOfBirth"] = df['DOB'].dt.year
-        df['yearOfBirth'] = df['yearOfBirth'].fillna('').astype(str) 
-        df['yearOfBirth'] = df['yearOfBirth'].replace('', '-1') 
-        df['yearOfBirth'] = df['yearOfBirth'].astype(float).astype(int) 
+        df["YOB"] = df['DOB'].dt.year
+        df['YOB'] = df['YOB'].fillna('').astype(str) 
+        df['YOB'] = df['YOB'].replace('', '-1') 
+        df['YOB'] = df['YOB'].astype(float).astype(int) 
 
     df["environment"] = df["Venue"].apply(
         lambda x: "Indoor" if "(i)" in x else "Outdoor")
@@ -80,13 +80,12 @@ def getRecords(category):
     df['venue'] = df['venue'].str.replace(r',$', '', regex=True)
     df['Date'] = pd.to_datetime(df['Date'], format='%d %b %Y')
 
-    df = df.drop(columns=['Progression'], errors='ignore')
-    df.rename(columns={'Perf': 'Progression', 'Discipline': 'discipline', 'Country': 'nation', 'Wind': 'wind'}, inplace=True, errors='ignore')
-    df = df.drop(columns=['DOB', 'stadium', 'Perf', 'Venue', 'Competitor'], errors='ignore')    
-    df.rename(columns={'Progression': 'result', 'Discipline': 'discipline', 'Country': 'nation', 'Wind': 'wind', 'Date': 'date'}, inplace=True, errors='ignore')
+    df.rename(columns={'Perf': 'Result'}, inplace=True, errors='ignore')
+    df = df.drop(columns=['DOB', 'stadium', 'Perf', 'Venue', 'Competitor', 'Progression'], errors='ignore')    
+    df.rename(columns={ 'Country': 'Nation'}, inplace=True, errors='ignore')
 
     # Pending ratification
-    df = df[~df['result'].str.contains(r'\*')]
+    df = df[~df['Result'].str.contains(r'\*')]
 
     return df
 
@@ -97,11 +96,11 @@ if __name__ == '__main__':
                            choices=['world-records', 'world-best-performances', 'world-u20-records', 'u18-world-best-performances', 'world-championships-in-athletics-records',
                                     'world-indoor-championships-records', 'world-u20-championships-records', 'world-u18-championships-records',
                                     'world-athletics-road-running-championships-records', 'world-half-marathon-championships-records', 'world-athletics-relays-records',
-                                    'world-championships-combined-best-performances', 'combined-best-performances', 'olympic-games-records', 'youth-olympic-games-records'])
+                                    'world-championships-combined-best-performances', 'combined-best-performances', 'olympic-games-records', 'youth-olympic-games-records', 'world-u20-leading-2024'])
     argparse.add_argument('--type', type=str, help='WRU20,WLU20,...', required=True)
                                                                                                     
     args = argparse.parse_args()
 
     df = getRecords(args.category)
-    df['type'] = args.type
+    df['Type'] = args.type
     df.to_csv(args.output, index=False)
