@@ -82,7 +82,7 @@ def getRecords(category):
 
     df.rename(columns={'Perf': 'Result'}, inplace=True, errors='ignore')
     df = df.drop(columns=['DOB', 'stadium', 'Perf', 'Venue', 'Competitor', 'Progression'], errors='ignore')    
-    df.rename(columns={ 'Country': 'Nation'}, inplace=True, errors='ignore')
+    df.rename(columns={ 'Country': 'Nation', 'environment': 'Environment', 'venue': 'Venue', 'venueCountry': 'Venue Country'}, inplace=True, errors='ignore')
 
     # Pending ratification
     df = df[~df['Result'].str.contains(r'\*')]

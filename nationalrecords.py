@@ -47,8 +47,8 @@ def saveRecords(df, output):
     if not os.path.exists(output_dir):
         os.makedirs(output_dir, exist_ok=True)
 
-    df = df.sort_values('date', ascending=True).drop_duplicates(subset=['result', 'name', 'nation'], keep='first')
-    df = df.sort_values('nation')
+    df = df.sort_values('Date', ascending=True).drop_duplicates(subset=['Result', 'Name', 'Nation'], keep='first')
+    df = df.sort_values('Nation')
 
     df.to_csv(output, index=False)
 
@@ -60,6 +60,8 @@ if __name__ == '__main__':
             print(f'Getting records for {discipline}')
             records = getRecords(sex, discipline)
             if records is not None:
+                records = records.rename(columns={'result': 'Result', 'venue': 'Venue', 'venueCountry': 'Venue Country',
+                            'date': 'Date', 'name': 'Name', 'yearOfBirth': 'YOB', 'sex': 'Sex', 'environment': 'Environment', 'discipline': 'Discipline', 'wind': 'Wind', 'nation': 'Nation'})
                 saveRecords(records, f'./tmp/nationalrecords/{sex}/{discipline}.csv')
             else:
                 print(f'No records found for {discipline}')
