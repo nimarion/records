@@ -19,17 +19,15 @@ jobs:
       - name: Run
         run: |
           python worldranking_downloader.py
-          python taf.py --input tmp/leads/country/ger/senior --output leads/germany-senior.csv --mapping worldathletics_ranking
-          python taf.py --input tmp/leads/world/senior --output leads/world-senior.csv --mapping worldathletics_ranking
-          python taf.py --input tmp/leads/area/senior --output leads/area-senior.csv --mapping worldathletics_ranking
+          python taf.py --input tmp/leads/country/ger/senior --output leads/germany-senior.csv --mapping worldathletics_ranking --ageGroup senior
+          python taf.py --input tmp/leads/world/senior --output leads/world-senior.csv --mapping worldathletics_ranking --ageGroup senior
+          python taf.py --input tmp/leads/area/senior --output leads/area-senior.csv --mapping worldathletics_ranking --ageGroup senior
           python taf.py --input tmp/leads/country/ger/u20 --output leads/germany-u20.csv -ageGroup JU20 --mapping worldathletics_ranking
           python taf.py --input tmp/leads/world/u20 --output leads/world-u20.csv -ageGroup JU20 --mapping worldathletics_ranking
           python taf.py --input tmp/leads/area/u20 --output leads/area-u20.csv --ageGroup JU20 --mapping worldathletics_ranking
           git config user.name Github Action
           git config user.email actions@github.com
-          git add leads/germany.csv
-          git add leads/world.csv
-          git add leads/area.csv
+          git add leads/*
           timestamp=$(date -u)
           git commit -m "update leads data: ${timestamp}" || exit 0
           git push

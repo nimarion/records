@@ -102,5 +102,5 @@ if __name__ == '__main__':
     args = argparse.parse_args()
 
     df = getRecords(args.category)
-    df['Type'] = args.type
+    df['Record Type'] = args.type
     df.to_csv(args.output, index=False)
