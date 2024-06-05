@@ -1,15 +1,50 @@
-code;type;discipline;class;result;wind;venue;venueCountry;environment;date;name;firstname;lastname;nation;yearOfBirth;sex
-WRU20;;HOC;M;2.37;;Plovdiv;BUL;Outdoor;1990-08-12;Dragutin Topić;;;YUG;1971;Male
-WRU20;;HOC;M;2.37;;Jamsil, Seoul;KOR;Outdoor;1992-09-20;Steve Smith;;;GBR;1973;Male
-WRU20;;SPE;M;86.48;;Bydgoszcz;POL;Outdoor;2016-07-23;Neeraj Chopra;;;IND;1997;Male
-WRU20;;WEI;M;8.35;1.1;Cheboksary;RUS;Outdoor;2012-06-20;Sergey Morgunov;;;RUS;1993;Male
-WRU20;;STA;M;6.05;;Berlin;GER;Outdoor;2018-08-12;Armand Duplantis;;;SWE;1999;Male
-WRU20;;DRE;M;17.54;;Albuquerque;USA;Indoor;2023-03-11;Jaydon Hibbert;;;JAM;2005;Male
-WRU20;;DIS;W;74.40;;Berlin;GER;Outdoor;1988-09-13;Ilke Wyludda;;;GDR;1969;Female
-WRU20;;HAM;W;73.43;;Vaasa;FIN;Outdoor;2021-06-28;Silja Kosonen;;;FIN;2002;Female
-WRU20;;HOC;W;2.04;;Doha;QAT;Outdoor;2019-09-30;Yaroslava Mahuchikh;;;UKR;2001;Female
-WRU20;;SPE;W;63.86;;Edmonton;CAN;Outdoor;2015-08-02;Yulenmis Aguilar;;;CUB;1996;Female
-WRU20;;WEI;W;7.14;1.1;Bratislava;TCH;Outdoor;1983-06-04;Heike Daute;;;GDR;1964;Female
-WRU20;;KUG;W;20.54;;Orimattila;FIN;Outdoor;1989-07-01;Astrid Kumbernuss;;;GDR;1970;Female
-WRU20;;DRE;W;14.62;1.0;Sydney;AUS;Outdoor;1996-08-25;Tereza Marinova;;;BUL;1977;Female
-WRU20;;STA;W;4.71;;Zweibrücken;GER;Indoor;2016-01-31;Wilma Murto;;;FIN;1998;Female
+Code;Type;Discipline;Class;Result;Wind;Venue;Venue Country;Environment;Date;Name;Firstname;Lastname;Nation;YOB;Sex
+;WRU20;10K;MJU20;26:41.75;;Bruxelles;BEL;Outdoor;2005-08-26;Samuel Kamau Wanjiru;;;KEN;1986;Male
+;WRU20;10G;MJU20;38:46.4;;Moskva;RUS;Outdoor;2000-05-20;Viktor Burayev;;;RUS;1982;Male
+;WRU20;100;MJU20;9.91;0.8;Cali;COL;Outdoor;2022-08-02;Letsile Tebogo;;;BOT;2003;Male
+;WRU20;1K0;MJU20;2:15.00;;Nice;FRA;Outdoor;1999-07-17;Benjamin Kipkurui;;;KEN;1980;Male
+;WRU20;1K5;MJU20;3:28.81;;Monaco;MON;Outdoor;2014-07-18;Ronald Kwemoi;;;KEN;1995;Male
+;WRU20;200;MJU20;19.69;-0.3;Eugene;USA;Outdoor;2022-06-26;Erriyon Knighton;;;USA;2004;Male
+;WRU20;3K0;MJU20;7:28.19;;Paris-St-Denis;FRA;Outdoor;2016-08-27;Yomif Kejelcha;;;ETH;1997;Male
+;WRU20;3KH;MJU20;7:58.66;;Bruxelles;BEL;Outdoor;2001-08-24;Stephen Cherono;;;KEN;1982;Male
+;WRU20;400;MJU20;43.87;;Jamsil, Seoul;KOR;Outdoor;1988-09-28;Steve Lewis;;;USA;1969;Male
+;WRU20;40H;MJU20;47.34;;Budapest;HUN;Outdoor;2023-08-21;Roshawn Clarke;;;JAM;2004;Male
+;WRU20;4×1;MJU20;38.51;;Kasarani, Nairobi;KEN;Outdoor;2021-08-22;South Africa U20;;;RSA;;Male
+;WRU20;4×4;MJU20;3:00.33;;Trujillo;PER;Outdoor;2017-07-23;United States U20;;;USA;;Male
+;WRU20;5K0;MJU20;12:43.02;;Bruxelles;BEL;Outdoor;2018-08-31;Selemon Barega;;;ETH;2000;Male
+;WRU20;800;MJU20;1:41.73;;London;GBR;Outdoor;2012-08-09;Nijel Amos;;;BOT;1994;Male
+;WRU20;HOC;MJU20;2.37;;Plovdiv;BUL;Outdoor;1990-08-12;Dragutin Topić;;;YUG;1971;Male
+;WRU20;HOC;MJU20;2.37;;Jamsil, Seoul;KOR;Outdoor;1992-09-20;Steve Smith;;;GBR;1973;Male
+;WRU20;SPE;MJU20;86.48;;Bydgoszcz;POL;Outdoor;2016-07-23;Neeraj Chopra;;;IND;1997;Male
+;WRU20;WEI;MJU20;8.35;1.1;Cheboksary;RUS;Outdoor;2012-06-20;Sergey Morgunov;;;RUS;1993;Male
+;WRU20;MEI;MJU20;3:48.06;;Eugene;USA;Outdoor;2023-09-16;Reynold Kipkorir Cheruiyot;;;KEN;2004;Male
+;WRU20;STA;MJU20;6.05;;Berlin;GER;Outdoor;2018-08-12;Armand Duplantis;;;SWE;1999;Male
+;WRU20;60M;MJU20;6.51;;Lisboa;POR;Indoor;2001-03-11;Mark Lewis-Francis;;;GBR;1982;Male
+;WRU20;DRE;MJU20;17.54;;Albuquerque;USA;Indoor;2023-03-11;Jaydon Hibbert;;;JAM;2005;Male
+;WRU20;10K;WJU20;30:26.50;;Beijing;CHN;Outdoor;2008-08-15;Linet Chepkwemoi Masai;;;KEN;1989;Female
+;WRU20;10G;WJU20;42:47.25;;Eugene;USA;Outdoor;2014-07-23;Anežka Drahotová;;;CZE;1995;Female
+;WRU20;100;WJU20;10.88;2.0;Dresden;GER;Outdoor;1977-07-01;Marlies Oelsner;;;GDR;1958;Female
+;WRU20;10H;WJU20;12.71;1.3;Joensuu;FIN;Outdoor;2019-07-24;Britany Anderson;;;JAM;2001;Female
+;WRU20;1K0;WJU20;2:34.89;;Nice;FRA;Outdoor;2023-06-17;Audrey Werro;;;SUI;2004;Female
+;WRU20;1K5;WJU20;3:51.34;;Shanghai;CHN;Outdoor;1997-10-18;Yinglai Lang;;;CHN;1979;Female
+;WRU20;200;WJU20;21.81;0.8;Tokyo;JPN;Outdoor;2021-08-03;Christine Mboma;;;NAM;2003;Female
+;WRU20;3K0;WJU20;8:28.83;;Roma;ITA;Outdoor;1985-09-07;Zola Budd;;;GBR;1966;Female
+;WRU20;3KH;WJU20;8:58.78;;Eugene;USA;Outdoor;2017-05-26;Celliphine Chepteek Chespol;;;KEN;1999;Female
+;WRU20;400;WJU20;49.42;;Tokyo;JPN;Outdoor;1991-08-27;Grit Breuer;;;GER;1972;Female
+;WRU20;40H;WJU20;53.60;;AR;USA;Outdoor;2018-04-27;Sydney Mclaughlin;;;USA;1999;Female
+;WRU20;4×1;WJU20;42.59;;Cali;COL;Outdoor;2022-08-05;Jamaica U20;;;JAM;;Female
+;WRU20;4×4;WJU20;3:27.60;;Grosseto;ITA;Outdoor;2004-07-18;United States U20;;;USA;;Female
+;WRU20;5K0;WJU20;14:30.88;;Bergen;NOR;Outdoor;2004-06-11;Tirunesh Dibaba;;;ETH;1985;Female
+;WRU20;800;WJU20;1:54.01;;Zürich;SUI;Outdoor;2008-08-29;Pamela Jelimo;;;KEN;1989;Female
+;WRU20;DIS;WJU20;74.40;;Berlin;GER;Outdoor;1988-09-13;Ilke Wyludda;;;GDR;1969;Female
+;WRU20;HAM;WJU20;73.43;;Vaasa;FIN;Outdoor;2021-06-28;Silja Kosonen;;;FIN;2002;Female
+;WRU20;HOC;WJU20;2.04;;Doha;QAT;Outdoor;2019-09-30;Yaroslava Mahuchikh;;;UKR;2001;Female
+;WRU20;SPE;WJU20;63.86;;Edmonton;CAN;Outdoor;2015-08-02;Yulenmis Aguilar;;;CUB;1996;Female
+;WRU20;WEI;WJU20;7.14;1.1;Bratislava;TCH;Outdoor;1983-06-04;Heike Daute;;;GDR;1964;Female
+;WRU20;MEI;WJU20;4:17.57;;Zürich;SUI;Outdoor;1985-08-21;Zola Budd;;;GBR;1966;Female
+;WRU20;KUG;WJU20;20.54;;Orimattila;FIN;Outdoor;1989-07-01;Astrid Kumbernuss;;;GDR;1970;Female
+;WRU20;DRE;WJU20;14.62;1.0;Sydney;AUS;Outdoor;1996-08-25;Tereza Marinova;;;BUL;1977;Female
+;WRU20;60M;WJU20;7.07;;Toruń;POL;Indoor;2016-02-12;Ewa Swoboda;;;POL;1997;Female
+;WRU20;60M;WJU20;7.07;;Albuquerque;USA;Indoor;2023-03-10;Kaila Jackson;;;USA;2004;Female
+;WRU20;60H;WJU20;7.92;;Fayetteville;USA;Indoor;2021-03-13;Ackera Nugent;;;JAM;2002;Female
+;WRU20;STA;WJU20;4.71;;Zweibrücken;GER;Indoor;2016-01-31;Wilma Murto;;;FIN;1998;Female
