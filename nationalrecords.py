@@ -29,10 +29,10 @@ def getRecords(sex, discipline):
 
     df['discipline'] = discipline
     df['sex'] = "Male" if sex == "men" else "Female"
-    df['type'] = "NR"
+    df['Record Type'] = "NR"
     df['environment'] = df.apply(determine_environment, axis=1)
     
-    desired_columns = ['result', 'wind', 'nation', 'venue', 'venueCountry', 'date', 'name', 'yearOfBirth', 'sex', 'discipline', 'type', 'environment']
+    desired_columns = ['result', 'wind', 'nation', 'venue', 'venueCountry', 'date', 'name', 'yearOfBirth', 'sex', 'discipline', 'Record Type', 'environment']
 
     valid_columns = []
 
