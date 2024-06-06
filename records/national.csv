@@ -109,8 +109,8 @@ Code;Type;Discipline;Class;Result;Wind;Venue;Venue Country;Environment;Date;Name
 ;;STA;M;4.05;;Luanda;ANG;Outdoor;1989-06-11;José Francisco;;;ANG;;Male
 ;;STA;M;3.8;;Newham;GBR;Outdoor;1973-06-02;Calvin Greenaway;;;ANT;1948;Male
 ;;STA;M;5.75;;Toronto;CAN;Outdoor;2015-07-21;Germán Chiaraviglio;;;ARG;1987;Male
-;;STA;M;4.4;;Yerevan;URS;Outdoor;1978-06-15;Viktor Sosedov;;;ARM;;Male
 ;;STA;M;4.4;;Yerevan;URS;Outdoor;1978-06-15;Onik Khachatryan;;;ARM;;Male
+;;STA;M;4.4;;Yerevan;URS;Outdoor;1978-06-15;Viktor Sosedov;;;ARM;;Male
 ;;STA;M;3.3;;;???;Outdoor;1995-01-01;Ericko Pieternella;;;ARU;1980;Male
 ;;STA;M;5.41;;Norman;USA;Outdoor;2005-05-28;Makisi Haleck;;;ASA;;Male
 ;;STA;M;6.05;;Edmonton;CAN;Outdoor;2001-08-09;Dmitri Markov;;;AUS;1975;Male
@@ -146,8 +146,8 @@ Code;Type;Discipline;Class;Result;Wind;Venue;Venue Country;Environment;Date;Name
 ;;STA;M;5.93;;London;GBR;Outdoor;2015-07-25;Shawn Barber;;;CAN;1994;Male
 ;;STA;M;4.25;;Tunis;TUN;Outdoor;1969-06-14;Jean-Prosper Tsondzabéka;;;CGO;1946;Male
 ;;STA;M;3.8;;Brazzaville;CGO;Outdoor;1963-01-01;Hubert Djimtoloum;;;CHA;;Male
-;;STA;M;5.5;;Tallahassee;USA;Outdoor;1992-05-28;Thomas Riether;;;CHI;1964;Male
 ;;STA;M;5.5;;Tallahassee;USA;Outdoor;1992-05-28;Tom Riether;;;CHI;1964;Male
+;;STA;M;5.5;;Tallahassee;USA;Outdoor;1992-05-28;Thomas Riether;;;CHI;1964;Male
 ;;STA;M;5.82;;London;GBR;Outdoor;2017-08-08;Xue Changrui;;;CHN;1991;Male
 ;;STA;M;5.35;;Austin;USA;Outdoor;2017-05-26;Rashid Coulibaly;;;CIV;1998;Male
 ;;STA;M;4.6;;Tourcoing;FRA;Outdoor;2015-10-04;David Williams Nzodom Djozing;;;CMR;1999;Male
@@ -1626,8 +1626,8 @@ Code;Type;Discipline;Class;Result;Wind;Venue;Venue Country;Environment;Date;Name
 ;;DIS;M;35.5;;Aden;YEM;Outdoor;1976-01-01;Ahmed Amin Ahmed;;;YEM;;Male
 ;;DIS;M;49.03;;Nashville;USA;Outdoor;2018-03-24;Chard Muhwanga;;;ZAM;;Male
 ;;DIS;M;51.6;;Brisbane;AUS;Outdoor;1982-10-08;Christopher Pullen;;;ZIM;1961;Male
-;;60M;M;6.54;0.0;Pretoria;RSA;Outdoor;2023-02-18;Akani Simbine;;;RSA;1993;Male
 ;;60M;M;6.53;0.0;Pretoria;RSA;Outdoor;2023-02-18;Akani Simbine;;;RSA;1993;Male
+;;60M;M;6.54;0.0;Pretoria;RSA;Outdoor;2023-02-18;Akani Simbine;;;RSA;1993;Male
 ;;60M;M;7.1;;Astana;KAZ;Indoor;2023-02-11;Sha Mahmood Noor Zahi;;;AFG;1991;Male
 ;;60M;M;6.97;;Tehran;IRI;Indoor;2024-02-18;Sha Mahmood Noor Zahi;;;AFG;1991;Male
 ;;60M;M;6.58;;Stuttgart;GER;Indoor;2010-02-06;Churandy Martina;;;AHO;1984;Male
@@ -1728,8 +1728,8 @@ Code;Type;Discipline;Class;Result;Wind;Venue;Venue Country;Environment;Date;Name
 ;;60M;M;6.67;;Tehran;IRI;Indoor;2018-02-01;V.K. Elakiyadasan;;;IND;1995;Male
 ;;60M;M;6.51;;Tehran;IRI;Indoor;2018-02-01;Hassan Taftian;;;IRI;1993;Male
 ;;60M;M;6.57;;Dublin;IRL;Indoor;2023-02-19;Israel Olatunde;;;IRL;2002;Male
-;;60M;M;6.72;;Tehran;IRI;Indoor;2024-02-18;Murtadha Azhar;;;IRQ;2000;Male
 ;;60M;M;6.73;;Tehran;IRI;Indoor;2024-02-18;Murtadha Azhar;;;IRQ;2000;Male
+;;60M;M;6.72;;Tehran;IRI;Indoor;2024-02-18;Murtadha Azhar;;;IRQ;2000;Male
 ;;60M;M;6.85;;Tehran;IRI;Indoor;2019-03-03;Falah Abdulzahra;;;IRQ;1992;Male
 ;;60M;M;6.68;;Hafnarfjörður;ISL;Indoor;2023-01-12;Kolbeinn Hödur Gunnarsson;;;ISL;1995;Male
 ;;60M;M;6.68;;Samara;RUS;Indoor;1999-02-21;Alex Porkhomovski;;;ISR;1972;Male
@@ -2444,8 +2444,8 @@ Code;Type;Discipline;Class;Result;Wind;Venue;Venue Country;Environment;Date;Name
 ;;HOC;M;2.28;;Santo Domingo;DOM;Outdoor;1997-05-31;Julio Luciano;;;DOM;1977;Male
 ;;HOC;M;2.3;;Guadalajara;MEX;Outdoor;2011-10-27;Diego Ferrín;;;ECU;1988;Male
 ;;HOC;M;2.25;;Eberstadt;GER;Outdoor;2008-06-27;Karim Samir Lotfy;;;EGY;1989;Male
-;;HOC;M;1.85;;Asmara;ERI;Outdoor;1999-01-06;Tesfay Tecle;;;ERI;;Male
 ;;HOC;M;1.85;;Asmara;ERI;Outdoor;1999-01-06;Idris Mohamed;;;ERI;;Male
+;;HOC;M;1.85;;Asmara;ERI;Outdoor;1999-01-06;Tesfay Tecle;;;ERI;;Male
 ;;HOC;M;2.11;;Barquisimeto;VEN;Outdoor;2011-07-29;Marlon Colorado;;;ESA;1992;Male
 ;;HOC;M;2.34;;Barcelona;ESP;Outdoor;1991-06-22;Arturo Ortiz;;;ESP;1966;Male
 ;;HOC;M;2.3;;Rakvere;EST;Outdoor;1996-06-05;Marko Turban;;;EST;1967;Male
@@ -2610,8 +2610,8 @@ Code;Type;Discipline;Class;Result;Wind;Venue;Venue Country;Environment;Date;Name
 ;;HOC;M;2.15;;Aubervilliers;FRA;Outdoor;1995-07-12;Belhassen Chikhaoui;;;TUN;;Male
 ;;HOC;M;2.31;;Ankara;TUR;Outdoor;2022-06-22;Enes Talha Şenses;;;TUR;1998;Male
 ;;HOC;M;1.9;;Suva;FIJ;Outdoor;2018-04-21;Kaitu Kaitu;;;TUV;;Male
-;;HOC;M;2.16;;Doha;QAT;Outdoor;2005-12-08;Mohammed Abdullah Darwish;;;UAE;1986;Male
 ;;HOC;M;2.16;;Doha;QAT;Outdoor;2005-12-08;Sayed Abbas Al-Alaoui;;;UAE;1984;Male
+;;HOC;M;2.16;;Doha;QAT;Outdoor;2005-12-08;Mohammed Abdullah Darwish;;;UAE;1986;Male
 ;;HOC;M;2.12;;Nairobi;KEN;Outdoor;2011-07-16;David Okot;;;UGA;1985;Male
 ;;HOC;M;2.42;;New York;USA;Outdoor;2014-06-14;Bogdan Bondarenko;;;UKR;1989;Male
 ;;HOC;M;2.14;;São Paulo;BRA;Outdoor;1988-04-24;Elbio Pelloni;;;URU;;Male
@@ -3204,8 +3204,8 @@ Code;Type;Discipline;Class;Result;Wind;Venue;Venue Country;Environment;Date;Name
 ;;KUG;M;21.14;;Santiago de Chile;CHI;Outdoor;2004-07-29;Marco Verni;;;CHI;1976;Male
 ;;KUG;M;20.41;;Hongkong;HKG;Outdoor;2009-12-11;Zhang Jun;;;CHN;1983;Male
 ;;KUG;M;17.89;;Nairobi;KEN;Outdoor;1987-09-08;Martin Melagne;;;CIV;;Male
-;;KUG;M;17.28;;Douala;CMR;Outdoor;2021-05-22;Jospen Takougoum Kut Billy;;;CMR;1997;Male
 ;;KUG;M;17.28;;Douala;CMR;Outdoor;2021-05-22;Billy Takouaoum;;;CMR;;Male
+;;KUG;M;17.28;;Douala;CMR;Outdoor;2021-05-22;Jospen Takougoum Kut Billy;;;CMR;1997;Male
 ;;KUG;M;15.05;;Kisangani;COD;Outdoor;1976-06-05;Kaoto;;;COD;;Male
 ;;KUG;M;13.85;;Nikao;COK;Outdoor;2009-09-25;Mau George;;;COK;;Male
 ;;KUG;M;19.53;;Santander de Quilichao;COL;Outdoor;2012-11-17;Eder César Moreno;;;COL;1989;Male
@@ -3890,8 +3890,8 @@ Code;Type;Discipline;Class;Result;Wind;Venue;Venue Country;Environment;Date;Name
 ;;400;M;45.39;;Wien;AUT;Indoor;2002-03-03;Marek Plawgo;;;POL;1981;Male
 ;;400;M;46.64;;Ostrava;CZE;Indoor;2021-02-03;Ricardo Dos Santos;;;POR;1994;Male
 ;;400;M;45.86;;Glasgow;GBR;Indoor;2024-03-02;João Ricardo Coelho;;;POR;1999;Male
-;;400;M;45.98;;Glasgow;GBR;Indoor;2024-03-01;João Ricardo Coelho;;;POR;1999;Male
 ;;400;M;46.35;;Glasgow;GBR;Indoor;2024-03-01;João Ricardo Coelho;;;POR;1999;Male
+;;400;M;45.98;;Glasgow;GBR;Indoor;2024-03-01;João Ricardo Coelho;;;POR;1999;Male
 ;;400;M;46.34;;Albuquerque;USA;Indoor;2024-02-02;Jose Figueroa;;;PUR;2004;Male
 ;;400;M;46.54;;Fayetteville;USA;Indoor;2012-02-10;Marquis Holston;;;PUR;1989;Male
 ;;400;M;48.45;;Moskva;RUS;Indoor;2006-03-10;Isaac Yaya;;;PYF;1979;Male
@@ -5061,7 +5061,7 @@ Code;Type;Discipline;Class;Result;Wind;Venue;Venue Country;Environment;Date;Name
 ;;40H;M;47.98;;Atlanta;USA;Outdoor;1996-08-01;Sven Nylander;;;SWE;1962;Male
 ;;40H;M;57.04;;Manzini;SWZ;Outdoor;2019-05-18;Cedusizi Vilakati;;;SWZ;;Male
 ;;40H;M;48.87;;Sydney;AUS;Outdoor;1999-02-20;Ziad Abou Hamed;;;SYR;1970;Male
-;;40H;M;51.20;;Cairo;EGY;Outdoor;1985-08-12;Morris Okinda;;;TAN;;Male
+;;40H;M;51.20;;Doha;QAT;Outdoor;1985-08-12;Morris Okinda;;;TAN;1963;Male
 ;;40H;M;52.02;;Sacramento;USA;Outdoor;1996-05-05;Paeaki Kokohu;;;TGA;1966;Male
 ;;40H;M;49.76;;Chiang Mai;THA;Outdoor;1995-12-12;Chanond Keanchan;;;THA;1967;Male
 ;;40H;M;48.98;;Tashkent;URS;Outdoor;1986-09-18;Nikolay Ilchenko;;;TJK;1963;Male
@@ -7126,8 +7126,8 @@ Code;Type;Discipline;Class;Result;Wind;Venue;Venue Country;Environment;Date;Name
 ;;100;M;10.5;1.6;Hvidovre;DEN;Outdoor;2022-06-11;Andreas Trajkovski;;;MKD;1993;Male
 ;;100;M;10.1;1.2;Athens;USA;Outdoor;1996-05-04;Ousmane Diarra;;;MLI;1966;Male
 ;;100;M;10.49;0.0;Zürich;SUI;Outdoor;2014-08-12;Kevin Moore;;;MLT;1990;Male
-;;100;M;10.47;0.2;Izmir;TUR;Outdoor;2024-05-25;Beppe Grillo;;;MLT;2003;Male
 ;;100;M;10.23;0.9;Izmir;TUR;Outdoor;2024-05-25;Beppe Grillo;;;MLT;2003;Male
+;;100;M;10.47;0.2;Izmir;TUR;Outdoor;2024-05-25;Beppe Grillo;;;MLT;2003;Male
 ;;100;M;10.55;0.3;Celje;SLO;Outdoor;2015-06-13;Luka Rakic;;;MNE;1991;Male
 ;;100;M;10.12;1.8;Houston;USA;Outdoor;2018-05-12;Julius Morris;;;MNT;1994;Male
 ;;100;M;10.53;1.4;Dijon;FRA;Outdoor;2008-07-12;Sébastien Gattuso;;;MON;1971;Male
@@ -7655,8 +7655,8 @@ Code;Type;Discipline;Class;Result;Wind;Venue;Venue Country;Environment;Date;Name
 ;;10G;M;39:56.02;;Budapest;HUN;Outdoor;2016-06-19;Máté Helebrandt;;;HUN;1989;Male
 ;;10G;M;45:09.28;;Bogor;INA;Outdoor;2016-09-22;Indra Abdul Kadir;;;INA;1984;Male
 ;;10G;M;38:49.21;;Birmingham;GBR;Outdoor;2022-08-07;Sandeep Kumar Sangwan;;;IND;1986;Male
-;;10G;M;40:40.97;;Bhopal;IND;Outdoor;2021-01-27;Amit Khatri;;;IND;;Male
 ;;10G;M;40:40.97;;Bhopal;IND;Outdoor;2021-01-27;. Amit;;;IND;2003;Male
+;;10G;M;40:40.97;;Bhopal;IND;Outdoor;2021-01-27;Amit Khatri;;;IND;;Male
 ;;10G;M;42:13.11;;Tehran;IRI;Outdoor;2018-10-24;Hamid Reza Zouravand;;;IRI;1990;Male
 ;;10G;M;41:11.1;;Shiraz;IRI;Outdoor;2016-05-02;Hamid Reza Zouravand;;;IRI;1990;Male
 ;;10G;M;38:27.57;;Dublin;IRL;Outdoor;2008-07-20;Robert Heffernan;;;IRL;1978;Male
@@ -8631,8 +8631,8 @@ Code;Type;Discipline;Class;Result;Wind;Venue;Venue Country;Environment;Date;Name
 ;;DRE;W;12.61;;Bishkek;KGZ;Indoor;2005-02-25;Rakhima Sardi;;;KGZ;1986;Female
 ;;DRE;W;12.7;;Tianjin;CHN;Indoor;2004-02-18;Jung Hye-Kyung;;;KOR;1981;Female
 ;;DRE;W;9.78;;Tirane;ALB;Indoor;2015-02-02;Rita Hajdini;;;KOS;1998;Female
-;;DRE;W;14.15;;Fayetteville;USA;Indoor;2021-03-13;Rūta Lasmane;;;LAT;2000;Female
-;;DRE;W;14.47;;Brighton;USA;Indoor;2024-03-09;Rūta Lasmane;;;LAT;2000;Female
+;;DRE;W;14.15;;Fayetteville;USA;Indoor;2021-03-13;Rūta Kate Lasmane;;;LAT;2000;Female
+;;DRE;W;14.47;;Brighton;USA;Indoor;2024-03-09;Rūta Kate Lasmane;;;LAT;2000;Female
 ;;DRE;W;13.32;;Air Force Academy;USA;Indoor;2009-02-28;Decontee Kaye;;;LBR;1987;Female
 ;;DRE;W;12.4;;Cedar Falls;USA;Indoor;1999-02-20;Michelle Baptiste;;;LCA;1977;Female
 ;;DRE;W;14.13;;Madrid;ESP;Indoor;2018-02-08;Dovilė Kilty;;;LTU;1993;Female
@@ -9369,11 +9369,11 @@ Code;Type;Discipline;Class;Result;Wind;Venue;Venue Country;Environment;Date;Name
 ;;60M;W;7.47;;Hafnarfjördur;ISL;Indoor;2019-03-02;Gudbjörg Jóna Bjarnadóttir;;;ISL;2001;Female
 ;;60M;W;7.2;;Beograd;SRB;Indoor;2022-03-18;Diana Vaisman;;;ISR;1998;Female
 ;;60M;W;6.97;;Stuttgart;GER;Indoor;2010-02-06;Laverne Jones-Ferrette;;;ISV;1981;Female
-;;60M;W;7.05;;Łódź;POL;Indoor;2024-01-27;Zaynab Dosso;;;ITA;1999;Female
+;;60M;W;7.09;;Łódź;POL;Indoor;2024-01-27;Zaynab Dosso;;;ITA;1999;Female
 ;;60M;W;7.14;;Beograd;SRB;Indoor;2022-03-18;Zaynab Dosso;;;ITA;1999;Female
 ;;60M;W;7.02;;Toruń;POL;Indoor;2024-02-06;Zaynab Dosso;;;ITA;1999;Female
 ;;60M;W;7.91;;Udine;ITA;Indoor;2023-01-29;Baofa Mifri Veso;;;ITA;2005;Female
-;;60M;W;7.09;;Łódź;POL;Indoor;2024-01-27;Zaynab Dosso;;;ITA;1999;Female
+;;60M;W;7.05;;Łódź;POL;Indoor;2024-01-27;Zaynab Dosso;;;ITA;1999;Female
 ;;60M;W;7.09;;Valencia;ESP;Indoor;2008-03-07;Tahesia Harrigan;;;IVB;1982;Female
 ;;60M;W;6.98;;Sopot;POL;Indoor;2014-03-09;Shelly-Ann Fraser-Pryce;;;JAM;1986;Female
 ;;60M;W;7.29;;Istanbul;TUR;Indoor;2012-03-10;Chisato Fukushima;;;JPN;1988;Female
@@ -9391,9 +9391,9 @@ Code;Type;Discipline;Class;Result;Wind;Venue;Venue Country;Environment;Date;Name
 ;;60M;W;6.94;;Albuquerque;USA;Indoor;2023-03-11;Julien Alfred;;;LCA;2001;Female
 ;;60M;W;7.79;;Magglingen;SUI;Indoor;1991-02-10;Manuela Marxer;;;LIE;1965;Female
 ;;60M;W;7.23;;Kaunas;LTU;Indoor;2003-02-21;Agnė Eggerth;;;LTU;1978;Female
-;;60M;W;7.11;;Luxembourg;LUX;Indoor;2024-01-21;Patrizia van der Weken;;;LUX;1999;Female
-;;60M;W;7.21;;Beograd;SRB;Indoor;2022-03-18;Patrizia van der Weken;;;LUX;1999;Female
 ;;60M;W;7.09;;Luxembourg;LUX;Indoor;2024-01-21;Patrizia van der Weken;;;LUX;1999;Female
+;;60M;W;7.21;;Beograd;SRB;Indoor;2022-03-18;Patrizia van der Weken;;;LUX;1999;Female
+;;60M;W;7.11;;Luxembourg;LUX;Indoor;2024-01-21;Patrizia van der Weken;;;LUX;1999;Female
 ;;60M;W;7.17;;Luxembourg;LUX;Indoor;2024-01-06;Patrizia van der Weken;;;LUX;1999;Female
 ;;60M;W;7.45;;Astana;KAZ;Indoor;2023-02-10;Loi Im Lan;;;MAC;1998;Female
 ;;60M;W;7.21;;Barcelona;ESP;Indoor;1995-03-10;Laloa Ravaonirina;;;MAD;1963;Female
@@ -9413,8 +9413,8 @@ Code;Type;Discipline;Class;Result;Wind;Venue;Venue Country;Environment;Date;Name
 ;;60M;W;7.02;;Liévin;FRA;Indoor;1998-02-22;Chioma Ajunwa;;;NGR;1970;Female
 ;;60M;W;7.1;;Praha;CZE;Indoor;2015-03-08;Ezinne Okparaebo;;;NOR;1988;Female
 ;;60M;W;7.94;;Sopot;POL;Indoor;2014-03-08;Lovelite Detenamo;;;NRU;1993;Female
-;;60M;W;7.06;;Glasgow;GBR;Indoor;2024-03-02;Zoe Hobbs;;;NZL;1997;Female
 ;;60M;W;7.09;;Glasgow;GBR;Indoor;2024-03-02;Zoe Hobbs;;;NZL;1997;Female
+;;60M;W;7.06;;Glasgow;GBR;Indoor;2024-03-02;Zoe Hobbs;;;NZL;1997;Female
 ;;60M;W;7.13;;Beograd;SRB;Indoor;2022-03-18;Zoe Hobbs;;;NZL;1997;Female
 ;;60M;W;7.78;;Birmingham;GBR;Indoor;2018-03-02;Mazoon Al-Alawi;;;OMA;1997;Female
 ;;60M;W;7.83;;Pattaya;THA;Indoor;2005-11-13;Naseem Hameed;;;PAK;1986;Female
@@ -10376,7 +10376,7 @@ Code;Type;Discipline;Class;Result;Wind;Venue;Venue Country;Environment;Date;Name
 ;;HOC;W;1.38;;Pohnpei;FSM;Outdoor;2014-07-23;Rachel Abrams;;;NMI;1995;Female
 ;;HOC;W;2.01;;Zürich;SUI;Outdoor;1997-08-13;Hanne Haugland;;;NOR;1967;Female
 ;;HOC;W;1.26;;Yaren;NRU;Outdoor;2007-03-04;Arrora De Paune;;;NRU;;Female
-;;HOC;W;1.92;;Auckland;NZL;Outdoor;1991-01-26;Tania Dixon;;;NZL;1970;Female
+;;HOC;W;1.92;;Dunedin;NZL;Outdoor;1991-01-26;Tania Dixon;;;NZL;1970;Female
 ;;HOC;W;1.6;;Beyrouth;LBN;Outdoor;2017-09-10;Aleya Faiq Al-Moghairiya;;;OMA;;Female
 ;;HOC;W;1.69;;Kathmandu;NEP;Outdoor;1999-09-27;Rehana Kausar;;;PAK;;Female
 ;;HOC;W;1.84;;Managua;NCA;Outdoor;2012-06-16;Kashani Ríos Miller;;;PAN;1991;Female
@@ -11491,8 +11491,8 @@ Code;Type;Discipline;Class;Result;Wind;Venue;Venue Country;Environment;Date;Name
 ;;400;W;51.89;;Stara Zagora;BUL;Outdoor;2016-06-09;Tamara Salaški;;;SRB;1988;Female
 ;;400;W;51.05;;Jakarta;INA;Outdoor;2000-08-30;Damayanthi Dharsha;;;SRI;1975;Female
 ;;400;W;1:01.72;;Nanjing;CHN;Outdoor;2014-08-23;Margret Rumat Hassan;;;SSD;1997;Female
-;;400;W;56.15;;Namboole;UGA;Outdoor;2023-07-01;Lucia William;;;SSD;2001;Female
 ;;400;W;55.53;;Namboole;UGA;Outdoor;2023-07-01;Lucia William;;;SSD;2001;Female
+;;400;W;56.15;;Namboole;UGA;Outdoor;2023-07-01;Lucia William;;;SSD;2001;Female
 ;;400;W;53.48;;Huelva;ESP;Outdoor;2022-05-25;Gorete Semedo;;;STP;1996;Female
 ;;400;W;51.19;;Marrakech;MAR;Outdoor;2005-07-15;Nawal Al-Jak;;;SUD;1988;Female
 ;;400;W;50.52;;La Chaux-de-Fonds;SUI;Outdoor;2018-07-01;Léa Sprunger;;;SUI;1990;Female
@@ -13447,8 +13447,8 @@ Code;Type;Discipline;Class;Result;Wind;Venue;Venue Country;Environment;Date;Name
 ;;1K5;W;4:07.9;;Sochi;URS;Outdoor;1980-05-23;Nadezhda Rodina;;;KAZ;1959;Female
 ;;1K5;W;3:49.11;;Firenze;ITA;Outdoor;2023-06-02;Faith Kipyegon;;;KEN;1994;Female
 ;;1K5;W;3:50.37;;Monaco;MON;Outdoor;2022-08-10;Faith Kipyegon;;;KEN;1994;Female
-;;1K5;W;4:05.89;;Kyiv;URS;Outdoor;1988-08-02;Lyudmila Derevyankina;;;KGZ;1966;Female
 ;;1K5;W;4:05.89;;Kyiv;URS;Outdoor;1988-08-02;Lyudmilla Derevyankina;;;KGZ;;Female
+;;1K5;W;4:05.89;;Kyiv;URS;Outdoor;1988-08-02;Lyudmila Derevyankina;;;KGZ;1966;Female
 ;;1K5;W;5:30.0;;Port Vila;VAN;Outdoor;2001-07-14;Siaroka Kaiea;;;KIR;;Female
 ;;1K5;W;4:14.18;;Seoul;KOR;Outdoor;1992-09-20;Lee Mi-Kyung;;;KOR;1975;Female
 ;;1K5;W;4:20.05;;Budapest;HUN;Outdoor;2023-07-01;Greza Bakraqi;;;KOS;1995;Female
@@ -14842,8 +14842,8 @@ Code;Type;Discipline;Class;Result;Wind;Venue;Venue Country;Environment;Date;Name
 ;;3K0;W;10:12.7;;Exeter;GBR;Outdoor;1993-02-08;Rosemary Turare;;;PNG;1964;Female
 ;;3K0;W;8:31.69;;Bruxelles;BEL;Outdoor;2002-08-30;Lidia Chojecka;;;POL;1977;Female
 ;;3K0;W;8:30.22;;Monaco;MON;Outdoor;1999-08-04;Carla Sacramento;;;POR;1971;Female
-;;3K0;W;8:57.63;;Beijing;CHN;Outdoor;1990-10-01;Kim Chun Mae;;;PRK;;Female
 ;;3K0;W;8:57.63;;Beijing;CHN;Outdoor;1990-10-01;Chun-mae Kim;;;PRK;1964;Female
+;;3K0;W;8:57.63;;Beijing;CHN;Outdoor;1990-10-01;Kim Chun Mae;;;PRK;;Female
 ;;3K0;W;8:57.68;;Ponce;PUR;Outdoor;2014-05-17;Beverly Ramos;;;PUR;1987;Female
 ;;3K0;W;8:21.42;;Monaco;MON;Outdoor;2002-07-19;Gabriela Szabo;;;ROU;1975;Female
 ;;3K0;W;8:32.00;;Durban;RSA;Outdoor;1991-04-29;Elana Meyer;;;RSA;1966;Female
