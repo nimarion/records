@@ -7,14 +7,19 @@ Alle Dateien sind im CSV Format und können in TAF3 importiert werden.
 ## Rekorde
 
 - [Weltrekorde](records/world.csv)
+- [Weltrekorde U20](records/world-u20.csv)
 - [Kontinentalrekorde](records/area.csv)
 - [Landesrekorde](records/national.csv)
+- [Europarekorde U20](records/european-u20/) - werden nicht automatisch aktualisiert
   
 ## Jahresbestleistungen
 
-- [Weltjahresbestleistungen](leads/world.csv)
-- [Kontinentaljahresbestleistungen](leads/area.csv)
-- [Deutschejahresbestleistungen](leads/germany.csv)
+- [Weltjahresbestleistungen](leads/senior/world.csv)
+- [Kontinentaljahresbestleistungen](leads/senior/area.csv)
+- [Deutschejahresbestleistungen](leads/senior/germany.csv)
+- [Weltjahresbestleistungen U20](leads/u20/world.csv)
+- [Kontinentaljahresbestleistungen U20](leads/u20/area.csv)
+- [Deutschejahresbestleistungen U20](leads/u20/germany.csv)
 
 ## Normen
 

@@ -19,12 +19,12 @@ jobs:
       - name: Run
         run: |
           python worldranking_downloader.py
-          python taf.py --input tmp/leads/country/senior/ger/ --output leads/germany-senior.csv --mapping worldathletics_ranking --ageGroup senior
-          python taf.py --input tmp/leads/world/senior --output leads/world-senior.csv --mapping worldathletics_ranking --ageGroup senior
-          python taf.py --input tmp/leads/area/senior --output leads/area-senior.csv --mapping worldathletics_ranking --ageGroup senior
-          python taf.py --input tmp/leads/country/u20/ger/ --output leads/germany-u20.csv --ageGroup JU20 --mapping worldathletics_ranking
-          python taf.py --input tmp/leads/world/u20 --output leads/world-u20.csv --ageGroup JU20 --mapping worldathletics_ranking
-          python taf.py --input tmp/leads/area/u20 --output leads/area-u20.csv --ageGroup JU20 --mapping worldathletics_ranking
+          python taf.py --input tmp/leads/country/senior/ger/ --output leads/senior/germany.csv --mapping worldathletics_ranking --ageGroup senior
+          python taf.py --input tmp/leads/world/senior --output leads/senior/world.csv --mapping worldathletics_ranking --ageGroup senior
+          python taf.py --input tmp/leads/area/senior --output leads/senior/area.csv --mapping worldathletics_ranking --ageGroup senior
+          python taf.py --input tmp/leads/country/u20/ger/ --output leads/u20/germany.csv --ageGroup JU20 --mapping worldathletics_ranking
+          python taf.py --input tmp/leads/world/u20 --output leads/u20/world.csv --ageGroup JU20 --mapping worldathletics_ranking
+          python taf.py --input tmp/leads/area/u20 --output leads/u20/area.csv --ageGroup JU20 --mapping worldathletics_ranking
           git config user.name Github Action
           git config user.email actions@github.com
           git add leads/*
