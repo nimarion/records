@@ -1,7 +1,7 @@
 Code;Type;Discipline;Class;Result;Wind;Venue;Venue Country;Environment;Date;Name;Firstname;Lastname;Nation;YOB;Sex
 WL;;5G;M;18:16.97;;Prefectural Stadium;JPN;Outdoor;2024-05-18;;Ryo;Hamanishi;JPN;2000;Male
 WL;;DIS;W;73.09;;Millican Field at Throw Town;USA;Outdoor;2024-04-13;;Yaimé;Pérez;CUB;1991;Female
-WL;;4×4;X;3:10.73;;The Bahamas National Stadium;BAH;Outdoor;2024-05-05;;;;USA;;Mixed
+WL;;4×4;X;3:09.92;;Stadio Olimpico;ITA;Outdoor;2024-06-07;;;;IRL;;Mixed
 WL;;SPE;M;90.2;;Werferzentrum Brandberge;GER;Outdoor;2024-02-25;;Max;Dehning;GER;2004;Male
 WL;;KUG;W;20.68;;Garage Strength;USA;Outdoor;2024-05-11;;Sarah;Mitton;CAN;1996;Female
 WL;;HAM;M;84.38;;Nyayo National Stadium;KEN;Outdoor;2024-04-20;;Ethan;Katzberg;CAN;2002;Male
@@ -13,7 +13,7 @@ WL;;300;M;30.69;;Pilditch Stadium;RSA;Outdoor;2024-02-17;;Letsile;Tebogo;BOT;200
 WL;;HOC;M;2.36;;Glasgow Arena;GBR;Indoor;2024-03-03;;Hamish;Kerr;NZL;1996;Male
 WL;;DRE;W;15.01;;Glasgow Arena;GBR;Indoor;2024-03-03;;Thea;Lafond;DMA;1994;Female
 WL;;MEI;W;4:16.41;;Armory Track&Field Center;USA;Indoor;2024-02-11;;Elle;St. Pierre;USA;1995;Female
-WL;;WEI;M;8.4;;The Track at New Balance;USA;Indoor;2024-03-08;;Wayne;Pinnock;JAM;2000;Male
+WL;;WEI;M;8.41;-0.6;Stadio Olimpico;ITA;Outdoor;2024-06-07;;Simon;Ehammer;SUI;2000;Male
 WL;;3KH;W;8:55.09;;Hayward Field;USA;Outdoor;2024-05-25;;Peruth;Chemutai;UGA;1999;Female
 WL;;HAM;W;79.92;;Univ. of Arizona Roy P. Drachman Stadium;USA;Outdoor;2024-05-04;;Brooke;Andersen;USA;1995;Female
 WL;;SPE;W;66.7;;Pista de Atletismo da Universidade Federal do Mato Grosso;BRA;Outdoor;2024-05-12;;Flor;Denis Ruiz Hurtado;COL;1991;Female
@@ -24,11 +24,11 @@ WL;;DRE;M;17.75;-0.7;National Stadium;JAM;Outdoor;2024-06-01;;Jaydon;Hibbert;JAM
 WL;;10K;W;28:54.14;;Hayward Field;USA;Outdoor;2024-05-25;;Beatrice;Chebet;KEN;2000;Female
 WL;;1K5;M;3:29.74;;Bislett Stadion;NOR;Outdoor;2024-05-30;;Jakob;Ingebrigtsen;NOR;2000;Male
 WL;;60H;W;7.65;;Glasgow Arena;GBR;Indoor;2024-03-03;;Devynne;Charlton;BAH;1995;Female
-WL;;100;M;1.33;0.2;Pingles Stadium;GBR;Outdoor;2024-05-11;;Benjamin;Wyle;GBR;;Male
+WL;;100;M;9.82;0.9;National Stadium;JAM;Outdoor;2024-06-01;;Oblique;Seville;JAM;2001;Male
 WL;;4×8;M;7:13.98;;Franklin Field;USA;Outdoor;2024-04-27;;;;INT;;Male
 WL;;DIS;M;74.35;;Millican Field at Throw Town;USA;Outdoor;2024-04-14;;Mykolas;Alekna;LTU;2002;Male
 WL;;HOC;W;2.04;;Lausitz-Arena;GER;Indoor;2024-01-31;;Yaroslava;Mahuchikh;UKR;2001;Female
-WL;;200;W;22.03;0.6;Percy Beard Track;USA;Outdoor;2024-05-11;;Mckenzie;Long;USA;2000;Female
+WL;;200;W;21.95;0.3;Hayward Field;USA;Outdoor;2024-06-06;;Mckenzie;Long;USA;2000;Female
 WL;;4×8;W;8:17.28;;Franklin Field;USA;Outdoor;2024-04-27;;;;INT;;Female
 WL;;60H;M;7.27;;Convention Center;USA;Indoor;2024-02-16;;Grant;Holloway;USA;1997;Male
 WL;;1K5;W;3:50.30;;Egret Stadium;CHN;Outdoor;2024-04-20;;Gudaf;Tsegay;ETH;1997;Female
