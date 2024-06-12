@@ -19,20 +19,14 @@ jobs:
       - name: Run
         run: |
           python worldrecords.py
-          python arearecords.py
-          python nationalrecords.py
+          bash downloader/arearecords-senior.sh
+          bash downloader/nationalrecords-senior.sh
           python worldathletics-records.py --type WRU20 --output tmp/u20worldrecords.csv --category world-u20-records
           echo "Cleanup WorldAthletics"
           python cleanup.py --input tmp/worldrecords
-          echo "Cleanup Nationalrecords"
-          python cleanup.py --input tmp/nationalrecords
-          echo "Cleanup Arearecords"
-          python cleanup.py --input tmp/arearecords
           echo "Cleanup U20 Worldrecords"
           python cleanup.py --input tmp/u20worldrecords.csv
-          python taf.py --input tmp/nationalrecords --output records/national.csv --mapping tilastopaja_nr --ageGroup senior
           python taf.py --input tmp/worldrecords --output records/world.csv --mapping tilastopaja_wr_ar --ageGroup senior
-          python taf.py --input tmp/arearecords --output records/area.csv --mapping tilastopaja_wr_ar --ageGroup senior
           python taf.py --input tmp/u20worldrecords.csv --output records/world-u20.csv --mapping worldathletics_records --ageGroup JU20
           git config user.name Github Action
           git config user.email actions@github.com

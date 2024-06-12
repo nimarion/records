@@ -1,39 +1,40 @@
-tilastopaja_nr,tilastopaja_wr_ar,worldathletics_ranking,worldathletics_ranking_type,worldathletics_records,,taf
-50,,50-metres,sprints,50 Metres,,50M
-60,60m,60-metres,sprints,60 Metres,,60M
-100,100m,100-metres,sprints,100 Metres,,100
-200,200m,200-metres,sprints,200 Metres,,200
+tilastopaja_nr,tilastopaja_wr_ar,worldathletics_ranking,worldathletics_ranking_type,worldathletics_records,europeanathletics_records,taf
+50,,50-metres,sprints,50 Metres,50 Metres,50M
+60,60m,60-metres,sprints,60 Metres,60 Metres,60M
+100,100m,100-metres,sprints,100 Metres,100 Metres,100
+200,200m,200-metres,sprints,200 Metres,200 Metres,200
 300,,300-metres,sprints,,,300
-400,400m,400-metres,sprints,400 Metres,,400
-600,,600-metres,middlelong,600 Metres,,600
-800,800m,800-metres,middlelong,800 Metres,,800
-1000,1000m,1000-metres,middlelong,1000 Metres,,1K0
-1500,1500m,1500-metres,middlelong,1500 Metres,,1K5
-Mile,One Mile,one-mile,middlelong,Mile,,MEI
-2000,2000m,2000-metres,middlelong,2000 Metres,,2K0
-3000,3000m,3000-metres,middlelong,3000 Metres,,3K0
-5000,5000m,5000-metres,middlelong,5000 Metres,,5K0
-10000,"10,000m",10000-metres,middlelong,"10,000 Metres",,10K
-50H,,50-metres-hurdles,hurdles,50 Metres Hurdles,,50H
-60H,60m Hurdles,60-metres-hurdles,hurdles,60 Metres Hurdles,,60H
-100H,100m Hurdles,100-metres-hurdles,hurdles,100 Metres Hurdles,,10H
-110H,110m Hurdles,110-metres-hurdles,hurdles,110 Metres,,11H
+400,400m,400-metres,sprints,400 Metres,400 Metres,400
+600,,600-metres,middlelong,600 Metres,600 Metres,600
+800,800m,800-metres,middlelong,800 Metres,800 Metres,800
+1000,1000m,1000-metres,middlelong,1000 Metres,1000 Metres,1K0
+1500,1500m,1500-metres,middlelong,1500 Metres,1500 Metres,1K5
+Mile,One Mile,one-mile,middlelong,Mile,Mile,MEI
+2000,2000m,2000-metres,middlelong,2000 Metres,2000 Metres,2K0
+3000,3000m,3000-metres,middlelong,3000 Metres,3000 Metres,3K0
+5000,5000m,5000-metres,middlelong,5000 Metres,5000 Metres,5K0
+10000,"10,000m",10000-metres,middlelong,"10,000 Metres","10,000 Metres",10K
+50H,,50-metres-hurdles,hurdles,50 Metres Hurdles,50 Metres Hurdles,50H
+60H,60m Hurdles,60-metres-hurdles,hurdles,60 Metres Hurdles,60 Metres Hurdles,60H
+100H,100m Hurdles,100-metres-hurdles,hurdles,100 Metres Hurdles,100 Metres Hurdles,10H
+110H,110m Hurdles,110-metres-hurdles,hurdles,110 Metres Hurdles,110 Metres Hurdles,11H
 300H,,,,,,30H
-400H,400m Hurdles,400-metres-hurdles,hurdles,400 Metres Hurdles,,40H
+400H,400m Hurdles,400-metres-hurdles,hurdles,400 Metres Hurdles,400 Metres Hurdles,40H
 2000S,,2000-metres-steeplechase,middlelong,,,2KH
-3000S,3000m Steeplechase,3000-metres-steeplechase,middlelong,3000 Metres Steeplechase,,3KH
-4x1,4 x 100m,4x100-metres-relay,relays,4x100 Metres Relay,,4×1
-4x2,4 x 200m,4x200-metres-relay,relays,4x200 Metres Relay,,4×2
-4x4,4 x 400m,4x400-metres-relay,relays,4x400 Metres Relay,,4×4
-4x8,4 x 800m,4x800-metres-relay,relays,4x800 Metres Relay,,4×8
-HJ,High Jump,high-jump,jumps,High Jump,,HOC
-PV,Pole Vault,pole-vault,jumps,Pole Vault,,STA
-LJ,Long Jump,long-jump,jumps,Long Jump,,WEI
-TJ,Triple Jump,triple-jump,jumps,Triple Jump,,DRE
-SP,Shot Put,shot-put,throws,Shot Put,,KUG
-DT,Discus Throw,discus-throw,throws,Discus Throw,,DIS
-HT,Hammer Throw,hammer-throw,throws,Hammer Throw,,HAM
-JT,Javelin Throw,javelin-throw,throws,Javelin Throw,,SPE
+3000S,3000m Steeplechase,3000-metres-steeplechase,middlelong,3000 Metres Steeplechase,3000 Metres Steeplechase,3KH
+4x1,4 x 100m,4x100-metres-relay,relays,4x100 Metres Relay,4x100 Metres Relay,4×1
+4x2,4 x 200m,4x200-metres-relay,relays,4x200 Metres Relay,4x200 Metres Relay,4×2
+4x4,4 x 400m,4x400-metres-relay,relays,4x400 Metres Relay,4x400 Metres Relay,4×4
+,,,,4x400 Metres Relay Mixed,,4×4
+4x8,4 x 800m,4x800-metres-relay,relays,4x800 Metres Relay,4x800 Metres Relay,4×8
+HJ,High Jump,high-jump,jumps,High Jump,High Jump,HOC
+PV,Pole Vault,pole-vault,jumps,Pole Vault,Pole Vault,STA
+LJ,Long Jump,long-jump,jumps,Long Jump,Long Jump,WEI
+TJ,Triple Jump,triple-jump,jumps,Triple Jump,Triple Jump,DRE
+SP,Shot Put,shot-put,throws,Shot Put,Shot Put,KUG
+DT,Discus Throw,discus-throw,throws,Discus Throw,Discus Throw,DIS
+HT,Hammer Throw,hammer-throw,throws,Hammer Throw,Hammer Throw,HAM
+JT,Javelin Throw,javelin-throw,throws,Javelin Throw,Javelin Throw,SPE
 3000W,3000m Race Walk,3000-metres-race-walk,race-walks,,,3G
 5000W,5000m Race Walk,5000-metres-race-walk,race-walks,,,5G
-10000W,"10,000m Race Walk",10000-metres-race-walk,race-walks,"10,000 Metres Race Walk",,10G
+10000W,"10,000m Race Walk",10000-metres-race-walk,race-walks,"10,000 Metres Race Walk","10,000 Metres Race Walk",10G

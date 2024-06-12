@@ -86,7 +86,7 @@ if __name__ == '__main__':
 
         for e in ["Outdoor", "Indoor"]:
             dfEnvironment = df[df['Environment'] == e]
-            for s in ["Male", "Female"]:
+            for s in ["Male", "Female", "Mixed"]:
                 dfSex = dfEnvironment[dfEnvironment['Sex'] == s]
                 technical_rows = dfSex[dfSex['Discipline'].apply(
                     isTechnical)]

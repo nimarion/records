@@ -3,7 +3,7 @@ import requests
 import argparse
 import io
 import re
-
+import os
 
 def parse_venue(venue):
     venue = venue.strip()
@@ -96,11 +96,14 @@ if __name__ == '__main__':
                            choices=['world-records', 'world-best-performances', 'world-u20-records', 'u18-world-best-performances', 'world-championships-in-athletics-records',
                                     'world-indoor-championships-records', 'world-u20-championships-records', 'world-u18-championships-records',
                                     'world-athletics-road-running-championships-records', 'world-half-marathon-championships-records', 'world-athletics-relays-records',
-                                    'world-championships-combined-best-performances', 'combined-best-performances', 'olympic-games-records', 'youth-olympic-games-records', 'world-u20-leading-2024'])
+                                    'world-championships-combined-best-performances', 'combined-best-performances', 'olympic-games-records', 'youth-olympic-games-records', 'world-u20-leading-2024', 'african-records', 'asian-records', 'european-records', 'nacac-records', 'oceanian-records', 'south-american-records'])
     argparse.add_argument('--type', type=str, help='WRU20,WLU20,...', required=True)
                                                                                                     
     args = argparse.parse_args()
 
     df = getRecords(args.category)
     df['Record Type'] = args.type
+    output_dir = os.path.dirname(args.output)
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir, exist_ok=True)
     df.to_csv(args.output, index=False)
