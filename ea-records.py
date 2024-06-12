@@ -80,8 +80,6 @@ if __name__ == '__main__':
         lambda x: "Indoor" if "(i)" in x else "Outdoor")   
    
     df["Name"] = df.apply(lambda row: "" if row["DOB"].strip() == "" else row["Name"], axis=1) # Relay
-    df[['Firstname', 'Lastname']] = df.apply(lambda row: pd.Series(row['Name'].split(' ', 1)) if row['Name'] else pd.Series([None, None]), axis=1)
-    df['Lastname'] = df['Lastname'].str.lower().str.title()
 
     # remove Short Track from discipline
     df['Discipline'] = df['Discipline'].str.replace(r' Short Track$', '', regex=True)
@@ -89,7 +87,7 @@ if __name__ == '__main__':
     # filter all where venue is not empty
     df = df[df["Venue"] != ""]
     df[['Venue Country', 'Venue', 'Stadium']] = df['Venue'].apply(parse_venue)
-    df.drop(columns=['Stadium', 'Name'], inplace=True)
+    df.drop(columns=['Stadium'], inplace=True)
 
     if 'DOB' in df.columns:
         df['DOB'] = pd.to_datetime(

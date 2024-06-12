@@ -82,9 +82,6 @@ def download_parse(url, discipline, sex, regionType, region):
     if 'DOB' in df.columns:
         df['DOB'] = pd.to_datetime(
             df['DOB'], format='%d %b %Y', errors='coerce')
-        df[['Firstname', 'Lastname']] = df['Competitor'].str.split(
-            pat=' ', n=1, expand=True)
-        df['Lastname'] = df['Lastname'].str.lower().str.title()
         df["YOB"] = df['DOB'].dt.year
 
     if (region != None):
@@ -96,11 +93,11 @@ def download_parse(url, discipline, sex, regionType, region):
         lambda x: "Indoor" if "(i)" in x else "Outdoor")
 
     # Drop unused columns
-    df = df.drop(columns=['Competitor', 'Results Score',
+    df = df.drop(columns=['Results Score',
                  'RegionType', 'DOB', 'Pos'], errors='ignore')
 
     df = df.rename(columns={
-                   'City': 'Venue City', 'Country': 'Venue Country', 'Mark': 'Result', 'Nat': 'Nation', 'WIND': 'Wind'})
+                   'City': 'Venue City', 'Country': 'Venue Country', 'Mark': 'Result', 'Nat': 'Nation', 'WIND': 'Wind', 'Competitor': 'Name'})
 
     df['Venue'] = df['Venue'].apply(lambda x: x.split(' (', 1)[0])
     df['Venue'] = df['Venue'].apply(lambda x: x.split(', ', 1)[0])

@@ -56,11 +56,6 @@ def getRecords(category):
         df = pd.concat([df, records], ignore_index=True)
 
     if 'DOB' in df.columns:
-        df[['Firstname', 'Lastname']] = df['Competitor'].str.split(
-            pat=' ', n=1, expand=True)
-        df['Lastname'] = df['Lastname'].str.lower().str.title()
-        df['Name'] = df['Firstname'] + ' ' + df['Lastname']
-        df.drop(columns=['Firstname', 'Lastname'], inplace=True, errors='ignore')
         df['DOB'] = pd.to_datetime(
             df['DOB'], format='%d %b %Y', errors='coerce')
         df["YOB"] = df['DOB'].dt.year
@@ -80,8 +75,8 @@ def getRecords(category):
     df['venue'] = df['venue'].str.replace(r',$', '', regex=True)
     df['Date'] = pd.to_datetime(df['Date'], format='%d %b %Y')
 
-    df.rename(columns={'Perf': 'Result'}, inplace=True, errors='ignore')
-    df = df.drop(columns=['DOB', 'stadium', 'Perf', 'Venue', 'Competitor', 'Progression'], errors='ignore')    
+    df.rename(columns={'Perf': 'Result', 'Competitor': 'Name'}, inplace=True, errors='ignore')
+    df = df.drop(columns=['DOB', 'stadium', 'Perf', 'Venue', 'Progression'], errors='ignore')    
     df.rename(columns={ 'Country': 'Nation', 'environment': 'Environment', 'venue': 'Venue', 'venueCountry': 'Venue Country'}, inplace=True, errors='ignore')
 
     # Pending ratification
