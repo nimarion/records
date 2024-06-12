@@ -1,492 +1,492 @@
-Code;Type;Discipline;Class;Result;Wind;Venue;Venue Country;Environment;Date;Name;Firstname;Lastname;Nation;YOB;Sex
-AR;4;HOC;M;2.38;;Oudtshoorn;RSA;Outdoor;2005-03-05;Jacques Freitag;;;RSA;1982;Male
-AR;4;STA;M;6.03;;Köln;GER;Outdoor;1995-08-18;Okkert Brits;;;RSA;1973;Male
-AR;4;WEI;M;8.65;1.3;Potchefstroom;RSA;Outdoor;2017-04-22;Luvo Manyonga;;;RSA;1991;Male
-AR;4;KUG;M;21.97;;OR;USA;Outdoor;2001-06-02;Janus Robberts;;;RSA;1979;Male
-AR;4;DIS;M;70.32;;Salon-de-Provence;FRA;Outdoor;2002-05-26;Frantz Kruger;;;RSA;1975;Male
-AR;4;HAM;M;81.27;;Cairo;EGY;Outdoor;2014-03-21;Mostafa Elgamel;;;EGY;1988;Male
-AR;4;SPE;M;92.72;;Beijing;CHN;Outdoor;2015-08-26;Julius Yego;;;KEN;1989;Male
-AR;4;100;M;9.77;1.2;Kasarani, Nairobi;KEN;Outdoor;2021-09-18;Ferdinand Omanyala;;;KEN;1996;Male
-AR;4;200;M;19.50;1.6;London;GBR;Outdoor;2023-07-23;Letsile Tebogo;;;BOT;2003;Male
-AR;4;400;M;43.03;;Rio de Janeiro;BRA;Outdoor;2016-08-14;Wayde Van Niekerk;;;RSA;1992;Male
-AR;4;800;M;1:40.91;;London;GBR;Outdoor;2012-08-09;David Rudisha;;;KEN;1988;Male
-AR;4;1K0;M;2:11.96;;Rieti;ITA;Outdoor;1999-09-05;Noah Ngeny;;;KEN;1978;Male
-AR;4;1K5;M;3:26.00;;Roma;ITA;Outdoor;1998-07-14;Hicham El Guerrouj;;;MAR;1974;Male
-AR;4;MEI;M;3:43.13;;Roma;ITA;Outdoor;1999-07-07;Hicham El Guerrouj;;;MAR;1974;Male
-AR;4;2K0;M;4:44.79;;Berlin;GER;Outdoor;1999-09-07;Hicham El Guerrouj;;;MAR;1974;Male
-AR;4;3K0;M;7:20.67;;Rieti;ITA;Outdoor;1996-09-01;Daniel Komen;;;KEN;1976;Male
-AR;4;5K0;M;12:35.36;;Monaco;MON;Outdoor;2020-08-14;Joshua Cheptegei;;;UGA;1996;Male
-AR;4;10K;M;26:11.00;;Valencia;ESP;Outdoor;2020-10-07;Joshua Cheptegei;;;UGA;1996;Male
-AR;4;11H;M;13.11;1.8;Praha;CZE;Outdoor;2017-06-05;Antonio Alkana;;;RSA;1990;Male
-AR;4;40H;M;47.10;;Zürich;SUI;Outdoor;1991-08-07;Samuel Matete;;;ZAM;1968;Male
-AR;4;3KH;M;7:52.11;;Paris;FRA;Outdoor;2023-06-09;Lamecha Girma;;;ETH;2000;Male
-AR;4;4×1;M;37.65;;Doha;QAT;Outdoor;2019-10-04;South Africa;;;RSA;;Male
-AR;4;4×2;M;1:20.42;;Yokohama;JPN;Outdoor;2019-05-12;South Africa;;;RSA;;Male
-AR;4;4×4;M;2:57.27;;Tokyo;JPN;Outdoor;2021-08-07;;;;BOT;;Male
-AR;4;4×8;M;7:02.43;;Bruxelles;BEL;Outdoor;2006-08-25;;;;KEN;;Male
-AR;4;HOC;W;2.06;;Paris-St-Denis;FRA;Outdoor;2003-08-31;Hestrie Cloete;;;RSA;1978;Female
-AR;4;STA;W;4.42;;Wesel;GER;Outdoor;2000-06-12;Elmarie Gerryts;;;RSA;1972;Female
-AR;4;WEI;W;7.17;1.1;CA;USA;Outdoor;2021-05-29;Ese Brume;;;NGR;1996;Female
-AR;4;DRE;W;15.39;0.5;Beijing;CHN;Outdoor;2008-08-17;Francoise Mbango Etone;;;CMR;1976;Female
-AR;4;KUG;W;18.43;;CA;USA;Outdoor;2003-04-19;Vivian Peters-Chukwuemeka;;;NGR;1975;Female
-AR;4;DIS;W;64.96;;Ramona;USA;Outdoor;2023-04-15;Chioma Onyekwere;;;NGR;1994;Female
-AR;4;HAM;W;75.49;;Tucson;USA;Outdoor;2021-05-22;Annette Nneka Echikunwoke;;;NGR;1996;Female
-AR;4;SPE;W;69.35;;New York;USA;Outdoor;2012-06-09;Sunette Viljoen;;;RSA;1983;Female
-AR;4;100;W;10.72;0.4;Monaco;MON;Outdoor;2022-08-10;Marie-Josée Ta Lou;;;CIV;1988;Female
-AR;4;200;W;21.78;0.6;Zürich;SUI;Outdoor;2021-09-09;Christine Mboma;;;NAM;2003;Female
-AR;4;400;W;49.10;;Atlanta;USA;Outdoor;1996-07-29;Falilat Ogunkoya-Osheku;;;NGR;1968;Female
-AR;4;800;W;1:54.01;;Zürich;SUI;Outdoor;2008-08-29;Pamela Jelimo;;;KEN;1989;Female
-AR;4;1K0;W;2:29.15;;Monaco;MON;Outdoor;2020-08-14;Faith Kipyegon;;;KEN;1994;Female
-AR;4;1K5;W;3:49.11;;Firenze;ITA;Outdoor;2023-06-02;Faith Kipyegon;;;KEN;1994;Female
-AR;4;MEI;W;4:07.64;;Monaco;MON;Outdoor;2023-07-21;Faith Kipyegon;;;KEN;1994;Female
-AR;4;2K0;W;5:21.56;;Zagreb;CRO;Outdoor;2021-09-14;Francine Niyonsaba;;;BDI;1993;Female
-AR;4;5K0;W;14:00.21;;Eugene;USA;Outdoor;2023-09-17;Gudaf Tsegay;;;ETH;1997;Female
-AR;4;10K;W;28:54.14;;Eugene;USA;Outdoor;2024-05-25;Beatrice Chebet;;;KEN;2000;Female
-AR;4;10H;W;12.12;0.9;Eugene;USA;Outdoor;2022-07-24;Tobi Amusan;;;NGR;1997;Female
-AR;4;40H;W;52.90;;Sevilla;ESP;Outdoor;1999-08-25;Nezha Bidouane;;;MAR;1969;Female
-AR;4;3KH;W;8:44.32;;Monaco;MON;Outdoor;2018-07-20;Beatrice Chepkoech;;;KEN;1991;Female
-AR;4;10G;W;43:50.86;;Birmingham;GBR;Outdoor;2022-08-06;Emily Wamusyi Ngii;;;KEN;1986;Female
-AR;4;4×1;W;41.90;;Budapest;HUN;Outdoor;2023-08-25;Côte D’Ivoire;;;CIV;;Female
-AR;4;4×2;W;1:30.52;;Nassau;BAH;Outdoor;2015-05-02;;;;NGR;;Female
-AR;4;4×4;W;3:21.04;;Atlanta;USA;Outdoor;1996-08-03;;;;NGR;;Female
-AR;4;4×8;W;8:04.28;;Nassau;BAH;Outdoor;2014-05-25;;;;KEN;;Female
-AR;4;4×4;X;3:12.87;;Nassau;BAH;Outdoor;2024-05-05;;;;NGR;;Mixed
-AR;4;MEI;M;3:47.01;;MA;USA;Indoor;2019-03-03;Yomif Kejelcha;;;ETH;1997;Male
-AR;4;DRE;M;18.07;;Aubiére;FRA;Indoor;2021-01-16;Hugues Fabrice Zango;;;BUR;1993;Male
-AR;4;50M;M;5.61;;Liévin;FRA;Indoor;1999-02-21;Deji Aliu;;;NGR;1975;Male
-AR;4;60M;M;6.45;;Air Force Academy;USA;Indoor;1999-02-20;Leonard Myles-Mills;;;GHA;1973;Male
-AR;4;200;M;19.92;;Liévin;FRA;Indoor;1996-02-18;Frank Fredericks;;;NAM;1967;Male
-AR;4;800;M;1:43.98;;NY;USA;Indoor;2019-02-09;Michael Saruni;;;KEN;1995;Male
-AR;4;1K0;M;2:14.20;;Stockholm;SWE;Indoor;2016-02-17;Ayanleh Souleiman;;;DJI;1992;Male
-AR;4;1K5;M;3:31.04;;Birmingham;GBR;Indoor;2019-02-16;Samuel Tefera;;;ETH;1999;Male
-AR;4;3K0;M;7:23.81;;Liévin;FRA;Indoor;2023-02-15;Lamecha Girma;;;ETH;2000;Male
-AR;4;5K0;M;12:49.60;;Birmingham;GBR;Indoor;2004-02-20;Kenenisa Bekele;;;ETH;1982;Male
-AR;4;50H;M;6.48;;Liévin;FRA;Indoor;2001-02-25;Shaun Bownes;;;RSA;1970;Male
-AR;4;60H;M;7.52;;Gent;BEL;Indoor;2001-02-23;Shaun Bownes;;;RSA;1970;Male
-AR;4;5G;M;19:39.92;;Liévin;FRA;Indoor;2018-02-18;Hedi Terraoui;;;TUN;1989;Male
-AR;4;MEI;W;4:13.31;;Stockholm;SWE;Indoor;2016-02-17;Genzebe Dibaba;;;ETH;1991;Female
-AR;4;50M;W;6.04;;Liévin;FRA;Indoor;1998-02-22;Chioma Ajunwa;;;NGR;1971;Female
-AR;4;60M;W;6.97;;Birmingham;GBR;Indoor;2018-03-02;Murielle Ahouré;;;CIV;1987;Female
-AR;4;200;W;22.11;;Albuquerque;USA;Indoor;2023-03-10;Favour Ofili;;;NGR;2002;Female
-AR;4;800;W;1:57.06;;Liévin;FRA;Indoor;1999-02-21;Maria De Lurdes Mutola;;;MOZ;1972;Female
-AR;4;1K0;W;2:30.94;;Stockholm;SWE;Indoor;1999-02-25;Maria De Lurdes Mutola;;;MOZ;1972;Female
-AR;4;1K5;W;3:53.09;;Liévin;FRA;Indoor;2021-02-09;Gudaf Tsegay;;;ETH;1997;Female
-AR;4;3K0;W;8:16.60;;Stockholm;SWE;Indoor;2014-02-06;Genzebe Dibaba;;;ETH;1991;Female
-AR;4;3K0;W;8:16.60;;Stockholm;SWE;Indoor;2014-02-06;Genzebe Dibaba;;;ETH;1991;Female
-AR;4;5K0;W;14:18.86;;Stockholm;SWE;Indoor;2015-02-19;Genzebe Dibaba;;;ETH;1991;Female
-AR;4;50H;W;6.76;;Liévin;FRA;Indoor;2001-02-25;Glory Alozie;;;NGR;1977;Female
-AR;4;60H;W;7.75;;Boston;USA;Indoor;2024-02-04;Tobi Amusan;;;NGR;1997;Female
-AR;4;3G;W;14:13.46;;Lyon;FRA;Indoor;2018-02-03;Tahani Ghazal;;;TUN;;Female
-AR;6;HOC;M;2.36;;Melbourne;AUS;Outdoor;1997-03-02;Tim Forsyth;;;AUS;1973;Male
-AR;6;HOC;M;2.36;;Eberstadt;GER;Outdoor;2018-08-26;Brandon Starc;;;AUS;1993;Male
-AR;6;WEI;M;8.54;1.7;Stockholm;SWE;Outdoor;2011-07-29;Mitchell Watt;;;AUS;1988;Male
-AR;6;DRE;M;17.46;1.7;London;GBR;Outdoor;1982-08-07;Kenneth Lorraway;;;AUS;1956;Male
-AR;6;KUG;M;22.90;;Doha;QAT;Outdoor;2019-10-05;Tom Walsh;;;NZL;1992;Male
-AR;6;DIS;M;71.48;;Allendale;USA;Outdoor;2024-05-11;Alex Rose;;;SAM;1991;Male
-AR;6;HAM;M;79.29;;Varaždin;CRO;Outdoor;2002-07-06;Stuart Rendell;;;AUS;1972;Male
-AR;6;SPE;M;89.02;;Brisbane;AUS;Outdoor;2008-02-29;Jarrod Bannister;;;AUS;1984;Male
-AR;6;100;M;9.93;1.8;Mito;JPN;Outdoor;2003-05-05;Patrick Johnson;;;AUS;1972;Male
-AR;6;200;M;20.06;0.9;Ciudad de México;MEX;Outdoor;1968-10-16;Peter Norman;;;AUS;1942;Male
-AR;6;400;M;44.38;;Jamsil, Seoul;KOR;Outdoor;1988-09-26;Darren Clark;;;AUS;1965;Male
-AR;6;800;M;1:43.99;;Decines;FRA;Outdoor;2023-07-08;Joseph Deng;;;AUS;1998;Male
-AR;6;1K0;M;2:16.09;;Ostrava;CZE;Outdoor;2014-06-17;Jeffrey Riseley;;;AUS;1986;Male
-AR;6;1K5;M;3:29.41;;Oslo;NOR;Outdoor;2023-06-15;Oliver Hoare;;;AUS;1997;Male
-AR;6;MEI;M;3:47.48;;Oslo;NOR;Outdoor;2022-06-16;Oliver Hoare;;;AUS;1997;Male
-AR;6;2K0;M;4:48.77;;Bruxelles;BEL;Outdoor;2023-09-08;Stewart Mcsweyn;;;AUS;1995;Male
-AR;6;3K0;M;7:28.02;;Roma;ITA;Outdoor;2020-09-17;Stewart Mcsweyn;;;AUS;1995;Male
-AR;6;5K0;M;12:55.76;;London;GBR;Outdoor;2004-07-30;Craig Mottram;;;AUS;1980;Male
-AR;6;10K;M;27:09.57;;San Juan Capistrano;USA;Outdoor;2024-03-16;Jack Rayner;;;AUS;1995;Male
-AR;6;11H;M;13.29;0.6;Göteborg;SWE;Outdoor;1995-08-11;Kyle Vander-Kuyp;;;AUS;1971;Male
-AR;6;40H;M;48.28;;Atlanta;USA;Outdoor;1996-07-31;Rohan Robinson;;;AUS;1971;Male
-AR;6;3KH;M;8:13.26;;Monaco;MON;Outdoor;2023-07-21;Geordie Beamish;;;NZL;1996;Male
-AR;6;4×1;M;38.17;;Göteborg;SWE;Outdoor;1995-08-12;;;;AUS;;Male
-AR;6;4×1;M;38.17;;London;GBR;Outdoor;2012-08-10;;;;AUS;;Male
-AR;6;4×2;M;1:23.04;;Sydney;AUS;Outdoor;1998-12-06;;;;AUS;;Male
-AR;6;4×4;M;2:59.70;;Los Angeles;USA;Outdoor;1984-08-11;;;;AUS;;Male
-AR;6;4×8;M;7:11.48;;Nassau;BAH;Outdoor;2014-05-24;;;;AUS;;Male
-AR;6;HOC;W;2.03;;Eugene;USA;Outdoor;2023-09-17;Nicola Olyslagers;;;AUS;1996;Female
-AR;6;HOC;W;2.03;;Canberra;AUS;Outdoor;2024-01-27;Nicola Olyslagers;;;AUS;1996;Female
-AR;6;STA;W;4.94;;Jockgrim;GER;Outdoor;2018-07-17;Eliza Mccartney;;;NZL;1996;Female
-AR;6;WEI;W;7.13;1.8;Chula Vista;USA;Outdoor;2022-07-09;Brooke Buschkuehl;;;AUS;1993;Female
-AR;6;DRE;W;14.04;2.0;Hobart;AUS;Outdoor;2002-03-09;Nicole Mladenis;;;AUS;1975;Female
-AR;6;DRE;W;14.04;1.8;Perth;AUS;Outdoor;2003-12-07;Nicole Mladenis;;;AUS;1975;Female
-AR;6;KUG;W;21.24;;Daegu;KOR;Outdoor;2011-08-29;Valerie Adams;;;NZL;1984;Female
-AR;6;DIS;W;69.64;;London;GBR;Outdoor;2017-08-13;Dani Stevens;;;AUS;1988;Female
-AR;6;HAM;W;74.61;;Tucson;USA;Outdoor;2021-05-20;Lauren Bruce;;;NZL;1997;Female
-AR;6;SPE;W;68.92;;Gold Coast;AUS;Outdoor;2018-04-11;Kathryn Mitchell;;;AUS;1982;Female
-AR;6;100;W;10.96;2.0;La Chaux-de-Fonds;SUI;Outdoor;2023-07-02;Zoe Hobbs;;;NZL;1997;Female
-AR;6;200;W;22.23;0.8;Stuttgart;GER;Outdoor;1997-07-13;Melinda Gainsford;;;AUS;1971;Female
-AR;6;400;W;48.63;;Atlanta;USA;Outdoor;1996-07-29;Cathy Freeman;;;AUS;1973;Female
-AR;6;800;W;1:57.78;;London;GBR;Outdoor;2023-07-23;Catriona Bisset;;;AUS;1994;Female
-AR;6;1K0;W;2:34.63;;Bern;SUI;Outdoor;2023-08-04;Abbey Caldwell;;;AUS;2001;Female
-AR;6;1K5;W;3:55.97;;Eugene;USA;Outdoor;2024-05-25;Jessica Hull;;;AUS;1996;Female
-AR;6;MEI;W;4:15.34;;Monaco;MON;Outdoor;2023-07-21;Jessica Hull;;;AUS;1996;Female
-AR;6;2K0;W;5:37.71;;Ostrava;CZE;Outdoor;2003-06-12;Benita Willis-Johnson;;;AUS;1979;Female
-AR;6;3K0;W;8:24.20;;Oslo;NOR;Outdoor;2024-05-30;Georgia Griffith;;;AUS;1996;Female
-AR;6;10K;W;30:35.54;;CA;USA;Outdoor;2008-05-04;Kimberley Smith;;;NZL;1981;Female
-AR;6;10H;W;12.28;1.1;Daegu;KOR;Outdoor;2011-09-03;Sally Pearson;;;AUS;1986;Female
-AR;6;40H;W;53.17;;Jamsil, Seoul;KOR;Outdoor;1988-09-28;Debbie Flintoff-King;;;AUS;1960;Female
-AR;6;3KH;W;9:14.28;;Paris-St-Denis;FRA;Outdoor;2016-08-27;Genevieve Lacaze;;;AUS;1989;Female
-AR;6;10G;W;41:57.22;;WA;USA;Outdoor;1990-07-24;Kerry Saxby;;;AUS;1961;Female
-AR;6;4×1;W;42.83;;Nassau;BAH;Outdoor;2024-05-04;;;;AUS;;Female
-AR;6;4×2;W;1:32.6;;Brisbane;AUS;Outdoor;1976-01-25;Australia / New Zealand;;;AUS;;Female
-AR;6;4×4;W;3:23.81;;Sydney;AUS;Outdoor;2000-09-30;;;;AUS;;Female
-AR;6;4×8;W;8:13.26;;Nassau;BAH;Outdoor;2014-05-25;;;;AUS;;Female
-AR;6;4×4;X;3:17.00;;Gold Coast;AUS;Outdoor;2021-06-12;;;;AUS;;Mixed
-AR;6;MEI;M;3:50.83;;New York;USA;Indoor;2022-01-29;Oliver Hoare;;;AUS;1997;Male
-AR;6;MEI;M;3:50.83;;New York;USA;Indoor;2023-02-11;Oliver Hoare;;;AUS;1997;Male
-AR;6;HOC;M;2.36;;Glasgow;GBR;Indoor;2024-03-03;Hamish Kerr;;;NZL;1996;Male
-AR;6;STA;M;6.06;;MA;USA;Indoor;2009-02-07;Steven Hooker;;;AUS;1982;Male
-AR;6;60M;M;6.52;;Maebashi;JPN;Indoor;1999-03-07;Matt Shirvington;;;AUS;1978;Male
-AR;6;60M;M;6.52;;Maebashi;JPN;Indoor;1999-03-07;Matt Shirvington;;;AUS;1978;Male
-AR;6;200;M;20.71;;Toronto;CAN;Indoor;1993-03-14;Damien Marsh;;;AUS;1971;Male
-AR;6;800;M;1:45.59;;Fayetteville;USA;Indoor;2021-02-13;Charlie Hunter;;;AUS;1996;Male
-AR;6;1K0;M;2:16.95;;Boston;USA;Indoor;2024-02-10;Jack Anstey;;;AUS;1997;Male
-AR;6;1K5;M;3:32.35;;New York;USA;Indoor;2021-02-13;Oliver Hoare;;;AUS;1997;Male
-AR;6;3K0;M;7:34.50;;MA;USA;Indoor;2008-01-26;Craig Mottram;;;AUS;1980;Male
-AR;6;5K0;M;13:04.33;;Boston;USA;Indoor;2024-01-26;Geordie Beamish;;;NZL;1996;Male
-AR;6;50H;M;7.09;;CA;USA;Indoor;2001-01-20;Joseph Rodan;;;FIJ;1977;Male
-AR;6;60H;M;7.56;;Beograd;SRB;Indoor;2022-03-20;Chris Douglas;;;AUS;1997;Male
-AR;6;5G;M;18:52.20;;Indianapolis;USA;Indoor;1987-03-07;David Smith;;;AUS;1955;Male
-AR;6;MEI;W;4:19.03;;New York;USA;Indoor;2024-02-11;Jessica Hull;;;AUS;1996;Female
-AR;6;50M;W;6.3;;Toronto;CAN;Indoor;1965-01-29;Pamela Kilborn;;;AUS;1939;Female
-AR;6;60M;W;7.06;;Glasgow;GBR;Indoor;2024-03-02;Zoe Hobbs;;;NZL;1997;Female
-AR;6;200;W;22.64;;Barcelona;ESP;Indoor;1995-03-10;Melinda Gainsford;;;AUS;1971;Female
-AR;6;200;W;22.64;;Barcelona;ESP;Indoor;1995-03-11;Melinda Gainsford;;;AUS;1971;Female
-AR;6;800;W;1:59.46;;Birmingham;GBR;Indoor;2022-02-19;Catriona Bisset;;;AUS;1994;Female
-AR;6;1K0;W;2:36.96;;MA;USA;Indoor;2000-02-06;Toni Hodgkinson;;;NZL;1971;Female
-AR;6;1K5;W;4:01.19;;New York;USA;Indoor;2024-02-11;Jessica Hull;;;AUS;1996;Female
-AR;6;3K0;W;8:24.39;;Glasgow;GBR;Indoor;2024-03-02;Jessica Hull;;;AUS;1996;Female
-AR;6;5K0;W;14:39.89;;NY;USA;Indoor;2009-02-27;Kimberley Smith;;;NZL;1981;Female
-AR;6;5K0;W;14:39.89;;NY;USA;Indoor;2009-02-27;Kimberley Smith;;;NZL;1981;Female
-AR;6;60H;W;7.73;;Istanbul;TUR;Indoor;2012-03-10;Sally Pearson;;;AUS;1986;Female
-AR;6;4×2;W;1:42.34;;ID;USA;Indoor;2017-02-18;Marybyrnong Sports Academy;;;AUS;;Female
-AR;5;HOC;M;2.43;;Bruxelles;BEL;Outdoor;2014-09-05;Mutaz Essa Barshim;;;QAT;1991;Male
-AR;5;STA;M;6.00;;Bergen;NOR;Outdoor;2023-06-10;Ernest John Obiena;;;PHI;1995;Male
-AR;5;STA;M;6.00;;Budapest;HUN;Outdoor;2023-08-26;Ernest John Obiena;;;PHI;1995;Male
-AR;5;WEI;M;8.48;0.6;Sotteville-lès-Rouen;FRA;Outdoor;2006-07-02;Mohamed Salman Al Khuwalidi;;;KSA;1981;Male
-AR;5;DRE;M;17.59;0.0;Jinan;CHN;Outdoor;2009-10-26;Yanxi Li;;;CHN;1984;Male
-AR;5;KUG;M;21.77;;Bhubaneshwar;IND;Outdoor;2023-06-19;Tajinderpal Singh Toor;;;IND;1994;Male
-AR;5;DIS;M;69.32;;Tallinn;EST;Outdoor;2008-06-03;Ehsan Hadadi;;;IRI;1985;Male
-AR;5;HAM;M;84.86;;Praha;CZE;Outdoor;2003-06-29;Koji Murofushi;;;JPN;1974;Male
-AR;5;SPE;M;91.36;;Taipei City;TPE;Outdoor;2017-08-26;Chao-Tsun Cheng;;;TPE;1993;Male
-AR;5;100;M;9.83;0.9;Tokyo;JPN;Outdoor;2021-08-01;Bingtian Su;;;CHN;1989;Male
-AR;5;200;M;19.88;0.9;London;GBR;Outdoor;2019-07-21;Zhenye Xie;;;CHN;1993;Male
-AR;5;400;M;43.93;;Beijing;CHN;Outdoor;2015-08-23;Youssef Ahmed Masrahi;;;KSA;1987;Male
-AR;5;800;M;1:42.79;;Monaco;MON;Outdoor;2008-07-29;Yusuf Saad Kamel;;;BRN;1983;Male
-AR;5;1K0;M;2:14.72;;Stockholm;SWE;Outdoor;2008-07-22;Yusuf Saad Kamel;;;BRN;1983;Male
-AR;5;1K5;M;3:29.14;;Roma;ITA;Outdoor;2006-07-14;Rashid Ramzi;;;BRN;1980;Male
-AR;5;MEI;M;3:47.97;;Oslo;NOR;Outdoor;2005-07-29;Daham Najim Bashir;;;QAT;1979;Male
-AR;5;2K0;M;4:55.57;;Roma;ITA;Outdoor;1995-06-08;Mohamed Suleiman;;;QAT;1969;Male
-AR;5;3K0;M;7:30.76;;Doha;QAT;Outdoor;2005-05-13;Jamal Bilal Salem;;;QAT;1978;Male
-AR;5;5K0;M;12:51.96;;Monaco;MON;Outdoor;2013-07-19;Albert Rop;;;BRN;1992;Male
-AR;5;10K;M;26:38.76;;Bruxelles;BEL;Outdoor;2003-09-05;Ahmad Hassan Abdullah;;;QAT;1981;Male
-AR;5;11H;M;12.88;1.1;Lausanne;SUI;Outdoor;2006-07-11;Xiang Liu;;;CHN;1983;Male
-AR;5;40H;M;46.98;;Paris;FRA;Outdoor;2018-06-30;Abderrahman Samba;;;QAT;1995;Male
-AR;5;3KH;M;7:53.63;;Bruxelles;BEL;Outdoor;2004-09-03;Saif Saaeed Shaheen;;;QAT;1982;Male
-AR;5;4×1;M;37.43;;Doha;QAT;Outdoor;2019-10-05;;;;JPN;;Male
-AR;5;4×2;M;1:20.83;;Xi'an;CHN;Outdoor;2021-09-23;;;;CHN;;Male
-AR;5;4×2;M;1:20.83;;Xi'an;CHN;Outdoor;2021-09-23;;;;CHN;;Male
-AR;5;4×4;M;2:59.05;;Budapest;HUN;Outdoor;2023-08-26;;;;IND;;Male
-AR;5;4×8;M;7:06.66;;Bruxelles;BEL;Outdoor;2006-08-25;;;;QAT;;Male
-AR;5;HOC;W;2.00;;Almaty;KAZ;Outdoor;2021-06-08;Nadezhda Dubovitskaya;;;KAZ;1998;Female
-AR;5;STA;W;4.72;;Shanghai;CHN;Outdoor;2019-05-18;Ling Li;;;CHN;1989;Female
-AR;5;WEI;W;7.01;1.4;Jinan;CHN;Outdoor;1993-06-04;Weili Yao;;;CHN;1968;Female
-AR;5;DRE;W;15.25;1.7;Split;CRO;Outdoor;2010-09-04;Olga Rypakova;;;KAZ;1984;Female
-AR;5;KUG;W;21.76;;Shijiazhuang;CHN;Outdoor;1988-04-23;Meisu Li;;;CHN;1959;Female
-AR;5;DIS;W;71.68;;Beijing;CHN;Outdoor;1992-03-14;Yanling Xiao;;;CHN;1968;Female
-AR;5;HAM;W;77.68;;Chengdu;CHN;Outdoor;2014-03-29;Zheng Wang;;;CHN;1987;Female
-AR;5;SPE;W;67.98;;Shenyang;CHN;Outdoor;2019-08-02;Huihui Lyu;;;CHN;1989;Female
-AR;5;100;W;10.79;0.0;Shanghai;CHN;Outdoor;1997-10-18;Xuemei Li;;;CHN;1977;Female
-AR;5;200;W;22.01;0.0;Shanghai;CHN;Outdoor;1997-10-22;Xuemei Li;;;CHN;1977;Female
-AR;5;400;W;48.14;;Doha;QAT;Outdoor;2019-10-03;Salwa Eid Naser;;;BRN;1998;Female
-AR;5;800;W;1:55.54;;Beijing;CHN;Outdoor;1993-09-09;Dong Liu;;;CHN;1973;Female
-AR;5;1K0;W;2:35.30;;Berlin;GER;Outdoor;2018-09-02;Nelly Jepkosgei;;;BRN;1991;Female
-AR;5;1K5;W;3:50.46;;Beijing;CHN;Outdoor;1993-09-11;Yunxia Qu;;;CHN;1972;Female
-AR;5;MEI;W;4:17.75;;Bruxelles;BEL;Outdoor;2007-09-14;Maryam Yusuf Jamal;;;BRN;1984;Female
-AR;5;2K0;W;5:29.41;;Beijing;CHN;Outdoor;1993-09-12;Junxia Wang;;;CHN;1973;Female
-AR;5;3K0;W;8:06.11;;Beijing;CHN;Outdoor;1993-09-13;Junxia Wang;;;CHN;1973;Female
-AR;5;5K0;W;14:28.09;;Shanghai;CHN;Outdoor;1997-10-23;Jiang Bo;;;CHN;1977;Female
-AR;5;10K;W;29:31.78;;Beijing;CHN;Outdoor;1993-09-08;Junxia Wang;;;CHN;1973;Female
-AR;5;10H;W;12.44;-0.8;Luzern;SUI;Outdoor;1995-06-27;Olga Shishigina;;;KAZ;1968;Female
-AR;5;40H;W;53.09;;Budapest;HUN;Outdoor;2023-08-24;Kemi Adekoya;;;BRN;1993;Female
-AR;5;3KH;W;8:50.66;;Eugene;USA;Outdoor;2023-09-16;Winfred Mutile Yavi;;;BRN;1999;Female
-AR;5;10G;W;41:37.9;;Beijing;CHN;Outdoor;1994-04-07;Hongmiao Gao;;;CHN;1974;Female
-AR;5;4×1;W;42.23;;Shanghai;CHN;Outdoor;1997-10-23;;;;CHN;;Female
-AR;5;4×2;W;1:32.76;;Yokohama;JPN;Outdoor;2019-05-12;PR Of China;;;CHN;;Female
-AR;5;4×4;W;3:24.28;;Beijing;CHN;Outdoor;1993-09-13;;;;CHN;;Female
-AR;5;4×8;W;8:16.2;;Shanghai;CHN;Outdoor;1991-10-01;;;;CHN;;Female
-AR;5;4×4;X;3:11.82;;Doha;QAT;Outdoor;2019-09-29;;;;BRN;;Mixed
-AR;5;MEI;M;3:54.84;;Boston;USA;Indoor;2024-02-10;Ryoma Aoki;;;JPN;1997;Male
-AR;5;50M;M;5.69;;Liévin;FRA;Indoor;2002-02-24;Gennadiy Chernovol;;;KAZ;1976;Male
-AR;5;60M;M;6.42;;Birmingham;GBR;Indoor;2018-03-03;Bingtian Su;;;CHN;1989;Male
-AR;5;200;M;20.63;;Maebashi;JPN;Indoor;1999-03-05;Koji Ito;;;JPN;1970;Male
-AR;5;800;M;1:45.26;;Valencia;ESP;Indoor;2008-03-09;Yusuf Saad Kamel;;;BRN;1983;Male
-AR;5;1K0;M;2:17.06;;Gent;BEL;Indoor;2008-02-24;Belal Mansoor Ali;;;BRN;1988;Male
-AR;5;1K5;M;3:36.28;;Stockholm;SWE;Indoor;2007-02-20;Belal Mansoor Ali;;;BRN;1988;Male
-AR;5;3K0;M;7:31.77;;Liévin;FRA;Indoor;2022-02-17;Birhanu Balew;;;BRN;1996;Male
-AR;5;5K0;M;13:08.41;;Boston;USA;Indoor;2022-02-12;Kieran Tuntivate;;;THA;1997;Male
-AR;5;50H;M;6.44;;Liévin;FRA;Indoor;2004-02-28;Xiang Liu;;;CHN;1983;Male
-AR;5;60H;M;7.41;;Birmingham;GBR;Indoor;2012-02-18;Xiang Liu;;;CHN;1983;Male
-AR;5;5G;M;19:14.00;;Karaganda;KAZ;Indoor;1995-01-28;Sergey Korepanov;;;KAZ;1964;Male
-AR;5;4×2;M;1:26.70;;Ust-Kamenogorsk;KAZ;Indoor;2018-01-15;Karaganda Region;;;KAZ;;Male
-AR;5;4×8;M;8:48.6;;Tokyo;JPN;Indoor;1961-03-19;Ricker Co;;;JPN;;Male
-AR;5;MEI;W;4:24.71;;Birmingham;GBR;Indoor;2010-02-20;Maryam Yusuf Jamal;;;BRN;1984;Female
-AR;5;50M;W;6.31;;Liévin;FRA;Indoor;2001-02-25;Susanthika Jayasinghe;;;SRI;1975;Female
-AR;5;60M;W;7.09;;Stuttgart;GER;Indoor;1999-02-07;Susanthika Jayasinghe;;;SRI;1975;Female
-AR;5;200;W;22.99;;Lisboa;POR;Indoor;2001-03-09;Susanthika Jayasinghe;;;SRI;1975;Female
-AR;5;800;W;2:00.78;;Yokohama;JPN;Indoor;2003-02-22;Miho Sugimori;;;JPN;1978;Female
-AR;5;1K0;W;2:46.6;;Beijing;CHN;Indoor;1987-03-27;Xiujuan Geng;;;CHN;1964;Female
-AR;5;1K5;W;3:59.79;;Valencia;ESP;Indoor;2008-03-09;Maryam Yusuf Jamal;;;BRN;1984;Female
-AR;5;3K0;W;8:36.03;;Glasgow;GBR;Indoor;2024-03-02;Nozomi Tanaka;;;JPN;1999;Female
-AR;5;5K0;W;15:23.87;;Boston;USA;Indoor;2022-02-27;Mikuni Yada;;;JPN;1999;Female
-AR;5;50H;W;6.70;;Budapest;HUN;Indoor;1999-02-05;Olga Shishigina;;;KAZ;1968;Female
-AR;5;60H;W;7.82;;Liévin;FRA;Indoor;1999-02-21;Olga Shishigina;;;KAZ;1968;Female
-AR;5;3G;W;12:42.65;;Osaka;JPN;Indoor;1994-02-11;Yuko Sato;;;JPN;1968;Female
-AR;5;4×2;W;1:36.40;;Ust-Kamenogorsk;KAZ;Indoor;2017-02-11;Almaty Team;;;KAZ;;Female
-AR;3;HOC;M;2.33;;Pereira;COL;Outdoor;1994-10-17;Gilmar Mayo;;;COL;1969;Male
-AR;3;STA;M;6.03;;Rio de Janeiro;BRA;Outdoor;2016-08-15;Thiago Braz;;;BRA;1993;Male
-AR;3;WEI;M;8.73;1.2;Hengelo;NED;Outdoor;2008-05-24;Irving Saladino;;;PAN;1983;Male
-AR;3;DRE;M;17.90;0.4;Belém;BRA;Outdoor;2007-05-20;Jadel Gregório;;;BRA;1980;Male
-AR;3;KUG;M;22.61;;Palo Alto;USA;Outdoor;2019-06-30;Darlan Romani;;;BRA;1991;Male
-AR;3;DIS;M;70.29;;Lovelhe;POR;Outdoor;2020-07-22;Mauricio Ortega;;;COL;1994;Male
-AR;3;HAM;M;78.63;;Celje;SLO;Outdoor;2016-06-19;Wagner José Alberto Domingos;;;BRA;1983;Male
-AR;3;SPE;M;85.11;;Cuiaba;BRA;Outdoor;2024-05-12;Pedro Henrique Rodrigues;;;BRA;1999;Male
-AR;3;100;M;9.89;0.8;São Paulo;BRA;Outdoor;2023-07-28;Issamade Asinga;;;SUR;2004;Male
-AR;3;200;M;19.81;-0.3;Berlin;GER;Outdoor;2009-08-20;Alonso Edward;;;PAN;1989;Male
-AR;3;400;M;43.93;;Tokyo;JPN;Outdoor;2021-08-02;Anthony José Zambrano;;;COL;1998;Male
-AR;3;800;M;1:41.77;;Köln;GER;Outdoor;1984-08-26;Joaquim Cruz;;;BRA;1963;Male
-AR;3;1K0;M;2:14.09;;Nice;FRA;Outdoor;1984-08-20;Joaquim Cruz;;;BRA;1963;Male
-AR;3;1K5;M;3:33.25;;Rieti;ITA;Outdoor;2005-08-28;Hudson Santos De Souza;;;BRA;1977;Male
-AR;3;MEI;M;3:51.05;;Oslo;NOR;Outdoor;2005-07-29;Hudson Santos De Souza;;;BRA;1977;Male
-AR;3;2K0;M;5:03.34;;Manaus;BRA;Outdoor;2002-04-06;Hudson Santos De Souza;;;BRA;1977;Male
-AR;3;3K0;M;7:37.15;;Zagreb;CRO;Outdoor;2023-09-10;Santiago Catrofe;;;URU;1999;Male
-AR;3;5K0;M;13:11.57;;Palo Alto;USA;Outdoor;2023-04-21;Federico Bruno;;;ARG;1993;Male
-AR;3;10K;M;27:28.12;;Neerpelt;BEL;Outdoor;2007-06-02;Marilson Gomes Dos Santos;;;BRA;1977;Male
-AR;3;11H;M;13.17;0.4;Rio de Janeiro;BRA;Outdoor;2022-06-23;Rafael Pereira;;;BRA;1997;Male
-AR;3;40H;M;46.29;;Eugene;USA;Outdoor;2022-07-19;Alison Dos Santos;;;BRA;2000;Male
-AR;3;3KH;M;8:14.41;;Mar del Plata;ARG;Outdoor;1995-03-22;Wander Do Prado Moura;;;BRA;1969;Male
-AR;3;4×1;M;37.72;;Doha;QAT;Outdoor;2019-10-05;;;;BRA;;Male
-AR;3;4×2;M;1:24.42;;PA;USA;Outdoor;2015-04-25;;;;GUY;;Male
-AR;3;4×4;M;2:58.56;;Winnipeg;CAN;Outdoor;1999-07-30;;;;BRA;;Male
-AR;3;4×8;M;7:47.3;;São Paulo;BRA;Outdoor;1965-04-21;Esporte Clube Pinheiros;;;BRA;;Male
-AR;3;HOC;W;1.96;;Oristano;ITA;Outdoor;1997-09-08;Solange Witteveen;;;ARG;1976;Female
-AR;3;STA;W;4.87;;Sao Bernardo do Campo;BRA;Outdoor;2016-07-03;Fabiana Murer;;;BRA;1981;Female
-AR;3;WEI;W;7.26;+1.8;Bogotá;COL;Outdoor;1999-06-25;Maurren Higa Maggi;;;BRA;1976;Female
-AR;3;KUG;W;19.30;;Tunja;COL;Outdoor;2001-07-14;Elisângela Maria Adriano;;;BRA;1972;Female
-AR;3;DIS;W;65.34;;Leiria;POR;Outdoor;2019-06-26;Andressa De Morais;;;BRA;1990;Female
-AR;3;HAM;W;73.74;;Buenos Aires;ARG;Outdoor;2010-04-10;Jennifer Dahlgren;;;ARG;1984;Female
-AR;3;SPE;W;66.70;;Cuiaba;BRA;Outdoor;2024-05-12;Flor Denis Ruiz Hurtado;;;COL;1991;Female
-AR;3;100;W;10.91;-0.2;London;GBR;Outdoor;2017-08-06;Rosângela Santos;;;BRA;1990;Female
-AR;3;200;W;22.47;+1.4;Eugene;USA;Outdoor;2022-07-19;Vitoria Cristina Rosa;;;BRA;1996;Female
-AR;3;400;W;49.64;;Barcelona;ESP;Outdoor;1992-08-05;Ximena Restrepo;;;COL;1969;Female
-AR;3;800;W;1:56.68;;Göteborg;SWE;Outdoor;1995-08-13;Letitia Vriesde;;;SUR;1964;Female
-AR;3;1K0;W;2:32.25;;Berlin;GER;Outdoor;1991-09-10;Letitia Vriesde;;;SUR;1964;Female
-AR;3;1K5;W;4:05.67;;Tokyo;JPN;Outdoor;1991-08-31;Letitia Vriesde;;;SUR;1964;Female
-AR;3;MEI;W;4:27.41;;Monaco;MON;Outdoor;2023-07-21;Joselyn Daniely Brea;;;VEN;1994;Female
-AR;3;2K0;W;5:59.96;;Rivas;ESP;Outdoor;2004-06-10;Niusha Mancilla;;;BOL;1971;Female
-AR;3;3K0;W;8:43.26;;Chorzów;POL;Outdoor;2023-07-16;Joselyn Daniely Brea;;;VEN;1994;Female
-AR;3;5K0;W;14:36.59;;Los Angeles;USA;Outdoor;2024-05-17;Joselyn Daniely Brea;;;VEN;1994;Female
-AR;3;10K;W;31:33.07;;San Juan Capistrano;USA;Outdoor;2024-03-16;Florencia Borelli;;;ARG;1992;Female
-AR;3;10H;W;12.49;+1.3;Fayetteville;USA;Outdoor;2024-05-23;Maribel Vanessa Caicedo;;;ECU;1998;Female
-AR;3;40H;W;53.69;;Eugene;USA;Outdoor;2022-07-20;Gianna Woodruff;;;PAN;1993;Female
-AR;3;3KH;W;9:24.38;;Watford;GBR;Outdoor;2022-06-11;Tatiane Raquel Da Silva;;;BRA;1990;Female
-AR;3;10G;W;42:02.99;;Trujillo;PER;Outdoor;2018-08-25;Lorena Arenas;;;COL;1993;Female
-AR;3;4×1;W;42.29;;Moskva;RUS;Outdoor;2013-08-18;;;;BRA;;Female
-AR;3;4×2;W;1:35.91;;Yokohama;JPN;Outdoor;2019-05-12;;;;ECU;;Female
-AR;3;4×4;W;3:26.68;;São Paulo;BRA;Outdoor;2011-08-07;BM&F Bovespa;;;BRA;;Female
-AR;3;4×4;X;3:14.48;;Ciudad de México;MEX;Outdoor;2024-04-07;;;;COL;;Mixed
-AR;3;MEI;M;3:56.26;;AR;USA;Indoor;2001-02-10;Hudson Santos De Souza;;;BRA;1977;Male
-AR;3;60M;M;6.52;;Paris;FRA;Indoor;2009-02-13;José Carlos Moreira;;;BRA;1983;Male
-AR;3;200;M;20.65;;Sindelfingen;GER;Indoor;1989-02-26;Robson Da Silva;;;BRA;1964;Male
-AR;3;800;M;1:45.43;;Pireaus;GRE;Indoor;1989-03-08;José Luis Barbosa;;;BRA;1961;Male
-AR;3;1K0;M;2:16.99;;Stuttgart;GER;Indoor;1989-02-12;Joaquim Cruz;;;BRA;1963;Male
-AR;3;1K5;M;3:38.03;;Sabadell;ESP;Indoor;2022-02-08;Federico Bruno;;;ARG;1993;Male
-AR;3;3K0;M;7:49.46;;Sevilla;ESP;Indoor;1991-03-10;Jacinto Germán Navarrete;;;COL;1962;Male
-AR;3;5K0;M;13:42.54;;San Sebastián;ESP;Indoor;1990-02-20;Antonio Fabian Silio;;;ARG;1966;Male
-AR;3;50H;M;6.57;;Groningen;NED;Indoor;2006-01-28;Redelén Melo Dos Santos;;;BRA;1976;Male
-AR;3;60H;M;7.58;;Berlin;GER;Indoor;2022-02-04;Rafael Pereira;;;BRA;1997;Male
-AR;3;60H;M;7.58;;Mondeville;FRA;Indoor;2022-02-09;Rafael Pereira;;;BRA;1997;Male
-AR;3;60H;M;7.58;;Val-de-Reuil;FRA;Indoor;2022-02-14;Rafael Pereira;;;BRA;1997;Male
-AR;3;60H;M;7.58;;Cochabamba;BOL;Indoor;2022-02-20;Rafael Pereira;;;BRA;1997;Male
-AR;3;60H;M;7.58;;Beograd;SRB;Indoor;2022-03-20;Rafael Pereira;;;BRA;1997;Male
-AR;3;60H;M;7.58;;Cochabamba;BOL;Indoor;2024-01-28;Eduardo Rodrigues;;;BRA;1995;Male
-AR;3;5G;M;19:28.87;;Toronto;CAN;Indoor;1993-03-13;Sérgio Vieira Galdino;;;BRA;1969;Male
-AR;3;MEI;W;4:34.37;;Boston;USA;Indoor;2024-01-27;Carmen Alder Caisalitin;;;ECU;2003;Female
-AR;3;DRE;W;15.74;;Beograd;SRB;Indoor;2022-03-20;Yulimar Rojas;;;VEN;1995;Female
-AR;3;50M;W;6.31;;CA;USA;Indoor;1983-02-11;Jennifer Inniss;;;GUY;1959;Female
-AR;3;60M;W;7.14;;Beograd;SRB;Indoor;2022-03-18;Vitoria Cristina Rosa;;;BRA;1996;Female
-AR;3;200;W;23.02;;TX;USA;Indoor;2019-01-26;Brenessa Thompson;;;GUY;1996;Female
-AR;3;800;W;1:59.21;;Birmingham;GBR;Indoor;1997-02-23;Letitia Vriesde;;;SUR;1964;Female
-AR;3;1K0;W;2:38.30;;Stockholm;SWE;Indoor;1999-02-25;Letitia Vriesde;;;SUR;1964;Female
-AR;3;1K5;W;4:12.95;;Sabadell;ESP;Indoor;2023-01-28;Fedra Aldana Luna;;;ARG;1995;Female
-AR;3;3K0;W;8:57.59;;Val-de-Reuil;FRA;Indoor;2023-02-04;Fedra Aldana Luna;;;ARG;1995;Female
-AR;3;5K0;W;15:51.98;;Boston;USA;Indoor;2023-12-02;Carmen Alder Caisalitin;;;ECU;2003;Female
-AR;3;60H;W;7.91;;Sopot;POL;Indoor;2014-03-07;Yvette Lewis;;;PAN;1985;Female
-AR;3;3G;W;13:24.0;;Cochabamba;BOL;Indoor;2023-02-12;Angela Castro;;;BOL;1993;Female
-AR;2;HOC;M;2.45;;Salamanca;ESP;Outdoor;1993-07-27;Javier Sotomayor;;;CUB;1967;Male
-AR;2;STA;M;6.07;;Nashville;USA;Outdoor;2023-06-02;KC Lightfoot;;;USA;1999;Male
-AR;2;WEI;M;8.95;0.3;Tokyo;JPN;Outdoor;1991-08-30;Mike Powell;;;USA;1963;Male
-AR;2;DRE;M;18.21;0.2;Beijing;CHN;Outdoor;2015-08-27;Christian Taylor;;;USA;1990;Male
-AR;2;KUG;M;23.56;;Los Angeles;USA;Outdoor;2023-05-27;Ryan Crouser;;;USA;1992;Male
-AR;2;DIS;M;71.32;;OR;USA;Outdoor;1983-06-04;Ben Plucknett;;;USA;1954;Male
-AR;2;HAM;M;84.38;;Nairobi;KEN;Outdoor;2024-04-20;Ethan Katzberg;;;CAN;2002;Male
-AR;2;SPE;M;93.07;;Doha;QAT;Outdoor;2022-05-13;Anderson Peters;;;GRN;1997;Male
-AR;2;100;M;9.58;0.9;Berlin;GER;Outdoor;2009-08-16;Usain Bolt;;;JAM;1986;Male
-AR;2;200;M;19.19;-0.3;Berlin;GER;Outdoor;2009-08-20;Usain Bolt;;;JAM;1986;Male
-AR;2;400;M;43.18;;Sevilla;ESP;Outdoor;1999-08-26;Michael Johnson;;;USA;1967;Male
-AR;2;800;M;1:42.34;;Doha;QAT;Outdoor;2019-10-01;Donavan Brazier;;;USA;1997;Male
-AR;2;1K0;M;2:13.9;;Oslo;NOR;Outdoor;1974-07-30;Rick Wohlhuter;;;USA;1948;Male
-AR;2;1K5;M;3:29.02;;Oslo;NOR;Outdoor;2023-06-15;Yared Nuguse;;;USA;1999;Male
-AR;2;MEI;M;3:43.97;;Eugene;USA;Outdoor;2023-09-16;Yared Nuguse;;;USA;1999;Male
-AR;2;2K0;M;4:51.54;;Bruxelles;BEL;Outdoor;2023-09-08;Charles Philibert-Thiboutot;;;CAN;1990;Male
-AR;2;3K0;M;7:25.47;;Eugene;USA;Outdoor;2023-09-17;Grant Fisher;;;USA;1997;Male
-AR;2;5K0;M;12:46.96;;Bruxelles;BEL;Outdoor;2022-09-02;Grant Fisher;;;USA;1997;Male
-AR;2;10K;M;26:33.84;;San Juan Capistrano;USA;Outdoor;2022-03-06;Grant Fisher;;;USA;1997;Male
-AR;2;11H;M;12.80;0.3;Bruxelles;BEL;Outdoor;2012-09-07;Aries Merritt;;;USA;1985;Male
-AR;2;40H;M;46.17;;Tokyo;JPN;Outdoor;2021-08-03;Rai Benjamin;;;USA;1997;Male
-AR;2;3KH;M;8:00.45;;Paris-St-Denis;FRA;Outdoor;2015-07-04;Evan Jager;;;USA;1989;Male
-AR;2;10G;M;38:25.42;;Canberra;AUS;Outdoor;2024-01-28;Evan Dunfee;;;CAN;1990;Male
-AR;2;4×1;M;36.84;;London;GBR;Outdoor;2012-08-11;;;;JAM;;Male
-AR;2;4×4;M;2:54.29;;Stuttgart;GER;Outdoor;1993-08-22;United States;;;USA;;Male
-AR;2;HOC;W;2.05;;Des Moines;USA;Outdoor;2010-06-26;Chaunte Lowe;;;USA;1984;Female
-AR;2;WEI;W;7.49;1.3;NY;USA;Outdoor;1994-05-22;Jackie Joyner-Kersee;;;USA;1962;Female
-AR;2;WEI;W;7.49;1.7;Sestriere;ITA;Outdoor;1994-07-31;Jackie Joyner-Kersee;;;USA;1962;Female
-AR;2;DRE;W;15.29;0.3;Roma;ITA;Outdoor;2003-07-11;Yamilé Aldama;;;CUB;1972;Female
-AR;2;KUG;W;20.96;;Ciudad de México;MEX;Outdoor;1992-05-02;Belsy Laza;;;CUB;1967;Female
-AR;2;DIS;W;73.09;;Ramona;USA;Outdoor;2024-04-13;Yaimé Pérez;;;CUB;1991;Female
-AR;2;HAM;W;80.31;;Eugene;USA;Outdoor;2021-06-26;DeAnna Price;;;USA;1993;Female
-AR;2;SPE;W;71.70;;Helsinki;FIN;Outdoor;2005-08-14;Olisdeilys Menéndez;;;CUB;1979;Female
-AR;2;100;W;10.49;0.0;IN;USA;Outdoor;1988-07-16;Florence Griffith-Joyner;;;USA;1959;Female
-AR;2;200;W;21.34;1.3;Jamsil, Seoul;KOR;Outdoor;1988-09-29;Florence Griffith-Joyner;;;USA;1959;Female
-AR;2;400;W;48.36;;Tokyo;JPN;Outdoor;2021-08-06;Shaunae Miller-Uibo;;;BAH;1994;Female
-AR;2;800;W;1:54.44;;Barcelona;ESP;Outdoor;1989-09-09;Ana Fidelia Quirot;;;CUB;1963;Female
-AR;2;1K0;W;2:31.80;;ME;USA;Outdoor;1999-07-03;Regina Jacobs;;;USA;1963;Female
-AR;2;1K5;W;3:54.99;;Doha;QAT;Outdoor;2019-10-05;Shelby Houlihan;;;USA;1993;Female
-AR;2;MEI;W;4:16.35;;Monaco;MON;Outdoor;2023-07-21;Nikki Hiltz;;;USA;1994;Female
-AR;2;2K0;W;5:32.7;;OR;USA;Outdoor;1984-08-03;Mary Decker;;;USA;1958;Female
-AR;2;5K0;W;14:19.45;;London;GBR;Outdoor;2023-07-23;Alicia Monson;;;USA;1998;Female
-AR;2;10K;W;30:03.82;;San Juan Capistrano;USA;Outdoor;2023-03-04;Alicia Monson;;;USA;1998;Female
-AR;2;10H;W;12.20;0.3;London;GBR;Outdoor;2016-07-22;Kendra Harrison;;;USA;1992;Female
-AR;2;40H;W;50.68;;Eugene;USA;Outdoor;2022-07-22;Sydney Mclaughlin;;;USA;1999;Female
-AR;2;3KH;W;8:57.77;;Eugene;USA;Outdoor;2021-08-21;Courtney Frerichs;;;USA;1993;Female
-AR;2;10G;W;44:13.88;;Tampere;FIN;Outdoor;2018-07-14;Alegna González;;;MEX;1999;Female
-AR;2;4×1;W;40.82;;London;GBR;Outdoor;2012-08-10;United States;;;USA;;Female
-AR;2;4×4;W;3:15.51;;Jamsil, Seoul;KOR;Outdoor;1988-10-01;United States;;;USA;;Female
-AR;2;4×4;X;3:08.80;;Budapest;HUN;Outdoor;2023-08-19;United States;;;USA;;Mixed
-AR;2;MEI;M;3:47.38;;New York;USA;Indoor;2023-02-11;Yared Nuguse;;;USA;1999;Male
-AR;2;50M;M;5.56;;NV;USA;Indoor;1996-02-09;Donovan Bailey;;;CAN;1967;Male
-AR;2;50M;M;5.56;;CA;USA;Indoor;1999-02-13;Maurice Greene;;;USA;1974;Male
-AR;2;60M;M;6.34;;NM;USA;Indoor;2018-02-18;Christian Coleman;;;USA;1996;Male
-AR;2;200;M;20.02;;TX;USA;Indoor;2018-03-10;Elijah Hall-Thompson;;;USA;1994;Male
-AR;2;800;M;1:44.21;;New York;USA;Indoor;2021-02-13;Donavan Brazier;;;USA;1997;Male
-AR;2;1K0;M;2:14.74;;Boston;USA;Indoor;2024-02-04;Marco Arop;;;CAN;1998;Male
-AR;2;1K5;M;3:33.22;;New York;USA;Indoor;2023-02-11;Yared Nuguse;;;USA;1999;Male
-AR;2;3K0;M;7:28.23;;Boston;USA;Indoor;2023-01-27;Yared Nuguse;;;USA;1999;Male
-AR;2;5K0;M;12:51.61;;Boston;USA;Indoor;2023-01-27;William Kincaid;;;USA;1992;Male
-AR;2;50H;M;6.25;;Kobe;JPN;Indoor;1986-03-05;Mark Mckoy;;;CAN;1961;Male
-AR;2;60H;M;7.27;;Albuquerque;USA;Indoor;2024-02-16;Grant Holloway;;;USA;1997;Male
-AR;2;5G;M;18:38.71;;Indianapolis;USA;Indoor;1987-03-07;Ernesto Canto;;;MEX;1959;Male
-AR;2;4×2;M;1:22.71;;Glasgow;GBR;Indoor;1991-03-03;United States;;;USA;;Male
-AR;2;4×8;M;7:11.30;;MA;USA;Indoor;2018-02-25;HOKA Nj / Ny Tc;;;USA;;Male
-AR;2;MEI;W;4:16.41;;New York;USA;Indoor;2024-02-11;Elle St. Pierre;;;USA;1995;Female
-AR;2;STA;W;5.03;;NY;USA;Indoor;2016-01-30;Jennifer Suhr;;;USA;1982;Female
-AR;2;50M;W;6.00;;Moskva;RUS;Indoor;1994-02-04;Merlene Ottey;;;JAM;1960;Female
-AR;2;60M;W;6.94;;Albuquerque;USA;Indoor;2023-02-18;Aleia Hobbs;;;USA;1996;Female
-AR;2;60M;W;6.94;;Albuquerque;USA;Indoor;2023-03-11;Julien Alfred;;;LCA;2001;Female
-AR;2;200;W;21.87;;Liévin;FRA;Indoor;1993-02-13;Merlene Ottey;;;JAM;1960;Female
-AR;2;800;W;1:58.29;;New York;USA;Indoor;2020-02-08;Ajee' Wilson;;;USA;1994;Female
-AR;2;1K0;W;2:33.75;;Boston;USA;Indoor;2023-01-28;Lucia Stafford;;;CAN;1998;Female
-AR;2;1K5;W;3:59.98;;MA;USA;Indoor;2003-02-01;Regina Jacobs;;;USA;1963;Female
-AR;2;3K0;W;8:20.87;;Glasgow;GBR;Indoor;2024-03-02;Elle St. Pierre;;;USA;1995;Female
-AR;2;3K0;W;8:20.87;;Glasgow;GBR;Indoor;2024-03-02;Elle St. Pierre;;;USA;1995;Female
-AR;2;5K0;W;14:31.38;;Boston;USA;Indoor;2022-02-11;Gabriela Debues-Stafford;;;CAN;1995;Female
-AR;2;50H;W;6.67;;NV;USA;Indoor;1995-02-10;Jackie Joyner-Kersee;;;USA;1962;Female
-AR;2;50H;W;6.67;;Liévin;FRA;Indoor;2000-02-13;Michelle Freeman;;;JAM;1969;Female
-AR;2;60H;W;7.65;;Glasgow;GBR;Indoor;2024-03-03;Devynne Charlton;;;BAH;1995;Female
-AR;2;3G;W;12:20.79;;Toronto;CAN;Indoor;1993-03-12;Debbi Lawrence;;;USA;1961;Female
-AR;2;4×2;W;1:32.67;;NY;USA;Indoor;2018-01-27;United States;;;USA;;Female
-AR;2;4×8;W;8:05.89;;NY;USA;Indoor;2018-02-03;United States;;;USA;;Female
-AR;1;HOC;M;2.42;;Stockholm;SWE;Outdoor;1987-06-30;Patrik Sjöberg;;;SWE;1965;Male
-AR;1;STA;M;6.23;;Eugene;USA;Outdoor;2023-09-17;Armand Duplantis;;;SWE;1999;Male
-AR;1;WEI;M;8.86;1.9;Tsakhadzor;ARM;Outdoor;1987-05-22;Robert Emmiyan;;;URS;1965;Male
-AR;1;DRE;M;18.29;1.3;Göteborg;SWE;Outdoor;1995-08-07;Jonathan Edwards;;;GBR;1966;Male
-AR;1;KUG;M;23.06;;Chania;GRE;Outdoor;1988-05-22;Ulf Timmermann;;;GDR;1962;Male
-AR;1;DIS;M;74.08;;Neubrandenburg;GDR;Outdoor;1986-06-06;Jürgen Schult;;;GDR;1960;Male
-AR;1;HAM;M;86.74;;Stuttgart;GER;Outdoor;1986-08-30;Yuriy Sedykh;;;URS;1955;Male
-AR;1;SPE;M;98.48;;Jena;GER;Outdoor;1996-05-25;Jan Železný;;;CZE;1966;Male
-AR;1;100;M;9.80;0.1;Tokyo;JPN;Outdoor;2021-08-01;Lamont Marcell Jacobs;;;ITA;1994;Male
-AR;1;200;M;19.72;1.8;Ciudad de México;MEX;Outdoor;1979-09-12;Pietro Mennea;;;ITA;1952;Male
-AR;1;400;M;44.26;;Budapest;HUN;Outdoor;2023-08-22;Matthew Hudson-Smith;;;GBR;1994;Male
-AR;1;800;M;1:41.11;;Köln;GER;Outdoor;1997-08-24;Wilson Kipketer;;;DEN;1972;Male
-AR;1;1K0;M;2:12.18;;Oslo;NOR;Outdoor;1981-07-11;Sebastian Coe;;;GBR;1956;Male
-AR;1;1K5;M;3:27.14;;Chorzów;POL;Outdoor;2023-07-16;Jakob Ingebrigtsen;;;NOR;2000;Male
-AR;1;MEI;M;3:43.73;;Eugene;USA;Outdoor;2023-09-16;Jakob Ingebrigtsen;;;NOR;2000;Male
-AR;1;2K0;M;4:43.13;;Bruxelles;BEL;Outdoor;2023-09-08;Jakob Ingebrigtsen;;;NOR;2000;Male
-AR;1;3K0;M;7:23.63;;Eugene;USA;Outdoor;2023-09-17;Jakob Ingebrigtsen;;;NOR;2000;Male
-AR;1;5K0;M;12:45.01;;Monaco;MON;Outdoor;2023-07-21;Mohamed Katir;;;ESP;1998;Male
-AR;1;10K;M;26:46.57;;Eugene;USA;Outdoor;2011-06-03;Mo Farah;;;GBR;1983;Male
-AR;1;11H;M;12.91;0.5;Stuttgart;GER;Outdoor;1993-08-20;Colin Jackson;;;GBR;1967;Male
-AR;1;40H;M;45.94;;Tokyo;JPN;Outdoor;2021-08-03;Karsten Warholm;;;NOR;1996;Male
-AR;1;3KH;M;8:00.09;;Paris-St-Denis;FRA;Outdoor;2013-07-06;Mahiedine Mekhissi;;;FRA;1985;Male
-AR;1;4×1;M;37.36;;Doha;QAT;Outdoor;2019-10-05;Great Britain & Ni;;;GBR;;Male
-AR;1;4×2;M;1:20.66;;Nassau;BAH;Outdoor;2014-05-24;;;;FRA;;Male
-AR;1;4×4;M;2:56.60;;Atlanta;USA;Outdoor;1996-08-03;Great Britain & Ni;;;GBR;;Male
-AR;1;4×8;M;7:03.89;;London;GBR;Outdoor;1982-08-30;Great Britain & Ni;;;GBR;;Male
-AR;1;HOC;W;2.09;;Roma;ITA;Outdoor;1987-08-30;Stefka Kostadinova;;;BUL;1965;Female
-AR;1;STA;W;5.06;;Zürich;SUI;Outdoor;2009-08-28;Yelena Isinbayeva;;;RUS;1982;Female
-AR;1;WEI;W;7.52;1.4;Leningrad;URS;Outdoor;1988-06-11;Galina Chistyakova;;;URS;1962;Female
-AR;1;DRE;W;15.50;0.9;Göteborg;SWE;Outdoor;1995-08-10;Inessa Kravets;;;UKR;1966;Female
-AR;1;KUG;W;22.63;;Moskva;URS;Outdoor;1987-06-07;Natalya Lisovskaya;;;URS;1962;Female
-AR;1;DIS;W;76.80;;Neubrandenburg;GDR;Outdoor;1988-07-09;Gabriele Reinsch;;;GDR;1963;Female
-AR;1;HAM;W;82.98;;Warszawa;POL;Outdoor;2016-08-28;Anita Włodarczyk;;;POL;1985;Female
-AR;1;SPE;W;72.28;;Stuttgart;GER;Outdoor;2008-09-13;Barbora Špotáková;;;CZE;1981;Female
-AR;1;100;W;10.73;2.0;Budapest;HUN;Outdoor;1998-08-19;Christine Arron;;;FRA;1973;Female
-AR;1;200;W;21.63;0.2;Beijing;CHN;Outdoor;2015-08-28;Dafne Schippers;;;NED;1992;Female
-AR;1;400;W;47.60;;Canberra;AUS;Outdoor;1985-10-06;Marita Koch;;;GDR;1957;Female
-AR;1;800;W;1:53.28;;München;GER;Outdoor;1983-07-26;Jarmila Kratochvílová;;;TCH;1951;Female
-AR;1;1K0;W;2:28.98;;Bruxelles;BEL;Outdoor;1996-08-23;Svetlana Masterkova;;;RUS;1968;Female
-AR;1;1K5;W;3:51.95;;Doha;QAT;Outdoor;2019-10-05;Sifan Hassan;;;NED;1993;Female
-AR;1;MEI;W;4:12.33;;Monaco;MON;Outdoor;2019-07-12;Sifan Hassan;;;NED;1993;Female
-AR;1;2K0;W;5:25.36;;Edinburgh;GBR;Outdoor;1994-07-08;Sonia O'Sullivan;;;IRL;1969;Female
-AR;1;3K0;W;8:18.49;;Palo Alto;USA;Outdoor;2019-06-30;Sifan Hassan;;;NED;1993;Female
-AR;1;5K0;W;14:13.42;;London;GBR;Outdoor;2023-07-23;Sifan Hassan;;;NED;1993;Female
-AR;1;10K;W;29:06.82;;Hengelo;NED;Outdoor;2021-06-06;Sifan Hassan;;;NED;1993;Female
-AR;1;10H;W;12.21;0.7;Stara Zagora;BUL;Outdoor;1988-08-20;Yordanka Donkova;;;BUL;1961;Female
-AR;1;40H;W;51.45;;London;GBR;Outdoor;2023-07-23;Femke Bol;;;NED;2000;Female
-AR;1;3KH;W;8:58.81;;Beijing;CHN;Outdoor;2008-08-17;Gulnara Samitova-Galkina;;;RUS;1978;Female
-AR;1;10G;W;41:56.23;;WA;USA;Outdoor;1990-07-24;Nadezhda Ryashkina;;;URS;1967;Female
-AR;1;4×1;W;41.37;;Canberra;AUS;Outdoor;1985-10-06;German Democratic Republic;;;GDR;;Female
-AR;1;4×2;W;1:28.15;;Jena;GDR;Outdoor;1980-08-09;German Democratic Republic;;;GDR;;Female
-AR;1;4×4;W;3:15.17;;Jamsil, Seoul;KOR;Outdoor;1988-10-01;Soviet Union;;;URS;;Female
-AR;1;4×8;W;7:50.17;;Moskva;URS;Outdoor;1984-08-05;Soviet Union;;;URS;;Female
-AR;1;4×4;X;3:09.87;;Tokyo;JPN;Outdoor;2021-07-31;;;;POL;;Mixed
-AR;1;MEI;M;3:48.93;;New York;USA;Indoor;2024-02-11;George Mills;;;GBR;1999;Male
-AR;1;HOC;M;2.42;;Berlin;GER;Indoor;1988-02-26;Carlo Thränhardt;;;FRG;1957;Male
-AR;1;60M;M;6.41;;Beograd;SRB;Indoor;2022-03-19;Lamont Marcell Jacobs;;;ITA;1994;Male
-AR;1;200;M;20.25;;Liévin;FRA;Indoor;1995-02-19;Linford Christie;;;GBR;1960;Male
-AR;1;800;M;1:42.67;;Paris;FRA;Indoor;1997-03-09;Wilson Kipketer;;;DEN;1972;Male
-AR;1;1K0;M;2:14.96;;Birmingham;GBR;Indoor;2000-02-20;Wilson Kipketer;;;DEN;1972;Male
-AR;1;1K5;M;3:30.60;;Liévin;FRA;Indoor;2022-02-17;Jakob Ingebrigtsen;;;NOR;2000;Male
-AR;1;3K0;M;7:24.68;;Liévin;FRA;Indoor;2023-02-15;Mohamed Katir;;;ESP;1998;Male
-AR;1;5K0;M;12:57.08;;Boston;USA;Indoor;2022-02-12;Marc Scott;;;GBR;1993;Male
-AR;1;50H;M;6.36;;Liévin;FRA;Indoor;2005-02-26;Ladji Doucouré;;;FRA;1983;Male
-AR;1;60H;M;7.30;;Sindelfingen;GER;Indoor;1994-03-06;Colin Jackson;;;GBR;1967;Male
-AR;1;5G;M;18:07.08;;Moskva;RUS;Indoor;1995-02-14;Mikhail Shchennikov;;;RUS;1967;Male
-AR;1;4×2;M;1:22.11;;Glasgow;GBR;Indoor;1991-03-03;Great Britain & Ni;;;GBR;;Male
-AR;1;4×8;M;7:17.8;;Sofia;BUL;Indoor;1971-03-14;Soviet Union;;;URS;;Male
-AR;1;MEI;W;4:17.14;;NJ;USA;Indoor;1990-02-09;Doina Melinte;;;ROU;1956;Female
-AR;1;50M;W;5.96;;Madrid;ESP;Indoor;1995-02-09;Irina Privalova;;;RUS;1968;Female
-AR;1;60M;W;6.92;;Madrid;ESP;Indoor;1993-02-11;Irina Privalova;;;RUS;1968;Female
-AR;1;60M;W;6.92;;Madrid;ESP;Indoor;1995-02-09;Irina Privalova;;;RUS;1968;Female
-AR;1;200;W;22.10;;Liévin;FRA;Indoor;1995-02-19;Irina Privalova;;;RUS;1968;Female
-AR;1;800;W;1:55.82;;Wien;AUT;Indoor;2002-03-03;Jolanda Čeplak;;;SLO;1976;Female
-AR;1;1K0;W;2:31.93;;Birmingham;GBR;Indoor;2017-02-18;Laura Muir;;;GBR;1993;Female
-AR;1;1K5;W;3:57.91;;Stockholm;SWE;Indoor;2014-02-06;Abeba Aregawi;;;SWE;1990;Female
-AR;1;3K0;W;8:26.41;;Karlsruhe;GER;Indoor;2017-02-04;Laura Muir;;;GBR;1993;Female
-AR;1;5K0;W;14:30.79;;Boston;USA;Indoor;2020-02-27;Konstanze Klosterhalfen;;;GER;1997;Female
-AR;1;50H;W;6.58;;Berlin;GER;Indoor;1988-02-20;Cornelia Oschkenat;;;GDR;1961;Female
-AR;1;60H;W;7.68;;Karlsruhe;GER;Indoor;2008-02-10;Susanna Kallur;;;SWE;1981;Female
-AR;1;3G;W;11:40.33;;Bucureşti;ROU;Indoor;1999-01-30;Claudia Iovan;;;ROU;1978;Female
-AR;1;4×2;W;1:32.41;;Glasgow;GBR;Indoor;2005-01-29;;;;RUS;;Female
-AR;1;4×8;W;8:06.24;;Moskva;RUS;Indoor;2011-02-18;Moskva Region;;;RUS;;Female
+Code;Type;Discipline;Class;Result;Wind;Venue;Venue Country;Environment;Date;Firstname;Lastname;Nation;YOB;Sex
+AR;4;HOC;M;2.38;;Oudtshoorn;RSA;Outdoor;2005-03-05;Jacques;Freitag;RSA;1982;Male
+AR;4;STA;M;6.03;;Köln;GER;Outdoor;1995-08-18;Okkert;Brits;RSA;1973;Male
+AR;4;WEI;M;8.65;1.3;Potchefstroom;RSA;Outdoor;2017-04-22;Luvo;Manyonga;RSA;1991;Male
+AR;4;KUG;M;21.97;;OR;USA;Outdoor;2001-06-02;Janus;Robberts;RSA;1979;Male
+AR;4;DIS;M;70.32;;Salon-de-Provence;FRA;Outdoor;2002-05-26;Frantz;Kruger;RSA;1975;Male
+AR;4;HAM;M;81.27;;Cairo;EGY;Outdoor;2014-03-21;Mostafa;Elgamel;EGY;1988;Male
+AR;4;SPE;M;92.72;;Beijing;CHN;Outdoor;2015-08-26;Julius;Yego;KEN;1989;Male
+AR;4;100;M;9.77;1.2;Kasarani, Nairobi;KEN;Outdoor;2021-09-18;Ferdinand;Omanyala;KEN;1996;Male
+AR;4;200;M;19.50;1.6;London;GBR;Outdoor;2023-07-23;Letsile;Tebogo;BOT;2003;Male
+AR;4;400;M;43.03;;Rio de Janeiro;BRA;Outdoor;2016-08-14;Wayde;Van Niekerk;RSA;1992;Male
+AR;4;800;M;1:40.91;;London;GBR;Outdoor;2012-08-09;David;Rudisha;KEN;1988;Male
+AR;4;1K0;M;2:11.96;;Rieti;ITA;Outdoor;1999-09-05;Noah;Ngeny;KEN;1978;Male
+AR;4;1K5;M;3:26.00;;Roma;ITA;Outdoor;1998-07-14;Hicham;El Guerrouj;MAR;1974;Male
+AR;4;MEI;M;3:43.13;;Roma;ITA;Outdoor;1999-07-07;Hicham;El Guerrouj;MAR;1974;Male
+AR;4;2K0;M;4:44.79;;Berlin;GER;Outdoor;1999-09-07;Hicham;El Guerrouj;MAR;1974;Male
+AR;4;3K0;M;7:20.67;;Rieti;ITA;Outdoor;1996-09-01;Daniel;Komen;KEN;1976;Male
+AR;4;5K0;M;12:35.36;;Monaco;MON;Outdoor;2020-08-14;Joshua;Cheptegei;UGA;1996;Male
+AR;4;10K;M;26:11.00;;Valencia;ESP;Outdoor;2020-10-07;Joshua;Cheptegei;UGA;1996;Male
+AR;4;11H;M;13.11;1.8;Praha;CZE;Outdoor;2017-06-05;Antonio;Alkana;RSA;1990;Male
+AR;4;40H;M;47.10;;Zürich;SUI;Outdoor;1991-08-07;Samuel;Matete;ZAM;1968;Male
+AR;4;3KH;M;7:52.11;;Paris;FRA;Outdoor;2023-06-09;Lamecha;Girma;ETH;2000;Male
+AR;4;4×1;M;37.65;;Doha;QAT;Outdoor;2019-10-04;South;Africa;RSA;;Male
+AR;4;4×2;M;1:20.42;;Yokohama;JPN;Outdoor;2019-05-12;South;Africa;RSA;;Male
+AR;4;4×4;M;2:57.27;;Tokyo;JPN;Outdoor;2021-08-07;Botswana;;BOT;;Male
+AR;4;4×8;M;7:02.43;;Bruxelles;BEL;Outdoor;2006-08-25;Kenya;;KEN;;Male
+AR;4;HOC;W;2.06;;Paris-St-Denis;FRA;Outdoor;2003-08-31;Hestrie;Cloete;RSA;1978;Female
+AR;4;STA;W;4.42;;Wesel;GER;Outdoor;2000-06-12;Elmarie;Gerryts;RSA;1972;Female
+AR;4;WEI;W;7.17;1.1;CA;USA;Outdoor;2021-05-29;Ese;Brume;NGR;1996;Female
+AR;4;DRE;W;15.39;0.5;Beijing;CHN;Outdoor;2008-08-17;Francoise;Mbango Etone;CMR;1976;Female
+AR;4;KUG;W;18.43;;CA;USA;Outdoor;2003-04-19;Vivian;Peters-Chukwuemeka;NGR;1975;Female
+AR;4;DIS;W;64.96;;Ramona;USA;Outdoor;2023-04-15;Chioma;Onyekwere;NGR;1994;Female
+AR;4;HAM;W;75.49;;Tucson;USA;Outdoor;2021-05-22;Annette;Nneka Echikunwoke;NGR;1996;Female
+AR;4;SPE;W;69.35;;New York;USA;Outdoor;2012-06-09;Sunette;Viljoen;RSA;1983;Female
+AR;4;100;W;10.72;0.4;Monaco;MON;Outdoor;2022-08-10;Marie-Josée;Ta Lou;CIV;1988;Female
+AR;4;200;W;21.78;0.6;Zürich;SUI;Outdoor;2021-09-09;Christine;Mboma;NAM;2003;Female
+AR;4;400;W;49.10;;Atlanta;USA;Outdoor;1996-07-29;Falilat;Ogunkoya-Osheku;NGR;1968;Female
+AR;4;800;W;1:54.01;;Zürich;SUI;Outdoor;2008-08-29;Pamela;Jelimo;KEN;1989;Female
+AR;4;1K0;W;2:29.15;;Monaco;MON;Outdoor;2020-08-14;Faith;Kipyegon;KEN;1994;Female
+AR;4;1K5;W;3:49.11;;Firenze;ITA;Outdoor;2023-06-02;Faith;Kipyegon;KEN;1994;Female
+AR;4;MEI;W;4:07.64;;Monaco;MON;Outdoor;2023-07-21;Faith;Kipyegon;KEN;1994;Female
+AR;4;2K0;W;5:21.56;;Zagreb;CRO;Outdoor;2021-09-14;Francine;Niyonsaba;BDI;1993;Female
+AR;4;5K0;W;14:00.21;;Eugene;USA;Outdoor;2023-09-17;Gudaf;Tsegay;ETH;1997;Female
+AR;4;10K;W;28:54.14;;Eugene;USA;Outdoor;2024-05-25;Beatrice;Chebet;KEN;2000;Female
+AR;4;10H;W;12.12;0.9;Eugene;USA;Outdoor;2022-07-24;Tobi;Amusan;NGR;1997;Female
+AR;4;40H;W;52.90;;Sevilla;ESP;Outdoor;1999-08-25;Nezha;Bidouane;MAR;1969;Female
+AR;4;3KH;W;8:44.32;;Monaco;MON;Outdoor;2018-07-20;Beatrice;Chepkoech;KEN;1991;Female
+AR;4;10G;W;43:50.86;;Birmingham;GBR;Outdoor;2022-08-06;Emily;Wamusyi Ngii;KEN;1986;Female
+AR;4;4×1;W;41.90;;Budapest;HUN;Outdoor;2023-08-25;Côte;D’Ivoire;CIV;;Female
+AR;4;4×2;W;1:30.52;;Nassau;BAH;Outdoor;2015-05-02;Nigeria;;NGR;;Female
+AR;4;4×4;W;3:21.04;;Atlanta;USA;Outdoor;1996-08-03;Nigeria;;NGR;;Female
+AR;4;4×8;W;8:04.28;;Nassau;BAH;Outdoor;2014-05-25;Kenya;;KEN;;Female
+AR;4;4×4;X;3:12.87;;Nassau;BAH;Outdoor;2024-05-05;Nigeria;;NGR;;Mixed
+AR;4;MEI;M;3:47.01;;MA;USA;Indoor;2019-03-03;Yomif;Kejelcha;ETH;1997;Male
+AR;4;DRE;M;18.07;;Aubiére;FRA;Indoor;2021-01-16;Hugues;Fabrice Zango;BUR;1993;Male
+AR;4;50M;M;5.61;;Liévin;FRA;Indoor;1999-02-21;Deji;Aliu;NGR;1975;Male
+AR;4;60M;M;6.45;;Air Force Academy;USA;Indoor;1999-02-20;Leonard;Myles-Mills;GHA;1973;Male
+AR;4;200;M;19.92;;Liévin;FRA;Indoor;1996-02-18;Frank;Fredericks;NAM;1967;Male
+AR;4;800;M;1:43.98;;NY;USA;Indoor;2019-02-09;Michael;Saruni;KEN;1995;Male
+AR;4;1K0;M;2:14.20;;Stockholm;SWE;Indoor;2016-02-17;Ayanleh;Souleiman;DJI;1992;Male
+AR;4;1K5;M;3:31.04;;Birmingham;GBR;Indoor;2019-02-16;Samuel;Tefera;ETH;1999;Male
+AR;4;3K0;M;7:23.81;;Liévin;FRA;Indoor;2023-02-15;Lamecha;Girma;ETH;2000;Male
+AR;4;5K0;M;12:49.60;;Birmingham;GBR;Indoor;2004-02-20;Kenenisa;Bekele;ETH;1982;Male
+AR;4;50H;M;6.48;;Liévin;FRA;Indoor;2001-02-25;Shaun;Bownes;RSA;1970;Male
+AR;4;60H;M;7.52;;Gent;BEL;Indoor;2001-02-23;Shaun;Bownes;RSA;1970;Male
+AR;4;5G;M;19:39.92;;Liévin;FRA;Indoor;2018-02-18;Hedi;Terraoui;TUN;1989;Male
+AR;4;MEI;W;4:13.31;;Stockholm;SWE;Indoor;2016-02-17;Genzebe;Dibaba;ETH;1991;Female
+AR;4;50M;W;6.04;;Liévin;FRA;Indoor;1998-02-22;Chioma;Ajunwa;NGR;1971;Female
+AR;4;60M;W;6.97;;Birmingham;GBR;Indoor;2018-03-02;Murielle;Ahouré;CIV;1987;Female
+AR;4;200;W;22.11;;Albuquerque;USA;Indoor;2023-03-10;Favour;Ofili;NGR;2002;Female
+AR;4;800;W;1:57.06;;Liévin;FRA;Indoor;1999-02-21;Maria;De Lurdes Mutola;MOZ;1972;Female
+AR;4;1K0;W;2:30.94;;Stockholm;SWE;Indoor;1999-02-25;Maria;De Lurdes Mutola;MOZ;1972;Female
+AR;4;1K5;W;3:53.09;;Liévin;FRA;Indoor;2021-02-09;Gudaf;Tsegay;ETH;1997;Female
+AR;4;3K0;W;8:16.60;;Stockholm;SWE;Indoor;2014-02-06;Genzebe;Dibaba;ETH;1991;Female
+AR;4;3K0;W;8:16.60;;Stockholm;SWE;Indoor;2014-02-06;Genzebe;Dibaba;ETH;1991;Female
+AR;4;5K0;W;14:18.86;;Stockholm;SWE;Indoor;2015-02-19;Genzebe;Dibaba;ETH;1991;Female
+AR;4;50H;W;6.76;;Liévin;FRA;Indoor;2001-02-25;Glory;Alozie;NGR;1977;Female
+AR;4;60H;W;7.75;;Boston;USA;Indoor;2024-02-04;Tobi;Amusan;NGR;1997;Female
+AR;4;3G;W;14:13.46;;Lyon;FRA;Indoor;2018-02-03;Tahani;Ghazal;TUN;;Female
+AR;6;HOC;M;2.36;;Melbourne;AUS;Outdoor;1997-03-02;Tim;Forsyth;AUS;1973;Male
+AR;6;HOC;M;2.36;;Eberstadt;GER;Outdoor;2018-08-26;Brandon;Starc;AUS;1993;Male
+AR;6;WEI;M;8.54;1.7;Stockholm;SWE;Outdoor;2011-07-29;Mitchell;Watt;AUS;1988;Male
+AR;6;DRE;M;17.46;1.7;London;GBR;Outdoor;1982-08-07;Kenneth;Lorraway;AUS;1956;Male
+AR;6;KUG;M;22.90;;Doha;QAT;Outdoor;2019-10-05;Tom;Walsh;NZL;1992;Male
+AR;6;DIS;M;71.48;;Allendale;USA;Outdoor;2024-05-11;Alex;Rose;SAM;1991;Male
+AR;6;HAM;M;79.29;;Varaždin;CRO;Outdoor;2002-07-06;Stuart;Rendell;AUS;1972;Male
+AR;6;SPE;M;89.02;;Brisbane;AUS;Outdoor;2008-02-29;Jarrod;Bannister;AUS;1984;Male
+AR;6;100;M;9.93;1.8;Mito;JPN;Outdoor;2003-05-05;Patrick;Johnson;AUS;1972;Male
+AR;6;200;M;20.06;0.9;Ciudad de México;MEX;Outdoor;1968-10-16;Peter;Norman;AUS;1942;Male
+AR;6;400;M;44.38;;Jamsil, Seoul;KOR;Outdoor;1988-09-26;Darren;Clark;AUS;1965;Male
+AR;6;800;M;1:43.99;;Decines;FRA;Outdoor;2023-07-08;Joseph;Deng;AUS;1998;Male
+AR;6;1K0;M;2:16.09;;Ostrava;CZE;Outdoor;2014-06-17;Jeffrey;Riseley;AUS;1986;Male
+AR;6;1K5;M;3:29.41;;Oslo;NOR;Outdoor;2023-06-15;Oliver;Hoare;AUS;1997;Male
+AR;6;MEI;M;3:47.48;;Oslo;NOR;Outdoor;2022-06-16;Oliver;Hoare;AUS;1997;Male
+AR;6;2K0;M;4:48.77;;Bruxelles;BEL;Outdoor;2023-09-08;Stewart;Mcsweyn;AUS;1995;Male
+AR;6;3K0;M;7:28.02;;Roma;ITA;Outdoor;2020-09-17;Stewart;Mcsweyn;AUS;1995;Male
+AR;6;5K0;M;12:55.76;;London;GBR;Outdoor;2004-07-30;Craig;Mottram;AUS;1980;Male
+AR;6;10K;M;27:09.57;;San Juan Capistrano;USA;Outdoor;2024-03-16;Jack;Rayner;AUS;1995;Male
+AR;6;11H;M;13.29;0.6;Göteborg;SWE;Outdoor;1995-08-11;Kyle;Vander-Kuyp;AUS;1971;Male
+AR;6;40H;M;48.28;;Atlanta;USA;Outdoor;1996-07-31;Rohan;Robinson;AUS;1971;Male
+AR;6;3KH;M;8:13.26;;Monaco;MON;Outdoor;2023-07-21;Geordie;Beamish;NZL;1996;Male
+AR;6;4×1;M;38.17;;Göteborg;SWE;Outdoor;1995-08-12;Australia;;AUS;;Male
+AR;6;4×1;M;38.17;;London;GBR;Outdoor;2012-08-10;Australia;;AUS;;Male
+AR;6;4×2;M;1:23.04;;Sydney;AUS;Outdoor;1998-12-06;Australia;;AUS;;Male
+AR;6;4×4;M;2:59.70;;Los Angeles;USA;Outdoor;1984-08-11;Australia;;AUS;;Male
+AR;6;4×8;M;7:11.48;;Nassau;BAH;Outdoor;2014-05-24;Australia;;AUS;;Male
+AR;6;HOC;W;2.03;;Eugene;USA;Outdoor;2023-09-17;Nicola;Olyslagers;AUS;1996;Female
+AR;6;HOC;W;2.03;;Canberra;AUS;Outdoor;2024-01-27;Nicola;Olyslagers;AUS;1996;Female
+AR;6;STA;W;4.94;;Jockgrim;GER;Outdoor;2018-07-17;Eliza;Mccartney;NZL;1996;Female
+AR;6;WEI;W;7.13;1.8;Chula Vista;USA;Outdoor;2022-07-09;Brooke;Buschkuehl;AUS;1993;Female
+AR;6;DRE;W;14.04;2.0;Hobart;AUS;Outdoor;2002-03-09;Nicole;Mladenis;AUS;1975;Female
+AR;6;DRE;W;14.04;1.8;Perth;AUS;Outdoor;2003-12-07;Nicole;Mladenis;AUS;1975;Female
+AR;6;KUG;W;21.24;;Daegu;KOR;Outdoor;2011-08-29;Valerie;Adams;NZL;1984;Female
+AR;6;DIS;W;69.64;;London;GBR;Outdoor;2017-08-13;Dani;Stevens;AUS;1988;Female
+AR;6;HAM;W;74.61;;Tucson;USA;Outdoor;2021-05-20;Lauren;Bruce;NZL;1997;Female
+AR;6;SPE;W;68.92;;Gold Coast;AUS;Outdoor;2018-04-11;Kathryn;Mitchell;AUS;1982;Female
+AR;6;100;W;10.96;2.0;La Chaux-de-Fonds;SUI;Outdoor;2023-07-02;Zoe;Hobbs;NZL;1997;Female
+AR;6;200;W;22.23;0.8;Stuttgart;GER;Outdoor;1997-07-13;Melinda;Gainsford;AUS;1971;Female
+AR;6;400;W;48.63;;Atlanta;USA;Outdoor;1996-07-29;Cathy;Freeman;AUS;1973;Female
+AR;6;800;W;1:57.78;;London;GBR;Outdoor;2023-07-23;Catriona;Bisset;AUS;1994;Female
+AR;6;1K0;W;2:34.63;;Bern;SUI;Outdoor;2023-08-04;Abbey;Caldwell;AUS;2001;Female
+AR;6;1K5;W;3:55.97;;Eugene;USA;Outdoor;2024-05-25;Jessica;Hull;AUS;1996;Female
+AR;6;MEI;W;4:15.34;;Monaco;MON;Outdoor;2023-07-21;Jessica;Hull;AUS;1996;Female
+AR;6;2K0;W;5:37.71;;Ostrava;CZE;Outdoor;2003-06-12;Benita;Willis-Johnson;AUS;1979;Female
+AR;6;3K0;W;8:24.20;;Oslo;NOR;Outdoor;2024-05-30;Georgia;Griffith;AUS;1996;Female
+AR;6;10K;W;30:35.54;;CA;USA;Outdoor;2008-05-04;Kimberley;Smith;NZL;1981;Female
+AR;6;10H;W;12.28;1.1;Daegu;KOR;Outdoor;2011-09-03;Sally;Pearson;AUS;1986;Female
+AR;6;40H;W;53.17;;Jamsil, Seoul;KOR;Outdoor;1988-09-28;Debbie;Flintoff-King;AUS;1960;Female
+AR;6;3KH;W;9:14.28;;Paris-St-Denis;FRA;Outdoor;2016-08-27;Genevieve;Lacaze;AUS;1989;Female
+AR;6;10G;W;41:57.22;;WA;USA;Outdoor;1990-07-24;Kerry;Saxby;AUS;1961;Female
+AR;6;4×1;W;42.83;;Nassau;BAH;Outdoor;2024-05-04;Australia;;AUS;;Female
+AR;6;4×2;W;1:32.6;;Brisbane;AUS;Outdoor;1976-01-25;Australia;/ New Zealand;AUS;;Female
+AR;6;4×4;W;3:23.81;;Sydney;AUS;Outdoor;2000-09-30;Australia;;AUS;;Female
+AR;6;4×8;W;8:13.26;;Nassau;BAH;Outdoor;2014-05-25;Australia;;AUS;;Female
+AR;6;4×4;X;3:17.00;;Gold Coast;AUS;Outdoor;2021-06-12;Australia;;AUS;;Mixed
+AR;6;MEI;M;3:50.83;;New York;USA;Indoor;2022-01-29;Oliver;Hoare;AUS;1997;Male
+AR;6;MEI;M;3:50.83;;New York;USA;Indoor;2023-02-11;Oliver;Hoare;AUS;1997;Male
+AR;6;HOC;M;2.36;;Glasgow;GBR;Indoor;2024-03-03;Hamish;Kerr;NZL;1996;Male
+AR;6;STA;M;6.06;;MA;USA;Indoor;2009-02-07;Steven;Hooker;AUS;1982;Male
+AR;6;60M;M;6.52;;Maebashi;JPN;Indoor;1999-03-07;Matt;Shirvington;AUS;1978;Male
+AR;6;60M;M;6.52;;Maebashi;JPN;Indoor;1999-03-07;Matt;Shirvington;AUS;1978;Male
+AR;6;200;M;20.71;;Toronto;CAN;Indoor;1993-03-14;Damien;Marsh;AUS;1971;Male
+AR;6;800;M;1:45.59;;Fayetteville;USA;Indoor;2021-02-13;Charlie;Hunter;AUS;1996;Male
+AR;6;1K0;M;2:16.95;;Boston;USA;Indoor;2024-02-10;Jack;Anstey;AUS;1997;Male
+AR;6;1K5;M;3:32.35;;New York;USA;Indoor;2021-02-13;Oliver;Hoare;AUS;1997;Male
+AR;6;3K0;M;7:34.50;;MA;USA;Indoor;2008-01-26;Craig;Mottram;AUS;1980;Male
+AR;6;5K0;M;13:04.33;;Boston;USA;Indoor;2024-01-26;Geordie;Beamish;NZL;1996;Male
+AR;6;50H;M;7.09;;CA;USA;Indoor;2001-01-20;Joseph;Rodan;FIJ;1977;Male
+AR;6;60H;M;7.56;;Beograd;SRB;Indoor;2022-03-20;Chris;Douglas;AUS;1997;Male
+AR;6;5G;M;18:52.20;;Indianapolis;USA;Indoor;1987-03-07;David;Smith;AUS;1955;Male
+AR;6;MEI;W;4:19.03;;New York;USA;Indoor;2024-02-11;Jessica;Hull;AUS;1996;Female
+AR;6;50M;W;6.3;;Toronto;CAN;Indoor;1965-01-29;Pamela;Kilborn;AUS;1939;Female
+AR;6;60M;W;7.06;;Glasgow;GBR;Indoor;2024-03-02;Zoe;Hobbs;NZL;1997;Female
+AR;6;200;W;22.64;;Barcelona;ESP;Indoor;1995-03-10;Melinda;Gainsford;AUS;1971;Female
+AR;6;200;W;22.64;;Barcelona;ESP;Indoor;1995-03-11;Melinda;Gainsford;AUS;1971;Female
+AR;6;800;W;1:59.46;;Birmingham;GBR;Indoor;2022-02-19;Catriona;Bisset;AUS;1994;Female
+AR;6;1K0;W;2:36.96;;MA;USA;Indoor;2000-02-06;Toni;Hodgkinson;NZL;1971;Female
+AR;6;1K5;W;4:01.19;;New York;USA;Indoor;2024-02-11;Jessica;Hull;AUS;1996;Female
+AR;6;3K0;W;8:24.39;;Glasgow;GBR;Indoor;2024-03-02;Jessica;Hull;AUS;1996;Female
+AR;6;5K0;W;14:39.89;;NY;USA;Indoor;2009-02-27;Kimberley;Smith;NZL;1981;Female
+AR;6;5K0;W;14:39.89;;NY;USA;Indoor;2009-02-27;Kimberley;Smith;NZL;1981;Female
+AR;6;60H;W;7.73;;Istanbul;TUR;Indoor;2012-03-10;Sally;Pearson;AUS;1986;Female
+AR;6;4×2;W;1:42.34;;ID;USA;Indoor;2017-02-18;Marybyrnong;Sports Academy;AUS;;Female
+AR;5;HOC;M;2.43;;Bruxelles;BEL;Outdoor;2014-09-05;Mutaz;Essa Barshim;QAT;1991;Male
+AR;5;STA;M;6.00;;Bergen;NOR;Outdoor;2023-06-10;Ernest;John Obiena;PHI;1995;Male
+AR;5;STA;M;6.00;;Budapest;HUN;Outdoor;2023-08-26;Ernest;John Obiena;PHI;1995;Male
+AR;5;WEI;M;8.48;0.6;Sotteville-lès-Rouen;FRA;Outdoor;2006-07-02;Mohamed;Salman Al Khuwalidi;KSA;1981;Male
+AR;5;DRE;M;17.59;0.0;Jinan;CHN;Outdoor;2009-10-26;Yanxi;Li;CHN;1984;Male
+AR;5;KUG;M;21.77;;Bhubaneshwar;IND;Outdoor;2023-06-19;Tajinderpal;Singh Toor;IND;1994;Male
+AR;5;DIS;M;69.32;;Tallinn;EST;Outdoor;2008-06-03;Ehsan;Hadadi;IRI;1985;Male
+AR;5;HAM;M;84.86;;Praha;CZE;Outdoor;2003-06-29;Koji;Murofushi;JPN;1974;Male
+AR;5;SPE;M;91.36;;Taipei City;TPE;Outdoor;2017-08-26;Chao-Tsun;Cheng;TPE;1993;Male
+AR;5;100;M;9.83;0.9;Tokyo;JPN;Outdoor;2021-08-01;Bingtian;Su;CHN;1989;Male
+AR;5;200;M;19.88;0.9;London;GBR;Outdoor;2019-07-21;Zhenye;Xie;CHN;1993;Male
+AR;5;400;M;43.93;;Beijing;CHN;Outdoor;2015-08-23;Youssef;Ahmed Masrahi;KSA;1987;Male
+AR;5;800;M;1:42.79;;Monaco;MON;Outdoor;2008-07-29;Yusuf;Saad Kamel;BRN;1983;Male
+AR;5;1K0;M;2:14.72;;Stockholm;SWE;Outdoor;2008-07-22;Yusuf;Saad Kamel;BRN;1983;Male
+AR;5;1K5;M;3:29.14;;Roma;ITA;Outdoor;2006-07-14;Rashid;Ramzi;BRN;1980;Male
+AR;5;MEI;M;3:47.97;;Oslo;NOR;Outdoor;2005-07-29;Daham;Najim Bashir;QAT;1979;Male
+AR;5;2K0;M;4:55.57;;Roma;ITA;Outdoor;1995-06-08;Mohamed;Suleiman;QAT;1969;Male
+AR;5;3K0;M;7:30.76;;Doha;QAT;Outdoor;2005-05-13;Jamal;Bilal Salem;QAT;1978;Male
+AR;5;5K0;M;12:51.96;;Monaco;MON;Outdoor;2013-07-19;Albert;Rop;BRN;1992;Male
+AR;5;10K;M;26:38.76;;Bruxelles;BEL;Outdoor;2003-09-05;Ahmad;Hassan Abdullah;QAT;1981;Male
+AR;5;11H;M;12.88;1.1;Lausanne;SUI;Outdoor;2006-07-11;Xiang;Liu;CHN;1983;Male
+AR;5;40H;M;46.98;;Paris;FRA;Outdoor;2018-06-30;Abderrahman;Samba;QAT;1995;Male
+AR;5;3KH;M;7:53.63;;Bruxelles;BEL;Outdoor;2004-09-03;Saif;Saaeed Shaheen;QAT;1982;Male
+AR;5;4×1;M;37.43;;Doha;QAT;Outdoor;2019-10-05;Japan;;JPN;;Male
+AR;5;4×2;M;1:20.83;;Xi'an;CHN;Outdoor;2021-09-23;Shandong;;CHN;;Male
+AR;5;4×2;M;1:20.83;;Xi'an;CHN;Outdoor;2021-09-23;Guangdong;;CHN;;Male
+AR;5;4×4;M;2:59.05;;Budapest;HUN;Outdoor;2023-08-26;India;;IND;;Male
+AR;5;4×8;M;7:06.66;;Bruxelles;BEL;Outdoor;2006-08-25;Qatar;;QAT;;Male
+AR;5;HOC;W;2.00;;Almaty;KAZ;Outdoor;2021-06-08;Nadezhda;Dubovitskaya;KAZ;1998;Female
+AR;5;STA;W;4.72;;Shanghai;CHN;Outdoor;2019-05-18;Ling;Li;CHN;1989;Female
+AR;5;WEI;W;7.01;1.4;Jinan;CHN;Outdoor;1993-06-04;Weili;Yao;CHN;1968;Female
+AR;5;DRE;W;15.25;1.7;Split;CRO;Outdoor;2010-09-04;Olga;Rypakova;KAZ;1984;Female
+AR;5;KUG;W;21.76;;Shijiazhuang;CHN;Outdoor;1988-04-23;Meisu;Li;CHN;1959;Female
+AR;5;DIS;W;71.68;;Beijing;CHN;Outdoor;1992-03-14;Yanling;Xiao;CHN;1968;Female
+AR;5;HAM;W;77.68;;Chengdu;CHN;Outdoor;2014-03-29;Zheng;Wang;CHN;1987;Female
+AR;5;SPE;W;67.98;;Shenyang;CHN;Outdoor;2019-08-02;Huihui;Lyu;CHN;1989;Female
+AR;5;100;W;10.79;0.0;Shanghai;CHN;Outdoor;1997-10-18;Xuemei;Li;CHN;1977;Female
+AR;5;200;W;22.01;0.0;Shanghai;CHN;Outdoor;1997-10-22;Xuemei;Li;CHN;1977;Female
+AR;5;400;W;48.14;;Doha;QAT;Outdoor;2019-10-03;Salwa;Eid Naser;BRN;1998;Female
+AR;5;800;W;1:55.54;;Beijing;CHN;Outdoor;1993-09-09;Dong;Liu;CHN;1973;Female
+AR;5;1K0;W;2:35.30;;Berlin;GER;Outdoor;2018-09-02;Nelly;Jepkosgei;BRN;1991;Female
+AR;5;1K5;W;3:50.46;;Beijing;CHN;Outdoor;1993-09-11;Yunxia;Qu;CHN;1972;Female
+AR;5;MEI;W;4:17.75;;Bruxelles;BEL;Outdoor;2007-09-14;Maryam;Yusuf Jamal;BRN;1984;Female
+AR;5;2K0;W;5:29.41;;Beijing;CHN;Outdoor;1993-09-12;Junxia;Wang;CHN;1973;Female
+AR;5;3K0;W;8:06.11;;Beijing;CHN;Outdoor;1993-09-13;Junxia;Wang;CHN;1973;Female
+AR;5;5K0;W;14:28.09;;Shanghai;CHN;Outdoor;1997-10-23;Jiang;Bo;CHN;1977;Female
+AR;5;10K;W;29:31.78;;Beijing;CHN;Outdoor;1993-09-08;Junxia;Wang;CHN;1973;Female
+AR;5;10H;W;12.44;-0.8;Luzern;SUI;Outdoor;1995-06-27;Olga;Shishigina;KAZ;1968;Female
+AR;5;40H;W;53.09;;Budapest;HUN;Outdoor;2023-08-24;Kemi;Adekoya;BRN;1993;Female
+AR;5;3KH;W;8:50.66;;Eugene;USA;Outdoor;2023-09-16;Winfred;Mutile Yavi;BRN;1999;Female
+AR;5;10G;W;41:37.9;;Beijing;CHN;Outdoor;1994-04-07;Hongmiao;Gao;CHN;1974;Female
+AR;5;4×1;W;42.23;;Shanghai;CHN;Outdoor;1997-10-23;Sichuan;;CHN;;Female
+AR;5;4×2;W;1:32.76;;Yokohama;JPN;Outdoor;2019-05-12;PR;Of China;CHN;;Female
+AR;5;4×4;W;3:24.28;;Beijing;CHN;Outdoor;1993-09-13;Hebei;;CHN;;Female
+AR;5;4×8;W;8:16.2;;Shanghai;CHN;Outdoor;1991-10-01;Liaoning;;CHN;;Female
+AR;5;4×4;X;3:11.82;;Doha;QAT;Outdoor;2019-09-29;Bahrain;;BRN;;Mixed
+AR;5;MEI;M;3:54.84;;Boston;USA;Indoor;2024-02-10;Ryoma;Aoki;JPN;1997;Male
+AR;5;50M;M;5.69;;Liévin;FRA;Indoor;2002-02-24;Gennadiy;Chernovol;KAZ;1976;Male
+AR;5;60M;M;6.42;;Birmingham;GBR;Indoor;2018-03-03;Bingtian;Su;CHN;1989;Male
+AR;5;200;M;20.63;;Maebashi;JPN;Indoor;1999-03-05;Koji;Ito;JPN;1970;Male
+AR;5;800;M;1:45.26;;Valencia;ESP;Indoor;2008-03-09;Yusuf;Saad Kamel;BRN;1983;Male
+AR;5;1K0;M;2:17.06;;Gent;BEL;Indoor;2008-02-24;Belal;Mansoor Ali;BRN;1988;Male
+AR;5;1K5;M;3:36.28;;Stockholm;SWE;Indoor;2007-02-20;Belal;Mansoor Ali;BRN;1988;Male
+AR;5;3K0;M;7:31.77;;Liévin;FRA;Indoor;2022-02-17;Birhanu;Balew;BRN;1996;Male
+AR;5;5K0;M;13:08.41;;Boston;USA;Indoor;2022-02-12;Kieran;Tuntivate;THA;1997;Male
+AR;5;50H;M;6.44;;Liévin;FRA;Indoor;2004-02-28;Xiang;Liu;CHN;1983;Male
+AR;5;60H;M;7.41;;Birmingham;GBR;Indoor;2012-02-18;Xiang;Liu;CHN;1983;Male
+AR;5;5G;M;19:14.00;;Karaganda;KAZ;Indoor;1995-01-28;Sergey;Korepanov;KAZ;1964;Male
+AR;5;4×2;M;1:26.70;;Ust-Kamenogorsk;KAZ;Indoor;2018-01-15;Karaganda;Region;KAZ;;Male
+AR;5;4×8;M;8:48.6;;Tokyo;JPN;Indoor;1961-03-19;Ricker;Co;JPN;;Male
+AR;5;MEI;W;4:24.71;;Birmingham;GBR;Indoor;2010-02-20;Maryam;Yusuf Jamal;BRN;1984;Female
+AR;5;50M;W;6.31;;Liévin;FRA;Indoor;2001-02-25;Susanthika;Jayasinghe;SRI;1975;Female
+AR;5;60M;W;7.09;;Stuttgart;GER;Indoor;1999-02-07;Susanthika;Jayasinghe;SRI;1975;Female
+AR;5;200;W;22.99;;Lisboa;POR;Indoor;2001-03-09;Susanthika;Jayasinghe;SRI;1975;Female
+AR;5;800;W;2:00.78;;Yokohama;JPN;Indoor;2003-02-22;Miho;Sugimori;JPN;1978;Female
+AR;5;1K0;W;2:46.6;;Beijing;CHN;Indoor;1987-03-27;Xiujuan;Geng;CHN;1964;Female
+AR;5;1K5;W;3:59.79;;Valencia;ESP;Indoor;2008-03-09;Maryam;Yusuf Jamal;BRN;1984;Female
+AR;5;3K0;W;8:36.03;;Glasgow;GBR;Indoor;2024-03-02;Nozomi;Tanaka;JPN;1999;Female
+AR;5;5K0;W;15:23.87;;Boston;USA;Indoor;2022-02-27;Mikuni;Yada;JPN;1999;Female
+AR;5;50H;W;6.70;;Budapest;HUN;Indoor;1999-02-05;Olga;Shishigina;KAZ;1968;Female
+AR;5;60H;W;7.82;;Liévin;FRA;Indoor;1999-02-21;Olga;Shishigina;KAZ;1968;Female
+AR;5;3G;W;12:42.65;;Osaka;JPN;Indoor;1994-02-11;Yuko;Sato;JPN;1968;Female
+AR;5;4×2;W;1:36.40;;Ust-Kamenogorsk;KAZ;Indoor;2017-02-11;Almaty;Team;KAZ;;Female
+AR;3;HOC;M;2.33;;Pereira;COL;Outdoor;1994-10-17;Gilmar;Mayo;COL;1969;Male
+AR;3;STA;M;6.03;;Rio de Janeiro;BRA;Outdoor;2016-08-15;Thiago;Braz;BRA;1993;Male
+AR;3;WEI;M;8.73;1.2;Hengelo;NED;Outdoor;2008-05-24;Irving;Saladino;PAN;1983;Male
+AR;3;DRE;M;17.90;0.4;Belém;BRA;Outdoor;2007-05-20;Jadel;Gregório;BRA;1980;Male
+AR;3;KUG;M;22.61;;Palo Alto;USA;Outdoor;2019-06-30;Darlan;Romani;BRA;1991;Male
+AR;3;DIS;M;70.29;;Lovelhe;POR;Outdoor;2020-07-22;Mauricio;Ortega;COL;1994;Male
+AR;3;HAM;M;78.63;;Celje;SLO;Outdoor;2016-06-19;Wagner;José Alberto Domingos;BRA;1983;Male
+AR;3;SPE;M;85.11;;Cuiaba;BRA;Outdoor;2024-05-12;Pedro;Henrique Rodrigues;BRA;1999;Male
+AR;3;100;M;9.89;0.8;São Paulo;BRA;Outdoor;2023-07-28;Issamade;Asinga;SUR;2004;Male
+AR;3;200;M;19.81;-0.3;Berlin;GER;Outdoor;2009-08-20;Alonso;Edward;PAN;1989;Male
+AR;3;400;M;43.93;;Tokyo;JPN;Outdoor;2021-08-02;Anthony;José Zambrano;COL;1998;Male
+AR;3;800;M;1:41.77;;Köln;GER;Outdoor;1984-08-26;Joaquim;Cruz;BRA;1963;Male
+AR;3;1K0;M;2:14.09;;Nice;FRA;Outdoor;1984-08-20;Joaquim;Cruz;BRA;1963;Male
+AR;3;1K5;M;3:33.25;;Rieti;ITA;Outdoor;2005-08-28;Hudson;Santos De Souza;BRA;1977;Male
+AR;3;MEI;M;3:51.05;;Oslo;NOR;Outdoor;2005-07-29;Hudson;Santos De Souza;BRA;1977;Male
+AR;3;2K0;M;5:03.34;;Manaus;BRA;Outdoor;2002-04-06;Hudson;Santos De Souza;BRA;1977;Male
+AR;3;3K0;M;7:37.15;;Zagreb;CRO;Outdoor;2023-09-10;Santiago;Catrofe;URU;1999;Male
+AR;3;5K0;M;13:11.57;;Palo Alto;USA;Outdoor;2023-04-21;Federico;Bruno;ARG;1993;Male
+AR;3;10K;M;27:28.12;;Neerpelt;BEL;Outdoor;2007-06-02;Marilson;Gomes Dos Santos;BRA;1977;Male
+AR;3;11H;M;13.17;0.4;Rio de Janeiro;BRA;Outdoor;2022-06-23;Rafael;Pereira;BRA;1997;Male
+AR;3;40H;M;46.29;;Eugene;USA;Outdoor;2022-07-19;Alison;Dos Santos;BRA;2000;Male
+AR;3;3KH;M;8:14.41;;Mar del Plata;ARG;Outdoor;1995-03-22;Wander;Do Prado Moura;BRA;1969;Male
+AR;3;4×1;M;37.72;;Doha;QAT;Outdoor;2019-10-05;Brazil;;BRA;;Male
+AR;3;4×2;M;1:24.42;;PA;USA;Outdoor;2015-04-25;Guyana;;GUY;;Male
+AR;3;4×4;M;2:58.56;;Winnipeg;CAN;Outdoor;1999-07-30;Brazil;;BRA;;Male
+AR;3;4×8;M;7:47.3;;São Paulo;BRA;Outdoor;1965-04-21;Esporte;Clube Pinheiros;BRA;;Male
+AR;3;HOC;W;1.96;;Oristano;ITA;Outdoor;1997-09-08;Solange;Witteveen;ARG;1976;Female
+AR;3;STA;W;4.87;;Sao Bernardo do Campo;BRA;Outdoor;2016-07-03;Fabiana;Murer;BRA;1981;Female
+AR;3;WEI;W;7.26;+1.8;Bogotá;COL;Outdoor;1999-06-25;Maurren;Higa Maggi;BRA;1976;Female
+AR;3;KUG;W;19.30;;Tunja;COL;Outdoor;2001-07-14;Elisângela;Maria Adriano;BRA;1972;Female
+AR;3;DIS;W;65.34;;Leiria;POR;Outdoor;2019-06-26;Andressa;De Morais;BRA;1990;Female
+AR;3;HAM;W;73.74;;Buenos Aires;ARG;Outdoor;2010-04-10;Jennifer;Dahlgren;ARG;1984;Female
+AR;3;SPE;W;66.70;;Cuiaba;BRA;Outdoor;2024-05-12;Flor;Denis Ruiz Hurtado;COL;1991;Female
+AR;3;100;W;10.91;-0.2;London;GBR;Outdoor;2017-08-06;Rosângela;Santos;BRA;1990;Female
+AR;3;200;W;22.47;+1.4;Eugene;USA;Outdoor;2022-07-19;Vitoria;Cristina Rosa;BRA;1996;Female
+AR;3;400;W;49.64;;Barcelona;ESP;Outdoor;1992-08-05;Ximena;Restrepo;COL;1969;Female
+AR;3;800;W;1:56.68;;Göteborg;SWE;Outdoor;1995-08-13;Letitia;Vriesde;SUR;1964;Female
+AR;3;1K0;W;2:32.25;;Berlin;GER;Outdoor;1991-09-10;Letitia;Vriesde;SUR;1964;Female
+AR;3;1K5;W;4:05.67;;Tokyo;JPN;Outdoor;1991-08-31;Letitia;Vriesde;SUR;1964;Female
+AR;3;MEI;W;4:27.41;;Monaco;MON;Outdoor;2023-07-21;Joselyn;Daniely Brea;VEN;1994;Female
+AR;3;2K0;W;5:59.96;;Rivas;ESP;Outdoor;2004-06-10;Niusha;Mancilla;BOL;1971;Female
+AR;3;3K0;W;8:43.26;;Chorzów;POL;Outdoor;2023-07-16;Joselyn;Daniely Brea;VEN;1994;Female
+AR;3;5K0;W;14:36.59;;Los Angeles;USA;Outdoor;2024-05-17;Joselyn;Daniely Brea;VEN;1994;Female
+AR;3;10K;W;31:33.07;;San Juan Capistrano;USA;Outdoor;2024-03-16;Florencia;Borelli;ARG;1992;Female
+AR;3;10H;W;12.49;+1.3;Fayetteville;USA;Outdoor;2024-05-23;Maribel;Vanessa Caicedo;ECU;1998;Female
+AR;3;40H;W;53.69;;Eugene;USA;Outdoor;2022-07-20;Gianna;Woodruff;PAN;1993;Female
+AR;3;3KH;W;9:24.38;;Watford;GBR;Outdoor;2022-06-11;Tatiane;Raquel Da Silva;BRA;1990;Female
+AR;3;10G;W;42:02.99;;Trujillo;PER;Outdoor;2018-08-25;Lorena;Arenas;COL;1993;Female
+AR;3;4×1;W;42.29;;Moskva;RUS;Outdoor;2013-08-18;Brazil;;BRA;;Female
+AR;3;4×2;W;1:35.91;;Yokohama;JPN;Outdoor;2019-05-12;Ecuador;;ECU;;Female
+AR;3;4×4;W;3:26.68;;São Paulo;BRA;Outdoor;2011-08-07;BM&F;Bovespa;BRA;;Female
+AR;3;4×4;X;3:14.48;;Ciudad de México;MEX;Outdoor;2024-04-07;Colombia;;COL;;Mixed
+AR;3;MEI;M;3:56.26;;AR;USA;Indoor;2001-02-10;Hudson;Santos De Souza;BRA;1977;Male
+AR;3;60M;M;6.52;;Paris;FRA;Indoor;2009-02-13;José;Carlos Moreira;BRA;1983;Male
+AR;3;200;M;20.65;;Sindelfingen;GER;Indoor;1989-02-26;Robson;Da Silva;BRA;1964;Male
+AR;3;800;M;1:45.43;;Pireaus;GRE;Indoor;1989-03-08;José;Luis Barbosa;BRA;1961;Male
+AR;3;1K0;M;2:16.99;;Stuttgart;GER;Indoor;1989-02-12;Joaquim;Cruz;BRA;1963;Male
+AR;3;1K5;M;3:38.03;;Sabadell;ESP;Indoor;2022-02-08;Federico;Bruno;ARG;1993;Male
+AR;3;3K0;M;7:49.46;;Sevilla;ESP;Indoor;1991-03-10;Jacinto;Germán Navarrete;COL;1962;Male
+AR;3;5K0;M;13:42.54;;San Sebastián;ESP;Indoor;1990-02-20;Antonio;Fabian Silio;ARG;1966;Male
+AR;3;50H;M;6.57;;Groningen;NED;Indoor;2006-01-28;Redelén;Melo Dos Santos;BRA;1976;Male
+AR;3;60H;M;7.58;;Berlin;GER;Indoor;2022-02-04;Rafael;Pereira;BRA;1997;Male
+AR;3;60H;M;7.58;;Mondeville;FRA;Indoor;2022-02-09;Rafael;Pereira;BRA;1997;Male
+AR;3;60H;M;7.58;;Val-de-Reuil;FRA;Indoor;2022-02-14;Rafael;Pereira;BRA;1997;Male
+AR;3;60H;M;7.58;;Cochabamba;BOL;Indoor;2022-02-20;Rafael;Pereira;BRA;1997;Male
+AR;3;60H;M;7.58;;Beograd;SRB;Indoor;2022-03-20;Rafael;Pereira;BRA;1997;Male
+AR;3;60H;M;7.58;;Cochabamba;BOL;Indoor;2024-01-28;Eduardo;Rodrigues;BRA;1995;Male
+AR;3;5G;M;19:28.87;;Toronto;CAN;Indoor;1993-03-13;Sérgio;Vieira Galdino;BRA;1969;Male
+AR;3;MEI;W;4:34.37;;Boston;USA;Indoor;2024-01-27;Carmen;Alder Caisalitin;ECU;2003;Female
+AR;3;DRE;W;15.74;;Beograd;SRB;Indoor;2022-03-20;Yulimar;Rojas;VEN;1995;Female
+AR;3;50M;W;6.31;;CA;USA;Indoor;1983-02-11;Jennifer;Inniss;GUY;1959;Female
+AR;3;60M;W;7.14;;Beograd;SRB;Indoor;2022-03-18;Vitoria;Cristina Rosa;BRA;1996;Female
+AR;3;200;W;23.02;;TX;USA;Indoor;2019-01-26;Brenessa;Thompson;GUY;1996;Female
+AR;3;800;W;1:59.21;;Birmingham;GBR;Indoor;1997-02-23;Letitia;Vriesde;SUR;1964;Female
+AR;3;1K0;W;2:38.30;;Stockholm;SWE;Indoor;1999-02-25;Letitia;Vriesde;SUR;1964;Female
+AR;3;1K5;W;4:12.95;;Sabadell;ESP;Indoor;2023-01-28;Fedra;Aldana Luna;ARG;1995;Female
+AR;3;3K0;W;8:57.59;;Val-de-Reuil;FRA;Indoor;2023-02-04;Fedra;Aldana Luna;ARG;1995;Female
+AR;3;5K0;W;15:51.98;;Boston;USA;Indoor;2023-12-02;Carmen;Alder Caisalitin;ECU;2003;Female
+AR;3;60H;W;7.91;;Sopot;POL;Indoor;2014-03-07;Yvette;Lewis;PAN;1985;Female
+AR;3;3G;W;13:24.0;;Cochabamba;BOL;Indoor;2023-02-12;Angela;Castro;BOL;1993;Female
+AR;2;HOC;M;2.45;;Salamanca;ESP;Outdoor;1993-07-27;Javier;Sotomayor;CUB;1967;Male
+AR;2;STA;M;6.07;;Nashville;USA;Outdoor;2023-06-02;KC;Lightfoot;USA;1999;Male
+AR;2;WEI;M;8.95;0.3;Tokyo;JPN;Outdoor;1991-08-30;Mike;Powell;USA;1963;Male
+AR;2;DRE;M;18.21;0.2;Beijing;CHN;Outdoor;2015-08-27;Christian;Taylor;USA;1990;Male
+AR;2;KUG;M;23.56;;Los Angeles;USA;Outdoor;2023-05-27;Ryan;Crouser;USA;1992;Male
+AR;2;DIS;M;71.32;;OR;USA;Outdoor;1983-06-04;Ben;Plucknett;USA;1954;Male
+AR;2;HAM;M;84.38;;Nairobi;KEN;Outdoor;2024-04-20;Ethan;Katzberg;CAN;2002;Male
+AR;2;SPE;M;93.07;;Doha;QAT;Outdoor;2022-05-13;Anderson;Peters;GRN;1997;Male
+AR;2;100;M;9.58;0.9;Berlin;GER;Outdoor;2009-08-16;Usain;Bolt;JAM;1986;Male
+AR;2;200;M;19.19;-0.3;Berlin;GER;Outdoor;2009-08-20;Usain;Bolt;JAM;1986;Male
+AR;2;400;M;43.18;;Sevilla;ESP;Outdoor;1999-08-26;Michael;Johnson;USA;1967;Male
+AR;2;800;M;1:42.34;;Doha;QAT;Outdoor;2019-10-01;Donavan;Brazier;USA;1997;Male
+AR;2;1K0;M;2:13.9;;Oslo;NOR;Outdoor;1974-07-30;Rick;Wohlhuter;USA;1948;Male
+AR;2;1K5;M;3:29.02;;Oslo;NOR;Outdoor;2023-06-15;Yared;Nuguse;USA;1999;Male
+AR;2;MEI;M;3:43.97;;Eugene;USA;Outdoor;2023-09-16;Yared;Nuguse;USA;1999;Male
+AR;2;2K0;M;4:51.54;;Bruxelles;BEL;Outdoor;2023-09-08;Charles;Philibert-Thiboutot;CAN;1990;Male
+AR;2;3K0;M;7:25.47;;Eugene;USA;Outdoor;2023-09-17;Grant;Fisher;USA;1997;Male
+AR;2;5K0;M;12:46.96;;Bruxelles;BEL;Outdoor;2022-09-02;Grant;Fisher;USA;1997;Male
+AR;2;10K;M;26:33.84;;San Juan Capistrano;USA;Outdoor;2022-03-06;Grant;Fisher;USA;1997;Male
+AR;2;11H;M;12.80;0.3;Bruxelles;BEL;Outdoor;2012-09-07;Aries;Merritt;USA;1985;Male
+AR;2;40H;M;46.17;;Tokyo;JPN;Outdoor;2021-08-03;Rai;Benjamin;USA;1997;Male
+AR;2;3KH;M;8:00.45;;Paris-St-Denis;FRA;Outdoor;2015-07-04;Evan;Jager;USA;1989;Male
+AR;2;10G;M;38:25.42;;Canberra;AUS;Outdoor;2024-01-28;Evan;Dunfee;CAN;1990;Male
+AR;2;4×1;M;36.84;;London;GBR;Outdoor;2012-08-11;Jamaica;;JAM;;Male
+AR;2;4×4;M;2:54.29;;Stuttgart;GER;Outdoor;1993-08-22;United;States;USA;;Male
+AR;2;HOC;W;2.05;;Des Moines;USA;Outdoor;2010-06-26;Chaunte;Lowe;USA;1984;Female
+AR;2;WEI;W;7.49;1.3;NY;USA;Outdoor;1994-05-22;Jackie;Joyner-Kersee;USA;1962;Female
+AR;2;WEI;W;7.49;1.7;Sestriere;ITA;Outdoor;1994-07-31;Jackie;Joyner-Kersee;USA;1962;Female
+AR;2;DRE;W;15.29;0.3;Roma;ITA;Outdoor;2003-07-11;Yamilé;Aldama;CUB;1972;Female
+AR;2;KUG;W;20.96;;Ciudad de México;MEX;Outdoor;1992-05-02;Belsy;Laza;CUB;1967;Female
+AR;2;DIS;W;73.09;;Ramona;USA;Outdoor;2024-04-13;Yaimé;Pérez;CUB;1991;Female
+AR;2;HAM;W;80.31;;Eugene;USA;Outdoor;2021-06-26;DeAnna;Price;USA;1993;Female
+AR;2;SPE;W;71.70;;Helsinki;FIN;Outdoor;2005-08-14;Olisdeilys;Menéndez;CUB;1979;Female
+AR;2;100;W;10.49;0.0;IN;USA;Outdoor;1988-07-16;Florence;Griffith-Joyner;USA;1959;Female
+AR;2;200;W;21.34;1.3;Jamsil, Seoul;KOR;Outdoor;1988-09-29;Florence;Griffith-Joyner;USA;1959;Female
+AR;2;400;W;48.36;;Tokyo;JPN;Outdoor;2021-08-06;Shaunae;Miller-Uibo;BAH;1994;Female
+AR;2;800;W;1:54.44;;Barcelona;ESP;Outdoor;1989-09-09;Ana;Fidelia Quirot;CUB;1963;Female
+AR;2;1K0;W;2:31.80;;ME;USA;Outdoor;1999-07-03;Regina;Jacobs;USA;1963;Female
+AR;2;1K5;W;3:54.99;;Doha;QAT;Outdoor;2019-10-05;Shelby;Houlihan;USA;1993;Female
+AR;2;MEI;W;4:16.35;;Monaco;MON;Outdoor;2023-07-21;Nikki;Hiltz;USA;1994;Female
+AR;2;2K0;W;5:32.7;;OR;USA;Outdoor;1984-08-03;Mary;Decker;USA;1958;Female
+AR;2;5K0;W;14:19.45;;London;GBR;Outdoor;2023-07-23;Alicia;Monson;USA;1998;Female
+AR;2;10K;W;30:03.82;;San Juan Capistrano;USA;Outdoor;2023-03-04;Alicia;Monson;USA;1998;Female
+AR;2;10H;W;12.20;0.3;London;GBR;Outdoor;2016-07-22;Kendra;Harrison;USA;1992;Female
+AR;2;40H;W;50.68;;Eugene;USA;Outdoor;2022-07-22;Sydney;Mclaughlin;USA;1999;Female
+AR;2;3KH;W;8:57.77;;Eugene;USA;Outdoor;2021-08-21;Courtney;Frerichs;USA;1993;Female
+AR;2;10G;W;44:13.88;;Tampere;FIN;Outdoor;2018-07-14;Alegna;González;MEX;1999;Female
+AR;2;4×1;W;40.82;;London;GBR;Outdoor;2012-08-10;United;States;USA;;Female
+AR;2;4×4;W;3:15.51;;Jamsil, Seoul;KOR;Outdoor;1988-10-01;United;States;USA;;Female
+AR;2;4×4;X;3:08.80;;Budapest;HUN;Outdoor;2023-08-19;United;States;USA;;Mixed
+AR;2;MEI;M;3:47.38;;New York;USA;Indoor;2023-02-11;Yared;Nuguse;USA;1999;Male
+AR;2;50M;M;5.56;;NV;USA;Indoor;1996-02-09;Donovan;Bailey;CAN;1967;Male
+AR;2;50M;M;5.56;;CA;USA;Indoor;1999-02-13;Maurice;Greene;USA;1974;Male
+AR;2;60M;M;6.34;;NM;USA;Indoor;2018-02-18;Christian;Coleman;USA;1996;Male
+AR;2;200;M;20.02;;TX;USA;Indoor;2018-03-10;Elijah;Hall-Thompson;USA;1994;Male
+AR;2;800;M;1:44.21;;New York;USA;Indoor;2021-02-13;Donavan;Brazier;USA;1997;Male
+AR;2;1K0;M;2:14.74;;Boston;USA;Indoor;2024-02-04;Marco;Arop;CAN;1998;Male
+AR;2;1K5;M;3:33.22;;New York;USA;Indoor;2023-02-11;Yared;Nuguse;USA;1999;Male
+AR;2;3K0;M;7:28.23;;Boston;USA;Indoor;2023-01-27;Yared;Nuguse;USA;1999;Male
+AR;2;5K0;M;12:51.61;;Boston;USA;Indoor;2023-01-27;William;Kincaid;USA;1992;Male
+AR;2;50H;M;6.25;;Kobe;JPN;Indoor;1986-03-05;Mark;Mckoy;CAN;1961;Male
+AR;2;60H;M;7.27;;Albuquerque;USA;Indoor;2024-02-16;Grant;Holloway;USA;1997;Male
+AR;2;5G;M;18:38.71;;Indianapolis;USA;Indoor;1987-03-07;Ernesto;Canto;MEX;1959;Male
+AR;2;4×2;M;1:22.71;;Glasgow;GBR;Indoor;1991-03-03;United;States;USA;;Male
+AR;2;4×8;M;7:11.30;;MA;USA;Indoor;2018-02-25;HOKA;Nj / Ny Tc;USA;;Male
+AR;2;MEI;W;4:16.41;;New York;USA;Indoor;2024-02-11;Elle;St. Pierre;USA;1995;Female
+AR;2;STA;W;5.03;;NY;USA;Indoor;2016-01-30;Jennifer;Suhr;USA;1982;Female
+AR;2;50M;W;6.00;;Moskva;RUS;Indoor;1994-02-04;Merlene;Ottey;JAM;1960;Female
+AR;2;60M;W;6.94;;Albuquerque;USA;Indoor;2023-02-18;Aleia;Hobbs;USA;1996;Female
+AR;2;60M;W;6.94;;Albuquerque;USA;Indoor;2023-03-11;Julien;Alfred;LCA;2001;Female
+AR;2;200;W;21.87;;Liévin;FRA;Indoor;1993-02-13;Merlene;Ottey;JAM;1960;Female
+AR;2;800;W;1:58.29;;New York;USA;Indoor;2020-02-08;Ajee';Wilson;USA;1994;Female
+AR;2;1K0;W;2:33.75;;Boston;USA;Indoor;2023-01-28;Lucia;Stafford;CAN;1998;Female
+AR;2;1K5;W;3:59.98;;MA;USA;Indoor;2003-02-01;Regina;Jacobs;USA;1963;Female
+AR;2;3K0;W;8:20.87;;Glasgow;GBR;Indoor;2024-03-02;Elle;St. Pierre;USA;1995;Female
+AR;2;3K0;W;8:20.87;;Glasgow;GBR;Indoor;2024-03-02;Elle;St. Pierre;USA;1995;Female
+AR;2;5K0;W;14:31.38;;Boston;USA;Indoor;2022-02-11;Gabriela;Debues-Stafford;CAN;1995;Female
+AR;2;50H;W;6.67;;NV;USA;Indoor;1995-02-10;Jackie;Joyner-Kersee;USA;1962;Female
+AR;2;50H;W;6.67;;Liévin;FRA;Indoor;2000-02-13;Michelle;Freeman;JAM;1969;Female
+AR;2;60H;W;7.65;;Glasgow;GBR;Indoor;2024-03-03;Devynne;Charlton;BAH;1995;Female
+AR;2;3G;W;12:20.79;;Toronto;CAN;Indoor;1993-03-12;Debbi;Lawrence;USA;1961;Female
+AR;2;4×2;W;1:32.67;;NY;USA;Indoor;2018-01-27;United;States;USA;;Female
+AR;2;4×8;W;8:05.89;;NY;USA;Indoor;2018-02-03;United;States;USA;;Female
+AR;1;HOC;M;2.42;;Stockholm;SWE;Outdoor;1987-06-30;Patrik;Sjöberg;SWE;1965;Male
+AR;1;STA;M;6.23;;Eugene;USA;Outdoor;2023-09-17;Armand;Duplantis;SWE;1999;Male
+AR;1;WEI;M;8.86;1.9;Tsakhadzor;ARM;Outdoor;1987-05-22;Robert;Emmiyan;URS;1965;Male
+AR;1;DRE;M;18.29;1.3;Göteborg;SWE;Outdoor;1995-08-07;Jonathan;Edwards;GBR;1966;Male
+AR;1;KUG;M;23.06;;Chania;GRE;Outdoor;1988-05-22;Ulf;Timmermann;GDR;1962;Male
+AR;1;DIS;M;74.08;;Neubrandenburg;GDR;Outdoor;1986-06-06;Jürgen;Schult;GDR;1960;Male
+AR;1;HAM;M;86.74;;Stuttgart;GER;Outdoor;1986-08-30;Yuriy;Sedykh;URS;1955;Male
+AR;1;SPE;M;98.48;;Jena;GER;Outdoor;1996-05-25;Jan;Železný;CZE;1966;Male
+AR;1;100;M;9.80;0.1;Tokyo;JPN;Outdoor;2021-08-01;Lamont;Marcell Jacobs;ITA;1994;Male
+AR;1;200;M;19.72;1.8;Ciudad de México;MEX;Outdoor;1979-09-12;Pietro;Mennea;ITA;1952;Male
+AR;1;400;M;44.26;;Budapest;HUN;Outdoor;2023-08-22;Matthew;Hudson-Smith;GBR;1994;Male
+AR;1;800;M;1:41.11;;Köln;GER;Outdoor;1997-08-24;Wilson;Kipketer;DEN;1972;Male
+AR;1;1K0;M;2:12.18;;Oslo;NOR;Outdoor;1981-07-11;Sebastian;Coe;GBR;1956;Male
+AR;1;1K5;M;3:27.14;;Chorzów;POL;Outdoor;2023-07-16;Jakob;Ingebrigtsen;NOR;2000;Male
+AR;1;MEI;M;3:43.73;;Eugene;USA;Outdoor;2023-09-16;Jakob;Ingebrigtsen;NOR;2000;Male
+AR;1;2K0;M;4:43.13;;Bruxelles;BEL;Outdoor;2023-09-08;Jakob;Ingebrigtsen;NOR;2000;Male
+AR;1;3K0;M;7:23.63;;Eugene;USA;Outdoor;2023-09-17;Jakob;Ingebrigtsen;NOR;2000;Male
+AR;1;5K0;M;12:45.01;;Monaco;MON;Outdoor;2023-07-21;Mohamed;Katir;ESP;1998;Male
+AR;1;10K;M;26:46.57;;Eugene;USA;Outdoor;2011-06-03;Mo;Farah;GBR;1983;Male
+AR;1;11H;M;12.91;0.5;Stuttgart;GER;Outdoor;1993-08-20;Colin;Jackson;GBR;1967;Male
+AR;1;40H;M;45.94;;Tokyo;JPN;Outdoor;2021-08-03;Karsten;Warholm;NOR;1996;Male
+AR;1;3KH;M;8:00.09;;Paris-St-Denis;FRA;Outdoor;2013-07-06;Mahiedine;Mekhissi;FRA;1985;Male
+AR;1;4×1;M;37.36;;Doha;QAT;Outdoor;2019-10-05;Great;Britain & Ni;GBR;;Male
+AR;1;4×2;M;1:20.66;;Nassau;BAH;Outdoor;2014-05-24;France;;FRA;;Male
+AR;1;4×4;M;2:56.60;;Atlanta;USA;Outdoor;1996-08-03;Great;Britain & Ni;GBR;;Male
+AR;1;4×8;M;7:03.89;;London;GBR;Outdoor;1982-08-30;Great;Britain & Ni;GBR;;Male
+AR;1;HOC;W;2.09;;Roma;ITA;Outdoor;1987-08-30;Stefka;Kostadinova;BUL;1965;Female
+AR;1;STA;W;5.06;;Zürich;SUI;Outdoor;2009-08-28;Yelena;Isinbayeva;RUS;1982;Female
+AR;1;WEI;W;7.52;1.4;Leningrad;URS;Outdoor;1988-06-11;Galina;Chistyakova;URS;1962;Female
+AR;1;DRE;W;15.50;0.9;Göteborg;SWE;Outdoor;1995-08-10;Inessa;Kravets;UKR;1966;Female
+AR;1;KUG;W;22.63;;Moskva;URS;Outdoor;1987-06-07;Natalya;Lisovskaya;URS;1962;Female
+AR;1;DIS;W;76.80;;Neubrandenburg;GDR;Outdoor;1988-07-09;Gabriele;Reinsch;GDR;1963;Female
+AR;1;HAM;W;82.98;;Warszawa;POL;Outdoor;2016-08-28;Anita;Włodarczyk;POL;1985;Female
+AR;1;SPE;W;72.28;;Stuttgart;GER;Outdoor;2008-09-13;Barbora;Špotáková;CZE;1981;Female
+AR;1;100;W;10.73;2.0;Budapest;HUN;Outdoor;1998-08-19;Christine;Arron;FRA;1973;Female
+AR;1;200;W;21.63;0.2;Beijing;CHN;Outdoor;2015-08-28;Dafne;Schippers;NED;1992;Female
+AR;1;400;W;47.60;;Canberra;AUS;Outdoor;1985-10-06;Marita;Koch;GDR;1957;Female
+AR;1;800;W;1:53.28;;München;GER;Outdoor;1983-07-26;Jarmila;Kratochvílová;TCH;1951;Female
+AR;1;1K0;W;2:28.98;;Bruxelles;BEL;Outdoor;1996-08-23;Svetlana;Masterkova;RUS;1968;Female
+AR;1;1K5;W;3:51.95;;Doha;QAT;Outdoor;2019-10-05;Sifan;Hassan;NED;1993;Female
+AR;1;MEI;W;4:12.33;;Monaco;MON;Outdoor;2019-07-12;Sifan;Hassan;NED;1993;Female
+AR;1;2K0;W;5:25.36;;Edinburgh;GBR;Outdoor;1994-07-08;Sonia;O'Sullivan;IRL;1969;Female
+AR;1;3K0;W;8:18.49;;Palo Alto;USA;Outdoor;2019-06-30;Sifan;Hassan;NED;1993;Female
+AR;1;5K0;W;14:13.42;;London;GBR;Outdoor;2023-07-23;Sifan;Hassan;NED;1993;Female
+AR;1;10K;W;29:06.82;;Hengelo;NED;Outdoor;2021-06-06;Sifan;Hassan;NED;1993;Female
+AR;1;10H;W;12.21;0.7;Stara Zagora;BUL;Outdoor;1988-08-20;Yordanka;Donkova;BUL;1961;Female
+AR;1;40H;W;51.45;;London;GBR;Outdoor;2023-07-23;Femke;Bol;NED;2000;Female
+AR;1;3KH;W;8:58.81;;Beijing;CHN;Outdoor;2008-08-17;Gulnara;Samitova-Galkina;RUS;1978;Female
+AR;1;10G;W;41:56.23;;WA;USA;Outdoor;1990-07-24;Nadezhda;Ryashkina;URS;1967;Female
+AR;1;4×1;W;41.37;;Canberra;AUS;Outdoor;1985-10-06;German;Democratic Republic;GDR;;Female
+AR;1;4×2;W;1:28.15;;Jena;GDR;Outdoor;1980-08-09;German;Democratic Republic;GDR;;Female
+AR;1;4×4;W;3:15.17;;Jamsil, Seoul;KOR;Outdoor;1988-10-01;Soviet;Union;URS;;Female
+AR;1;4×8;W;7:50.17;;Moskva;URS;Outdoor;1984-08-05;Soviet;Union;URS;;Female
+AR;1;4×4;X;3:09.87;;Tokyo;JPN;Outdoor;2021-07-31;Poland;;POL;;Mixed
+AR;1;MEI;M;3:48.93;;New York;USA;Indoor;2024-02-11;George;Mills;GBR;1999;Male
+AR;1;HOC;M;2.42;;Berlin;GER;Indoor;1988-02-26;Carlo;Thränhardt;FRG;1957;Male
+AR;1;60M;M;6.41;;Beograd;SRB;Indoor;2022-03-19;Lamont;Marcell Jacobs;ITA;1994;Male
+AR;1;200;M;20.25;;Liévin;FRA;Indoor;1995-02-19;Linford;Christie;GBR;1960;Male
+AR;1;800;M;1:42.67;;Paris;FRA;Indoor;1997-03-09;Wilson;Kipketer;DEN;1972;Male
+AR;1;1K0;M;2:14.96;;Birmingham;GBR;Indoor;2000-02-20;Wilson;Kipketer;DEN;1972;Male
+AR;1;1K5;M;3:30.60;;Liévin;FRA;Indoor;2022-02-17;Jakob;Ingebrigtsen;NOR;2000;Male
+AR;1;3K0;M;7:24.68;;Liévin;FRA;Indoor;2023-02-15;Mohamed;Katir;ESP;1998;Male
+AR;1;5K0;M;12:57.08;;Boston;USA;Indoor;2022-02-12;Marc;Scott;GBR;1993;Male
+AR;1;50H;M;6.36;;Liévin;FRA;Indoor;2005-02-26;Ladji;Doucouré;FRA;1983;Male
+AR;1;60H;M;7.30;;Sindelfingen;GER;Indoor;1994-03-06;Colin;Jackson;GBR;1967;Male
+AR;1;5G;M;18:07.08;;Moskva;RUS;Indoor;1995-02-14;Mikhail;Shchennikov;RUS;1967;Male
+AR;1;4×2;M;1:22.11;;Glasgow;GBR;Indoor;1991-03-03;Great;Britain & Ni;GBR;;Male
+AR;1;4×8;M;7:17.8;;Sofia;BUL;Indoor;1971-03-14;Soviet;Union;URS;;Male
+AR;1;MEI;W;4:17.14;;NJ;USA;Indoor;1990-02-09;Doina;Melinte;ROU;1956;Female
+AR;1;50M;W;5.96;;Madrid;ESP;Indoor;1995-02-09;Irina;Privalova;RUS;1968;Female
+AR;1;60M;W;6.92;;Madrid;ESP;Indoor;1993-02-11;Irina;Privalova;RUS;1968;Female
+AR;1;60M;W;6.92;;Madrid;ESP;Indoor;1995-02-09;Irina;Privalova;RUS;1968;Female
+AR;1;200;W;22.10;;Liévin;FRA;Indoor;1995-02-19;Irina;Privalova;RUS;1968;Female
+AR;1;800;W;1:55.82;;Wien;AUT;Indoor;2002-03-03;Jolanda;Čeplak;SLO;1976;Female
+AR;1;1K0;W;2:31.93;;Birmingham;GBR;Indoor;2017-02-18;Laura;Muir;GBR;1993;Female
+AR;1;1K5;W;3:57.91;;Stockholm;SWE;Indoor;2014-02-06;Abeba;Aregawi;SWE;1990;Female
+AR;1;3K0;W;8:26.41;;Karlsruhe;GER;Indoor;2017-02-04;Laura;Muir;GBR;1993;Female
+AR;1;5K0;W;14:30.79;;Boston;USA;Indoor;2020-02-27;Konstanze;Klosterhalfen;GER;1997;Female
+AR;1;50H;W;6.58;;Berlin;GER;Indoor;1988-02-20;Cornelia;Oschkenat;GDR;1961;Female
+AR;1;60H;W;7.68;;Karlsruhe;GER;Indoor;2008-02-10;Susanna;Kallur;SWE;1981;Female
+AR;1;3G;W;11:40.33;;Bucureşti;ROU;Indoor;1999-01-30;Claudia;Iovan;ROU;1978;Female
+AR;1;4×2;W;1:32.41;;Glasgow;GBR;Indoor;2005-01-29;Russia;;RUS;;Female
+AR;1;4×8;W;8:06.24;;Moskva;RUS;Indoor;2011-02-18;Moskva;Region;RUS;;Female
