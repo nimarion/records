@@ -91,4 +91,12 @@ if __name__ == '__main__':
     df[['Venue Country', 'Venue', 'Stadium']] = df['Venue'].apply(parse_venue)
     df.drop(columns=['Stadium', 'Name'], inplace=True)
 
+    if 'DOB' in df.columns:
+        df['DOB'] = pd.to_datetime(
+            df['DOB'], format='%d %b %Y', errors='coerce')
+        df["YOB"] = df['DOB'].dt.year
+        df['YOB'] = df['YOB'].fillna('').astype(str) 
+        df['YOB'] = df['YOB'].replace('', '-1') 
+        df['YOB'] = df['YOB'].astype(float).astype(int) 
+
     df.to_csv(args.output, index=False)
