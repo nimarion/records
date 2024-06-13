@@ -78,7 +78,7 @@ def download_parse(url, discipline, sex, regionType, region):
     elif regionType == "world":
         df["Record Type"] = "WL"
 
-    # Relays dont have DOB
+    # Staffeln haben kein DOB
     if 'DOB' in df.columns:
         df['DOB'] = pd.to_datetime(
             df['DOB'], format='%d %b %Y', errors='coerce')
@@ -92,7 +92,6 @@ def download_parse(url, discipline, sex, regionType, region):
     df["Environment"] = df["Venue"].apply(
         lambda x: "Indoor" if "(i)" in x else "Outdoor")
 
-    # Drop unused columns
     df = df.drop(columns=['Results Score',
                  'RegionType', 'DOB', 'Pos'], errors='ignore')
 

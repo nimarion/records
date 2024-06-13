@@ -4,6 +4,8 @@ Enthält tagesaktuell alle Weltrekorde,Kontinentalrekorde und Landesrekorder der
 
 Alle Dateien sind im CSV Format und können in TAF3 importiert werden.
 
+- [TAF Spaltenzuordnung](taf_mapping.rim)
+
 ## Rekorde
 
 - [Weltrekorde](records/world.csv) - Worldathletics

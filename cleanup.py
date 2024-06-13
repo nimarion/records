@@ -79,10 +79,13 @@ if __name__ == '__main__':
         df["Date"] = pd.to_datetime(df["Date"], format='%Y-%m-%d')
 
         arearecordCleanup = 'area' in df.columns
-        worldrecordCleanup = 'Type' in df.columns and df['Type'].str.contains(
+        worldrecordCleanup = 'Record Type' in df.columns and df['Record Type'].str.contains(
             'WR').any()
-        nationalrecordCleanup = 'Type' in df.columns and df['Type'].str.contains(
+        nationalrecordCleanup = 'Record Type' in df.columns and df['Record Type'].str.contains(
             'NR').any()
+        # leadCleanup when Record Type ends with L
+        leadCleanup = 'Record Type' in df.columns and df['Record Type'].str.contains(
+            'L$').any()
 
         for e in ["Outdoor", "Indoor"]:
             dfEnvironment = df[df['Environment'] == e]
@@ -140,6 +143,10 @@ if __name__ == '__main__':
         elif nationalrecordCleanup:
             outputDf = outputDf.sort_values(
                 ['Environment', 'Nation', 'Date', 'Name'], ascending=[False, True, True, True])
+        
+        if leadCleanup:
+            outputDf = outputDf.sort_values(
+                ['Rank'], ascending=[True])
         
         # remove state from venue eg New York BY or Eugene OR
         outputDf['Venue'] = outputDf['Venue'].str.replace(r' ([A-Z]+)$', '', regex=True)

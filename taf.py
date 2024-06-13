@@ -85,6 +85,8 @@ if __name__ == '__main__':
         outputDf = pd.concat([outputDf, df])
 
     outputDf['Class'] = outputDf['Sex'].apply(lambda x: 'M' if x == 'Male' else ('W' if x == 'Female' else 'X'))
+
+    # Für Jugendklassen wird entsprechend der Suffix angehängt z.B. JU20 oder JU18
     if(args.ageGroup != 'senior'):
         outputDf['Class'] = outputDf['Class'] + args.ageGroup
 
@@ -94,12 +96,15 @@ if __name__ == '__main__':
         outputDf['YOB'] = outputDf['YOB'].astype(float).astype(int) 
         outputDf['YOB'] = outputDf['YOB'].replace(-1, "") 
     
+    # Vorname und Nachname werden aus dem vollen in "Name" beim ersten Leerzeichen getrennt
+    # "YOB" überprüfung da Staffeln kein "YOB" haben
     if 'Name' in outputDf.columns and 'YOB' in outputDf.columns:
         print("Splitting name")
         outputDf[['Firstname', 'Lastname']] = outputDf['Name'].str.split(
             pat=' ', n=1, expand=True)
         outputDf['Lastname'] = outputDf['Lastname'].str.lower().str.title()
-       
+    
+    # Spaltenreihenfolge anpassen und unnötige Spalten entfernen
     desired_order = ['Code', 'Type', 'Discipline', 'Class', 'Result', 'Wind', 'Venue', 'Venue Country', 'Environment', 'Date', 'Firstname', 'Lastname', 'Nation', 'YOB', 'Sex']
     columns_to_drop = set(df.columns) - set(desired_order)
     outputDf = outputDf.drop(columns=columns_to_drop, errors="ignore")
