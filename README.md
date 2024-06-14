@@ -27,3 +27,4 @@ Alle Dateien sind im CSV Format und können in TAF3 importiert werden.
 
 - [Normen für Deutsche Meisterschaften](limits) - DLV
 - [Normen für Süddeutsche Meisterschaften](limits) - SLV
+- [U20 EM Normen 2025](limits/2025/em-u20.csv) - European Athletics
