@@ -120,7 +120,7 @@ AL;4;600;WJU20;1:37.72;;McArthur Stadium;RSA;Outdoor;2024-01-30;Andrea;Steynberg
 AL;4;HOC;WJU20;1.85;;UJ Esuene Stadium;NGR;Outdoor;2024-04-30;Clement;Victor Honourable;NGR;;Female
 AL;4;60H;WJU20;8.93;;Salle Joseph Maigrot;FRA;Indoor;2024-01-28;Aissatou;Diallo;SEN;;Female
 AL;1;4×1;MJU20;39.74;;Estadio Iberoamericano;ESP;Outdoor;2024-04-30;Spain;U20;ESP;;Male
-AL;1;200;MJU20;20.66;;The Track at New Balance;USA;Indoor;2024-03-10;Jake;Odey-Jordan;GBR;2007;Male
+AL;1;200;MJU20;20.55;0.1;Franklin Field;USA;Outdoor;2024-06-16;Jake;Odey-Jordan;GBR;2007;Male
 AL;1;WEI;WJU20;6.68;1.9;Demirjian Park;USA;Outdoor;2024-04-13;Elizabeth;Ndudi;IRL;2005;Female
 AL;1;KUG;MJU20;18.55;;Quarterback Immobilien Arena;GER;Indoor;2024-02-16;Georg;Harpf;GER;2005;Male
 AL;1;10H;WJU20;13.1;0.0;Sportzentrum Niederösterreich;AUT;Outdoor;2024-05-17;Mia;Wild;CRO;2006;Female
@@ -268,7 +268,7 @@ AL;2;STA;WJU20;4.64;;Dempsey Indoor;USA;Indoor;2024-01-27;Hana;Moll;USA;2005;Fem
 AL;2;2K0;MJU20;5:39.80;;Pista de Atletismo del Centro Deportivo Benito Juárez;MEX;Outdoor;2024-03-23;Zarek;Elias Garcia;MEX;;Male
 AL;2;4×1;WJU20;43.63;;Kirani James Athletic Stadium;GRN;Outdoor;2024-03-31;Jamaica;U20;JAM;;Female
 AL;2;3KH;MJU20;8:42.91;;Clyde Hart Track & Field Stadium;USA;Outdoor;2024-05-10;Wyatt;Haughton;USA;;Male
-AL;2;11H;MJU20;13.18;0.4;Percy Beard Track;USA;Outdoor;2024-05-11;Ja'Kobe;Tharp;USA;;Male
+AL;2;11H;MJU20;13.18;0.4;Percy Beard Track;USA;Outdoor;2024-05-11;Ja'Kobe;Tharp;USA;2005;Male
 AL;2;3G;WJU20;15:35.17;;Unidad Deportiva Agustín Flores;MEX;Outdoor;2024-02-03;America;Yaretzi Lopez;MEX;;Female
 AL;2;10K;WJU20;33:56.92;;Geroge C. Griffin Track;USA;Outdoor;2024-05-09;Arianne;Olson;USA;;Female
 AL;2;800;MJU20;1:46.78;;Lincoln;USA;Outdoor;2024-06-09;Daniel;Watcke;USA;2005;Male
