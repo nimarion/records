@@ -79,7 +79,7 @@ AL;2;2K0;W;6:29.44;;Pista de Atletismo del Centro Deportivo Benito Juárez;MEX;O
 AL;2;1K5;M;3:30.59;;Hayward Field;USA;Outdoor;2024-06-24;Cole;Hocker;USA;2001;Male
 AL;2;50M;W;6.33;;GSG9-Halle;AUT;Indoor;2024-01-16;Christania;Williams;JAM;1994;Female
 AL;2;HAM;M;84.38;;Nyayo National Stadium;KEN;Outdoor;2024-04-20;Ethan;Katzberg;CAN;2002;Male
-AL;2;10H;W;12.28;0.5;National Stadium;JAM;Outdoor;2024-06-30;Ackera;Nugent;JAM;2002;Female
+AL;2;10H;W;12.25;0.7;Hayward Field;USA;Outdoor;2024-06-30;Masai;Russell;USA;2000;Female
 AL;2;DRE;M;17.75;-0.7;National Stadium;JAM;Outdoor;2024-06-01;Jaydon;Hibbert;JAM;2005;Male
 AL;2;3G;M;11:56.06;;Convention Center;USA;Indoor;2024-02-16;Nick;Christie;USA;1991;Male
 AL;2;4×8;W;8:27.94;;Drake Stadium;USA;Outdoor;2024-04-26;Kentucky;;USA;;Female
@@ -104,11 +104,11 @@ AL;2;300;M;31.99;;UMiami Cobb Stadium;USA;Outdoor;2024-03-15;Steven;Gardiner;BAH
 AL;2;10K;W;30:33.82;;JSerra Catholic;USA;Outdoor;2024-03-16;Weini;Kelati Frezghi;USA;1996;Female
 AL;2;60M;M;6.41;;Glasgow Arena;GBR;Indoor;2024-03-01;Christian;Coleman;USA;1996;Male
 AL;2;DIS;M;69.67;;Millican Field at Throw Town;USA;Outdoor;2024-04-06;Ralford;Mullings;JAM;2002;Male
-AL;2;40H;M;46.64;;Drake Stadium;USA;Outdoor;2024-05-18;Rai;Benjamin;USA;1997;Male
+AL;2;40H;M;46.46;;Hayward Field;USA;Outdoor;2024-06-30;Rai;Benjamin;USA;1997;Male
 AL;2;4×1;M;37.4;;The Bahamas National Stadium;BAH;Outdoor;2024-05-05;United;States;USA;;Male
 AL;2;MEI;W;4:16.41;;Armory Track&Field Center;USA;Indoor;2024-02-11;Elle;St. Pierre;USA;1995;Female
 AL;2;1K0;W;2:34.09;;Dempsey Indoor;USA;Indoor;2024-01-26;Nikki;Hiltz;USA;1994;Female
-AL;2;1K5;W;3:56.00;;Hayward Field;USA;Outdoor;2024-05-25;Elle;St. Pierre;USA;1995;Female
+AL;2;1K5;W;3:55.33;;Hayward Field;USA;Outdoor;2024-06-30;Nikki;Hiltz;USA;1994;Female
 AL;2;10K;M;26:52.04;;JSerra Catholic;USA;Outdoor;2024-03-16;Grant;Fisher;USA;1997;Male
 AL;2;STA;M;6.0;;Convention Center;USA;Indoor;2024-02-16;Christopher;Nilsen;USA;1998;Male
 AL;2;10G;W;44:41.32;;CVEATC;USA;Outdoor;2024-06-02;Mirna;Ortíz;GUA;1987;Female
@@ -126,10 +126,10 @@ AL;2;400;W;48.75;;Icahn Stadium;USA;Outdoor;2024-06-09;Sydney;Mclaughlin-Levrone
 AL;2;3K0;W;8:20.87;;Glasgow Arena;GBR;Indoor;2024-03-02;Elle;St. Pierre;USA;1995;Female
 AL;2;HOC;W;2.0;;Randal Tyson Indoor Center;USA;Indoor;2024-02-24;Lamara;Distin;JAM;2000;Female
 AL;2;HOC;W;2.0;;The Track at New Balance;USA;Indoor;2024-03-09;Rachel;Glenn;USA;2002;Female
-AL;2;800;M;1:43.53;;Complexe Sportif Claude-Robillard;CAN;Outdoor;2024-06-28;Marco;Arop;CAN;1998;Male
+AL;2;800;M;1:42.77;;Hayward Field;USA;Outdoor;2024-06-30;Bryce;Hoppel;USA;1997;Male
 AL;2;MEI;M;3:46.22;;Hayward Field;USA;Outdoor;2024-05-25;Yared;Nuguse;USA;1999;Male
 AL;2;60H;M;7.27;;Convention Center;USA;Indoor;2024-02-16;Grant;Holloway;USA;1997;Male
-AL;2;40H;W;52.48;;Hayward Field;USA;Outdoor;2024-06-29;Sydney;Mclaughlin-Levrone;USA;1999;Female
+AL;2;40H;W;50.65;;Hayward Field;USA;Outdoor;2024-06-30;Sydney;Mclaughlin-Levrone;USA;1999;Female
 AL;2;800;W;1:57.36;;Hayward Field;USA;Outdoor;2024-06-24;Nia;Akins;USA;1998;Female
 AL;2;60M;W;6.98;;Glasgow Arena;GBR;Indoor;2024-03-02;Julien;Alfred;LCA;2001;Female
 AL;2;300;W;35.75;;The Track at New Balance;USA;Indoor;2024-02-04;Gabrielle;Thomas;USA;1996;Female
@@ -214,7 +214,7 @@ AL;4;1K0;M;2:13.97;;McArthur Stadium;RSA;Outdoor;2024-03-05;Djamel;Sedjati;ALG;1
 AL;4;2K0;W;6:42.01;;Stadion Radés;TUN;Outdoor;2024-06-08;Ghofrane;Omri;TUN;;Female
 AL;4;1K5;M;3:29.77;;Bislett Stadion;NOR;Outdoor;2024-05-30;Timothy;Cheruiyot;KEN;1995;Male
 AL;4;50M;W;6.73;;Salle du Centre Mondial du Cyclisme;SUI;Indoor;2024-01-20;Anastasie;Tsogo;CMR;2003;Female
-AL;4;HAM;M;74.35;;The Olympic Center For Training National Teams;EGY;Outdoor;2024-05-02;Mostafa;Elgamel;EGY;1988;Male
+AL;4;HAM;M;74.51;;Suez Canal Authority Stadium;EGY;Outdoor;2024-06-30;Mostafa;Elgamel;EGY;1988;Male
 AL;4;10H;W;12.4;0.9;National Stadium;JAM;Outdoor;2024-05-11;Tobi;Amusan;NGR;1997;Female
 AL;4;DRE;M;17.53;;Glasgow Arena;GBR;Indoor;2024-03-02;Hugues;Fabrice Zango;BUR;1993;Male
 AL;4;3G;M;12:23.54;;McArthur Stadium;RSA;Outdoor;2024-01-30;Antonio;Farmer;RSA;2000;Male
