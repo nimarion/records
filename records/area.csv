@@ -6,7 +6,7 @@ AR;3;DRE;M;17.90;0.4;Belém;BRA;Outdoor;2007-05-20;Jadel;Gregório;BRA;1980;Male
 AR;3;KUG;M;22.61;;Palo Alto;USA;Outdoor;2019-06-30;Darlan;Romani;BRA;1991;Male
 AR;3;DIS;M;70.29;;Lovelhe;POR;Outdoor;2020-07-22;Mauricio;Ortega;COL;1994;Male
 AR;3;HAM;M;78.63;;Celje;SLO;Outdoor;2016-06-19;Wagner;José Alberto Domingos;BRA;1983;Male
-AR;3;SPE;M;85.11;;Cuiaba;BRA;Outdoor;2024-05-12;Pedro;Henrique Rodrigues;BRA;1999;Male
+AR;3;SPE;M;85.57;;Bragança Paulista;BRA;Outdoor;2024-06-30;Luiz;Mauricio Da Silva;BRA;2000;Male
 AR;3;100;M;9.89;0.8;São Paulo;BRA;Outdoor;2023-07-28;Issamade;Asinga;SUR;2004;Male
 AR;3;200;M;19.81;-0.3;Berlin;GER;Outdoor;2009-08-20;Alonso;Edward;PAN;1989;Male
 AR;3;400;M;43.93;;Tokyo;JPN;Outdoor;2021-08-02;Anthony;José Zambrano;COL;1998;Male
@@ -100,7 +100,7 @@ AR;6;5K0;M;12:55.76;;London;GBR;Outdoor;2004-07-30;Craig;Mottram;AUS;1980;Male
 AR;6;10K;M;27:09.57;;San Juan Capistrano;USA;Outdoor;2024-03-16;Jack;Rayner;AUS;1995;Male
 AR;6;11H;M;13.29;0.6;Göteborg;SWE;Outdoor;1995-08-11;Kyle;Vander-Kuyp;AUS;1971;Male
 AR;6;40H;M;48.28;;Atlanta;USA;Outdoor;1996-07-31;Rohan;Robinson;AUS;1971;Male
-AR;6;3KH;M;8:13.26;;Monaco;MON;Outdoor;2023-07-21;Geordie;Beamish;NZL;1996;Male
+AR;6;3KH;M;8:09.64;;Paris;FRA;Outdoor;2024-07-07;Geordie;Beamish;NZL;1996;Male
 AR;6;4×1;M;38.17;;Göteborg;SWE;Outdoor;1995-08-12;Australia;;AUS;;Male
 AR;6;4×1;M;38.17;;London;GBR;Outdoor;2012-08-10;Australia;;AUS;;Male
 AR;6;4×2;M;1:23.04;;Sydney;AUS;Outdoor;1998-12-06;Australia;;AUS;;Male
@@ -121,7 +121,7 @@ AR;6;200;W;22.23;0.8;Stuttgart;GER;Outdoor;1997-07-13;Melinda;Gainsford;AUS;1971
 AR;6;400;W;48.63;;Atlanta;USA;Outdoor;1996-07-29;Cathy;Freeman;AUS;1973;Female
 AR;6;800;W;1:57.78;;London;GBR;Outdoor;2023-07-23;Catriona;Bisset;AUS;1994;Female
 AR;6;1K0;W;2:34.63;;Bern;SUI;Outdoor;2023-08-04;Abbey;Caldwell;AUS;2001;Female
-AR;6;1K5;W;3:55.97;;Eugene;USA;Outdoor;2024-05-25;Jessica;Hull;AUS;1996;Female
+AR;6;1K5;W;3:50.83;;Paris;FRA;Outdoor;2024-07-07;Jessica;Hull;AUS;1996;Female
 AR;6;MEI;W;4:15.34;;Monaco;MON;Outdoor;2023-07-21;Jessica;Hull;AUS;1996;Female
 AR;6;2K0;W;5:37.71;;Ostrava;CZE;Outdoor;2003-06-12;Benita;Willis-Johnson;AUS;1979;Female
 AR;6;3K0;W;8:24.20;;Oslo;NOR;Outdoor;2024-05-30;Georgia;Griffith;AUS;1996;Female
@@ -284,7 +284,7 @@ AR;4;200;W;21.78;0.6;Zürich;SUI;Outdoor;2021-09-09;Christine;Mboma;NAM;2003;Fem
 AR;4;400;W;49.10;;Atlanta;USA;Outdoor;1996-07-29;Falilat;Ogunkoya-Osheku;NGR;1968;Female
 AR;4;800;W;1:54.01;;Zürich;SUI;Outdoor;2008-08-29;Pamela;Jelimo;KEN;1989;Female
 AR;4;1K0;W;2:29.15;;Monaco;MON;Outdoor;2020-08-14;Faith;Kipyegon;KEN;1994;Female
-AR;4;1K5;W;3:49.11;;Firenze;ITA;Outdoor;2023-06-02;Faith;Kipyegon;KEN;1994;Female
+AR;4;1K5;W;3:49.04;;Paris;FRA;Outdoor;2024-07-07;Faith;Kipyegon;KEN;1994;Female
 AR;4;MEI;W;4:07.64;;Monaco;MON;Outdoor;2023-07-21;Faith;Kipyegon;KEN;1994;Female
 AR;4;2K0;W;5:21.56;;Zagreb;CRO;Outdoor;2021-09-14;Francine;Niyonsaba;BDI;1993;Female
 AR;4;5K0;W;14:00.21;;Eugene;USA;Outdoor;2023-09-17;Gudaf;Tsegay;ETH;1997;Female
