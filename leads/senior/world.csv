@@ -1,7 +1,7 @@
 Code;Type;Discipline;Class;Result;Wind;Venue;Venue Country;Environment;Date;Firstname;Lastname;Nation;YOB;Sex
 WL;;10G;W;43:14.78;;AIS Athletics Track;AUS;Outdoor;2024-01-27;Jemima;Montag;AUS;1998;Female
 WL;;3KH;W;8:55.09;;Hayward Field;USA;Outdoor;2024-05-25;Peruth;Chemutai;UGA;1999;Female
-WL;;400;M;44.05;;Percy Beard Track;USA;Outdoor;2024-05-11;Christopher;Morales-Williams;CAN;2004;Male
+WL;;400;M;43.8;;Stade Louis;MON;Outdoor;2024-07-12;Quincy;Hall;USA;1998;Male
 WL;;300;M;30.69;;Pilditch Stadium;RSA;Outdoor;2024-02-17;Letsile;Tebogo;BOT;2003;Male
 WL;;40H;M;46.46;;Hayward Field;USA;Outdoor;2024-06-30;Rai;Benjamin;USA;1997;Male
 WL;;100;M;9.77;0.9;National Stadium;JAM;Outdoor;2024-06-28;Kishane;Thompson;JAM;2001;Male
@@ -20,10 +20,10 @@ WL;;3G;W;12:17.95;;Expocentro;POR;Indoor;2024-02-17;Vitória;Oliveira;POR;1992;F
 WL;;HOC;W;2.1;;Stade Charléty;FRA;Outdoor;2024-07-07;Yaroslava;Mahuchikh;UKR;2001;Female
 WL;;100;W;10.71;0.8;Hayward Field;USA;Outdoor;2024-06-22;Sha'Carri;Richardson;USA;2000;Female
 WL;;10K;W;28:54.14;;Hayward Field;USA;Outdoor;2024-05-25;Beatrice;Chebet;KEN;2000;Female
-WL;;800;M;1:41.56;;Stade Charléty;FRA;Outdoor;2024-07-07;Djamel;Sedjati;ALG;1999;Male
+WL;;800;M;1:41.46;;Stade Louis;MON;Outdoor;2024-07-12;Djamel;Sedjati;ALG;1999;Male
 WL;;50H;W;7.04;;GSG9-Halle;AUT;Indoor;2024-01-16;Karin;Strametz;AUT;1998;Female
 WL;;60H;W;7.65;;Glasgow Arena;GBR;Indoor;2024-03-03;Devynne;Charlton;BAH;1995;Female
-WL;;2K0;W;5:45.30;;Pista atletismo Can Mises;ESP;Outdoor;2024-05-11;Esther;Guerrero;ESP;1990;Female
+WL;;2K0;W;5:19.70;;Stade Louis;MON;Outdoor;2024-07-12;Jessica;Hull;AUS;1996;Female
 WL;;STA;M;6.24;;Egret Stadium;CHN;Outdoor;2024-04-20;Armand;Duplantis;SWE;1999;Male
 WL;;WEI;W;7.22;-1.4;Stadio Olimpico;ITA;Outdoor;2024-06-12;Malaika;Mihambo;GER;1994;Female
 WL;;200;M;19.53;0.5;Hayward Field;USA;Outdoor;2024-06-29;Noah;Lyles;USA;1997;Male
@@ -72,4 +72,4 @@ WL;;5G;W;20:50.56;;KMSHVSM Arena;UKR;Indoor;2024-01-20;Lyudmila;Olyanovska;UKR;1
 WL;;2KH;W;6:00.81;;Golęcin Stadion;POL;Outdoor;2024-06-23;Aneta;Konieczek;POL;1997;Female
 WL;;4×1;M;37.4;;The Bahamas National Stadium;BAH;Outdoor;2024-05-05;United;States;USA;;Male
 WL;;50H;M;6.99;;Velesajam Hall;CRO;Indoor;2024-02-03;Lukas;Cik;CRO;2002;Male
-WL;;1K5;M;3:29.74;;Bislett Stadion;NOR;Outdoor;2024-05-30;Jakob;Ingebrigtsen;NOR;2000;Male
+WL;;1K5;M;3:26.73;;Stade Louis;MON;Outdoor;2024-07-12;Jakob;Ingebrigtsen;NOR;2000;Male
