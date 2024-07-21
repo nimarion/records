@@ -1,7 +1,7 @@
 Code;Type;Discipline;Class;Result;Wind;Venue;Venue Country;Environment;Date;Firstname;Lastname;Nation;YOB;Sex
 WL;;10G;W;43:14.78;;AIS Athletics Track;AUS;Outdoor;2024-01-27;Jemima;Montag;AUS;1998;Female
 WL;;3KH;W;8:55.09;;Hayward Field;USA;Outdoor;2024-05-25;Peruth;Chemutai;UGA;1999;Female
-WL;;400;M;43.8;;Stade Louis;MON;Outdoor;2024-07-12;Quincy;Hall;USA;1998;Male
+WL;;400;M;43.74;;Olympic Stadium;GBR;Outdoor;2024-07-20;Matthew;Hudson-Smith;GBR;1994;Male
 WL;;300;M;30.69;;Pilditch Stadium;RSA;Outdoor;2024-02-17;Letsile;Tebogo;BOT;2003;Male
 WL;;40H;M;46.46;;Hayward Field;USA;Outdoor;2024-06-30;Rai;Benjamin;USA;1997;Male
 WL;;100;M;9.77;0.9;National Stadium;JAM;Outdoor;2024-06-28;Kishane;Thompson;JAM;2001;Male
@@ -30,7 +30,7 @@ WL;;200;M;19.53;0.5;Hayward Field;USA;Outdoor;2024-06-29;Noah;Lyles;USA;1997;Mal
 WL;;5G;M;18:16.97;;Prefectural Stadium;JPN;Outdoor;2024-05-18;Ryo;Hamanishi;JPN;2000;Male
 WL;;50M;W;6.33;;GSG9-Halle;AUT;Indoor;2024-01-16;Christania;Williams;JAM;1994;Female
 WL;;3K0;M;7:25.82;;Arena;POL;Indoor;2024-02-06;Selemon;Barega;ETH;2000;Male
-WL;;800;W;1:55.78;;Hayward Field;USA;Outdoor;2024-05-25;Keely;Hodgkinson;GBR;2002;Female
+WL;;800;W;1:54.61;;Olympic Stadium;GBR;Outdoor;2024-07-20;Keely;Hodgkinson;GBR;2002;Female
 WL;;40H;W;50.65;;Hayward Field;USA;Outdoor;2024-06-30;Sydney;Mclaughlin-Levrone;USA;1999;Female
 WL;;HAM;W;79.92;;Univ. of Arizona Roy P. Drachman Stadium;USA;Outdoor;2024-05-04;Brooke;Andersen;USA;1995;Female
 WL;;4×2;W;1:27.05;;Mike A. Myers Stadium;USA;Outdoor;2024-03-30;Team;International;INT;;Female
@@ -53,7 +53,7 @@ WL;;MEI;W;4:16.41;;Armory Track&Field Center;USA;Indoor;2024-02-11;Elle;St. Pier
 WL;;10G;M;38:07.88;;SA Athletic Stadium;AUS;Outdoor;2024-04-11;Declan;Tingay;AUS;1999;Male
 WL;;STA;W;4.92;;Place du Capitole;FRA;Outdoor;2024-06-22;Molly;Caudery;GBR;2000;Female
 WL;;HOC;M;2.37;;Stadio Olimpico;ITA;Outdoor;2024-06-11;Gianmarco;Tamberi;ITA;1992;Male
-WL;;400;W;48.75;;Icahn Stadium;USA;Outdoor;2024-06-09;Sydney;Mclaughlin-Levrone;USA;1999;Female
+WL;;400;W;48.57;;Olympic Stadium;GBR;Outdoor;2024-07-20;Nickisha;Pryce;JAM;2001;Female
 WL;;4×4;M;2:58.37;;Hayward Field;USA;Outdoor;2024-06-07;Texas;A&M;INT;;Male
 WL;;1K0;M;2:13.97;;McArthur Stadium;RSA;Outdoor;2024-03-05;Djamel;Sedjati;ALG;1999;Male
 WL;;KUG;W;20.68;;Garage Strength;USA;Outdoor;2024-05-11;Sarah;Mitton;CAN;1996;Female
@@ -62,7 +62,7 @@ WL;;4×4;W;3:17.96;;Hayward Field;USA;Outdoor;2024-06-08;Arkansas;;INT;;Female
 WL;;600;W;1:23.80;;Ansin Sports Complex;USA;Outdoor;2024-04-06;Shafiqua;Maloney;VIN;1999;Female
 WL;;2KH;M;5:25.50;;Schönbuchstadion;GER;Outdoor;2024-05-05;Phil;Norman;GBR;1989;Male
 WL;;4×4;X;3:09.92;;Stadio Olimpico;ITA;Outdoor;2024-06-07;Ireland;;IRL;;Mixed
-WL;;4×1;W;41.85;;The Bahamas National Stadium;BAH;Outdoor;2024-05-05;United;States;USA;;Female
+WL;;4×1;W;41.55;;Olympic Stadium;GBR;Outdoor;2024-07-20;Great;Britain & Ni;GBR;;Female
 WL;;DRE;M;18.18;-0.3;Stadio Olimpico;ITA;Outdoor;2024-06-11;Jordan;Alejandro Díaz Fortun;ESP;2001;Male
 WL;;1K0;W;2:34.09;;Dempsey Indoor;USA;Indoor;2024-01-26;Nikki;Hiltz;USA;1994;Female
 WL;;10K;M;26:31.01;;Estadio Enrique Lopez Cuenca;ESP;Outdoor;2024-06-14;Yomif;Kejelcha;ETH;1997;Male
