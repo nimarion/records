@@ -1,4 +1,5 @@
 #!/bin/bash
+exit 0
 python worldathletics-records.py --type AR --output tmp/arearecords/senior/africa.csv --category african-records
 python worldathletics-records.py --type AR --output tmp/arearecords/senior/asia.csv --category asian-records
 python worldathletics-records.py --type AR --output tmp/arearecords/senior/europe.csv --category european-records
