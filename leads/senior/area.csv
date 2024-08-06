@@ -30,14 +30,14 @@ AL;1;800;M;1:41.61;;Stade Charléty;FRA;Outdoor;2024-07-07;Gabriel;Tual;FRA;1998
 AL;1;11H;M;13.05;0.6;Stadio Olimpico;ITA;Outdoor;2024-06-08;Lorenzo;Ndele Simonelli;ITA;2002;Male
 AL;1;10G;M;38:43.91;;Manchester Regional Arena;GBR;Outdoor;2024-06-30;Callum;Wilkinson;GBR;1997;Male
 AL;1;3KH;M;8:12.28;;Le Grand Stade;MAR;Outdoor;2024-05-19;Daniel;Arce;ESP;1992;Male
-AL;1;STA;M;6.24;;Egret Stadium;CHN;Outdoor;2024-04-20;Armand;Duplantis;SWE;1999;Male
+AL;1;STA;M;6.25;;Stade de France;FRA;Outdoor;2024-08-05;Armand;Duplantis;SWE;1999;Male
 AL;1;400;W;48.9;;Olympic Stadium;GBR;Outdoor;2024-07-20;Natalia;Kaczmarek;POL;1998;Female
 AL;1;3G;M;10:44.00;;Hartwig-Gauder-Halle;GER;Indoor;2024-02-02;Christopher;Linke;GER;1988;Male
 AL;1;400;M;43.74;;Olympic Stadium;GBR;Outdoor;2024-07-20;Matthew;Hudson-Smith;GBR;1994;Male
 AL;1;DIS;M;74.35;;Millican Field at Throw Town;USA;Outdoor;2024-04-14;Mykolas;Alekna;LTU;2002;Male
 AL;1;4×2;W;1:35.42;;Quarterback Immobilien Arena;GER;Indoor;2024-02-18;SCC;Berlin B;GER;;Female
 AL;1;DRE;M;18.18;-0.3;Stadio Olimpico;ITA;Outdoor;2024-06-11;Jordan;Alejandro Díaz Fortun;ESP;2001;Male
-AL;1;DIS;W;67.31;;Helmut-Schön-Sportpark;GER;Outdoor;2024-05-11;Marike;Steinacker;GER;1992;Female
+AL;1;DIS;W;67.51;;Stade de France;FRA;Outdoor;2024-08-05;Sandra;Elkasević;CRO;1990;Female
 AL;0;4×8;W;8:51.30;;Uppsala Friidrottsarena;SWE;Outdoor;2024-05-25;Spårvägens;Fk;INT;;Female
 AL;1;10H;W;12.31;0.8;Stadio Olimpico;ITA;Outdoor;2024-06-08;Cyréna;Samba-Mayela;FRA;2000;Female
 AL;1;1K5;W;3:53.79;;Stade Charléty;FRA;Outdoor;2024-07-07;Laura;Muir;GBR;1993;Female
@@ -55,7 +55,7 @@ AL;1;60H;W;7.73;;Glasgow Arena;GBR;Indoor;2024-03-03;Cyréna;Samba-Mayela;FRA;20
 AL;1;3KH;W;9:05.01;;Stade Charléty;FRA;Outdoor;2024-07-07;Alice;Finot;FRA;1991;Female
 AL;1;4×4;X;3:07.43;;Stade de France;FRA;Outdoor;2024-08-03;Netherlands;;NED;;Mixed
 AL;1;60M;M;6.53;;Glasgow Arena;GBR;Indoor;2024-03-01;Chituru;Ali;ITA;1999;Male
-AL;1;5K0;W;14:34.38;;Hayward Field;USA;Outdoor;2024-05-25;Sifan;Hassan;NED;1993;Female
+AL;1;5K0;W;14:30.61;;Stade de France;FRA;Outdoor;2024-08-05;Sifan;Hassan;NED;1993;Female
 AL;1;3K0;M;7:27.68;;Olympic Stadium;GBR;Outdoor;2024-07-20;Dominic;Lokinyomo Lobalu;SUI;1998;Male
 AL;1;10G;W;43:35.52;;AIS Athletics Track;AUS;Outdoor;2024-01-27;Clémence;Beretta;FRA;1997;Female
 AL;1;5G;W;20:50.56;;KMSHVSM Arena;UKR;Indoor;2024-01-20;Lyudmila;Olyanovska;UKR;1993;Female
@@ -240,7 +240,7 @@ AL;6;11H;M;13.44;0.5;Foote Field;CAN;Outdoor;2024-06-13;Tayleb;Willis;AUS;2003;M
 AL;6;10G;M;38:07.88;;SA Athletic Stadium;AUS;Outdoor;2024-04-11;Declan;Tingay;AUS;1999;Male
 AL;6;3KH;M;8:09.64;;Stade Charléty;FRA;Outdoor;2024-07-07;Geordie;Beamish;NZL;1996;Male
 AL;6;STA;M;5.87;;Stabinski Velodrome;FRA;Indoor;2024-02-14;Kurtis;Marschall;AUS;1997;Male
-AL;6;400;W;51.59;;SA Athletic Stadium;AUS;Outdoor;2024-04-13;Ellie;Beer;AUS;2003;Female
+AL;6;400;W;51.47;;Stade de France;FRA;Outdoor;2024-08-05;Ellie;Beer;AUS;2003;Female
 AL;6;3G;M;11:25.70;;Queensland Sport and Athletics Centre;AUS;Outdoor;2024-02-03;Bailey;Housden;AUS;2007;Male
 AL;6;400;M;44.53;;Stade de France;FRA;Outdoor;2024-08-04;Reece;Holder;AUS;2002;Male
 AL;6;DIS;M;71.48;;GVSU Track;USA;Outdoor;2024-05-11;Alex;Rose;SAM;1991;Male
@@ -317,7 +317,7 @@ AL;4;10H;W;12.4;0.9;National Stadium;JAM;Outdoor;2024-05-11;Tobi;Amusan;NGR;1997
 AL;4;1K5;W;3:49.04;;Stade Charléty;FRA;Outdoor;2024-07-07;Faith;Kipyegon;KEN;1994;Female
 AL;4;STA;W;4.35;;University of Ghana Sports Stadium;GHA;Outdoor;2024-03-19;Miré;Reinstorf;RSA;2002;Female
 AL;2;WEI;W;6.88;1.6;Estádio 1o de Maio;POR;Outdoor;2024-04-25;Agate;De Sousa;STP;2000;Female
-AL;4;200;W;22.24;0.5;Stade de France;FRA;Outdoor;2024-08-04;Favour;Ofili;NGR;2002;Female
+AL;4;200;W;22.05;0.0;Stade de France;FRA;Outdoor;2024-08-05;Favour;Ofili;NGR;2002;Female
 AL;4;40H;W;54.56;;Stade de France;FRA;Outdoor;2024-08-04;Rogail;Joseph;RSA;2000;Female
 AL;4;5G;M;19:36.24;;Stade d'Honneur Marcel Roustan;FRA;Outdoor;2024-05-12;Ismail;Benhammouda;ALG;2003;Male
 AL;4;HOC;M;2.25;;McArthur Stadium;RSA;Outdoor;2024-03-14;Brian;Raats;RSA;2004;Male
