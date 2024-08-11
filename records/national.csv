@@ -3471,7 +3471,7 @@ NR;SVK;40H;M;48.94;;Praha;TCH;Outdoor;1989-06-21;Jozef;Kucej;SVK;1965;Male
 NR;SWE;40H;M;47.94;;Roma;ITA;Outdoor;2024-06-11;Carl;Bengtström;SWE;2000;Male
 NR;SWZ;40H;M;57.04;;Manzini;SWZ;Outdoor;2019-05-18;Cedusizi;Vilakati;SWZ;;Male
 NR;SYR;40H;M;48.87;;Sydney;AUS;Outdoor;1999-02-20;Ziad;Abou Hamed;SYR;1970;Male
-NR;TAN;40H;M;51.20;;Cairo;EGY;Outdoor;1985-08-12;Morris;Okinda;TAN;;Male
+NR;TAN;40H;M;51.20;;Doha;QAT;Outdoor;1985-08-12;Morris;Okinda;TAN;1963;Male
 NR;TGA;40H;M;52.02;;Sacramento;USA;Outdoor;1996-05-05;Paeaki;Kokohu;TGA;1966;Male
 NR;THA;40H;M;49.76;;Chiang Mai;THA;Outdoor;1995-12-12;Chanond;Keanchan;THA;1967;Male
 NR;TJK;40H;M;48.98;;Tashkent;URS;Outdoor;1986-09-18;Nikolay;Ilchenko;TJK;1963;Male
@@ -4193,7 +4193,7 @@ NR;BUL;800;M;1:46.3;;Celje;YUG;Outdoor;1979-07-12;Binko;Kolev;BUL;1958;Male
 NR;BUR;800;M;1:52.1;;Abidjan;CIV;Outdoor;1974-04-13;Kondia;Quaba;BUR;;Male
 NR;CAF;800;M;1:48.26;;Tokyo;JPN;Outdoor;2021-07-31;Francky;Mbotto;CAF;1997;Male
 NR;CAM;800;M;1:50.09;;Bangkok;THA;Outdoor;2023-07-15;Chhun;Bunthorn;CAM;1993;Male
-NR;CAN;800;M;1:42.85;;Eugene;USA;Outdoor;2023-09-17;Marco;Arop;CAN;1998;Male
+NR;CAN;800;M;1:41.20;;Paris;FRA;Outdoor;2024-08-10;Marco;Arop;CAN;1998;Male
 NR;CAY;800;M;1:50.22;;Westwood;USA;Outdoor;2011-04-09;Jon;Rankin;CAY;1982;Male
 NR;CGO;800;M;1:49.5;;Tunis;TUN;Outdoor;1983-01-05;Ghislain;Obounghat;CGO;1956;Male
 NR;CHA;800;M;1:48.6;;Thonon-les-Bains;FRA;Outdoor;1962-06-26;Ahmed;Issa;CHA;1943;Male
@@ -4365,7 +4365,7 @@ NR;UAE;800;M;1:48.86;;Aleppo;SYR;Outdoor;2010-09-20;Saoud;Mohamed Abdulkarim;UAE
 NR;UGA;800;M;1:43.72;;Madrid;ESP;Outdoor;2008-07-05;Abraham;Chepkirwok;UGA;1988;Male
 NR;UKR;800;M;1:45.08;;Kyiv;URS;Outdoor;1984-06-22;Leonid;Masunov;UKR;1962;Male
 NR;URU;800;M;1:49.16;;Lima;PER;Outdoor;2015-06-14;Javier;Marmo;URU;1992;Male
-NR;USA;800;M;1:42.34;;Doha;QAT;Outdoor;2019-10-01;Donavan;Brazier;USA;1997;Male
+NR;USA;800;M;1:41.67;;Paris;FRA;Outdoor;2024-08-10;Bryce;Hoppel;USA;1997;Male
 NR;UZB;800;M;1:47.50;;Moskva;RUS;Outdoor;2005-07-16;Erkinjon;Isakov;UZB;1974;Male
 NR;VAN;800;M;1:51.13;;Delhi;IND;Outdoor;2010-10-08;Arnold;Sorina;VAN;1988;Male
 NR;VEN;800;M;1:43.54;;Rieti;ITA;Outdoor;1984-09-02;William;Wuycke;VEN;1958;Male
@@ -5602,14 +5602,14 @@ NR;BAH;4×4;M;2:56.72;;London;GBR;Outdoor;2012-08-10;Bahamas;;BAH;;Male
 NR;BAN;4×4;M;3:12.41;;Dhaka;BAN;Outdoor;1993-12-25;Bangladesh;;BAN;;Male
 NR;BAR;4×4;M;3:01.60;;Los Angeles;USA;Outdoor;1984-08-11;Barbados;;BAR;;Male
 NR;BDI;4×4;M;3:06.19;;Nairobi;KEN;Outdoor;1987-08-11;Burundi;;BDI;;Male
-NR;BEL;4×4;M;2:57.88;;Tokyo;JPN;Outdoor;2021-08-07;Belgium;;BEL;;Male
+NR;BEL;4×4;M;2:57.75;;Paris;FRA;Outdoor;2024-08-10;Belgium;;BEL;;Male
 NR;BEN;4×4;M;3:11.71;;Ouagadougou;BUR;Outdoor;2007-05-27;Benin;;BEN;;Male
 NR;BER;4×4;M;3:11.30;;Indianapolis;USA;Outdoor;1987-08-16;Bermuda;;BER;;Male
 NR;BIH;4×4;M;3:09.47;;Pitesti;ROU;Outdoor;2016-06-26;Bosnia-Herzegovina;;BIH;;Male
 NR;BIZ;4×4;M;3:16.80;;San Pedro Sula;USA;Outdoor;1997-12-13;Belize;;BIZ;;Male
 NR;BLR;4×4;M;3:03.78;;Plovdiv;BUL;Outdoor;2004-06-20;Belarus;;BLR;;Male
 NR;BOL;4×4;M;3:17.25;;La Paz;BOL;Outdoor;1977-10-22;Bolivia;;BOL;;Male
-NR;BOT;4×4;M;2:57.27;;Tokyo;JPN;Outdoor;2021-08-07;Botswana;;BOT;;Male
+NR;BOT;4×4;M;2:54.53;;Paris;FRA;Outdoor;2024-08-10;Botswana;;BOT;;Male
 NR;BRA;4×4;M;2:58.56;;Winnipeg;CAN;Outdoor;1999-07-30;Brazil;;BRA;;Male
 NR;BRN;4×4;M;3:03.97;;Jakarta;INA;Outdoor;2018-08-30;Bahrain;;BRN;;Male
 NR;BRU;4×4;M;3:21.41;;Manila;PHI;Outdoor;1991-03-12;Brunei;;BRU;;Male
@@ -5643,7 +5643,7 @@ NR;FIN;4×4;M;3:01.12;;München;FRG;Outdoor;1972-09-10;Finland;;FIN;;Male
 NR;FRA;4×4;M;2:58.45;;Budapest;HUN;Outdoor;2023-08-27;France;;FRA;;Male
 NR;GAB;4×4;M;3:14.1;;Yaoundé;CMR;Outdoor;1995-04-16;Gabon;;GAB;;Male
 NR;GAM;4×4;M;3:10.44;;Warri;NGR;Outdoor;2014-06-13;Gambia;;GAM;;Male
-NR;GBR;4×4;M;2:56.60;;Atlanta;USA;Outdoor;1996-08-03;Great;Britain;GBR;;Male
+NR;GBR;4×4;M;2:55.83;;Paris;FRA;Outdoor;2024-08-10;Great;Britain;GBR;;Male
 NR;GBS;4×4;M;3:28.69;;Bissau;GBS;Outdoor;2007-06-03;Guinea;Bissau;GBS;;Male
 NR;GEO;4×4;M;3:10.80;;Tashkent;URS;Outdoor;1967-08-22;Georgia;;GEO;;Male
 NR;GEQ;4×4;M;3:42.93;;Yaoundé;CMR;Outdoor;2002-04-20;Equatorial;Guinea;GEQ;;Male
@@ -5663,7 +5663,7 @@ NR;ISR;4×4;M;3:09.93;;Kaunas;LTU;Outdoor;2013-06-23;Israel;;ISR;;Male
 NR;ITA;4×4;M;2:58.81;;Tokyo;JPN;Outdoor;2021-08-07;Italy;;ITA;;Male
 NR;IVB;4×4;M;3:11.03;;St. George's;GRN;Outdoor;2017-07-02;British;Virgin Islands;IVB;;Male
 NR;JAM;4×4;M;2:56.75;;Athína;GRE;Outdoor;1997-08-10;Jamaica;;JAM;;Male
-NR;JPN;4×4;M;2:59.48;;Paris;FRA;Outdoor;2024-08-09;Japan;;JPN;;Male
+NR;JPN;4×4;M;2:58.33;;Paris;FRA;Outdoor;2024-08-10;Japan;;JPN;;Male
 NR;KAZ;4×4;M;3:07.66;;Napoli;ITA;Outdoor;2019-07-13;Kazakhstan;;KAZ;;Male
 NR;KEN;4×4;M;2:59.63;;Barcelona;ESP;Outdoor;1992-08-07;Kenya;;KEN;;Male
 NR;KOR;4×4;M;3:04.03;;Incheon;KOR;Outdoor;2014-10-02;South;Korea;KOR;;Male
@@ -5711,7 +5711,7 @@ NR;POR;4×4;M;3:01.89;;Roma;ITA;Outdoor;2024-06-12;Portugal;;POR;;Male
 NR;PUR;4×4;M;3:04.87;;Ponce;PUR;Outdoor;2009-05-16;Puerto;Rico;PUR;;Male
 NR;QAT;4×4;M;3:00.56;;Jakarta;INA;Outdoor;2018-08-30;Qatar;;QAT;;Male
 NR;ROU;4×4;M;3:04.23;;Göteborg;SWE;Outdoor;2006-08-12;Romania;;ROU;;Male
-NR;RSA;4×4;M;2:59.21;;Daegu;KOR;Outdoor;2011-09-01;South;Africa;RSA;;Male
+NR;RSA;4×4;M;2:58.12;;Paris;FRA;Outdoor;2024-08-10;South;Africa;RSA;;Male
 NR;RUS;4×4;M;2:59.45;;Beijing;CHN;Outdoor;2015-08-29;Russia;;RUS;;Male
 NR;RWA;4×4;M;3:21.01;;Nairobi;KEN;Outdoor;2010-07-31;Rwanda;;RWA;;Male
 NR;SEN;4×4;M;3:00.64;;Atlanta;USA;Outdoor;1996-08-03;Senegal;;SEN;;Male
@@ -6903,7 +6903,7 @@ NR;LAO;STA;W;2.4;;Bangkok;THA;Outdoor;2015-09-08;Soutsada;Siliphonphanh;LAO;;Fem
 NR;LAT;STA;W;4.27;;Eugene;USA;Outdoor;2021-07-01;Alisona;Neidere;LAT;2004;Female
 NR;LBN;STA;W;2.1;;Beyrouth;LBN;Outdoor;2010-07-08;Jana;Majed;LBN;;Female
 NR;LIE;STA;W;2.3;;Götzis;AUT;Outdoor;2014-07-05;Hannah;Meier;LIE;1998;Female
-NR;LTU;STA;W;4.2;;Valmiera;LAT;Outdoor;2024-07-22;Rugilė;Miklyčiūtė;LTU;2005;Female
+NR;LTU;STA;W;4.26;;Bauska;LAT;Outdoor;2024-07-31;Rugilė;Miklyčiūtė;LTU;2005;Female
 NR;MAD;STA;W;2.45;;Antananarivo;MAD;Outdoor;2000-08-27;Ange;Rajaonah;MAD;;Female
 NR;MAR;STA;W;4.05;;Rabat;MAR;Outdoor;2006-07-16;Dinar;Nisrine;MAR;1988;Female
 NR;MAS;STA;W;4.4;;Mataró;ESP;Outdoor;2006-07-10;Roslinda;Samsu;MAS;1982;Female
@@ -9536,7 +9536,7 @@ NR;FRA;1K5;W;3:56.69;;Paris;FRA;Outdoor;2024-08-08;Agathe;Guillemot;FRA;1999;Fem
 NR;FSM;1K5;W;5:26.15;;Kolonia;FSM;Outdoor;2002-07-26;Jaceleen;Pluhs;FSM;;Female
 NR;GAB;1K5;W;4:32.40;;Paris;FRA;Outdoor;2000-07-23;Josiane;Aboungono;GAB;1978;Female
 NR;GAM;1K5;W;4:41.98;;Abidjan;CIV;Outdoor;2019-04-16;Kaddy;Mamburay;GAM;;Female
-NR;GBR;1K5;W;3:53.79;;Paris;FRA;Outdoor;2024-07-07;Laura;Muir;GBR;1993;Female
+NR;GBR;1K5;W;3:52.61;;Paris;FRA;Outdoor;2024-08-10;Georgia;Bell;GBR;1993;Female
 NR;GEO;1K5;W;4:13.84;;Moskva;URS;Outdoor;1983-06-11;Jelena;Shapovalova;GEO;;Female
 NR;GEQ;1K5;W;5:03.2;;Malabo;GEQ;Outdoor;2010-03-07;Marina;Ayeme;GEQ;;Female
 NR;GER;1K5;W;3:57.71;;Moskva;URS;Outdoor;1980-08-01;Christiane;Wartenberg;GER;1956;Female
@@ -12172,10 +12172,10 @@ NR;ESP;4×4;W;3:25.25;;Roma;ITA;Outdoor;2024-06-11;Spain;;ESP;;Female
 NR;EST;4×4;W;3:36.82;;Odense;DEN;Outdoor;2007-06-24;Estonia;;EST;;Female
 NR;ETH;4×4;W;3:36.85;;Calabar;NGR;Outdoor;2011-06-25;Ethiopia;;ETH;;Female
 NR;FIN;4×4;W;3:25.70;;Roma;ITA;Outdoor;1974-09-08;Finland;;FIN;;Female
-NR;FRA;4×4;W;3:22.34;;Helsinki;FIN;Outdoor;1994-08-14;France;;FRA;;Female
+NR;FRA;4×4;W;3:21.41;;Paris;FRA;Outdoor;2024-08-10;France;;FRA;;Female
 NR;GAB;4×4;W;3:54.8;;Yaoundé;CMR;Outdoor;1996-06-16;Gabon;;GAB;;Female
 NR;GAM;4×4;W;3:52.8;;Conakry;GUI;Outdoor;2017-05-14;Gambia;;GAM;;Female
-NR;GBR;4×4;W;3:20.04;;Osaka;JPN;Outdoor;2007-09-02;Great;Britain;GBR;;Female
+NR;GBR;4×4;W;3:19.72;;Paris;FRA;Outdoor;2024-08-10;Great;Britain;GBR;;Female
 NR;GBS;4×4;W;4:21.09;;Bissau;GBS;Outdoor;2007-06-03;Guinea;Bissau;GBS;;Female
 NR;GEO;4×4;W;3:39.4;;Tbilisi;URS;Outdoor;1983-05-29;Georgia;;GEO;;Female
 NR;GER;4×4;W;3:15.92;;Erfurt;GER;Outdoor;1984-06-03;Germany;;GER;;Female
@@ -12188,7 +12188,7 @@ NR;HKG;4×4;W;3:50.29;;Taipei;TPE;Outdoor;2014-06-15;Hong;Kong;HKG;;Female
 NR;HUN;4×4;W;3:27.79;;Budapest;HUN;Outdoor;2023-08-26;Hungary;;HUN;;Female
 NR;IND;4×4;W;3:26.89;;Athína;GRE;Outdoor;2004-08-27;India;;IND;;Female
 NR;IRI;4×4;W;3:46.72;;Basra;IRQ;Outdoor;2024-06-01;Iran;;IRI;;Female
-NR;IRL;4×4;W;3:22.71;;Roma;ITA;Outdoor;2024-06-12;Ireland;;IRL;;Female
+NR;IRL;4×4;W;3:19.90;;Paris;FRA;Outdoor;2024-08-10;Ireland;;IRL;;Female
 NR;ISL;4×4;W;3:38.96;;Bergen;NOR;Outdoor;1996-06-29;Iceland;;ISL;;Female
 NR;ISR;4×4;W;3:32.99;;Paris;FRA;Outdoor;2003-08-30;Israel;;ISR;;Female
 NR;ITA;4×4;W;3:23.40;;Roma;ITA;Outdoor;2024-06-12;Italy;;ITA;;Female
@@ -12224,7 +12224,7 @@ NR;MRI;4×4;W;3:39.92;;Antananarivo;MAD;Outdoor;1990-08-30;Mauritius;;MRI;;Femal
 NR;MTN;4×4;W;4:52.4;;Nouakchott;MTN;Outdoor;2012-07-27;Mauritania;;MTN;;Female
 NR;MYA;4×4;W;3:35.10;;Rangoon;MYA;Outdoor;2005-08-30;Myanmar;;MYA;;Female
 NR;NAM;4×4;W;3:40.21;;Nassau;BAH;Outdoor;2015-05-03;Namibia;;NAM;;Female
-NR;NED;4×4;W;3:20.72;;Budapest;HUN;Outdoor;2023-08-27;Netherlands;;NED;;Female
+NR;NED;4×4;W;3:19.50;;Paris;FRA;Outdoor;2024-08-10;Netherlands;;NED;;Female
 NR;NGR;4×4;W;3:21.04;;Atlanta;USA;Outdoor;1996-08-03;Nigeria;;NGR;;Female
 NR;NIG;4×4;W;3:50.30;;Niamey;NIG;Outdoor;2019-07-21;Niger;;NIG;;Female
 NR;NOR;4×4;W;3:26.05;;Roma;ITA;Outdoor;2024-06-11;Norway;;NOR;;Female
@@ -12265,7 +12265,7 @@ NR;TUR;4×4;W;3:33.11;;Vila Real de Santo Antonio;POR;Outdoor;2011-05-29;Türkiy
 NR;UGA;4×4;W;3:32.25;;Rabat;MAR;Outdoor;2019-08-30;Uganda;;UGA;;Female
 NR;UKR;4×4;W;3:21.94;;Kyiv;URS;Outdoor;1986-07-17;Ukraine;;UKR;;Female
 NR;URS;4×4;W;3:15.17;;Seoul;KOR;Outdoor;1988-10-01;Soviet;Union;URS;;Female
-NR;USA;4×4;W;3:15.51;;Seoul;KOR;Outdoor;1988-10-01;United;States;USA;;Female
+NR;USA;4×4;W;3:15.27;;Paris;FRA;Outdoor;2024-08-10;United;States;USA;;Female
 NR;UZB;4×4;W;3:33.07;;Bangkok;THA;Outdoor;2000-05-18;Uzbekistan;;UZB;;Female
 NR;VEN;4×4;W;3:34.30;;Barquisimeto;VEN;Outdoor;2003-06-22;Venezuela;;VEN;;Female
 NR;VIE;4×4;W;3:30.81;;Bangkok;THA;Outdoor;2024-05-21;Vietnam;;VIE;;Female
