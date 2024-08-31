@@ -1,6 +1,6 @@
 Code;Type;Discipline;Class;Result;Wind;Venue;Venue Country;Environment;Date;Firstname;Lastname;Nation;YOB;Sex
 AL;5;SPE;WJU20;64.28;;HOC Stadium;CHN;Outdoor;2024-04-14;Ziyi;Yan;CHN;2008;Female
-AL;5;10G;WJU20;47:21.04;;SAI Regional Centre Sarojini Nagar;IND;Outdoor;2024-03-09;AARTI;;IND;2006;Female
+AL;5;10G;WJU20;43:26.60;;Estadio Atlético de la;PER;Outdoor;2024-08-30;Zhuoma;Baima;CHN;2005;Female
 AL;5;3G;WJU20;13:35.58;;Bilaspur;IND;Outdoor;2024-06-16;Khushbu;Yadav;IND;2007;Female
 AL;5;300;MJU20;33.61;;Hamayama Park Athletic Field;JPN;Outdoor;2024-04-14;Kira;Hirakawa;JPN;2005;Male
 AL;5;5K0;MJU20;13:34.09;;NITTAIDAI Athletic Stadium;JPN;Outdoor;2024-06-01;Kaisei;Okada;JPN;2005;Male
@@ -17,7 +17,7 @@ AL;5;DRE;MJU20;16.49;1.1;Suez Canal Authority Stadium;EGY;Outdoor;2024-05-10;Sam
 AL;5;60M;WJU20;7.27;;Tuanbo Sports Center;CHN;Indoor;2024-03-31;Yujie;Chen;CHN;2008;Female
 AL;5;400;MJU20;45.53;;Dubai;UAE;Outdoor;2024-04-25;Ailixier;Wumaier;CHN;2006;Male
 AL;5;WEI;WJU20;6.32;-0.2;Dubai;UAE;Outdoor;2024-04-25;Pavana;Nagaraj;IND;2005;Female
-AL;5;4×4;WJU20;3:41.35;;Sports Complex;IND;Outdoor;2024-03-24;India;U20;IND;;Female
+AL;5;4×4;WJU20;3:40.43;;Estadio Atlético de la;PER;Outdoor;2024-08-30;India;U20;IND;;Female
 AL;5;5K0;WJU20;15:31.51;;National Stadium;JPN;Outdoor;2024-05-19;Kana;Mizumoto;JPN;2005;Female
 AL;5;DIS;WJU20;64.49;;Jahnstadion;GER;Outdoor;2024-05-22;Zhichao;Jiang;CHN;2005;Female
 AL;5;300;WJU20;39.18;;Citizens Athletics Stadium;JPN;Outdoor;2024-08-11;Himeka;Kikuchi;JPN;2006;Female
@@ -28,7 +28,7 @@ AL;5;HOC;MJU20;2.24;;Hakatanomori Athletic Stadium;JPN;Outdoor;2024-08-01;Kaisei
 AL;5;100;MJU20;10.06;1.1;Kuishan Sports Center;CHN;Outdoor;2024-06-29;Jinxian;He;CHN;2006;Male
 AL;5;3KH;MJU20;8:37.23;;Hakatanomori Athletic Stadium;JPN;Outdoor;2024-07-31;Tetsu;Sasaki;JPN;2006;Male
 AL;5;11H;MJU20;13.53;0.9;Kuishan Sports Center;CHN;Outdoor;2024-06-30;Yuanjiang;Chen;CHN;2006;Male
-AL;5;10G;MJU20;39:54.42;;Municipal Stadium;JPN;Outdoor;2024-07-06;Sohtaroh;Osaka;JPN;2006;Male
+AL;5;10G;MJU20;39:39.36;;Estadio Atlético de la;PER;Outdoor;2024-08-30;Sohtaroh;Osaka;JPN;2006;Male
 AL;5;40H;WJU20;58.02;;National Stadium;JPN;Outdoor;2024-05-12;Shiori;Chiba;JPN;2005;Female
 AL;5;40H;WJU20;58.02;;Denka Big Swan Stadium;JPN;Outdoor;2024-06-30;Haru;Hiraki;JPN;2005;Female
 AL;5;60H;MJU20;7.75;;Tuanbo Sports Center;CHN;Indoor;2024-03-30;Yuanjiang;Chen;CHN;2006;Male
@@ -42,7 +42,7 @@ AL;5;2KH;MJU20;5:53.21;;Aspire Academy Warm Up Track;QAT;Outdoor;2024-03-20;Abde
 AL;5;1K0;WJU20;2:51.11;;Bilaspur;IND;Outdoor;2024-06-16;.;Muskan;IND;2007;Female
 AL;5;10H;WJU20;13.28;0.5;National Stadium;JPN;Outdoor;2024-05-10;Ami;Takahashi;JPN;2005;Female
 AL;5;KUG;MJU20;18.58;;Sichuan Xipu Training Base;CHN;Outdoor;2024-03-30;Tingshuo;Ge;CHN;2005;Male
-AL;5;4×1;MJU20;39.67;;Dubai;UAE;Outdoor;2024-04-27;Hong;Kong U20;HKG;;Male
+AL;5;4×1;MJU20;39.56;;Estadio Atlético de la;PER;Outdoor;2024-08-30;Thailand;U20;THA;;Male
 AL;5;DRE;WJU20;13.99;-0.2;Sports Center;CHN;Outdoor;2024-05-10;Yi;Li;CHN;2005;Female
 AL;5;10K;WJU20;33:12.14;;HOC Stadium;CHN;Outdoor;2024-04-13;Huiru;Liu;CHN;2005;Female
 AL;5;HAM;WJU20;72.25;;Huai'an Sports Center;CHN;Outdoor;2024-07-18;Jiale;Zhang;CHN;2006;Female
@@ -60,8 +60,8 @@ AL;5;60M;MJU20;6.62;;Jiangsu Sports Bureau Training Center;CHN;Indoor;2024-03-16
 AL;5;800;WJU20;2:00.81;;Hakatanomori Athletic Stadium;JPN;Outdoor;2024-07-31;Rin;Kubo;JPN;2008;Female
 AL;5;2KH;WJU20;6:50.77;;Sports Center;CHN;Outdoor;2024-07-13;Xinru;Shao;CHN;2007;Female
 AL;5;3K0;MJU20;8:01.92;;Denka Big Swan Stadium;JPN;Outdoor;2024-06-30;Yamato;Hamaguchi;JPN;2006;Male
-AL;5;4×4;MJU20;3:07.40;;City Stadium;CHN;Outdoor;2024-06-16;Guangdong;U20;CHN;;Male
-AL;5;4×1;WJU20;45.81;;Sports Complex;IND;Outdoor;2024-03-24;India;U20;IND;;Female
+AL;5;4×4;MJU20;3:07.04;;Estadio Atlético de la;PER;Outdoor;2024-08-30;Japan;U20;JPN;;Male
+AL;5;4×1;WJU20;45.31;;Estadio Atlético de la;PER;Outdoor;2024-08-30;India;U20;IND;;Female
 AL;5;HAM;MJU20;67.83;;Huai'an Sports Center;CHN;Outdoor;2024-07-18;Zixu;Li;CHN;2005;Male
 AL;4;SPE;WJU20;53.07;;The Olympic Center For Training National Teams;EGY;Outdoor;2024-04-18;Aseel;Osama Abdel Hamid;EGY;2008;Female
 AL;4;2K0;WJU20;6:12.08;;Parc des Sports;FRA;Outdoor;2024-07-06;Abigael;Chemnagei;KEN;2005;Female
@@ -90,7 +90,7 @@ AL;4;HOC;MJU20;2.2;;Msunduzi Athletics Stadium;RSA;Outdoor;2024-04-19;Tshepang;D
 AL;4;100;MJU20;10.03;1.9;Stade de La Charrière;SUI;Outdoor;2024-07-14;Bradley;Nkoana;RSA;2005;Male
 AL;4;3KH;MJU20;8:20.05;;Nyayo National Stadium;KEN;Outdoor;2024-05-22;Edmund;Serem;KEN;2007;Male
 AL;4;11H;MJU20;14.11;1.2;Stade Jean Moulin;FRA;Outdoor;2024-05-12;Serge;Taha;CIV;2005;Male
-AL;4;10G;MJU20;41:24.74;;Complexe Sportif;TUN;Outdoor;2024-08-01;Rayen;Cherni;TUN;2006;Male
+AL;4;10G;MJU20;39:24.85;;Estadio Atlético de la;PER;Outdoor;2024-08-30;Rayen;Cherni;TUN;2006;Male
 AL;4;40H;WJU20;57.04;;Msunduzi Athletics Stadium;RSA;Outdoor;2024-04-19;Tumi;Ramokgopa;RSA;2007;Female
 AL;4;60H;MJU20;8.38;;Bob Devaney Sports Center;USA;Indoor;2024-02-02;Bradley;Nkosi;RSA;2006;Male
 AL;4;200;WJU20;22.96;1.2;Pilditch Stadium;RSA;Outdoor;2024-03-23;Viwe;Jingqi;RSA;2005;Female
@@ -103,7 +103,7 @@ AL;4;1K0;WJU20;2:50.36;;Pilditch Stadium;RSA;Outdoor;2024-02-17;Emma;Kruse;RSA;2
 AL;4;600;WJU20;1:37.72;;McArthur Stadium;RSA;Outdoor;2024-01-30;Andrea;Steynberg;RSA;2007;Female
 AL;4;10H;WJU20;13.51;-0.1;Stephen Keshi Stadium;NGR;Outdoor;2024-02-18;Osamuyi;Faith;NGR;2007;Female
 AL;4;KUG;MJU20;16.63;;Msunduzi Athletics Stadium;RSA;Outdoor;2024-04-21;Joshua;Sweetnam;RSA;2005;Male
-AL;4;4×1;MJU20;42.23;;Suez Canal Authority Stadium;EGY;Outdoor;2024-05-11;Algeria;U20;ALG;;Male
+AL;4;4×1;MJU20;40.28;;Estadio Atlético de la;PER;Outdoor;2024-08-30;Nigeria;U20;NGR;;Male
 AL;4;DRE;WJU20;13.4;1.7;John McDonnell Field;USA;Outdoor;2024-05-25;Grace;Oshiokpu;NGR;2005;Female
 AL;4;10K;WJU20;31:47.09;;Estadio Enrique Lopez Cuenca;ESP;Outdoor;2024-06-14;Mekedes;Alemeshete;ETH;2006;Female
 AL;4;HAM;WJU20;53.17;;McArthur Stadium;RSA;Outdoor;2024-05-25;Anje;Holtzhausen;RSA;2006;Female
@@ -123,12 +123,12 @@ AL;4;800;WJU20;1:59.39;;Nyayo National Stadium;KEN;Outdoor;2024-06-14;Sarah;Mora
 AL;4;2KH;WJU20;6:57.96;;Pilditch Stadium;RSA;Outdoor;2024-03-23;Cassidy;Bosman;RSA;2007;Female
 AL;4;3K0;MJU20;7:33.04;;Arena Stade Couvert;FRA;Indoor;2024-02-10;Biniam;Mehary;ETH;2006;Male
 AL;4;MEI;WJU20;4:24.23;;Atletická hala;CZE;Indoor;2024-01-30;Saron;Berhe;ETH;2007;Female
-AL;4;4×4;MJU20;3:13.15;;Suez Canal Authority Stadium;EGY;Outdoor;2024-05-11;Morocco;U20;MAR;;Male
+AL;4;4×4;MJU20;3:08.84;;Estadio Atlético de la;PER;Outdoor;2024-08-30;South;Africa U20;RSA;;Male
 AL;4;4×1;WJU20;45.66;;University of Ghana Sports Stadium;GHA;Outdoor;2024-03-20;Ethiopia;;ETH;;Female
 AL;4;HAM;MJU20;60.3;;Suez Canal Authority Stadium;EGY;Outdoor;2024-06-30;Adam;Tamer Owis;EGY;;Male
 AL;2;SPE;WJU20;55.82;;Hayward Field;USA;Outdoor;2024-06-30;Evelyn;Bliss;USA;2005;Female
 AL;2;2K0;WJU20;6:26.39;;Track and Field Centre;CAN;Outdoor;2024-07-13;Kiana;Charest;CAN;;Female
-AL;2;10G;WJU20;48:09.26;;Pista de Atletismo del Centro Deportivo Benito Juárez;MEX;Outdoor;2024-03-23;Valeria;Flores;MEX;2006;Female
+AL;2;10G;WJU20;45:24.47;;Estadio Atlético de la;PER;Outdoor;2024-08-30;Renata;Cortes;MEX;2005;Female
 AL;2;3G;WJU20;15:24.07;;Icahn Stadium;USA;Outdoor;2024-06-28;Samantha;Benson-Tyler;USA;2008;Female
 AL;2;300;MJU20;32.85;;Armory Track&Field Center;USA;Indoor;2024-02-11;Caine;Stanley;USA;;Male
 AL;2;5K0;MJU20;13:25.86;;Lincoln;USA;Outdoor;2024-06-09;Daniel;Simmons;USA;2006;Male
@@ -154,11 +154,11 @@ AL;2;STA;MJU20;5.4;;Mike A. Myers Stadium;USA;Outdoor;2024-03-28;Hilton;Green;US
 AL;2;STA;MJU20;5.4;;Hayward Field;USA;Outdoor;2024-06-12;Bryce;Barkdull;USA;2005;Male
 AL;2;STA;MJU20;5.4;;The Track at New Balance;USA;Indoor;2024-03-10;Dyson;Wicker;USA;2006;Male
 AL;2;STA;MJU20;5.4;;Hayward Field;USA;Outdoor;2024-06-12;Victor;Olesen;USA;2007;Male
-AL;2;HOC;MJU20;2.24;;Mike A. Myers Stadium;USA;Outdoor;2024-03-29;Scottie;Vines;USA;2005;Male
+AL;2;HOC;MJU20;2.25;;Estadio Atlético de la;PER;Outdoor;2024-08-30;Scottie;Vines;USA;2005;Male
 AL;2;100;MJU20;9.93;1.6;National Training Center;USA;Outdoor;2024-04-20;Christian;Miller;USA;2006;Male
 AL;2;3KH;MJU20;8:42.91;;Clyde Hart Track & Field Stadium;USA;Outdoor;2024-05-10;Wyatt;Haughton;USA;2005;Male
 AL;2;11H;MJU20;13.18;0.4;Percy Beard Track;USA;Outdoor;2024-05-11;Ja'Kobe;Tharp;USA;2005;Male
-AL;2;10G;MJU20;40:43.88;;Unidad Deportiva Agustín Flores;MEX;Outdoor;2024-02-03;Emiliano;Barba;MEX;2007;Male
+AL;2;10G;MJU20;39:27.10;;Estadio Atlético de la;PER;Outdoor;2024-08-30;Emiliano;Barba;MEX;2007;Male
 AL;2;40H;WJU20;54.44;;Hayward Field;USA;Outdoor;2024-06-06;Akala;Garrett;USA;2005;Female
 AL;2;60H;MJU20;7.67;;The Track at New Balance;USA;Indoor;2024-02-04;Andre;Korbmacher;USA;2005;Male
 AL;2;200;WJU20;22.08;1.0;Hayward Field;USA;Outdoor;2024-06-08;JaMeesia;Ford;USA;2005;Female
@@ -192,16 +192,16 @@ AL;2;800;WJU20;2:00.65;;Un. of Kentucky Outdoor Track Facility;USA;Outdoor;2024-
 AL;2;2KH;WJU20;6:25.93;;Franklin Field;USA;Outdoor;2024-06-15;Katherine;Bohlke;USA;;Female
 AL;2;3K0;MJU20;7:54.38;;Dempsey Indoor;USA;Indoor;2024-02-23;Leo;Young;USA;2005;Male
 AL;2;MEI;WJU20;4:28.46;;Saint Louis University High School;USA;Outdoor;2024-05-30;Sadie;Engelhardt;USA;2006;Female
-AL;2;4×4;MJU20;3:09.43;;Franklin Field;USA;Outdoor;2024-06-13;Bullis;;USA;;Male
+AL;2;4×4;MJU20;3:05.16;;Estadio Atlético de la;PER;Outdoor;2024-08-30;United;States U20;USA;;Male
 AL;2;4×1;WJU20;43.63;;Kirani James Athletic Stadium;GRN;Outdoor;2024-03-31;Jamaica;U20;JAM;;Female
 AL;2;HAM;MJU20;66.74;;Univ. of Arizona Roy P. Drachman Stadium;USA;Outdoor;2024-04-05;Ryan;Johnson;USA;2005;Male
 AL;6;SPE;WJU20;49.14;;WA Athletics Stadium;AUS;Outdoor;2024-03-23;Gemma;Buckle;AUS;2008;Female
-AL;6;10G;WJU20;45:56.22;;SA Athletic Stadium;AUS;Outdoor;2024-04-11;Alexandra;Griffin;AUS;2005;Female
+AL;6;10G;WJU20;45:16.26;;Estadio Atlético de la;PER;Outdoor;2024-08-30;Alexandra;Griffin;AUS;2005;Female
 AL;6;3G;WJU20;13:43.34;;Lakeside Stadium;AUS;Outdoor;2024-03-03;Ela;Uzun;AUS;2011;Female
 AL;6;5K0;MJU20;14:03.45;;UVA Lanningan Field;USA;Outdoor;2024-04-19;Matt;Hill;NZL;2005;Male
-AL;6;200;MJU20;20.61;-1.1;SA Athletic Stadium;AUS;Outdoor;2024-04-14;Sebastian;Sultana;AUS;2005;Male
+AL;6;200;MJU20;20.6;-0.7;Estadio Atlético de la;PER;Outdoor;2024-08-30;Gout;Gout;AUS;2007;Male
 AL;6;STA;WJU20;4.2;;SA Athletic Stadium;AUS;Outdoor;2024-04-12;Tryphena;Hewett;AUS;2005;Female
-AL;6;WEI;MJU20;7.73;0.7;SA Athletic Stadium;AUS;Outdoor;2024-04-13;Mason;Mcgroder;AUS;2008;Male
+AL;6;WEI;MJU20;7.8;-0.1;Estadio Atlético de la;PER;Outdoor;2024-08-30;Mason;Mcgroder;AUS;2008;Male
 AL;6;SPE;MJU20;69.23;;Queensland Sport and Athletics Centre;AUS;Outdoor;2024-01-20;Edward;Rogan;AUS;2005;Male
 AL;6;DIS;MJU20;54.48;;Tom Kelly Athletics Track;AUS;Outdoor;2024-03-23;Darcy;Giddings;AUS;2005;Male
 AL;6;1K5;MJU20;3:33.30;;The Crest Athletics Centre;AUS;Outdoor;2024-02-22;Cameron;Myers;AUS;2006;Male
@@ -210,7 +210,7 @@ AL;6;DRE;MJU20;17.01;0.0;McArthur Stadium;RSA;Outdoor;2024-05-25;Ethan;Olivier;N
 AL;6;60M;WJU20;7.31;;Clemson Indoor Track & Field Complex;USA;Indoor;2024-01-26;Aleksandra;Stoilova;AUS;2005;Female
 AL;6;400;MJU20;46.44;;Estadio Atlético de la;PER;Outdoor;2024-08-28;Terrell;Thorne;AUS;2007;Male
 AL;6;WEI;WJU20;6.58;0.7;Estadio Atlético de la;PER;Outdoor;2024-08-28;Delta;Amidzovski;AUS;2006;Female
-AL;6;4×4;WJU20;3:40.92;;SA Athletic Stadium;AUS;Outdoor;2024-04-13;Victoria;U20;AUS;;Female
+AL;6;4×4;WJU20;3:33.55;;Estadio Atlético de la;PER;Outdoor;2024-08-30;Australia;U20;AUS;;Female
 AL;6;5K0;WJU20;15:11.68;;Dempsey Indoor;USA;Indoor;2024-02-23;Amy;Bunnage;AUS;2005;Female
 AL;6;3G;MJU20;11:25.70;;Queensland Sport and Athletics Centre;AUS;Outdoor;2024-02-03;Bailey;Housden;AUS;2007;Male
 AL;6;DIS;WJU20;57.42;;Un. of Kentucky Outdoor Track Facility;USA;Outdoor;2024-05-25;Marley;Raikiwasa;AUS;2005;Female
@@ -221,10 +221,10 @@ AL;6;HOC;MJU20;2.13;;SA Athletic Stadium;AUS;Outdoor;2024-04-12;Mitchell;Hatfiel
 AL;6;100;MJU20;10.17;1.4;SA Athletic Stadium;AUS;Outdoor;2024-04-13;Sebastian;Sultana;AUS;2005;Male
 AL;6;3KH;MJU20;9:00.56;;Queensland Sport and Athletics Centre;AUS;Outdoor;2024-03-14;Toby;Chippendale;AUS;2006;Male
 AL;6;11H;MJU20;15.36;1.6;GVSU Track;USA;Outdoor;2024-05-03;Adam;Jorgensen;AUS;2005;Male
-AL;6;10G;MJU20;40:44.47;;SA Athletic Stadium;AUS;Outdoor;2024-04-11;Isaac;Beacroft;AUS;2007;Male
-AL;6;40H;WJU20;58.29;;SOPAC;AUS;Outdoor;2024-03-16;Alesha;Bennetts;AUS;2005;Female
+AL;6;10G;MJU20;39:36.39;;Estadio Atlético de la;PER;Outdoor;2024-08-30;Isaac;Beacroft;AUS;2007;Male
+AL;6;40H;WJU20;57.92;;Estadio Atlético de la;PER;Outdoor;2024-08-30;Alesha;Bennetts;AUS;2005;Female
 AL;6;60H;MJU20;8.48;;GVSU Kelly Family Sports Cente;USA;Indoor;2024-02-10;Adam;Jorgensen;AUS;2005;Male
-AL;6;200;WJU20;22.89;1.4;Stade de France;FRA;Outdoor;2024-08-04;Torrie;Lewis;AUS;2005;Female
+AL;6;200;WJU20;22.88;0.0;Estadio Atlético de la;PER;Outdoor;2024-08-30;Torrie;Lewis;AUS;2005;Female
 AL;6;5G;WJU20;23:07.07;;SOPAC;AUS;Outdoor;2024-03-08;Zoe;Woods;AUS;2007;Female
 AL;6;1K5;WJU20;4:02.96;;Hagenauer Reserve;AUS;Outdoor;2024-04-04;Claudia;Hollingsworth;AUS;2005;Female
 AL;6;40H;MJU20;51.59;;SA Athletic Stadium;AUS;Outdoor;2024-04-14;Matthew;Hunt;AUS;2006;Male
@@ -252,12 +252,12 @@ AL;6;800;WJU20;1:58.40;;SA Athletic Stadium;AUS;Outdoor;2024-04-14;Claudia;Holli
 AL;6;2KH;WJU20;6:47.53;;HFC Bank Stadium;FIJ;Outdoor;2024-06-06;Milla;Roberts;AUS;2007;Female
 AL;6;3K0;MJU20;7:46.38;;ES Marks Athletics Field;AUS;Outdoor;2024-03-23;Cameron;Myers;AUS;2006;Male
 AL;6;MEI;WJU20;4:48.88;;The Crest Athletics Centre;AUS;Outdoor;2024-03-28;Ronia;Warszawska;AUS;2011;Female
-AL;6;4×4;MJU20;3:11.89;;SA Athletic Stadium;AUS;Outdoor;2024-04-13;Queensland;U20;AUS;;Male
+AL;6;4×4;MJU20;3:08.99;;Estadio Atlético de la;PER;Outdoor;2024-08-30;Australia;U20;AUS;;Male
 AL;6;4×1;WJU20;44.34;;ES Marks Athletics Field;AUS;Outdoor;2024-03-23;Australia;U20;AUS;;Female
 AL;6;HAM;MJU20;60.01;;Kerryn McCann Athletic Centre;AUS;Outdoor;2024-01-13;Samuel;Perkins;AUS;2005;Male
 AL;1;SPE;WJU20;58.7;;Grenzlandstadion;GER;Outdoor;2024-07-06;Mirja;Lukas;GER;2005;Female
 AL;1;2K0;WJU20;6:12.74;;Rud friidrettstadion;NOR;Outdoor;2024-06-14;Hanna;Strand;SWE;;Female
-AL;1;10G;WJU20;45:06.75;;Estadi Olímpic Camilo Cano;ESP;Outdoor;2024-06-28;Aldara;Meilán;ESP;2006;Female
+AL;1;10G;WJU20;44:54.32;;Estadio Atlético de la;PER;Outdoor;2024-08-30;Alessia;Cristina Pop;ROU;2007;Female
 AL;1;3G;WJU20;12:39.58;;Stadium Miramas Métropole;FRA;Indoor;2024-03-02;Chloe;Le Roch;FRA;2007;Female
 AL;1;300;MJU20;33.53;;SOK Luch;RUS;Indoor;2024-01-07;Serafim;Solodovnikov;RUS;2005;Male
 AL;1;5K0;MJU20;13:39.69;;Boudewijnstadion;BEL;Outdoor;2024-05-25;Juan;Zijderlaan;NED;2005;Male
@@ -268,7 +268,7 @@ AL;1;SPE;MJU20;80.87;;Štadion Kladivar;SLO;Outdoor;2024-06-29;Tom;Teršek;SLO;2
 AL;1;DIS;MJU20;59.95;;Estádio Dr. Magalhães Pessoa;POR;Outdoor;2024-03-10;Mykhailo;Brudin;UKR;2005;Male
 AL;1;1K5;MJU20;3:29.54;;Stade de France;FRA;Outdoor;2024-08-06;Niels;Laros;NED;2005;Male
 AL;1;3KH;WJU20;9:49.11;;Estadio Atlético de la;PER;Outdoor;2024-08-29;Adia;Budde;GER;2005;Female
-AL;1;DRE;MJU20;16.19;1.2;Kuortaneen keskusurheilukenttä;FIN;Outdoor;2024-06-22;Tiago;Pereira;POR;2005;Male
+AL;1;DRE;MJU20;16.65;0.5;Stadio Olimpico;ITA;Outdoor;2024-08-30;Tiago;Pereira;POR;2005;Male
 AL;1;60M;WJU20;7.26;;National Indoor Athletics Centre;GBR;Indoor;2024-02-10;Mabel;Akande;GBR;2006;Female
 AL;1;400;MJU20;45.96;;Athletics Arena;RUS;Indoor;2024-02-10;Serafim;Solodovnikov;RUS;2005;Male
 AL;1;WEI;WJU20;6.68;1.9;Demirjian Park;USA;Outdoor;2024-04-13;Elizabeth;Ndudi;IRL;2005;Female
@@ -286,21 +286,22 @@ AL;1;100;MJU20;10.29;1.5;Stadium Municipal;FRA;Outdoor;2024-07-19;Ylann;Bizasene
 AL;1;100;MJU20;10.29;0.5;Estadio Atlético de la;PER;Outdoor;2024-08-27;Teddy;Wilson;GBR;2006;Male
 AL;1;3KH;MJU20;8:35.88;;Parc des Sports C. Ehrmann;FRA;Outdoor;2024-06-15;Hicham;Errbibih;FRA;2005;Male
 AL;1;11H;MJU20;13.55;-0.6;Manchester Regional Arena;GBR;Outdoor;2024-06-30;Daniel;Goriola;GBR;2005;Male
-AL;1;10G;MJU20;41:38.28;;Stadio Guidobaldi;ITA;Outdoor;2024-07-27;Giuseppe;Disabato;ITA;2006;Male
+AL;1;10G;MJU20;39:31.25;;Estadio Atlético de la;PER;Outdoor;2024-08-30;Giuseppe;Disabato;ITA;2006;Male
 AL;1;40H;WJU20;56.27;;Stade Josette et Roger Mikulak;FRA;Outdoor;2024-06-30;Méta;Tumba;FRA;2006;Female
 AL;1;60H;MJU20;7.72;;EIS Don Valley Stadium;GBR;Indoor;2024-02-23;Daniel;Goriola;GBR;2005;Male
 AL;1;200;WJU20;23.09;1.0;Banská Bystrica;SVK;Outdoor;2024-07-20;Elisa;Valensin;ITA;2007;Female
 AL;1;5G;WJU20;21:49.82;;Estadi Municipal d'Atletisme Congost;ESP;Outdoor;2024-06-15;Sofia;Santacreu;ESP;2006;Female
 AL;1;50M;WJU20;6.39;;Salle du Centre Mondial du Cyclisme;SUI;Indoor;2024-01-20;Chloé;Rabac;SUI;2005;Female
 AL;1;1K5;WJU20;4:06.96;;Seha Aksoy Atletizm Pisti;TUR;Outdoor;2024-06-30;Dilek;Koçak;TUR;2005;Female
-AL;1;40H;MJU20;49.89;;Stadion Juliska;CZE;Outdoor;2024-06-03;Michal;Rada;CZE;2007;Male
+AL;1;40H;MJU20;49.36;;Estadio Atlético de la;PER;Outdoor;2024-08-30;Antti;Sainio;FIN;2005;Male
+AL;1;40H;MJU20;49.36;;Estadio Atlético de la;PER;Outdoor;2024-08-30;Michal;Rada;CZE;2007;Male
 AL;1;400;WJU20;50.52;;Stadio Olimpico;ITA;Outdoor;2024-06-10;Lurdes;Gloria Manuel;CZE;2005;Female
 AL;1;2KH;MJU20;5:45.46;;Schönbuchstadion;GER;Outdoor;2024-05-05;Aarno;Liebl;SUI;2005;Male
 AL;1;1K0;WJU20;2:43.54;;Stadion Zygmunta Szelesta;POL;Outdoor;2024-05-11;Zuzanna;Wiernicka;POL;2006;Female
 AL;1;600;WJU20;1:29.50;;Schönbuchstadion;GER;Outdoor;2024-05-05;Adéla;Holubová;CZE;2007;Female
 AL;1;10H;WJU20;13.07;2.0;Michael-Hoffmann-Stadion;GER;Outdoor;2024-06-22;Laura;Montauban;FRA;2006;Female
 AL;1;KUG;MJU20;18.55;;Quarterback Immobilien Arena;GER;Indoor;2024-02-16;Georg;Harpf;GER;2005;Male
-AL;1;4×1;MJU20;39.74;;Estadio Iberoamericano;ESP;Outdoor;2024-04-30;Spain;U20;ESP;;Male
+AL;1;4×1;MJU20;39.73;;Estadio Atlético de la;PER;Outdoor;2024-08-30;France;U20;FRA;;Male
 AL;1;50H;WJU20;7.4;;GSG9-Halle;AUT;Indoor;2024-01-16;Iman;Roka;AUT;2005;Female
 AL;1;DRE;WJU20;13.83;1.7;Stade de Beaublanc;FRA;Outdoor;2024-06-01;Clémence;Rougier;FRA;2005;Female
 AL;1;10K;WJU20;33:28.14;;Parliament Hill Fields Athletics Track;GBR;Outdoor;2024-05-18;Lizzie;Wellsted;GBR;2006;Female
@@ -314,7 +315,7 @@ AL;1;5G;MJU20;19:23.31;;Regional Sport Complex;BLR;Outdoor;2024-07-23;Kirill;Chu
 AL;1;50M;MJU20;6.04;;Salle du Centre Mondial du Cyclisme;SUI;Indoor;2024-01-20;Bryan;Pascal;FRA;2005;Male
 AL;1;HOC;WJU20;1.98;;Le Grand Stade;MAR;Outdoor;2024-05-19;Angelina;Topić;SRB;2005;Female
 AL;1;600;MJU20;1:16.03;;Schönbuchstadion;GER;Outdoor;2024-05-05;Noam;Mamu;ISR;2006;Male
-AL;1;KUG;WJU20;16.03;;Stadion TJ Lokomotiva;CZE;Outdoor;2024-08-17;Martina;Mazurová;CZE;2005;Female
+AL;1;KUG;WJU20;16.38;;Estadio Atlético de la;PER;Outdoor;2024-08-30;Martina;Mazurová;CZE;2005;Female
 AL;1;60H;WJU20;8.12;;Velesajam Hall;CRO;Indoor;2024-01-27;Mia;Wild;CRO;2006;Female
 AL;1;10K;MJU20;29:57.48;;Stade Complexe Sportif Jean-Paul Chasseboeuf;FRA;Outdoor;2024-05-04;Mael;Henric;FRA;2005;Male
 AL;1;60M;MJU20;6.61;;KGHM Sleza Arena;POL;Indoor;2024-02-10;Marek;Zakrzewski;POL;2005;Male

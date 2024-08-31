@@ -1,6 +1,7 @@
 Code;Type;Discipline;Class;Result;Wind;Venue;Venue Country;Environment;Date;Firstname;Lastname;Nation;YOB;Sex
 NL;GER;SPE;WJU20;58.7;;Grenzlandstadion;GER;Outdoor;2024-07-06;Mirja;Lukas;GER;2005;Female
 NL;GER;2K0;WJU20;6:33.98;;Sportzentrum Kalbach;GER;Indoor;2024-02-11;Luise;Brzoska;GER;;Female
+NL;GER;10G;WJU20;46:33.65;;Estadio Atlético de la;PER;Outdoor;2024-08-30;Kylie;Garreis;GER;2005;Female
 NL;GER;3G;WJU20;13:06.45;;Helmut-Körnig-Halle;GER;Indoor;2024-02-24;Kylie;Garreis;GER;2005;Female
 NL;GER;300;MJU20;33.74;;Schönbuchstadion;GER;Outdoor;2024-05-05;Lucien;Berger;GER;2006;Male
 NL;GER;5K0;MJU20;14:14.42;;Carl-Kaufmann-Stadion;GER;Outdoor;2024-05-11;Viktor;Plümacher;GER;2005;Male
@@ -25,6 +26,7 @@ NL;GER;STA;MJU20;5.55;;Helmut-Körnig-Halle;GER;Indoor;2024-02-24;Hendrik;Mülle
 NL;GER;HOC;MJU20;2.1;;Michael-Hoffmann-Stadion;GER;Outdoor;2024-06-23;Jason;Lee Hoppe;GER;2006;Male
 NL;GER;100;MJU20;10.4;1.7;Michael-Hoffmann-Stadion;GER;Outdoor;2024-06-22;Jakob;Kemminer;GER;2007;Male
 NL;GER;3KH;MJU20;8:57.70;;Grenzlandstadion;GER;Outdoor;2024-07-05;Paul;Walochny;GER;2005;Male
+NL;GER;10G;MJU20;40:52.97;;Estadio Atlético de la;PER;Outdoor;2024-08-30;Frederick;Weigel;GER;2005;Male
 NL;GER;40H;WJU20;59.48;;Stadion Oberwerth;GER;Outdoor;2024-07-28;Anouk;Krause-Jentsch;GER;2005;Female
 NL;GER;60H;MJU20;8.86;;Sportforum;GER;Indoor;2024-01-27;Aidan;Ballaschke;GER;;Male
 NL;GER;200;WJU20;23.5;1.0;Banská Bystrica;SVK;Outdoor;2024-07-20;Pauline;Richter;GER;2007;Female
