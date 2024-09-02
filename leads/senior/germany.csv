@@ -2,6 +2,7 @@ Code;Type;Discipline;Class;Result;Wind;Venue;Venue Country;Environment;Date;Firs
 NL;GER;2KH;M;5:26.22;;Schönbuchstadion;GER;Outdoor;2024-05-05;Niklas;Buchholz;GER;1998;Male
 NL;GER;STA;M;5.82;;Stadion Manfort;GER;Outdoor;2024-05-25;Torben;Blech;GER;1995;Male
 NL;GER;STA;M;5.82;;Stadio Olimpico;ITA;Outdoor;2024-06-12;Oleg;Zernikel;GER;1995;Male
+NL;GER;STA;M;5.82;;Olympiastadion;GER;Outdoor;2024-09-01;Bo;Kanda Lita Baehre;GER;1999;Male
 NL;GER;KUG;M;20.25;;Werferzentrum Brandberge;GER;Outdoor;2024-05-25;Silas;Ristl;GER;1995;Male
 NL;GER;5G;W;24:54.74;;Sportzentrum Kalbach;GER;Indoor;2024-01-27;Tabea;Kiefer;GER;2005;Female
 NL;GER;3G;M;10:44.00;;Hartwig-Gauder-Halle;GER;Indoor;2024-02-02;Christopher;Linke;GER;1988;Male
@@ -36,7 +37,7 @@ NL;GER;3G;W;13:06.45;;Helmut-Körnig-Halle;GER;Indoor;2024-02-24;Kylie;Garreis;G
 NL;GER;SPE;W;61.92;;Stadio Olimpico;ITA;Outdoor;2024-06-11;Christin;Hussong;GER;1994;Female
 NL;GER;10H;W;12.89;0.6;Eintracht-Stadion;GER;Outdoor;2024-06-29;Ricarda;Lobe;GER;1994;Female
 NL;GER;10H;W;12.89;0.8;Stade de La Charrière;SUI;Outdoor;2024-07-14;Rosina;Schneider;GER;2004;Female
-NL;GER;2KH;W;6:13.15;;Schönbuchstadion;GER;Outdoor;2024-05-05;Gesa;Felicitas Krause;GER;1992;Female
+NL;GER;2KH;W;5:56.71;;Olympiastadion;GER;Outdoor;2024-09-01;Gesa;Felicitas Krause;GER;1992;Female
 NL;GER;10K;W;31:56.58;;Sportpark Orsbeck;GER;Outdoor;2024-05-04;Eva;Dieterich;GER;1999;Female
 NL;GER;HOC;W;1.95;;Sporthalle Küllenhahn;GER;Indoor;2024-01-26;Christina;Honsel;GER;1997;Female
 NL;GER;3K0;M;7:40.01;;Olympiastadion;SWE;Outdoor;2024-06-02;Sam;Parsons;GER;1994;Male
@@ -53,13 +54,13 @@ NL;GER;300;W;36.69;;Mommsenstadion;GER;Outdoor;2024-07-26;Skadi;Schier;GER;2000;
 NL;GER;11H;M;13.36;0.9;Stadion Manfort;GER;Outdoor;2024-05-25;Manuel;Mordi;GER;2003;Male
 NL;GER;3K0;W;9:01.77;;Glaspalast;GER;Indoor;2024-01-28;Eva;Dieterich;GER;1999;Female
 NL;GER;5G;M;21:14.84;;Stadion Oberwerth;GER;Outdoor;2024-07-27;Nick;Joel Richardt;GER;2006;Male
-NL;GER;600;W;1:26.64;;Schönbuchstadion;GER;Outdoor;2024-05-05;Lisa;Sophie Hartmann;GER;1999;Female
+NL;GER;600;W;1:24.88;;Olympiastadion;GER;Outdoor;2024-09-01;Alica;Schmidt;GER;1998;Female
 NL;GER;1K0;W;2:37.96;;Schönbuchstadion;GER;Outdoor;2024-05-05;Gesa;Felicitas Krause;GER;1992;Female
 NL;GER;MEI;W;4:35.93;;Track & Field complex;KAZ;Indoor;2024-01-27;Vera;Coutellier;GER;1995;Female
 NL;GER;60M;W;7.2;;ISS Dome;GER;Indoor;2024-02-04;Alexandra;Burghardt;GER;1994;Female
 NL;GER;10G;W;46:33.65;;Estadio Atlético de la;PER;Outdoor;2024-08-30;Kylie;Garreis;GER;2005;Female
 NL;GER;DRE;W;14.15;;Leichtathletikhallen Manfort;GER;Indoor;2024-01-20;Jessie;Maduka;GER;1996;Female
-NL;GER;40H;M;48.36;;Stadio Olimpico;ITA;Outdoor;2024-06-10;Emil;Agyekum;GER;1999;Male
+NL;GER;40H;M;48.21;;Olympiastadion;GER;Outdoor;2024-09-01;Emil;Agyekum;GER;1999;Male
 NL;GER;10K;M;27:41.92;;Parliament Hill Fields Athletics Track;GBR;Outdoor;2024-05-18;Nils;Voigt;GER;1997;Male
 NL;GER;60H;M;7.65;;Uber Arena;GER;Indoor;2024-02-23;Manuel;Mordi;GER;2003;Male
 NL;GER;4×1;M;38.43;;Stadio Olimpico;ITA;Outdoor;2024-06-11;Germany;;GER;;Male
@@ -67,4 +68,4 @@ NL;GER;4×2;W;1:35.42;;Quarterback Immobilien Arena;GER;Indoor;2024-02-18;SCC;Be
 NL;GER;KUG;W;20.19;;Glasgow Arena;GBR;Indoor;2024-03-01;Yemisi;Ogunleye;GER;1998;Female
 NL;GER;STA;W;4.55;;Quarterback Immobilien Arena;GER;Indoor;2024-02-18;Anjuli;Knäsche;GER;1993;Female
 NL;GER;60H;W;8.08;;Quarterback Immobilien Arena;GER;Indoor;2024-02-17;Rosina;Schneider;GER;2004;Female
-NL;GER;100;W;11.04;0.2;Eintracht-Stadion;GER;Outdoor;2024-06-29;Gina;Lückenkemper;GER;1996;Female
+NL;GER;100;W;10.93;1.0;Olympiastadion;GER;Outdoor;2024-09-01;Gina;Lückenkemper;GER;1996;Female

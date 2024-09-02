@@ -32,7 +32,7 @@ AL;5;HAM;W;75.42;;Huai'an Sports Center;CHN;Outdoor;2024-07-18;Jie;Zhao;CHN;2002
 AL;5;3G;W;13:35.58;;Bilaspur;IND;Outdoor;2024-06-16;Khushbu;Yadav;IND;2007;Female
 AL;5;SPE;W;65.8;;Stade de France;FRA;Outdoor;2024-08-10;Haruka;Kitaguchi;JPN;1998;Female
 AL;5;10H;W;12.69;1.2;Lemon Gas Stadium;JPN;Outdoor;2024-07-20;Mako;Fukube;JPN;1995;Female
-AL;5;2KH;W;6:50.77;;Sports Center;CHN;Outdoor;2024-07-13;Xinru;Shao;CHN;2007;Female
+AL;5;2KH;W;6:14.38;;Olympiastadion;GER;Outdoor;2024-09-01;Parul;Chaudhary;IND;1995;Female
 AL;5;10K;W;30:52.43;;Hayward Field;USA;Outdoor;2024-05-25;Daisy;Jepkemei;KAZ;1996;Female
 AL;1;HOC;W;1.95;;Stade de France;FRA;Outdoor;2024-08-02;Safina;Sadullayeva;UZB;1998;Female
 AL;5;3K0;M;7:42.56;;Armory Track&Field Center;USA;Indoor;2024-02-11;Keita;Satoh;JPN;2004;Male
@@ -120,7 +120,7 @@ AL;4;300;W;35.99;;The Track at New Balance;USA;Indoor;2024-02-04;Favour;Ofili;NG
 AL;4;11H;M;13.31;0.0;Stade de France;FRA;Outdoor;2024-08-04;Louis;François Mendy;SEN;1999;Male
 AL;4;3K0;W;8:17.11;;Arena Stade Couvert;FRA;Indoor;2024-02-10;Gudaf;Tsegay;ETH;1997;Female
 AL;4;5G;M;19:36.24;;Stade d'Honneur Marcel Roustan;FRA;Outdoor;2024-05-12;Ismail;Benhammouda;ALG;2003;Male
-AL;4;600;W;1:28.17;;Schönbuchstadion;GER;Outdoor;2024-05-05;Assia;Raziki;MAR;1996;Female
+AL;4;600;W;1:21.63;;Olympiastadion;GER;Outdoor;2024-09-01;Mary;Moraa;KEN;2000;Female
 AL;4;1K0;W;2:31.24;;Stadion Śląski;POL;Outdoor;2024-08-25;Nelly;Chepchirchir;KEN;2003;Female
 AL;4;50M;W;6.73;;Salle du Centre Mondial du Cyclisme;SUI;Indoor;2024-01-20;Anastasie;Tsogo;CMR;2003;Female
 AL;4;MEI;W;4:17.36;;Atletická hala;CZE;Indoor;2024-01-30;Freweyni;Hailu;ETH;2001;Female
@@ -137,8 +137,7 @@ AL;4;STA;W;4.35;;University of Ghana Sports Stadium;GHA;Outdoor;2024-03-19;Miré
 AL;4;60H;W;7.75;;The Track at New Balance;USA;Indoor;2024-02-04;Tobi;Amusan;NGR;1997;Female
 AL;4;100;W;10.87;0.8;Stade de France;FRA;Outdoor;2024-08-02;Marie-Josée;Ta Lou-Smith;CIV;1988;Female
 AL;2;2KH;M;5:29.27;;Piste Ben Leduc;CAN;Outdoor;2024-06-21;Kevin;Robertson;CAN;2001;Male
-AL;2;STA;M;6.0;;Stadion Śląski;POL;Outdoor;2024-08-25;Sam;Kendricks;USA;1992;Male
-AL;2;STA;M;6.0;;Convention Center;USA;Indoor;2024-02-16;Christopher;Nilsen;USA;1998;Male
+AL;2;STA;M;6.01;;Olympiastadion;GER;Outdoor;2024-09-01;Sam;Kendricks;USA;1992;Male
 AL;2;KUG;M;23.13;;Hayward Field;USA;Outdoor;2024-05-25;Joe;Kovacs;USA;1989;Male
 AL;2;5G;W;22:34.31;;Percy Perry Stadium;CAN;Outdoor;2024-06-02;Olivia;Lundman;CAN;2003;Female
 AL;2;3G;M;11:56.06;;Convention Center;USA;Indoor;2024-02-16;Nick;Christie;USA;1991;Male
@@ -192,7 +191,7 @@ AL;2;300;W;35.75;;The Track at New Balance;USA;Indoor;2024-02-04;Gabrielle;Thoma
 AL;2;11H;M;12.86;2.0;Hayward Field;USA;Outdoor;2024-06-28;Grant;Holloway;USA;1997;Male
 AL;2;3K0;W;8:20.87;;Glasgow Arena;GBR;Indoor;2024-03-02;Elle;St. Pierre;USA;1995;Female
 AL;2;5G;M;18:33.68;;Percy Perry Stadium;CAN;Outdoor;2024-06-02;Evan;Dunfee;CAN;1990;Male
-AL;2;600;W;1:23.80;;Ansin Sports Complex;USA;Outdoor;2024-04-06;Shafiqua;Maloney;VIN;1999;Female
+AL;2;600;W;1:22.98;;Olympiastadion;GER;Outdoor;2024-09-01;Shafiqua;Maloney;VIN;1999;Female
 AL;2;1K0;W;2:31.49;;Stadion BOSiR;POL;Outdoor;2024-08-31;Addison;Wiley;USA;2003;Female
 AL;2;50M;W;6.33;;GSG9-Halle;AUT;Indoor;2024-01-16;Christania;Williams;JAM;1994;Female
 AL;2;MEI;W;4:16.41;;Armory Track&Field Center;USA;Indoor;2024-02-11;Elle;St. Pierre;USA;1995;Female
@@ -312,7 +311,7 @@ AL;1;HAM;W;75.95;;Throwing Stadium;BUL;Outdoor;2024-05-11;Zalina;Marghieva;MDA;1
 AL;1;3G;W;12:17.95;;Expocentro;POR;Indoor;2024-02-17;Vitória;Oliveira;POR;1992;Female
 AL;1;SPE;W;66.06;;Leichtathletikarena;AUT;Outdoor;2024-05-22;Victoria;Hudson;AUT;1996;Female
 AL;1;10H;W;12.31;0.8;Stadio Olimpico;ITA;Outdoor;2024-06-08;Cyréna;Samba-Mayela;FRA;2000;Female
-AL;1;2KH;W;6:00.81;;Golęcin Stadion;POL;Outdoor;2024-06-23;Aneta;Konieczek;POL;1997;Female
+AL;1;2KH;W;5:56.71;;Olympiastadion;GER;Outdoor;2024-09-01;Gesa;Felicitas Krause;GER;1992;Female
 AL;1;10K;W;30:36.84;;JSerra Catholic;USA;Outdoor;2024-03-16;Megan;Keith;GBR;2002;Female
 AL;1;HOC;W;2.1;;Stade Charléty;FRA;Outdoor;2024-07-07;Yaroslava;Mahuchikh;UKR;2001;Female
 AL;1;3K0;M;7:17.55;;Stadion Śląski;POL;Outdoor;2024-08-25;Jakob;Ingebrigtsen;NOR;2000;Male
@@ -331,7 +330,7 @@ AL;1;300;W;35.46;;Fana Stadion;NOR;Outdoor;2024-05-22;Henriette;Jæger;NOR;2003;
 AL;1;11H;M;13.05;0.6;Stadio Olimpico;ITA;Outdoor;2024-06-08;Lorenzo;Ndele Simonelli;ITA;2002;Male
 AL;1;3K0;W;8:26.30;;Bislett Stadion;NOR;Outdoor;2024-05-30;Maureen;Koster;NED;1992;Female
 AL;1;5G;M;18:22.02;;Estadi Joan Serrahima;ESP;Outdoor;2024-05-25;Paul;Mcgrath;ESP;2002;Male
-AL;1;600;W;1:25.58;;Arena Civica Gianni Brera;ITA;Outdoor;2024-04-27;Anita;Horvat;SLO;1996;Female
+AL;1;600;W;1:24.88;;Olympiastadion;GER;Outdoor;2024-09-01;Alica;Schmidt;GER;1998;Female
 AL;1;1K0;W;2:32.56;;Stadion Śląski;POL;Outdoor;2024-08-25;Jemma;Reekie;GBR;1998;Female
 AL;1;50M;W;6.39;;Salle du Centre Mondial du Cyclisme;SUI;Indoor;2024-01-20;Chloé;Rabac;SUI;2005;Female
 AL;1;MEI;W;4:23.68;;Armory Track&Field Center;USA;Indoor;2024-02-11;Yolanda;Ngarambe;SWE;1991;Female
