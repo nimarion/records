@@ -7132,7 +7132,7 @@ NR;GUY;300;M;33.62;;Pliezhausen;GER;Outdoor;2000-05-21;Paul;Tucker;GUY;1976;Male
 NR;IRL;300;M;32.47;;Ostrava;CZE;Outdoor;2008-06-12;Paul;Hession;IRL;1983;Male
 NR;ISR;300;M;32.94;;Tel Aviv;ISR;Outdoor;2015-02-14;Donald;Blair-Sanford;ISR;1987;Male
 NR;JAM;300;M;30.97;;Ostrava;CZE;Outdoor;2010-05-27;Usain;Bolt;JAM;1986;Male
-NR;JPN;300;M;32.21;;Izumo;JPN;Outdoor;2015-04-12;Kenji;Fujimitsu;JPN;1986;Male
+NR;JPN;300;M;32.2;;Saga;JPN;Outdoor;2024-10-11;Kenki;Imaizumi;JPN;2001;Male
 NR;KSA;300;M;32.76;;Göteborg;SWE;Outdoor;2002-08-27;Hamdan;Odha Al-Bishi;KSA;1981;Male
 NR;KUW;300;M;32.28;;Ljubljana;SLO;Outdoor;2004-08-10;Fawzi;Dahash Al-Shammari;KUW;1979;Male
 NR;MEX;300;M;32.4;;Naimette-Xhovémont;BEL;Outdoor;2014-07-16;José;Carlos Herrera;MEX;1986;Male
@@ -8983,7 +8983,7 @@ NR;LES;40H;M;54.65;;Durban;RSA;Outdoor;2010-03-20;Relebohile;C. Mosito;LES;;Male
 NR;LIE;40H;M;57.94;;Sargans;SUI;Outdoor;1985-06-08;Kurt;Wachter;LIE;1953;Male
 NR;LTU;40H;M;50.39;;Jessheim;NOR;Outdoor;2012-07-21;Silvestras;Guogis;LTU;1990;Male
 NR;LUX;40H;M;50.94;;Chambéry;FRA;Outdoor;2013-06-30;Jacques;Frisch;LUX;1987;Male
-NR;MAC;40H;M;55.24;;Yecheon;KOR;Outdoor;2023-06-05;Cheong;Chi Chong;MAC;2004;Male
+NR;MAC;40H;M;53.82;;Macau;MAC;Outdoor;2024-10-13;Cheong;Chi Chong;MAC;2004;Male
 NR;MAD;40H;M;49.53;;Ottawa;CAN;Outdoor;2001-07-23;Yvon;Rakotoarimaindry;MAD;1976;Male
 NR;MAR;40H;M;48.82;;Accra;GHA;Outdoor;2024-03-21;Saad;Hinti;MAR;2002;Male
 NR;MAS;40H;M;51.26;;Yecheon;KOR;Outdoor;2023-06-06;Muh.;Fakhrul Afizur;MAS;2004;Male
@@ -11684,6 +11684,7 @@ NR;VIE;WEI;M;7.5;;Tehran;IRI;Indoor;2018-02-01;Nguyen;Tien Trong;VIE;1997;Male
 NR;VIN;WEI;M;7.85;;Toronto;CAN;Indoor;2010-01-24;Clayton;Latham;VIN;1980;Male
 NR;ZIM;WEI;M;8.21;;Blacksburg;USA;Indoor;2009-02-27;Ngonidzashe;Makusha;ZIM;1987;Male
 NR;CRO;30H;M;38.9;;Postojna;YUG;Outdoor;1985-07-14;Nedeljko;Visnjic;CRO;1968;Male
+NR;JPN;30H;M;35.47;;Saga;JPN;Outdoor;2024-10-14;Yu;Hashimoto;JPN;2006;Male
 NR;POL;30H;M;35.93;;Lublin;POL;Outdoor;2023-05-13;Krzysztof;Hołub;POL;2000;Male
 NR;POR;30H;M;37.73;;Lisboa;POR;Outdoor;1991-06-16;Carlos;Silva;POR;1974;Male
 NR;AFG;4×1;M;43.1;;Kaboul;AFG;Outdoor;1963-01-01;Afghanistan;;AFG;;Male
