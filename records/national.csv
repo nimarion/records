@@ -529,7 +529,7 @@ NR;GUI;10H;W;12.96;1.8;Sacramento;USA;Outdoor;2007-06-08;Fatmata;Fofanah;GUI;198
 NR;GUM;10H;W;15.65;;Manenggon Hills;GUM;Outdoor;2012-05-18;Stefani;Loisel;GUM;;Female
 NR;GUY;10H;W;13.27;1.7;Barranquilla;COL;Outdoor;2018-07-30;Jenea;Mccammon;GUY;1991;Female
 NR;HAI;10H;W;12.74;1.7;Athína;GRE;Outdoor;2004-08-23;Nadine;Faustin-Parker;HAI;1976;Female
-NR;HKG;10H;W;13.14;;Walnut;USA;Outdoor;1994-04-17;Chan;Sau-Ying;HKG;1970;Female
+NR;HKG;10H;W;13.14;0.0;Walnut, Ca;USA;Outdoor;1994-04-17;Chan;Sau-Ying;HKG;1970;Female
 NR;HON;10H;W;13.83;-0.6;Toluca;MEX;Outdoor;2008-07-21;Jeimy;J. Bernárdez;HON;1986;Female
 NR;HUN;10H;W;12.69;-0.1;München;GER;Outdoor;2022-08-21;Luca;Kozák;HUN;1996;Female
 NR;INA;10H;W;13.18;0.7;Taipei;TPE;Outdoor;2012-05-26;Dedeh;Erawati;INA;1979;Female
@@ -4169,7 +4169,7 @@ NR;NIU;HOC;W;1.49;;Sydney;AUS;Outdoor;2005-05-08;Jade;Roughan;NIU;;Female
 NR;NMI;HOC;W;1.38;;Pohnpei;FSM;Outdoor;2014-07-23;Rachel;Abrams;NMI;1995;Female
 NR;NOR;HOC;W;2.01;;Zürich;SUI;Outdoor;1997-08-13;Hanne;Haugland;NOR;1967;Female
 NR;NRU;HOC;W;1.26;;Yaren;NRU;Outdoor;2007-03-04;Arrora;De Paune;NRU;;Female
-NR;NZL;HOC;W;1.92;;Auckland;NZL;Outdoor;1991-01-26;Tania;Dixon;NZL;1970;Female
+NR;NZL;HOC;W;1.92;;Dunedin;NZL;Outdoor;1991-01-26;Tania;Dixon;NZL;1970;Female
 NR;OMA;HOC;W;1.6;;Beyrouth;LBN;Outdoor;2017-09-10;Aleya;Faiq Al-Moghairiya;OMA;;Female
 NR;PAK;HOC;W;1.69;;Kathmandu;NEP;Outdoor;1999-09-27;Rehana;Kausar;PAK;;Female
 NR;PAN;HOC;W;1.84;;Managua;NCA;Outdoor;2012-06-16;Kashani;Ríos Miller;PAN;1991;Female
@@ -5660,7 +5660,7 @@ NR;THA;3KH;W;11:15.94;;Khon Kaen;THA;Outdoor;2012-03-07;Sonthiya;Saiweaw;THA;198
 NR;TJK;3KH;W;11:26.68;;Ho Chi Minh;VIE;Outdoor;2016-06-05;Mekhrangez;Nazarova;TJK;1997;Female
 NR;TKS;3KH;W;12:02.26;;Pittsburgh;USA;Outdoor;2021-05-09;Rebecca;Bernadin;TKS;;Female
 NR;TLS;3KH;W;11:15.27;;Jakarta;INA;Outdoor;2018-08-27;Rubia;Fatima Martins;TLS;2000;Female
-NR;TPE;3KH;W;10:33.02;;Taoyuan;TPE;Outdoor;2019-10-22;Chen;Chao-Chun;TPE;1992;Female
+NR;TPE;3KH;W;10:30.72;;Taipei;TPE;Outdoor;2024-09-22;Hsu;Yi-Chieh;TPE;2003;Female
 NR;TTO;3KH;W;10:57.0;;Cedar Falls;USA;Outdoor;2011-05-14;Scarla;Nero;TTO;1990;Female
 NR;TUN;3KH;W;9:04.93;;Roma;ITA;Outdoor;2024-08-30;Marwa;Bouzayani;TUN;1997;Female
 NR;TUR;3KH;W;9:13.53;;Sofia;BUL;Outdoor;2012-06-09;Gülcan;Mıngır;TUR;1989;Female
