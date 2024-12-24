@@ -2,9 +2,11 @@ import requests
 import pandas as pd
 import os
 
+headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36'}
+
 def getDisciplines(sex):
     url = f'https://www.tilastopaja.info/api/inputs/events/nationalrecords/senior/{sex}'
-    response = requests.get(url)
+    response = requests.get(url, headers=headers)
     json = response.json()
     data = json["data"]
     return [x["value"] for x in data]
@@ -18,7 +20,7 @@ def determine_environment(row):
 
 def getRecords(sex, discipline):
     url = f'https://www.tilastopaja.info/api/nationalrecords/world/{sex}?indoor=all&event={discipline}'
-    response = requests.get(url)
+    response = requests.get(url, headers=headers)
     json = response.json()
     if (json['templates'] is None):
         return None
