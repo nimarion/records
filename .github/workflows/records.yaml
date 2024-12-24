@@ -18,10 +18,7 @@ jobs:
         run: pip install -r requirements.txt
       - name: Run
         run: |
-          bash downloader/worldrecords-senior.sh
-          bash downloader/arearecords-senior.sh
           bash downloader/nationalrecords-senior.sh
-          bash downloader/worldrecords-u20.sh
           git config user.name Github Action
           git config user.email actions@github.com
           git add records/*
