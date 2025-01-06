@@ -1,31 +1,44 @@
 Code;Type;Discipline;Class;Result;Wind;Venue;Venue Country;Environment;Date;Firstname;Lastname;Nation;YOB;Sex
-WL;;MEI;M;4:26.60;;Atletická hala;CZE;Indoor;2025-01-04;Maximilian;Matolín;CZE;2003;Male
-WL;;WEI;M;7.68;;KMSHVSM Arena;UKR;Indoor;2025-01-04;Danylo;Dubyna;UKR;2004;Male
-WL;;200;W;23.62;-1.2;Jamaica College Ashenheim Stadium;JAM;Outdoor;2025-01-03;Shanoya;Mikalia Douglas;JAM;2007;Female
-WL;;800;W;2:09.57;;Helmut-Körnig-Halle;GER;Indoor;2025-01-04;Jetske;Van Kampen;NED;1998;Female
-WL;;HOC;W;1.78;;Helmut-Körnig-Halle;GER;Indoor;2025-01-04;Joana;Herrmann;GER;2005;Female
-WL;;60M;W;7.39;;KMSHVSM Arena;UKR;Indoor;2025-01-04;Uliana;Stepaniuk;UKR;2007;Female
-WL;;STA;W;4.45;;Lantos Mihály Sportközpont ugrócsarnok;HUN;Indoor;2025-01-04;Hanga;Klekner;HUN;1999;Female
-WL;;HOC;M;2.05;;Jāņa Daliņa Manēža;LAT;Indoor;2025-01-03;Daniels;Ģiedris;LAT;2008;Male
-WL;;1K5;M;3:53.48;;KMSHVSM Arena;UKR;Indoor;2025-01-04;Vasyl;Voitiuk;UKR;2003;Male
-WL;;KUG;W;16.25;;KMSHVSM Arena;UKR;Indoor;2025-01-04;Olha;Golodna;UKR;1991;Female
-WL;;600;M;1:18.20;;Atletická hala;CZE;Indoor;2025-01-04;Łukasz;Zaczyk;POL;2007;Male
-WL;;DIS;W;42.55;;Atletický stadion;CZE;Outdoor;2025-01-01;Michaela;Kovandová;CZE;1999;Female
-WL;;DRE;W;10.85;;Atletická hala;CZE;Indoor;2025-01-04;Wiktoria;Zagórska;POL;;Female
-WL;;60H;W;8.16;;KMSHVSM Arena;UKR;Indoor;2025-01-04;Nataliia;Yurchuk;UKR;1996;Female
-WL;;400;M;48.74;;KMSHVSM Arena;UKR;Indoor;2025-01-04;Mykyta;Barabanov;UKR;2001;Male
-WL;;KUG;M;17.15;;KMSHVSM Arena;UKR;Indoor;2025-01-04;Viktor;Samolyuk;UKR;1986;Male
-WL;;1K5;W;4:39.11;;KMSHVSM Arena;UKR;Indoor;2025-01-04;Tetiana;Chornovol;UKR;2003;Female
-WL;;60M;M;6.76;;Helmut-Körnig-Halle;GER;Indoor;2025-01-04;Sulayman;Touray;GAM;2001;Male
-WL;;STA;M;5.6;;Lasnamäe Kergejõustikuhall;EST;Indoor;2025-01-02;Valters;Kreišs;LAT;2003;Male
-WL;;DRE;M;13.71;;Atletická hala;CZE;Indoor;2025-01-04;Matúš;Grieš;SVK;2002;Male
-WL;;600;W;1:31.08;;Jāņa Daliņa Manēža;LAT;Indoor;2025-01-03;Viola;Hambidge;EST;2006;Female
-WL;;400;W;57.25;;KMSHVSM Arena;UKR;Indoor;2025-01-04;Alina;Korsunska;UKR;2004;Female
-WL;;60H;M;8.06;;KMSHVSM Arena;UKR;Indoor;2025-01-04;Dmytro;Bahinskyy;UKR;2003;Male
-WL;;200;M;20.78;1.4;Jamaica College Ashenheim Stadium;JAM;Outdoor;2025-01-03;Adrian;Kerr;JAM;2003;Male
-WL;;4×2;W;1:41.78;;Helmut-Körnig-Halle;GER;Indoor;2025-01-04;StG;Olpe / Lennestadt;GER;;Female
-WL;;MEI;W;5:05.27;;Atletická hala;CZE;Indoor;2025-01-04;Zuzanna;Jaroń;POL;2008;Female
-WL;;300;M;33.35;;Atletická hala;CZE;Indoor;2025-01-04;Tomáš;Němejc;CZE;2000;Male
-WL;;300;W;38.47;;Atletická hala;CZE;Indoor;2025-01-04;Johanka;Šafářová;CZE;;Female
 WL;;WEI;W;6.17;;KMSHVSM Arena;UKR;Indoor;2025-01-04;Svitlana;Boichuk;UKR;2004;Female
-WL;;800;M;1:54.25;;Helmut-Körnig-Halle;GER;Indoor;2025-01-04;André;Rohling;GER;;Male
+WL;;600;M;1:18.20;;Atletická hala;CZE;Indoor;2025-01-04;Łukasz;Zaczyk;POL;2007;Male
+WL;;STA;M;5.6;;Lasnamäe Kergejõustikuhall;EST;Indoor;2025-01-02;Valters;Kreišs;LAT;2003;Male
+WL;;5G;M;22:52.53;;Halle Michel d'Ornano;FRA;Indoor;2025-01-04;Nicolas;Picard;FRA;1980;Male
+WL;;100;W;11.39;0.7;Jamaica College Ashenheim Stadium;JAM;Outdoor;2025-01-04;Sabrina;Dockery;JAM;2006;Female
+WL;;3G;W;13:22.85;;Stadium Bordeaux Lac;FRA;Indoor;2025-01-04;Liv;Masson;FRA;2003;Female
+WL;;MEI;M;4:26.60;;Atletická hala;CZE;Indoor;2025-01-04;Maximilian;Matolín;CZE;2003;Male
+WL;;HOC;W;1.91;;Palaindoor;ITA;Indoor;2025-01-04;Idea;Pieroni;ITA;2002;Female
+WL;;WEI;M;7.68;;KMSHVSM Arena;UKR;Indoor;2025-01-04;Danylo;Dubyna;UKR;2004;Male
+WL;;100;M;10.43;0.8;Jamaica College Ashenheim Stadium;JAM;Outdoor;2025-01-04;Jamal;Stephenson;JAM;;Male
+WL;;10H;W;13.58;-0.2;Barden Ridge Athletics Track;AUS;Outdoor;2025-01-04;Emily;Britton;AUS;;Female
+WL;;800;W;2:07.00;;Topsporthal Vlaanderen;BEL;Indoor;2025-01-04;Laure;Bilo;BEL;2003;Female
+WL;;3K0;M;8:28.33;;KMSHVSM Arena;UKR;Indoor;2025-01-05;Oleksandr;Honskyy;UKR;2001;Male
+WL;;1K5;W;4:39.11;;KMSHVSM Arena;UKR;Indoor;2025-01-04;Tetiana;Chornovol;UKR;2003;Female
+WL;;2K0;W;6:41.84;;Jekabpils Sporta Skola;LAT;Indoor;2025-01-05;Elīna;Gumarova;LAT;2000;Female
+WL;;60M;W;7.19;;Coque Sport Center;LUX;Indoor;2025-01-05;Patrizia;Van Der Weken;LUX;1999;Female
+WL;;MEI;W;5:05.27;;Atletická hala;CZE;Indoor;2025-01-04;Zuzanna;Jaroń;POL;2008;Female
+WL;;DRE;M;16.02;1.9;Barden Ridge Athletics Track;AUS;Outdoor;2025-01-04;Connor;Murphy;AUS;2001;Male
+WL;;KUG;M;18.3;;Topsporthal Vlaanderen;BEL;Indoor;2025-01-04;Andreas;De Lathauwer;BEL;2003;Male
+WL;;KUG;W;16.25;;KMSHVSM Arena;UKR;Indoor;2025-01-04;Olha;Golodna;UKR;1991;Female
+WL;;40H;W;58.78;;Jamaica College Ashenheim Stadium;JAM;Outdoor;2025-01-04;Aaliyah;Mullings;JAM;2006;Female
+WL;;DIS;W;45.93;;Jamaica College Ashenheim Stadium;JAM;Outdoor;2025-01-03;Natassia;Burrell;JAM;;Female
+WL;;300;W;38.47;;Atletická hala;CZE;Indoor;2025-01-04;Johanka;Šafářová;CZE;;Female
+WL;;600;W;1:31.08;;Jāņa Daliņa Manēža;LAT;Indoor;2025-01-03;Viola;Hambidge;EST;2006;Female
+WL;;3K0;W;9:44.51;;KMSHVSM Arena;UKR;Indoor;2025-01-05;Viktoriia;Shkurko;UKR;1997;Female
+WL;;200;W;23.62;-1.2;Jamaica College Ashenheim Stadium;JAM;Outdoor;2025-01-03;Shanoya;Mikalia Douglas;JAM;2007;Female
+WL;;400;W;53.6;;Jamaica College Ashenheim Stadium;JAM;Outdoor;2025-01-04;Kelly;Ann Carr;JAM;2006;Female
+WL;;SPE;M;57.38;;Jamaica College Ashenheim Stadium;JAM;Outdoor;2025-01-03;Alexander;Betancourt;CUB;;Male
+WL;;4×2;W;1:41.78;;Helmut-Körnig-Halle;GER;Indoor;2025-01-04;StG;Olpe / Lennestadt;GER;;Female
+WL;;800;M;1:51.97;;KMSHVSM Arena;UKR;Indoor;2025-01-05;Vasyl;Voitiuk;UKR;2003;Male
+WL;;DRE;W;13.4;;KMSHVSM Arena;UKR;Indoor;2025-01-05;Anna;Krasutska;UKR;1995;Female
+WL;;1K5;M;3:42.96;;Coque Sport Center;LUX;Indoor;2025-01-05;Elliot;Vermeulen;BEL;;Male
+WL;;SPE;W;39.7;;Jamaica College Ashenheim Stadium;JAM;Outdoor;2025-01-03;Natassia;Burrell;JAM;;Female
+WL;;40H;M;51.88;;Jamaica College Ashenheim Stadium;JAM;Outdoor;2025-01-04;Robert;Miller;JAM;;Male
+WL;;STA;W;4.45;;Lantos Mihály Sportközpont ugrócsarnok;HUN;Indoor;2025-01-04;Hanga;Klekner;HUN;1999;Female
+WL;;60H;M;8.06;;KMSHVSM Arena;UKR;Indoor;2025-01-04;Dmytro;Bahinskyy;UKR;2003;Male
+WL;;400;M;46.14;;Salle Jean Pellez;FRA;Indoor;2025-01-04;Jimy;Soudril;FRA;1998;Male
+WL;;DIS;M;46.82;;Jamaica College Ashenheim Stadium;JAM;Outdoor;2025-01-03;Tio;Josh Mowatt;JAM;2003;Male
+WL;;60M;M;6.66;;Coque Sport Center;LUX;Indoor;2025-01-05;Marvin;Schulte;GER;1999;Male
+WL;;60H;W;8.16;;KMSHVSM Arena;UKR;Indoor;2025-01-04;Nataliia;Yurchuk;UKR;1996;Female
+WL;;300;M;33.35;;Atletická hala;CZE;Indoor;2025-01-04;Tomáš;Němejc;CZE;2000;Male
+WL;;HOC;M;2.2;;Palaindoor;ITA;Indoor;2025-01-04;Manuel;Lando;ITA;2000;Male
+WL;;200;M;20.78;1.4;Jamaica College Ashenheim Stadium;JAM;Outdoor;2025-01-03;Adrian;Kerr;JAM;2003;Male

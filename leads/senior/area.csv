@@ -1,41 +1,95 @@
 Code;Type;Discipline;Class;Result;Wind;Venue;Venue Country;Environment;Date;Firstname;Lastname;Nation;YOB;Sex
-AL;4;60M;M;6.76;;Helmut-Körnig-Halle;GER;Indoor;2025-01-04;Sulayman;Touray;GAM;2001;Male
-AL;4;200;M;22.27;;Helmut-Körnig-Halle;GER;Indoor;2025-01-04;Sulayman;Touray;GAM;2001;Male
 AL;5;STA;M;4.65;;Lasnamäe Kergejõustikuhall;EST;Indoor;2025-01-02;Yuma;Maruyama;JPN;1998;Male
 AL;5;60H;M;8.52;;Helmut-Körnig-Halle;GER;Indoor;2025-01-04;Emad;Najafzadeh;IRI;;Male
-AL;2;200;W;23.62;-1.2;Jamaica College Ashenheim Stadium;JAM;Outdoor;2025-01-03;Shanoya;Mikalia Douglas;JAM;2007;Female
-AL;2;1K5;W;4:51.57;;Helmut-Körnig-Halle;GER;Indoor;2025-01-04;Abril;Sanchez;USA;;Female
-AL;2;60M;M;7.19;;Helmut-Körnig-Halle;GER;Indoor;2025-01-04;Tylin;Mcadams;USA;;Male
-AL;2;200;M;20.78;1.4;Jamaica College Ashenheim Stadium;JAM;Outdoor;2025-01-03;Adrian;Kerr;JAM;2003;Male
+AL;5;60M;M;7.22;;Topsporthal Vlaanderen;BEL;Indoor;2025-01-04;Zaaquib;Yunus;IND;;Male
+AL;5;200;M;21.4;1.6;Barden Ridge Athletics Track;AUS;Outdoor;2025-01-04;Joshua;Atkinson;THA;2003;Male
 AL;6;STA;M;4.5;;Helmut-Körnig-Halle;GER;Indoor;2025-01-04;Liam;Harris;AUS;1997;Male
-AL;1;MEI;M;4:26.60;;Atletická hala;CZE;Indoor;2025-01-04;Maximilian;Matolín;CZE;2003;Male
-AL;1;WEI;M;7.68;;KMSHVSM Arena;UKR;Indoor;2025-01-04;Danylo;Dubyna;UKR;2004;Male
-AL;1;200;W;24.65;;Helmut-Körnig-Halle;GER;Indoor;2025-01-04;Fenna;Achterberg;NED;2004;Female
-AL;1;800;W;2:09.57;;Helmut-Körnig-Halle;GER;Indoor;2025-01-04;Jetske;Van Kampen;NED;1998;Female
-AL;1;HOC;W;1.78;;Helmut-Körnig-Halle;GER;Indoor;2025-01-04;Joana;Herrmann;GER;2005;Female
-AL;1;60M;W;7.39;;KMSHVSM Arena;UKR;Indoor;2025-01-04;Uliana;Stepaniuk;UKR;2007;Female
-AL;1;STA;W;4.45;;Lantos Mihály Sportközpont ugrócsarnok;HUN;Indoor;2025-01-04;Hanga;Klekner;HUN;1999;Female
-AL;1;STA;W;4.45;;Lantos Mihály Sportközpont ugrócsarnok;HUN;Indoor;2025-01-04;Hanga;Klekner;HUN;1999;Female
-AL;1;HOC;M;2.05;;Jāņa Daliņa Manēža;LAT;Indoor;2025-01-03;Daniels;Ģiedris;LAT;2008;Male
-AL;1;1K5;M;3:53.48;;KMSHVSM Arena;UKR;Indoor;2025-01-04;Vasyl;Voitiuk;UKR;2003;Male
-AL;1;KUG;W;16.25;;KMSHVSM Arena;UKR;Indoor;2025-01-04;Olha;Golodna;UKR;1991;Female
-AL;1;600;M;1:18.20;;Atletická hala;CZE;Indoor;2025-01-04;Łukasz;Zaczyk;POL;2007;Male
-AL;1;DIS;W;42.55;;Atletický stadion;CZE;Outdoor;2025-01-01;Michaela;Kovandová;CZE;1999;Female
-AL;1;DRE;W;10.85;;Atletická hala;CZE;Indoor;2025-01-04;Wiktoria;Zagórska;POL;;Female
-AL;1;60H;W;8.16;;KMSHVSM Arena;UKR;Indoor;2025-01-04;Nataliia;Yurchuk;UKR;1996;Female
-AL;1;400;M;48.74;;KMSHVSM Arena;UKR;Indoor;2025-01-04;Mykyta;Barabanov;UKR;2001;Male
-AL;1;KUG;M;17.15;;KMSHVSM Arena;UKR;Indoor;2025-01-04;Viktor;Samolyuk;UKR;1986;Male
-AL;1;1K5;W;4:39.11;;KMSHVSM Arena;UKR;Indoor;2025-01-04;Tetiana;Chornovol;UKR;2003;Female
-AL;1;60M;M;6.83;;Atletická hala;CZE;Indoor;2025-01-04;Tomáš;Němejc;CZE;2000;Male
-AL;1;STA;M;5.6;;Lasnamäe Kergejõustikuhall;EST;Indoor;2025-01-02;Valters;Kreišs;LAT;2003;Male
-AL;1;DRE;M;13.71;;Atletická hala;CZE;Indoor;2025-01-04;Matúš;Grieš;SVK;2002;Male
-AL;1;600;W;1:31.08;;Jāņa Daliņa Manēža;LAT;Indoor;2025-01-03;Viola;Hambidge;EST;2006;Female
-AL;1;400;W;57.25;;KMSHVSM Arena;UKR;Indoor;2025-01-04;Alina;Korsunska;UKR;2004;Female
-AL;1;60H;M;8.06;;KMSHVSM Arena;UKR;Indoor;2025-01-04;Dmytro;Bahinskyy;UKR;2003;Male
-AL;1;200;M;21.71;;Helmut-Körnig-Halle;GER;Indoor;2025-01-04;Jakob;Bruns;GER;2001;Male
-AL;1;4×2;W;1:41.78;;Helmut-Körnig-Halle;GER;Indoor;2025-01-04;StG;Olpe / Lennestadt;GER;;Female
-AL;1;MEI;W;5:05.27;;Atletická hala;CZE;Indoor;2025-01-04;Zuzanna;Jaroń;POL;2008;Female
-AL;1;300;M;33.35;;Atletická hala;CZE;Indoor;2025-01-04;Tomáš;Němejc;CZE;2000;Male
-AL;1;300;W;38.47;;Atletická hala;CZE;Indoor;2025-01-04;Johanka;Šafářová;CZE;;Female
+AL;6;100;W;12.24;1.8;Barden Ridge Athletics Track;AUS;Outdoor;2025-01-04;Mia;Economou;AUS;2001;Female
+AL;6;HOC;W;1.65;;Barden Ridge Athletics Track;AUS;Outdoor;2025-01-04;Charlie;Haddad;AUS;2009;Female
+AL;6;100;M;10.78;1.6;Barden Ridge Athletics Track;AUS;Outdoor;2025-01-04;Oliver;White;AUS;;Male
+AL;6;10H;W;13.58;-0.2;Barden Ridge Athletics Track;AUS;Outdoor;2025-01-04;Emily;Britton;AUS;;Female
+AL;6;DRE;M;16.02;1.9;Barden Ridge Athletics Track;AUS;Outdoor;2025-01-04;Connor;Murphy;AUS;2001;Male
+AL;6;KUG;W;12.48;;Barden Ridge Athletics Track;AUS;Outdoor;2025-01-04;Anna;Kely;AUS;2004;Female
+AL;6;200;W;25.95;1.0;Barden Ridge Athletics Track;AUS;Outdoor;2025-01-04;Monique;Perry;AUS;;Female
+AL;6;DRE;W;12.74;1.6;Barden Ridge Athletics Track;AUS;Outdoor;2025-01-04;Raphaila;Idris;AUS;2006;Female
+AL;6;HOC;M;2.06;;Barden Ridge Athletics Track;AUS;Outdoor;2025-01-04;Angus;Clark;AUS;2001;Male
+AL;6;HOC;M;2.06;;Barden Ridge Athletics Track;AUS;Outdoor;2025-01-04;Cadel;Holmes;AUS;;Male
+AL;6;200;M;21.49;1.6;Barden Ridge Athletics Track;AUS;Outdoor;2025-01-04;Lachlan;Ash;AUS;2001;Male
+AL;6;200;M;21.49;1.6;Barden Ridge Athletics Track;AUS;Outdoor;2025-01-04;Jacob;Vogel;AUS;;Male
 AL;1;WEI;W;6.17;;KMSHVSM Arena;UKR;Indoor;2025-01-04;Svitlana;Boichuk;UKR;2004;Female
-AL;1;800;M;1:54.25;;Helmut-Körnig-Halle;GER;Indoor;2025-01-04;André;Rohling;GER;;Male
+AL;1;600;M;1:18.20;;Atletická hala;CZE;Indoor;2025-01-04;Łukasz;Zaczyk;POL;2007;Male
+AL;1;STA;M;5.6;;Lasnamäe Kergejõustikuhall;EST;Indoor;2025-01-02;Valters;Kreišs;LAT;2003;Male
+AL;1;5G;M;22:52.53;;Halle Michel d'Ornano;FRA;Indoor;2025-01-04;Nicolas;Picard;FRA;1980;Male
+AL;1;3G;W;13:22.85;;Stadium Bordeaux Lac;FRA;Indoor;2025-01-04;Liv;Masson;FRA;2003;Female
+AL;1;MEI;M;4:26.60;;Atletická hala;CZE;Indoor;2025-01-04;Maximilian;Matolín;CZE;2003;Male
+AL;1;HOC;W;1.91;;Palaindoor;ITA;Indoor;2025-01-04;Idea;Pieroni;ITA;2002;Female
+AL;1;WEI;M;7.68;;KMSHVSM Arena;UKR;Indoor;2025-01-04;Danylo;Dubyna;UKR;2004;Male
+AL;1;800;W;2:07.00;;Topsporthal Vlaanderen;BEL;Indoor;2025-01-04;Laure;Bilo;BEL;2003;Female
+AL;1;3K0;M;8:28.33;;KMSHVSM Arena;UKR;Indoor;2025-01-05;Oleksandr;Honskyy;UKR;2001;Male
+AL;1;1K5;W;4:39.11;;KMSHVSM Arena;UKR;Indoor;2025-01-04;Tetiana;Chornovol;UKR;2003;Female
+AL;1;2K0;W;6:41.84;;Jekabpils Sporta Skola;LAT;Indoor;2025-01-05;Elīna;Gumarova;LAT;2000;Female
+AL;1;60M;W;7.19;;Coque Sport Center;LUX;Indoor;2025-01-05;Patrizia;Van Der Weken;LUX;1999;Female
+AL;1;MEI;W;5:05.27;;Atletická hala;CZE;Indoor;2025-01-04;Zuzanna;Jaroń;POL;2008;Female
+AL;1;DRE;M;14.86;;KMSHVSM Arena;UKR;Indoor;2025-01-05;Mykhailo;Vovchenko;UKR;2006;Male
+AL;1;KUG;M;18.3;;Topsporthal Vlaanderen;BEL;Indoor;2025-01-04;Andreas;De Lathauwer;BEL;2003;Male
+AL;1;KUG;W;16.25;;KMSHVSM Arena;UKR;Indoor;2025-01-04;Olha;Golodna;UKR;1991;Female
+AL;1;DIS;W;42.55;;Atletický stadion;CZE;Outdoor;2025-01-01;Michaela;Kovandová;CZE;1999;Female
+AL;1;300;W;38.47;;Atletická hala;CZE;Indoor;2025-01-04;Johanka;Šafářová;CZE;;Female
+AL;1;600;W;1:31.08;;Jāņa Daliņa Manēža;LAT;Indoor;2025-01-03;Viola;Hambidge;EST;2006;Female
+AL;1;3K0;W;9:44.51;;KMSHVSM Arena;UKR;Indoor;2025-01-05;Viktoriia;Shkurko;UKR;1997;Female
+AL;1;200;W;23.84;;Salle Jean Pellez;FRA;Indoor;2025-01-04;Elise;Trynkler;FRA;1992;Female
+AL;1;400;W;55.12;;Salle Jean Pellez;FRA;Indoor;2025-01-04;Victoria;Kwarteng;FRA;2007;Female
+AL;1;SPE;M;56.22;;RG3 e Centro Desportivo da Madeira;POR;Outdoor;2025-01-04;Roque;Tavares;POR;1990;Male
+AL;1;4×2;W;1:41.78;;Helmut-Körnig-Halle;GER;Indoor;2025-01-04;StG;Olpe / Lennestadt;GER;;Female
+AL;1;800;M;1:51.97;;KMSHVSM Arena;UKR;Indoor;2025-01-05;Vasyl;Voitiuk;UKR;2003;Male
+AL;1;DRE;W;13.4;;KMSHVSM Arena;UKR;Indoor;2025-01-05;Anna;Krasutska;UKR;1995;Female
+AL;1;1K5;M;3:42.96;;Coque Sport Center;LUX;Indoor;2025-01-05;Elliot;Vermeulen;BEL;;Male
+AL;1;STA;W;4.45;;Lantos Mihály Sportközpont ugrócsarnok;HUN;Indoor;2025-01-04;Hanga;Klekner;HUN;1999;Female
+AL;1;STA;W;4.45;;Lantos Mihály Sportközpont ugrócsarnok;HUN;Indoor;2025-01-04;Hanga;Klekner;HUN;1999;Female
+AL;1;60H;M;8.06;;KMSHVSM Arena;UKR;Indoor;2025-01-04;Dmytro;Bahinskyy;UKR;2003;Male
+AL;1;400;M;46.14;;Salle Jean Pellez;FRA;Indoor;2025-01-04;Jimy;Soudril;FRA;1998;Male
+AL;1;60M;M;6.66;;Coque Sport Center;LUX;Indoor;2025-01-05;Marvin;Schulte;GER;1999;Male
+AL;1;60H;W;8.16;;KMSHVSM Arena;UKR;Indoor;2025-01-04;Nataliia;Yurchuk;UKR;1996;Female
+AL;1;300;M;33.35;;Atletická hala;CZE;Indoor;2025-01-04;Tomáš;Němejc;CZE;2000;Male
+AL;1;HOC;M;2.2;;Palaindoor;ITA;Indoor;2025-01-04;Manuel;Lando;ITA;2000;Male
+AL;1;200;M;21.17;;Salle Jean Pellez;FRA;Indoor;2025-01-04;Jordan;Jalce;FRA;2003;Male
+AL;2;WEI;W;5.75;0.9;Jamaica College Ashenheim Stadium;JAM;Outdoor;2025-01-04;Deijanae;Bruce;JAM;2005;Female
+AL;2;STA;M;4.55;;Universiade Pavilion;CAN;Indoor;2025-01-03;Tekoa;Kornelsen;CAN;;Male
+AL;2;100;W;11.39;0.7;Jamaica College Ashenheim Stadium;JAM;Outdoor;2025-01-04;Sabrina;Dockery;JAM;2006;Female
+AL;2;HOC;W;1.75;;Jamaica College Ashenheim Stadium;JAM;Outdoor;2025-01-04;Daneille;Noble;JAM;2007;Female
+AL;2;HOC;W;1.75;;Jamaica College Ashenheim Stadium;JAM;Outdoor;2025-01-04;Shanniqua;Williams;JAM;2007;Female
+AL;2;WEI;M;7.12;0.6;Jamaica College Ashenheim Stadium;JAM;Outdoor;2025-01-04;Edward;Sterling;JAM;2006;Male
+AL;2;100;M;10.43;0.8;Jamaica College Ashenheim Stadium;JAM;Outdoor;2025-01-04;Jamal;Stephenson;JAM;;Male
+AL;2;10H;W;14.57;-0.5;Jamaica College Ashenheim Stadium;JAM;Outdoor;2025-01-04;Santae;Wilson;JAM;2005;Female
+AL;2;800;W;2:16.09;;Jamaica College Ashenheim Stadium;JAM;Outdoor;2025-01-04;Monique;Stewart;JAM;;Female
+AL;2;1K5;W;4:51.57;;Helmut-Körnig-Halle;GER;Indoor;2025-01-04;Abril;Sanchez;USA;;Female
+AL;2;60M;W;7.73;;Universiade Pavilion;CAN;Indoor;2025-01-04;Riona;Morrison;CAN;;Female
+AL;2;DRE;M;15.56;-0.1;Jamaica College Ashenheim Stadium;JAM;Outdoor;2025-01-03;Chavez;Penn;JAM;2006;Male
+AL;2;KUG;M;17.89;;Jamaica College Ashenheim Stadium;JAM;Outdoor;2025-01-04;Shaiquan;Selbourne Dunn;JAM;2005;Male
+AL;2;KUG;W;14.62;;Jamaica College Ashenheim Stadium;JAM;Outdoor;2025-01-04;Able;Deborah Mills;JAM;;Female
+AL;2;40H;W;58.78;;Jamaica College Ashenheim Stadium;JAM;Outdoor;2025-01-04;Aaliyah;Mullings;JAM;2006;Female
+AL;2;DIS;W;45.93;;Jamaica College Ashenheim Stadium;JAM;Outdoor;2025-01-03;Natassia;Burrell;JAM;;Female
+AL;2;200;W;23.62;-1.2;Jamaica College Ashenheim Stadium;JAM;Outdoor;2025-01-03;Shanoya;Mikalia Douglas;JAM;2007;Female
+AL;2;400;W;53.6;;Jamaica College Ashenheim Stadium;JAM;Outdoor;2025-01-04;Kelly;Ann Carr;JAM;2006;Female
+AL;2;SPE;M;57.38;;Jamaica College Ashenheim Stadium;JAM;Outdoor;2025-01-03;Alexander;Betancourt;CUB;;Male
+AL;2;800;M;1:55.93;;Jamaica College Ashenheim Stadium;JAM;Outdoor;2025-01-04;Alejandro;Palmer;JAM;;Male
+AL;2;DRE;W;12.2;-0.5;Jamaica College Ashenheim Stadium;JAM;Outdoor;2025-01-03;Sabrina;Atkinson;JAM;2007;Female
+AL;2;SPE;W;39.7;;Jamaica College Ashenheim Stadium;JAM;Outdoor;2025-01-03;Natassia;Burrell;JAM;;Female
+AL;2;40H;M;51.88;;Jamaica College Ashenheim Stadium;JAM;Outdoor;2025-01-04;Robert;Miller;JAM;;Male
+AL;2;STA;W;4.15;;Universiade Pavilion;CAN;Indoor;2025-01-04;Rachel;Grenke;CAN;;Female
+AL;2;60H;M;8.7;;Universiade Pavilion;CAN;Indoor;2025-01-04;Derek;Parker;CAN;;Male
+AL;2;400;M;47.99;;Jamaica College Ashenheim Stadium;JAM;Outdoor;2025-01-04;Romario;Orlando Hines;JAM;2006;Male
+AL;2;DIS;M;46.82;;Jamaica College Ashenheim Stadium;JAM;Outdoor;2025-01-03;Tio;Josh Mowatt;JAM;2003;Male
+AL;2;60M;M;7.02;;Universiade Pavilion;CAN;Indoor;2025-01-04;Malachi;Muir;CAN;2004;Male
+AL;2;60H;W;9.1;;Universiade Pavilion;CAN;Indoor;2025-01-04;Amaka;Ezioba;CAN;;Female
+AL;2;HOC;M;2.0;;Jamaica College Ashenheim Stadium;JAM;Outdoor;2025-01-04;Chavez;Penn;JAM;2006;Male
+AL;2;200;M;20.78;1.4;Jamaica College Ashenheim Stadium;JAM;Outdoor;2025-01-03;Adrian;Kerr;JAM;2003;Male
+AL;4;WEI;M;6.34;;Salle Jean Pellez;FRA;Indoor;2025-01-04;Grace;Tshimuena;ANG;;Male
+AL;4;60M;W;7.51;;Halle Michel d'Ornano;FRA;Indoor;2025-01-04;Claudine;Njarasoa;MAD;1999;Female
+AL;4;DRE;M;14.37;;Halle Michel d'Ornano;FRA;Indoor;2025-01-04;Innocent;Bologo;BUR;1989;Male
+AL;4;800;M;1:53.46;;Complexe Sportif de Blocry;BEL;Indoor;2025-01-04;Abdo-Razak;Hassan;DJI;2003;Male
+AL;4;DRE;W;10.99;;Centro Desportivo Nacional do Jamor;POR;Indoor;2025-01-04;Aminata;Baldé;GBS;;Female
+AL;4;60H;M;8.59;;Coque Sport Center;LUX;Indoor;2025-01-05;Moussa;Diakite;MLI;2001;Male
+AL;4;60M;M;6.69;;Salle Jean Pellez;FRA;Indoor;2025-01-04;Mamadou;Fall Sarr;SEN;1998;Male
+AL;4;60H;W;9.44;;Stadium Bordeaux Lac;FRA;Indoor;2025-01-05;Louisiane;Hattenberger;MRI;2005;Female
+AL;4;200;M;21.76;;Salle Jean Pellez;FRA;Indoor;2025-01-04;Herve;Toumandji;CAF;1994;Male
