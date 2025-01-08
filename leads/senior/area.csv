@@ -1,6 +1,6 @@
 Code;Type;Discipline;Class;Result;Wind;Venue;Venue Country;Environment;Date;Firstname;Lastname;Nation;YOB;Sex
 AL;5;STA;M;4.65;;Lasnamäe Kergejõustikuhall;EST;Indoor;2025-01-02;Yuma;Maruyama;JPN;1998;Male
-AL;5;60H;M;8.52;;Helmut-Körnig-Halle;GER;Indoor;2025-01-04;Emad;Najafzadeh;IRI;;Male
+AL;5;60H;M;8.15;;Lasnamäe Kergejõustikuhall;EST;Indoor;2025-01-02;Yuma;Maruyama;JPN;1998;Male
 AL;5;60M;M;7.22;;Topsporthal Vlaanderen;BEL;Indoor;2025-01-04;Zaaquib;Yunus;IND;;Male
 AL;5;200;M;21.4;1.6;Barden Ridge Athletics Track;AUS;Outdoor;2025-01-04;Joshua;Atkinson;THA;2003;Male
 AL;6;STA;M;4.5;;Helmut-Körnig-Halle;GER;Indoor;2025-01-04;Liam;Harris;AUS;1997;Male
@@ -17,25 +17,25 @@ AL;6;HOC;M;2.06;;Barden Ridge Athletics Track;AUS;Outdoor;2025-01-04;Cadel;Holme
 AL;6;200;M;21.49;1.6;Barden Ridge Athletics Track;AUS;Outdoor;2025-01-04;Lachlan;Ash;AUS;2001;Male
 AL;6;200;M;21.49;1.6;Barden Ridge Athletics Track;AUS;Outdoor;2025-01-04;Jacob;Vogel;AUS;;Male
 AL;1;WEI;W;6.17;;KMSHVSM Arena;UKR;Indoor;2025-01-04;Svitlana;Boichuk;UKR;2004;Female
-AL;1;600;M;1:18.20;;Atletická hala;CZE;Indoor;2025-01-04;Łukasz;Zaczyk;POL;2007;Male
+AL;1;600;M;1:17.57;;SOK Luch;RUS;Indoor;2025-01-07;Dmitriy;Pasechnik;RUS;1999;Male
 AL;1;STA;M;5.6;;Lasnamäe Kergejõustikuhall;EST;Indoor;2025-01-02;Valters;Kreišs;LAT;2003;Male
 AL;1;5G;M;22:52.53;;Halle Michel d'Ornano;FRA;Indoor;2025-01-04;Nicolas;Picard;FRA;1980;Male
 AL;1;3G;W;13:22.85;;Stadium Bordeaux Lac;FRA;Indoor;2025-01-04;Liv;Masson;FRA;2003;Female
-AL;1;1K0;M;2:32.34;;Arena;POL;Indoor;2025-01-05;Michał;Rybakowski;POL;2000;Male
+AL;1;1K0;M;2:21.90;;SOK Luch;RUS;Indoor;2025-01-07;Maksim;Shelikh;RUS;2005;Male
 AL;1;MEI;M;4:26.60;;Atletická hala;CZE;Indoor;2025-01-04;Maximilian;Matolín;CZE;2003;Male
 AL;1;HOC;W;1.91;;Palaindoor;ITA;Indoor;2025-01-04;Idea;Pieroni;ITA;2002;Female
 AL;1;WEI;M;7.68;;KMSHVSM Arena;UKR;Indoor;2025-01-04;Danylo;Dubyna;UKR;2004;Male
 AL;1;800;W;2:07.00;;Topsporthal Vlaanderen;BEL;Indoor;2025-01-04;Laure;Bilo;BEL;2003;Female
-AL;1;3K0;M;8:28.33;;KMSHVSM Arena;UKR;Indoor;2025-01-05;Oleksandr;Honskyy;UKR;2001;Male
+AL;1;3K0;M;7:54.49;;SOK Luch;RUS;Indoor;2025-01-07;Vladimir;Nikitin;RUS;1992;Male
 AL;1;1K5;W;4:36.48;;Stade couvert Jesse Owens;FRA;Indoor;2025-01-05;Axelle;Jacques;FRA;;Female
-AL;1;2K0;W;6:41.84;;Jekabpils Sporta Skola;LAT;Indoor;2025-01-05;Elīna;Gumarova;LAT;2000;Female
+AL;1;2K0;W;5:55.63;;SOK Luch;RUS;Indoor;2025-01-07;Anastasiya;Krasilnikova;RUS;2003;Female
 AL;1;60M;W;7.19;;Coque Sport Center;LUX;Indoor;2025-01-05;Patrizia;Van Der Weken;LUX;1999;Female
 AL;1;MEI;W;5:05.27;;Atletická hala;CZE;Indoor;2025-01-04;Zuzanna;Jaroń;POL;2008;Female
 AL;1;DRE;M;15.51;;Halle Stéphane Diagana;FRA;Indoor;2025-01-05;Antonin;Pauvarel;FRA;2000;Male
 AL;1;KUG;M;18.3;;Topsporthal Vlaanderen;BEL;Indoor;2025-01-04;Andreas;De Lathauwer;BEL;2003;Male
 AL;1;KUG;W;16.25;;KMSHVSM Arena;UKR;Indoor;2025-01-04;Olha;Golodna;UKR;1991;Female
 AL;1;DIS;W;42.55;;Atletický stadion;CZE;Outdoor;2025-01-01;Michaela;Kovandová;CZE;1999;Female
-AL;1;300;W;38.47;;Atletická hala;CZE;Indoor;2025-01-04;Johanka;Šafářová;CZE;;Female
+AL;1;300;W;37.0;;SOK Luch;RUS;Indoor;2025-01-07;Polina;Tkalich;RUS;2000;Female
 AL;1;600;W;1:31.08;;Jāņa Daliņa Manēža;LAT;Indoor;2025-01-03;Viola;Hambidge;EST;2006;Female
 AL;1;3K0;W;9:44.51;;KMSHVSM Arena;UKR;Indoor;2025-01-05;Viktoriia;Shkurko;UKR;1997;Female
 AL;1;200;W;23.83;;Lee Valley Athletics Centre;GBR;Indoor;2025-01-05;Brooke;Ironside;GBR;2003;Female
@@ -45,17 +45,17 @@ AL;1;4×2;W;1:41.78;;Helmut-Körnig-Halle;GER;Indoor;2025-01-04;StG;Olpe / Lenne
 AL;1;800;M;1:51.17;;Halle Stéphane Diagana;FRA;Indoor;2025-01-05;Gildas;Le Hir;FRA;;Male
 AL;1;800;M;1:51.17;;Stade couvert Jesse Owens;FRA;Indoor;2025-01-05;Nathan;Thevenet;FRA;;Male
 AL;1;DRE;W;13.4;;KMSHVSM Arena;UKR;Indoor;2025-01-05;Anna;Krasutska;UKR;1995;Female
-AL;1;1K0;W;2:59.61;;Arena;POL;Indoor;2025-01-05;Monika;Szymanowicz;POL;2000;Female
+AL;1;1K0;W;2:40.28;;SOK Luch;RUS;Indoor;2025-01-07;Mariya;Prokhorets;RUS;1995;Female
 AL;1;1K5;M;3:42.96;;Coque Sport Center;LUX;Indoor;2025-01-05;Elliot;Vermeulen;BEL;;Male
 AL;1;STA;W;4.45;;Lantos Mihály Sportközpont ugrócsarnok;HUN;Indoor;2025-01-04;Hanga;Klekner;HUN;1999;Female
 AL;1;STA;W;4.45;;Lantos Mihály Sportközpont ugrócsarnok;HUN;Indoor;2025-01-04;Hanga;Klekner;HUN;1999;Female
-AL;1;60H;M;7.97;;Salle Joseph Maigrot;FRA;Indoor;2025-01-05;Boubacar;Badji;FRA;2005;Male
+AL;1;60H;M;7.67;;SOK Luch;RUS;Indoor;2025-01-07;Anatoliy;Kiselyov;RUS;2002;Male
 AL;1;400;M;46.14;;Salle Jean Pellez;FRA;Indoor;2025-01-04;Jimy;Soudril;FRA;1998;Male
 AL;1;60M;M;6.6;;Lee Valley Athletics Centre;GBR;Indoor;2025-01-05;John;Otugade;GBR;1995;Male
-AL;1;60H;W;8.1;;Salle Joseph Maigrot;FRA;Indoor;2025-01-05;Aelys;Gente;FRA;2001;Female
-AL;1;300;M;33.35;;Atletická hala;CZE;Indoor;2025-01-04;Tomáš;Němejc;CZE;2000;Male
-AL;1;HOC;M;2.2;;Palaindoor;ITA;Indoor;2025-01-04;Manuel;Lando;ITA;2000;Male
-AL;1;200;M;21.17;;Salle Jean Pellez;FRA;Indoor;2025-01-04;Jordan;Jalce;FRA;2003;Male
+AL;1;60H;W;7.98;;SOK Luch;RUS;Indoor;2025-01-07;Elvira;Hrabarenka;BLR;1997;Female
+AL;1;300;M;33.28;;SOK Luch;RUS;Indoor;2025-01-07;Aleksandr;Nikolayev;RUS;1999;Male
+AL;1;HOC;M;2.25;;SOK Luch;RUS;Indoor;2025-01-07;Danil;Lysenko;RUS;1997;Male
+AL;1;200;M;21.03;;Palaindoor Ancona;ITA;Indoor;2025-01-06;Diego;Aldo Pettorossi;ITA;1997;Male
 AL;2;WEI;W;5.75;0.9;Jamaica College Ashenheim Stadium;JAM;Outdoor;2025-01-04;Deijanae;Bruce;JAM;2005;Female
 AL;2;600;M;1:21.46;;Ocean Breeze Athl. Complex;USA;Indoor;2025-01-05;James;Ciaccio;USA;;Male
 AL;2;STA;M;4.55;;Universiade Pavilion;CAN;Indoor;2025-01-03;Tekoa;Kornelsen;CAN;;Male
