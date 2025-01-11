@@ -223,7 +223,7 @@ NR;NMI;200;W;24.82;1.2;Nampa;NMI;Outdoor;2013-04-26;Yvonne;Bennett;NMI;1990;Fema
 NR;NOR;200;W;22.58;1.8;Malmö;SWE;Outdoor;2024-05-19;Henriette;Jæger;NOR;2003;Female
 NR;NRU;200;W;25.5;1.1;Mata-Utu;FRA;Outdoor;2013-06-09;Lovelite;Detenamo;NRU;1993;Female
 NR;NZL;200;W;22.81;1.8;Christchurch;NZL;Outdoor;2023-02-19;Rosie;Elliott;NZL;1997;Female
-NR;OMA;200;W;24.49;;Muscat;OMA;Outdoor;2024-05-16;Azza;Al Yarubi;OMA;1996;Female
+NR;OMA;200;W;24.49;;Muscat;OMA;Outdoor;2024-05-16;Azza;Sultan Hamyar Al Yaarubi;OMA;2001;Female
 NR;PAK;200;W;23.69;0.7;Kathmandu;NEP;Outdoor;2019-12-04;Najma;Parveen;PAK;1990;Female
 NR;PAN;200;W;23.29;-0.2;Fairfax;USA;Outdoor;2023-05-14;Cristal;Chenoa Cuervo;PAN;2002;Female
 NR;PAR;200;W;24.12;0.8;Asunción;PAR;Outdoor;2024-03-23;Xenia;Noreen Hiebert;PAR;1998;Female
@@ -3701,7 +3701,7 @@ NR;GUY;10H;W;13.27;1.7;Barranquilla;COL;Outdoor;2018-07-30;Jenea;Mccammon;GUY;19
 NR;HAI;10H;W;12.74;1.7;Athína;GRE;Outdoor;2004-08-23;Nadine;Faustin-Parker;HAI;1976;Female
 NR;HKG;10H;W;13.14;0.0;Walnut, Ca;USA;Outdoor;1994-04-17;Chan;Sau-Ying;HKG;1970;Female
 NR;HON;10H;W;13.83;-0.6;Toluca;MEX;Outdoor;2008-07-21;Jeimy;J. Bernárdez;HON;1986;Female
-NR;HUN;10H;W;12.69;-0.1;München;GER;Outdoor;2022-08-21;Luca;Kozák;HUN;1996;Female
+NR;HUN;10H;W;12.69;0.3;München;GER;Outdoor;2022-08-21;Luca;Kozák;HUN;1996;Female
 NR;INA;10H;W;13.16;1.1;Sena;INA;Outdoor;2024-09-12;Dina;Aulia;INA;2003;Female
 NR;IND;10H;W;12.78;1.0;Chengdu;CHN;Outdoor;2023-08-04;Jyothi;Yarraji;IND;1999;Female
 NR;IRI;10H;W;13.64;0.2;Tehran;IRI;Outdoor;2023-08-18;Elnaz;Kompani;IRI;1989;Female
@@ -10778,7 +10778,7 @@ NR;NOR;100;M;9.99;1.0;Lausanne;SUI;Outdoor;2011-06-30;Jaysuma;Saidy Ndure;NOR;19
 NR;NRU;100;M;10.82;0.5;Apia;SAM;Outdoor;2019-07-16;Jonah;Harris;NRU;1999;Male
 NR;NZL;100;M;10.08;-0.3;Eugene;USA;Outdoor;2022-07-15;Edward;Osei-Nketia;NZL;2001;Male
 NR;OMA;100;M;9.97;1.7;Amman;JOR;Outdoor;2018-07-09;Barakat;Al-Harthi;OMA;1988;Male
-NR;PAK;100;M;10.37;0.0;Bangkok;THA;Outdoor;2023-07-13;Shajar;Abbas;PAK;2000;Male
+NR;PAK;100;M;10.34;;Lahore;PAK;Outdoor;2024-10-08;Shajar;Abbas;PAK;2000;Male
 NR;PAN;100;M;10.01;-0.7;Cochabamba;BOL;Outdoor;2018-06-06;Alonso;Edward;PAN;1989;Male
 NR;PAR;100;M;10.19;0.0;Cochabamba;BOL;Outdoor;2024-06-08;Cesar;Almiron;PAR;2001;Male
 NR;PER;100;M;10.28;0.4;Tarija;BOL;Outdoor;2016-04-22;Andy;Martínez;PER;1993;Male
