@@ -2,7 +2,7 @@ Code;Type;Discipline;Class;Result;Wind;Venue;Venue Country;Environment;Date;Firs
 WL;;WEI;W;6.78;;Illinois-Armory;USA;Indoor;2025-01-11;Tacoria;Humphrey;USA;2003;Female
 WL;;2K0;M;5:03.71;;Salle Maryvonne Dupureur;FRA;Indoor;2025-01-11;Flavien;Szot;FRA;2001;Male
 WL;;2K0;M;5:03.71;;Salle Maryvonne Dupureur;FRA;Indoor;2025-01-11;Amine;Brahimi;ALG;1995;Male
-WL;;600;M;1:15.11;;Vanderbilt Multipurpose Facility;USA;Indoor;2025-01-11;Max;Armstrong;USA;;Male
+WL;;600;M;1:16.43;;Clemson Indoor Track & Field Complex;USA;Indoor;2025-01-11;Brian;Kiptum;KEN;2004;Male
 WL;;STA;M;5.82;;Centre Sportif du Dévoluy;FRA;Indoor;2025-01-11;Menno;Vloon;NED;1994;Male
 WL;;5G;M;19:48.99;;Indoor Hall;SVK;Indoor;2025-01-11;Dominik;Černý;SVK;1997;Male
 WL;;100;W;11.39;0.7;Jamaica College Ashenheim Stadium;JAM;Outdoor;2025-01-04;Sabrina;Dockery;JAM;2006;Female
@@ -15,7 +15,8 @@ WL;;HOC;W;1.91;;Palaindoor;ITA;Indoor;2025-01-04;Idea;Pieroni;ITA;2002;Female
 WL;;WEI;M;7.82;;Pista Coberta de Catalunya;ESP;Indoor;2025-01-10;Jaime;Guerra;ESP;1999;Male
 WL;;100;M;10.38;2.0;Aorangi Stadium;NZL;Outdoor;2025-01-11;John;Gerber;NZL;2001;Male
 WL;;10H;W;13.44;0.7;QSAC State Athletics Facility;AUS;Outdoor;2025-01-11;Emelia;Surch;AUS;2003;Female
-WL;;50M;M;6.1;;GSG9-Halle;AUT;Indoor;2025-01-12;Andreas;Meyer-Lux;AUT;1994;Male
+WL;;50M;M;6.08;;Pista Indoor della Pista Comunale;ITA;Indoor;2025-01-12;Lorenzo;Vera;ITA;2006;Male
+WL;;50M;M;6.08;;Pista Indoor della Pista Comunale;ITA;Indoor;2025-01-12;Federico;Lisa;ITA;2000;Male
 WL;;800;W;2:03.16;;Ott Center for Track & Field;USA;Indoor;2025-01-11;Nia;Akins;USA;1998;Female
 WL;;3K0;M;7:42.74;;South Carolina Indoor T&F Complex;USA;Indoor;2025-01-11;Casey;Comber;USA;1996;Male
 WL;;1K5;W;4:17.38;;Pista Coberta de Catalunya;ESP;Indoor;2025-01-10;Mireya;Arnedillo;ESP;2003;Female
@@ -31,16 +32,16 @@ WL;;KUG;M;20.65;;Pista Coberta de Catalunya;ESP;Indoor;2025-01-10;Andrei;Rares T
 WL;;5K0;W;17:20.67;;Vanderbilt Multipurpose Facility;USA;Indoor;2025-01-11;Hannah;Ielfield;USA;;Female
 WL;;KUG;W;18.37;;Norton Sports Center;USA;Indoor;2025-01-11;Akaoma;Odeluga;USA;2005;Female
 WL;;40H;W;58.78;;Jamaica College Ashenheim Stadium;JAM;Outdoor;2025-01-04;Aaliyah;Mullings;JAM;2006;Female
-WL;;DIS;W;46.83;;Mt Smart Stadium;NZL;Outdoor;2025-01-11;Melelosaline;Lose;NZL;2007;Female
+WL;;DIS;W;57.79;;Stile Athletics Field House;USA;Indoor;2025-01-12;Chioma;Onyekwere;NGR;1994;Female
 WL;;300;W;36.48;;South Carolina Indoor T&F Complex;USA;Indoor;2025-01-11;JaMeesia;Ford;USA;2005;Female
 WL;;600;W;1:24.96;;Colorado-Indoor Practice Facility;USA;Indoor;2025-01-10;Kaela;Edwards;USA;1993;Female
 WL;;4×4;W;3:32.96;;"R.A. ""Murray"" Fasken Indoor Track Stadium";USA;Indoor;2025-01-10;Tennessee;;INT;;Female
 WL;;4×1;W;44.12;;QSAC State Athletics Facility;AUS;Outdoor;2025-01-11;Australia;Wattles;AUS;;Female
-WL;;HAM;M;54.26;;Stade Bachelard;FRA;Outdoor;2025-01-11;Clotaire;Lapique-Karpp;FRA;;Male
+WL;;HAM;M;59.59;;Complexe Sportif Des Cezeaux;FRA;Outdoor;2025-01-12;Nicolas;Fedit;FRA;1994;Male
 WL;;3K0;W;8:58.91;;Pista Coberta de Catalunya;ESP;Indoor;2025-01-10;Esther;Guerrero;ESP;1990;Female
 WL;;200;W;22.99;;Clemson Indoor Track & Field Complex;USA;Indoor;2025-01-11;Kelly;Ufodiama;USA;;Female
 WL;;400;W;53.09;;English Institute of Sport;GBR;Indoor;2025-01-11;Tess;Mchugh;GBR;2002;Female
-WL;;50M;W;6.62;;GSG9-Halle;AUT;Indoor;2025-01-12;Nina;Mayrhofer;AUT;2004;Female
+WL;;50M;W;6.48;;Pista Indoor della Pista Comunale;ITA;Indoor;2025-01-12;Ilaria;Contran;ITA;2005;Female
 WL;;SPE;M;66.95;;Aorangi Stadium;NZL;Outdoor;2025-01-11;Alex;Wood;NZL;1996;Male
 WL;;4×2;W;1:37.33;;Leichtathletikhalle;GER;Indoor;2025-01-11;Hamburger;Sv;GER;;Female
 WL;;800;M;1:45.83;;Pista Coberta de Catalunya;ESP;Indoor;2025-01-10;Elvin;Josué Canales;ESP;2001;Male
@@ -50,10 +51,10 @@ WL;;1K0;W;2:39.99;;Clemson Indoor Track & Field Complex;USA;Indoor;2025-01-11;Gl
 WL;;1K5;M;3:35.87;;Pista Coberta de Catalunya;ESP;Indoor;2025-01-10;Mariano;García;ESP;1997;Male
 WL;;SPE;W;45.21;;Kerryn McCann Athletic Centre;AUS;Outdoor;2025-01-11;Isabelle;Cruickshank;AUS;2006;Female
 WL;;40H;M;51.14;;WA Athletics Stadium;AUS;Outdoor;2025-01-10;Joshua;Hook;AUS;2000;Male
-WL;;STA;W;4.56;;Raiffeisen athletics-center;SUI;Indoor;2025-01-12;Angelica;Moser;SUI;1997;Female
+WL;;STA;W;4.6;;Palaindoor;ITA;Indoor;2025-01-11;Elisa;Molinarolo;ITA;1994;Female
 WL;;60H;M;7.52;;Clemson Indoor Track & Field Complex;USA;Indoor;2025-01-11;Dylan;Beard;USA;1998;Male
 WL;;400;M;46.12;;"R.A. ""Murray"" Fasken Indoor Track Stadium";USA;Indoor;2025-01-10;Antonie;Matthys Nortje;RSA;2002;Male
-WL;;DIS;M;52.81;;WA Athletics Stadium;AUS;Outdoor;2025-01-10;Etienne;Rousseau;AUS;2003;Male
+WL;;DIS;M;56.67;;Stile Athletics Field House;USA;Indoor;2025-01-12;Sam;Weeks;USA;1995;Male
 WL;;60M;M;6.52;;Vanderbilt Multipurpose Facility;USA;Indoor;2025-01-11;Barnabas;Aggerh;GHA;1998;Male
 WL;;4×8;M;7:39.07;;Dennis Fairall Fieldhouse;CAN;Indoor;2025-01-11;Guelph;;CAN;;Male
 WL;;4×4;M;3:05.80;;"R.A. ""Murray"" Fasken Indoor Track Stadium";USA;Indoor;2025-01-10;Texas;A&M;INT;;Male
