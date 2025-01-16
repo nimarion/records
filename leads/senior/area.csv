@@ -7,6 +7,7 @@ AL;5;HOC;W;1.63;;National Indoor Athletics Centre;GBR;Indoor;2025-01-12;Melissa;
 AL;5;800;W;2:15.84;;Jahnsportforum;GER;Indoor;2025-01-11;Paziliya;Yunusi;CHN;2004;Female
 AL;5;3K0;M;8:43.62;;Palacio de los Deportes de Zaragoza;ESP;Indoor;2025-01-11;Jisong;Liu;CHN;2005;Male
 AL;5;60M;W;7.65;;Loughborough University Indoor Track;GBR;Indoor;2025-01-11;Bhadra;Harita;IND;2003;Female
+AL;5;KUG;M;18.17;;Centro Desportivo Nacional do Jamor;POR;Indoor;2025-01-11;Mohammed;Daoud B Tolu;KSA;2001;Male
 AL;5;300;W;39.13;;South Carolina Indoor T&F Complex;USA;Indoor;2025-01-11;Angel;Frank;PHI;2001;Female
 AL;5;200;W;26.06;;South Carolina Indoor T&F Complex;USA;Indoor;2025-01-11;Ruthika;Saravanan;IND;2005;Female
 AL;5;400;W;59.96;;Jahnsportforum;GER;Indoor;2025-01-11;Paziliya;Yunusi;CHN;2004;Female
@@ -62,22 +63,21 @@ AL;6;HOC;M;2.06;;Barden Ridge Athletics Track;AUS;Outdoor;2025-01-04;Cadel;Holme
 AL;6;200;M;20.63;-1.9;QSAC State Athletics Facility;AUS;Outdoor;2025-01-12;Reece;Holder;AUS;2002;Male
 AL;1;WEI;W;6.55;;Palacio de los Deportes de Zaragoza;ESP;Indoor;2025-01-11;Irati;Mitxelena;ESP;1998;Female
 AL;1;2K0;M;5:03.71;;Salle Maryvonne Dupureur;FRA;Indoor;2025-01-11;Flavien;Szot;FRA;2001;Male
-AL;1;600;M;1:17.57;;SOK Luch;RUS;Indoor;2025-01-07;Dmitriy;Pasechnik;RUS;1999;Male
+AL;1;600;M;1:16.83;;KGHM Sleza Arena;POL;Indoor;2025-01-12;Maciej;Wyderka;POL;2002;Male
 AL;1;STA;M;5.82;;Centre Sportif du Dévoluy;FRA;Indoor;2025-01-11;Menno;Vloon;NED;1994;Male
 AL;1;5G;M;19:48.99;;Indoor Hall;SVK;Indoor;2025-01-11;Dominik;Černý;SVK;1997;Male
 AL;1;3G;W;13:08.94;;Stade couvert Jesse Owens;FRA;Indoor;2025-01-11;Marine;Rottier;FRA;2000;Female
-AL;1;1K0;M;2:21.90;;SOK Luch;RUS;Indoor;2025-01-07;Maksim;Shelikh;RUS;2005;Male
+AL;1;1K0;M;2:20.48;;Centro Desportivo Nacional do Jamor;POR;Indoor;2025-01-11;José;Carlos Pinto;POR;1997;Male
 AL;1;MEI;M;4:05.04;;The Track at New Balance;USA;Indoor;2025-01-12;Michael;Morgan;IRL;2002;Male
 AL;1;HOC;W;1.91;;Palaindoor;ITA;Indoor;2025-01-04;Idea;Pieroni;ITA;2002;Female
-AL;1;WEI;M;7.82;;Pista Coberta de Catalunya;ESP;Indoor;2025-01-10;Jaime;Guerra;ESP;1999;Male
+AL;1;WEI;M;8.11;;Centro Desportivo Nacional do Jamor;POR;Indoor;2025-01-11;Gerson;Baldé;POR;2000;Male
 AL;1;100;M;11.2;0.7;Kerryn McCann Athletic Centre;AUS;Outdoor;2025-01-11;Lars;Ackland;DEN;2007;Male
 AL;1;50M;M;6.08;;Pista Indoor della Pista Comunale;ITA;Indoor;2025-01-12;Lorenzo;Vera;ITA;2006;Male
 AL;1;50M;M;6.08;;Pista Indoor della Pista Comunale;ITA;Indoor;2025-01-12;Federico;Lisa;ITA;2000;Male
 AL;1;800;W;2:03.68;;Pista Coberta de Catalunya;ESP;Indoor;2025-01-10;Marta;Mitjans;ESP;2006;Female
 AL;1;3K0;M;7:44.94;;Emirates Arena;GBR;Indoor;2025-01-04;Jake;Wightman;GBR;1994;Male
 AL;1;1K5;W;4:17.38;;Pista Coberta de Catalunya;ESP;Indoor;2025-01-10;Mireya;Arnedillo;ESP;2003;Female
-AL;1;3G;M;13:23.98;;Indoor Hall;SVK;Indoor;2025-01-11;Dávid;Ligeti;HUN;2009;Male
-AL;1;3G;M;13:23.98;;Indoor Hall;SVK;Indoor;2025-01-11;Dávid;Ligeti;HUN;2009;Male
+AL;1;3G;M;12:52.7;;Arena Veresniki;RUS;Indoor;2025-01-10;Petr;Mikhaylov;RUS;2008;Male
 AL;1;2K0;W;5:55.63;;SOK Luch;RUS;Indoor;2025-01-07;Anastasiya;Krasilnikova;RUS;2003;Female
 AL;1;4×2;M;1:26.18;;Werner-von-Linde-Halle;GER;Indoor;2025-01-11;LG;Stadtwerke München;GER;;Male
 AL;1;60M;W;7.19;;Coque Sport Center;LUX;Indoor;2025-01-05;Patrizia;Van Der Weken;LUX;1999;Female
@@ -86,7 +86,7 @@ AL;1;MEI;W;4:35.52;;The Track at New Balance;USA;Indoor;2025-01-12;Alexandra;Mil
 AL;1;HAM;W;55.57;;Leichtathletik-Stadion Sportzentrum;GER;Outdoor;2025-01-11;Esther;Imariagbee;GER;2002;Female
 AL;1;DRE;M;16.4;;Republican Olympic Center;AZE;Indoor;2025-01-10;Rustam;Mammadov;AZE;2001;Male
 AL;1;KUG;M;20.65;;Pista Coberta de Catalunya;ESP;Indoor;2025-01-10;Andrei;Rares Toader;ROU;1997;Male
-AL;1;KUG;W;17.23;;Znamenskikh Arena;RUS;Indoor;2025-01-09;Alyona;Gordeyeva;RUS;1997;Female
+AL;1;KUG;W;17.69;;Centro Desportivo Nacional do Jamor;POR;Indoor;2025-01-11;Eliana;Bandeira;POR;1996;Female
 AL;1;DIS;W;42.6;;Stade Bachelard;FRA;Outdoor;2025-01-11;Manel;Yahia;FRA;2004;Female
 AL;1;300;W;37.0;;SOK Luch;RUS;Indoor;2025-01-07;Polina;Tkalich;RUS;2000;Female
 AL;1;600;W;1:29.39;;Znamenskikh Arena;RUS;Indoor;2025-01-09;Emiliya;Tangara;RUS;2002;Female
@@ -146,7 +146,7 @@ AL;2;800;M;1:49.29;;Michigan University U-M Indoor Track;USA;Indoor;2025-01-11;B
 AL;2;4×8;W;9:02.69;;Dennis Fairall Fieldhouse;CAN;Indoor;2025-01-11;Western;;CAN;;Female
 AL;2;DRE;W;13.84;;Clemson Indoor Track & Field Complex;USA;Indoor;2025-01-11;Shantae;Foreman;JAM;2002;Female
 AL;2;1K0;W;2:46.83;;Field House;CAN;Indoor;2025-01-10;Avery;Pearson;CAN;2003;Female
-AL;2;1K5;M;3:54.11;;Field House;CAN;Indoor;2025-01-10;Jonathan;Podbielski;CAN;;Male
+AL;2;1K5;M;3:50.58;;Centre Sportif Yvon Lamarche;CAN;Indoor;2025-01-11;Nolan;Turgeon;CAN;;Male
 AL;2;SPE;W;41.1;;T. Robinson Stadium;BAH;Outdoor;2025-01-10;Taysha;Stubbs;BAH;2007;Female
 AL;2;40H;M;51.88;;Jamaica College Ashenheim Stadium;JAM;Outdoor;2025-01-04;Robert;Miller;JAM;;Male
 AL;2;STA;W;4.45;;Stile Athletics Field House;USA;Indoor;2025-01-10;Brynn;King;USA;2000;Female
