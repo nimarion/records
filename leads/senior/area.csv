@@ -4,6 +4,7 @@ AL;5;STA;M;5.51;;Centre Sportif du Dévoluy;FRA;Indoor;2025-01-11;Chenyang;Li;CH
 AL;5;1K0;M;2:29.63;;Virginia Beach Sports Center;USA;Indoor;2025-01-12;Ibrahim;Haydar Abdalla;QAT;2006;Male
 AL;5;MEI;M;4:22.45;;Virginia Beach Sports Center;USA;Indoor;2025-01-12;Mohammed;Ahmed Al Yafaee;YEM;1984;Male
 AL;5;HOC;W;1.63;;National Indoor Athletics Centre;GBR;Indoor;2025-01-12;Melissa;Choong;MAS;;Female
+AL;5;WEI;M;6.48;;Sporta manēža;LAT;Indoor;2025-01-16;Raeshon;Loo Wei Ming;SGP;2001;Male
 AL;5;800;W;2:15.84;;Jahnsportforum;GER;Indoor;2025-01-11;Paziliya;Yunusi;CHN;2004;Female
 AL;5;3K0;M;8:43.62;;Palacio de los Deportes de Zaragoza;ESP;Indoor;2025-01-11;Jisong;Liu;CHN;2005;Male
 AL;5;60M;W;7.65;;Loughborough University Indoor Track;GBR;Indoor;2025-01-11;Bhadra;Harita;IND;2003;Female
@@ -28,7 +29,7 @@ AL;6;1K0;M;2:25.44;;The Track at New Balance;USA;Indoor;2025-01-12;William;Johns
 AL;6;3KH;M;9:10.35;;Mt Smart Stadium;NZL;Outdoor;2025-01-11;Toby;Tasker;NZL;2004;Male
 AL;6;MEI;M;4:06.1;;Aorangi Stadium;NZL;Outdoor;2025-01-11;Ethan;Smolej;NZL;2003;Male
 AL;6;HOC;W;1.81;;Aorangi Stadium;NZL;Outdoor;2025-01-11;Maddie;Wilson;NZL;2002;Female
-AL;6;WEI;M;7.25;;South Carolina Indoor T&F Complex;USA;Indoor;2025-01-11;Zachary;Washington;AUS;;Male
+AL;6;WEI;M;7.25;;South Carolina Indoor T&F Complex;USA;Indoor;2025-01-11;Zach;Washington;AUS;;Male
 AL;6;100;M;10.38;2.0;Aorangi Stadium;NZL;Outdoor;2025-01-11;John;Gerber;NZL;2001;Male
 AL;6;10H;W;13.44;0.7;QSAC State Athletics Facility;AUS;Outdoor;2025-01-11;Emelia;Surch;AUS;2003;Female
 AL;6;800;W;2:11.23;;QSAC State Athletics Facility;AUS;Outdoor;2025-01-12;Caitlin;Banner;AUS;1999;Female
@@ -72,8 +73,8 @@ AL;1;MEI;M;4:05.04;;The Track at New Balance;USA;Indoor;2025-01-12;Michael;Morga
 AL;1;HOC;W;1.91;;Palaindoor;ITA;Indoor;2025-01-04;Idea;Pieroni;ITA;2002;Female
 AL;1;WEI;M;8.11;;Centro Desportivo Nacional do Jamor;POR;Indoor;2025-01-11;Gerson;Baldé;POR;2000;Male
 AL;1;100;M;11.2;0.7;Kerryn McCann Athletic Centre;AUS;Outdoor;2025-01-11;Lars;Ackland;DEN;2007;Male
-AL;1;50M;M;6.08;;Pista Indoor della Pista Comunale;ITA;Indoor;2025-01-12;Lorenzo;Vera;ITA;2006;Male
-AL;1;50M;M;6.08;;Pista Indoor della Pista Comunale;ITA;Indoor;2025-01-12;Federico;Lisa;ITA;2000;Male
+AL;1;4×4;X;3:19.78;;National Indoor Arena;IRL;Indoor;2025-01-15;Ireland;C;IRL;;Mixed
+AL;1;50M;M;5.95;;GSG9-Halle;AUT;Indoor;2025-01-15;Vasily;Klimov;AUT;2005;Male
 AL;1;800;W;2:03.68;;Pista Coberta de Catalunya;ESP;Indoor;2025-01-10;Marta;Mitjans;ESP;2006;Female
 AL;1;3K0;M;7:44.94;;Emirates Arena;GBR;Indoor;2025-01-04;Jake;Wightman;GBR;1994;Male
 AL;1;1K5;W;4:17.38;;Pista Coberta de Catalunya;ESP;Indoor;2025-01-10;Mireya;Arnedillo;ESP;2003;Female
@@ -95,7 +96,7 @@ AL;1;HAM;M;59.59;;Complexe Sportif Des Cezeaux;FRA;Outdoor;2025-01-12;Nicolas;Fe
 AL;1;3K0;W;8:58.91;;Pista Coberta de Catalunya;ESP;Indoor;2025-01-10;Esther;Guerrero;ESP;1990;Female
 AL;1;200;W;23.52;;Arena Stade Couvert;FRA;Indoor;2025-01-12;Benedetta;Kouakou;FRA;2004;Female
 AL;1;400;W;53.09;;English Institute of Sport;GBR;Indoor;2025-01-11;Tess;Mchugh;GBR;2002;Female
-AL;1;50M;W;6.48;;Pista Indoor della Pista Comunale;ITA;Indoor;2025-01-12;Ilaria;Contran;ITA;2005;Female
+AL;1;50M;W;6.43;;GSG9-Halle;AUT;Indoor;2025-01-15;Magdalena;Lindner;AUT;2000;Female
 AL;1;SPE;M;56.22;;RG3 e Centro Desportivo da Madeira;POR;Outdoor;2025-01-04;Roque;Tavares;POR;1990;Male
 AL;1;4×2;W;1:37.33;;Leichtathletikhalle;GER;Indoor;2025-01-11;Hamburger;Sv;GER;;Female
 AL;1;800;M;1:45.83;;Pista Coberta de Catalunya;ESP;Indoor;2025-01-10;Elvin;Josué Canales;ESP;2001;Male
