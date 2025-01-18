@@ -23,6 +23,7 @@ AL;5;200;M;21.4;1.6;Barden Ridge Athletics Track;AUS;Outdoor;2025-01-04;Joshua;A
 AL;6;WEI;W;6.03;0.0;Kerryn McCann Athletic Centre;AUS;Outdoor;2025-01-11;Samantha;Dale;AUS;2001;Female
 AL;6;600;M;1:19.83;;Sparks Convention Center Halls;USA;Indoor;2025-01-11;Ethan;James Forbes;AUS;2003;Male
 AL;6;STA;M;5.2;;Rawlinson Track – Melbourne Uni;AUS;Outdoor;2025-01-09;Dalton;Di Medio;AUS;2000;Male
+AL;6;5G;M;22:15.52;;SA Athletic Stadium;AUS;Outdoor;2025-01-11;Kim;Mottrom;AUS;1984;Male
 AL;6;100;W;11.6;-1.1;Kerryn McCann Athletic Centre;AUS;Outdoor;2025-01-11;Lakara;Stallan;AUS;2003;Female
 AL;6;4×1;M;38.77;;QSAC State Athletics Facility;AUS;Outdoor;2025-01-11;Australia;Cassowaries;AUS;;Male
 AL;6;1K0;M;2:25.44;;The Track at New Balance;USA;Indoor;2025-01-12;William;Johnston;NZL;;Male
@@ -38,25 +39,26 @@ AL;6;1K5;W;4:39.45;;QSAC State Athletics Facility;AUS;Outdoor;2025-01-11;Gretta;
 AL;6;60M;W;7.41;1.8;Kerryn McCann Athletic Centre;AUS;Outdoor;2025-01-11;Nana;Owusu-Afriyie;AUS;1999;Female
 AL;6;11H;M;15.25;-2.1;QSAC State Athletics Facility;AUS;Outdoor;2025-01-12;Benjamin;Guse;AUS;2003;Male
 AL;6;MEI;W;4:28.33;;The Track at New Balance;USA;Indoor;2025-01-12;Kimberley;May;NZL;2003;Female
-AL;6;HAM;W;50.01;;Kerryn McCann Athletic Centre;AUS;Outdoor;2025-01-11;Matilda;Saunders;AUS;2008;Female
+AL;6;HAM;W;50.91;;Woden Park;AUS;Outdoor;2025-01-11;Kara;Baker;AUS;1998;Female
 AL;6;DRE;M;16.02;1.9;Barden Ridge Athletics Track;AUS;Outdoor;2025-01-04;Connor;Murphy;AUS;2001;Male
 AL;6;KUG;M;17.18;;WA Athletics Stadium;AUS;Outdoor;2025-01-10;Robert;Marchesi-Scott;AUS;2005;Male
 AL;6;KUG;W;13.28;;Mt Smart Stadium;NZL;Outdoor;2025-01-11;Kate;Hallie;NZL;2007;Female
 AL;6;40H;W;1:01.16;;WA Athletics Stadium;AUS;Outdoor;2025-01-10;Skye;Bowron;AUS;2005;Female
-AL;6;DIS;W;46.83;;Mt Smart Stadium;NZL;Outdoor;2025-01-11;Melelosaline;Lose;NZL;2007;Female
+AL;6;DIS;W;49.82;;Woden Park;AUS;Outdoor;2025-01-11;Jessica;Johnston;AUS;2007;Female
 AL;6;4×1;W;44.12;;QSAC State Athletics Facility;AUS;Outdoor;2025-01-11;Australia;Wattles;AUS;;Female
+AL;6;HAM;M;59.58;;Woden Park;AUS;Outdoor;2025-01-11;Timothy;Heyes;AUS;1997;Male
 AL;6;3K0;W;9:13.96;;Kerryn McCann Athletic Centre;AUS;Outdoor;2025-01-11;Jaylah;Hancock-Cameron;AUS;2002;Female
 AL;6;200;W;23.41;;Clemson Indoor Track & Field Complex;USA;Indoor;2025-01-11;Aleksandra;Stoilova;AUS;2005;Female
 AL;6;400;W;54.36;;Kerryn McCann Athletic Centre;AUS;Outdoor;2025-01-11;Jasmin;Guthrie;AUS;2003;Female
-AL;6;SPE;M;66.95;;Aorangi Stadium;NZL;Outdoor;2025-01-11;Alex;Wood;NZL;1996;Male
+AL;6;SPE;M;67.08;;SA Athletic Stadium;AUS;Outdoor;2025-01-11;Andrew;Fraser;AUS;1982;Male
 AL;6;800;M;1:50.02;;WA Athletics Stadium;AUS;Outdoor;2025-01-10;Luke;Shaw;AUS;2001;Male
 AL;6;DRE;W;12.74;1.6;Barden Ridge Athletics Track;AUS;Outdoor;2025-01-04;Raphaila;Idris;AUS;2006;Female
 AL;6;1K5;M;3:58.09;;QSAC State Athletics Facility;AUS;Outdoor;2025-01-11;Luke;Graves;AUS;1999;Male
-AL;6;SPE;W;45.21;;Kerryn McCann Athletic Centre;AUS;Outdoor;2025-01-11;Isabelle;Cruickshank;AUS;2006;Female
+AL;6;SPE;W;52.79;;SA Athletic Stadium;AUS;Outdoor;2025-01-11;Salumi;Robberts;AUS;2002;Female
 AL;6;40H;M;51.14;;WA Athletics Stadium;AUS;Outdoor;2025-01-10;Joshua;Hook;AUS;2000;Male
 AL;6;STA;W;4.2;;Rawlinson Track – Melbourne Uni;AUS;Outdoor;2025-01-09;Georgia;Tayler;AUS;2004;Female
 AL;6;400;M;46.22;;Mt Smart Stadium;NZL;Outdoor;2025-01-11;Lex;Revell-Lewis;NZL;2004;Male
-AL;6;DIS;M;52.81;;WA Athletics Stadium;AUS;Outdoor;2025-01-10;Etienne;Rousseau;AUS;2003;Male
+AL;6;DIS;M;53.66;;Woden Park;AUS;Outdoor;2025-01-11;Ethan;Ayodele;AUS;2005;Male
 AL;6;60M;M;6.55;0.4;QSAC State Athletics Facility;AUS;Outdoor;2025-01-12;Lachlan;Kennedy;AUS;2003;Male
 AL;6;60H;W;8.94;;Loughborough University Indoor Track;GBR;Indoor;2025-01-11;Alessandra;Macdonald;NZL;2000;Female
 AL;6;HOC;M;2.06;;Barden Ridge Athletics Track;AUS;Outdoor;2025-01-04;Angus;Clark;AUS;2001;Male
@@ -70,7 +72,7 @@ AL;1;5G;M;19:48.99;;Indoor Hall;SVK;Indoor;2025-01-11;Dominik;Černý;SVK;1997;
 AL;1;3G;W;13:08.94;;Stade couvert Jesse Owens;FRA;Indoor;2025-01-11;Marine;Rottier;FRA;2000;Female
 AL;1;1K0;M;2:20.48;;Centro Desportivo Nacional do Jamor;POR;Indoor;2025-01-11;José;Carlos Pinto;POR;1997;Male
 AL;1;MEI;M;4:05.04;;The Track at New Balance;USA;Indoor;2025-01-12;Michael;Morgan;IRL;2002;Male
-AL;1;HOC;W;1.91;;Palaindoor;ITA;Indoor;2025-01-04;Idea;Pieroni;ITA;2002;Female
+AL;1;HOC;W;1.96;;Ural;RUS;Indoor;2025-01-17;Kristina;Korolyova;RUS;1990;Female
 AL;1;WEI;M;8.11;;Centro Desportivo Nacional do Jamor;POR;Indoor;2025-01-11;Gerson;Baldé;POR;2000;Male
 AL;1;100;M;11.2;0.7;Kerryn McCann Athletic Centre;AUS;Outdoor;2025-01-11;Lars;Ackland;DEN;2007;Male
 AL;1;4×4;X;3:19.78;;National Indoor Arena;IRL;Indoor;2025-01-15;Ireland;C;IRL;;Mixed
@@ -103,15 +105,16 @@ AL;1;800;M;1:45.83;;Pista Coberta de Catalunya;ESP;Indoor;2025-01-10;Elvin;Josu�
 AL;1;DRE;W;14.02;;Znamenskikh Arena;RUS;Indoor;2025-01-09;Viktoria;Gorlova;RUS;2001;Female
 AL;1;1K0;W;2:40.28;;SOK Luch;RUS;Indoor;2025-01-07;Mariya;Prokhorets;RUS;1995;Female
 AL;1;1K5;M;3:35.87;;Pista Coberta de Catalunya;ESP;Indoor;2025-01-10;Mariano;García;ESP;1997;Male
-AL;1;STA;W;4.6;;Palaindoor;ITA;Indoor;2025-01-11;Elisa;Molinarolo;ITA;1994;Female
+AL;1;STA;W;4.72;;Ural;RUS;Indoor;2025-01-17;Polina;Knoroz;RUS;1999;Female
 AL;1;60H;M;7.67;;SOK Luch;RUS;Indoor;2025-01-07;Anatoliy;Kiselyov;RUS;2002;Male
 AL;1;400;M;46.14;;Salle Jean Pellez;FRA;Indoor;2025-01-04;Jimy;Soudril;FRA;1998;Male
 AL;1;60M;M;6.6;;Lee Valley Athletics Centre;GBR;Indoor;2025-01-05;John;Otugade;GBR;1995;Male
 AL;1;4×4;M;3:18.92;;Velesajam Hall;CRO;Indoor;2025-01-11;AGRAM;I , Zagreb;CRO;;Male
 AL;1;60H;W;7.98;;SOK Luch;RUS;Indoor;2025-01-07;Elvira;Hrabarenka;BLR;1997;Female
 AL;1;300;M;33.28;;SOK Luch;RUS;Indoor;2025-01-07;Aleksandr;Nikolayev;RUS;1999;Male
-AL;1;HOC;M;2.25;;SOK Luch;RUS;Indoor;2025-01-07;Danil;Lysenko;RUS;1997;Male
-AL;1;200;M;20.97;;Atletická hala;CZE;Indoor;2025-01-11;Tomáš;Němejc;CZE;2000;Male
+AL;1;5G;W;23:52.85;;Ural;RUS;Indoor;2025-01-11;Arina;Amineva;RUS;2006;Female
+AL;1;HOC;M;2.3;;Ural;RUS;Indoor;2025-01-17;Danil;Lysenko;RUS;1997;Male
+AL;1;200;M;20.43;;Telekonsult Arena;SWE;Indoor;2025-01-17;Erik;Erlandsson;SWE;2004;Male
 AL;2;WEI;W;6.78;;Illinois-Armory;USA;Indoor;2025-01-11;Tacoria;Humphrey;USA;2003;Female
 AL;2;600;M;1:16.98;;Clemson Indoor Track & Field Complex;USA;Indoor;2025-01-11;Blaik;Slavinski;USA;2005;Male
 AL;2;STA;M;5.56;;"R.A. ""Murray"" Fasken Indoor Track Stadium";USA;Indoor;2025-01-10;Cade;Gray;USA;;Male
@@ -126,6 +129,7 @@ AL;2;10H;W;14.48;1.3;Kirani James Athletic Stadium;GRN;Outdoor;2025-01-11;Shanta
 AL;2;800;W;2:03.16;;Ott Center for Track & Field;USA;Indoor;2025-01-11;Nia;Akins;USA;1998;Female
 AL;2;3K0;M;7:42.74;;South Carolina Indoor T&F Complex;USA;Indoor;2025-01-11;Casey;Comber;USA;1996;Male
 AL;2;1K5;W;4:26.18;;Field House;CAN;Indoor;2025-01-11;Jenica;Swartz;CAN;;Female
+AL;2;2K0;W;6:33.40;;Track and Field Centre;CAN;Indoor;2025-01-11;Sawyer;Nicholson;CAN;;Female
 AL;2;4×2;M;1:28.14;;Dennis Fairall Fieldhouse;CAN;Indoor;2025-01-10;Western;;CAN;;Male
 AL;2;60M;W;7.2;;Clemson Indoor Track & Field Complex;USA;Indoor;2025-01-11;Shenese;Walker;JAM;2003;Female
 AL;2;MEI;W;4:28.05;;Michigan University U-M Indoor Track;USA;Indoor;2025-01-11;Danielle;Jones;USA;1996;Female
@@ -181,7 +185,7 @@ AL;4;DRE;M;15.72;;Halle Caporal Alain Mimoun;FRA;Indoor;2025-01-11;Yoann;Awhanso
 AL;4;KUG;W;15.88;;Salle Joseph Maigrot;FRA;Indoor;2025-01-05;Carine;Mékam;GAB;1985;Female
 AL;4;DIS;W;57.79;;Stile Athletics Field House;USA;Indoor;2025-01-12;Chioma;Onyekwere;NGR;1994;Female
 AL;4;300;W;38.05;;Michigan University U-M Indoor Track;USA;Indoor;2025-01-11;Josephine;Oloye;NGR;2004;Female
-AL;4;3K0;W;9:35.90;;Pista Coberta de Catalunya;ESP;Indoor;2025-01-10;Douae;Ouboukir;MAR;1996;Female
+AL;4;3K0;W;9:32.36;;Track and Field Centre;CAN;Indoor;2025-01-12;Philes;Ongori;KEN;1986;Female
 AL;4;200;W;23.94;;Norton Sports Center;USA;Indoor;2025-01-10;Amaka;Joy Nwokike;NGR;2003;Female
 AL;4;400;W;54.56;;Norton Sports Center;USA;Indoor;2025-01-11;Amaka;Joy Nwokike;NGR;2003;Female
 AL;4;800;M;1:46.39;;Pista Coberta de Catalunya;ESP;Indoor;2025-01-10;Tom;Dradriga;UGA;1996;Male
