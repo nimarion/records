@@ -1,28 +1,29 @@
 Code;Type;Discipline;Class;Result;Wind;Venue;Venue Country;Environment;Date;Firstname;Lastname;Nation;YOB;Sex
 WL;;100;MJU20;10.43;0.8;Jamaica College Ashenheim Stadium;JAM;Outdoor;2025-01-04;Jamal;Stephenson;JAM;;Male
-WL;;60M;WJU20;7.24;;Sports Performance Center;USA;Indoor;2025-01-17;Sharmelle;Holmes;USA;2006;Female
-WL;;3K0;WJU20;9:34.63;;Houston-Yeoman;USA;Indoor;2025-01-10;Isabell;Schmitz;USA;;Female
+WL;;60M;WJU20;7.23;;Palaindoor Ancona;ITA;Indoor;2025-01-18;Kelly;Ann Maevane Doualla Edimo;ITA;2009;Female
+WL;;3K0;WJU20;9:22.11;;Dempsey Indoor;USA;Indoor;2025-01-17;Sophia;Rodriguez;USA;2008;Female
 WL;;50M;WJU20;6.47;;GSG9-Halle;AUT;Indoor;2025-01-15;Patricia;Brunninger;AUT;2006;Female
-WL;;KUG;WJU20;15.49;;Stile Athletics Field House;USA;Indoor;2025-01-12;Addyson;Stiverson;USA;;Female
+WL;;KUG;WJU20;15.98;;GC Foster College;JAM;Outdoor;2025-01-18;Marla-Kay;Lampart;JAM;;Female
 WL;;5G;MJU20;20:26.93;;Hartwig-Gauder-Halle;GER;Indoor;2025-01-11;Nick;Joel Richardt;GER;2006;Male
 WL;;400;MJU20;47.09;;Sports Performance Center;USA;Indoor;2025-01-17;Malik;Franklin;USA;2006;Male
-WL;;DRE;WJU20;12.9;;Pista Coberta de Catalunya;ESP;Indoor;2025-01-10;Elda;Romeva Riba;ESP;2006;Female
+WL;;DRE;WJU20;13.48;;Palaindoor Ancona;ITA;Indoor;2025-01-18;Erika;Giorgia Anoeta Saraceni;ITA;2006;Female
 WL;;WEI;WJU20;6.43;;Sports Performance Center;USA;Indoor;2025-01-17;Janae;De Gannes;TTO;2006;Female
 WL;;1K0;MJU20;2:26.13;;Rector Fieldhouse;USA;Indoor;2025-01-17;Foster;Shelbert;USA;2006;Male
 WL;;1K5;WJU20;4:24.55;;Pistas Expourense;ESP;Indoor;2025-01-18;Claudia;Gutierrez;ESP;2007;Female
 WL;;4×4;MJU20;3:19.84;;Velesajam Hall;CRO;Indoor;2025-01-11;MLADOST,;Zagreb;CRO;;Male
-WL;;400;WJU20;53.17;;Jahnsportforum;GER;Indoor;2025-01-18;Johanna;Martin;GER;2006;Female
+WL;;400;WJU20;53.04;;Palaindoor Ancona;ITA;Indoor;2025-01-18;Elisa;Valensin;ITA;2007;Female
 WL;;DIS;WJU20;49.82;;Woden Park;AUS;Outdoor;2025-01-11;Jessica;Johnston;AUS;2007;Female
-WL;;STA;MJU20;5.33;;Stile Athletics Field House;USA;Indoor;2025-01-11;Ricardo;David Montes;VEN;2006;Male
+WL;;STA;MJU20;5.57;;Rector Fieldhouse;USA;Indoor;2025-01-18;Ricardo;David Montes;VEN;2006;Male
 WL;;HAM;MJU20;51.7;;QSAC State Athletics Facility;AUS;Outdoor;2025-01-15;Connor;Hopgood;AUS;2008;Male
 WL;;4×4;WJU20;3:42.58;;Virginia Beach Sports Center;USA;Indoor;2025-01-17;Hydel;Group Of Schools;JAM;;Female
 WL;;HAM;WJU20;50.31;;Leichtathletik-Stadion Sportzentrum;GER;Outdoor;2025-01-11;Yasmin;Sophie Amasheh;GER;2006;Female
-WL;;5K0;MJU20;15:14.12;;WA Athletics Stadium;AUS;Outdoor;2025-01-18;Andrew;Hellbusch;AUS;;Male
+WL;;5K0;MJU20;14:55.69;;Hughes Fieldhouse;USA;Indoor;2025-01-18;Josue;David Vega;ECU;2007;Male
 WL;;5K0;WJU20;17:51.28;;WA Athletics Stadium;AUS;Outdoor;2025-01-18;Madeline;Taylor;AUS;2007;Female
 WL;;3K0;MJU20;7:59.30;;South Carolina Indoor T&F Complex;USA;Indoor;2025-01-11;Jaouad;Khchina;MAR;2006;Male
 WL;;200;MJU20;20.86;;Sparks Convention Center Halls;USA;Indoor;2025-01-11;Caleb;Joshua;NGR;2006;Male
 WL;;HOC;MJU20;2.26;;Ural;RUS;Indoor;2025-01-17;Stepan;Vetkin;RUS;2006;Male
-WL;;MEI;WJU20;4:53.04;;Virginia Beach Sports Center;USA;Indoor;2025-01-17;Caroline;Elliott;USA;;Female
+WL;;MEI;WJU20;4:49.61;;Dempsey Indoor;USA;Indoor;2025-01-18;Victoria;Rodriguez;USA;2006;Female
+WL;;2KH;MJU20;6:26.78;;GC Foster College;JAM;Outdoor;2025-01-18;Obinna;Daniel Reid;JAM;;Male
 WL;;40H;MJU20;51.88;;Jamaica College Ashenheim Stadium;JAM;Outdoor;2025-01-04;Robert;Miller;JAM;;Male
 WL;;STA;WJU20;4.3;;Stile Athletics Field House;USA;Indoor;2025-01-10;Veronica;Vacca;USA;2006;Female
 WL;;5G;WJU20;23:52.85;;Ural;RUS;Indoor;2025-01-11;Arina;Amineva;RUS;2006;Female
@@ -36,21 +37,19 @@ WL;;300;MJU20;33.04;;Virginia Beach Sports Center;USA;Indoor;2025-01-17;Janeil;H
 WL;;600;WJU20;1:31.08;;Jāņa Daliņa Manēža;LAT;Indoor;2025-01-03;Viola;Hambidge;EST;2006;Female
 WL;;2K0;WJU20;6:16.18;;Hadar Yosef Stadium;ISR;Outdoor;2025-01-13;Ayala;Harris;ISR;2006;Female
 WL;;SPE;WJU20;45.21;;Kerryn McCann Athletic Centre;AUS;Outdoor;2025-01-11;Isabelle;Cruickshank;AUS;2006;Female
-WL;;10H;WJU20;14.47;1.3;QSAC State Athletics Facility;AUS;Outdoor;2025-01-12;Leila;Croker;AUS;2006;Female
+WL;;10H;WJU20;14.3;-0.3;GC Foster College;JAM;Outdoor;2025-01-18;Amoi;Kentish;JAM;2006;Female
 WL;;60M;MJU20;6.57;;Sparks Convention Center Halls;USA;Indoor;2025-01-10;Caleb;Joshua;NGR;2006;Male
 WL;;800;WJU20;2:03.68;;Pista Coberta de Catalunya;ESP;Indoor;2025-01-10;Marta;Mitjans;ESP;2006;Female
 WL;;40H;WJU20;58.78;;Jamaica College Ashenheim Stadium;JAM;Outdoor;2025-01-04;Aaliyah;Mullings;JAM;2006;Female
 WL;;800;MJU20;1:49.92;;Pista Coberta de Catalunya;ESP;Indoor;2025-01-10;Aaron;Ceballos;ESP;2007;Male
 WL;;KUG;MJU20;17.69;;Kupittaan urheiluhalli;FIN;Indoor;2025-01-11;Aatu;Kangasniemi;FIN;2006;Male
-WL;;MEI;MJU20;4:06.4;;Aorangi Stadium;NZL;Outdoor;2025-01-11;James;Mcleay;NZL;2006;Male
+WL;;MEI;MJU20;4:04.96;;Dempsey Indoor;USA;Indoor;2025-01-18;Tayvon;Kitchen;USA;2006;Male
 WL;;WEI;MJU20;7.63;;Salle Jean Pellez;FRA;Indoor;2025-01-04;Remi;Mourie;FRA;2008;Male
 WL;;1K0;WJU20;2:45.63;;Rector Fieldhouse;USA;Indoor;2025-01-17;Allie;Zealand;USA;2006;Female
 WL;;60H;WJU20;8.22;;Velesajam Hall;CRO;Indoor;2025-01-11;Mia;Wild;CRO;2006;Female
 WL;;SPE;MJU20;60.2;;Kirani James Athletic Stadium;GRN;Outdoor;2025-01-11;Rayvohn;Telesford;GRN;2006;Male
 WL;;DRE;MJU20;15.56;-0.1;Jamaica College Ashenheim Stadium;JAM;Outdoor;2025-01-03;Chavez;Penn;JAM;2006;Male
 WL;;HOC;WJU20;1.83;;Tallinna Kergejõustikuhall;EST;Indoor;2025-01-14;Valeria;Smirnova;EST;2006;Female
-WL;;60H;MJU20;8.09;;Houston-Yeoman;USA;Indoor;2025-01-10;Noah;Hanson;GBR;2006;Male
-WL;;60H;MJU20;8.09;;National Indoor Arena;IRL;Indoor;2025-01-11;Conor;Penney;IRL;2008;Male
-WL;;60H;MJU20;8.09;;Mosier Indoor Facility;USA;Indoor;2025-01-17;CJ;Davis;USA;;Male
+WL;;60H;MJU20;7.84;;Salle Jean Pellez;FRA;Indoor;2025-01-18;Pablo;Faye;FRA;2006;Male
 WL;;100;WJU20;11.39;0.7;Jamaica College Ashenheim Stadium;JAM;Outdoor;2025-01-04;Sabrina;Dockery;JAM;2006;Female
 WL;;1K5;MJU20;3:40.46;;Pista Coberta de Catalunya;ESP;Indoor;2025-01-10;Alex;Pintado;ESP;2006;Male
