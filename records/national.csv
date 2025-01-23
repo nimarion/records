@@ -3700,7 +3700,7 @@ NR;GUI;10H;W;12.96;1.8;Sacramento;USA;Outdoor;2007-06-08;Fatmata;Fofanah;GUI;198
 NR;GUM;10H;W;15.65;;Manenggon Hills;GUM;Outdoor;2012-05-18;Stefani;Loisel;GUM;;Female
 NR;GUY;10H;W;13.27;1.7;Barranquilla;COL;Outdoor;2018-07-30;Jenea;Mccammon;GUY;1991;Female
 NR;HAI;10H;W;12.74;1.7;Athína;GRE;Outdoor;2004-08-23;Nadine;Faustin-Parker;HAI;1976;Female
-NR;HKG;10H;W;13.14;;Walnut;USA;Outdoor;1994-04-17;Chan;Sau-Ying;HKG;1970;Female
+NR;HKG;10H;W;13.14;0.0;Walnut, Ca;USA;Outdoor;1994-04-17;Chan;Sau-Ying;HKG;1970;Female
 NR;HON;10H;W;13.83;-0.6;Toluca;MEX;Outdoor;2008-07-21;Jeimy;J. Bernárdez;HON;1986;Female
 NR;HUN;10H;W;12.69;0.3;München;GER;Outdoor;2022-08-21;Luca;Kozák;HUN;1996;Female
 NR;INA;10H;W;13.16;1.1;Sena;INA;Outdoor;2024-09-12;Dina;Aulia;INA;2003;Female
@@ -4961,7 +4961,7 @@ NR;ITA;DIS;W;64.57;;Pietrasanta;ITA;Outdoor;2023-06-11;Daisy;Osakue;ITA;1996;Fem
 NR;IVB;DIS;W;51.43;;Ada;USA;Outdoor;2017-04-22;Tynelle;Gumbs;IVB;1996;Female
 NR;JAM;DIS;W;67.05;;Tucson;USA;Outdoor;2021-05-22;Shadae;Lawrence;JAM;1995;Female
 NR;JOR;DIS;W;60.11;;La Jolla;USA;Outdoor;1998-03-28;Nada;Kawar;JOR;1975;Female
-NR;JPN;DIS;W;59.41;;Kitakyushu;JPN;Outdoor;2024-11-03;Nanaka;Kori;JPN;1997;Female
+NR;JPN;DIS;W;60.72;;Kitakyushu;JPN;Outdoor;2024-08-03;Nanaka;Kori;JPN;1997;Female
 NR;KAZ;DIS;W;68.18;;Alma-Ata;URS;Outdoor;1982-09-23;Tatyana;Lesovaya;KAZ;1956;Female
 NR;KEN;DIS;W;50.9;;Accra;GHA;Outdoor;2024-03-21;Roselyn;Rakamba;KEN;1990;Female
 NR;KGZ;DIS;W;62.22;;Yalta;URS;Outdoor;1983-02-13;Lyubov;Yelizarova;KGZ;;Female
@@ -11574,7 +11574,7 @@ NR;GUI;DIS;M;40.0;;Fria;GUI;Outdoor;1987-04-25;Fode;Sidibe;GUI;;Male
 NR;GUM;DIS;M;48.15;;Townsville;AUS;Outdoor;2004-12-18;Justin;Andre;GUM;1984;Male
 NR;GUY;DIS;M;50.44;;Piscataway;USA;Outdoor;2001-05-05;Patrick;Harding;GUY;1980;Male
 NR;HAI;DIS;M;50.92;;Kutztown;USA;Outdoor;2022-08-05;Abel;Amstrong Gilet;HAI;1991;Male
-NR;HKG;DIS;M;46.3;;Hongkong;HKG;Outdoor;2022-05-22;Lai;Chi Yam;HKG;1995;Male
+NR;HKG;DIS;M;46.56;;Hongkong;HKG;Outdoor;2025-01-18;Chi;Yam Lai;HKG;1995;Male
 NR;HON;DIS;M;53.54;;Sacramento;USA;Outdoor;2019-03-30;Zack;Short;HON;1997;Male
 NR;HUN;DIS;M;71.7;;Szombathely;HUN;Outdoor;2002-07-14;Róbert;Fazekas;HUN;1975;Male
 NR;INA;DIS;M;52.95;;Jakarta;INA;Outdoor;2011-07-01;Hermanto;;INA;1987;Male
