@@ -1,11 +1,11 @@
 Code;Type;Discipline;Class;Result;Wind;Venue;Venue Country;Environment;Date;Firstname;Lastname;Nation;YOB;Sex
 NL;GER;200;MJU20;21.52;;Hartwig-Gauder-Halle;GER;Indoor;2025-01-18;Mika;Dedekind;GER;;Male
-NL;GER;DRE;WJU20;12.31;;Rudolf-Harbig-Halle;GER;Indoor;2025-01-11;Charlotte;Stantke;GER;;Female
+NL;GER;DRE;WJU20;12.72;;Sportleistungszentrum;GER;Indoor;2025-01-26;Lotta-Henrike;Werner;GER;;Female
 NL;GER;DRE;MJU20;14.96;;Werner-von-Linde-Halle;GER;Indoor;2025-01-11;Benedikt;Maurer;GER;2007;Male
 NL;GER;400;WJU20;53.17;;Jahnsportforum;GER;Indoor;2025-01-18;Johanna;Martin;GER;2006;Female
 NL;GER;1K5;MJU20;3:55.61;;Helmut-Körnig-Halle;GER;Indoor;2025-01-18;Lenny;Fred Riebe;GER;;Male
 NL;GER;50M;MJU20;6.23;;Salle du Centre Mondial du Cyclisme;SUI;Indoor;2025-01-19;Matti;Steinmetz;GER;;Male
-NL;GER;MEI;WJU20;5:11.55;;Vanderbilt Multipurpose Facility;USA;Indoor;2025-01-18;Lilly;Schuster;GER;;Female
+NL;GER;MEI;WJU20;5:10.15;;Clemson Indoor Track & Field Complex;USA;Indoor;2025-01-24;Franziska;Drexler;GER;2006;Female
 NL;GER;WEI;WJU20;6.21;;Glaspalast;GER;Indoor;2025-01-18;Lena;Anochili;GER;;Female
 NL;GER;300;WJU20;41.61;;Leichtathletikhalle Luftschiffhafen;GER;Indoor;2025-01-18;Josefin;Fischer;GER;;Female
 NL;GER;400;MJU20;48.6;;Leichtathletikhalle Luftschiffhafen;GER;Indoor;2025-01-18;Joshua;Hoffmann;GER;2006;Male
@@ -13,24 +13,25 @@ NL;GER;400;MJU20;48.6;;Leichtathletikhalle;GER;Indoor;2025-01-18;Cedric;Barth;GE
 NL;GER;SPE;MJU20;60.92;;Werferplatz im Sportforum;GER;Outdoor;2025-01-25;Oskar;Nauck;GER;2007;Male
 NL;GER;200;WJU20;23.95;;Leichtathletikhalle im Sportforum;GER;Indoor;2025-01-19;Sherin;Kimuanga;GER;2006;Female
 NL;GER;HOC;MJU20;2.07;;Sporthalle an der Wilbrandschule;GER;Indoor;2025-01-12;Nevio;Völkel;GER;;Male
-NL;GER;SPE;WJU20;41.29;;Kernbergestadion;GER;Outdoor;2025-01-26;Lena;Benne;GER;;Female
+NL;GER;SPE;WJU20;44.57;;Stadion Werner-von-Linde-Halle;GER;Outdoor;2025-01-26;Konstanze;Irlinger;GER;2007;Female
 NL;GER;STA;WJU20;4.16;;Raiffeisen athletics-center;SUI;Indoor;2025-01-12;Anna;Hiesinger;GER;2007;Female
 NL;GER;60H;WJU20;8.37;;Werner-von-Linde-Halle;GER;Indoor;2025-01-11;Lea;Mehringer;GER;;Female
 NL;GER;2K0;WJU20;6:32.01;;Sportzentrum Kalbach;GER;Indoor;2025-01-19;Luise;Brzoska;GER;;Female
 NL;GER;KUG;WJU20;14.76;;Wiedigsburghalle;GER;Indoor;2025-01-25;Emily;Scherf;GER;2007;Female
 NL;GER;60M;WJU20;7.35;;Leichtathletikhalle im Sportforum;GER;Indoor;2025-01-25;Sherin;Kimuanga;GER;2006;Female
-NL;GER;HOC;WJU20;1.79;;Sporthalle an der Wilbrandschule;GER;Indoor;2025-01-12;Dorothea;Gantert;GER;;Female
-NL;GER;HAM;WJU20;52.41;;Werferplatz im Sportforum;GER;Outdoor;2025-01-25;Maria;Gröper;GER;2007;Female
+NL;GER;HOC;WJU20;1.82;;Sportleistungszentrum;GER;Indoor;2025-01-25;Dorothea;Gantert;GER;;Female
+NL;GER;HAM;WJU20;64.25;;Stadion Werner-von-Linde-Halle;GER;Outdoor;2025-01-25;Johanna;Marrwitz;GER;2006;Female
 NL;GER;800;WJU20;2:07.51;;Helmut-Körnig-Halle;GER;Indoor;2025-01-18;Jana;Marie Becker;GER;2006;Female
+NL;GER;60H;MJU20;8.74;;Sportforum;GER;Indoor;2025-01-25;Aidan;Ballaschke;GER;;Male
 NL;GER;5G;MJU20;20:26.93;;Hartwig-Gauder-Halle;GER;Indoor;2025-01-11;Nick;Joel Richardt;GER;2006;Male
 NL;GER;800;MJU20;1:52.14;;Leichtathletikhalle Luftschiffhafen;GER;Indoor;2025-01-19;Joshua;Hoffmann;GER;2006;Male
-NL;GER;3K0;WJU20;10:22.88;;Hartwig-Gauder-Halle;GER;Indoor;2025-01-12;Helena;Danae Manzke;GER;;Female
+NL;GER;3K0;WJU20;9:35.92;;Werner-von-Linde-Halle;GER;Indoor;2025-01-25;Jule;Jutta Lindner;GER;2006;Female
 NL;GER;60M;MJU20;6.84;;Leichtathletikhalle im Sportforum;GER;Indoor;2025-01-25;Louis;Schuster;GER;2007;Male
 NL;GER;50M;WJU20;7.1;;Salle du Centre Mondial du Cyclisme;SUI;Indoor;2025-01-18;Myah;Kouoga;GER;;Female
 NL;GER;WEI;MJU20;7.29;;Jahnsportforum;GER;Indoor;2025-01-18;Gian;Luca Trotzky;GER;2007;Male
-NL;GER;3K0;MJU20;8:35.91;;Leichtathletikhalle im Sportforum;GER;Indoor;2025-01-25;Luke;Hühn;GER;;Male
-NL;GER;3G;WJU20;14:35.56;;Leichtathletikhalle Luftschiffhafen;GER;Indoor;2025-01-19;Mia;Bandoly;GER;;Female
-NL;GER;1K5;WJU20;4:37.36;;Leichtathletikhalle im Sportforum;GER;Indoor;2025-01-25;Ida;Sommer;GER;;Female
+NL;GER;3K0;MJU20;8:28.15;;Werner-von-Linde-Halle;GER;Indoor;2025-01-25;Elias;Kolar;GER;2006;Male
+NL;GER;3G;WJU20;14:06.68;;Sportzentrum Kalbach;GER;Indoor;2025-01-25;Liv;Minzenmay;GER;;Female
+NL;GER;1K5;WJU20;4:21.35;;Sportleistungszentrum;GER;Indoor;2025-01-25;Lera;Miller;GER;2007;Female
 NL;GER;DIS;WJU20;43.59;;Stadion Luftschiffhafen;GER;Outdoor;2025-01-19;Chiara;Wildner;GER;2008;Female
 NL;GER;STA;MJU20;4.8;;Helmut-Körnig-Halle;GER;Indoor;2025-01-04;Ben;Duwenbeck;GER;;Male
 NL;GER;STA;MJU20;4.8;;Leichtathletikhallen Manfort;GER;Indoor;2025-01-12;Lars;Urich;GER;2006;Male
