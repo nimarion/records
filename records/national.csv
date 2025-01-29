@@ -766,7 +766,7 @@ NR;LTU;1K0;W;2:32.3;;Podolsk;URS;Outdoor;1985-09-12;Laima;Baikauskaitė;LTU;1956
 NR;LUX;1K0;W;2:40.09;;Pliezhausen;GER;Outdoor;2018-05-13;Charline;Mathias;LUX;1992;Female
 NR;MAR;1K0;W;2:33.15;;Nice;FRA;Outdoor;1999-07-17;Hasna;Benhassi;MAR;1978;Female
 NR;MLI;1K0;W;3:01.73;;Nemours;FRA;Outdoor;2014-06-08;Dienabou;Diarra;MLI;1999;Female
-NR;MLT;1K0;W;2:57.47;;Marsa;MLT;Outdoor;2021-01-16;Monalisa;Camilleri;MLT;1991;Female
+NR;MLT;1K0;W;2:53.97;;Marsa;MLT;Outdoor;2025-01-25;Mireya;Bugeja;MLT;2007;Female
 NR;MNE;1K0;W;2:48.94;;Bar;MNE;Outdoor;2011-09-11;Sladjana;Perunović;MNE;1984;Female
 NR;MON;1K0;W;3:20.13;;Monaco;MON;Outdoor;2022-08-10;Clarisse;Rue;MON;2005;Female
 NR;MOZ;1K0;W;2:29.34;;Bruxelles;BEL;Outdoor;1995-08-25;Maria;Mutola;MOZ;1972;Female
@@ -1048,7 +1048,7 @@ NR;LCA;HOC;W;1.98;;Athens;USA;Outdoor;2010-05-08;Levern;Spencer;LCA;1984;Female
 NR;LES;HOC;W;1.79;;Bambous;MRI;Outdoor;2011-04-16;Selloane;Tsoaeli;LES;1977;Female
 NR;LIE;HOC;W;1.79;;Schaan;LIE;Outdoor;1989-06-10;Yvonne;Hasler;LIE;1968;Female
 NR;LUX;HOC;W;1.85;;Pierre-Bénite;FRA;Outdoor;2017-06-09;Elodie;Tshilumba;LUX;1998;Female
-NR;MAC;HOC;W;1.65;;Macau;MAC;Outdoor;2021-06-03;Wong;Wang Lok;MAC;2004;Female
+NR;MAC;HOC;W;1.68;;Guangzhou;CHN;Outdoor;2024-11-30;Leong;Cheong;MAC;2004;Female
 NR;MAD;HOC;W;1.65;;Antananarivo;MAD;Outdoor;1992-06-14;Hérilala;Rakotoarimanana;MAD;;Female
 NR;MAR;HOC;W;1.86;;Rabat;MAR;Outdoor;2021-06-02;Ghizlane;Siba;MAR;1996;Female
 NR;MAS;HOC;W;1.83;;Kuala Lumpur;MAS;Outdoor;2017-08-24;Yap;Sean Yee;MAS;1995;Female
@@ -7506,7 +7506,7 @@ NR;KUW;HOC;M;2.15;;Macau;MAC;Indoor;2007-11-01;Salem;Sayar Al-Anezi;KUW;1983;Mal
 NR;LAT;HOC;M;2.28;;Panevežys;LTU;Indoor;1992-02-15;Normunds;Sietins;LAT;1967;Male
 NR;LBN;HOC;M;2.24;;Weinheim;GER;Indoor;2007-02-07;Jean-Claude;Rabbath;LBN;1977;Male
 NR;LCA;HOC;M;2.25;;Uxbridge;GBR;Indoor;2008-01-27;Darwin;Edwards;LCA;1986;Male
-NR;LIE;HOC;M;1.99;;Zürich;SUI;Indoor;2025-01-11;Joel;Riesen;LIE;2004;Male
+NR;LIE;HOC;M;2.08;;Dornbirn;AUT;Indoor;2025-01-26;Joel;Riesen;LIE;2004;Male
 NR;LTU;HOC;M;2.28;;Vilnius;LTU;Indoor;2015-01-31;Raivydas;Stanys;LTU;1987;Male
 NR;LUX;HOC;M;2.17;;Dortmund;GER;Indoor;1988-03-26;Raymond;Conzemius;LUX;1966;Male
 NR;MAC;HOC;M;1.95;;Macau;MAC;Indoor;2007-10-30;Lei;Kuok Kuan;MAC;1989;Male
@@ -8169,7 +8169,7 @@ NR;IND;1K5;M;3:41.18;;Doha;QAT;Indoor;2008-02-15;Chatholi;Hamza;IND;1981;Male
 NR;IRI;1K5;M;3:48.32;;Budapest;HUN;Indoor;1989-03-04;Hamid;Sadjadi;IRI;1969;Male
 NR;IRL;1K5;M;3:33.49;;Birmingham;GBR;Indoor;2023-02-25;Andrew;Coscoran;IRL;1996;Male
 NR;IRQ;1K5;M;3:44.38;;Stockholm;SWE;Indoor;2009-02-18;Adnan;Taees Akkar;IRQ;1980;Male
-NR;ISL;1K5;M;3:41.05;;Reykjavik;ISL;Indoor;2024-02-04;Baldvin;Thór Magnússon;ISL;1999;Male
+NR;ISL;1K5;M;3:39.67;;Reykjavik;ISL;Indoor;2025-01-27;Baldvin;Thór Magnússon;ISL;1999;Male
 NR;ISR;1K5;M;3:47.85;;Clemson;USA;Indoor;2005-02-25;Itai;Maggidi;ISR;1981;Male
 NR;ITA;1K5;M;3:35.63;;Toruń;POL;Indoor;2024-02-06;Ossama;Meslek;ITA;1997;Male
 NR;JAM;1K5;M;3:40.7;;New York;USA;Indoor;1974-02-08;Byron;Dyce;JAM;1948;Male
