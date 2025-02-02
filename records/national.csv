@@ -1504,13 +1504,13 @@ NR;CRO;800;W;1:59.83;;Budapest;HUN;Indoor;1987-02-08;Slobodanka;Colovic;CRO;1965
 NR;CUB;800;W;2:04.18;;Eaubonne;FRA;Indoor;2016-02-09;Rose;M. Almanza;CUB;1992;Female
 NR;CYP;800;W;2:05.28;;Istanbul;TUR;Indoor;2024-02-10;Stavri;Filippou;CYP;1992;Female
 NR;CZE;800;W;1:56.90;;Maebashi;JPN;Indoor;1999-03-07;Ludmila;Formanová;CZE;1974;Female
-NR;DEN;800;W;2:02.33;;Stockholm;SWE;Indoor;2000-02-17;Heidi;Whitehead;DEN;1966;Female
+NR;DEN;800;W;2:02.15;;Erfurt;GER;Indoor;2025-01-31;Annemarie;Nissen;DEN;1994;Female
 NR;DMA;800;W;2:02.55;;Indianapolis;USA;Indoor;1997-03-08;Dawn;Williams-Sewer;DMA;1973;Female
 NR;ESA;800;W;2:20.47;;Barcelona;ESP;Indoor;1995-03-10;Rosa;Evora;ESA;1973;Female
 NR;ESP;800;W;1:59.52;;Gent;BEL;Indoor;2004-02-08;Mayte;Martínez;ESP;1976;Female
 NR;EST;800;W;2:04.39;;Võru;EST;Indoor;2007-02-20;Egle;Uljas;EST;1984;Female
 NR;ETH;800;W;1:57.52;;Val-de-Reuil;FRA;Indoor;2021-02-14;Gudaf;Tsegay;ETH;1997;Female
-NR;FIN;800;W;2:01.57;;Toruń;POL;Indoor;2024-02-06;Eveliina;Määttänen;FIN;1995;Female
+NR;FIN;800;W;2:01.55;;Erfurt;GER;Indoor;2025-01-31;Eveliina;Määttänen;FIN;1995;Female
 NR;FRA;800;W;2:00.42;;Moskva;RUS;Indoor;2006-03-11;Elisabeth;Grousselle;FRA;1973;Female
 NR;GAB;800;W;2:21.57;;Budapest;HUN;Indoor;2004-03-05;Marlyse;Nsourou;GAB;1987;Female
 NR;GBR;800;W;1:57.18;;Birmingham;GBR;Indoor;2023-02-25;Keely;Hodgkinson;GBR;2002;Female
@@ -5634,7 +5634,7 @@ NR;GUI;10H;W;12.96;1.8;Sacramento;USA;Outdoor;2007-06-08;Fatmata;Fofanah;GUI;198
 NR;GUM;10H;W;15.65;;Manenggon Hills;GUM;Outdoor;2012-05-18;Stefani;Loisel;GUM;;Female
 NR;GUY;10H;W;13.27;1.7;Barranquilla;COL;Outdoor;2018-07-30;Jenea;Mccammon;GUY;1991;Female
 NR;HAI;10H;W;12.74;1.7;Athína;GRE;Outdoor;2004-08-23;Nadine;Faustin-Parker;HAI;1976;Female
-NR;HKG;10H;W;13.14;0.0;Walnut, Ca;USA;Outdoor;1994-04-17;Chan;Sau-Ying;HKG;1970;Female
+NR;HKG;10H;W;13.14;;Walnut;USA;Outdoor;1994-04-17;Chan;Sau-Ying;HKG;1970;Female
 NR;HON;10H;W;13.83;-0.6;Toluca;MEX;Outdoor;2008-07-21;Jeimy;J. Bernárdez;HON;1986;Female
 NR;HUN;10H;W;12.69;0.3;München;GER;Outdoor;2022-08-21;Luca;Kozák;HUN;1996;Female
 NR;INA;10H;W;13.16;1.1;Sena;INA;Outdoor;2024-09-12;Dina;Aulia;INA;2003;Female
@@ -8393,7 +8393,7 @@ NR;ROU;60M;M;6.6;;Bucureşti;ROU;Indoor;2013-02-09;Catalin;Campeanu;ROU;1985;Mal
 NR;RSA;60M;M;6.48;;Dortmund;GER;Indoor;2002-01-27;Morne;Nagel;RSA;1978;Male
 NR;RUS;60M;M;6.52;;Moskva;RUS;Indoor;2006-03-10;Andrey;Yepishin;RUS;1981;Male
 NR;SAM;60M;M;6.69;;Flagstaff;USA;Indoor;2016-01-30;Jeremy;Dodson;SAM;1987;Male
-NR;SEN;60M;M;6.56;;Liévin;FRA;Indoor;1987-02-07;Charles-Louis;Seck;SEN;1965;Male
+NR;SEN;60M;M;6.54;;Miramas;FRA;Indoor;2025-01-31;Mamadou;Fall Sarr;SEN;1998;Male
 NR;SEY;60M;M;6.82;;Birmingham;GBR;Indoor;2018-03-03;Dyland;Sicobo;SEY;1997;Male
 NR;SGP;60M;M;6.69;;Glasgow;GBR;Indoor;2024-03-01;Marc;Brian Louis;SGP;2002;Male
 NR;SKN;60M;M;6.47;;Łódź;POL;Indoor;2015-02-17;Kim;Collins;SKN;1976;Male
@@ -9683,7 +9683,7 @@ NR;CZE;60H;M;7.44;;Praha;CZE;Indoor;2010-02-27;Petr;Svoboda;CZE;1984;Male
 NR;DEN;60H;M;7.68;;Beograd;SRB;Indoor;2017-03-03;Andreas;Martinsen;DEN;1990;Male
 NR;DOM;60H;M;7.75;;New York;USA;Indoor;2009-02-06;Ramón;Sosa;DOM;1986;Male
 NR;ECU;60H;M;7.71;;Madrid;ESP;Indoor;2005-02-24;Jackson;Quiñónez;ECU;1980;Male
-NR;EGY;60H;M;7.79;;Mondeville;FRA;Indoor;2024-02-07;Yousuf;Badawy Sayyed;EGY;2002;Male
+NR;EGY;60H;M;7.78;;Erfurt;GER;Indoor;2025-01-31;Yousuf;Badawy Sayyed;EGY;2002;Male
 NR;ESA;60H;M;8.0;;Cambridge;USA;Indoor;2023-02-03;Víctor;Steiner;ESA;2001;Male
 NR;ESP;60H;M;7.48;;Toruń;POL;Indoor;2017-02-10;Orlando;Ortega;ESP;1991;Male
 NR;ESP;60H;M;7.48;;Madrid;ESP;Indoor;2023-02-19;Enrique;Llopis;ESP;2000;Male
@@ -9703,7 +9703,7 @@ NR;HKG;60H;M;7.83;;Astana;KAZ;Indoor;2023-02-11;Cheung;Wang Fung;HKG;1997;Male
 NR;HON;60H;M;8.04;;Valencia;ESP;Indoor;2009-02-14;Ronald;Bennett;HON;1986;Male
 NR;HUN;60H;M;7.53;;Budapest;HUN;Indoor;2017-02-19;Balázs;Baji;HUN;1989;Male
 NR;INA;60H;M;7.98;;Birmingham;GBR;Indoor;2018-03-03;Rio;Maholtra;INA;1993;Male
-NR;IND;60H;M;7.65;;Luxembourg;LUX;Indoor;2025-01-19;Shirse;Tejas;IND;2002;Male
+NR;IND;60H;M;7.64;;Miramas;FRA;Indoor;2025-01-31;Shirse;Tejas;IND;2002;Male
 NR;IRI;60H;M;7.82;;Tehran;IRI;Indoor;2004-02-08;Rohallah;Ashgari;IRI;1982;Male
 NR;IRL;60H;M;7.57;;Blacksburg;USA;Indoor;1999-02-26;Peter;Coghlan;IRL;1975;Male
 NR;IRQ;60H;M;7.77;;Malmö;SWE;Indoor;2016-02-28;Amir;Shaker;IRQ;1989;Male
