@@ -14,7 +14,7 @@ AL;1;600;M;1:14.92;;Complexe Sportif de Blocry;BEL;Indoor;2025-01-25;Eliott;Cres
 AL;1;5K0;M;13:00.54;;Boston Univ. Track & Tennis Center;USA;Indoor;2025-02-01;Jimmy;Gressier;FRA;1997;Male
 AL;1;200;W;22.84;;Coque Sport Center;LUX;Indoor;2025-01-19;Jessica-Bianca;Wessolly;GER;1996;Female
 AL;1;4×8;W;9:01.35;;Velesajam Hall;CRO;Indoor;2025-01-18;Dinamo;Zrinjevac;CRO;;Female
-AL;1;4×4;W;3:45.48;;Velesajam Hall;CRO;Indoor;2025-02-01;AGRAM;I , Zagreb;CRO;;Female
+AL;1;4×4;W;3:43.44;;Leichtathletikhallen Manfort;GER;Indoor;2025-02-02;TSV;Bayer 04 Leverkusen;GER;;Female
 AL;1;SPE;W;55.12;;Campo Comunale;ITA;Outdoor;2025-01-25;Paola;Padovan;ITA;1995;Female
 AL;1;400;W;51.31;;Randal Tyson Indoor Center;USA;Indoor;2025-02-01;Amber;Anning;GBR;2000;Female
 AL;1;STA;M;5.9;;Palais des Sports Caen la Mer;FRA;Indoor;2025-01-31;Emmanouil;Karalis;GRE;1999;Male
@@ -59,9 +59,9 @@ AL;1;WEI;W;6.79;;Helmut-Körnig-Halle;GER;Indoor;2025-01-18;Malaika;Mihambo;GER;
 AL;1;60H;W;7.86;;Atletska dvorana;SRB;Indoor;2025-01-29;Nadine;Visser;NED;1995;Female
 AL;1;1K5;W;4:03.59;;Coque Sport Center;LUX;Indoor;2025-01-19;Marta;Zenoni;ITA;1999;Female
 AL;1;4×2;W;1:36.67;;Leichtathletikhallen Manfort;GER;Indoor;2025-01-26;TSV;Bayer 04 Leverkusen B;GER;;Female
-AL;1;HOC;M;2.3;;Ural;RUS;Indoor;2025-01-17;Danil;Lysenko;RUS;1997;Male
-AL;1;HOC;M;2.3;;Arena;UKR;Indoor;2025-01-18;Oleh;Doroshchuk;UKR;2001;Male
+AL;1;HOC;M;2.31;;Hadar Yosef Stadium;ISR;Outdoor;2025-02-01;Yonathan;Kapitolnik;ISR;2002;Male
 AL;1;50H;M;7.33;;Salle du Centre Mondial du Cyclisme;SUI;Indoor;2025-01-18;Flavio;Abt;SUI;2001;Male
+AL;1;50H;M;7.33;;Salle du Centre Mondial du Cyclisme;SUI;Indoor;2025-02-01;Hans;Vercruysse;BEL;;Male
 AL;1;600;W;1:26.60;;Randal Tyson Indoor Center;USA;Indoor;2025-01-17;Amber;Anning;GBR;2000;Female
 AL;1;MEI;M;3:49.45;;Boston Univ. Track & Tennis Center;USA;Indoor;2025-02-01;Robert;Farken;GER;1997;Male
 AL;1;800;M;1:44.65;;Coque Sport Center;LUX;Indoor;2025-01-19;Elvin;Josué Canales;ESP;2001;Male
@@ -214,7 +214,7 @@ AL;5;HAM;W;45.82;;Tsueng Kwan O Sports Ground;HKG;Outdoor;2025-01-19;Hiu;Ki Tam;
 AL;5;DIS;M;46.56;;Tsueng Kwan O Sports Ground;HKG;Outdoor;2025-01-18;Chi;Yam Lai;HKG;;Male
 AL;5;MEI;W;4:28.54;;The Track at New Balance;USA;Indoor;2025-02-02;Nozomi;Tanaka;JPN;1999;Female
 AL;5;60M;W;7.34;;Convention Center;USA;Indoor;2025-01-25;Kristina;Marie Knott;PHI;1995;Female
-AL;5;400;M;47.67;;Track & Field complex;KAZ;Indoor;2025-01-18;Andrey;Sokolov;KAZ;1995;Male
+AL;5;400;M;46.87;;Olympic Park;AUS;Outdoor;2025-01-26;Joshua;Atkinson;THA;2003;Male
 AL;5;100;W;11.98;0.3;Tsueng Kwan O Sports Ground;HKG;Outdoor;2025-01-18;Chun;Ki Kong;HKG;1998;Female
 AL;5;3KH;M;9:34.20;;Tsueng Kwan O Sports Ground;HKG;Outdoor;2025-01-18;Jason;Chun Ho Yeung;HKG;;Male
 AL;5;KUG;M;18.83;;Wiedigsburghalle;GER;Indoor;2025-01-25;Jian;Chen;CHN;1991;Male
@@ -239,7 +239,7 @@ AL;5;1K5;W;4:09.80;;The Track at New Balance;USA;Indoor;2025-02-02;Nozomi;Tanaka
 AL;5;HOC;M;2.18;;Osaka Castle Hall;JPN;Indoor;2025-02-02;Naoto;Hasegawa;JPN;1996;Male
 AL;5;HOC;M;2.18;;Osaka Castle Hall;JPN;Indoor;2025-02-02;Yuto;Seko;JPN;1998;Male
 AL;5;600;W;1:37.24;;Bruce Kidd Field House;CAN;Indoor;2025-01-18;Asima;Kidwai;IND;;Female
-AL;5;MEI;M;4:10.88;;Ahearn Field House;USA;Indoor;2025-01-17;Ryo;Higuchi;JPN;2005;Male
+AL;5;MEI;M;4:03.05;;Hearnes Center;USA;Indoor;2025-02-01;Ryo;Higuchi;JPN;2005;Male
 AL;5;800;M;1:47.69;;Randal Tyson Indoor Center;USA;Indoor;2025-01-31;El;Hafez Mahadi;QAT;2002;Male
 AL;4;2K0;W;6:14.79;;Hadar Yosef Stadium;ISR;Outdoor;2025-01-13;Cecelia;Thalang Juli Ajieth;SSD;;Female
 AL;4;3K0;M;7:40.29;;Coque Sport Center;LUX;Indoor;2025-01-19;Mathew;Kipchumba Kipsang;KEN;1995;Male
@@ -257,6 +257,7 @@ AL;0;4×4;W;3:45.85;;Sports Performance Center;USA;Indoor;2025-01-18;West;Texas 
 AL;4;400;W;52.21;;Clemson Indoor Track & Field Complex;USA;Indoor;2025-01-31;Vimbayi;Maisvoreva;ZIM;2000;Female
 AL;4;STA;M;5.33;;"R.A. ""Murray"" Fasken Indoor Track Stadium";USA;Indoor;2025-01-25;Nikolai;Van Huyssteen;RSA;2002;Male
 AL;4;1K5;M;3:37.56;;Atletska dvorana;SRB;Indoor;2025-01-29;Anass;Essayi;MAR;2001;Male
+AL;4;50M;W;6.84;;Salle du Centre Mondial du Cyclisme;SUI;Indoor;2025-02-01;Malaïka;Malu;CGO;;Female
 AL;4;60M;M;6.52;;Vanderbilt Multipurpose Facility;USA;Indoor;2025-01-11;Barnabas;Aggerh;GHA;1998;Male
 AL;4;1K0;W;2:39.99;;Clemson Indoor Track & Field Complex;USA;Indoor;2025-01-11;Gladys;Chepngetich;KEN;2001;Female
 AL;4;3K0;W;8:39.80;;Track & Field complex;KAZ;Indoor;2025-01-25;Marta;Alemayo;ETH;2008;Female
@@ -270,16 +271,16 @@ AL;4;KUG;M;19.59;;Turnhalle Am Regenbogen;GER;Indoor;2025-02-02;Kyle;Blignaut;RS
 AL;4;HOC;W;1.93;;Sports Performance Center;USA;Indoor;2025-01-24;Temitope;Simbiat Adeshina;NGR;1998;Female
 AL;4;100;M;10.42;-0.2;Kerryn McCann Athletic Centre;AUS;Outdoor;2025-01-11;Ismail;Kamara;SLE;1997;Male
 AL;4;DRE;M;16.26;;Alachua County Sports Complex;USA;Indoor;2025-01-17;Goodness;Iredia;NGR;;Male
-AL;4;WEI;M;7.79;;Norton Sports Center;USA;Indoor;2025-01-31;Goodness;Iredia;NGR;;Male
+AL;4;WEI;M;7.84;0.0;Francistown Stadion;BOT;Outdoor;2025-02-01;Thapelo;Monaiwa;BOT;1998;Male
 AL;4;3G;W;14:50.17;;Centre Preparation Omnisports;FRA;Indoor;2025-01-25;Prisca;Manikion;MRI;1985;Female
 AL;4;DRE;W;13.92;;Convention Center;USA;Indoor;2025-02-01;Winny;Chepngetich Bii;KEN;2003;Female
 AL;4;HAM;M;51.79;;Complexe Olympique Mohamed Boudiaf;ALG;Outdoor;2025-01-28;Amine;Yahiaoui;ALG;2007;Male
 AL;4;300;W;37.62;;Alachua County Sports Complex;USA;Indoor;2025-01-17;Jessika;Gbai;CIV;1998;Female
 AL;4;60H;M;7.66;;Stadium Pierre-Quinon;FRA;Indoor;2025-01-25;Jeremie;Lararaudeuse;MRI;2001;Male
-AL;4;5K0;W;17:07.37;;Vanderbilt Multipurpose Facility;USA;Indoor;2025-01-17;Sharon;Jemeli;KEN;;Female
+AL;4;5K0;W;16:20.80;;Washburn Indoor Athletic Facility;USA;Indoor;2025-01-31;Juliana;Sakat;GHA;1996;Female
 AL;4;KUG;W;17.0;;Sports Performance Center;USA;Indoor;2025-01-24;Ashley;Erasmus;RSA;2005;Female
 AL;4;50M;M;5.74;;Field House;CAN;Indoor;2025-01-24;Usheoritse;Itsekiri;NGR;1998;Male
-AL;4;WEI;W;6.2;;Ott Center for Track & Field;USA;Indoor;2025-01-18;Aniella;Delafosse;CIV;2001;Female
+AL;4;WEI;W;6.45;1.6;Francistown Stadion;BOT;Outdoor;2025-02-01;Tshegofatso;Bojosi;BOT;1998;Female
 AL;4;60H;W;7.91;;Coque Sport Center;LUX;Indoor;2025-01-19;Marione;Fourie;RSA;2002;Female
 AL;4;1K5;W;4:07.42;;The Track at New Balance;USA;Indoor;2025-02-02;Susan;Lokayo Ejore;KEN;1995;Female
 AL;4;HOC;M;2.2;;Sports Performance Center;USA;Indoor;2025-01-24;Omamuyovwi;Erhire;NGR;2002;Male
