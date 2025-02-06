@@ -1,75 +1,78 @@
 Code;Type;Discipline;Class;Result;Wind;Venue;Venue Country;Environment;Date;Firstname;Lastname;Nation;YOB;Sex
-WL;;MEI;M;3:45.34;;Hayward Field;USA;Outdoor;2024-05-25;Josh;Kerr;GBR;1997;Male
-WL;;SPE;M;92.97;;Stade de France;FRA;Outdoor;2024-08-08;Arshad;Nadeem;PAK;1997;Male
-WL;;WEI;M;8.65;-0.3;Stadio Olimpico;ITA;Outdoor;2024-06-08;Miltiadis;Tentoglou;GRE;1998;Male
-WL;;200;W;21.78;1.4;Hayward Field;USA;Outdoor;2024-06-28;Gabrielle;Thomas;USA;1996;Female
-WL;;800;W;1:54.61;;Olympic Stadium;GBR;Outdoor;2024-07-20;Keely;Hodgkinson;GBR;2002;Female
-WL;;HOC;W;2.1;;Stade Charléty;FRA;Outdoor;2024-07-07;Yaroslava;Mahuchikh;UKR;2001;Female
-WL;;4×8;M;7:13.98;;Franklin Field;USA;Outdoor;2024-04-27;Texas;A&M;INT;;Male
-WL;;60M;W;6.98;;Glasgow Arena;GBR;Indoor;2024-03-02;Julien;Alfred;LCA;2001;Female
-WL;;60M;W;6.98;;Glasgow Arena;GBR;Indoor;2024-03-02;Ewa;Swoboda;POL;1997;Female
-WL;;2KH;W;5:56.71;;Olympiastadion;GER;Outdoor;2024-09-01;Gesa;Felicitas Krause;GER;1992;Female
-WL;;SPE;W;66.7;;Pista de Atletismo da Universidade Federal do Mato Grosso;BRA;Outdoor;2024-05-12;Flor;Denis Ruiz Hurtado;COL;1991;Female
-WL;;50M;W;6.33;;GSG9-Halle;AUT;Indoor;2024-01-16;Christania;Williams;JAM;1994;Female
-WL;;STA;W;4.92;;Place du Capitole;FRA;Outdoor;2024-06-22;Molly;Caudery;GBR;2000;Female
-WL;;2K0;W;5:19.70;;Stade Louis;MON;Outdoor;2024-07-12;Jessica;Hull;AUS;1996;Female
-WL;;HOC;M;2.37;;Stadio Olimpico;ITA;Outdoor;2024-06-11;Gianmarco;Tamberi;ITA;1992;Male
-WL;;3G;W;12:17.95;;Expocentro;POR;Indoor;2024-02-17;Vitória;Oliveira;POR;1992;Female
-WL;;40H;W;50.37;;Stade de France;FRA;Outdoor;2024-08-08;Sydney;Mclaughlin-Levrone;USA;1999;Female
-WL;;1K5;M;3:26.73;;Stade Louis;MON;Outdoor;2024-07-12;Jakob;Ingebrigtsen;NOR;2000;Male
-WL;;KUG;W;20.68;;Garage Strength;USA;Outdoor;2024-05-11;Sarah;Mitton;CAN;1996;Female
-WL;;3K0;M;7:17.55;;Stadion Śląski;POL;Outdoor;2024-08-25;Jakob;Ingebrigtsen;NOR;2000;Male
-WL;;50H;W;7.04;;GSG9-Halle;AUT;Indoor;2024-01-16;Karin;Strametz;AUT;1998;Female
-WL;;3K0;W;8:17.11;;Arena Stade Couvert;FRA;Indoor;2024-02-10;Gudaf;Tsegay;ETH;1997;Female
-WL;;600;M;1:14.03;;Convention Center;USA;Indoor;2024-02-09;Brandon;Miller;USA;2002;Male
-WL;;1K0;W;2:31.24;;Stadion Śląski;POL;Outdoor;2024-08-25;Nelly;Chepchirchir;KEN;2003;Female
-WL;;10G;W;40:59.93;;Kalininets Stadium;RUS;Outdoor;2024-08-15;Elvira;Chepareva;RUS;2000;Female
-WL;;DIS;W;73.09;;Millican Field at Throw Town;USA;Outdoor;2024-04-13;Yaimé;Pérez;CUB;1991;Female
-WL;;5K0;M;12:36.73;;Bislett Stadion;NOR;Outdoor;2024-05-30;Hagos;Gebrhiwet;ETH;1994;Male
-WL;;10H;W;12.24;-0.4;Stadio Olimpico;ITA;Outdoor;2024-08-30;Ackera;Nugent;JAM;2002;Female
-WL;;4×8;W;8:17.28;;Franklin Field;USA;Outdoor;2024-04-27;Washington;;INT;;Female
-WL;;2K0;M;4:51.23;;Arena Stade Couvert;FRA;Indoor;2024-02-10;Lamecha;Girma;ETH;2000;Male
-WL;;4×4;W;3:15.27;;Stade de France;FRA;Outdoor;2024-08-10;United;States;USA;;Female
-WL;;5K0;W;14:09.52;;Letzigrund;SUI;Outdoor;2024-09-05;Beatrice;Chebet;KEN;2000;Female
-WL;;3KH;M;8:01.63;;Olympiastadion;SWE;Outdoor;2024-06-02;Lamecha;Girma;ETH;2000;Male
-WL;;DRE;W;15.02;-0.4;Stade de France;FRA;Outdoor;2024-08-03;Thea;Lafond;DMA;1994;Female
-WL;;100;M;9.77;0.9;National Stadium;JAM;Outdoor;2024-06-28;Kishane;Thompson;JAM;2001;Male
-WL;;40H;M;46.46;;Hayward Field;USA;Outdoor;2024-06-30;Rai;Benjamin;USA;1997;Male
-WL;;60H;W;7.65;;Glasgow Arena;GBR;Indoor;2024-03-03;Devynne;Charlton;BAH;1995;Female
-WL;;HAM;M;84.38;;Nyayo National Stadium;KEN;Outdoor;2024-04-20;Ethan;Katzberg;CAN;2002;Male
-WL;;400;M;43.4;;Stade de France;FRA;Outdoor;2024-08-07;Quincy;Hall;USA;1998;Male
-WL;;KUG;M;23.13;;Hayward Field;USA;Outdoor;2024-05-25;Joe;Kovacs;USA;1989;Male
-WL;;1K5;W;3:49.04;;Stade Charléty;FRA;Outdoor;2024-07-07;Faith;Kipyegon;KEN;1994;Female
-WL;;4×1;W;41.55;;Olympic Stadium;GBR;Outdoor;2024-07-20;Great;Britain & Ni;GBR;;Female
-WL;;HAM;W;79.92;;Univ. of Arizona Roy P. Drachman Stadium;USA;Outdoor;2024-05-04;Brooke;Andersen;USA;1995;Female
-WL;;10K;W;28:54.14;;Hayward Field;USA;Outdoor;2024-05-25;Beatrice;Chebet;KEN;2000;Female
-WL;;10K;M;26:31.01;;Estadio Enrique Lopez Cuenca;ESP;Outdoor;2024-06-14;Yomif;Kejelcha;ETH;1997;Male
-WL;;5G;M;18:16.97;;Prefectural Stadium;JPN;Outdoor;2024-05-18;Ryo;Hamanishi;JPN;2000;Male
-WL;;60M;M;6.41;;Glasgow Arena;GBR;Indoor;2024-03-01;Christian;Coleman;USA;1996;Male
-WL;;STA;M;6.26;;Stadion Śląski;POL;Outdoor;2024-08-25;Armand;Duplantis;SWE;1999;Male
-WL;;DRE;M;18.18;-0.3;Stadio Olimpico;ITA;Outdoor;2024-06-11;Jordan;Alejandro Díaz Fortun;ESP;2001;Male
-WL;;5G;W;20:50.56;;KMSHVSM Arena;UKR;Indoor;2024-01-20;Lyudmila;Olyanovska;UKR;1993;Female
-WL;;10G;M;38:03.69;;Kalininets Stadium;RUS;Outdoor;2024-08-18;Sergey;Shirobokov;RUS;1999;Male
-WL;;600;W;1:21.63;;Olympiastadion;GER;Outdoor;2024-09-01;Mary;Moraa;KEN;2000;Female
-WL;;4×4;X;3:07.41;;Stade de France;FRA;Outdoor;2024-08-02;United;States;USA;;Mixed
-WL;;400;W;48.17;;Stade de France;FRA;Outdoor;2024-08-09;Marileidy;Paulino;DOM;1996;Female
-WL;;11H;M;12.86;2.0;Hayward Field;USA;Outdoor;2024-06-28;Grant;Holloway;USA;1997;Male
-WL;;50M;M;5.71;;Field House;CAN;Indoor;2024-01-26;Usheoritse;Itsekiri;NGR;1998;Male
-WL;;100;W;10.71;0.8;Hayward Field;USA;Outdoor;2024-06-22;Sha'Carri;Richardson;USA;2000;Female
-WL;;4×2;M;1:21.24;;Keio Univ. Hiyoshi Athletics Field;JPN;Outdoor;2024-07-06;Waseda;University;JPN;;Male
-WL;;60H;M;7.27;;Convention Center;USA;Indoor;2024-02-16;Grant;Holloway;USA;1997;Male
-WL;;200;M;19.46;0.4;Stade de France;FRA;Outdoor;2024-08-08;Letsile;Tebogo;BOT;2003;Male
-WL;;2KH;M;5:19.68;;Østerbro Stadium;DEN;Outdoor;2024-09-03;Duncan;Hamilton;USA;2000;Male
-WL;;4×2;W;1:27.05;;Mike A. Myers Stadium;USA;Outdoor;2024-03-30;Team;International;INT;;Female
-WL;;MEI;W;4:16.41;;Armory Track&Field Center;USA;Indoor;2024-02-11;Elle;St. Pierre;USA;1995;Female
-WL;;300;M;30.69;;Pilditch Stadium;RSA;Outdoor;2024-02-17;Letsile;Tebogo;BOT;2003;Male
-WL;;300;W;35.46;;Fana Stadion;NOR;Outdoor;2024-05-22;Henriette;Jæger;NOR;2003;Female
-WL;;1K0;M;2:13.13;;Sports Park Mladost;CRO;Outdoor;2024-09-08;Marco;Arop;CAN;1998;Male
-WL;;3G;M;10:44.00;;Hartwig-Gauder-Halle;GER;Indoor;2024-02-02;Christopher;Linke;GER;1988;Male
-WL;;WEI;W;7.22;-1.4;Stadio Olimpico;ITA;Outdoor;2024-06-12;Malaika;Mihambo;GER;1994;Female
-WL;;50H;M;6.99;;Velesajam Hall;CRO;Indoor;2024-02-03;Lukas;Cik;CRO;2002;Male
-WL;;4×1;M;37.4;;The Bahamas National Stadium;BAH;Outdoor;2024-05-05;United;States;USA;;Male
-WL;;4×4;M;2:54.43;;Stade de France;FRA;Outdoor;2024-08-10;United;States;USA;;Male
-WL;;800;M;1:41.11;;Stade Olympique de la Pontaise;SUI;Outdoor;2024-08-22;Emmanuel;Wanyonyi;KEN;2004;Male
-WL;;3KH;W;8:44.39;;Stadio Olimpico;ITA;Outdoor;2024-08-30;Winfred;Yavi;BRN;1999;Female
-WL;;DIS;M;74.35;;Millican Field at Throw Town;USA;Outdoor;2024-04-14;Mykolas;Alekna;LTU;2002;Male
+WL;;4×2;M;1:25.21;;Virginia Beach Sports Center;USA;Indoor;2025-01-19;Archbishop;Carroll;INT;;Male
+WL;;2K0;W;5:42.53;;Centro de Tecnificación de Atletismo;ESP;Indoor;2025-01-25;Esther;Guerrero;ESP;1990;Female
+WL;;3K0;M;7:27.92;;Stade couvert Jesse Owens;FRA;Indoor;2025-02-02;George;Mills;GBR;1999;Male
+WL;;STA;W;4.8;;Ahearn Field House;USA;Indoor;2025-01-31;Katie;Moon;USA;1991;Female
+WL;;DIS;W;59.21;;Sportforum;GER;Outdoor;2025-02-01;Marike;Steinacker;GER;1992;Female
+WL;;SPE;M;75.85;;Campo Comunale;ITA;Outdoor;2025-01-25;Giovanni;Frattini;ITA;2002;Male
+WL;;5G;M;18:54.07;;Hala Uniwersytetu;POL;Indoor;2025-02-01;Maher;Ben Hlima;POL;1989;Male
+WL;;800;W;1:59.87;;Randal Tyson Indoor Center;USA;Indoor;2025-01-31;Shafiqua;Maloney;VIN;1999;Female
+WL;;200;M;20.43;;Telekonsult Arena;SWE;Indoor;2025-01-17;Erik;Erlandsson;SWE;2004;Male
+WL;;1K0;M;2:14.48;;Ott Center for Track & Field;USA;Indoor;2025-01-18;Josh;Hoey;USA;1999;Male
+WL;;300;M;32.18;;Clemson Indoor Track & Field Complex;USA;Indoor;2025-01-31;Jacory;Patterson;USA;2000;Male
+WL;;10G;M;38:08.50;;AIS Athletics Track;AUS;Outdoor;2025-01-27;Evan;Dunfee;CAN;1990;Male
+WL;;10K;W;33:47.23;;TET Stadium;NZL;Outdoor;2025-01-18;Lisa;Cross;NZL;1983;Female
+WL;;600;M;1:14.90;;Ashenfelter Indoor Track;USA;Indoor;2025-01-31;Alex;Amankwa;GHA;1992;Male
+WL;;4×1;W;44.12;;QSAC State Athletics Facility;AUS;Outdoor;2025-01-11;Australia;Wattles;AUS;;Female
+WL;;5K0;M;13:00.54;;Boston Univ. Track & Tennis Center;USA;Indoor;2025-02-01;Jimmy;Gressier;FRA;1997;Male
+WL;;10K;M;29:08.72;;TET Stadium;NZL;Outdoor;2025-01-18;Toby;Gualter;NZL;2000;Male
+WL;;200;W;22.73;;Sports Performance Center;USA;Indoor;2025-01-18;Tiriah;Kelley;USA;2004;Female
+WL;;4×8;W;8:56.03;;Universiade Pavilion;CAN;Indoor;2025-01-17;Saskatchewan;;CAN;;Female
+WL;;4×4;W;3:26.41;;Clemson Indoor Track & Field Complex;USA;Indoor;2025-02-01;Cique;Elite;INT;;Female
+WL;;SPE;W;56.95;;QSAC State Athletics Facility;AUS;Outdoor;2025-01-26;Sae;Takemoto;JPN;1999;Female
+WL;;400;W;50.92;;Atletická hala;CZE;Indoor;2025-02-04;Lieke;Klaver;NED;1998;Female
+WL;;STA;M;6.01;;Palais des Sports Caen la Mer;FRA;Indoor;2025-01-31;Christopher;Nilsen;USA;1998;Male
+WL;;1K5;M;3:33.66;;The Track at New Balance;USA;Indoor;2025-02-02;Josh;Hoey;USA;1999;Male
+WL;;50M;W;6.12;;Atletická hala;CZE;Indoor;2025-02-04;Ewa;Swoboda;POL;1997;Female
+WL;;50M;W;6.12;;Atletická hala;CZE;Indoor;2025-02-04;Patrizia;Van Der Weken;LUX;1999;Female
+WL;;60M;M;6.43;1.6;AIS Athletics Track;AUS;Outdoor;2025-01-25;Lachlan;Kennedy;AUS;2003;Male
+WL;;1K0;W;2:35.11;;Dempsey Indoor;USA;Indoor;2025-01-17;Sinclaire;Johnson;USA;1998;Female
+WL;;3K0;W;8:24.17;;Atletická hala;CZE;Indoor;2025-02-04;Freweyni;Hailu;ETH;2001;Female
+WL;;4×4;M;3:02.80;;Sports Performance Center;USA;Indoor;2025-01-18;Florida;;INT;;Male
+WL;;4×1;M;38.77;;QSAC State Athletics Facility;AUS;Outdoor;2025-01-11;Australia;Cassowaries;AUS;;Male
+WL;;10H;W;13.38;0.2;AIS Athletics Track;AUS;Outdoor;2025-01-26;Emily;Britton;AUS;;Female
+WL;;HAM;W;73.17;;Stade Marc Nasseau;FRA;Outdoor;2025-02-01;Rose;Loga;FRA;2002;Female
+WL;;DIS;M;63.02;;Werferplatz im Sportforum;GER;Outdoor;2025-01-25;Steven;Richter;GER;2003;Male
+WL;;MEI;W;4:20.83;;Boston Univ. Track & Tennis Center;USA;Indoor;2025-01-31;Elise;Cranny;USA;1996;Female
+WL;;60M;W;7.07;;Coque Sport Center;LUX;Indoor;2025-01-19;Patrizia;Van Der Weken;LUX;1999;Female
+WL;;400;M;45.08;;Atletická hala;CZE;Indoor;2025-02-04;Attila;Molnár;HUN;2002;Male
+WL;;2K0;M;5:03.71;;Salle Maryvonne Dupureur;FRA;Indoor;2025-01-11;Flavien;Szot;FRA;2001;Male
+WL;;2K0;M;5:03.71;;Salle Maryvonne Dupureur;FRA;Indoor;2025-01-11;Amine;Brahimi;ALG;1995;Male
+WL;;100;W;11.33;;Atletická hala - stadion Střelnice;CZE;Indoor;2025-01-25;Olivia;Fotopoulou;CYP;1996;Female
+WL;;4×8;M;7:36.67;;The Dome Louis Riel;CAN;Indoor;2025-01-17;Unb;Reds;CAN;;Male
+WL;;3KH;M;9:10.35;;Mt Smart Stadium;NZL;Outdoor;2025-01-11;Toby;Tasker;NZL;2004;Male
+WL;;KUG;M;21.39;;Atletická hala;CZE;Indoor;2025-02-04;Zane;Weir;ITA;1995;Male
+WL;;HOC;W;1.98;;Arena Gorzów;POL;Indoor;2025-01-30;Maria;Żodzik;POL;1997;Female
+WL;;2KH;W;7:22.28;;WA Athletics Stadium;AUS;Outdoor;2025-01-18;Mackenzie;Scholes;AUS;;Female
+WL;;100;M;10.17;-1.0;AIS Athletics Track;AUS;Outdoor;2025-01-26;Lachlan;Kennedy;AUS;2003;Male
+WL;;DRE;M;17.14;;Ott Center for Track & Field;USA;Indoor;2025-01-11;Jordan;Scott;JAM;1997;Male
+WL;;WEI;M;8.23;;Atletická hala;CZE;Indoor;2025-02-04;Mattia;Furlani;ITA;2005;Male
+WL;;WEI;M;8.23;;Atletska dvorana;SRB;Indoor;2025-01-29;Thobias;Montler;SWE;1996;Male
+WL;;40H;W;57.62;;AIS Athletics Track;AUS;Outdoor;2025-01-25;Isabella;Guthrie;AUS;2003;Female
+WL;;5G;W;20:40.40;;KMSHVSM Arena;UKR;Indoor;2025-01-25;Lyudmila;Olyanovska;UKR;1993;Female
+WL;;3G;W;12:27.95;;Palaindoor Ancona;ITA;Indoor;2025-02-01;Giulia;Gabriele;ITA;2005;Female
+WL;;11H;M;13.68;-2.3;AIS Athletics Track;AUS;Outdoor;2025-01-26;Jacob;Mccorry;AUS;1997;Male
+WL;;DRE;W;14.57;;Stadium Miramas Métropole;FRA;Indoor;2025-01-31;Liadagmis;Povea;CUB;1996;Female
+WL;;HAM;M;81.56;;Stade Marc Nasseau;FRA;Outdoor;2025-02-01;Yann;Chaussinand;FRA;1998;Male
+WL;;3G;M;11:05.08;;Stade couvert Jesse Owens;FRA;Indoor;2025-02-02;Aurélien;Quinion;FRA;1993;Male
+WL;;50H;W;7.18;;Velesajam Hall;CRO;Indoor;2025-01-21;Ivana;Lončarek;CRO;1991;Female
+WL;;300;W;36.08;;Clemson Indoor Track & Field Complex;USA;Indoor;2025-01-31;Talitha;Diggs;USA;2002;Female
+WL;;10G;W;43:24.67;;AIS Athletics Track;AUS;Outdoor;2025-01-26;Jemima;Montag;AUS;1998;Female
+WL;;60H;M;7.41;;Coque Sport Center;LUX;Indoor;2025-01-19;Jakub;Szymański;POL;2002;Male
+WL;;5K0;W;14:48.41;;Boston Univ. Track & Tennis Center;USA;Indoor;2025-01-31;Whittni;Morgan;USA;1997;Female
+WL;;40H;M;51.14;;WA Athletics Stadium;AUS;Outdoor;2025-01-10;Joshua;Hook;AUS;2000;Male
+WL;;KUG;W;19.85;;Stade couvert Jesse Owens;FRA;Indoor;2025-02-02;Jessica;Schilder;NED;1999;Female
+WL;;4×4;X;3:19.78;;National Indoor Arena;IRL;Indoor;2025-01-15;Ireland;C;IRL;;Mixed
+WL;;50M;M;5.63;;Atletická hala;CZE;Indoor;2025-02-04;Ronnie;Baker;USA;1993;Male
+WL;;WEI;W;6.98;;Randal Tyson Indoor Center;USA;Indoor;2025-01-31;Anthaya;Charlton;BAH;2003;Female
+WL;;60H;W;7.78;;Iowa-Recreation Building;USA;Indoor;2025-01-25;Denisha;Cartwright;BAH;1999;Female
+WL;;2KH;M;5:53.36;;Polideportivo Maximo Viloria;VEN;Outdoor;2025-01-31;Jose;Gonzalez;VEN;1994;Male
+WL;;1K5;W;4:03.59;;Coque Sport Center;LUX;Indoor;2025-01-19;Marta;Zenoni;ITA;1999;Female
+WL;;4×2;W;1:34.95;;Virginia Beach Sports Center;USA;Indoor;2025-01-19;Bullis;School;USA;;Female
+WL;;HOC;M;2.31;;Hadar Yosef Stadium;ISR;Outdoor;2025-02-01;Yonathan;Kapitolnik;ISR;2002;Male
+WL;;3KH;W;10:24.50;;Maitland Athletics Centre;AUS;Outdoor;2025-01-18;Jessie;Fotheringham;AUS;;Female
+WL;;50H;M;7.33;;Salle du Centre Mondial du Cyclisme;SUI;Indoor;2025-01-18;Flavio;Abt;SUI;2001;Male
+WL;;50H;M;7.33;;Salle du Centre Mondial du Cyclisme;SUI;Indoor;2025-02-01;Hans;Vercruysse;BEL;;Male
+WL;;600;W;1:24.60;;Randal Tyson Indoor Center;USA;Indoor;2025-01-17;Shafiqua;Maloney;VIN;1999;Female
+WL;;MEI;M;3:48.32;;Boston Univ. Track & Tennis Center;USA;Indoor;2025-02-01;Ethan;Strand;USA;2002;Male
+WL;;800;M;1:44.65;;Coque Sport Center;LUX;Indoor;2025-01-19;Elvin;Josué Canales;ESP;2001;Male
