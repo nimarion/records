@@ -105,7 +105,7 @@ if __name__ == '__main__':
         outputDf['Lastname'] = outputDf['Lastname'].str.lower().str.title()
     
     # Spaltenreihenfolge anpassen und unnötige Spalten entfernen
-    desired_order = ['Code', 'Type', 'Discipline', 'Class', 'Result', 'Wind', 'Venue', 'Venue Country', 'Environment', 'Date', 'Firstname', 'Lastname', 'Nation', 'YOB', 'Sex']
+    desired_order = ['Code', 'Type', 'Discipline', 'Class', 'Result', 'Wind', 'Venue', 'Venue Country', 'Environment', 'Date', 'Firstname', 'Lastname', 'Nation', 'YOB', 'Sex', 'WorldathleticsId']
     columns_to_drop = set(df.columns) - set(desired_order)
     outputDf = outputDf.drop(columns=columns_to_drop, errors="ignore")
 

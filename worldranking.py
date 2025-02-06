@@ -94,6 +94,17 @@ def download_parse(url, discipline, sex, regionType, region):
 
     df = df.drop(columns=['Results Score',
                  'RegionType', 'DOB', 'Pos'], errors='ignore')
+    
+    name_links = {}
+
+    for row in table.find_all('tr'):
+        name_tag = row.find('a', href=True)  # Find the first <a> tag
+        if name_tag and name_tag.text.strip() in df['Competitor'].values:
+            match = re.search(r'\d+',  name_tag['href'])
+            if match:
+                name_links[name_tag.text.strip()] = match.group()
+
+    df['WorldathleticsId'] = df['Competitor'].map(name_links)
 
     df = df.rename(columns={
                    'City': 'Venue City', 'Country': 'Venue Country', 'Mark': 'Result', 'Nat': 'Nation', 'WIND': 'Wind', 'Competitor': 'Name'})
