@@ -1979,7 +1979,7 @@ NR;IND;60M;W;7.28;;Doha;QAT;Indoor;2016-02-19;Dutee;Chand;IND;1996;Female
 NR;IRI;60M;W;7.2;;Tehran;IRI;Indoor;2024-02-18;Farzaneh;Fasihi;IRI;1993;Female
 NR;IRL;60M;W;7.15;;Albuquerque;USA;Indoor;2024-01-20;Rhasidat;Adeleke;IRL;2002;Female
 NR;IRQ;60M;W;7.5;;Tehran;IRI;Indoor;2019-03-03;Dana;Abdulrazak;IRQ;1986;Female
-NR;ISL;60M;W;7.35;;Aarhus;DEN;Indoor;2023-01-25;Gudbjörg;Jóna Bjarnadóttir;ISL;2001;Female
+NR;ISL;60M;W;7.35;;Aarhus;DEN;Indoor;2023-01-25;Guðbjörg;Jóna Bjarnadóttir;ISL;2001;Female
 NR;ISR;60M;W;7.2;;Beograd;SRB;Indoor;2022-03-18;Diana;Vaisman;ISR;1998;Female
 NR;ISV;60M;W;6.97;;Stuttgart;GER;Indoor;2010-02-06;Laverne;Jones-Ferrette;ISV;1981;Female
 NR;ITA;60M;W;7.02;;Toruń;POL;Indoor;2024-02-06;Zaynab;Dosso;ITA;1999;Female
@@ -2136,7 +2136,7 @@ NR;FRA;200;W;21.99;1.1;Villeneuve d'Ascq;FRA;Outdoor;1993-07-02;Marie-José;Pér
 NR;FSM;200;W;27.44;1.6;Kolonia;FSM;Outdoor;2002-07-25;Angie;Nedelec;FSM;;Female
 NR;FSM;200;W;27.44;;Cairns;AUS;Outdoor;2015-10-05;Lihen;Jonas;FSM;1998;Female
 NR;GAB;200;W;23.54;0.9;Nairobi;KEN;Outdoor;2010-07-31;Ruddy;Zang Milama;GAB;1987;Female
-NR;GAM;200;W;22.58;1.8;Rabat;MAR;Outdoor;2019-08-30;Gina;Bass;GAM;1995;Female
+NR;GAM;200;W;22.58;1.8;Rabat;MAR;Outdoor;2019-08-30;Gina;Mariam Bass Bittaye;GAM;1995;Female
 NR;GBR;200;W;21.88;0.9;Doha;QAT;Outdoor;2019-10-02;Dina;Asher-Smith;GBR;1995;Female
 NR;GBS;200;W;25.69;1.0;Lisboa;POR;Outdoor;2003-11-06;Artimiza;Sá;GBS;1984;Female
 NR;GEO;200;W;22.24;0.1;Kyiv;URS;Outdoor;1988-08-16;Maya;Azarashvili;GEO;1964;Female
@@ -2160,7 +2160,7 @@ NR;IND;200;W;22.82;0.8;Ludhiana;IND;Outdoor;2002-08-28;Saraswati;Saha;IND;1979;F
 NR;IRI;200;W;23.22;1.2;Bogotá;COL;Outdoor;2024-05-25;Maryam;Toosi;IRI;1988;Female
 NR;IRL;200;W;22.34;1.8;Gainesville;USA;Outdoor;2023-04-14;Rhasidat;Adeleke;IRL;2002;Female
 NR;IRQ;200;W;22.51;0.0;Radès;TUN;Outdoor;2021-06-20;Dana;Abdulrazak;IRQ;1986;Female
-NR;ISL;200;W;23.45;1.9;Selfoss;ISL;Outdoor;2019-06-16;Gudbjörg;Jóna Bjarnadóttir;ISL;2001;Female
+NR;ISL;200;W;23.45;1.9;Selfoss;ISL;Outdoor;2019-06-16;Guðbjörg;Jóna Bjarnadóttir;ISL;2001;Female
 NR;ISR;200;W;23.15;2.0;Beograd;SRB;Outdoor;2002-06-23;Irina;Lenskiy;ISR;1971;Female
 NR;ISV;200;W;22.46;0.3;Hengelo;NED;Outdoor;2009-06-01;Laverne;Jones-Ferrette;ISV;1981;Female
 NR;ITA;200;W;22.56;1.9;Tampa;USA;Outdoor;2016-05-27;Libania;Grenot;ITA;1983;Female
@@ -5411,7 +5411,7 @@ NR;FIN;100;W;11.13;1.0;Lahti;FIN;Outdoor;1983-07-19;Helinä;Marjamaa;FIN;1956;Fe
 NR;FRA;100;W;10.73;2.0;Budapest;HUN;Outdoor;1998-08-19;Christine;Arron;FRA;1973;Female
 NR;FSM;100;W;13.09;;Townsville;AUS;Outdoor;1996-11-29;Rita;Epina;FSM;;Female
 NR;GAB;100;W;11.03;1.1;Port of Spain;TTO;Outdoor;2012-05-19;Ruddy;Zang Milama;GAB;1987;Female
-NR;GAM;100;W;10.93;0.5;Fort-de-France;FRA;Outdoor;2024-05-18;Gina;Bass;GAM;1995;Female
+NR;GAM;100;W;10.93;0.5;Fort-de-France;FRA;Outdoor;2024-05-18;Gina;Mariam Bass Bittaye;GAM;1995;Female
 NR;GBR;100;W;10.83;0.1;Doha;QAT;Outdoor;2019-09-29;Dina;Asher-Smith;GBR;1995;Female
 NR;GBS;100;W;12.03;0.0;Lisboa;POR;Outdoor;2018-06-13;Fatumata;Baldé;GBS;2000;Female
 NR;GEO;100;W;11.08;0.0;Kyiv;URS;Outdoor;1988-08-14;Maya;Azarashvili;GEO;1964;Female
@@ -5434,7 +5434,7 @@ NR;IND;100;W;11.17;0.0;Patiala;IND;Outdoor;2021-06-21;Dutee;Chand;IND;1996;Femal
 NR;IRI;100;W;11.33;1.0;Bangkok;THA;Outdoor;2023-07-13;Hamideh;Esmaeilnejad;IRI;1997;Female
 NR;IRL;100;W;11.13;0.7;Dublin;IRL;Outdoor;2024-06-30;Rhasidat;Adeleke;IRL;2002;Female
 NR;IRQ;100;W;11.24;0.0;Radès;TUN;Outdoor;2021-06-17;Dana;Abdulrazak;IRQ;1986;Female
-NR;ISL;100;W;11.56;0.6;Mannheim;GER;Outdoor;2019-06-29;Gudbjörg;Jóna Bjarnadóttir;ISL;2001;Female
+NR;ISL;100;W;11.56;0.6;Mannheim;GER;Outdoor;2019-06-29;Guðbjörg;Jóna Bjarnadóttir;ISL;2001;Female
 NR;ISR;100;W;11.06;1.2;La Chaux-de-Fonds;SUI;Outdoor;2022-07-03;Diana;Vaisman;ISR;1998;Female
 NR;ISV;100;W;11.07;1.3;London;GBR;Outdoor;2012-08-03;Laverne;Jones-Ferrette;ISV;1981;Female
 NR;ITA;100;W;11.01;2.0;Roma;ITA;Outdoor;2024-06-09;Zaynab;Dosso;ITA;1999;Female
@@ -5540,7 +5540,7 @@ NR;TJK;100;W;11.62;1.5;Dushanbe;TJK;Outdoor;2021-04-09;Gulsunbi;Sharifova;TJK;19
 NR;TKM;100;W;11.56;1.7;Almaty;KAZ;Outdoor;2008-06-07;Valentina;Meredova;TKM;1984;Female
 NR;TKS;100;W;11.99;1.2;Barranquilla;COL;Outdoor;2018-07-29;Akia;Guerrier;TKS;1998;Female
 NR;TLS;100;W;13.57;;Darwin;AUS;Outdoor;2001-05-20;Cesaltilna;De Yesus Guterres;TLS;;Female
-NR;TOG;100;W;11.82;;Douala;CMR;Outdoor;2021-05-22;Akouvi;Judith Koumedzina;TOG;2001;Female
+NR;TOG;100;W;11.82;-0.2;Douala;CMR;Outdoor;2021-05-22;Akouvi;Judith Koumedzina;TOG;2001;Female
 NR;TPE;100;W;11.22;1.9;Wien;AUT;Outdoor;1970-07-18;Chi;Cheng;TPE;1944;Female
 NR;TTO;100;W;10.82;0.9;Port of Spain;TTO;Outdoor;2017-06-24;Michelle-Lee;Ahye;TTO;1992;Female
 NR;TUN;100;W;11.68;1.0;Alger;ALG;Outdoor;2000-08-06;Awatef;Hamrouni;TUN;1981;Female
@@ -7069,7 +7069,7 @@ NR;MRI;1K0;M;2:26.70;;Athis-Mons;USA;Outdoor;1994-05-13;Christopher;Blackburn;MR
 NR;NED;1K0;M;2:14.37;;Hengelo;NED;Outdoor;2024-07-07;Niels;Laros;NED;2005;Male
 NR;NEP;1K0;M;2:30.9;;Kathmandu;NEP;Outdoor;2006-06-29;Prem;Bahadur Mahat;NEP;1970;Male
 NR;NMI;1K0;M;2:57.2;;Nikao;COK;Outdoor;1995-03-05;Glen;Aldan Nunez;NMI;;Male
-NR;NOR;1K0;M;2:16.46;;Oslo;NOR;Outdoor;2020-06-11;Filip;Ingebrigtsen;NOR;1993;Male
+NR;NOR;1K0;M;2:16.46;;Oslo;NOR;Outdoor;2020-06-11;Filip;Mangen Ingebrigtsen;NOR;1993;Male
 NR;NRU;1K0;M;3:19.97;;Apia;SAM;Outdoor;2006-12-15;Deamo;Baguga;NRU;1986;Male
 NR;NZL;1K0;M;2:16.57;;Oslo;NOR;Outdoor;1980-07-01;John;Walker;NZL;1952;Male
 NR;PLW;1K0;M;3:05.15;;Apia;SAM;Outdoor;2006-12-15;Leon;Mengloi;PLW;1989;Male
@@ -9322,7 +9322,7 @@ NR;LUX;MEI;M;3:57.47;;Boston;USA;Indoor;2023-02-04;Vivien;Henz;LUX;2004;Male
 NR;MAR;MEI;M;3:48.45;;Gent;BEL;Indoor;1997-02-12;Hicham;El Guerrouj;MAR;1974;Male
 NR;MEX;MEI;M;3:54.52;;Boston;USA;Indoor;2009-02-07;Pablo;Solares;MEX;1984;Male
 NR;NED;MEI;M;3:54.28;;Boston;USA;Indoor;2024-02-03;Noah;Baltus;NED;2002;Male
-NR;NOR;MEI;M;3:56.99;;New York;USA;Indoor;2020-02-08;Filip;Ingebrigtsen;NOR;1993;Male
+NR;NOR;MEI;M;3:56.99;;New York;USA;Indoor;2020-02-08;Filip;Mangen Ingebrigtsen;NOR;1993;Male
 NR;NZL;MEI;M;3:51.06;;New York;USA;Indoor;2016-02-20;Nick;Willis;NZL;1983;Male
 NR;PER;MEI;M;3:57.63;;Boston;USA;Indoor;2017-01-28;David;Torrence;PER;1985;Male
 NR;POL;MEI;M;3:56.41;;Athlone;IRL;Indoor;2019-02-13;Marcin;Lewandowski;POL;1987;Male
