@@ -55,7 +55,7 @@ def get_url(type, discipline, sex, ageCategory, year, regionType, region, limitB
 
 
 def download_parse(url, discipline, sex, regionType, region):
-    response = requests.get(url)
+    response = requests.get(url, verify=False)
     soup = BeautifulSoup(response.text, 'html.parser')
     table = soup.find('table', class_='records-table')
     if (table == None):
