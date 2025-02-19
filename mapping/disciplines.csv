@@ -1,51 +1,51 @@
-tilastopaja_nr,worldathletics_ranking,worldathletics_ranking_type,worldathletics_records,europeanathletics_records,taf
-50,50-metres,sprints,50 Metres,50 Metres,50M
-60,60-metres,sprints,60 Metres,60 Metres,60M
-100,100-metres,sprints,100 Metres,100 Metres,100
-200,200-metres,sprints,200 Metres,200 Metres,200
-,,,200 Metres Short Track,,200
-300,300-metres,sprints,,,300
-400,400-metres,sprints,400 Metres,400 Metres,400
-,,,400m Metres Short Track,,400
-600,600-metres,middlelong,600 Metres,600 Metres,600
-800,800-metres,middlelong,800 Metres,800 Metres,800
-,,,800 Metres Short Track,,800
-1000,1000-metres,middlelong,1000 Metres,1000 Metres,1K0
-,,,1000 Metres Short Track,,1K0
-1500,1500-metres,middlelong,1500 Metres,1500 Metres,1K5
-,,,1500 Metres Short Track,,1K5
-Mile,one-mile,middlelong,Mile,Mile,MEI
-,,,Mile Short Track,,MEI
-2000,2000-metres,middlelong,2000 Metres,2000 Metres,2K0
-3000,3000-metres,middlelong,3000 Metres,3000 Metres,3K0
-,,,3000 Metres Short Track,,3K0
-5000,5000-metres,middlelong,5000 Metres,5000 Metres,5K0
-,,,5000 Metres Short Track,,5K0
-10000,10000-metres,middlelong,"10,000 Metres","10,000 Metres",10K
-50H,50-metres-hurdles,hurdles,50 Metres Hurdles,50 Metres Hurdles,50H
-60H,60-metres-hurdles,hurdles,60 Metres Hurdles,60 Metres Hurdles,60H
-100H,100-metres-hurdles,hurdles,100 Metres Hurdles,100 Metres Hurdles,10H
-110H,110-metres-hurdles,hurdles,110 Metres Hurdles,110 Metres Hurdles,11H
-300H,,,,,30H
-400H,400-metres-hurdles,hurdles,400 Metres Hurdles,400 Metres Hurdles,40H
-2000S,2000-metres-steeplechase,middlelong,,,2KH
-3000S,3000-metres-steeplechase,middlelong,3000 Metres Steeplechase,3000 Metres Steeplechase,3KH
-4x1,4x100-metres-relay,relays,4x100 Metres Relay,4x100 Metres Relay,4×1
-4x2,4x200-metres-relay,relays,4x200 Metres Relay,4x200 Metres Relay,4×2
-,,,4x200 Metres Relay Short Track,,4×2
-4x4,4x400-metres-relay,relays,4x400 Metres Relay,4x400 Metres Relay,4×4
-,,,4x400 Metres Relay Mixed,,4×4
-,,,4x400 metres Relay Short Track,,4×4
-4x8,4x800-metres-relay,relays,4x800 Metres Relay,4x800 Metres Relay,4×8
-,,,4x800 Metres Relay Short Track,,4×8
-HJ,high-jump,jumps,High Jump,High Jump,HOC
-PV,pole-vault,jumps,Pole Vault,Pole Vault,STA
-LJ,long-jump,jumps,Long Jump,Long Jump,WEI
-TJ,triple-jump,jumps,Triple Jump,Triple Jump,DRE
-SP,shot-put,throws,Shot Put,Shot Put,KUG
-DT,discus-throw,throws,Discus Throw,Discus Throw,DIS
-HT,hammer-throw,throws,Hammer Throw,Hammer Throw,HAM
-JT,javelin-throw,throws,Javelin Throw,Javelin Throw,SPE
-3000W,3000-metres-race-walk,race-walks,3000 Metres Race Walk Short Track,,3G
-5000W,5000-metres-race-walk,race-walks,5000 Metres Race Walk Short Track,,5G
-10000W,10000-metres-race-walk,race-walks,"10,000 Metres Race Walk","10,000 Metres Race Walk",10G
+tilastopaja_nr,worldathletics_ranking,worldathletics_ranking_type,worldathletics_records,europeanathletics_records,taf,worldathletics
+50,50-metres,sprints,50 Metres,50 Metres,50M,50
+60,60-metres,sprints,60 Metres,60 Metres,60M,60
+100,100-metres,sprints,100 Metres,100 Metres,100,100
+200,200-metres,sprints,200 Metres,200 Metres,200,200
+,,,200 Metres Short Track,,200,200
+300,300-metres,sprints,,,300,300
+400,400-metres,sprints,400 Metres,400 Metres,400,400
+,,,400m Metres Short Track,,400,400
+600,600-metres,middlelong,600 Metres,600 Metres,600,600
+800,800-metres,middlelong,800 Metres,800 Metres,800,800
+,,,800 Metres Short Track,,800,800
+1000,1000-metres,middlelong,1000 Metres,1000 Metres,1K0,1000
+,,,1000 Metres Short Track,,1K0,1000
+1500,1500-metres,middlelong,1500 Metres,1500 Metres,1K5,1500
+,,,1500 Metres Short Track,,1K5,1500
+Mile,one-mile,middlelong,Mile,Mile,MEI,MILE
+,,,Mile Short Track,,MEI,MILE
+2000,2000-metres,middlelong,2000 Metres,2000 Metres,2K0,2000
+3000,3000-metres,middlelong,3000 Metres,3000 Metres,3K0,2000
+,,,3000 Metres Short Track,,3K0,3000
+5000,5000-metres,middlelong,5000 Metres,5000 Metres,5K0,5000
+,,,5000 Metres Short Track,,5K0,5000
+10000,10000-metres,middlelong,"10,000 Metres","10,000 Metres",10K,10K
+50H,50-metres-hurdles,hurdles,50 Metres Hurdles,50 Metres Hurdles,50H,50H
+60H,60-metres-hurdles,hurdles,60 Metres Hurdles,60 Metres Hurdles,60H,60H
+100H,100-metres-hurdles,hurdles,100 Metres Hurdles,100 Metres Hurdles,10H,100H
+110H,110-metres-hurdles,hurdles,110 Metres Hurdles,110 Metres Hurdles,11H,110H
+300H,,,,,30H,300H
+400H,400-metres-hurdles,hurdles,400 Metres Hurdles,400 Metres Hurdles,40H,400H
+2000S,2000-metres-steeplechase,middlelong,,,2KH,2KSC
+3000S,3000-metres-steeplechase,middlelong,3000 Metres Steeplechase,3000 Metres Steeplechase,3KH,3KSC
+4x1,4x100-metres-relay,relays,4x100 Metres Relay,4x100 Metres Relay,4×1,4X1
+4x2,4x200-metres-relay,relays,4x200 Metres Relay,4x200 Metres Relay,4×2,4X2
+,,,4x200 Metres Relay Short Track,,4×2,4X2
+4x4,4x400-metres-relay,relays,4x400 Metres Relay,4x400 Metres Relay,4×4,4X4
+,,,4x400 Metres Relay Mixed,,4×4,4X4
+,,,4x400 metres Relay Short Track,,4×4,4X4
+4x8,4x800-metres-relay,relays,4x800 Metres Relay,4x800 Metres Relay,4×8,4X8
+,,,4x800 Metres Relay Short Track,,4×8,4X8
+HJ,high-jump,jumps,High Jump,High Jump,HOC,HJ
+PV,pole-vault,jumps,Pole Vault,Pole Vault,STA,PV
+LJ,long-jump,jumps,Long Jump,Long Jump,WEI,LJ
+TJ,triple-jump,jumps,Triple Jump,Triple Jump,DRE,TJ
+SP,shot-put,throws,Shot Put,Shot Put,KUG,SP
+DT,discus-throw,throws,Discus Throw,Discus Throw,DIS,DT
+HT,hammer-throw,throws,Hammer Throw,Hammer Throw,HAM,HT
+JT,javelin-throw,throws,Javelin Throw,Javelin Throw,SPE,JT
+3000W,3000-metres-race-walk,race-walks,3000 Metres Race Walk Short Track,,3G,3KW
+5000W,5000-metres-race-walk,race-walks,5000 Metres Race Walk Short Track,,5G,5KW
+10000W,10000-metres-race-walk,race-walks,"10,000 Metres Race Walk","10,000 Metres Race Walk",10G,10KW

@@ -8,6 +8,9 @@ on:
 jobs:
   update:
     runs-on: ubuntu-latest
+    env:
+      PROD_DATABASE_URL: ${{ secrets.PRODUCTION_DB_URL }}
+
     steps:
       - uses: actions/checkout@v4
       - name: Setting up Python
@@ -20,6 +23,7 @@ jobs:
         run: |
           python downloader/worldranking_downloader.py
           python cleanup.py --input tmp/leads
+          python worldathletics_ranking_sql.py  --input tmp/leads --database-url ${{ env.PROD_DATABASE_URL}}
           python taf.py --input tmp/leads/country/senior/ger/ --output leads/senior/germany.csv --mapping worldathletics_ranking --ageGroup senior
           python taf.py --input tmp/leads/world/senior --output leads/senior/world.csv --mapping worldathletics_ranking --ageGroup senior
           python taf.py --input tmp/leads/area/senior --output leads/senior/area.csv --mapping worldathletics_ranking --ageGroup senior
