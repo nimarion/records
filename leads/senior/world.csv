@@ -1,8 +1,6 @@
 Code;Type;Discipline;Class;Result;Wind;Venue;Venue Country;Environment;Date;Firstname;Lastname;Nation;YOB;Sex;WorldathleticsId
-WL;;HOC;M;2.31;;Hadar Yosef Stadium;ISR;Outdoor;2025-02-01;Jonathan;Kapitolnik;ISR;2002;Male;14899455
-WL;;HOC;M;2.31;;TSG-Halle;GER;Indoor;2025-02-07;Stefano;Sottile;ITA;1998;Male;14595370
-WL;;HOC;M;2.31;;Městská sportovní hala;CZE;Indoor;2025-02-08;Sanghyeok;Woo;KOR;1996;Male;14532326
-WL;;4×8;M;7:34.87;;Dennis Fairall Fieldhouse;CAN;Indoor;2025-02-07;Western;Mustangs;INT;;Male;
+WL;;HOC;M;2.32;;KMSHVSM Arena;UKR;Indoor;2025-02-22;Oleh;Doroshchuk;UKR;2001;Male;14803002
+WL;;4×8;M;7:30.83;;Ott Center for Track & Field;USA;Indoor;2025-02-21;Penn;;USA;;Male;
 WL;;SPE;W;62.54;;Yunost Stadium;RUS;Outdoor;2025-02-09;Ella;Kunetsova;RUS;1998;Female;14775098
 WL;;KUG;M;21.95;;Arena Stade Couvert;FRA;Indoor;2025-02-13;Leonardo;Fabbri;ITA;1997;Male;14567432
 WL;;2KH;M;5:36.7;;Stade D'athlétisme;TUN;Outdoor;2025-02-16;Saif;Zuidi;TUN;2005;Male;15105696
@@ -57,7 +55,7 @@ WL;;60M;W;7.02;;Armory Track&Field Center;USA;Indoor;2025-02-08;Jacious;Sears;US
 WL;;50H;W;6.68;;Arena Stade Couvert;FRA;Indoor;2025-02-13;Ackera;Nugent;JAM;2002;Female;14685249
 WL;;3G;M;10:45.60;;Hala Uniwersytetu;POL;Indoor;2025-02-08;Maher;Ben Hlima;POL;1989;Male;14329343
 WL;;600;M;1:14.04;;Armory Track&Field Center;USA;Indoor;2025-02-08;Will;Sumner;USA;2003;Male;14960261.0
-WL;;5G;M;18:19.65;;Halle Stéphane Diagana;FRA;Indoor;2025-02-08;Gabriel;Bordier;FRA;1997;Male;14632699
+WL;;5G;M;17:55.65;;Palaindoor Ancona;ITA;Indoor;2025-02-22;Francesco;Fortunato;ITA;1994;Male;14411785
 WL;;50M;M;5.63;;Atletická hala;CZE;Indoor;2025-02-04;Ronnie;Baker;USA;1993;Male;14498578
 WL;;WEI;M;8.37;;Arena;POL;Indoor;2025-02-16;Mattia;Furlani;ITA;2005;Male;14905216
 WL;;HAM;W;73.17;;Stade Marc Nasseau;FRA;Outdoor;2025-02-01;Rose;Loga;FRA;2002;Female;14752018
@@ -65,12 +63,13 @@ WL;;1K5;M;3:29.63;;Arena Stade Couvert;FRA;Indoor;2025-02-13;Jakob;Ingebrigtsen;
 WL;;3KH;M;8:46.26;;Maharana Pratap Sports College Dehradun;IND;Outdoor;2025-02-10;Sumit;Kumar;IND;2000;Male;14925581
 WL;;DRE;W;14.62;;Arena Stade Couvert;FRA;Indoor;2025-02-13;Leyanis;Pérez Hernández;CUB;2002;Female;14828679
 WL;;STA;W;4.88;;Convention Center;USA;Indoor;2025-02-15;Amanda;Moll;USA;2005;Female;14906783
-WL;;3G;W;12:22.31;;Expocentro;POR;Indoor;2025-02-08;Vitória;Oliveira;POR;1992;Female;14517852
+WL;;3G;W;12:13.39;;Expocentro;POR;Indoor;2025-02-22;Vitória;Oliveira;POR;1992;Female;14517852
 WL;;100;W;11.23;1.3;Douglas Track & Field;NZL;Outdoor;2025-02-09;Bree;Masters;AUS;1995;Female;14924344
+WL;;100;W;11.23;-0.8;Nga Puna Wai Sports Hub;NZL;Outdoor;2025-02-22;Zoe;Hobbs;NZL;1997;Female;14499691
 WL;;SPE;M;84.39;;Maharana Pratap Sports College Dehradun;IND;Outdoor;2025-02-12;Sachin;Yadav;IND;1999;Male;14925646
 WL;;4×1;M;38.32;;Queensland Sport and Athletics Centre;AUS;Outdoor;2025-02-08;Australia;;AUS;;Male;
 WL;;800;W;1:58.97;;L'Anneau-Halle d'athlétisme de Metz;FRA;Indoor;2025-02-08;Tsige;Duguma;ETH;2001;Female;14774192
-WL;;60H;W;7.75;;Arena Stade Couvert;FRA;Indoor;2025-02-13;Ackera;Nugent;JAM;2002;Female;14685249
+WL;;60H;W;7.74;;Ocean Breeze Athl. Complex;USA;Indoor;2025-02-22;Masai;Russell;USA;2000;Female;14659011
 WL;;50H;M;6.3;;Arena Stade Couvert;FRA;Indoor;2025-02-13;Grant;Holloway;USA;1997;Male;14516985
 WL;;4×4;X;3:19.78;;National Indoor Arena;IRL;Indoor;2025-01-15;Ireland;C;IRL;;Mixed;
 WL;;5K0;M;12:44.09;;Boston Univ. Track & Tennis Center;USA;Indoor;2025-02-14;Grant;Fisher;USA;1997;Male;14591210
