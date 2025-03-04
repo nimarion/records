@@ -1,4 +1,5 @@
 Code;Type;Discipline;Class;Result;Wind;Venue;Venue Country;Environment;Date;Firstname;Lastname;Nation;YOB;Sex;WorldathleticsId
+AL;2;3G;MJU20;13:44.23;;Alachua County Sports Complex;USA;Indoor;2025-02-28;Jonny;Jurchen;USA;2006;Male;15210947
 AL;2;3K0;MJU20;7:55.48;;Dempsey Indoor;USA;Indoor;2025-02-14;Tayvon;Kitchen;USA;2006;Male;15077001
 AL;2;200;MJU20;20.8;;Sports Performance Center;USA;Indoor;2025-02-28;Austen;Diggs;USA;;Male;15082574
 AL;2;2KH;MJU20;6:26.78;;GC Foster College;JAM;Outdoor;2025-01-18;Obinna;Daniel Reid;JAM;;Male;15082070
@@ -30,7 +31,7 @@ AL;4;60M;WJU20;7.13;;Armory Track&Field Center;USA;Indoor;2025-02-08;Lisa;Raye;T
 AL;2;10K;WJU20;37:35.98;;Pista Luis F. Sambolin;PUR;Outdoor;2025-02-21;Alondra;Santos;PUR;2006;Female;15163395
 AL;2;SPE;WJU20;46.16;;T. Robinson Stadium;BAH;Outdoor;2025-01-25;Taysha;Stubbs;BAH;2007;Female;15023877
 AL;2;STA;WJU20;4.43;;Bob Devaney Sports Center;USA;Indoor;2025-02-07;Anna;Willis;USA;2006;Female;14967585
-AL;2;300;WJU20;36.96;;Virginia Beach Sports Center;USA;Indoor;2025-01-18;Elise;Cooper;USA;2007;Female;14852192
+AL;2;300;WJU20;36.3;;Ott Center for Track & Field;USA;Indoor;2025-03-01;Elise;Cooper;USA;2007;Female;14852192
 AL;2;3KH;MJU20;9:49.74;;Estadio Panamericano;CUB;Outdoor;2025-02-22;Luis;A. Ricardo;CUB;2007;Male;15209592
 AL;2;800;WJU20;2:03.43;;Sports Performance Center;USA;Indoor;2025-03-01;Tessa;Buswell;USA;2006;Female;15007114
 AL;2;3KH;WJU20;10:46.80;;Estadio Panamericano;CUB;Outdoor;2025-02-22;Marian;Yanet López;CUB;2006;Female;15078817
@@ -44,7 +45,7 @@ AL;2;2KH;WJU20;7:12.50;;Estadio Jorge Magico Gonzalez;ESA;Outdoor;2025-02-23;Sof
 AL;2;60H;WJU20;8.09;;Alachua County Sports Complex;USA;Indoor;2025-03-01;Briana;Campbell;JAM;2006;Female;14877515
 AL;2;5K0;MJU20;14:06.49;;Boston Univ. Track & Tennis Center;USA;Indoor;2025-02-14;Jack;Graffeo;USA;;Male;15077032
 AL;2;DRE;WJU20;13.38;;"R.A. ""Murray"" Fasken Indoor Track Stadium";USA;Indoor;2025-03-01;Asia;Phillips;CAN;2006;Female;14907898
-AL;2;KUG;MJU20;16.87;;Iowa-Recreation Building;USA;Indoor;2025-01-24;Bryce;Ruland;USA;2006;Male;14948830
+AL;2;KUG;MJU20;17.8;;Fall Creek Pavilion;USA;Indoor;2025-03-01;Bryce;Ruland;USA;2006;Male;14948830
 AL;2;600;WJU20;1:28.61;;Armory Track&Field Center;USA;Indoor;2025-02-08;Makenna;Herbst;USA;2006;Female;15036625
 AL;2;200;WJU20;22.87;;"R.A. ""Murray"" Fasken Indoor Track Stadium";USA;Indoor;2025-03-01;Anya;Jackson;USA;;Female;15035263
 AL;2;HAM;WJU20;48.6;;Pista de Atletismo Juan Pedro Toledo Dominguez;MEX;Outdoor;2025-02-02;Belkiss;Urias;MEX;;Female;15141101
@@ -76,7 +77,7 @@ AL;4;40H;WJU20;57.78;;Pilditch Stadium;RSA;Outdoor;2025-02-08;Tumi;Ramokgopa;RSA
 AL;4;1K0;MJU20;2:31.74;;McArthur Stadium;RSA;Outdoor;2025-02-25;Amogelang;Tatai;RSA;2006;Male;15024234
 AL;4;HOC;MJU20;2.19;;"R.A. ""Murray"" Fasken Indoor Track Stadium";USA;Indoor;2025-02-28;Justine;Osigwe Jimoh;NGR;2006;Male;15023570
 AL;4;DIS;WJU20;50.58;;Stade D'athlétisme;TUN;Outdoor;2025-02-16;Ghofrane;Lahmedi;TUN;2006;Female;15090761
-AL;4;WEI;WJU20;5.95;-0.1;Pilditch Stadium;RSA;Outdoor;2025-02-08;Ashlynn;Norman;RSA;2008;Female;15022901
+AL;4;WEI;WJU20;6.64;;The Podium;USA;Indoor;2025-02-28;Prestina;Oluchi Ochonogor;NGR;2006;Female;14970513
 AL;4;STA;MJU20;4.5;;Complexe Olympique Mohamed Boudiaf;ALG;Outdoor;2025-02-21;Abderaouf;Merah;ALG;2006;Male;15107984
 AL;4;STA;MJU20;4.5;;McArthur Stadium;RSA;Outdoor;2025-02-25;Theron;Meyburgh;RSA;2006;Male;15149356
 AL;4;STA;MJU20;4.5;;Universiade Pavilion;CAN;Indoor;2025-01-18;Jaden;Van Der Linde;RSA;2007;Male;15143364
@@ -94,7 +95,7 @@ AL;4;1K5;MJU20;3:35.70;;Arena;POL;Indoor;2025-02-16;Biniam;Mehary;ETH;2006;Male;
 AL;4;10H;WJU20;13.67;0.8;Pilditch Stadium;RSA;Outdoor;2025-02-15;Tumi;Ramokgopa;RSA;2007;Female;14975442
 AL;4;10G;MJU20;42:50.0;;Stade D'athlétisme;TUN;Outdoor;2025-02-16;Wassim;Ounalli;TUN;2006;Male;15029502
 AL;4;10G;WJU20;48:07.2;;Stade D'athlétisme;TUN;Outdoor;2025-02-16;Imen;Saii;TUN;2007;Female;15090832
-AL;4;400;WJU20;52.25;;Randal Tyson Indoor Center;USA;Indoor;2025-02-14;Chioma;Nwachukwu;NGR;2008;Female;15023596
+AL;4;400;WJU20;52.07;;Fall Creek Pavilion;USA;Indoor;2025-02-28;Chioma;Nwachukwu;NGR;2008;Female;15023596
 AL;4;5K0;WJU20;16:46.85;;Pilditch Stadium;RSA;Outdoor;2025-02-15;Luca;De Waal;RSA;2007;Female;14975425
 AL;4;2KH;WJU20;7:24.30;;University of the Western Cape;RSA;Outdoor;2025-01-24;Selmarie;Erasmus;RSA;2009;Female;15204454
 AL;4;60H;WJU20;8.76;0.8;Complexe Olympique Mohamed Boudiaf;ALG;Outdoor;2025-02-21;Malak;Belhadi;ALG;2006;Female;15069212
@@ -173,7 +174,7 @@ AL;6;400;MJU20;45.9;;WA Athletics Stadium;AUS;Outdoor;2025-03-01;Terrell;Thorne;
 AL;6;MEI;MJU20;3:47.48;;Armory Track&Field Center;USA;Indoor;2025-02-08;Cameron;Myers;AUS;2006;Male;14962470
 AL;6;3G;WJU20;13:26.65;;Lakeside Stadium;AUS;Outdoor;2025-02-23;Ela;Uzun;AUS;2011;Female;14988745
 AL;6;DIS;MJU20;51.26;;Mt Smart Stadium;NZL;Outdoor;2025-03-01;Leyon;Caffery;NZL;;Male;15065133
-AL;6;60H;MJU20;8.03;;GVSU Kelly Family Sports Cente;USA;Indoor;2025-02-14;Massimo;Pantano;AUS;;Male;14969201
+AL;6;60H;MJU20;7.98;;Boston Univ. Track & Tennis Center;USA;Indoor;2025-03-02;Massimo;Pantano;AUS;;Male;14969201
 AL;6;40H;WJU20;1:00.31;;AIS Athletics Track;AUS;Outdoor;2025-01-25;Maiya;Hewitt;AUS;2009;Female;15008731
 AL;6;1K0;MJU20;2:29.69;;Boston Univ. Track & Tennis Center;USA;Indoor;2025-02-14;Daniel;Prescott;NZL;2006;Male;15005641
 AL;6;HOC;MJU20;2.1;;AIS Athletics Track;AUS;Outdoor;2025-01-26;Cadel;Holmes;AUS;;Male;15115880
@@ -233,13 +234,13 @@ AL;3;300;MJU20;35.74;;Expocentro;POR;Indoor;2025-02-01;Lucca;Reis;BRA;;Male;1515
 AL;3;HOC;WJU20;1.62;;Alachua County Sports Complex;USA;Indoor;2025-02-01;Fabiana;Patricia Morales;VEN;;Female;15023439
 AL;3;10K;MJU20;31:27.81;;Pista Luis F. Sambolin;PUR;Outdoor;2025-02-21;Yeisson;Andrez Mesa;COL;2006;Male;15087949
 AL;3;60M;WJU20;7.39;;Armory Track&Field Center;USA;Indoor;2025-02-08;Athaleyha;Hinckson;GUY;2008;Female;15018025
-AL;3;SPE;WJU20;42.0;;Polideportivo Maximo Viloria;VEN;Outdoor;2025-01-31;Arianny;Rojas;VEN;2007;Female;15107584
+AL;3;SPE;WJU20;47.35;;Pista de Atletismo Justo Román;ARG;Outdoor;2025-02-22;Milagros;Rosas;ARG;2007;Female;15006431
 AL;3;STA;WJU20;3.55;;Arena Caixa;BRA;Outdoor;2025-02-22;Luiza;Camargos;BRA;2006;Female;15045390
 AL;3;800;WJU20;2:16.93;;Boston Univ. Track & Tennis Center;USA;Indoor;2025-01-31;Attoya;Harvey;GUY;2006;Female;14999415
 AL;3;1K5;MJU20;4:02.75;;Polideportivo Maximo Viloria;VEN;Outdoor;2025-01-31;Jesus;Gómez;VEN;;Male;15107593
 AL;3;400;WJU20;56.02;;Polideportivo Maximo Viloria;VEN;Outdoor;2025-01-31;Ibeyis;Romero;VEN;2006;Female;14995038
 AL;3;2KH;WJU20;7:43.4;;Pista de Atletismo Justo Román;ARG;Outdoor;2025-02-08;Aumassanne;Helena Romero;ARG;2008;Female;15206259
-AL;3;60H;WJU20;8.61;;Convention Center;USA;Indoor;2025-02-15;Pietra;Campbell;BRA;2006;Female;14995208
+AL;3;60H;WJU20;8.46;;Convention Center;USA;Indoor;2025-02-28;Pietra;Campbell;BRA;2006;Female;14995208
 AL;3;5K0;MJU20;14:46.23;;Washburn Indoor Athletic Facility;USA;Indoor;2025-02-14;Josue;David Vega;ECU;2007;Male;15096667
 AL;3;DRE;WJU20;12.31;;Alachua County Sports Complex;USA;Indoor;2025-03-01;Fabiana;Patricia Morales;VEN;;Female;15023439
 AL;3;KUG;MJU20;17.05;;CNDA;BRA;Outdoor;2025-02-01;Pedro;Rafael Modesto;BRA;2006;Male;15044390
