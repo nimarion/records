@@ -1,7 +1,7 @@
 Code;Type;Discipline;Class;Result;Wind;Venue;Venue Country;Environment;Date;Firstname;Lastname;Nation;YOB;Sex;WorldathleticsId
 AL;2;3G;MJU20;13:44.23;;Alachua County Sports Complex;USA;Indoor;2025-02-28;Jonny;Jurchen;USA;2006;Male;15210947
 AL;2;3K0;MJU20;7:55.48;;Dempsey Indoor;USA;Indoor;2025-02-14;Tayvon;Kitchen;USA;2006;Male;15077001
-AL;2;200;MJU20;20.8;;Sports Performance Center;USA;Indoor;2025-02-28;Austen;Diggs;USA;;Male;15082574
+AL;2;200;MJU20;20.78;0.4;Pista del Centro Deportivo Borregos;MEX;Outdoor;2025-03-02;Alejandro;Cardenas;MEX;2006;Male;14974265
 AL;2;2KH;MJU20;6:26.78;;GC Foster College;JAM;Outdoor;2025-01-18;Obinna;Daniel Reid;JAM;;Male;15082070
 AL;0;4×4;MJU20;3:14.39;;Armory Track&Field Center;USA;Indoor;2025-02-08;IMG;Academy;INT;;Male;
 AL;0;4×1;MJU20;41.38;;GC Foster College;JAM;Outdoor;2025-01-18;Clarendon;College U20;INT;;Male;
@@ -27,12 +27,13 @@ AL;2;WEI;WJU20;6.47;;Armory Track&Field Center;USA;Indoor;2025-02-08;Ava;Kitchin
 AL;2;STA;MJU20;5.56;;Randal Tyson Indoor Center;USA;Indoor;2025-02-14;Dyson;Wicker;USA;2006;Male;15067921
 AL;2;300;MJU20;32.64;;Armory Track&Field Center;USA;Indoor;2025-02-08;Jayden;Mims;USA;;Male;14993737
 AL;2;HOC;WJU20;1.82;;National Stadium;JAM;Outdoor;2025-02-15;Daneille;Noble;JAM;2007;Female;14973694
+AL;2;10K;MJU20;31:28.19;;Pista del Centro Deportivo Borregos;MEX;Outdoor;2025-03-01;Juan;Diego Gaeta;MEX;;Male;15153749
 AL;4;60M;WJU20;7.13;;Armory Track&Field Center;USA;Indoor;2025-02-08;Lisa;Raye;TTO;2008;Female;15077774
 AL;2;10K;WJU20;37:35.98;;Pista Luis F. Sambolin;PUR;Outdoor;2025-02-21;Alondra;Santos;PUR;2006;Female;15163395
 AL;2;SPE;WJU20;46.16;;T. Robinson Stadium;BAH;Outdoor;2025-01-25;Taysha;Stubbs;BAH;2007;Female;15023877
 AL;2;STA;WJU20;4.43;;Bob Devaney Sports Center;USA;Indoor;2025-02-07;Anna;Willis;USA;2006;Female;14967585
 AL;2;300;WJU20;36.3;;Ott Center for Track & Field;USA;Indoor;2025-03-01;Elise;Cooper;USA;2007;Female;14852192
-AL;2;3KH;MJU20;9:49.74;;Estadio Panamericano;CUB;Outdoor;2025-02-22;Luis;A. Ricardo;CUB;2007;Male;15209592
+AL;2;3KH;MJU20;9:45.80;;Pista del Centro Deportivo Borregos;MEX;Outdoor;2025-03-02;Luciano;Pino;MEX;;Male;15153719
 AL;2;800;WJU20;2:03.43;;Sports Performance Center;USA;Indoor;2025-03-01;Tessa;Buswell;USA;2006;Female;15007114
 AL;2;3KH;WJU20;10:46.80;;Estadio Panamericano;CUB;Outdoor;2025-02-22;Marian;Yanet López;CUB;2006;Female;15078817
 AL;2;1K5;MJU20;3:40.62;;Boston Univ. Track & Tennis Center;USA;Indoor;2025-02-21;Owen;Powell;USA;;Male;15124072
