@@ -185,7 +185,7 @@ AL;5;400;M;45.56;;WA Athletics Stadium;AUS;Outdoor;2025-03-01;Fuga;Sato;JPN;1996
 AL;5;WEI;W;6.53;2.0;Shahid Beheshti Stadium;IRI;Outdoor;2025-02-12;Reyhaneh;Mobini Arani;IRI;2000;Female;14760113
 AL;5;4×4;X;3:25.35;;Maharana Pratap Sports College Dehradun;IND;Outdoor;2025-02-12;Kerala;Team;IND;;Mixed;
 AL;5;HOC;M;2.31;;Městská sportovní hala;CZE;Indoor;2025-02-08;Sanghyeok;Woo;KOR;1996;Male;14532326
-AL;5;60M;M;6.53;;AccorHotels Arena de Bercy;FRA;Indoor;2025-02-09;Ali;Anwar Ali Al Balushi;OMA;2002;Male;14844149
+AL;5;60M;M;6.53;;AccorHotels Arena de Bercy;FRA;Indoor;2025-02-09;Ali;Al Balushi;OMA;2002;Male;14844149
 AL;5;60H;W;8.0;;L'Anneau-Halle d'athlétisme de Metz;FRA;Indoor;2025-02-08;Yumi;Tanaka;JPN;1998;Female;14712879
 AL;5;2KH;W;7:08.47;;Mahinda Rajapaksha Stadium;SRI;Outdoor;2025-02-19;K.M.;Sachini Madhuhansika;SRI;2008;Female;15211868
 AL;5;STA;M;5.85;;Palais des Sports Caen la Mer;FRA;Indoor;2025-02-01;Chenyang;Li;CHN;2003;Male;14974804
@@ -292,6 +292,7 @@ AL;3;1K5;M;3:42.99;;CNDA;BRA;Outdoor;2025-03-08;Leonardo;Santos;BRA;2002;Male;14
 AL;3;1K0;W;2:54.19;;Ahearn Field House;USA;Indoor;2025-01-17;Aaliyah;Moore;GUY;2001;Female;14887320
 AL;3;HAM;M;76.29;;CeNARD;ARG;Outdoor;2025-02-15;Joaquin;Gomez;ARG;1996;Male;14444291
 AL;3;50H;M;6.55;;Arena Stade Couvert;FRA;Indoor;2025-02-13;Rafael;Pereira;BRA;1997;Male;14662635
+AL;3;HOC;W;1.82;;Pista de Atletismo - Parque Deportivo;COL;Outdoor;2025-03-08;Hellen;Tenorio;COL;2004;Female;14995398
 AL;3;HOC;W;1.82;;Gobierno Autónomo Municipal de Cochabamba;BOL;Indoor;2025-02-23;Arielly;Kailayne Monteiro;BRA;2003;Female;14817203
 AL;3;3KH;M;8:40.08;;CNDA;BRA;Outdoor;2025-03-07;Walace;Evangelista Caldas;BRA;1998;Male;14665890
 AL;3;100;W;11.67;1.7;CeNARD;ARG;Outdoor;2025-02-15;Maria;Florencia Lamboglia;ARG;1992;Female;14370099
@@ -306,7 +307,7 @@ AL;3;600;W;1:26.25;;South Carolina Indoor T&F Complex;USA;Indoor;2025-01-11;Aliy
 AL;3;DRE;M;16.52;;Gobierno Autónomo Municipal de Cochabamba;BOL;Indoor;2025-02-23;Elton;Petronilho;BRA;2001;Male;14844202
 AL;3;STA;W;4.26;;Washburn Indoor Athletic Facility;USA;Indoor;2025-02-01;Isabel;De Quadros;BRA;1999;Female;14639884
 AL;3;400;M;46.01;;Estadio Brigido Iriarte;VEN;Outdoor;2025-03-07;Kelvis;Padrino;VEN;1997;Male;14559260
-AL;3;WEI;W;6.64;;Gobierno Autónomo Municipal de Cochabamba;BOL;Indoor;2025-02-22;Natalia;Linares;COL;2003;Female;14841613
+AL;3;WEI;W;6.7;0.3;Pista de Atletismo - Parque Deportivo;COL;Outdoor;2025-03-08;Natalia;Linares;COL;2003;Female;14841613
 AL;3;HOC;M;2.22;;Gobierno Autónomo Municipal de Cochabamba;BOL;Indoor;2025-02-23;Thiago;Moura;BRA;1995;Male;14488481
 AL;3;60M;M;6.56;;Gobierno Autónomo Municipal de Cochabamba;BOL;Indoor;2025-02-20;Neiker;Abello;COL;2000;Male;14813731
 AL;3;60H;W;7.99;;Convention Center;USA;Indoor;2025-02-01;Maribel;Vanessa Caicedo;ECU;1998;Female;14621562
