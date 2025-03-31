@@ -11,7 +11,7 @@ AL;2;50H;W;6.68;;Arena Stade Couvert;FRA;Indoor;2025-02-13;Ackera;Nugent;JAM;200
 AL;2;100;M;10.06;0.1;National Stadium;JAM;Outdoor;2025-03-22;Ackeem;Blake;JAM;2002;Male;14638971
 AL;2;4×1;M;38.68;;National Stadium;JAM;Outdoor;2025-02-22;Dynamics;Athletic Track Club;JAM;;Male;
 AL;2;200;W;22.3;;Virginia Beach Sports Center;USA;Indoor;2025-03-15;India;Mayberry;USA;;Female;14993485
-AL;2;10H;W;12.88;0.2;Univ. of Arizona Roy P. Drachman Stadium;USA;Outdoor;2025-03-22;Marissa;Simpson;JAM;2002;Female;14777619
+AL;2;10H;W;12.86;0.6;LSU Bernie Moore Stadium;USA;Outdoor;2025-03-29;Jaiya;Covington;USA;2003;Female;14886574
 AL;2;2KH;M;5:41.34;;UCF Soccer and Track Complex;USA;Outdoor;2025-03-22;Jackson;Watts;USA;;Male;14941592
 AL;2;WEI;M;8.34;-0.3;National Stadium;JAM;Outdoor;2025-02-22;Tajay;Gayle;JAM;1996;Male;14631861
 AL;2;11H;M;13.21;1.9;Florida State University - Mike Long Track;USA;Outdoor;2025-03-28;Dylan;Beard;USA;1998;Male;14679485
@@ -35,7 +35,7 @@ AL;2;60H;M;7.36;;Arena Stade Couvert;FRA;Indoor;2025-02-13;Grant;Holloway;USA;19
 AL;2;4×8;M;7:24.85;;Cornell-Barton Hall;USA;Indoor;2025-03-02;Princeton;;USA;;Male;
 AL;2;DIS;W;66.72;;Mike A. Myers Stadium;USA;Outdoor;2025-03-28;Valarie;Allman;USA;1995;Female;14479216
 AL;2;SPE;W;55.45;;Estadio Panamericano;CUB;Outdoor;2025-02-14;Marianaily;Silva;CUB;2002;Female;14846770.0
-AL;2;200;M;20.11;1.3;Estadio Luguelín Santos;DOM;Outdoor;2025-03-29;Alexander;Ogando;DOM;2000;Male;14912251
+AL;2;200;M;20.05;1.4;LSU Bernie Moore Stadium;USA;Outdoor;2025-03-29;Garrett;Kaalund;USA;2004;Male;14988823
 AL;2;1K5;M;3:31.74;;Armory Track&Field Center;USA;Indoor;2025-02-08;Yared;Nuguse;USA;1999;Male;14798735.0
 AL;2;1K0;W;2:35.11;;Dempsey Indoor;USA;Indoor;2025-01-17;Sinclaire;Johnson;USA;1998;Female;14620126
 AL;2;HAM;M;77.91;;USC Allyson Felix at Loker Track Stadium;USA;Outdoor;2025-03-21;Trey;Knight;USA;2002;Male;14874868
@@ -45,7 +45,7 @@ AL;2;50H;M;6.3;;Arena Stade Couvert;FRA;Indoor;2025-02-13;Grant;Holloway;USA;199
 AL;2;HOC;W;1.98;;"R.A. ""Murray"" Fasken Indoor Track Stadium";USA;Indoor;2025-03-01;Rachel;Glenn;USA;2002;Female;14715993
 AL;2;3KH;M;8:37.68;;Paul Derr TF Facility;USA;Outdoor;2025-03-27;Kole;Mathison;USA;2005;Male;14992230
 AL;2;3G;M;11:57.89;;Ocean Breeze Athl. Complex;USA;Indoor;2025-02-22;Emmanuel;Corvera;USA;1993;Male;14633212
-AL;2;100;W;11.21;1.0;Irwin Belk TF Center;USA;Outdoor;2025-03-21;Joyasia;Smith;USA;2004;Female;15056298
+AL;2;100;W;11.13;-0.1;Paul Derr TF Facility;USA;Outdoor;2025-03-28;Alexis;Brown;USA;2004;Female;15056206
 AL;2;800;M;1:43.24;;Ocean Breeze Athl. Complex;USA;Indoor;2025-02-23;Josh;Hoey;USA;1999;Male;14695060
 AL;2;KUG;W;20.68;;Europahalle;GER;Indoor;2025-02-07;Sarah;Mitton;CAN;1996;Female;14607093
 AL;2;3K0;M;7:22.91;;Armory Track&Field Center;USA;Indoor;2025-02-08;Grant;Fisher;USA;1997;Male;14591210
@@ -53,7 +53,7 @@ AL;2;60M;W;7.02;;Armory Track&Field Center;USA;Indoor;2025-02-08;Jacious;Sears;U
 AL;2;300;M;32.18;;Clemson Indoor Track & Field Complex;USA;Indoor;2025-01-31;Jacory;Patterson;USA;2000;Male;14715097
 AL;2;4×2;W;1:34.26;;Virginia Beach Sports Center;USA;Indoor;2025-03-21;Bullis;Tc-Md;USA;;Female;
 AL;2;MEI;W;4:17.01;;Boston Univ. Track & Tennis Center;USA;Indoor;2025-03-02;Heather;Maclean;USA;1995;Female;14535001
-AL;2;10K;M;28:14.27;;Paul Derr TF Facility;USA;Outdoor;2025-03-27;Drew;Rogers;USA;2004;Male;14985104
+AL;2;10K;M;26:57.30;;JSerra Catholic;USA;Outdoor;2025-03-29;Graham;Blanks;USA;2002;Male;14884807
 AL;2;600;W;1:24.60;;Randal Tyson Indoor Center;USA;Indoor;2025-01-17;Shafiqua;Maloney;VIN;1999;Female;14574729
 AL;2;DRE;M;17.14;;Ott Center for Track & Field;USA;Indoor;2025-01-11;Jordan;Scott;JAM;1997;Male;14569308
 AL;2;STA;W;4.91;;Fall Creek Pavilion;USA;Indoor;2025-02-28;Amanda;Moll;USA;2005;Female;14906783
@@ -69,7 +69,7 @@ AL;2;2KH;W;6:41.61;;UCF Soccer and Track Complex;USA;Outdoor;2025-03-22;Noel;Bar
 AL;2;STA;M;6.01;;Palais des Sports Caen la Mer;FRA;Indoor;2025-01-31;Christopher;Nilsen;USA;1998;Male;14709278
 AL;2;5K0;M;12:44.09;;Boston Univ. Track & Tennis Center;USA;Indoor;2025-02-14;Grant;Fisher;USA;1997;Male;14591210
 AL;2;3K0;W;8:28.03;;Armory Track&Field Center;USA;Indoor;2025-02-08;Whittni;Morgan;USA;1997;Female;14770924
-AL;2;10K;W;31:20.60;;Paul Derr TF Facility;USA;Outdoor;2025-03-28;Grace;Hartman;USA;2004;Female;14719772
+AL;2;10K;W;30:36.56;;JSerra Catholic;USA;Outdoor;2025-03-29;Elise;Cranny;USA;1996;Female;14531083
 AL;2;40H;W;54.86;;Mike A. Myers Stadium;USA;Outdoor;2025-03-28;Rachel;Glenn;USA;2002;Female;14715993
 AL;4;HAM;W;67.95;;Pilditch Stadium;RSA;Outdoor;2025-03-12;Leandri;Holtzhausen;RSA;1997;Female;14576714
 AL;4;10G;W;46:09.24;;Complexe Olympique Mohamed Boudiaf;ALG;Outdoor;2025-02-22;Souad;Azzi;ALG;1999;Female;14786345
@@ -80,14 +80,14 @@ AL;4;800;W;1:58.40;;Sports Training Center;CHN;Indoor;2025-03-23;Prudence;Sekgod
 AL;4;5G;W;23:36.65;;McArthur Stadium;RSA;Outdoor;2025-01-28;Marissa;Swanepoel;RSA;2002;Female;14838369
 AL;4;100;M;9.99;0.7;Pilditch Stadium;RSA;Outdoor;2025-03-15;Bayanda;Walaza;RSA;2006;Male;15022957
 AL;4;4×1;M;40.1;;Mandela National Stadium;UGA;Outdoor;2025-03-15;Uganda;;UGA;;Male;
-AL;4;200;W;22.86;;Sports Performance Center;USA;Indoor;2025-03-08;Maimuna;Jallow;GAM;;Female;14988414
+AL;4;200;W;22.46;1.7;LSU Bernie Moore Stadium;USA;Outdoor;2025-03-28;Thelma;Davies;LBR;2000;Female;14745790
 AL;4;10H;W;12.69;1.0;UJ Stadium;RSA;Outdoor;2025-03-19;Marione;Fourie;RSA;2002;Female;14838617
 AL;4;2KH;M;5:36.7;;Stade D'athlétisme;TUN;Outdoor;2025-02-16;Saif;Zuidi;TUN;2005;Male;15105696
 AL;4;WEI;M;8.17;0.4;Germiston Stadium;RSA;Outdoor;2025-01-25;Cheswill;Johnson;RSA;1997;Male;14741320
 AL;4;11H;M;13.53;-1.2;Green Point Stadium;RSA;Outdoor;2025-03-28;Denmar;Jacobs;RSA;2003;Male;14938233
 AL;4;10G;M;40:59.3;;Stade D'athlétisme;TUN;Outdoor;2025-02-16;Oussama;Farhat;TUN;2004;Male;14987907
 AL;4;300;W;36.36;;Pilditch Stadium;RSA;Outdoor;2025-02-08;Shirley;Nekhubui;RSA;2000;Female;14932729
-AL;4;400;W;51.06;;"R.A. ""Murray"" Fasken Indoor Track Stadium";USA;Indoor;2025-02-28;Ella;Onojuvwevwo;NGR;2005;Female;14888449
+AL;4;400;W;51.01;;LSU Bernie Moore Stadium;USA;Outdoor;2025-03-29;Ella;Onojuvwevwo;NGR;2005;Female;14888449
 AL;4;1K0;M;2:18.48;;McArthur Stadium;RSA;Outdoor;2025-02-25;Yassine;Hethat;ALG;1991;Male;14483503
 AL;4;5K0;W;15:05.93;;Virginia Beach Sports Center;USA;Indoor;2025-03-14;Doris;Lemngole;KEN;2002;Female;15128594
 AL;4;4×4;M;3:10.71;;Green Point Stadium;RSA;Outdoor;2025-03-29;Boland;U20;RSA;;Male;
@@ -97,13 +97,13 @@ AL;4;SPE;M;82.46;;McArthur Stadium;RSA;Outdoor;2025-03-18;Douw;Smit;RSA;1999;Mal
 AL;4;4×1;W;47.33;;Green Point Stadium;RSA;Outdoor;2025-03-28;Athletics;Gauteng North U23;RSA;;Female;
 AL;4;4×4;W;3:28.30;;Pilditch Stadium;RSA;Outdoor;2025-03-12;South;Africa;RSA;;Female;
 AL;4;40H;M;48.74;;Germiston Stadium;RSA;Outdoor;2025-02-22;Sabelo;Dhlamini;RSA;1995;Male;14830123
-AL;4;DIS;M;59.6;;Stade de la Réunification de Bepanda;CMR;Outdoor;2025-03-23;Lucien;Wangba;CMR;1993;Male;14912633
+AL;4;DIS;M;60.23;;Millican Field at Throw Town;USA;Outdoor;2025-03-29;Aron;Alvarez Aranda;RSA;2004;Male;14936553
 AL;4;50M;W;6.84;;Salle du Centre Mondial du Cyclisme;SUI;Indoor;2025-02-01;Malaïka;Malu;CGO;;Female;15203147
 AL;4;3G;W;13:49.10;;McArthur Stadium;RSA;Outdoor;2025-02-25;Janise;Nell;RSA;2004;Female;14860748
 AL;4;MEI;M;3:52.64;;Boston Univ. Track & Tennis Center;USA;Indoor;2025-03-02;Festus;Lagat;KEN;1996;Male;14877138
 AL;4;60H;M;7.65;;Halle Stéphane Diagana;FRA;Indoor;2025-02-15;Jeremie;Lararaudeuse;MRI;2001;Male;14852149
 AL;4;4×8;M;7:33.05;;Sports Performance Center;USA;Indoor;2025-03-08;Iowa;Central Cc;MAR;;Male;
-AL;4;DIS;W;57.79;;Stile Athletics Field House;USA;Indoor;2025-01-12;Chioma;Onyekwere;NGR;1994;Female;14536919
+AL;4;DIS;W;58.56;;Millican Field at Throw Town;USA;Outdoor;2025-03-29;Nora;Monie;CMR;1997;Female;14638693
 AL;4;2K0;M;5:03.71;;Salle Maryvonne Dupureur;FRA;Indoor;2025-01-11;Amine;Brahimi;ALG;1995;Male;14801499
 AL;4;SPE;W;56.47;;Mike A. Myers Stadium;USA;Outdoor;2025-03-28;Jana;Van Schalkwyk;RSA;2001;Female;14744990
 AL;4;200;M;20.08;0.5;UJ Stadium;RSA;Outdoor;2025-03-19;Bayanda;Walaza;RSA;2006;Male;15022957
@@ -123,7 +123,7 @@ AL;4;3K0;M;7:29.99;;Arena Stade Couvert;FRA;Indoor;2025-02-13;Biniam;Mehary;ETH;
 AL;4;60M;W;7.08;;Randal Tyson Indoor Center;USA;Indoor;2025-02-14;Tima;Godbless;NGR;2004;Female;14909612
 AL;4;300;M;31.83;;Pilditch Stadium;RSA;Outdoor;2025-02-08;Udeme;Okon;RSA;2005;Male;15116261.0
 AL;4;MEI;W;4:22.21;;Boston Univ. Track & Tennis Center;USA;Indoor;2025-03-02;Susan;Lokayo Ejore;KEN;1995;Female;14700633
-AL;4;10K;M;28:22.51;;Paul Derr TF Facility;USA;Outdoor;2025-03-27;Nicholas;Kipchirchir;KEN;;Male;15204567
+AL;4;10K;M;26:50.21;;JSerra Catholic;USA;Outdoor;2025-03-29;Ishmael;Rokitto Kipkurui;KEN;2005;Male;14935332
 AL;4;600;W;1:25.37;;Randal Tyson Indoor Center;USA;Indoor;2025-01-17;Sanu;Jallow;GAM;2003;Female;14880079
 AL;4;DRE;M;17.15;;Sports Training Center;CHN;Indoor;2025-03-21;Hugues;Fabrice Zango;BUR;1993;Male;14523962
 AL;4;STA;W;4.15;;Liberty Indoor Complex;USA;Indoor;2025-02-28;Nicole;Janse Van Rensburg;RSA;;Female;14969867
@@ -137,7 +137,7 @@ AL;4;2KH;W;7:24.30;;University of the Western Cape;RSA;Outdoor;2025-01-24;Selmar
 AL;4;STA;M;5.73;;CrossPlex Athletic Facility;USA;Indoor;2025-02-24;Kyle;Rademeyer;RSA;2002;Male;14790285
 AL;4;5K0;M;12:55.02;;Boston Univ. Track & Tennis Center;USA;Indoor;2025-03-02;Adriaan;Wildschutt;RSA;1998;Male;14741268
 AL;4;3K0;W;8:19.98;;Arena Stade Couvert;FRA;Indoor;2025-02-13;Freweyni;Hailu;ETH;2001;Female;14836656
-AL;4;10K;W;31:56.65;;Pilditch Stadium;RSA;Outdoor;2025-03-14;Glenrose;Xaba;RSA;1994;Female;14515907
+AL;4;10K;W;31:02.32;;JSerra Catholic;USA;Outdoor;2025-03-29;Dominique;Scott;RSA;1992;Female;14941416
 AL;4;40H;W;56.48;;UJ Stadium;RSA;Outdoor;2025-03-19;Tumi;Ramokgopa;RSA;2007;Female;14975442
 AL;5;HAM;W;66.22;;USC Allyson Felix at Loker Track Stadium;USA;Outdoor;2025-03-21;Joy;Mcarthur;JPN;1999;Female;14751695
 AL;5;10G;W;48:30.61;;AIS Athletics Track;AUS;Outdoor;2025-01-26;Mansi;Negi;IND;2003;Female;14831020
@@ -185,7 +185,7 @@ AL;5;3K0;M;7:38.26;;Boston Univ. Track & Tennis Center;USA;Indoor;2025-02-14;Gul
 AL;5;60M;W;7.14;;Sports Training Center;CHN;Indoor;2025-03-22;Xiaojing;Liang;CHN;1997;Female;14583567
 AL;5;300;M;32.77;;Prefectural Stadium;JPN;Outdoor;2025-03-09;Genta;Iki;JPN;2003;Male;14977037
 AL;5;MEI;W;4:28.54;;The Track at New Balance;USA;Indoor;2025-02-02;Nozomi;Tanaka;JPN;1999;Female;14632538
-AL;5;10K;M;28:49.93;;Maharana Pratap Sports College Dehradun;IND;Outdoor;2025-02-08;Sawan;Barwal;IND;1998;Male;14734651
+AL;5;10K;M;27:00.22;;JSerra Catholic;USA;Outdoor;2025-03-29;Gulveer;Singh;IND;1998;Male;15023839
 AL;5;600;W;1:36.25;;Dennis Fairall Fieldhouse;CAN;Indoor;2025-02-22;Asima;Kidwai;IND;;Female;15135097
 AL;5;DRE;M;17.33;;Sports Training Center;CHN;Indoor;2025-03-21;Yaming;Zhu;CHN;1994;Male;14691893
 AL;5;STA;W;4.6;;Shanxi Athletics Administrative Center;CHN;Indoor;2025-02-14;Chunge;Niu;CHN;2000;Female;14744719
@@ -199,7 +199,7 @@ AL;5;2KH;W;7:08.47;;Mahinda Rajapaksha Stadium;SRI;Outdoor;2025-02-19;K.M.;Sachi
 AL;5;STA;M;5.85;;Palais des Sports Caen la Mer;FRA;Indoor;2025-02-01;Chenyang;Li;CHN;2003;Male;14974804
 AL;5;5K0;M;12:59.77;;Boston Univ. Track & Tennis Center;USA;Indoor;2025-02-21;Gulveer;Singh;IND;1998;Male;15023839
 AL;5;3K0;W;8:33.52;;Armory Track&Field Center;USA;Indoor;2025-02-08;Nozomi;Tanaka;JPN;1999;Female;14632538
-AL;5;10K;W;33:33.47;;Maharana Pratap Sports College Dehradun;IND;Outdoor;2025-02-08;Sanjivani;Jadhav;IND;1996;Female;14598253
+AL;5;10K;W;32:14.66;;JSerra Catholic;USA;Outdoor;2025-03-29;SEEMA;;IND;2001;Female;14734780
 AL;5;40H;W;57.23;;Prefectural Sports Park;JPN;Outdoor;2025-03-22;Satsuki;Umehara;JPN;1994;Female;14444482
 AL;6;HAM;W;69.89;;The Caledonian Ground;NZL;Outdoor;2025-03-08;Lauren;Bruce;NZL;1997;Female;14558985
 AL;6;10G;W;43:24.67;;AIS Athletics Track;AUS;Outdoor;2025-01-26;Jemima;Montag;AUS;1998;Female;14457807
@@ -214,7 +214,7 @@ AL;6;200;W;22.65;;L'Anneau-Halle d'athlétisme de Metz;FRA;Indoor;2025-02-08;Tor
 AL;6;10H;W;13.2;1.2;SA Athletic Stadium;AUS;Outdoor;2025-02-15;Emily;Britton;AUS;;Female;14727712
 AL;6;2KH;M;6:23.42;;UCF Soccer and Track Complex;USA;Outdoor;2025-03-22;Lachlan;Mccure;AUS;;Male;14969586
 AL;6;WEI;M;8.33;1.8;WA Athletics Stadium;AUS;Outdoor;2025-03-01;Liam;Adcock;AUS;1996;Male;14572123
-AL;6;11H;M;13.66;0.4;Queensland Sport and Athletics Centre;AUS;Outdoor;2025-03-16;Jacob;Mccorry;AUS;1997;Male;14635855
+AL;6;11H;M;13.61;0.8;Bobcat Track and Field Complex;USA;Outdoor;2025-03-28;Colby;Eddowes;AUS;2002;Male;14814093
 AL;6;10G;M;38:31.24;;AIS Athletics Track;AUS;Outdoor;2025-01-27;Declan;Tingay;AUS;1999;Male;14619618
 AL;6;300;W;38.0;;AIS Athletics Track;AUS;Outdoor;2025-03-07;Alesha;Bennetts;AUS;2005;Female;14835106
 AL;6;400;W;51.35;;Lakeside Stadium;AUS;Outdoor;2025-03-29;Ellie;Beer;AUS;2003;Female;14768392
@@ -263,14 +263,14 @@ AL;6;2KH;W;6:39.90;;Newtown Park Stadium;NZL;Outdoor;2025-02-15;Eva;Pringle;NZL;
 AL;6;STA;M;5.91;;Maison des Sports;FRA;Indoor;2025-02-28;Kurtis;Marschall;AUS;1997;Male;14565327
 AL;6;5K0;M;12:59.43;;Boston Univ. Track & Tennis Center;USA;Indoor;2025-02-21;Jack;Rayner;AUS;1995;Male;14517160
 AL;6;3K0;W;8:30.91;;Armory Track&Field Center;USA;Indoor;2025-02-08;Jessica;Hull;AUS;1996;Female;14464506
-AL;6;10K;W;32:49.37;;Paul Derr TF Facility;USA;Outdoor;2025-03-28;Hannah;Prosser;NZL;;Female;14976472
+AL;6;10K;W;30:58.69;;JSerra Catholic;USA;Outdoor;2025-03-29;Lauren;Ryan;AUS;1998;Female;14667446
 AL;6;40H;W;54.86;;SOPAC;AUS;Outdoor;2025-03-15;Sarah;Carli;AUS;1994;Female;14406120
 AL;3;HAM;W;68.25;;Associação Desportiva Recreativa e Cultural de Lovelhe;POR;Outdoor;2025-02-15;Ximena;Zorrilla;PER;2000;Female;14746479
 AL;3;10G;W;44:36.58;;AIS Athletics Track;AUS;Outdoor;2025-01-26;Lorena;Arenas;COL;1993;Female;14418896
 AL;3;KUG;M;20.92;;Gobierno Autónomo Municipal de Cochabamba;BOL;Indoor;2025-02-23;Welington;Morais;BRA;1996;Male;14543298
 AL;3;1K5;W;4:17.54;;Utilita Arena Birmingham;GBR;Indoor;2025-02-15;Fedra;Aldana Luna;ARG;1995;Female;14768063
 AL;3;DRE;W;14.17;;Gobierno Autónomo Municipal de Cochabamba;BOL;Indoor;2025-02-23;Regiclecia;Candido;BRA;2002;Female;14897112
-AL;3;800;W;2:05.66;;Pista Atlética Mario Recordón;CHI;Outdoor;2025-03-23;Berdine;Castillo;CHI;2000;Female;14840651
+AL;3;800;W;2:04.89;;Pista Atlética Mario Recordón;CHI;Outdoor;2025-03-29;Berdine;Castillo;CHI;2000;Female;14840651
 AL;3;5G;W;23:00.39;;Gobierno Autónomo Municipal de Cochabamba;BOL;Indoor;2025-02-09;Angela;Castro;BOL;1993;Female;14410009
 AL;3;100;M;10.09;1.5;Estadio de Atletismo - Unidad Deportiva el Salitre;COL;Outdoor;2025-03-14;Carlos;Florez Angulo;COL;2003;Male;14915252
 AL;3;4×1;M;39.81;;Estadio Brigido Iriarte;VEN;Outdoor;2025-03-21;Venezuela;B;VEN;;Male;
@@ -278,7 +278,7 @@ AL;3;200;W;23.08;;Sports Performance Center;USA;Indoor;2025-03-08;Keliza;Smith;G
 AL;3;10H;W;13.02;1.5;Estadio de Atletismo - Unidad Deportiva el Salitre;COL;Outdoor;2025-03-14;Martha;Araujo;COL;1996;Female;14587338
 AL;3;2KH;M;5:53.36;;Polideportivo Maximo Viloria;VEN;Outdoor;2025-01-31;Jose;Gonzalez;VEN;1994;Male;15079882
 AL;3;WEI;M;7.96;;Gobierno Autónomo Municipal de Cochabamba;BOL;Indoor;2025-02-23;Arnovis;Dalmero;COL;2000;Male;14768739
-AL;3;11H;M;13.6;0.0;Arena Caixa;BRA;Outdoor;2025-03-15;Thiago;Resende Ornelas Dos Santos;BRA;2004;Male;14919802
+AL;3;11H;M;13.54;1.7;Pista Atlética Mario Recordón;CHI;Outdoor;2025-03-29;Martín;Sáenz De Santa María;CHI;2001;Male;14813689
 AL;3;10G;M;43:08.71;;Estadio de Atletismo - Unidad Deportiva el Salitre;COL;Outdoor;2025-03-15;Jesus;Leonardo Ramirez;COL;2005;Male;14995402
 AL;3;300;W;36.93;;Clemson Indoor Track & Field Complex;USA;Indoor;2025-01-31;Aliyah;Abrams;GUY;1997;Female;14447688
 AL;3;400;W;51.18;;Estadio de Atletismo - Unidad Deportiva el Salitre;COL;Outdoor;2025-03-14;Evelis;Aguilar;COL;1993;Female;14369345
@@ -287,9 +287,9 @@ AL;3;5K0;W;15:52.9;;Pista de Atletismo Justo Román;ARG;Outdoor;2025-02-08;Micae
 AL;3;4×4;M;3:11.61;;Estadio Brigido Iriarte;VEN;Outdoor;2025-03-08;Venezuela;B;VEN;;Male;
 AL;3;3KH;W;10:39.44;;Pista del Centro Deportivo Borregos;MEX;Outdoor;2025-03-02;Laura;Valentina Camargo;COL;2005;Female;15081091
 AL;3;SPE;M;77.67;;Estadio de Atletismo - Unidad Deportiva el Salitre;COL;Outdoor;2025-03-15;Billy;Julio López;COL;1996;Male;14662985
-AL;3;4×1;W;44.32;;Pista Atlética Mario Recordón;CHI;Outdoor;2025-03-22;Chile;;CHI;;Female;
+AL;3;4×1;W;44.21;;Pista Atlética Mario Recordón;CHI;Outdoor;2025-03-29;Chile;;CHI;;Female;
 AL;3;4×4;W;3:33.43;;Estadio de Atletismo - Unidad Deportiva el Salitre;COL;Outdoor;2025-03-15;Leopardos;;COL;;Female;
-AL;3;40H;M;50.79;;Athletic Park;JPN;Outdoor;2025-03-17;Mahau;Suguimati;BRA;1984;Male;14175200
+AL;3;40H;M;50.24;;Pista Atlética Mario Recordón;CHI;Outdoor;2025-03-30;Ramón;Fuenzalida;CHI;2006;Male;15050773
 AL;3;DIS;M;64.09;;Pista Atlética Eliana Gaete Lazo;CHI;Outdoor;2025-03-15;Claudio;Romero;CHI;2000;Male;14718347
 AL;3;3G;W;15:31.56;;Alachua County Sports Complex;USA;Indoor;2025-02-28;Lilian;Dumes Bittencourt;BRA;2003;Female;14971684
 AL;3;MEI;M;4:04.09;;National Indoor Arena;IRL;Indoor;2025-02-26;Juan;Peña;CHI;1991;Male;14642319
@@ -311,7 +311,7 @@ AL;3;3K0;M;7:34.10;;Boston Univ. Track & Tennis Center;USA;Indoor;2025-03-02;Val
 AL;3;60M;W;7.16;;Gobierno Autónomo Municipal de Cochabamba;BOL;Indoor;2025-02-22;Ana;Carolina Azevedo;BRA;1998;Female;14579558
 AL;3;300;M;33.32;;Clemson Indoor Track & Field Complex;USA;Indoor;2025-01-11;Daniel;Williams;GUY;2000;Male;14746486
 AL;3;MEI;W;4:29.49;;Harvard-Gordon Track and Tennis Center;USA;Indoor;2025-02-01;Carmen;Alder Caisalitin;ECU;2003;Female;14761372
-AL;3;10K;M;28:42.88;;Parque Municipal;CHI;Outdoor;2025-03-07;Ignacio;Velasquez;CHI;1998;Male;14768677
+AL;3;10K;M;27:37.65;;JSerra Catholic;USA;Outdoor;2025-03-29;Valentin;Soca;URU;2002;Male;14887362
 AL;3;600;W;1:26.25;;South Carolina Indoor T&F Complex;USA;Indoor;2025-01-11;Aliyah;Abrams;GUY;1997;Female;14447688
 AL;3;DRE;M;16.52;;Gobierno Autónomo Municipal de Cochabamba;BOL;Indoor;2025-02-23;Elton;Petronilho;BRA;2001;Male;14844202
 AL;3;STA;W;4.27;;Fall Creek Pavilion;USA;Indoor;2025-03-13;Isabel;De Quadros;BRA;1999;Female;14639884
@@ -325,7 +325,7 @@ AL;3;2KH;W;7:07.7;;Pista de Atletismo Justo Román;ARG;Outdoor;2025-02-08;Joaqui
 AL;3;STA;M;5.6;;Rector Fieldhouse;USA;Indoor;2025-02-07;Ricardo;David Montes;VEN;2006;Male;14999232
 AL;3;5K0;M;13:14.09;;Boston Univ. Track & Tennis Center;USA;Indoor;2025-02-14;Valentin;Soca;URU;2002;Male;14887362
 AL;3;3K0;W;8:56.78;;Velódromo Luis Puig;ESP;Indoor;2025-02-07;Fedra;Aldana Luna;ARG;1995;Female;14768063
-AL;3;10K;W;34:04.26;;CeNARD;ARG;Outdoor;2025-03-01;Angela;Sofia Gomez;ARG;1997;Female;15004907
+AL;3;10K;W;31:36.48;;JSerra Catholic;USA;Outdoor;2025-03-29;Florencia;Borelli;ARG;1992;Female;14370115
 AL;3;40H;W;57.51;;Estadio de Atletismo - Unidad Deportiva el Salitre;COL;Outdoor;2025-03-15;Maria;Alejandra Rocha;COL;2000;Female;14768732
 AL;1;HAM;W;77.07;;GPS Stadium;CYP;Outdoor;2025-03-15;Silja;Kosonen;FIN;2002;Female;14763144
 AL;1;10G;W;43:13.00;;Olimpiyets;BLR;Indoor;2025-02-14;Viktoryia;Bartash;BLR;1995;Female;14467671
@@ -384,7 +384,7 @@ AL;1;60M;W;7.01;;Omnisport;NED;Indoor;2025-03-09;Zaynab;Dosso;ITA;1999;Female;14
 AL;1;300;M;32.79;;Convention Center;USA;Indoor;2025-01-24;Brodie;Young;GBR;2003;Male;14915233
 AL;1;4×2;W;1:35.96;;Helmut-Körnig-Halle;GER;Indoor;2025-02-23;LG;Stadtwerke München;GER;;Female;
 AL;1;MEI;W;4:21.51;;Boston Univ. Track & Tennis Center;USA;Indoor;2025-03-02;Sintayehu;Vissa;ITA;1996;Female;14593929
-AL;1;10K;M;28:15.43;;Paul Derr TF Facility;USA;Outdoor;2025-03-27;Joseph;O’Brien;GBR;2004;Male;14984293
+AL;1;10K;M;27:26.95;;JSerra Catholic;USA;Outdoor;2025-03-29;Efrem;Gidey;IRL;2000;Male;14842722
 AL;1;600;W;1:26.60;;Randal Tyson Indoor Center;USA;Indoor;2025-01-17;Amber;Anning;GBR;2000;Female;14632781
 AL;1;DRE;M;17.8;;Sports Training Center;CHN;Indoor;2025-03-21;Andy;Díaz Hernández;ITA;1995;Male;14587743
 AL;1;STA;W;4.85;;Gallur;ESP;Indoor;2025-02-28;Molly;Caudery;GBR;2000;Female;14688948
@@ -400,5 +400,5 @@ AL;1;2KH;W;7:00.06;;UCF Soccer and Track Complex;USA;Outdoor;2025-03-22;Annika;B
 AL;1;STA;M;6.27;;Maison des Sports;FRA;Indoor;2025-02-28;Armand;Duplantis;SWE;1999;Male;14679502
 AL;1;5K0;M;12:54.92;;Boston Univ. Track & Tennis Center;USA;Indoor;2025-02-14;Jimmy;Gressier;FRA;1997;Male;14694062
 AL;1;3K0;W;8:28.69;;The Track at New Balance;USA;Indoor;2025-02-02;Melissa;Courtney-Bryant;GBR;1993;Female;14274781
-AL;1;10K;W;33:45.36;;Paul Derr TF Facility;USA;Outdoor;2025-03-28;Heather;Murphy;IRL;;Female;15077315
+AL;1;10K;W;30:53.73;;JSerra Catholic;USA;Outdoor;2025-03-29;Calli;Hauger-Thackery;GBR;1993;Female;14276523
 AL;1;40H;W;57.40;;Mike A. Myers Stadium;USA;Outdoor;2025-03-28;Selma;Ims;NOR;2005;Female;14937537
