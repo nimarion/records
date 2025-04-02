@@ -5,7 +5,7 @@ AL;2;3K0;MJU20;7:55.48;;Dempsey Indoor;USA;Indoor;2025-02-14;Tayvon;Kitchen;USA;
 AL;2;200;MJU20;20.46;;Armory Track&Field Center;USA;Indoor;2025-03-16;Tate;Taylor;USA;;Male;15139751.0
 AL;2;2KH;MJU20;6:03.50;;Mike A. Myers Stadium;USA;Outdoor;2025-03-27;Griffin;Hummel;USA;;Male;15119315
 AL;2;4×4;MJU20;3:09.44;;The Track at New Balance;USA;Indoor;2025-03-16;Bullis;;USA;;Male;
-AL;2;4×1;MJU20;41.2;;T. Robinson Stadium;BAH;Outdoor;2025-03-22;Queens;College;BAH;;Male;
+AL;0;4×1;MJU20;40.91;;Mike A. Myers Stadium;USA;Outdoor;2025-03-29;Rancho;Cucamonga;INT;;Male;
 AL;2;100;MJU20;10.06;0.5;National Stadium;JAM;Outdoor;2025-03-26;Gary;Card;JAM;2007;Male;15010819
 AL;2;800;MJU20;1:46.86;;Armory Track&Field Center;USA;Indoor;2025-02-08;Cooper;Lutkenhaus;USA;2008;Male;15152457.0
 AL;2;40H;MJU20;50.84;;GC Foster College;JAM;Outdoor;2025-03-02;Princewell;Martin;JAM;;Male;14974107
@@ -44,7 +44,7 @@ AL;2;10H;WJU20;13.33;1.3;GC Foster College;JAM;Outdoor;2025-03-02;Tiana;Marshall
 AL;2;10G;MJU20;41:18.35;;Unidad Deportiva Agustín Flores;MEX;Outdoor;2025-02-21;Emiliano;Barba;MEX;2007;Male;15029365
 AL;2;10G;WJU20;51:22.95;;Unidad Deportiva Agustín Flores;MEX;Outdoor;2025-02-21;Zinahi;Hernandez;MEX;2006;Female;15069457
 AL;2;400;WJU20;52.75;;The Track at New Balance;USA;Indoor;2025-03-13;Sydney;Sutton;USA;2006;Female;15040409
-AL;2;4×1;WJU20;46.24;;T. Robinson Stadium;BAH;Outdoor;2025-03-22;Saint;Augustine'S College;BAH;;Female;
+AL;2;4×1;WJU20;45.68;;Mike A. Myers Stadium;USA;Outdoor;2025-03-29;Mansfield;Lake Ridge;USA;;Female;
 AL;2;5K0;WJU20;15:13.26;;Armory Track&Field Center;USA;Indoor;2025-03-13;Jane;Hedengren;USA;2006;Female;15090151
 AL;2;2KH;WJU20;6:45.56;;Mike A. Myers Stadium;USA;Outdoor;2025-03-27;Macy;Wingard;USA;;Female;15082008
 AL;2;60H;WJU20;8.09;;Alachua County Sports Complex;USA;Indoor;2025-03-01;Briana;Campbell;JAM;2006;Female;14877515
@@ -130,7 +130,7 @@ AL;5;100;MJU20;10.52;1.2;Tsueng Kwan O Sports Ground;HKG;Outdoor;2025-02-15;Yat;
 AL;5;800;MJU20;1:49.83;;Maharana Pratap Sports College Dehradun;IND;Outdoor;2025-02-10;J.;Bejoy;IND;2006;Male;15053344
 AL;5;5G;MJU20;19:24.48;;Patliputra Sports Complex;IND;Outdoor;2025-03-10;Nitin;Gupta;IND;2008;Male;15053556
 AL;5;40H;MJU20;51.33;;Mahinda Rajapaksha Stadium;SRI;Outdoor;2025-03-09;Akalanka;Kuda Liyanage;SRI;2006;Male;15057792
-AL;5;HAM;MJU20;64.03;;Shahid Beheshti Stadium;IRI;Outdoor;2025-02-12;Mahdi;Haft Cheshmeh;IRI;2006;Male;15033423
+AL;5;HAM;MJU20;67.05;;Handan Sports Center;CHN;Outdoor;2025-03-21;Lingqi;Meng;CHN;2006;Male;15092431
 AL;5;3K0;WJU20;9:14.14;;Sports Training Center;CHN;Indoor;2025-03-22;Yuan;Li;CHN;2006;Female;15072977
 AL;5;1K5;WJU20;4:18.81;;Xipu Training Base Indoor Athletics Stadium;CHN;Indoor;2025-02-10;Yuan;Li;CHN;2006;Female;15072977
 AL;5;400;MJU20;46.75;;Mahinda Rajapaksha Stadium;SRI;Outdoor;2025-03-08;S.M.S.V;Rajakaruna;SRI;2007;Male;15157524
@@ -144,14 +144,15 @@ AL;5;1K0;MJU20;2:26.04;;Patliputra Sports Complex;IND;Outdoor;2025-03-12;Suraj;S
 AL;5;4×4;XJU20;3:33.46;;Taipei Municipal Stadium;TPE;Outdoor;2025-02-15;Taoyuan;Municipal Yang Mei Hs;TPE;;Mixed;
 AL;5;HOC;MJU20;2.22;;Mahinda Rajapaksha Stadium;SRI;Outdoor;2025-03-09;Lesandu;Arthavidu Gammanage;SRI;2006;Male;15047284
 AL;5;1K0;WJU20;2:55.68;;Patliputra Sports Complex;IND;Outdoor;2025-03-12;Nandani;Rajbhar;IND;2009;Female;15190516
-AL;5;DIS;WJU20;51.27;;Banqiao Stadium;TPE;Outdoor;2025-03-12;Ching-Yuan;Chiang;TPE;2006;Female;15020007
+AL;5;DIS;WJU20;56.65;;Handan Sports Center;CHN;Outdoor;2025-03-20;Chenyi;Ma;CHN;2008;Female;15144575
 AL;5;WEI;WJU20;6.37;;Xipu Training Base Indoor Athletics Stadium;CHN;Indoor;2025-02-10;Morong;Liang;CHN;2009;Female;15185261
 AL;5;STA;MJU20;5.15;;Xipu Training Base Indoor Athletics Stadium;CHN;Indoor;2025-02-10;Liang;Zeng;CHN;2007;Male;15096791
 AL;5;300;MJU20;33.51;;Mikio Oda Memorial Athletic Field;JPN;Outdoor;2025-03-23;Yuto;Matsumoto;JPN;2006;Male;15027861
 AL;5;HOC;WJU20;1.84;;Maharana Pratap Sports College Dehradun;IND;Outdoor;2025-02-12;POOJA;;IND;2007;Female;15053572
 AL;5;10K;MJU20;29:57.38;;Maharana Pratap Sports College Dehradun;IND;Outdoor;2025-02-08;.;Arun;IND;2006;Male;15189985
 AL;5;60M;WJU20;7.26;;Shandong Sports Training Center;CHN;Indoor;2025-02-18;Yujie;Chen;CHN;2008;Female;15138450.0
-AL;5;SPE;WJU20;54.54;;Banqiao Stadium;TPE;Outdoor;2025-03-10;Yu-Chin;Tai;TPE;2007;Female;15052183
+AL;5;10K;WJU20;36:55.83;;Handan Sports Center;CHN;Outdoor;2025-03-21;Yikai;Tian;CHN;2006;Female;15160666
+AL;5;SPE;WJU20;64.83;;Sichuan Xipu Training Base;CHN;Outdoor;2025-03-28;Ziyi;Yan;CHN;2008;Female;15144603
 AL;5;STA;WJU20;4.27;;Stabinski Velodrome;FRA;Indoor;2025-02-14;Keni;Miao;CHN;2008;Female;15137240
 AL;5;300;WJU20;40.15;;Prefectural Sports Park;JPN;Outdoor;2025-03-22;Raina;Kitabayashi;JPN;2007;Female;15044580
 AL;5;3KH;MJU20;8:49.44;;Maharana Pratap Sports College Dehradun;IND;Outdoor;2025-02-10;Sharuk;Khan;IND;2006;Male;14971183
@@ -163,7 +164,7 @@ AL;5;10G;MJU20;45:50.09;;Athletic Park;JPN;Outdoor;2025-03-18;Akira;Yamaguchi;JP
 AL;5;10G;WJU20;56:40.53;;Athletic Park;JPN;Outdoor;2025-03-18;Miku;Fujisawa;JPN;2006;Female;15122708
 AL;5;400;WJU20;54.37;;Mahinda Rajapaksha Stadium;SRI;Outdoor;2025-03-08;Jithma;Wijethunga;SRI;2006;Female;15088769
 AL;5;4×1;WJU20;46.77;;Banqiao Stadium;TPE;Outdoor;2025-03-12;Taipei;Municipal Datong High School;TPE;;Female;
-AL;5;5K0;WJU20;17:12.09;;Fukuoka University Stadium;JPN;Outdoor;2025-03-22;Hikaru;Fukuyama;JPN;2006;Female;14980685
+AL;5;5K0;WJU20;17:09.08;;Handan Sports Center;CHN;Outdoor;2025-03-20;Yikai;Tian;CHN;2006;Female;15160666
 AL;5;2KH;WJU20;7:08.47;;Mahinda Rajapaksha Stadium;SRI;Outdoor;2025-02-19;K.M.;Sachini Madhuhansika;SRI;2008;Female;15211868
 AL;5;60H;WJU20;8.34;;Shanxi Athletics Administrative Center;CHN;Indoor;2025-02-15;Binbin;Wu;CHN;2006;Female;15041145
 AL;5;5K0;MJU20;13:25.59;;Lakeside Stadium;AUS;Outdoor;2025-03-29;Rui;Suzuki;JPN;2006;Male;15005772
