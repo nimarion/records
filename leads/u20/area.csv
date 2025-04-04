@@ -75,7 +75,7 @@ AL;4;40H;MJU20;49.4;;Pilditch Stadium;RSA;Outdoor;2025-03-12;Njabulo;Mbatha;RSA;
 AL;4;HAM;MJU20;57.3;;Germiston Stadium;RSA;Outdoor;2025-02-01;Roger;Vorster;RSA;2006;Male;15079206
 AL;4;3K0;WJU20;8:25.37;;Arena Stade Couvert;FRA;Indoor;2025-02-13;Birke;Haylom;ETH;2006;Female;15009582
 AL;4;1K5;WJU20;3:59.82;;Arena;POL;Indoor;2025-02-16;Birke;Haylom;ETH;2006;Female;15009582
-AL;4;400;MJU20;45.6;;Pilditch Stadium;RSA;Outdoor;2025-02-08;Leendert;Koekemoer;RSA;2007;Male;15024397
+AL;4;400;MJU20;45.6;;Pilditch Stadium;RSA;Outdoor;2025-02-08;Leendert;Koekemoer;RSA;2007;Male;15024397.0
 AL;4;MEI;MJU20;3:54.78;;Randal Tyson Indoor Center;USA;Indoor;2025-02-01;Brian;Muange Musau;KEN;2006;Male;15090723
 AL;4;3G;WJU20;15:11.72;;McArthur Stadium;RSA;Outdoor;2025-02-25;Renate;Van Der Merwe;RSA;2010;Female;15143558
 AL;4;DIS;MJU20;47.96;;UJ Stadium;RSA;Outdoor;2025-03-19;Lourens;Erasmus;RSA;2006;Male;15029608
@@ -124,6 +124,7 @@ AL;4;MEI;WJU20;4:25.44;;Stade couvert Jesse Owens;FRA;Indoor;2025-02-02;Birke;Ha
 AL;4;KUG;WJU20;15.92;;Pilditch Stadium;RSA;Outdoor;2025-02-15;Alicia;Khunou;RSA;2006;Female;14966734
 AL;5;3K0;MJU20;7:55.08;;Mikio Oda Memorial Athletic Field;JPN;Outdoor;2025-03-22;Rui;Suzuki;JPN;2006;Male;15005772
 AL;5;200;MJU20;21.08;1.7;Mahinda Rajapaksha Stadium;SRI;Outdoor;2025-03-09;S.M.S.V;Rajakaruna;SRI;2007;Male;15157524
+AL;5;2KH;MJU20;6:14.56;;New Clark City Stadium;PHI;Outdoor;2025-03-16;Edzel;Baritua;PHI;;Male;15221467
 AL;5;4×4;MJU20;3:17.16;;Banqiao Stadium;TPE;Outdoor;2025-03-14;Taipei;Municipal Chien Kuo Hs;TPE;;Male;
 AL;5;4×1;MJU20;41.06;;Banqiao Stadium;TPE;Outdoor;2025-03-12;Taoyuan;Municipal Ping Jen Senior High School;TPE;;Male;
 AL;5;100;MJU20;10.52;0.2;Tsueng Kwan O Sports Ground;HKG;Outdoor;2025-01-18;Chun;Ting Kwok;HKG;2007;Male;15063838
@@ -137,7 +138,7 @@ AL;5;1K5;WJU20;4:18.81;;Xipu Training Base Indoor Athletics Stadium;CHN;Indoor;2
 AL;5;400;MJU20;46.75;;Mahinda Rajapaksha Stadium;SRI;Outdoor;2025-03-08;S.M.S.V;Rajakaruna;SRI;2007;Male;15157524
 AL;5;MEI;MJU20;4:23.66;;Liberty Indoor Complex;USA;Indoor;2025-01-24;Ibrahim;Haydar Abdalla;QAT;2006;Male;15086775
 AL;5;3G;WJU20;13:55.50;;Patliputra Sports Complex;IND;Outdoor;2025-03-10;.;Yogita;IND;2008;Female;15117120
-AL;5;DIS;MJU20;47.77;;Shahid Beheshti Stadium;IRI;Outdoor;2025-02-12;Hossein;Rehsme Karim;IRI;2006;Male;14992801
+AL;5;DIS;MJU20;57.38;;Sichuan Xipu Training Base;CHN;Outdoor;2025-04-02;Zehao;Jiang;CHN;2006;Male;15096776
 AL;5;60H;MJU20;7.62;;Sports Training Center;CHN;Indoor;2025-02-23;Yuanjiang;Chen;CHN;2006;Male;15034337
 AL;5;40H;WJU20;1:00.79;;Taipei Municipal Stadium;TPE;Outdoor;2025-02-17;Chen-Yu;Liu;TPE;2007;Female;14965286
 AL;5;11H;MJU20;13.81;0.5;Taipei Municipal Stadium;TPE;Outdoor;2025-02-15;Yuan-Kai;Hsieh;TPE;2006;Male;15003845
@@ -172,13 +173,13 @@ AL;5;5K0;MJU20;13:25.59;;Lakeside Stadium;AUS;Outdoor;2025-03-29;Rui;Suzuki;JPN;
 AL;1;DRE;WJU20;13.9;;Track & Field complex;KAZ;Indoor;2025-01-25;Sharifa;Davronova;UZB;2006;Female;14956284
 AL;5;KUG;MJU20;18.01;;Shanxi Athletics Administrative Center;CHN;Indoor;2025-02-15;Zhenyu;Zhang;CHN;2006;Male;15127363
 AL;5;200;WJU20;23.76;;Shandong Sports Training Center;CHN;Indoor;2025-02-19;Yujie;Chen;CHN;2008;Female;15138450
-AL;5;HAM;WJU20;62.89;;Maharana Pratap Sports College Dehradun;IND;Outdoor;2025-02-10;Anushka;Yadav;IND;2008;Female;15139315
+AL;5;HAM;WJU20;71.53;;Sichuan Xipu Training Base;CHN;Outdoor;2025-04-02;Jiale;Zhang;CHN;2006;Female;15034977
 AL;5;600;MJU20;1:24.27;;Bruce Kidd Field House;CAN;Indoor;2025-02-14;Thomas;Tse;HKG;;Male;15195092
 AL;5;60M;MJU20;6.59;;Osaka Castle Hall;JPN;Indoor;2025-02-02;Naoki;Nishioka;JPN;2006;Male;15030743
 AL;5;WEI;MJU20;7.86;;Shanxi Athletics Administrative Center;CHN;Indoor;2025-02-14;Zhuofan;Xu;CHN;2006;Male;15096794
 AL;5;DRE;MJU20;16.47;;Shanxi Athletics Administrative Center;CHN;Indoor;2025-02-15;Rongjia;Zhou;CHN;2006;Male;15096758
 AL;5;100;WJU20;11.59;0.4;Shri Sai Training Center Kengeri;IND;Outdoor;2025-03-28;Abinaya;Rajarajan;IND;2006;Female;15036742.0
-AL;5;SPE;MJU20;70.7;;Banqiao Stadium;TPE;Outdoor;2025-03-11;Chao-Hong;Huang;TPE;2006;Male;14976364
+AL;5;SPE;MJU20;75.17;;Sichuan Xipu Training Base;CHN;Outdoor;2025-04-01;Xiangyun;Wang;CHN;2006;Male;15052004
 AL;5;MEI;WJU20;4:53.28;;LSU Carl Maddox Fieldhouse;USA;Indoor;2025-01-17;Yuya;Sawada;JPN;2006;Female;14958661
 AL;5;KUG;WJU20;16.67;;Shandong Sports Training Center;CHN;Indoor;2025-03-08;Xinyi;Tian;CHN;2006;Female;15032226
 AL;6;3G;MJU20;12:49.06;;SA Athletic Stadium;AUS;Outdoor;2025-02-01;Sebastian;Richards;AUS;;Male;14960630
@@ -248,8 +249,8 @@ AL;3;800;MJU20;1:50.30;;Estadio Brigido Iriarte;VEN;Outdoor;2025-03-21;Freddy;Ja
 AL;3;40H;MJU20;50.24;;Pista Atlética Mario Recordón;CHI;Outdoor;2025-03-30;Ramón;Fuenzalida;CHI;2006;Male;15050773
 AL;3;HAM;MJU20;57.44;;Arena Caixa;BRA;Outdoor;2025-03-14;Joao;Guilherme Escorcio;BRA;2006;Male;15103950
 AL;3;3K0;WJU20;10:07.13;;Pista Atlética Jefferson Pérez;ECU;Outdoor;2025-03-29;Valeria;Estefani Sangoquiza;ECU;2006;Female;15006462
-AL;3;1K5;WJU20;4:32.84;;Cef N°3 Hugo Mario La Nasa;ARG;Outdoor;2025-03-29;Juana;Zuberbuhler;ARG;2006;Female;15006432
-AL;3;400;MJU20;47.32;;CNDA;BRA;Outdoor;2025-03-29;Victor;Elias Lino Chaves;BRA;2006;Male;15044401.0
+AL;3;1K5;WJU20;4:26.39;;Estadio Atlético de la;PER;Outdoor;2025-03-28;Karol;Ximena Luna;COL;2006;Female;15022763
+AL;3;400;MJU20;47.2;;Estadio Atlético de la;PER;Outdoor;2025-03-28;Jeffrey;Cajo;PER;2006;Male;15086360.0
 AL;3;MEI;MJU20;4:21.24;;Arena Caixa;BRA;Outdoor;2025-02-22;Adoniram;Carey;BRA;2006;Male;15065256
 AL;3;DIS;MJU20;47.03;;Estadio Atlético de la;PER;Outdoor;2025-01-25;Luis;Humberto Fossa;PER;2006;Male;15111191
 AL;3;60H;MJU20;8.43;;Liberty Indoor Complex;USA;Indoor;2025-01-24;Alexander;Männel;PAR;2006;Male;15011509
@@ -266,19 +267,19 @@ AL;3;10K;MJU20;30:51.04;;Cef N°3 Hugo Mario La Nasa;ARG;Outdoor;2025-03-29;Mart
 AL;3;60M;WJU20;7.39;;Armory Track&Field Center;USA;Indoor;2025-02-08;Athaleyha;Hinckson;GUY;2008;Female;15018025
 AL;3;SPE;WJU20;47.35;;Pista de Atletismo Justo Román;ARG;Outdoor;2025-02-22;Milagros;Rosas;ARG;2007;Female;15006431
 AL;3;STA;WJU20;3.9;;Pista de Atletismo - Parque Deportivo;COL;Outdoor;2025-03-08;Luna;Brigitte Pabon;COL;2008;Female;15111215
-AL;3;3KH;MJU20;9:25.97;;CNDA;BRA;Outdoor;2025-03-30;Cael;Do Nascimento;BRA;2006;Male;15104054
+AL;3;3KH;MJU20;9:22.73;;Estadio Atlético de la;PER;Outdoor;2025-03-29;Franklin;Alex Patiño;PER;2007;Male;15189426
 AL;3;800;WJU20;2:10.38;;The Track at New Balance;USA;Indoor;2025-03-13;Aurora;Bertelsen;CHI;2007;Female;15080870
-AL;3;3KH;WJU20;11:40.28;;Cef N°3 Hugo Mario La Nasa;ARG;Outdoor;2025-03-30;Sofia;Fregona;ARG;2008;Female;15189438
+AL;3;3KH;WJU20;11:14.74;;Estadio Atlético de la;PER;Outdoor;2025-03-29;Ruth;Raquel Aguilar;PER;2006;Female;15149347
 AL;3;1K5;MJU20;3:55.58;;CNDA;BRA;Outdoor;2025-03-08;Cael;Do Nascimento;BRA;2006;Male;15104054
 AL;3;10H;WJU20;13.79;0.6;Pista Atlética Mario Recordón;CHI;Outdoor;2025-03-29;Catalina;Rozas;CHI;2006;Female;14995844
 AL;3;10G;MJU20;46:47.5;;Cef N°3 Hugo Mario La Nasa;ARG;Outdoor;2025-03-30;Ricardo;Damian;ARG;2007;Male;15157252
-AL;3;10G;WJU20;52:45.5;;Cef N°3 Hugo Mario La Nasa;ARG;Outdoor;2025-03-30;Martina;Castellon;ARG;2006;Female;15080426
+AL;3;10G;WJU20;51:45.32;;Estadio Atlético de la;PER;Outdoor;2025-03-29;Estrella;Rojas;PER;2006;Female;15221492
 AL;3;400;WJU20;55.43;;Estadio Brigido Iriarte;VEN;Outdoor;2025-03-07;Ibeyis;Romero;VEN;2006;Female;14995038
 AL;3;4×1;WJU20;46.72;;Estadio Brigido Iriarte;VEN;Outdoor;2025-03-07;Venezuela;B;VEN;;Female;
-AL;3;5K0;WJU20;17:59.79;;CNDA;BRA;Outdoor;2025-03-29;Isabele;Dos Santos;BRA;2007;Female;15065258
+AL;3;5K0;WJU20;16:16.48;;Estadio Atlético de la;PER;Outdoor;2025-03-30;Luz;Lizandra Arias;PER;2006;Female;15044417
 AL;3;2KH;WJU20;7:29.34;;CNDA;BRA;Outdoor;2025-03-08;Fernanda;Schneider;BRA;2008;Female;15099463
 AL;3;60H;WJU20;8.46;;Convention Center;USA;Indoor;2025-02-28;Pietra;Campbell;BRA;2006;Female;14995208
-AL;3;5K0;MJU20;14:45.11;;Pista Atlética Luis Oliva;ARG;Outdoor;2025-03-09;Martin;Moleker;ARG;2006;Male;15179803
+AL;3;5K0;MJU20;14:09.95;;Estadio Atlético de la;PER;Outdoor;2025-03-30;Brayan;Huanca;PER;2006;Male;15140403
 AL;3;DRE;WJU20;12.68;0.8;Estadio de Atletismo - Unidad Deportiva el Salitre;COL;Outdoor;2025-03-15;Valery;Arce;COL;2006;Female;15019579
 AL;3;KUG;MJU20;17.05;;CNDA;BRA;Outdoor;2025-02-01;Pedro;Rafael Modesto;BRA;2006;Male;15044390
 AL;3;600;WJU20;1:35.79;;Sports Performance Center;USA;Indoor;2025-03-07;Attoya;Harvey;GUY;2006;Female;14999415
@@ -324,9 +325,9 @@ AL;1;STA;MJU20;5.41;;Pista Cubierta Carlos Gil Perez;ESP;Indoor;2025-03-08;Fabio
 AL;1;300;MJU20;33.49;;Virginia Beach Sports Center;USA;Indoor;2025-01-18;Jake;Odey-Jordan;GBR;2007;Male;15077435
 AL;1;HOC;WJU20;1.93;;Športová hala Dukla;SVK;Indoor;2025-02-18;Lilianna;Bátori;HUN;2007;Female;14935219
 AL;1;HOC;WJU20;1.93;;Športová hala Dukla;SVK;Indoor;2025-02-18;Lilianna;Bátori;HUN;2007;Female;14935219
-AL;1;10K;MJU20;32:10.60;;Sports Park Mladost;CRO;Outdoor;2025-03-29;Noa;Žele;CRO;2009;Male;15167716
+AL;1;10K;MJU20;31:56.16;;Športni center;SLO;Outdoor;2025-03-29;Tjaž;Djaip Bartolj;SLO;2007;Male;15046924
 AL;1;60M;WJU20;7.19;;Palaindoor Ancona;ITA;Indoor;2025-02-08;Kelly;Ann Maevane Doualla Edimo;ITA;2009;Female;15022410
-AL;1;10K;WJU20;38:17.3;;Sports Park Mladost;CRO;Outdoor;2025-03-29;Chiara;Zuzzi;CRO;2008;Female;14981977
+AL;1;10K;WJU20;36:59.89;;Športni center;SLO;Outdoor;2025-03-29;Lara;Balažic;SLO;2008;Female;15126437
 AL;1;SPE;WJU20;53.95;;Regional Sport Complex;BLR;Outdoor;2025-03-05;Palina;Selivanava;BLR;2006;Female;14933551
 AL;1;50M;WJU20;6.47;;GSG9-Halle;AUT;Indoor;2025-01-15;Patricia;Brunninger;AUT;2006;Female;14969917
 AL;1;STA;WJU20;4.41;;Omnisport;NED;Indoor;2025-01-25;Marijn;Kieft;NED;2006;Female;15007258
