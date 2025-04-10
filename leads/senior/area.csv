@@ -253,6 +253,7 @@ AL;6;KUG;W;18.49;;The Caledonian Ground;NZL;Outdoor;2025-03-07;Maddison-Lee;Wesc
 AL;6;3K0;M;7:30.38;;Armory Track&Field Center;USA;Indoor;2025-02-08;Ky;Robinson;AUS;2002;Male;14865727
 AL;6;60M;W;7.12;;Sports Training Center;CHN;Indoor;2025-03-22;Zoe;Hobbs;NZL;1997;Female;14499691
 AL;6;300;M;34.27;;AIS Athletics Track;AUS;Outdoor;2025-03-07;Tobias;Drummond-Templeton;AUS;;Male;15115159
+AL;6;4×2;W;1:37.94;;WA Athletics Stadium;AUS;Outdoor;2025-04-08;New;South Wales U16;AUS;;Female;
 AL;6;MEI;W;4:21.56;;Boston Univ. Track & Tennis Center;USA;Indoor;2025-03-02;Maia;Ramsden;NZL;2002;Female;14733357
 AL;6;10K;M;28:21.12;;Paul Derr TF Facility;USA;Outdoor;2025-03-27;Will;Anthony;NZL;2003;Male;14884399
 AL;6;600;W;1:30.63;;Ashenfelter Indoor Track;USA;Indoor;2025-01-31;Tayissa;Buchanan;AUS;2006;Female;14859176
@@ -278,21 +279,21 @@ AL;3;DRE;W;14.17;;Gobierno Autónomo Municipal de Cochabamba;BOL;Indoor;2025-02-
 AL;3;800;W;2:03.04;;Percy Beard Track;USA;Outdoor;2025-04-05;Déborah;Rodríguez;URU;1992;Female;14304406
 AL;3;5G;W;23:00.39;;Gobierno Autónomo Municipal de Cochabamba;BOL;Indoor;2025-02-09;Angela;Castro;BOL;1993;Female;14410009
 AL;3;100;M;10.09;1.5;Estadio de Atletismo - Unidad Deportiva el Salitre;COL;Outdoor;2025-03-14;Carlos;Florez Angulo;COL;2003;Male;14915252
-AL;3;4×1;M;39.65;;Cef N°3 Hugo Mario La Nasa;ARG;Outdoor;2025-03-29;Argentina;;ARG;;Male;
-AL;3;200;W;22.96;0.5;Pista Atlética Jefferson Pérez;ECU;Outdoor;2025-03-30;Nicole;Caicedo;ECU;2000;Female;14762639
+AL;3;4×1;M;38.48;;Estadio de Atletismo - Unidad Deportiva el Salitre;COL;Outdoor;2025-04-05;Colombia;;COL;;Male;
+AL;3;200;W;22.89;2.0;Estadio de Atletismo - Unidad Deportiva el Salitre;COL;Outdoor;2025-04-06;Lina;Esther Licona Torres;COL;1998;Female;14750796
 AL;3;10H;W;13.02;1.5;Estadio de Atletismo - Unidad Deportiva el Salitre;COL;Outdoor;2025-03-14;Martha;Araujo;COL;1996;Female;14587338
 AL;3;2KH;M;5:53.36;;Polideportivo Maximo Viloria;VEN;Outdoor;2025-01-31;Jose;Gonzalez;VEN;1994;Male;15079882
-AL;3;WEI;M;7.96;;Gobierno Autónomo Municipal de Cochabamba;BOL;Indoor;2025-02-23;Arnovis;Dalmero;COL;2000;Male;14768739
+AL;3;WEI;M;8.0;0.6;Estadio de Atletismo - Unidad Deportiva el Salitre;COL;Outdoor;2025-04-06;Carlos;Enrique Valencia;COL;1997;Male;14674301
 AL;3;11H;M;13.54;1.7;Pista Atlética Mario Recordón;CHI;Outdoor;2025-03-29;Martín;Sáenz De Santa María;CHI;2001;Male;14813689
 AL;3;10G;M;39:30.86;;Estadio Atlético de la;PER;Outdoor;2025-03-29;Luis;Henry Campos;PER;1995;Male;14591647
 AL;3;300;W;36.93;;Clemson Indoor Track & Field Complex;USA;Indoor;2025-01-31;Aliyah;Abrams;GUY;1997;Female;14447688
-AL;3;400;W;51.18;;Estadio de Atletismo - Unidad Deportiva el Salitre;COL;Outdoor;2025-03-14;Evelis;Aguilar;COL;1993;Female;14369345
+AL;3;400;W;49.8;;Estadio de Atletismo - Unidad Deportiva el Salitre;COL;Outdoor;2025-04-06;Evelis;Aguilar;COL;1993;Female;14369345
 AL;3;1K0;M;2:28.04;;Sports Performance Center;USA;Indoor;2025-02-15;Matthew;Gordon;GUY;2003;Male;14912232
 AL;3;5K0;W;15:37.55;;Cobb Track and Angell Field;USA;Outdoor;2025-04-04;Andrea;Paola Bonilla;ECU;1986;Female;14859648.0
 AL;3;4×4;M;3:11.61;;Estadio Brigido Iriarte;VEN;Outdoor;2025-03-08;Venezuela;B;VEN;;Male;
 AL;3;3KH;W;10:20.05;;Estadio Atlético de la;PER;Outdoor;2025-03-29;Laura;Valentina Camargo;COL;2005;Female;15081091
 AL;3;SPE;M;82.03;;CNDA;BRA;Outdoor;2025-03-29;Luiz;Mauricio Da Silva;BRA;2000;Male;14723385
-AL;3;4×1;W;44.21;;Pista Atlética Mario Recordón;CHI;Outdoor;2025-03-29;Chile;;CHI;;Female;
+AL;3;4×1;W;43.55;;Estadio de Atletismo - Unidad Deportiva el Salitre;COL;Outdoor;2025-04-05;Atlántico;;COL;;Female;
 AL;3;4×4;W;3:33.43;;Estadio de Atletismo - Unidad Deportiva el Salitre;COL;Outdoor;2025-03-15;Leopardos;;COL;;Female;
 AL;3;40H;M;47.61;;National Stadium;JAM;Outdoor;2025-04-04;Alison;Dos Santos;BRA;2000;Male;14755064
 AL;3;DIS;M;66.42;;Millican Field at Throw Town;USA;Outdoor;2025-04-06;Claudio;Romero;CHI;2000;Male;14718347
@@ -311,7 +312,7 @@ AL;3;HOC;W;1.87;;UCF Soccer and Track Complex;USA;Outdoor;2025-03-22;Maria;Isabe
 AL;3;3KH;M;8:39.21;;CNDA;BRA;Outdoor;2025-03-30;Walace;Evangelista Caldas;BRA;1998;Male;14665890
 AL;3;100;W;11.27;0.6;CNDA;BRA;Outdoor;2025-03-28;Ana;Carolina Azevedo;BRA;1998;Female;14579558
 AL;3;800;M;1:45.47;;CNDA;BRA;Outdoor;2025-02-01;Guilherme;Orenhas;BRA;1998;Male;14717831
-AL;3;KUG;W;17.65;;Pista Atlética Club Deportivo Universidad Católica;CHI;Outdoor;2025-03-08;Ivana;Xennia Gallardo;CHI;1993;Female;14414721
+AL;3;KUG;W;17.78;;Pista Atlética Eliana Gaete Lazo;CHI;Outdoor;2025-04-05;Ivana;Xennia Gallardo;CHI;1993;Female;14414721
 AL;3;3K0;M;7:34.10;;Boston Univ. Track & Tennis Center;USA;Indoor;2025-03-02;Valentin;Soca;URU;2002;Male;14887362
 AL;3;60M;W;7.16;;Gobierno Autónomo Municipal de Cochabamba;BOL;Indoor;2025-02-22;Ana;Carolina Azevedo;BRA;1998;Female;14579558
 AL;3;300;M;33.32;;Clemson Indoor Track & Field Complex;USA;Indoor;2025-01-11;Daniel;Williams;GUY;2000;Male;14746486
@@ -322,7 +323,7 @@ AL;3;DRE;M;16.52;;Gobierno Autónomo Municipal de Cochabamba;BOL;Indoor;2025-02-
 AL;3;STA;W;4.27;;Fall Creek Pavilion;USA;Indoor;2025-03-13;Isabel;De Quadros;BRA;1999;Female;14639884
 AL;3;400;M;45.52;;National Stadium;JAM;Outdoor;2025-04-06;Alison;Dos Santos;BRA;2000;Male;14755064.0
 AL;3;WEI;W;6.7;0.3;Pista de Atletismo - Parque Deportivo;COL;Outdoor;2025-03-08;Natalia;Linares;COL;2003;Female;14841613
-AL;3;4×4;X;3:38.40;;Estadio de Atletismo - Unidad Deportiva el Salitre;COL;Outdoor;2025-03-14;Dark;Horse;COL;;Mixed;
+AL;3;4×4;X;3:14.42;;Estadio de Atletismo - Unidad Deportiva el Salitre;COL;Outdoor;2025-04-05;Colombia;;COL;;Mixed;
 AL;3;HOC;M;2.22;;Gobierno Autónomo Municipal de Cochabamba;BOL;Indoor;2025-02-23;Thiago;Moura;BRA;1995;Male;14488481
 AL;3;60M;M;6.56;;Gobierno Autónomo Municipal de Cochabamba;BOL;Indoor;2025-02-20;Neiker;Abello;COL;2000;Male;14813731
 AL;3;60H;W;7.99;;Convention Center;USA;Indoor;2025-02-01;Maribel;Vanessa Caicedo;ECU;1998;Female;14621562
