@@ -11,8 +11,8 @@ AL;2;800;MJU20;1:46.86;;Armory Track&Field Center;USA;Indoor;2025-02-08;Cooper;L
 AL;2;5G;MJU20;21:26.58;;Rashpal Dhillon Oval;CAN;Outdoor;2025-03-29;Lowell;Solmes;CAN;;Male;15040230
 AL;2;40H;MJU20;50.84;;GC Foster College;JAM;Outdoor;2025-03-02;Princewell;Martin;JAM;;Male;14974107
 AL;2;HAM;MJU20;56.24;;USC Allyson Felix at Loker Track Stadium;USA;Outdoor;2025-03-21;Kaden;Garland;USA;2006;Male;15139940
-AL;2;3K0;WJU20;8:53.50;;Boston Univ. Track & Tennis Center;USA;Indoor;2025-02-15;Rachel;Forsyth;CAN;2006;Female;14972580
-AL;2;1K5;WJU20;4:09.84;;Armory Track&Field Center;USA;Indoor;2025-02-08;Sadie;Engelhardt;USA;2006;Female;14913128
+AL;2;3K0;WJU20;8:53.50;;Boston Univ. Track & Tennis Center;USA;Indoor;2025-02-15;Rachel;Forsyth;CAN;2006;Female;14972580.0
+AL;2;1K5;WJU20;4:09.84;;Armory Track&Field Center;USA;Indoor;2025-02-08;Sadie;Engelhardt;USA;2006;Female;14913128.0
 AL;2;400;MJU20;45.27;;Percy Beard Track;USA;Outdoor;2025-04-04;Quincy;Wilson;USA;2008;Male;15025343.0
 AL;2;MEI;MJU20;3:56.66;;Boston Univ. Track & Tennis Center;USA;Indoor;2025-02-21;Owen;Powell;USA;;Male;15124072
 AL;2;DIS;MJU20;57.09;;Cobb Track and Angell Field;USA;Outdoor;2025-04-04;Kai;Twaddle-Dunham;USA;2006;Male;15161943
@@ -37,7 +37,7 @@ AL;2;10K;WJU20;35:38.26;;Ray Conn Sports Complex;USA;Outdoor;2025-04-11;Marissa;
 AL;2;SPE;WJU20;48.57;;Estadio Panamericano;CUB;Outdoor;2025-03-06;Claudia;G. Guerrero;CUB;2006;Female;15094800
 AL;2;STA;WJU20;4.43;;Bob Devaney Sports Center;USA;Indoor;2025-02-07;Anna;Willis;USA;2006;Female;14967585
 AL;2;300;WJU20;36.3;;Ott Center for Track & Field;USA;Indoor;2025-03-01;Elise;Cooper;USA;2007;Female;14852192
-AL;2;3KH;MJU20;9:25.39;;Estadio Olímpico Santa Teresita;MEX;Outdoor;2025-03-28;Mario;Francisco Vazquez;MEX;2007;Male;15153821
+AL;2;3KH;MJU20;9:15.26;;Pista de Atletismo del Centro Deportivo Benito Juárez;MEX;Outdoor;2025-04-11;Mario;Francisco Vazquez;MEX;2007;Male;15153821
 AL;2;800;WJU20;2:03.00;;The Track at New Balance;USA;Indoor;2025-03-13;Emmry;Ross;USA;;Female;15164855
 AL;2;3KH;WJU20;10:16.85;;Paul Derr TF Facility;USA;Outdoor;2025-03-28;Isabell;Schmitz;USA;;Female;14993587
 AL;2;1K5;MJU20;3:40.06;;JSerra Catholic;USA;Outdoor;2025-03-29;Josiah;Tostenson;USA;;Male;15028385
@@ -46,7 +46,7 @@ AL;2;10G;MJU20;41:18.35;;Unidad Deportiva Agustín Flores;MEX;Outdoor;2025-02-21
 AL;2;10G;WJU20;51:22.95;;Unidad Deportiva Agustín Flores;MEX;Outdoor;2025-02-21;Zinahi;Hernandez;MEX;2006;Female;15069457
 AL;2;400;WJU20;52.6;;Percy Beard Track;USA;Outdoor;2025-04-04;Tyra;Cox;USA;;Female;14992323
 AL;2;4×1;WJU20;44.95;;Percy Beard Track;USA;Outdoor;2025-04-05;Bullis;;USA;;Female;
-AL;2;5K0;WJU20;15:13.26;;Armory Track&Field Center;USA;Indoor;2025-03-13;Jane;Hedengren;USA;2006;Female;15090151
+AL;2;5K0;WJU20;15:13.26;;Armory Track&Field Center;USA;Indoor;2025-03-13;Jane;Hedengren;USA;2006;Female;15090151.0
 AL;2;2KH;WJU20;6:45.56;;Mike A. Myers Stadium;USA;Outdoor;2025-03-27;Macy;Wingard;USA;;Female;15082008
 AL;2;60H;WJU20;8.09;;Alachua County Sports Complex;USA;Indoor;2025-03-01;Briana;Campbell;JAM;2006;Female;14877515
 AL;2;5K0;MJU20;14:01.14;;The Track at New Balance;USA;Indoor;2025-03-13;Tayvon;Kitchen;USA;2006;Male;15077001
@@ -160,7 +160,7 @@ AL;5;60M;WJU20;7.26;;Shandong Sports Training Center;CHN;Indoor;2025-02-18;Yujie
 AL;5;10K;WJU20;36:55.83;;Handan Sports Center;CHN;Outdoor;2025-03-21;Yikai;Tian;CHN;2006;Female;15160666
 AL;5;SPE;WJU20;64.83;;Sichuan Xipu Training Base;CHN;Outdoor;2025-03-28;Ziyi;Yan;CHN;2008;Female;15144603
 AL;5;STA;WJU20;4.27;;Stabinski Velodrome;FRA;Indoor;2025-02-14;Keni;Miao;CHN;2008;Female;15137240
-AL;5;300;WJU20;40.15;;Prefectural Sports Park;JPN;Outdoor;2025-03-22;Raina;Kitabayashi;JPN;2007;Female;15044580
+AL;5;300;WJU20;39.93;;Hamayama Park Athletic Field;JPN;Outdoor;2025-04-13;Haruna;Seta;JPN;2006;Female;14996407
 AL;5;3KH;MJU20;8:29.05;;Egao Kenko Stadium;JPN;Outdoor;2025-04-12;Tetsu;Sasaki;JPN;2006;Male;14996785
 AL;5;800;WJU20;2:02.58;;Egao Kenko Stadium;JPN;Outdoor;2025-04-12;Rin;Kubo;JPN;2008;Female;15005744
 AL;5;3KH;WJU20;10:33.30;;Egao Kenko Stadium;JPN;Outdoor;2025-04-12;Yuika;Tsuzurahara;JPN;2007;Female;15030213
