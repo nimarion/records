@@ -108,7 +108,7 @@ def download_parse(url, discipline, sex, regionType, region, ageCategory):
     df['WorldathleticsId'] = df['Competitor'].map(name_links)
 
     df = df.rename(columns={
-                   'City': 'Venue City', 'Country': 'Venue Country', 'Mark': 'Result', 'Nat': 'Nation', 'WIND': 'Wind', 'Competitor': 'Name'})
+                   'City': 'Venue City', 'Country': 'Venue Country', 'Mark': 'Result', 'Unnamed: 5': 'Nation', 'WIND': 'Wind', 'Competitor': 'Name'})
 
     df['Venue'] = df['Venue'].apply(lambda x: x.split(' (', 1)[0])
     df['Venue'] = df['Venue'].apply(lambda x: x.split(', ', 1)[0])
