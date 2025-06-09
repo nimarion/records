@@ -13,7 +13,7 @@ AL;5;300;W;37.93;;Clemson Indoor Track & Field Complex;USA;Indoor;2025-01-25;Ang
 AL;5;200;M;20.12;0.8;Gumi Civic Stadium;KOR;Outdoor;2025-05-31;Towa;Uzawa;JPN;2002;Male;14860469
 AL;5;5G;W;21:31.81;;Stadio Guidobaldi;ITA;Outdoor;2025-05-10;Liping;Pang;CHN;2006;Female;15138199
 AL;5;WEI;M;8.24;;Expocentro;POR;Indoor;2025-02-22;Mingkun;Zhang;CHN;2000;Male;14884079
-AL;5;HAM;W;75.48;;Sichuan Xipu Training Base;CHN;Outdoor;2025-04-02;Jie;Zhao;CHN;2002;Female;14889043
+AL;5;HAM;W;76.6;;Betty Heidler Arena;GER;Outdoor;2025-06-08;Jie;Zhao;CHN;2002;Female;14889043
 AL;5;HAM;M;74.5;;Gumi Civic Stadium;KOR;Outdoor;2025-05-28;Qi;Wang;CHN;2001;Male;14788582
 AL;5;60H;M;7.47;;Sports Training Center;CHN;Indoor;2025-02-23;Junxi;Liu;CHN;2003;Male;14977766
 AL;5;300;M;32.77;;Prefectural Stadium;JPN;Outdoor;2025-03-09;Genta;Iki;JPN;2003;Male;14977037
@@ -229,7 +229,7 @@ AL;1;800;W;1:57.25;;Zdzisław Krzyszkowiak Stadium;POL;Outdoor;2025-05-30;Audrey
 AL;1;60M;M;6.49;;Omnisport;NED;Indoor;2025-03-08;Jeremiah;Azu;GBR;2001;Male;14771648
 AL;1;DRE;W;14.45;0.2;Kennedyplatz;GER;Outdoor;2025-06-01;Caroline;Joyeux;GER;2001;Female;14736473
 AL;1;HOC;W;2.02;;Katara Amphitheatre;QAT;Outdoor;2025-05-09;Yaroslava;Mahuchikh;UKR;2001;Female;14739628
-AL;1;KUG;M;21.95;;Arena Stade Couvert;FRA;Indoor;2025-02-13;Leonardo;Fabbri;ITA;1997;Male;14567432
+AL;1;KUG;M;22.31;;Campo Scuola Moreno Martini;ITA;Outdoor;2025-06-08;Leonardo;Fabbri;ITA;1997;Male;14567432
 AL;1;4×8;W;9:01.35;;Velesajam Hall;CRO;Indoor;2025-01-18;Dinamo;Zrinjevac;CRO;;Female;
 AL;1;3G;W;12:13.39;;Expocentro;POR;Indoor;2025-02-22;Vitória;Oliveira;POR;1992;Female;14517852
 AL;1;4×4;W;3:23.75;;Loughborough University Track;GBR;Outdoor;2025-05-18;Wales;;GBR;;Female;
@@ -352,7 +352,7 @@ AL;3;4×1;W;43.55;;Estadio de Atletismo - Unidad Deportiva el Salitre;COL;Outdoo
 AL;3;STA;M;5.6;;Rector Fieldhouse;USA;Indoor;2025-02-07;Ricardo;David Montes;VEN;2006;Male;14999232
 AL;3;MEI;W;4:29.49;;Harvard-Gordon Track and Tennis Center;USA;Indoor;2025-02-01;Carmen;Alder Caisalitin;ECU;2003;Female;14761372
 AL;3;2KH;W;7:07.7;;Pista de Atletismo Justo Román;ARG;Outdoor;2025-02-08;Joaquina;Dura;ARG;2005;Female;14883943
-AL;3;1K0;M;2:28.04;;Sports Performance Center;USA;Indoor;2025-02-15;Matthew;Gordon;GUY;2003;Male;14912232
+AL;3;1K0;M;2:20.42;;Parc des Sports;FRA;Outdoor;2025-06-07;Leonardo;Santos;BRA;2002;Male;14922119
 AL;3;60H;W;7.99;;Convention Center;USA;Indoor;2025-02-01;Maribel;Vanessa Caicedo;ECU;1998;Female;14621562
 AL;3;600;W;1:26.25;;South Carolina Indoor T&F Complex;USA;Indoor;2025-01-11;Aliyah;Abrams;GUY;1997;Female;14447688
 AL;3;10G;W;44:17.50;;WA Athletics Stadium;AUS;Outdoor;2025-04-11;Lorena;Arenas;COL;1993;Female;14418896
@@ -391,11 +391,11 @@ AL;3;800;M;1:45.47;;CNDA;BRA;Outdoor;2025-02-01;Guilherme;Orenhas;BRA;1998;Male;
 AL;3;4×1;M;38.4;;Tianhe Sports Center;CHN;Outdoor;2025-05-10;Brazil;;BRA;;Male;
 AL;3;400;W;49.8;;Estadio de Atletismo - Unidad Deportiva el Salitre;COL;Outdoor;2025-04-06;Evelis;Aguilar;COL;1993;Female;14369345
 AL;3;SPE;M;86.34;;Ulinzi Sports Complex;KEN;Outdoor;2025-05-31;Luiz;Mauricio Da Silva;BRA;2000;Male;14723385
-AL;3;200;W;22.89;2.0;Estadio de Atletismo - Unidad Deportiva el Salitre;COL;Outdoor;2025-04-06;Lina;Esther Licona Torres;COL;1998;Female;14750796
+AL;3;200;W;22.85;2.0;Helmántico;ESP;Outdoor;2025-06-07;Nicole;Caicedo;ECU;2000;Female;14762639
 AL;3;40H;W;54.67;;Centro de Atletismo de Tenerife;ESP;Outdoor;2025-05-31;Gianna;Woodruff;PAN;1993;Female;14423522
 AL;3;10K;W;31:36.48;;JSerra Catholic;USA;Outdoor;2025-03-29;Florencia;Borelli;ARG;1992;Female;14370115.0
 AL;3;4×4;X;3:14.42;;Estadio de Atletismo - Unidad Deportiva el Salitre;COL;Outdoor;2025-04-05;Colombia;;COL;;Mixed;
-AL;3;1K0;W;2:54.19;;Ahearn Field House;USA;Indoor;2025-01-17;Aaliyah;Moore;GUY;2001;Female;14887320
+AL;3;1K0;W;2:46.57;;Parc des Sports;FRA;Outdoor;2025-06-07;Flavia;Maria De Lima;BRA;1993;Female;14496105
 AL;3;100;W;11.21;1.2;Pista de Atletismo Justo Román;ARG;Outdoor;2025-04-25;Vitoria;Cristina Rosa;BRA;1996;Female;14481687
 AL;3;1K5;W;4:12.69;;Estadio Enrique Lopez Cuenca;ESP;Outdoor;2025-06-04;July;Ferreira Da Silva;BRA;1994;Female;14381336.0
 AL;3;2KH;M;5:53.36;;Polideportivo Maximo Viloria;VEN;Outdoor;2025-01-31;Jose;Gonzalez;VEN;1994;Male;15079882
