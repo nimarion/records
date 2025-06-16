@@ -1,7 +1,7 @@
 Code;Type;Discipline;Class;Result;Wind;Venue;Venue Country;Environment;Date;Firstname;Lastname;Nation;YOB;Sex;WorldathleticsId
 NL;GER;11H;M;13.55;1.1;Stadium Merdeka;MAS;Outdoor;2025-05-03;Gregory;Minoue;GER;2002;Male;14858133
 NL;GER;WEI;M;8.05;;Glaspalast;GER;Indoor;2025-01-25;Simon;Batz;GER;2002;Male;14845074
-NL;GER;4×4;M;3:05.45;;Tianhe Sports Center;CHN;Outdoor;2025-05-11;Germany;;GER;;Male;
+NL;GER;4×4;M;3:03.08;;Universitätsstadion Am Biopark;GER;Outdoor;2025-06-15;Germany;;GER;;Male;
 NL;GER;1K5;M;3:30.80;;Stadio Olimpico;ITA;Outdoor;2025-06-06;Robert;Farken;GER;1997;Male;14597052
 NL;GER;50M;M;5.73;;Atletická hala;CZE;Indoor;2025-02-04;Joshua;Hartmann;GER;1999;Male;14705838
 NL;GER;40H;M;48.36;;Heinz-Steyer-Stadion;GER;Outdoor;2025-06-01;Emil;Agyekum;GER;1999;Male;14679384
@@ -12,7 +12,7 @@ NL;GER;4×2;M;1:25.63;;Werner-von-Linde-Halle;GER;Indoor;2025-01-25;LG;Stadtwerk
 NL;GER;DIS;W;68.1;;Helmut-Schön-Sportpark;GER;Outdoor;2025-05-30;Shanice;Craft;GER;1993;Female;14361931
 NL;GER;60M;M;6.56;;Helmut-Körnig-Halle;GER;Indoor;2025-01-18;Joshua;Hartmann;GER;1999;Male;14705838
 NL;GER;60M;M;6.56;;Helmut-Körnig-Halle;GER;Indoor;2025-02-22;Robin;Ganter;GER;2001;Male;14774667
-NL;GER;5K0;W;14:58.85;;Jack Kemp Stadium;USA;Outdoor;2025-05-24;Lea;Meyer;GER;1997;Female;14509240
+NL;GER;5K0;W;14:56.87;;LAZ Wien;AUT;Outdoor;2025-06-14;Elena;Burkard;GER;1992;Female;14420240
 NL;GER;600;M;1:17.56;;Schönbuchstadion;GER;Outdoor;2025-05-18;Tim;Holzapfel;GER;1997;Male;14566289
 NL;GER;STA;W;4.5;;Helmut-Körnig-Halle;GER;Indoor;2025-02-23;Anjuli;Knäsche;GER;1993;Female;14373304
 NL;GER;5G;W;22:27.00;;Fritz-Lesch-Stadion;GER;Outdoor;2025-05-10;Kylie;Garreis;GER;2005;Female;14984079
@@ -34,11 +34,11 @@ NL;GER;2KH;W;6:19.32;;Schönbuchstadion;GER;Outdoor;2025-05-18;Adia;Budde;GER;20
 NL;GER;60M;W;7.13;;Helmut-Körnig-Halle;GER;Indoor;2025-02-22;Alexandra;Burghardt;GER;1994;Female;14390368
 NL;GER;800;W;1:59.02;;University of North Florda Jax Track at Hodges Stadium;USA;Outdoor;2025-05-03;Smilla;Kolbe;GER;2002;Female;14738926
 NL;GER;4×1;W;42.98;;Tianhe Sports Center;CHN;Outdoor;2025-05-10;Germany;;GER;;Female;
-NL;GER;4×4;W;3:28.63;;Tianhe Sports Center;CHN;Outdoor;2025-05-10;Germany;;GER;;Female;
+NL;GER;4×4;W;3:26.87;;Universitätsstadion Am Biopark;GER;Outdoor;2025-06-15;Germany;;GER;;Female;
 NL;GER;3G;W;13:18.32;;Leichtathletikhalle Luftschiffhafen;GER;Indoor;2025-01-19;Kylie;Garreis;GER;2005;Female;14984079
 NL;GER;1K0;W;2:42.41;;Schönbuchstadion;GER;Outdoor;2025-05-18;Elena;Burkard;GER;1992;Female;14420240
 NL;GER;300;M;33.51;;Stadion Luftschiffhafen;GER;Outdoor;2025-05-11;Tyrel;Prenz;GER;2003;Male;14867798
-NL;GER;40H;W;54.91;;FBK Stadium;NED;Outdoor;2025-06-09;Elena;Kelety;GER;1999;Female;14584926
+NL;GER;40H;W;54.79;;Olympiastadion;SWE;Outdoor;2025-06-15;Elena;Kelety;GER;1999;Female;14584926
 NL;GER;100;M;10.0;1.2;Universitätsstadion Am Biopark;GER;Outdoor;2025-06-14;Lucas;Ansah-Peprah;GER;2000;Male;14771269
 NL;GER;10K;M;27:39.82;;JSerra Catholic;USA;Outdoor;2025-03-29;Davor;Aaron Bienenfeld;GER;1997;Male;14716024
 NL;GER;200;M;20.77;-0.9;Heinz-Steyer-Stadion;GER;Outdoor;2025-06-01;Joshua;Hartmann;GER;1999;Male;14705838
