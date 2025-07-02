@@ -150,7 +150,7 @@ AL;6;800;WJU20;2:03.37;;Queensland Sport and Athletics Centre;AUS;Outdoor;2025-0
 AL;6;100;WJU20;11.14;1.7;WA Athletics Stadium;AUS;Outdoor;2025-04-08;Leah;O'Brien;AUS;2008;Female;14921737
 AL;6;3KH;WJU20;10:09.32;;SOPAC;AUS;Outdoor;2025-03-21;Jessie;Fotheringham;AUS;;Female;15048395
 AL;6;WEI;WJU20;6.49;0.3;Taipei Municipal Stadium;TPE;Outdoor;2025-06-08;Delta;Amidzovski;AUS;2006;Female;14815546
-AL;6;100;MJU20;10.38;-1.4;Queensland Sport and Athletics Centre;AUS;Outdoor;2025-03-15;Gout;Gout;AUS;2007;Male;15006779
+AL;6;100;MJU20;10.38;-1.4;Queensland Sport and Athletics Centre;AUS;Outdoor;2025-03-15;Gout;Gout;AUS;2007;Male;15006779.0
 AL;6;60H;WJU20;8.12;0.7;SOPAC;AUS;Outdoor;2025-02-01;Delta;Amidzovski;AUS;2006;Female;14815546
 AL;6;5G;MJU20;19:43.42;;SOPAC;AUS;Outdoor;2025-03-20;Isaac;Beacroft;AUS;2007;Male;14963962
 AL;6;4×1;MJU20;41.2;;WA Athletics Stadium;AUS;Outdoor;2025-04-06;New;South Wales U18;AUS;;Male;
@@ -194,12 +194,12 @@ AL;6;1K0;WJU20;2:50.99;;Hagenauer Reserve;AUS;Outdoor;2025-03-06;Lara;Sacaner;AU
 AL;6;10G;MJU20;39:54.30;;WA Athletics Stadium;AUS;Outdoor;2025-04-10;Isaac;Beacroft;AUS;2007;Male;14963962
 AL;5;300;WJU20;39.82;;Hakatanomori Athletic Stadium;JPN;Outdoor;2025-04-19;Shamayamian;Williams;JPN;2007;Female;14996723
 AL;5;60H;MJU20;7.62;;Sports Training Center;CHN;Indoor;2025-02-23;Yuanjiang;Chen;CHN;2006;Male;15034337
-AL;5;4×4;MJU20;3:12.13;;Sports Complex;IND;Outdoor;2025-04-30;Tamil;Nadu Junior Team;IND;;Male;
-AL;5;4×4;XJU20;3:33.46;;Taipei Municipal Stadium;TPE;Outdoor;2025-02-15;Taoyuan;Municipal Yang Mei Hs;TPE;;Mixed;
+AL;5;4×4;MJU20;3:10.75;;Taizhou;CHN;Outdoor;2025-06-24;Chongqing;U20;CHN;;Male;
+AL;5;4×4;XJU20;3:27.36;;Taizhou;CHN;Outdoor;2025-06-23;Chongqing;U20;CHN;;Mixed;
 AL;5;DRE;MJU20;16.49;0.2;Chongqing;CHN;Outdoor;2025-05-16;Rongjia;Zhou;CHN;2006;Male;15096758.0
 AL;5;MEI;WJU20;4:53.28;;LSU Carl Maddox Fieldhouse;USA;Indoor;2025-01-17;Yuya;Sawada;JPN;2006;Female;14958661
 AL;5;HAM;MJU20;67.52;;Chongqing;CHN;Outdoor;2025-05-14;Zheng;Xu;CHN;2006;Male;15092432
-AL;5;4×4;WJU20;3:47.75;;Prefectural Stadium;JPN;Outdoor;2025-06-07;Mukogawa;Women'S University;JPN;;Female;
+AL;5;4×4;WJU20;3:44.26;;Taizhou;CHN;Outdoor;2025-06-24;Guangxi;U20;CHN;;Female;
 AL;5;1K0;MJU20;2:26.04;;Patliputra Sports Complex;IND;Outdoor;2025-03-12;Suraj;Singh;IND;2009;Male;15117146
 AL;5;SPE;WJU20;64.83;;Sichuan Xipu Training Base;CHN;Outdoor;2025-03-28;Ziyi;Yan;CHN;2008;Female;15144603
 AL;5;11H;MJU20;13.28;-0.1;Sports Center;CHN;Outdoor;2025-06-14;Yuanjiang;Chen;CHN;2006;Male;15034337
@@ -217,14 +217,14 @@ AL;5;100;MJU20;10.15;0.2;Chongqing;CHN;Outdoor;2025-05-15;Puripol;Boonson;THA;20
 AL;5;600;MJU20;1:24.27;;Bruce Kidd Field House;CAN;Indoor;2025-02-14;Thomas;Tse;HKG;;Male;15195092
 AL;5;60H;WJU20;8.34;;Shanxi Athletics Administrative Center;CHN;Indoor;2025-02-15;Binbin;Wu;CHN;2006;Female;15041145
 AL;5;5G;MJU20;19:24.48;;Patliputra Sports Complex;IND;Outdoor;2025-03-10;Nitin;Gupta;IND;2008;Male;15053556
-AL;5;4×1;MJU20;39.75;;Taipei Municipal Stadium;TPE;Outdoor;2025-06-07;Chinese;Taipei U20;TPE;;Male;
+AL;5;4×1;MJU20;39.67;;Taizhou;CHN;Outdoor;2025-06-24;Jiangsu;U20;CHN;;Male;
 AL;5;5K0;WJU20;15:30.85;;Nishishina Athletic Stadium;JPN;Outdoor;2025-05-04;Airi;Mashiba;JPN;2007;Female;14995755
 AL;5;200;MJU20;20.73;0.5;Prefectural Stadium;JPN;Outdoor;2025-06-07;Ryoutaro;Hama;JPN;2006;Male;15114762
 AL;5;3K0;WJU20;9:12.34;;Municipal Stadium;JPN;Outdoor;2025-04-29;Margaret;Mutoni;JPN;2008;Female;15180894
 AL;5;STA;MJU20;5.3;;Zhaoqing Sports Center;CHN;Outdoor;2025-04-11;Liang;Zeng;CHN;2007;Male;15096791
 AL;5;800;MJU20;1:45.16;;Prefectural Shizuoka Stadium;JPN;Outdoor;2025-05-03;Ko;Ochiai;JPN;2006;Male;15005773
 AL;5;MEI;MJU20;4:23.66;;Liberty Indoor Complex;USA;Indoor;2025-01-24;Ibrahim;Haydar Abdalla;QAT;2006;Male;15086775
-AL;5;400;MJU20;45.65;;Guoxin Sports Center;CHN;Outdoor;2025-06-18;Liukai;Liu;CHN;2006;Male;15210335.0
+AL;5;400;MJU20;45.22;;Taizhou;CHN;Outdoor;2025-06-23;Liukai;Liu;CHN;2006;Male;15210335.0
 AL;5;10H;WJU20;13.54;-0.3;Lemon Gas Stadium;JPN;Outdoor;2025-04-25;Ayu;Kariya;JPN;2006;Female;14974654
 AL;5;200;WJU20;22.97;0.3;Gumi Civic Stadium;KOR;Outdoor;2025-05-31;Yujie;Chen;CHN;2008;Female;15138450
 AL;5;60M;MJU20;6.59;;Osaka Castle Hall;JPN;Indoor;2025-02-02;Naoki;Nishioka;JPN;2006;Male;15030743
