@@ -88,7 +88,7 @@ AL;4;DIS;W;64.12;;Millican Field at Throw Town;USA;Outdoor;2025-04-10;Chioma;Ony
 AL;4;STA;W;4.35;;Pilditch Stadium;RSA;Outdoor;2025-05-02;Miré;Reinstorf;RSA;2002;Female;14838299
 AL;4;100;W;10.87;1.9;Southwestern University Track Stadium;USA;Outdoor;2025-06-28;Favour;Ofili;NGR;2002;Female;14756075
 AL;4;HOC;M;2.21;;Športová hala Dukla;SVK;Indoor;2025-02-18;Brian;Raats;RSA;2004;Male;14932625
-AL;4;DRE;W;14.19;0.0;Pista atletismo Fuente de la Niña;ESP;Outdoor;2025-06-18;Saly;Sarr;SEN;2002;Female;14894836
+AL;4;DRE;W;14.41;1.4;Stade Jean Adret;FRA;Outdoor;2025-07-07;Saly;Sarr;SEN;2002;Female;14894836
 AL;4;STA;M;5.73;;CrossPlex Athletic Facility;USA;Indoor;2025-02-24;Kyle;Rademeyer;RSA;2002;Male;14790285
 AL;4;40H;W;54.25;;Centre sportif Bout-du-Monde;SUI;Outdoor;2025-06-21;Zenéy;Van Der Walt;RSA;2000;Female;14639191
 AL;4;SPE;W;62.77;;Bislett Stadion;NOR;Outdoor;2025-06-12;Jo-Ane;Du Plessis;RSA;1997;Female;14558613
@@ -142,6 +142,7 @@ AL;4;1K0;M;2:18.48;;McArthur Stadium;RSA;Outdoor;2025-02-25;Yassine;Hethat;ALG;1
 AL;4;60M;M;6.48;;Virginia Beach Sports Center;USA;Indoor;2025-03-14;Kayinsola;Ajayi;NGR;2004;Male;14976296
 AL;4;3G;W;13:48.29;;Stade Régional G. Hebert;FRA;Outdoor;2025-05-18;Melissa;Touloum;ALG;2002;Female;14852014
 AL;6;10H;W;13.14;-1.2;WA Athletics Stadium;AUS;Outdoor;2025-04-13;Liz;Clay;AUS;1995;Female;14455195
+AL;6;10H;W;13.14;1.3;Stade Jean Adret;FRA;Outdoor;2025-07-07;Michelle;Jenneke;AUS;1993;Female;14365887
 AL;6;50M;W;6.24;;Atletická hala;CZE;Indoor;2025-02-04;Torrie;Lewis;AUS;2005;Female;14778459
 AL;6;DRE;M;16.84;1.0;Stadio Quercia;ITA;Outdoor;2025-06-02;Ethan;Olivier;NZL;2005;Male;14963302
 AL;6;400;W;51.3;;Centre sportif Bout-du-Monde;SUI;Outdoor;2025-06-21;Ellie;Beer;AUS;2003;Female;14768392
@@ -158,7 +159,7 @@ AL;6;STA;W;4.67;;Stade couvert Jesse Owens;FRA;Indoor;2025-02-02;Imogen;Ayris;NZ
 AL;6;100;W;10.94;0.6;Mestský Stadion;CZE;Outdoor;2025-06-24;Zoe;Hobbs;NZL;1997;Female;14499691
 AL;6;HOC;M;2.3;;Nga Puna Wai Sports Hub;NZL;Outdoor;2025-02-22;Hamish;Kerr;NZL;1996;Male;14633982
 AL;6;DRE;W;13.75;1.5;WA Athletics Stadium;AUS;Outdoor;2025-04-12;Desleigh;Owusu;AUS;2001;Female;14764659
-AL;6;STA;M;5.91;;Maison des Sports;FRA;Indoor;2025-02-28;Kurtis;Marschall;AUS;1997;Male;14565327
+AL;6;STA;M;5.93;;Pl. Panathinaikou Stadiou;GRE;Outdoor;2025-07-06;Kurtis;Marschall;AUS;1997;Male;14565327
 AL;6;40H;W;54.29;;WA Athletics Stadium;AUS;Outdoor;2025-04-13;Sarah;Carli;AUS;1994;Female;14406120
 AL;6;SPE;W;63.79;;Geroge C. Griffin Track;USA;Outdoor;2025-03-21;Lianna;Davidson;AUS;2002;Female;14787531
 AL;6;4×4;W;3:27.31;;Tianhe Sports Center;CHN;Outdoor;2025-05-11;Australia;;AUS;;Female;
@@ -281,7 +282,7 @@ AL;3;WEI;W;6.84;0.6;Ulinzi Sports Complex;KEN;Outdoor;2025-05-31;Lissandra;Maysa
 AL;3;10K;W;31:36.48;;JSerra Catholic;USA;Outdoor;2025-03-29;Florencia;Borelli;ARG;1992;Female;14370115.0
 AL;3;HAM;M;77.69;;Pista de Atletismo Justo Román;ARG;Outdoor;2025-04-25;Joaquin;Gomez;ARG;1996;Male;14444291
 AL;3;DIS;W;62.87;;Pista de Atletismo Justo Román;ARG;Outdoor;2025-04-26;Izabela;Da Silva;BRA;1995;Female;14460894
-AL;3;STA;W;4.66;;Mestský Stadion;CZE;Outdoor;2025-06-24;Juliana;De Menis Campos;BRA;1996;Female;14545924
+AL;3;STA;W;4.68;;Pl. Panathinaikou Stadiou;GRE;Outdoor;2025-07-06;Juliana;De Menis Campos;BRA;1996;Female;14545924
 AL;3;100;W;11.21;1.2;Pista de Atletismo Justo Román;ARG;Outdoor;2025-04-25;Vitoria;Cristina Rosa;BRA;1996;Female;14481687
 AL;3;HOC;M;2.22;;Gobierno Autónomo Municipal de Cochabamba;BOL;Indoor;2025-02-23;Thiago;Moura;BRA;1995;Male;14488481
 AL;3;DRE;W;14.25;0.0;Pista atletismo Fuente de la Niña;ESP;Outdoor;2025-06-18;Gabriele;Santos;BRA;1995;Female;14496363
@@ -313,7 +314,7 @@ AL;3;200;M;20.48;1.0;Weaver Stadium;USA;Outdoor;2025-05-17;Jackson;Clarke;GUY;20
 AL;3;200;M;20.48;;Alachua County Sports Complex;USA;Indoor;2025-03-01;Daniel;Williams;GUY;2000;Male;14746486.0
 AL;3;KUG;M;20.93;;CNDA;BRA;Outdoor;2025-03-29;Willian;Dourado;BRA;1994;Male;14497005
 AL;3;800;M;1:45.01;;Forest Stadium;POL;Outdoor;2025-06-15;Guilherme;Orenhas;BRA;1998;Male;14717831.0
-AL;3;WEI;M;8.22;0.0;Piedmont Park;USA;Outdoor;2025-05-17;Emanuel;Archibald;GUY;1994;Male;14747754
+AL;3;WEI;M;8.22;0.0;Piedmont Park;USA;Outdoor;2025-05-17;Emanuel;Archibald;GUY;1994;Male;14747754.0
 AL;3;2KH;M;5:53.36;;Polideportivo Maximo Viloria;VEN;Outdoor;2025-01-31;Jose;Gonzalez;VEN;1994;Male;15079882
 AL;3;60H;M;7.64;;Atlas Arena;POL;Indoor;2025-02-08;Rafael;Pereira;BRA;1997;Male;14662635
 AL;3;4×1;M;38.4;;Tianhe Sports Center;CHN;Outdoor;2025-05-10;Brazil;;BRA;;Male;
