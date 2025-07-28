@@ -14,7 +14,7 @@ AL;3;1K5;MJU20;3:54.46;;Polideportivo Maximo Viloria;VEN;Outdoor;2025-06-06;Dyla
 AL;3;DIS;WJU20;53.03;;Estadio Brigido Iriarte;VEN;Outdoor;2025-04-04;Ottaynis;Mercedes Febres;VEN;2006;Female;15083385
 AL;3;5K0;WJU20;16:16.48;;Estadio Atlético de la;PER;Outdoor;2025-03-30;Luz;Lizandra Arias;PER;2006;Female;15044417
 AL;3;KUG;WJU20;16.04;;La Vicentina;ECU;Outdoor;2025-07-06;Belsy;Jenniffer Quiñonez;ECU;2007;Female;15045421
-AL;3;11H;MJU20;14.31;0.6;Estadio de Atletismo - Unidad Deportiva el Salitre;COL;Outdoor;2025-03-14;Gerónimo;Cañizales;COL;2006;Male;15019581
+AL;3;11H;MJU20;14.2;-0.6;Pista Atlética Jefferson Pérez;ECU;Outdoor;2025-07-26;Adrian;Roger Rodriguez;ECU;2006;Male;15075660
 AL;3;200;WJU20;23.66;0.0;Parque Olímpico Pista De Atletismo;PAR;Outdoor;2025-07-20;Hakelly;De Souza;BRA;2008;Female;15096398
 AL;3;3KH;MJU20;9:06.15;;Estadio Atlético de la;PER;Outdoor;2025-06-28;Franklin;Alex Patiño;PER;2007;Male;15189426
 AL;3;STA;MJU20;5.6;;Rector Fieldhouse;USA;Indoor;2025-02-07;Ricardo;David Montes;VEN;2006;Male;14999232
@@ -197,7 +197,7 @@ AL;5;10G;WJU20;46:57.21;;Prefectural Stadium;JPN;Outdoor;2025-06-06;Suzu;Okuno;J
 AL;5;3K0;WJU20;9:10.73;;Aoba Park Athletic Field;JPN;Outdoor;2025-07-12;Ayami;Yoshida;JPN;2007;Female;15050389
 AL;5;2KH;MJU20;5:44.31;;Suhaim bin Hamad Stadium;QAT;Outdoor;2025-04-29;Abderrahmane;Houam;QAT;2007;Male;15090431
 AL;5;60M;MJU20;6.59;;Osaka Castle Hall;JPN;Indoor;2025-02-02;Naoki;Nishioka;JPN;2006;Male;15030743
-AL;1;DRE;WJU20;13.9;;Track & Field complex;KAZ;Indoor;2025-01-25;Sharifa;Davronova;UZB;2006;Female;14956284
+AL;1;DRE;WJU20;14.33;1.2;Lohrheidestadion;GER;Outdoor;2025-07-27;Sharifa;Davronova;UZB;2006;Female;14956284
 AL;5;HAM;MJU20;67.52;;Chongqing;CHN;Outdoor;2025-05-14;Zheng;Xu;CHN;2006;Male;15092432
 AL;5;800;WJU20;1:59.52;;National Stadium;JPN;Outdoor;2025-07-05;Rin;Kubo;JPN;2008;Female;15005744
 AL;5;1K5;MJU20;3:44.18;;Egao Kenko Stadium;JPN;Outdoor;2025-04-12;Ko;Ochiai;JPN;2006;Male;15005773
@@ -254,7 +254,7 @@ AL;1;WEI;WJU20;6.57;1.6;Uppsala Friidrottsarena;SWE;Outdoor;2025-07-26;Ayla;Hall
 AL;1;WEI;WJU20;6.57;;Athletics Arena;RUS;Indoor;2025-02-15;Anastasiya;Kobylyanskikh;RUS;2006;Female;14968918
 AL;1;HOC;MJU20;2.26;;Ural;RUS;Indoor;2025-01-17;Stepan;Vetkin;RUS;2006;Male;14972996
 AL;1;1K0;WJU20;2:46.05;;Schönbuchstadion;GER;Outdoor;2025-05-18;Shirin;Kerber;SUI;2006;Female;14907825
-AL;1;200;MJU20;20.67;-0.6;Mestský Stadion;CZE;Outdoor;2025-06-22;Adam;Šulc;CZE;;Male;15047087
+AL;1;200;MJU20;20.66;1.7;Complexo Municipal de Atletismo Carla Sacramento;POR;Outdoor;2025-07-27;Pedro;Afonso;POR;2007;Male;15059613.0
 AL;1;50M;MJU20;6.01;;Salle du Centre Mondial du Cyclisme;SUI;Indoor;2025-01-18;Alessandro;Colella;SUI;;Male;15061156
 AL;1;10G;WJU20;45:25.60;;Campo Mauro Ferrari;ITA;Outdoor;2025-04-13;Serena;Di Fabio;ITA;2007;Female;14975796
 AL;1;3K0;WJU20;8:32.90;;Olympiastadion;SWE;Outdoor;2025-06-15;Innes;Fitzgerald;GBR;2006;Female;15033317
@@ -275,8 +275,8 @@ AL;1;50H;WJU20;7.28;;Salle du Centre Mondial du Cyclisme;SUI;Indoor;2025-02-01;M
 AL;1;200;WJU20;23.07;0.7;Stadion;POL;Outdoor;2025-06-14;Wiktoria;Gajosz;POL;2006;Female;14952244
 AL;1;200;WJU20;23.07;-0.6;Mestský Stadion;CZE;Outdoor;2025-06-22;Terezie;Táborská;CZE;2006;Female;14933039
 AL;1;3KH;MJU20;8:38.01;;LAZ Wien;AUT;Outdoor;2025-06-14;Adam;Červinka;CZE;2007;Male;15046918
-AL;1;STA;MJU20;5.41;;Pista Cubierta Carlos Gil Perez;ESP;Indoor;2025-03-08;Asier;Añorga;ESP;2006;Male;15014086
 AL;1;STA;MJU20;5.41;;Pista Cubierta Carlos Gil Perez;ESP;Indoor;2025-03-08;Fabio;Marco;ESP;2006;Male;14992673
+AL;1;STA;MJU20;5.41;;Pista Cubierta Carlos Gil Perez;ESP;Indoor;2025-03-08;Asier;Añorga;ESP;2006;Male;15014086
 AL;1;2K0;MJU20;5:23.87;;Arena;POL;Indoor;2025-02-02;Michał;Gajdus;POL;2008;Male;15155481
 AL;1;MEI;WJU20;4:40.07;;Boston Univ. Track & Tennis Center;USA;Indoor;2025-02-15;Annie;Mann;GBR;2006;Female;14843637
 AL;1;40H;MJU20;49.08;;Mestský Stadion;CZE;Outdoor;2025-06-24;Michal;Rada;CZE;2007;Male;15035794
@@ -307,13 +307,13 @@ AL;1;4×1;WJU20;43.92;;Olympic Stadium;GBR;Outdoor;2025-07-19;Great;Britain & Ni
 AL;1;60M;WJU20;7.19;;Palaindoor Ancona;ITA;Indoor;2025-02-08;Kelly;Ann Maevane Doualla Edimo;ITA;2009;Female;15022410
 AL;1;10G;MJU20;39:24.99;;Campo Mauro Ferrari;ITA;Outdoor;2025-04-13;Giuseppe;Disabato;ITA;2006;Male;14949164
 AL;1;5G;MJU20;19:09.37;;Campo Conti;ITA;Outdoor;2025-06-14;Giuseppe;Disabato;ITA;2006;Male;14949164
-AL;1;5G;WJU20;21:55.70;;Stadio Enzo Blasone;ITA;Outdoor;2025-06-14;Serena;Di Fabio;ITA;2007;Female;14975796
+AL;1;5G;WJU20;21:37.60;;Polideportivo Municipal;ESP;Outdoor;2025-07-26;Sofia;Santacreu;ESP;2006;Female;14970539
 AL;1;600;WJU20;1:28.41;;Stadio Narciso Soldan;ITA;Outdoor;2025-04-26;Lorenza;De Noni;ITA;2006;Female;14979935
 AL;1;10K;WJU20;34:22.31;;Cougar Athletic Stadium;USA;Outdoor;2025-04-16;Olivia;Alessandrini;ITA;2006;Female;15026801
 AL;1;3K0;MJU20;7:47.98;;Velódromo Luis Puig;ESP;Indoor;2025-02-07;Alex;Pintado;ESP;2006;Male;15015388
 AL;1;STA;WJU20;4.52;;Athletic track of National Arena Philip;MKD;Outdoor;2025-07-21;Allika;Inkeri Moser;EST;2008;Female;15059664
 AL;1;60H;WJU20;8.06;;Atletska dvorana;SRB;Indoor;2025-02-15;Mia;Wild;CRO;2006;Female;14869278
-AL;1;10H;WJU20;13.02;2.0;Michael-Hoffmann-Stadion;GER;Outdoor;2025-06-28;Laura;Montauban;FRA;2006;Female;14957507
+AL;1;10H;WJU20;13.01;1.6;Stade Jean Jacoby;LUX;Outdoor;2025-07-26;Jil;Sanchez;SUI;;Female;15064901
 AL;1;300;WJU20;37.17;;Campo Sportivo Gaetano Scirea;ITA;Outdoor;2025-05-04;Elisa;Valensin;ITA;2007;Female;14974280
 AL;1;DIS;MJU20;58.81;;Koulumäen kenttä;FIN;Outdoor;2025-06-07;Mico;Lampinen;FIN;2006;Male;14910022
 AL;1;5K0;MJU20;13:43.27;;Parc des Sports;FRA;Outdoor;2025-06-07;Sebastian;Lörstad;SWE;2008;Male;15094429
@@ -321,7 +321,7 @@ AL;1;50M;WJU20;6.47;;GSG9-Halle;AUT;Indoor;2025-01-15;Patricia;Brunninger;AUT;20
 AL;1;1K0;MJU20;2:22.12;;Parc des Sports;FRA;Outdoor;2025-06-07;Alois;Abraham;FRA;2008;Male;15042726
 AL;1;WEI;MJU20;8.05;1.4;Stade Municipal;FRA;Outdoor;2025-06-14;Remi;Mourie;FRA;2008;Male;15122947
 AL;1;DRE;MJU20;16.18;1.4;Regional Sport Complex;BLR;Outdoor;2025-06-06;Tsimur;Severau;BLR;2006;Male;15074517
-AL;1;SPE;MJU20;75.36;;Michael-Hoffmann-Stadion;GER;Outdoor;2025-06-29;Rafael;Mahiques;ESP;2006;Male;15082755
+AL;1;SPE;MJU20;77.6;;Polideportivo Municipal;ESP;Outdoor;2025-07-26;Rafael;Mahiques;ESP;2006;Male;15082755
 AL;1;SPE;WJU20;57.12;;Sports Park Mladost;CRO;Outdoor;2025-05-14;Vita;Barbić;CRO;2007;Female;14955305
 AL;1;100;WJU20;11.21;0.0;Athletic track of National Arena Philip;MKD;Outdoor;2025-07-21;Kelly;Ann Maevane Doualla Edimo;ITA;2009;Female;15022410
 AL;6;3G;WJU20;13:21.24;;WA Athletics Stadium;AUS;Outdoor;2025-04-08;Ela;Uzun;AUS;2011;Female;14988745
