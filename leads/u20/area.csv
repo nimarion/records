@@ -21,14 +21,13 @@ AL;3;STA;MJU20;5.6;;Rector Fieldhouse;USA;Indoor;2025-02-07;Ricardo;David Montes
 AL;3;MEI;WJU20;5:11.80;;Armory Track&Field Center;USA;Indoor;2025-01-25;Attoya;Harvey;GUY;2006;Female;14999415
 AL;3;40H;MJU20;50.24;;Pista Atlética Mario Recordón;CHI;Outdoor;2025-03-30;Ramón;Fuenzalida;CHI;2006;Male;15050773
 AL;3;40H;WJU20;1:00.39;;Parque Olímpico Pista De Atletismo;PAR;Outdoor;2025-07-20;Maiza;Silva;BRA;2009;Female;15113911
-AL;3;HOC;WJU20;1.78;;Arena Caixa;BRA;Outdoor;2025-03-22;Maria;Eduarda De Oliveira;BRA;2006;Female;14994797
-AL;3;HOC;WJU20;1.78;;Pista Atlética Jefferson Pérez;ECU;Outdoor;2025-05-25;Jeraldine;Rebeca Pata;ECU;2009;Female;15121302
+AL;3;HOC;WJU20;1.8;;Centro de Treinamento Paralímpico Brasileiro;BRA;Outdoor;2025-08-01;Maria;Eduarda De Oliveira;BRA;2006;Female;14994797
 AL;3;2KH;WJU20;6:54.83;;Parque Olímpico Pista De Atletismo;PAR;Outdoor;2025-07-19;Sofia;Fregona;ARG;2008;Female;15189438
 AL;3;400;MJU20;46.19;;Polideportivo Maximo Viloria;VEN;Outdoor;2025-06-06;Axel;Gomez;VEN;2006;Male;15023443.0
 AL;3;1K5;WJU20;4:26.39;;Estadio Atlético de la;PER;Outdoor;2025-03-28;Karol;Ximena Luna;COL;2006;Female;15022763
 AL;3;10K;MJU20;29:54.65;;Estadio Atlético de la;PER;Outdoor;2025-07-15;Jessiel;Alexander Paez;ECU;2006;Male;15094784
 AL;3;3KH;WJU20;11:06.06;;Estadio Atlético de la;PER;Outdoor;2025-06-28;Magnolia;Nina;PER;2007;Female;15221475
-AL;3;800;MJU20;1:49.62;;Centro de Atletismo Professor Oswaldo Terra;BRA;Outdoor;2025-06-28;Carlos;Eduardo Lara;BRA;2006;Male;15022378
+AL;3;800;MJU20;1:49.16;;Centro de Treinamento Paralímpico Brasileiro;BRA;Outdoor;2025-08-01;Weslei;Santos;BRA;2006;Male;15044412
 AL;3;100;MJU20;10.37;1.1;Pista de Atletismo de Jaragua do Sul;BRA;Outdoor;2025-07-12;Paulo;Henrique Pedroso;BRA;2006;Male;15042599
 AL;3;KUG;MJU20;17.67;;Centro de Treinamento Paralímpico Brasileiro;BRA;Outdoor;2025-07-13;Alessandro;Borges;BRA;2007;Male;15038772
 AL;3;HAM;WJU20;62.4;;Estadio Brigido Iriarte;VEN;Outdoor;2025-03-07;Yenniver;Veroes;VEN;2006;Female;14982738
@@ -49,9 +48,9 @@ AL;3;10K;WJU20;34:46.90;;Estadio Atlético de la;PER;Outdoor;2025-07-15;Luz;Liza
 AL;3;3K0;MJU20;8:29.07;;Polideportivo Maximo Viloria;VEN;Outdoor;2025-06-06;Dylan;Joel Carrasco;COL;2006;Male;15103128
 AL;3;STA;WJU20;4.05;;Estadio de Atletismo - Unidad Deportiva el Salitre;COL;Outdoor;2025-04-06;Luna;Brigitte Pabon;COL;2008;Female;15111215
 AL;3;60H;WJU20;8.46;;Convention Center;USA;Indoor;2025-02-28;Pietra;Campbell;BRA;2006;Female;14995208
-AL;3;10H;WJU20;13.79;0.6;Pista Atlética Mario Recordón;CHI;Outdoor;2025-03-29;Catalina;Rozas;CHI;2006;Female;14995844
+AL;3;10H;WJU20;13.61;1.2;Centro de Treinamento Paralímpico Brasileiro;BRA;Outdoor;2025-08-01;Pietra;Campbell;BRA;2006;Female;14995208
 AL;3;300;WJU20;42.89;;Estadio Atlético de la;PER;Outdoor;2025-05-17;Jorliana;Del Valle;PER;2012;Female;15236364
-AL;3;DIS;MJU20;52.48;;Pista de Atletismo Armando Garlippe;BRA;Outdoor;2025-04-26;Alberto;Rodrigues;BRA;2006;Male;14993719
+AL;3;DIS;MJU20;53.97;;Centro de Treinamento Paralímpico Brasileiro;BRA;Outdoor;2025-08-01;Alberto;Rodrigues;BRA;2006;Male;14993719
 AL;3;5K0;MJU20;14:06.39;;Estadio Atlético de la;PER;Outdoor;2025-07-16;Jessiel;Alexander Paez;ECU;2006;Male;15094784
 AL;3;WEI;MJU20;7.66;0.3;Estadio de Atletismo - Unidad Deportiva el Salitre;COL;Outdoor;2025-04-06;Jhon;David Valencia;COL;2007;Male;15136108
 AL;3;DRE;MJU20;16.18;1.1;Estadio de Atletismo - Unidad Deportiva el Salitre;COL;Outdoor;2025-04-06;Jhon;David Valencia;COL;2007;Male;15136108
@@ -90,7 +89,7 @@ AL;2;10K;MJU20;30:12.50;;MIT Sherie and Don Morrison Track;USA;Outdoor;2025-04-1
 AL;2;3KH;WJU20;9:55.19;;Cougar Athletic Stadium;USA;Outdoor;2025-04-16;Isabell;Schmitz;USA;;Female;14993587
 AL;2;600;MJU20;1:16.20;;Armory Track&Field Center;USA;Indoor;2025-02-08;Quincy;Wilson;USA;2008;Male;15025343
 AL;2;800;MJU20;1:45.45;;Hayward Field;USA;Outdoor;2025-06-21;Cooper;Lutkenhaus;USA;2008;Male;15152457
-AL;2;100;MJU20;10.02;1.9;Percy Beard Track;USA;Outdoor;2025-04-19;Christian;Miller;USA;2006;Male;15033045
+AL;2;100;MJU20;9.92;1.8;Hayward Field;USA;Outdoor;2025-08-01;Maurice;Gleaton;USA;2006;Male;15094520
 AL;2;KUG;MJU20;19.4;;Triton Stadium;USA;Outdoor;2025-04-05;Ethan;Thomas;USA;;Male;15200687
 AL;2;HAM;WJU20;59.8;;Hayward Field;USA;Outdoor;2025-06-19;Hannah;Alexander;USA;2006;Female;15044667
 AL;2;MEI;MJU20;3:56.66;;Boston Univ. Track & Tennis Center;USA;Indoor;2025-02-21;Owen;Powell;USA;;Male;15124072
