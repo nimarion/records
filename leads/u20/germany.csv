@@ -1,14 +1,14 @@
 Code;Type;Discipline;Class;Result;Wind;Venue;Venue Country;Environment;Date;Firstname;Lastname;Nation;YOB;Sex;WorldathleticsId
 NL;GER;3G;WJU20;14:00.70;;Helmut-Körnig-Halle;GER;Indoor;2025-02-15;Liv;Minzenmay;GER;;Female;15136335
 NL;GER;WEI;WJU20;6.3;1.5;Stadion Festwiese;GER;Outdoor;2025-07-19;Nelly;Sohn;GER;;Female;15013554
-NL;GER;HOC;MJU20;2.14;;Lohrheidestadion;GER;Outdoor;2025-07-12;Marlon;Gräfe;GER;;Male;15064327
+NL;GER;HOC;MJU20;2.14;;Lohrheidestadion;GER;Outdoor;2025-07-12;Marlon;Gräfe;GER;2006;Male;15064327
 NL;GER;1K0;WJU20;2:51.25;;Schönbuchstadion;GER;Outdoor;2025-05-18;Leni;Hirt;GER;;Female;15100796
 NL;GER;200;MJU20;20.92;1.9;Donaustadion;GER;Outdoor;2025-07-06;Jakob;Kemminer;GER;2007;Male;14981842
 NL;GER;50M;MJU20;6.23;;Salle du Centre Mondial du Cyclisme;SUI;Indoor;2025-01-19;Matti;Steinmetz;GER;;Male;15157003
 NL;GER;3K0;WJU20;9:02.99;;Schönbuchstadion;GER;Outdoor;2025-05-18;Lera;Miller;GER;2007;Female;14997769
 NL;GER;2KH;MJU20;5:44.65;;Schönbuchstadion;GER;Outdoor;2025-05-18;Tristan;Kaufhold;GER;2006;Male;14984322
 NL;GER;60M;MJU20;6.74;;Helmut-Körnig-Halle;GER;Indoor;2025-02-15;Ramon;Reckwald;GER;2006;Male;15010394
-NL;GER;DRE;WJU20;13.23;0.5;Lohrheidestadion;GER;Outdoor;2025-07-12;Antonia;Bronnert;GER;;Female;15034468
+NL;GER;DRE;WJU20;13.23;0.5;Lohrheidestadion;GER;Outdoor;2025-07-12;Antonia;Bronnert;GER;2007;Female;15034468
 NL;GER;HAM;MJU20;64.18;;Donaustadion;GER;Outdoor;2025-07-05;Timo;Port;GER;2006;Male;15017340
 NL;GER;800;WJU20;2:00.76;;Olympiastadion;GER;Outdoor;2025-07-27;Jana;Marie Becker;GER;2006;Female;14994730
 NL;GER;1K5;MJU20;3:45.15;;TSV Stadion;GER;Outdoor;2025-06-14;Tristan;Kaufhold;GER;2006;Male;14984322
@@ -21,8 +21,8 @@ NL;GER;200;WJU20;23.11;1.6;Sepp-Herberger-Stadion;GER;Outdoor;2025-05-24;Judith;
 NL;GER;3KH;MJU20;8:49.31;;Heinz-Steyer-Stadion;GER;Outdoor;2025-08-02;Noah;Cais;GER;;Male;15171892
 NL;GER;STA;MJU20;5.2;;Lohrheidestadion;GER;Outdoor;2025-07-12;Lars;Urich;GER;2006;Male;15038000
 NL;GER;MEI;WJU20;4:58.02;;CrossPlex Athletic Facility;USA;Indoor;2025-02-24;Lilly;Schuster;GER;;Female;14996562
-NL;GER;40H;MJU20;51.69;;Lohrheidestadion;GER;Outdoor;2025-07-13;Luis;Krenzlin;GER;;Male;15015608
-NL;GER;40H;WJU20;58.98;;Universitätsstadion Am Biopark;GER;Outdoor;2025-06-14;Mara;Sophie Schmitz;GER;;Female;15040564
+NL;GER;40H;MJU20;51.69;;Lohrheidestadion;GER;Outdoor;2025-07-13;Luis;Krenzlin;GER;2006;Male;15015608
+NL;GER;40H;WJU20;58.98;;Universitätsstadion Am Biopark;GER;Outdoor;2025-06-14;Mara;Sophie Schmitz;GER;2007;Female;15040564
 NL;GER;HOC;WJU20;1.85;;Helmut-Körnig-Halle;GER;Indoor;2025-02-16;Anna-Elisabeth;Ehlers;GER;2006;Female;14926486
 NL;GER;2KH;WJU20;6:25.30;;Schönbuchstadion;GER;Outdoor;2025-05-18;Jule;Jutta Lindner;GER;2006;Female;14981849
 NL;GER;400;MJU20;46.55;;Universitätsstadion Am Biopark;GER;Outdoor;2025-06-14;Philip;Steinmann;GER;2006;Male;15011511
@@ -56,7 +56,7 @@ NL;GER;DIS;MJU20;49.05;;Stadion Festwiese;GER;Outdoor;2025-07-19;Konstantinos;Pi
 NL;GER;5K0;MJU20;14:06.46;;Carl-Kaufmann-Stadion;GER;Outdoor;2025-05-31;David;Scheller;GER;2006;Male;14996544
 NL;GER;50M;WJU20;7.1;;Salle du Centre Mondial du Cyclisme;SUI;Indoor;2025-01-18;Myah;Kouoga;GER;;Female;15197164
 NL;GER;1K0;MJU20;2:25.67;;Schönbuchstadion;GER;Outdoor;2025-05-18;Moritz;Mayr;GER;;Male;15094579
-NL;GER;WEI;MJU20;7.5;0.6;Lohrheidestadion;GER;Outdoor;2025-07-11;Samuel;Vallipuram;GER;;Male;15041386.0
+NL;GER;WEI;MJU20;7.5;0.6;Lohrheidestadion;GER;Outdoor;2025-07-11;Samuel;Vallipuram;GER;2006;Male;15041386.0
 NL;GER;DRE;MJU20;15.55;-1.0;Bienwaldstadion;GER;Outdoor;2025-06-22;Peter;Osazee;GER;2006;Male;15068647
 NL;GER;SPE;MJU20;75.47;;Heinz-Steyer-Stadion;GER;Outdoor;2025-08-02;Oskar;Jänicke;GER;2006;Male;14996555
 NL;GER;SPE;WJU20;52.82;;Heinz-Steyer-Stadion;GER;Outdoor;2025-08-03;Konstanze;Irlinger;GER;2007;Female;14981840
