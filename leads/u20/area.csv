@@ -154,7 +154,7 @@ AL;4;10H;WJU20;13.22;1.0;UJ Stadium;RSA;Outdoor;2025-03-19;Tumi;Ramokgopa;RSA;20
 AL;4;600;WJU20;1:32.82;;Pilditch Stadium;RSA;Outdoor;2025-02-08;Carise;Van Rooyen;RSA;2007;Female;15081618
 AL;4;WEI;WJU20;6.67;1.2;UTA Maverick Stadium;USA;Outdoor;2025-05-16;Prestina;Oluchi Ochonogor;NGR;2006;Female;14970513.0
 AL;4;3K0;MJU20;7:29.99;;Arena Stade Couvert;FRA;Indoor;2025-02-13;Biniam;Mehary;ETH;2006;Male;15118094
-AL;4;1K0;MJU20;2:30.13;;Stade Pierre Carous;FRA;Outdoor;2025-06-20;Ayoub;El Bakri;MAR;;Male;15231098
+AL;4;1K0;MJU20;2:17.74;;Stadion BOSiR;POL;Outdoor;2025-08-09;Jaouad;Khchina;MAR;2006;Male;15050867
 AL;4;SPE;WJU20;51.8;;McArthur Stadium;RSA;Outdoor;2025-04-26;Nicole;Barnard;RSA;2007;Female;15081400
 AL;4;1K0;WJU20;2:57.92;;Piste d'athletisme taza;MAR;Outdoor;2025-06-22;Marwa;Baba;MAR;;Female;15231071
 AL;4;10G;MJU20;42:50.0;;Stade D'athlétisme;TUN;Outdoor;2025-02-16;Wassim;Ounalli;TUN;2006;Male;15029502
@@ -224,14 +224,14 @@ AL;1;WEI;WJU20;6.57;;Athletics Arena;RUS;Indoor;2025-02-15;Anastasiya;Kobylyansk
 AL;1;3K0;MJU20;7:47.98;;Velódromo Luis Puig;ESP;Indoor;2025-02-07;Alex;Pintado;ESP;2006;Male;15015388
 AL;1;1K0;MJU20;2:22.12;;Parc des Sports;FRA;Outdoor;2025-06-07;Alois;Abraham;FRA;2008;Male;15042726
 AL;1;SPE;WJU20;57.12;;Sports Park Mladost;CRO;Outdoor;2025-05-14;Vita;Barbić;CRO;2007;Female;14955305
-AL;1;1K0;WJU20;2:46.05;;Schönbuchstadion;GER;Outdoor;2025-05-18;Shirin;Kerber;SUI;2006;Female;14907825
-AL;1;4×4;WJU20;3:35.85;;Michael-Hoffmann-Stadion;GER;Outdoor;2025-06-29;Great;Britain & Ni U20;GBR;;Female;
+AL;1;1K0;WJU20;2:44.98;;Stadion BOSiR;POL;Outdoor;2025-08-09;Oksana;Pestka;POL;2008;Female;14985598
+AL;1;4×4;WJU20;3:35.24;;Ratinan Stadion;FIN;Outdoor;2025-08-09;Italy;U20;ITA;;Female;
 AL;1;10G;MJU20;39:24.99;;Campo Mauro Ferrari;ITA;Outdoor;2025-04-13;Giuseppe;Disabato;ITA;2006;Male;14949164
 AL;1;4×4;XJU20;3:22.84;;Regional Sport Complex;BLR;Outdoor;2025-07-22;Russia;U20;RUS;;Mixed;
 AL;1;2KH;WJU20;6:25.30;;Schönbuchstadion;GER;Outdoor;2025-05-18;Jule;Jutta Lindner;GER;2006;Female;14981849
 AL;1;5K0;WJU20;14:39.56;;Olympic Stadium;GBR;Outdoor;2025-07-19;Innes;Fitzgerald;GBR;2006;Female;15033317
-AL;1;40H;MJU20;49.08;;Mestský Stadion;CZE;Outdoor;2025-06-24;Michal;Rada;CZE;2007;Male;15035794
-AL;1;40H;WJU20;56.76;;Stade des Maradas;FRA;Outdoor;2025-06-14;Méta;Tumba;FRA;2006;Female;14947230
+AL;1;40H;MJU20;48.78;;Ratinan Stadion;FIN;Outdoor;2025-08-09;Michal;Rada;CZE;2007;Male;15035794
+AL;1;40H;WJU20;55.55;;Ratinan Stadion;FIN;Outdoor;2025-08-09;Alexandra;Ștefania Uță;ROU;2007;Female;14969059
 AL;1;KUG;WJU20;16.36;;Panthessaliko Stadium;GRE;Outdoor;2025-08-03;Maria;Rafailidou;GRE;2007;Female;14978785
 AL;1;KUG;WJU20;16.36;;Panthessaliko Stadium;GRE;Outdoor;2025-08-03;Maria;Rafailidou;GRE;2007;Female;14978785
 AL;1;4×1;MJU20;39.27;;Helmántico;ESP;Outdoor;2025-06-06;Spain;U20;ESP;;Male;
@@ -244,10 +244,9 @@ AL;1;DRE;MJU20;16.18;1.4;Regional Sport Complex;BLR;Outdoor;2025-06-06;Tsimur;Se
 AL;1;1K5;WJU20;4:09.13;;Woodside Stadium;GBR;Outdoor;2025-07-12;Lyla;Belshaw;GBR;2007;Female;15034219
 AL;1;HAM;WJU20;69.14;;Ratinan Stadion;FIN;Outdoor;2025-08-08;Patricia;Kamga;SWE;2006;Female;14951569
 AL;1;4×1;WJU20;43.92;;Olympic Stadium;GBR;Outdoor;2025-07-19;Great;Britain & Ni B;GBR;;Female;
-AL;1;STA;MJU20;5.41;;Pista Cubierta Carlos Gil Perez;ESP;Indoor;2025-03-08;Fabio;Marco;ESP;2006;Male;14992673
-AL;1;STA;MJU20;5.41;;Pista Cubierta Carlos Gil Perez;ESP;Indoor;2025-03-08;Asier;Añorga;ESP;2006;Male;15014086
+AL;1;STA;MJU20;5.45;;Ratinan Stadion;FIN;Outdoor;2025-08-09;Axel;Rogö;SWE;2007;Male;15044879
 AL;1;400;MJU20;44.56;;Regional Sport Complex;BLR;Outdoor;2025-07-21;Aleksey;Danilov;RUS;2006;Male;15043554
-AL;1;10G;WJU20;45:25.60;;Campo Mauro Ferrari;ITA;Outdoor;2025-04-13;Serena;Di Fabio;ITA;2007;Female;14975796
+AL;1;10G;WJU20;43:47.89;;Ratinan Stadion;FIN;Outdoor;2025-08-09;Sofia;Santacreu;ESP;2006;Female;14970539
 AL;1;4×4;MJU20;3:08.31;;Michael-Hoffmann-Stadion;GER;Outdoor;2025-06-29;Ireland;U20;IRL;;Male;
 AL;1;10K;MJU20;30:47.70;;Atlétikai Centrum;HUN;Outdoor;2025-04-26;Albert;Szirbek;HUN;2006;Male;14969926
 AL;1;10K;MJU20;30:47.70;;Atlétikai Centrum;HUN;Outdoor;2025-04-26;Albert;Szirbek;HUN;2006;Male;14969926
