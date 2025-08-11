@@ -113,6 +113,7 @@ AL;6;STA;MJU20;5.0;;Queensland Sport and Athletics Centre;AUS;Outdoor;2025-03-13
 AL;6;400;MJU20;45.54;;WA Athletics Stadium;AUS;Outdoor;2025-04-12;Terrell;Thorne;AUS;2007;Male;15053855
 AL;6;10G;WJU20;48:37.75;;AIS Athletics Track;AUS;Outdoor;2025-01-26;Chelsea;Roberts;AUS;2006;Female;15008729
 AL;6;4×4;MJU20;3:12.79;;WA Athletics Stadium;AUS;Outdoor;2025-04-12;Queensland;U20;AUS;;Male;
+AL;6;10K;MJU20;31:41.25;;UQ Athletic Centre;AUS;Outdoor;2025-08-09;Timothy;Hogno;AUS;2006;Male;15057956
 AL;6;MEI;MJU20;3:47.48;;Armory Track&Field Center;USA;Indoor;2025-02-08;Cameron;Myers;AUS;2006;Male;14962470
 AL;6;SPE;MJU20;62.86;;The Caledonian Ground;NZL;Outdoor;2025-03-07;Antonie;Smal;NZL;;Male;15057260
 AL;6;5G;MJU20;19:43.42;;SOPAC;AUS;Outdoor;2025-03-20;Isaac;Beacroft;AUS;2007;Male;14963962
@@ -225,8 +226,8 @@ AL;1;3K0;MJU20;7:47.98;;Velódromo Luis Puig;ESP;Indoor;2025-02-07;Alex;Pintado;
 AL;1;1K0;MJU20;2:22.12;;Parc des Sports;FRA;Outdoor;2025-06-07;Alois;Abraham;FRA;2008;Male;15042726
 AL;1;SPE;WJU20;57.12;;Sports Park Mladost;CRO;Outdoor;2025-05-14;Vita;Barbić;CRO;2007;Female;14955305
 AL;1;1K0;WJU20;2:44.98;;Stadion BOSiR;POL;Outdoor;2025-08-09;Oksana;Pestka;POL;2008;Female;14985598
-AL;1;4×4;WJU20;3:35.24;;Ratinan Stadion;FIN;Outdoor;2025-08-09;Italy;U20;ITA;;Female;
-AL;1;10G;MJU20;39:24.99;;Campo Mauro Ferrari;ITA;Outdoor;2025-04-13;Giuseppe;Disabato;ITA;2006;Male;14949164
+AL;1;4×4;WJU20;3:33.56;;Ratinan Stadion;FIN;Outdoor;2025-08-10;France;U20;FRA;;Female;
+AL;1;10G;MJU20;39:10.04;;Ratinan Stadion;FIN;Outdoor;2025-08-10;Joan;Querol;ESP;2006;Male;14974152
 AL;1;4×4;XJU20;3:22.84;;Regional Sport Complex;BLR;Outdoor;2025-07-22;Russia;U20;RUS;;Mixed;
 AL;1;2KH;WJU20;6:25.30;;Schönbuchstadion;GER;Outdoor;2025-05-18;Jule;Jutta Lindner;GER;2006;Female;14981849
 AL;1;5K0;WJU20;14:39.56;;Olympic Stadium;GBR;Outdoor;2025-07-19;Innes;Fitzgerald;GBR;2006;Female;15033317
@@ -243,11 +244,11 @@ AL;1;2KH;MJU20;5:44.65;;Schönbuchstadion;GER;Outdoor;2025-05-18;Tristan;Kaufhol
 AL;1;DRE;MJU20;16.18;1.4;Regional Sport Complex;BLR;Outdoor;2025-06-06;Tsimur;Severau;BLR;2006;Male;15074517
 AL;1;1K5;WJU20;4:09.13;;Woodside Stadium;GBR;Outdoor;2025-07-12;Lyla;Belshaw;GBR;2007;Female;15034219
 AL;1;HAM;WJU20;69.14;;Ratinan Stadion;FIN;Outdoor;2025-08-08;Patricia;Kamga;SWE;2006;Female;14951569
-AL;1;4×1;WJU20;43.92;;Olympic Stadium;GBR;Outdoor;2025-07-19;Great;Britain & Ni B;GBR;;Female;
+AL;1;4×1;WJU20;43.72;;Ratinan Stadion;FIN;Outdoor;2025-08-10;Italy;U20;ITA;;Female;
 AL;1;STA;MJU20;5.45;;Ratinan Stadion;FIN;Outdoor;2025-08-09;Axel;Rogö;SWE;2007;Male;15044879
 AL;1;400;MJU20;44.56;;Regional Sport Complex;BLR;Outdoor;2025-07-21;Aleksey;Danilov;RUS;2006;Male;15043554
 AL;1;10G;WJU20;43:47.89;;Ratinan Stadion;FIN;Outdoor;2025-08-09;Sofia;Santacreu;ESP;2006;Female;14970539
-AL;1;4×4;MJU20;3:08.31;;Michael-Hoffmann-Stadion;GER;Outdoor;2025-06-29;Ireland;U20;IRL;;Male;
+AL;1;4×4;MJU20;3:05.79;;Ratinan Stadion;FIN;Outdoor;2025-08-10;Czechia;U20;CZE;;Male;
 AL;1;10K;MJU20;30:47.70;;Atlétikai Centrum;HUN;Outdoor;2025-04-26;Albert;Szirbek;HUN;2006;Male;14969926
 AL;1;10K;MJU20;30:47.70;;Atlétikai Centrum;HUN;Outdoor;2025-04-26;Albert;Szirbek;HUN;2006;Male;14969926
 AL;1;MEI;MJU20;4:00.13;;Atletická hala;CZE;Indoor;2025-02-04;Filip;Toul;CZE;2007;Male;15035511
@@ -276,7 +277,7 @@ AL;5;100;WJU20;11.4;0.9;Zhaoqing Sports Center;CHN;Outdoor;2025-04-12;Yujie;Chen
 AL;5;800;MJU20;1:45.16;;Prefectural Shizuoka Stadium;JPN;Outdoor;2025-05-03;Ko;Ochiai;JPN;2006;Male;15005773
 AL;5;800;WJU20;1:59.52;;National Stadium;JPN;Outdoor;2025-07-05;Rin;Kubo;JPN;2008;Female;15005744
 AL;5;KUG;MJU20;18.71;;Guoxin Sports Center;CHN;Outdoor;2025-06-20;Zhenyu;Zhang;CHN;2006;Male;15127363
-AL;5;WEI;MJU20;7.95;1.5;Sports Center;CHN;Outdoor;2025-04-28;Shengming;Zhang;CHN;2006;Male;15052040
+AL;5;WEI;MJU20;8.04;0.0;Kalinga Stadium;IND;Outdoor;2025-08-10;.;Shahnavaz;IND;2008;Male;15139285
 AL;5;11H;MJU20;13.18;0.2;Sports Center;CHN;Outdoor;2025-08-04;Yuanjiang;Chen;CHN;2006;Male;15034337
 AL;5;5K0;MJU20;13:25.59;;Lakeside Stadium;AUS;Outdoor;2025-03-29;Rui;Suzuki;JPN;2006;Male;15005772
 AL;5;100;MJU20;10.0;1.7;Prefectural Stadium;JPN;Outdoor;2025-07-26;Sorato;Shimizu;JPN;2009;Male;15114247
