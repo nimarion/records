@@ -20,7 +20,7 @@ AL;3;WEI;MJU20;7.66;0.3;Estadio de Atletismo - Unidad Deportiva el Salitre;COL;O
 AL;3;11H;MJU20;14.18;-1.3;Estadio de Atletismo de la Unidad Deportiva Centenario;COL;Outdoor;2025-08-03;Gerónimo;Cañizales;COL;2006;Male;15019581
 AL;3;5K0;MJU20;14:06.39;;Estadio Atlético de la;PER;Outdoor;2025-07-16;Jessiel;Alexander Paez;ECU;2006;Male;15094784
 AL;3;100;MJU20;10.28;1.3;Estadio de Atletismo de la Unidad Deportiva Centenario;COL;Outdoor;2025-08-01;Deiner;Guaitoto;COL;2006;Male;15019577
-AL;3;DIS;WJU20;53.03;;Estadio Brigido Iriarte;VEN;Outdoor;2025-04-04;Ottaynis;Mercedes Febres;VEN;2006;Female;15083385
+AL;3;DIS;WJU20;54.4;;Parque Olímpico Pista De Atletismo;PAR;Outdoor;2025-08-18;Ottaynis;Mercedes Febres;VEN;2006;Female;15083385
 AL;3;60M;MJU20;6.77;0.5;Pista Prado;URU;Outdoor;2025-02-01;Santiago;Lazar;URU;2008;Male;15081536
 AL;3;HOC;MJU20;2.13;;La Vicentina;ECU;Outdoor;2025-07-09;Deyvid;Lara;ECU;2007;Male;15100437
 AL;3;STA;WJU20;4.05;;Estadio de Atletismo - Unidad Deportiva el Salitre;COL;Outdoor;2025-04-06;Luna;Brigitte Pabon;COL;2008;Female;15111215
@@ -273,7 +273,7 @@ AL;5;60H;WJU20;8.34;;Shanxi Athletics Administrative Center;CHN;Indoor;2025-02-1
 AL;5;MEI;WJU20;4:53.28;;LSU Carl Maddox Fieldhouse;USA;Indoor;2025-01-17;Yuya;Sawada;JPN;2006;Female;14958661
 AL;5;5G;WJU20;21:31.81;;Stadio Guidobaldi;ITA;Outdoor;2025-05-10;Liping;Pang;CHN;2006;Female;15138199
 AL;5;200;MJU20;20.73;0.5;Prefectural Stadium;JPN;Outdoor;2025-06-07;Ryoutaro;Hama;JPN;2006;Male;15114762
-AL;5;100;WJU20;11.4;0.9;Zhaoqing Sports Center;CHN;Outdoor;2025-04-12;Yujie;Chen;CHN;2008;Female;15138450
+AL;5;100;WJU20;11.29;0.5;Olympic Center;CHN;Outdoor;2025-08-11;Yujie;Chen;CHN;2008;Female;15138450
 AL;5;800;MJU20;1:45.16;;Prefectural Shizuoka Stadium;JPN;Outdoor;2025-05-03;Ko;Ochiai;JPN;2006;Male;15005773
 AL;5;800;WJU20;1:59.52;;National Stadium;JPN;Outdoor;2025-07-05;Rin;Kubo;JPN;2008;Female;15005744
 AL;5;KUG;MJU20;18.71;;Guoxin Sports Center;CHN;Outdoor;2025-06-20;Zhenyu;Zhang;CHN;2006;Male;15127363
@@ -285,6 +285,7 @@ AL;5;DIS;WJU20;58.97;;Olympic Sports Center;CHN;Outdoor;2025-06-29;Chenyi;Ma;CHN
 AL;5;60M;MJU20;6.59;;Osaka Castle Hall;JPN;Indoor;2025-02-02;Naoki;Nishioka;JPN;2006;Male;15030743
 AL;5;HOC;MJU20;2.22;;Mahinda Rajapaksha Stadium;SRI;Outdoor;2025-03-09;Lesandu;Arthavidu Gammanage;SRI;2006;Male;15047284
 AL;5;STA;WJU20;4.3;;Sports Center;CHN;Outdoor;2025-06-13;Zixuan;Zhang;CHN;2006;Female;15034300
+AL;5;STA;WJU20;4.3;;Olympic Center;CHN;Outdoor;2025-08-11;Keni;Miao;CHN;2008;Female;15137240
 AL;5;10K;WJU20;32:01.91;;Lohrheidestadion;GER;Outdoor;2025-07-21;Mei;Hosomi;JPN;2007;Female;14969031
 AL;5;10H;WJU20;13.3;1.3;Prefectural Stadium;JPN;Outdoor;2025-07-29;Nana;Ishihara;JPN;2008;Female;15047782
 AL;5;WEI;WJU20;6.42;1.8;Sports Center;CHN;Outdoor;2025-06-15;Morong;Liang;CHN;2009;Female;15185261
@@ -296,7 +297,7 @@ AL;5;1K0;WJU20;2:40.23;;Konoike Athletics Stadium;JPN;Outdoor;2025-03-29;Rin;Kub
 AL;5;4×4;WJU20;3:42.85;;Nagaragawa Stadium;JPN;Outdoor;2025-07-13;Seibi;High School;JPN;;Female;
 AL;5;10G;MJU20;38:44.88;;Lemon Gas Stadium;JPN;Outdoor;2025-04-26;Sotaro;Osaka;JPN;2006;Male;15046025
 AL;5;4×4;XJU20;3:27.36;;Taizhou;CHN;Outdoor;2025-06-23;Chongqing;U20;CHN;;Mixed;
-AL;1;2KH;WJU20;6:44.99;;Prince Nayef Sports City;KSA;Outdoor;2025-04-16;Sadafbonu;Nusratilleva;UZB;2008;Female;15111359
+AL;5;2KH;WJU20;6:41.11;;Olympic Center;CHN;Outdoor;2025-08-12;Zhuoma;Dunzhu;CHN;2008;Female;15137212
 AL;5;5K0;WJU20;15:27.28;;Aoba Park Athletic Field;JPN;Outdoor;2025-07-12;Mei;Hosomi;JPN;2007;Female;14969031
 AL;5;40H;MJU20;49.84;;Prefectural Stadium;JPN;Outdoor;2025-07-27;Taijyu;Goto;JPN;2009;Male;15181238
 AL;5;40H;WJU20;57.16;;National Stadium;JPN;Outdoor;2025-07-05;Shion;Fukuoka;JPN;2007;Female;14977298
