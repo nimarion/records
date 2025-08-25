@@ -1,9 +1,8 @@
 Code;Type;Discipline;Class;Result;Wind;Venue;Venue Country;Environment;Date;Firstname;Lastname;Nation;YOB;Sex;WorldathleticsId
 AL;3;WEI;M;8.22;0.0;Piedmont Park;USA;Outdoor;2025-05-17;Emanuel;Archibald;GUY;1994;Male;14747754.0
 AL;3;300;W;36.93;;Clemson Indoor Track & Field Complex;USA;Indoor;2025-01-31;Aliyah;Abrams;GUY;1997;Female;14447688
-AL;3;11H;M;13.41;0.0;Centro de Treinamento Paralímpico Brasileiro;BRA;Outdoor;2025-08-01;Eduardo;Rodrigues;BRA;1995;Male;14546452
-AL;3;11H;M;13.41;0.0;Centro de Treinamento Paralímpico Brasileiro;BRA;Outdoor;2025-08-01;Rafael;Pereira;BRA;1997;Male;14662635
-AL;3;2KH;W;6:54.83;;Parque Olímpico Pista De Atletismo;PAR;Outdoor;2025-07-19;Sofia;Fregona;ARG;2008;Female;15189438
+AL;3;11H;M;13.34;1.8;CNDA;BRA;Outdoor;2025-08-24;Eduardo;Rodrigues;BRA;1995;Male;14546452
+AL;3;2KH;W;6:26.11;;CNDA;BRA;Outdoor;2025-08-24;Tatiane;Raquel Da Silva;BRA;1990;Female;14269289
 AL;3;10G;W;44:17.50;;WA Athletics Stadium;AUS;Outdoor;2025-04-11;Lorena;Arenas;COL;1993;Female;14418896
 AL;3;MEI;M;3:55.51;;Munster Technological University Track;IRL;Outdoor;2025-07-09;Santiago;Catrofe;URU;1999;Male;14706109
 AL;3;60H;M;7.64;;Atlas Arena;POL;Indoor;2025-02-08;Rafael;Pereira;BRA;1997;Male;14662635
@@ -57,7 +56,7 @@ AL;3;1K0;M;2:20.42;;Parc des Sports;FRA;Outdoor;2025-06-07;Leonardo;Santos;BRA;2
 AL;3;3K0;W;8:56.78;;Velódromo Luis Puig;ESP;Indoor;2025-02-07;Fedra;Aldana Luna;ARG;1995;Female;14768063
 AL;3;HOC;W;1.88;;Iowa Francis X. Cretzmeyer Trac;USA;Outdoor;2025-05-03;Maria;Isabel Arboleda;COL;2005;Female;15050829
 AL;3;DRE;W;14.31;1.2;Centro de Treinamento Paralímpico Brasileiro;BRA;Outdoor;2025-08-03;Gabriele;Santos;BRA;1995;Female;14496363
-AL;3;DRE;M;17.07;0.8;Centro de Treinamento Paralímpico Brasileiro;BRA;Outdoor;2025-08-03;Almir;Dos Santos;BRA;1993;Male;14429487.0
+AL;3;DRE;M;17.07;0.8;Centro de Treinamento Paralímpico Brasileiro;BRA;Outdoor;2025-08-03;Almir;Dos Santos;BRA;1993;Male;14429487
 AL;3;800;W;2:02.69;;National Track and Field Centre;GUY;Outdoor;2025-06-29;Aaliyah;Moore;GUY;2001;Female;14887320
 AL;3;10H;W;12.7;1.2;Ray Conn Sports Complex;USA;Outdoor;2025-05-31;Maribel;Vanessa Caicedo;ECU;1998;Female;14621562
 AL;3;10G;M;39:21.99;;Estadio Atlético de la;PER;Outdoor;2025-07-16;Ivan;Dario Oña Colcha;ECU;2006;Male;15010452
@@ -173,7 +172,7 @@ AL;4;WEI;W;6.79;1.7;CVEATC;USA;Outdoor;2025-06-29;Ese;Brume;NGR;1996;Female;1459
 AL;4;60M;M;6.48;;Virginia Beach Sports Center;USA;Indoor;2025-03-14;Kayinsola;Ajayi;NGR;2004;Male;14976296
 AL;4;400;W;50.14;;Ulinzi Sports Complex;KEN;Outdoor;2025-05-31;Mercy;Adongo Oketch;KEN;2002;Female;14894311
 AL;4;40H;W;54.25;;Centre sportif Bout-du-Monde;SUI;Outdoor;2025-06-21;Zenéy;Van Der Walt;RSA;2000;Female;14639191
-AL;4;HAM;M;75.39;;AFU Athletics Stadium;UZB;Outdoor;2025-08-16;Mostafa;Elgamel;EGY;1988;Male;14167545
+AL;4;HAM;M;75.98;;Ismailia Sports Stadium;EGY;Outdoor;2025-08-21;Mostafa;Elgamel;EGY;1988;Male;14167545
 AL;4;60H;W;7.91;;Coque Sport Center;LUX;Indoor;2025-01-19;Marione;Fourie;RSA;2002;Female;14838617
 AL;4;600;W;1:25.37;;Randal Tyson Indoor Center;USA;Indoor;2025-01-17;Sanu;Jallow;GAM;2003;Female;14880079
 AL;4;4×8;M;7:26.96;;Gowans Stadium;USA;Outdoor;2025-05-15;Iowa;Central Cc;MAR;;Male;
