@@ -1625,7 +1625,7 @@ NR;SOL;60M;M;7.07;;Moskva;RUS;Indoor;2006-03-10;Francis;Manioru;SOL;1981;Male;
 NR;SRB;60M;M;6.75;;Johnson City;USA;Indoor;2017-01-13;Milan;Ristić;SRB;1991;Male;
 NR;SRI;60M;M;6.59;;Ancona;ITA;Indoor;2021-01-24;Yupun;Abeykoon;SRI;1994;Male;
 NR;STP;60M;M;6.95;;Espinho;POR;Indoor;2005-02-05;Yazaldes;Nascimento;STP;1986;Male;
-NR;SUI;60M;M;6.3;;Karlsruhe;GER;Indoor;1986-01-31;Stefan;Burkart;SUI;1957;Male;
+NR;SUI;60M;M;6.58;;St. Gallen;SUI;Indoor;2023-02-18;Pascal;Mancini;SUI;1989;Male;
 NR;SUR;60M;M;6.65;;Chadron;USA;Indoor;2016-02-27;Jurgen;Themen;SUR;1985;Male;
 NR;SVK;60M;M;6.55;;Madrid;ESP;Indoor;2020-02-21;Ján;Volko;SVK;1996;Male;
 NR;SWE;60M;M;6.52;;Apeldoorn;NED;Indoor;2025-03-08;Henrik;Larsson;SWE;1999;Male;
@@ -6155,7 +6155,7 @@ NR;GUI;400;M;47.60;;Harare;ZIM;Outdoor;1995-09-14;Amadou;Sy Savane;GUI;1974;Male
 NR;GUM;400;M;47.59;;Monmouth;USA;Outdoor;2017-05-13;Aaron;Whitaker;GUM;;Male;
 NR;GUY;400;M;45.16;;Leonora;GUY;Outdoor;2017-07-15;Winston;George;GUY;1987;Male;
 NR;HAI;400;M;46.34;;Jacksonville;USA;Outdoor;2012-05-25;Pascal;Orelus;HAI;1991;Male;
-NR;HKG;400;M;47.28;;Taipei;TPE;Outdoor;2015-05-15;Chan;Ka Chun;HKG;1989;Male;
+NR;HKG;400;M;47.12;;Hongkong;HKG;Outdoor;2025-10-01;Chun;Ho Chan;HKG;2003;Male;
 NR;HON;400;M;47.06;;Houston;USA;Outdoor;2018-04-21;Yariel;Matute;HON;1996;Male;
 NR;HUN;400;M;44.55;;Tokyo;JPN;Outdoor;2025-09-14;Attila;Molnár;HUN;2002;Male;
 NR;INA;400;M;46.37;;Singapore;SGP;Outdoor;1993-06-14;Elieser;Wettebosi;INA;1964;Male;
@@ -8450,7 +8450,7 @@ NR;GUY;10H;W;13.27;1.7;Barranquilla;COL;Outdoor;2018-07-30;Jenea;Mccammon;GUY;19
 NR;HAI;10H;W;12.74;1.7;Athína;GRE;Outdoor;2004-08-23;Nadine;Faustin-Parker;HAI;1976;Female;
 NR;HKG;10H;W;13.14;;Walnut;USA;Outdoor;1994-04-17;Chan;Sau-Ying;HKG;1970;Female;
 NR;HON;10H;W;13.83;-0.6;Toluca;MEX;Outdoor;2008-07-21;Jeimy;J. Bernárdez;HON;1986;Female;
-NR;HUN;10H;W;12.69;-0.1;München;GER;Outdoor;2022-08-21;Luca;Kozák;HUN;1996;Female;
+NR;HUN;10H;W;12.69;0.3;München;GER;Outdoor;2022-08-21;Luca;Kozák;HUN;1996;Female;
 NR;INA;10H;W;13.11;0.0;Gumi;KOR;Outdoor;2025-05-28;Dina;Aulia;INA;2003;Female;
 NR;IND;10H;W;12.78;1.0;Chengdu;CHN;Outdoor;2023-08-04;Jyothi;Yarraji;IND;1999;Female;
 NR;IRI;10H;W;13.64;0.2;Tehran;IRI;Outdoor;2023-08-18;Elnaz;Kompani;IRI;1989;Female;
