@@ -4,6 +4,9 @@ import argparse
 import io
 import re
 import os
+import urllib3
+
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 def parse_venue(venue):
     venue = venue.strip()
@@ -34,7 +37,8 @@ def parse_country_and_city(country_and_city):
 
 def getRecords(category):
     url = f'https://worldathletics.org/records/by-category/{category}'
-    response = requests.get(url)
+    print(f"Fetching records from {url}")
+    response = requests.get(url, verify=False)
     tables = pd.read_html(io.StringIO(str(response.text)))
     if(len(tables) == 0):
         return None

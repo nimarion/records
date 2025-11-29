@@ -62,7 +62,7 @@ if __name__ == '__main__':
 
         # Map area to taf area code
         if arearecordFile or arealeadFile:
-            df["Country"] = df["Nation"]
+            df["Country"] = df["Nat"]
             df = pd.merge(df, areaMapping, on="Country", how="left")
             df = df.drop(columns=["area", "Country"], errors="ignore")
             df = df.rename(columns={"AreaId": "Type"})
@@ -71,7 +71,7 @@ if __name__ == '__main__':
         # Bei nationalen Rekorden und Bestleistungen wird die Nation als Typ verwendet 
         # damit die Rekorde nur für Athleten aus dem eigenen Land angezeigt werden
         if nationalleadFile or nationalrecordFile:
-            df["Type"] = df["Nation"]
+            df["Type"] = df["Nat"]
 
         df = df.fillna("")
         df = df.replace("nan", "")
@@ -105,7 +105,7 @@ if __name__ == '__main__':
         outputDf['Lastname'] = outputDf['Lastname'].str.lower().str.title()
     
     # Spaltenreihenfolge anpassen und unnötige Spalten entfernen
-    desired_order = ['Code', 'Type', 'Discipline', 'Class', 'Result', 'Wind', 'Venue', 'Venue Country', 'Environment', 'Date', 'Firstname', 'Lastname', 'Nation', 'YOB', 'Sex', 'WorldathleticsId']
+    desired_order = ['Code', 'Type', 'Discipline', 'Class', 'Result', 'Wind', 'Venue', 'Venue Country', 'Environment', 'Date', 'Firstname', 'Lastname', 'Nat', 'YOB', 'Sex', 'WorldathleticsId']
     columns_to_drop = set(df.columns) - set(desired_order)
     outputDf = outputDf.drop(columns=columns_to_drop, errors="ignore")
 
@@ -114,5 +114,8 @@ if __name__ == '__main__':
     output_dir = os.path.dirname(args.output)
     if not os.path.exists(output_dir):
         os.makedirs(output_dir, exist_ok=True)
+
+    
+    outputDf = outputDf.rename({"Nat": "Nation"})
 
     outputDf.to_csv(args.output, index=False, sep=';')

@@ -7,6 +7,9 @@ import os
 import re
 import sys
 import urllib.parse
+import urllib3
+
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 def parse_venue(venue):
     venue = venue.strip()
