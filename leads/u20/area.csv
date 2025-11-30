@@ -1,4 +1,4 @@
-Code;Type;Discipline;Class;Result;Wind;Venue;Venue Country;Environment;Date;Firstname;Lastname;Nation;YOB;Sex;WorldathleticsId
+Code;Type;Discipline;Class;Result;Wind;Venue;Venue Country;Environment;Date;Firstname;Lastname;Nat;YOB;Sex;WorldathleticsId
 AL;5;HAM;WJU20;77.24;;Sports Center;CHN;Outdoor;2025-08-02;Jiale;Zhang;CHN;2006;Female;15034977
 AL;5;40H;MJU20;49.74;;Showa Denko Stadium;JPN;Outdoor;2025-08-23;Syunta;Irie;JPN;2007;Male;15109016
 AL;5;10K;WJU20;32:01.91;;Lohrheidestadion;GER;Outdoor;2025-07-21;Mei;Hosomi;JPN;2007;Female;14969031
@@ -46,7 +46,7 @@ AL;5;40H;WJU20;57.16;;National Stadium;JPN;Outdoor;2025-07-05;Shion;Fukuoka;JPN;
 AL;5;10G;WJU20;45:52.68;;Athletic Stadium;JPN;Outdoor;2025-10-04;Suzu;Okuno;JPN;2007;Female;15026371
 AL;5;HOC;WJU20;1.89;;Gumi Civic Stadium;KOR;Outdoor;2025-05-30;POOJA;;IND;2007;Female;15053572
 AL;5;100;MJU20;10.0;1.7;Prefectural Stadium;JPN;Outdoor;2025-07-26;Sorato;Shimizu;JPN;2009;Male;15114247
-AL;5;4×4;XJU20;3:27.36;;Taizhou;CHN;Outdoor;2025-06-23;Chongqing;U20;CHN;;Mixed;
+AL;5;4×4;XJU20;3:26.62;;Camille Chamoun Sports City Stadium;LBN;Outdoor;2025-10-03;United;Arab Emirates U20;UAE;;Mixed;
 AL;5;2KH;WJU20;6:33.11;;Athletic Stadium;JPN;Outdoor;2025-10-03;Rei;Taya;JPN;2009;Female;15030210
 AL;5;10G;MJU20;38:44.88;;Lemon Gas Stadium;JPN;Outdoor;2025-04-26;Sotaro;Osaka;JPN;2006;Male;15046025
 AL;5;1K0;MJU20;2:25.11;;Kalinga Stadium;IND;Outdoor;2025-10-14;.;Prince;IND;2007;Male;15190355
@@ -60,7 +60,7 @@ AL;5;WEI;WJU20;6.42;1.8;Sports Center;CHN;Outdoor;2025-06-15;Morong;Liang;CHN;20
 AL;1;WEI;WJU20;6.42;1.4;AFU Athletics Stadium;UZB;Outdoor;2025-06-21;Sharifa;Davronova;UZB;2006;Female;14956284
 AL;5;3G;MJU20;11:50.85;;Prefectural Stadium;JPN;Outdoor;2025-10-17;Daiki;Kondo;JPN;2008;Male;15134834
 AL;5;SPE;MJU20;76.5;;Kalinga Stadium;IND;Outdoor;2025-10-14;.;Aditya;IND;2006;Male;15117068
-AL;5;KUG;WJU20;17.83;;Prefectural Shizuoka Stadium;JPN;Outdoor;2025-05-03;Ching-Yuan;Chiang;TPE;2006;Female;15020007
+AL;5;KUG;WJU20;18.08;;Yunlin;TPE;Outdoor;2025-10-22;Ching-Yuan;Chiang;TPE;2006;Female;15020007
 AL;5;600;WJU20;1:31.83;;Kalinga Stadium;IND;Outdoor;2025-10-14;Sehnoor;Bawa;IND;2010;Female;15263006
 AL;5;200;MJU20;20.5;1.0;Wan Chai Sports Ground;HKG;Outdoor;2025-09-28;Kota;Uematsu;JPN;2006;Male;14963512
 AL;5;SPE;WJU20;65.89;;Sports Center;CHN;Outdoor;2025-08-03;Ziyi;Yan;CHN;2008;Female;15144603
@@ -127,8 +127,7 @@ AL;1;KUG;MJU20;19.54;;GPS Stadium;CYP;Outdoor;2025-03-15;Jarno;Van Daalen;NED;20
 AL;1;4×1;WJU20;43.72;;Ratinan Stadion;FIN;Outdoor;2025-08-10;Italy;U20;ITA;;Female;
 AL;1;STA;WJU20;4.52;;Athletic track of National Arena Philip;MKD;Outdoor;2025-07-21;Allika;Inkeri Moser;EST;2008;Female;15059664
 AL;1;60H;WJU20;8.06;;Atletska dvorana;SRB;Indoor;2025-02-15;Mia;Wild;CRO;2006;Female;14869278
-AL;1;WEI;WJU20;6.57;1.6;Uppsala Friidrottsarena;SWE;Outdoor;2025-07-26;Ayla;Hallberg Hossain;SWE;2006;Female;14910025
-AL;1;WEI;WJU20;6.57;;Athletics Arena;RUS;Indoor;2025-02-15;Anastasiya;Kobylyanskikh;RUS;2006;Female;14968918
+AL;1;WEI;WJU20;6.6;0.8;Kalininets Stadium;RUS;Outdoor;2025-06-27;Anastasiya;Kobylyanskikh;RUS;2006;Female;14968918
 AL;1;3G;MJU20;11:16.62;;VGAFK Arena;RUS;Indoor;2025-02-21;Aleksey;Lemonov;RUS;2006;Male;15034670
 AL;1;SPE;MJU20;77.6;;Polideportivo Municipal;ESP;Outdoor;2025-07-26;Rafael;Mahiques;ESP;2006;Male;15082755
 AL;1;KUG;WJU20;16.36;;Panthessaliko Stadium;GRE;Outdoor;2025-08-03;Maria;Rafailidou;GRE;2007;Female;14978785
@@ -143,7 +142,7 @@ AL;4;40H;MJU20;49.06;;National Stadium;BOT;Outdoor;2025-04-12;Njabulo;Mbatha;RSA
 AL;4;10K;WJU20;30:28.82;;Bislett Stadion;NOR;Outdoor;2025-06-11;Yenawa;Nbret;ETH;2007;Female;15090391
 AL;4;200;WJU20;22.54;0.4;University of North Florda Jax Track at Hodges Stadium;USA;Outdoor;2025-05-31;Kelly;Ufodiama;NGR;2006;Female;15093814
 AL;4;DIS;MJU20;52.66;;McArthur Stadium;RSA;Outdoor;2025-04-25;Michael;Wesley Badenhorst;RSA;2006;Male;14963264
-AL;4;2KH;MJU20;5:43.98;;Franklin Field;USA;Outdoor;2025-06-21;Soheib;Dissa;ALG;;Male;15078255
+AL;4;2KH;MJU20;5:43.98;;Franklin Field;USA;Outdoor;2025-06-21;Soheib;Dissa;ALG;2007;Male;15078255
 AL;4;5G;MJU20;19:17.50;;Stadion Radés;TUN;Outdoor;2025-07-05;Rayen;Cherni;TUN;2006;Male;15078893
 AL;4;60M;MJU20;6.51;;"R.A. ""Murray"" Fasken Indoor Track Stadium";USA;Indoor;2025-02-28;Israel;Okon;NGR;2006;Male;14976288
 AL;4;800;WJU20;2:00.32;;Moselstadion;GER;Outdoor;2025-09-02;Claire;Uwitonze;RWA;2006;Female;15022587
@@ -167,7 +166,7 @@ AL;4;10H;WJU20;13.15;0.3;McArthur Stadium;RSA;Outdoor;2025-09-24;Tumi;Ramokgopa;
 AL;4;MEI;MJU20;3:54.78;;Randal Tyson Indoor Center;USA;Indoor;2025-02-01;Brian;Muange Musau;KEN;2006;Male;15090723
 AL;4;600;MJU20;1:18.60;;Stade D'athlétisme;TUN;Outdoor;2025-02-16;Mohamed;Rayen Chiha;TUN;2006;Male;15105681
 AL;4;300;WJU20;37.88;;Prefectural Stadium;JPN;Outdoor;2025-10-19;Haru;Balogun;NGR;2009;Female;15053589
-AL;4;3G;WJU20;15:02.71;;Ismailia Sports Stadium;EGY;Outdoor;2025-04-17;Saja;Fahd Al-Nahas;EGY;;Female;15230421
+AL;4;3G;WJU20;14:55.40;;Ismailia Sports Stadium;EGY;Outdoor;2025-09-11;Saja;Fahd Al-Nahas;EGY;;Female;15230421
 AL;4;3K0;WJU20;8:25.37;;Arena Stade Couvert;FRA;Indoor;2025-02-13;Birke;Haylom;ETH;2006;Female;15009582
 AL;4;5K0;MJU20;12:45.93;;Bislett Stadion;NOR;Outdoor;2025-06-12;Biniam;Mehary;ETH;2006;Male;15118094
 AL;4;4×4;MJU20;3:16.15;;National Stadium;BOT;Outdoor;2025-05-18;JAC;U20;BOT;;Male;
@@ -194,8 +193,8 @@ AL;4;KUG;MJU20;18.03;;McArthur Stadium;RSA;Outdoor;2025-04-16;Hencu;Lamberts;RSA
 AL;4;4×1;WJU20;48.07;;Yabatech Sport Complex;NGR;Outdoor;2025-04-12;MTN;Team U20;NGR;;Female;
 AL;4;STA;WJU20;4.1;;McArthur Stadium;RSA;Outdoor;2025-04-25;Ansume;De Beer;RSA;2007;Female;14973905
 AL;4;60H;WJU20;8.76;0.8;Complexe Olympique Mohamed Boudiaf;ALG;Outdoor;2025-02-21;Malak;Belhadi;ALG;2006;Female;15069212
-AL;4;WEI;WJU20;6.67;1.2;UTA Maverick Stadium;USA;Outdoor;2025-05-16;Prestina;Oluchi Ochonogor;NGR;2006;Female;14970513.0
-AL;4;3G;MJU20;14:15.92;;Ismailia Sports Stadium;EGY;Outdoor;2025-04-17;Youssef;Adel Magdy Abdelfattah;EGY;;Male;15230479
+AL;4;WEI;WJU20;6.67;1.2;UTA Maverick Stadium;USA;Outdoor;2025-05-16;Prestina;Oluchi Ochonogor;NGR;2006;Female;14970513
+AL;4;3G;MJU20;14:02.36;;Ismailia Sports Stadium;EGY;Outdoor;2025-09-11;Marwan;Ahmed Ali Mohamed Salama;EGY;;Male;15230480
 AL;4;SPE;MJU20;78.1;;McArthur Stadium;RSA;Outdoor;2025-02-25;Ewald;Jansen;RSA;2006;Male;14976498
 AL;4;KUG;WJU20;15.92;;Pilditch Stadium;RSA;Outdoor;2025-02-15;Alicia;Khunou;RSA;2006;Female;14966734
 AL;4;2K0;WJU20;6:33.28;;Fes;MAR;Outdoor;2025-06-15;Fatimaezzahra;Baddi;MAR;;Female;15162454
@@ -215,7 +214,7 @@ AL;2;4×4;WJU20;3:30.42;;Franklin Field;USA;Outdoor;2025-04-26;Hydel;Group Of Sc
 AL;2;1K0;WJU20;2:44.84;;Boston Univ. Track & Tennis Center;USA;Indoor;2025-02-15;Zariel;Macchia;USA;2006;Female;15027518
 AL;2;STA;MJU20;5.56;;Randal Tyson Indoor Center;USA;Indoor;2025-02-14;Dyson;Wicker;USA;2006;Male;15067921
 AL;2;300;MJU20;32.64;;Armory Track&Field Center;USA;Indoor;2025-02-08;Jayden;Mims;USA;;Male;14993737
-AL;2;HAM;MJU20;65.13;;Jack Rose Track;USA;Outdoor;2025-04-18;Charles;Lafore;USA;;Male;15008912
+AL;2;HAM;MJU20;67.93;;12TH Rock Throws Facility;USA;Outdoor;2025-11-08;Gannon;Traymore;USA;;Male;15165782
 AL;2;WEI;MJU20;8.34;0.2;Pista Rafael Fortun Chacon;CUB;Outdoor;2025-06-29;Jorge;A. Hodelín;CUB;2007;Male;15111238
 AL;2;HOC;MJU20;2.24;;Hayward Field;USA;Outdoor;2025-06-22;Etoro;Bassey;USA;;Male;15219426
 AL;2;10K;MJU20;30:12.50;;MIT Sherie and Don Morrison Track;USA;Outdoor;2025-04-18;Ryan;Smith;USA;;Male;15225397
@@ -285,6 +284,7 @@ AL;6;WEI;MJU20;7.78;0.6;WA Athletics Stadium;AUS;Outdoor;2025-04-13;Mason;Mcgrod
 AL;6;HOC;MJU20;2.1;;AIS Athletics Track;AUS;Outdoor;2025-01-26;Cadel;Holmes;AUS;;Male;15115880
 AL;6;HOC;MJU20;2.1;;WA Athletics Stadium;AUS;Outdoor;2025-03-01;Mitchell;Hatfield;AUS;2006;Male;14964079
 AL;6;HOC;MJU20;2.1;;WA Athletics Stadium;AUS;Outdoor;2025-03-08;Jonathan;Waddingham;AUS;2007;Male;15017043
+AL;6;HOC;MJU20;2.1;;Blacktown Athletics Track;AUS;Outdoor;2025-11-15;Mackay;Jones;AUS;;Male;15123546
 AL;6;10K;MJU20;31:41.25;;UQ Athletic Centre;AUS;Outdoor;2025-08-09;Timothy;Hogno;AUS;2006;Male;15057956
 AL;6;5G;WJU20;22:42.45;;Lakeside Stadium;AUS;Outdoor;2025-10-26;Ela;Uzun;AUS;2011;Female;14988745
 AL;6;100;WJU20;11.14;1.7;WA Athletics Stadium;AUS;Outdoor;2025-04-08;Leah;O'Brien;AUS;2008;Female;14921737
@@ -322,11 +322,10 @@ AL;6;MEI;WJU20;4:43.98;;South Carolina Indoor T&F Complex;USA;Indoor;2025-02-22;
 AL;6;1K5;WJU20;4:18.53;;UQ Athletic Centre;AUS;Outdoor;2025-10-30;Emma;Fryga;AUS;2009;Female;15048467
 AL;6;KUG;MJU20;16.13;;Mt Smart Stadium;NZL;Outdoor;2025-03-22;Reid;Davidson;NZL;2006;Male;15009330
 AL;6;4×1;WJU20;44.7;;WA Athletics Stadium;AUS;Outdoor;2025-04-06;Queensland;U18;AUS;;Female;
-AL;6;STA;WJU20;4.1;;Rawlinson Track – Melbourne Uni;AUS;Outdoor;2025-03-27;Jamison;Harding;AUS;2009;Female;15051314
-AL;6;STA;WJU20;4.1;;WA Athletics Stadium;AUS;Outdoor;2025-10-31;Daisy;Brayshaw;AUS;2008;Female;15004361
+AL;6;STA;WJU20;4.2;;WA Athletics Stadium;AUS;Outdoor;2025-11-21;Daisy;Brayshaw;AUS;2008;Female;15004361
 AL;6;60H;WJU20;8.12;0.7;SOPAC;AUS;Outdoor;2025-02-01;Delta;Amidzovski;AUS;2006;Female;14815546
 AL;6;WEI;WJU20;6.57;0.8;Lohrheidestadion;GER;Outdoor;2025-07-21;Delta;Amidzovski;AUS;2006;Female;14815546
-AL;6;3G;MJU20;11:42.69;;WA Athletics Stadium;AUS;Outdoor;2025-10-17;John;Ronan;AUS;2007;Male;14964143
+AL;6;3G;MJU20;11:33.42;;WA Athletics Stadium;AUS;Outdoor;2025-11-21;John;Ronan;AUS;2007;Male;14964143
 AL;6;SPE;MJU20;62.86;;The Caledonian Ground;NZL;Outdoor;2025-03-07;Antonie;Smal;NZL;;Male;15057260
 AL;6;KUG;WJU20;15.34;;WA Athletics Stadium;AUS;Outdoor;2025-04-12;Xylavene;Beale;AUS;2006;Female;14929476
 AL;6;2K0;WJU20;6:23.38;;The Crest Athletics Centre;AUS;Outdoor;2025-10-16;Maia;Abell;AUS;2008;Female;15073587
