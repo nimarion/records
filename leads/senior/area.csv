@@ -1,4 +1,4 @@
-Code;Type;Discipline;Class;Result;Wind;Venue;Venue Country;Environment;Date;Firstname;Lastname;Nat;YOB;Sex;WorldathleticsId
+Code;Type;Discipline;Class;Result;Wind;Venue;Venue Country;Environment;Date;Firstname;Lastname;Nation;YOB;Sex;WorldathleticsId
 AL;5;HOC;W;1.92;;Městská sportovní hala;CZE;Indoor;2025-02-08;Nagisa;Takahashi;JPN;2000;Female;14803138
 AL;5;200;W;22.45;0.0;Estadio Luguelín Santos;DOM;Outdoor;2025-03-29;Salwa;Eid Naser;BRN;1998;Female;14643442
 AL;5;4×1;M;37.84;;Tianhe Sports Center;CHN;Outdoor;2025-05-10;Japan;;JPN;;Male;
@@ -21,7 +21,7 @@ AL;5;4×2;M;1:24.04;;Keio Univ. Hiyoshi Athletics Field;JPN;Outdoor;2025-08-11;W
 AL;5;3G;W;13:08.62;;Kimiidera Park Athletic Field;JPN;Outdoor;2025-09-20;Hikari;Ousaka;JPN;2009;Female;15251958
 AL;5;SPE;W;65.89;;Sports Center;CHN;Outdoor;2025-08-03;Ziyi;Yan;CHN;2008;Female;15144603
 AL;5;DIS;M;67.29;;Jahnstadion;GER;Outdoor;2025-06-11;Abuduaini;Tuergong;CHN;1997;Male;14638595
-AL;5;5G;M;18:39.41;;Komazawa Olympic Park Athletic Stadium;JPN;Outdoor;2025-04-26;Ryo;Hamanishi;JPN;2000;Male;14781689
+AL;5;5G;M;18:24.97;;Athletics Stadium;JPN;Outdoor;2025-11-30;Masatora;Kawano;JPN;1998;Male;14679687
 AL;5;MEI;M;3:54.72;;Boston Univ. Track & Tennis Center;USA;Indoor;2025-02-14;Kieran;Tuntivate;THA;1997;Male;14647807
 AL;5;4×4;X;3:12.08;;National Stadium;JPN;Outdoor;2025-09-13;Japan;;JPN;;Mixed;
 AL;5;40H;W;54.04;;National Stadium;JPN;Outdoor;2025-09-17;Kemi;Adekoya;BRN;1993;Female;14419510
