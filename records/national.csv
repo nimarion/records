@@ -6377,7 +6377,7 @@ NR;MEX;400;M;45.93;;Pireás;GRE;Indoor;2000-02-09;Alejandro;Cárdenas;MEX;1974;M
 NR;MKD;400;M;47.18;;Budapest;HUN;Indoor;2022-02-20;Jovan;Stojoski;MKD;1997;Male;
 NR;MLI;400;M;47.54;;Liévin;FRA;Indoor;2019-01-26;Fode;Sissoko;MLI;1996;Male;
 NR;MLT;400;M;47.55;;Istanbul;TUR;Indoor;2024-02-10;Graham;Pellegrini;MLT;2004;Male;
-NR;MNE;400;M;49.74;;Beograd;SRB;Indoor;2018-02-21;Srdjan;Marić;MNE;1997;Male;
+NR;MNE;400;M;49.65;;Beograd;SRB;Indoor;2025-12-27;Mihailo;Roćenović;MNE;2007;Male;
 NR;MON;400;M;49.62;;Lyon;FRA;Indoor;2015-01-31;Brice;Etès;MON;1984;Male;
 NR;MRI;400;M;46.28;;Aubière;FRA;Indoor;2006-02-26;Éric;Milazar;MRI;1975;Male;
 NR;MTN;400;M;50.34;;Orléans;FRA;Indoor;2002-01-12;Mandiaye;Seck;MTN;1972;Male;
@@ -6609,7 +6609,7 @@ NR;SVK;MEI;M;4:03.2;;Berlin;FRG;Indoor;1973-02-03;Ivan;Kovác;SVK;1948;Male;
 NR;SWE;MEI;M;3:54.78;;Ostrava;CZE;Indoor;2025-02-04;Samuel;Pihlström;SWE;2001;Male;
 NR;THA;MEI;M;3:57.36;;Boston;USA;Indoor;2020-02-14;Kieran;Tuntivate;THA;1997;Male;
 NR;TTO;MEI;M;4:04.35;;Indianapolis;USA;Indoor;1999-02-06;Sheldon;Monderoy;TTO;1972;Male;
-NR;TUR;MEI;M;4:04.24;;Istanbul;TUR;Indoor;2024-02-24;Salih;Teksöz;TUR;1994;Male;
+NR;TUR;MEI;M;4:00.18;;Istanbul;TUR;Indoor;2025-12-28;Mevlüt;Aras;TUR;2004;Male;
 NR;UGA;MEI;M;3:57.41;;Fairfax;USA;Indoor;1997-02-22;Julius;Achon;UGA;1976;Male;
 NR;USA;MEI;M;3:46.63;;New York;USA;Indoor;2025-02-08;Yared;Nuguse;USA;1999;Male;
 NR;ZIM;MEI;M;3:57.82;;Fairfax;USA;Indoor;1997-02-22;Passmore;Furusa;ZIM;1970;Male;
@@ -8444,7 +8444,7 @@ NR;GUI;10H;W;12.96;1.8;Sacramento;USA;Outdoor;2007-06-08;Fatmata;Fofanah;GUI;198
 NR;GUM;10H;W;15.65;;Manenggon Hills;GUM;Outdoor;2012-05-18;Stefani;Loisel;GUM;;Female;
 NR;GUY;10H;W;13.27;1.7;Barranquilla;COL;Outdoor;2018-07-30;Jenea;Mccammon;GUY;1991;Female;
 NR;HAI;10H;W;12.74;1.7;Athína;GRE;Outdoor;2004-08-23;Nadine;Faustin-Parker;HAI;1976;Female;
-NR;HKG;10H;W;13.14;;Walnut;USA;Outdoor;1994-04-17;Chan;Sau-Ying;HKG;1970;Female;
+NR;HKG;10H;W;13.14;0.0;Walnut, Ca;USA;Outdoor;1994-04-17;Chan;Sau-Ying;HKG;1970;Female;
 NR;HON;10H;W;13.83;-0.6;Toluca;MEX;Outdoor;2008-07-21;Jeimy;J. Bernárdez;HON;1986;Female;
 NR;HUN;10H;W;12.69;0.3;München;GER;Outdoor;2022-08-21;Luca;Kozák;HUN;1996;Female;
 NR;INA;10H;W;12.72;;Bangkok;THA;Outdoor;2025-12-12;Dina;Aulia;INA;2003;Female;
