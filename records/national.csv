@@ -8443,7 +8443,7 @@ NR;GUY;10H;W;13.27;1.7;Barranquilla;COL;Outdoor;2018-07-30;Jenea;Mccammon;GUY;19
 NR;HAI;10H;W;12.74;1.7;Athína;GRE;Outdoor;2004-08-23;Nadine;Faustin-Parker;HAI;1976;Female;
 NR;HKG;10H;W;13.14;;Walnut;USA;Outdoor;1994-04-17;Chan;Sau-Ying;HKG;1970;Female;
 NR;HON;10H;W;13.83;-0.6;Toluca;MEX;Outdoor;2008-07-21;Jeimy;J. Bernárdez;HON;1986;Female;
-NR;HUN;10H;W;12.69;0.3;München;GER;Outdoor;2022-08-21;Luca;Kozák;HUN;1996;Female;
+NR;HUN;10H;W;12.69;-0.1;München;GER;Outdoor;2022-08-21;Luca;Kozák;HUN;1996;Female;
 NR;INA;10H;W;12.72;;Bangkok;THA;Outdoor;2025-12-12;Dina;Aulia;INA;2003;Female;
 NR;IND;10H;W;12.78;1.0;Chengdu;CHN;Outdoor;2023-08-04;Jyothi;Yarraji;IND;1999;Female;
 NR;IRI;10H;W;13.64;0.2;Tehran;IRI;Outdoor;2023-08-18;Elnaz;Kompani;IRI;1989;Female;
@@ -11550,7 +11550,7 @@ NR;NIU;HOC;W;1.49;;Sydney;AUS;Outdoor;2005-05-08;Jade;Roughan;NIU;1988;Female;
 NR;NMI;HOC;W;1.38;;Pohnpei;FSM;Outdoor;2014-07-23;Rachel;Abrams;NMI;1995;Female;
 NR;NOR;HOC;W;2.01;;Zürich;SUI;Outdoor;1997-08-13;Hanne;Haugland;NOR;1967;Female;
 NR;NRU;HOC;W;1.26;;Yaren;NRU;Outdoor;2007-03-04;Arrora;De Paune;NRU;;Female;
-NR;NZL;HOC;W;1.92;;Dunedin;NZL;Outdoor;1991-01-26;Tania;Dixon;NZL;1970;Female;
+NR;NZL;HOC;W;1.92;;Auckland;NZL;Outdoor;1991-01-26;Tania;Dixon;NZL;1970;Female;
 NR;OMA;HOC;W;1.71;;Muscat;OMA;Outdoor;2025-04-11;Aliya;Faiq Fua'Ad Al Mughairi;OMA;2003;Female;
 NR;PAK;HOC;W;1.69;;Kathmandu;NEP;Outdoor;1999-09-27;Rehana;Kausar;PAK;;Female;
 NR;PAN;HOC;W;1.84;;Managua;NCA;Outdoor;2012-06-16;Kashani;Ríos Miller;PAN;1991;Female;
@@ -12720,7 +12720,7 @@ NR;LBR;400;W;52.99;;Gainesville;USA;Indoor;2006-02-26;Kou;Luogon;LBR;1984;Female
 NR;LCA;400;W;52.97;;Clemson;USA;Indoor;2025-02-14;Julien;Alfred;LCA;2001;Female;
 NR;LIE;400;W;59.19;;St. Gallen;SUI;Indoor;2025-02-22;Nadine;Stüber;LIE;2005;Female;
 NR;LTU;400;W;51.63;;Madrid;ESP;Indoor;2022-03-02;Modesta;Morauskaitė;LTU;1995;Female;
-NR;LUX;400;W;54.00;;Lubbock;USA;Indoor;2025-01-17;Fanny;Arendt;LUX;2002;Female;
+NR;LUX;400;W;53.08;;Luxembourg;LUX;Indoor;2026-01-10;Fanny;Arendt;LUX;2002;Female;
 NR;MAC;400;W;58.85;;Macau;MAC;Indoor;2007-10-30;Lam;Ka Im;MAC;1992;Female;
 NR;MAS;400;W;52.27;;Virginia Beach;USA;Indoor;2023-03-11;Sheeren;Samson Vallabouy;MAS;1998;Female;
 NR;MDA;400;W;53.72;;Moskva;URS;Indoor;1990-02-26;Larisa;Glavenko;MDA;1963;Female;
