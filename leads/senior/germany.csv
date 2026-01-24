@@ -1,70 +1,46 @@
 Code;Type;Discipline;Class;Result;Wind;Venue;Venue Country;Environment;Date;Firstname;Lastname;Nation;YOB;Sex;WorldathleticsId
-NL;GER;HOC;W;2.0;;Marktplatz;GER;Outdoor;2025-08-09;Christina;Honsel;GER;1997;Female;14497298
-NL;GER;200;W;22.53;0.8;Estadio Vallehermoso;ESP;Outdoor;2025-06-29;Sophia;Junk;GER;1999;Female;14593203
-NL;GER;4×1;M;38.12;;National Stadium;JPN;Outdoor;2025-09-20;Germany;;GER;;Male;
-NL;GER;DIS;W;68.1;;Helmut-Schön-Sportpark;GER;Outdoor;2025-05-30;Shanice;Craft;GER;1993;Female;14361931
-NL;GER;KUG;W;20.27;;Helmut-Körnig-Halle;GER;Indoor;2025-02-21;Yemisi;Ogunleye;GER;1998;Female;14565871
-NL;GER;WEI;W;7.07;;Europahalle;GER;Indoor;2025-02-07;Malaika;Mihambo;GER;1994;Female;14377384
-NL;GER;3K0;W;8:40.96;;The Track at New Balance;USA;Indoor;2025-02-02;Lea;Meyer;GER;1997;Female;14509240
-NL;GER;10K;W;31:40.79;;Jahnkampfbahn;GER;Outdoor;2025-05-03;Elena;Burkard;GER;1992;Female;14420240
-NL;GER;300;M;33.51;;Stadion Luftschiffhafen;GER;Outdoor;2025-05-11;Tyrel;Prenz;GER;2003;Male;14867798
-NL;GER;1K0;W;2:38.77;;Stadion BOSiR;POL;Outdoor;2025-08-09;Tanja;Spill;GER;1995;Female;14429758
-NL;GER;600;W;1:29.92;;Schönbuchstadion;GER;Outdoor;2025-05-18;Lucia;Sturm;GER;2002;Female;14807941
-NL;GER;SPE;M;91.51;;Letzigrund;SUI;Outdoor;2025-08-28;Julian;Weber;GER;1994;Male;14420076
-NL;GER;4×4;W;3:25.33;;National Stadium;JPN;Outdoor;2025-09-20;Germany;;GER;;Female;
-NL;GER;4×4;M;3:02.83;;Fana Stadion;NOR;Outdoor;2025-07-20;Germany;U23;GER;;Male;
-NL;GER;1K0;M;2:22.08;;Schönbuchstadion;GER;Outdoor;2025-05-18;Jens;Mergenthaler;GER;1997;Male;14700510
-NL;GER;10H;W;12.82;1.3;Leichtathletikarena;AUT;Outdoor;2025-07-23;Ricarda;Lobe;GER;1994;Female;14360690
-NL;GER;WEI;M;8.07;-0.3;Nemzeti Atlétikai Központ;HUN;Outdoor;2025-08-12;Simon;Batz;GER;2002;Male;14845074
-NL;GER;3G;M;11:57.40;;Leichtathletikhalle im Sportforum;GER;Indoor;2025-02-01;Nick;Joel Richardt;GER;2006;Male;14981348
-NL;GER;4×2;M;1:25.63;;Werner-von-Linde-Halle;GER;Indoor;2025-01-25;LG;Stadtwerke München;GER;;Male;
-NL;GER;3G;W;13:18.32;;Leichtathletikhalle Luftschiffhafen;GER;Indoor;2025-01-19;Kylie;Garreis;GER;2005;Female;14984079
-NL;GER;SPE;W;61.02;;Werferzentrum Brandberge;GER;Outdoor;2025-05-24;Julia;Ulbricht;GER;2000;Female;14653702
-NL;GER;4×2;W;1:35.96;;Helmut-Körnig-Halle;GER;Indoor;2025-02-23;LG;Stadtwerke München;GER;;Female;
-NL;GER;DIS;M;71.01;;Millican Field at Throw Town;USA;Outdoor;2025-04-13;Clemens;Prüfer;GER;1997;Male;14525519
-NL;GER;5G;M;20:21.99;;Helmut-Körnig-Halle;GER;Indoor;2025-02-15;Nick;Joel Richardt;GER;2006;Male;14981348
-NL;GER;MEI;M;3:48.83;;Olympiastadion;GER;Outdoor;2025-07-27;Robert;Farken;GER;1997;Male;14597052
-NL;GER;4×4;X;3:13.21;;Estadio Vallehermoso;ESP;Outdoor;2025-06-29;Germany;;GER;;Mixed;
-NL;GER;40H;W;54.29;;Olympiastadion;GER;Outdoor;2025-07-27;Eileen;Demes;GER;1997;Female;14506023
-NL;GER;11H;M;13.46;0.5;Heinz-Steyer-Stadion;GER;Outdoor;2025-08-02;Gregory;Minoue;GER;2002;Male;14858133
-NL;GER;11H;M;13.46;-0.1;Putbosstadion;BEL;Outdoor;2025-08-09;Manuel;Mordi;GER;2003;Male;14930161
-NL;GER;300;W;37.49;;Schönbuchstadion;GER;Outdoor;2025-05-18;Elisa;Lechleitner;GER;1999;Female;14631132
-NL;GER;1K5;M;3:30.80;;Stadio Olimpico;ITA;Outdoor;2025-06-06;Robert;Farken;GER;1997;Male;14597052
-NL;GER;50M;M;5.73;;Atletická hala;CZE;Indoor;2025-02-04;Joshua;Hartmann;GER;1999;Male;14705838
-NL;GER;600;M;1:17.56;;Schönbuchstadion;GER;Outdoor;2025-05-18;Tim;Holzapfel;GER;1997;Male;14566289
-NL;GER;60M;W;7.13;;Helmut-Körnig-Halle;GER;Indoor;2025-02-22;Alexandra;Burghardt;GER;1994;Female;14390368
-NL;GER;DRE;M;17.43;;Omnisport;NED;Indoor;2025-03-08;Max;Heß;GER;1996;Male;14511112
-NL;GER;KUG;M;20.37;;Helmut-Körnig-Halle;GER;Indoor;2025-02-21;Eric;Maihöfer;GER;2001;Male;14760949
-NL;GER;2K0;W;6:23.92;;Moselstadion;GER;Outdoor;2025-09-02;Lilly;Förster;GER;;Female;15196343
-NL;GER;4×1;W;41.86;;National Stadium;JPN;Outdoor;2025-09-20;Germany;;GER;;Female;
-NL;GER;3KH;W;9:09.21;;Bislett Stadion;NOR;Outdoor;2025-06-12;Lea;Meyer;GER;1997;Female;14509240
-NL;GER;50M;W;7.1;;Salle du Centre Mondial du Cyclisme;SUI;Indoor;2025-01-18;Myah;Kouoga;GER;;Female;15197164
-NL;GER;60H;W;7.92;;Mercedes-Benz Arena;GER;Indoor;2025-02-14;Marlene;Meier;GER;2002;Female;14778624
-NL;GER;5K0;W;14:56.87;;LAZ Wien;AUT;Outdoor;2025-06-14;Elena;Burkard;GER;1992;Female;14420240
-NL;GER;HAM;M;82.77;;National Stadium;JPN;Outdoor;2025-09-16;Merlin;Hummel;GER;2002;Male;14753981
-NL;GER;STA;M;5.8;;PSD Bank Dome;GER;Indoor;2025-02-09;Torben;Blech;GER;1995;Male;14483212
-NL;GER;200;M;20.41;1.2;Enwag-Stadion;GER;Outdoor;2025-07-18;Owen;Ansah;GER;2000;Male;14812323
-NL;GER;800;W;1:59.02;;University of North Florda Jax Track at Hodges Stadium;USA;Outdoor;2025-05-03;Smilla;Kolbe;GER;2002;Female;14738926
-NL;GER;40H;M;47.83;;National Stadium;JPN;Outdoor;2025-09-17;Emil;Agyekum;GER;1999;Male;14679384
-NL;GER;3KH;M;8:01.49;;Stade Olympique;MAR;Outdoor;2025-05-25;Frederik;Ruppert;GER;1997;Male;14627121
-NL;GER;100;W;11.05;-0.1;Olympiastadion;GER;Outdoor;2025-07-27;Gina;Lückenkemper;GER;1996;Female;14450088
-NL;GER;2KH;W;5:57.76;;Olympiastadion;GER;Outdoor;2025-07-27;Lea;Meyer;GER;1997;Female;14509240
-NL;GER;DRE;W;14.45;0.2;Kennedyplatz;GER;Outdoor;2025-06-01;Caroline;Joyeux;GER;2001;Female;14736473
-NL;GER;MEI;W;4:37.34;;Alachua County Sports Complex;USA;Indoor;2025-01-17;Smilla;Kolbe;GER;2002;Female;14738926
-NL;GER;100;M;10.0;1.2;Universitätsstadion Am Biopark;GER;Outdoor;2025-06-14;Lucas;Ansah-Peprah;GER;2000;Male;14771269
-NL;GER;60M;M;6.56;;Helmut-Körnig-Halle;GER;Indoor;2025-01-18;Joshua;Hartmann;GER;1999;Male;14705838
-NL;GER;60M;M;6.56;;Helmut-Körnig-Halle;GER;Indoor;2025-02-22;Robin;Ganter;GER;2001;Male;14774667
-NL;GER;2KH;M;5:20.03;;Heinz-Steyer-Stadion;GER;Outdoor;2025-05-24;Karl;Bebendorf;GER;1996;Male;14597064
-NL;GER;HOC;M;2.27;;Marktplatz;GER;Outdoor;2025-08-10;Tobias;Potye;GER;1995;Male;14481078
-NL;GER;60H;M;7.56;;PSD Bank Dome;GER;Indoor;2025-02-09;Manuel;Mordi;GER;2003;Male;14930161
-NL;GER;800;M;1:44.17;;TSV Stadion;GER;Outdoor;2025-06-14;Alexander;Stepanov;GER;2004;Male;14984080
-NL;GER;STA;W;4.5;;Helmut-Körnig-Halle;GER;Indoor;2025-02-23;Anjuli;Knäsche;GER;1993;Female;14373304
-NL;GER;400;M;45.11;;Stadion am Göldner;GER;Outdoor;2025-08-15;Jean;Paul Bredau;GER;1999;Male;14771929
-NL;GER;5K0;M;12:53.63;;Stade Louis;MON;Outdoor;2025-07-11;Mohamed;Abdilaahi;GER;1999;Male;14753471
-NL;GER;3K0;M;7:37.31;;Letzigrund;SUI;Outdoor;2025-08-28;Mohamed;Abdilaahi;GER;1999;Male;14753471
-NL;GER;10K;M;27:39.82;;JSerra Catholic;USA;Outdoor;2025-03-29;Davor;Aaron Bienenfeld;GER;1997;Male;14716024
-NL;GER;HAM;W;72.53;;Fana Stadion;NOR;Outdoor;2025-07-18;Aileen;Kuhn;GER;2003;Female;14840255
-NL;GER;400;W;51.55;;Estadio Vallehermoso;ESP;Outdoor;2025-06-27;Johanna;Martin;GER;2006;Female;14996565
-NL;GER;1K5;W;4:03.57;;National Stadium;JPN;Outdoor;2025-09-13;Nele;Weßel;GER;1999;Female;14625525
-NL;GER;5G;W;22:27.00;;Fritz-Lesch-Stadion;GER;Outdoor;2025-05-10;Kylie;Garreis;GER;2005;Female;14984079
-NL;GER;10G;M;40:00.90;;Fana Stadion;NOR;Outdoor;2025-07-20;Frederick;Weigel;GER;2005;Male;14977283
+NL;GER;HOC;W;1.88;;Sporthalle an der Wilbrandschule;GER;Indoor;2026-01-11;Johanna;Göring;GER;2005;Female;14914656
+NL;GER;200;W;23.26;;Coque Sport Center;LUX;Indoor;2026-01-18;Jessica-Bianca;Wessolly;GER;1996;Female;14507608
+NL;GER;DIS;W;48.21;;Werferzentrum Brandberge;GER;Outdoor;2026-01-24;Marlene;Sack;GER;2009;Female;15158035
+NL;GER;KUG;W;17.32;;Sätrahallen;SWE;Indoor;2026-01-22;Julia;Ritter;GER;1998;Female;14564533
+NL;GER;WEI;W;6.32;;Leichtathletikhalle im Sportforum;GER;Indoor;2026-01-17;Helena;Börner;GER;2003;Female;14781163
+NL;GER;3K0;W;9:53.23;;Hartwig-Gauder-Halle;GER;Indoor;2026-01-17;Helena;Danae Manzke;GER;2007;Female;15011386
+NL;GER;300;M;35.03;;Gately Indoor TF Center;USA;Indoor;2026-01-10;Lorenz;Forsmann;GER;2007;Male;15164714
+NL;GER;1K0;W;3:00.68;;Rudolf-Harbig-Halle;GER;Indoor;2026-01-10;Vivien;Gronde;GER;1998;Female;14995122
+NL;GER;600;W;1:32.12;;Rudolf-Harbig-Halle;GER;Indoor;2026-01-10;Mila;Klein;GER;;Female;15042868
+NL;GER;SPE;M;57.73;;Stadion Werner-von-Linde-Halle;GER;Outdoor;2026-01-18;Marcel;Neumann;GER;2007;Male;15070701
+NL;GER;1K0;M;2:28.02;;The Podium;USA;Indoor;2026-01-16;Griffen;Parsells;GER;;Male;14954319
+NL;GER;WEI;M;7.81;;Leichtathletikhalle im Sportforum;GER;Indoor;2026-01-17;Steven;Freund;GER;2005;Male;14967803
+NL;GER;3G;M;14:08.04;;Hartwig-Gauder-Halle;GER;Indoor;2026-01-17;Steffen;Borsch;GER;1973;Male;14191633
+NL;GER;4×2;M;1:26.25;;Werner-von-Linde-Halle;GER;Indoor;2026-01-17;LG;Stadtwerke München;GER;;Male;
+NL;GER;3G;W;13:32.60;;Hartwig-Gauder-Halle;GER;Indoor;2026-01-17;Ada;Junghannß;GER;2004;Female;14928033
+NL;GER;SPE;W;41.56;;Werferzentrum Brandberge;GER;Outdoor;2026-01-24;Jette;Strauß;GER;2009;Female;15197427
+NL;GER;4×2;W;1:36.71;;Leichtathletikhalle im Sportforum;GER;Indoor;2026-01-18;LAC;Erdgas Chemnitz;GER;;Female;
+NL;GER;DIS;M;42.66;;Werferzentrum Brandberge;GER;Outdoor;2026-01-17;Lukas;Kussmann;GER;1997;Male;15010370
+NL;GER;5G;M;23:55.22;;Hartwig-Gauder-Halle;GER;Indoor;2026-01-17;Matti;Schmidt;GER;2007;Male;15115084
+NL;GER;MEI;M;4:09.04;;Randal Tyson Indoor Center;USA;Indoor;2026-01-16;Robert;Fülle;GER;2001;Male;14928804
+NL;GER;300;W;39.69;;Gladstein Fieldhouse Indiana Un.;USA;Indoor;2026-01-17;Judith;Bilepo Mokobe;GER;2006;Female;15045843
+NL;GER;1K5;M;3:47.35;;Helmut-Körnig-Halle;GER;Indoor;2026-01-17;Aaron;Schubert;GER;2005;Male;14987112
+NL;GER;600;M;1:17.10;;Rudolf-Harbig-Halle;GER;Indoor;2026-01-10;Lukas;Krappe;GER;2003;Male;14944393
+NL;GER;60M;W;7.22;;Rudolf-Harbig-Halle;GER;Indoor;2026-01-10;Philina;Marianne Schwartz;GER;2006;Female;14964208
+NL;GER;DRE;M;15.72;;Rudolf-Harbig-Halle;GER;Indoor;2026-01-10;Mohammad;Amin Alsalami;GER;1994;Male;14738672
+NL;GER;KUG;M;19.28;;Atletická hala - stadion Střelnice;CZE;Indoor;2026-01-24;Georg;Harpf;GER;2005;Male;14944829
+NL;GER;50M;W;6.84;;Centre sportif Bout-du-Monde;SUI;Indoor;2026-01-17;Myah;Kouoga;GER;;Female;15197164
+NL;GER;60H;W;8.08;;Coque Sport Center;LUX;Indoor;2026-01-18;Franziska;Schuster;GER;2002;Female;14729927
+NL;GER;STA;M;5.6;;Leichtathletikhallen Manfort;GER;Indoor;2026-01-18;Torben;Blech;GER;1995;Male;14483212
+NL;GER;200;M;21.15;;Coque Sport Center;LUX;Indoor;2026-01-10;Maurice;Grahl;GER;2003;Male;14927956
+NL;GER;800;W;2:05.12;;Coque Sport Center;LUX;Indoor;2026-01-18;Tanja;Spill;GER;1995;Female;14429758
+NL;GER;DRE;W;12.85;;Werner-von-Linde-Halle;GER;Indoor;2026-01-17;Christina;Ammer;GER;2004;Female;14880851
+NL;GER;MEI;W;5:02.35;;Cliff Rovelto Indoor Track;USA;Indoor;2026-01-16;Lea;Jerkovic;GER;;Female;14810641
+NL;GER;60M;M;6.71;;Coque Sport Center;LUX;Indoor;2026-01-10;Aleksandar;Askovic;GER;1997;Male;14627439
+NL;GER;HOC;M;2.18;;Sätrahallen;SWE;Indoor;2026-01-22;Falk;Wendrich;GER;1995;Male;14429742
+NL;GER;60H;M;7.8;;Sportzentrum Kalbach;GER;Indoor;2026-01-11;Fred;Isaac Fleurisson;GER;2003;Male;14874152
+NL;GER;800;M;1:48.68;;Leichtathletikhalle im Sportforum;GER;Indoor;2026-01-18;Rocco;Martin;GER;2001;Male;14831461
+NL;GER;STA;W;4.12;;Ott Center for Track & Field;USA;Indoor;2026-01-17;Lotte;Gretzler;GER;2007;Female;14994725
+NL;GER;400;M;45.94;;Coque Sport Center;LUX;Indoor;2026-01-18;Jean;Paul Bredau;GER;1999;Male;14771929
+NL;GER;5K0;M;14:36.05;;Vanderbilt Multipurpose Facility;USA;Indoor;2026-01-16;Noah;Löser;GER;2001;Male;15055512
+NL;GER;3K0;M;8:12.34;;Coque Sport Center;LUX;Indoor;2026-01-18;Johannes;Weizinger;GER;1999;Male;15022723
+NL;GER;HAM;W;52.95;;Steigerwaldstadion;GER;Outdoor;2026-01-17;Luise;Herrmann;GER;2006;Female;14979052
+NL;GER;400;W;53.58;;Coque Sport Center;LUX;Indoor;2026-01-10;Nele;Renneberg;GER;2001;Female;14910315
+NL;GER;400;W;53.58;;Leichtathletikhalle im Sportforum;GER;Indoor;2026-01-17;Corinna;Schwab;GER;1999;Female;14584915
+NL;GER;1K5;W;4:15.60;;Coque Sport Center;LUX;Indoor;2026-01-18;Vera;Coutellier;GER;1995;Female;14452374
