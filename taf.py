@@ -60,16 +60,16 @@ if __name__ == '__main__':
         # Rename record type to code
         df = df.rename(columns={"Record Type": "Code"})
 
+        if "Nat" in df.columns:
+            df = df.rename(columns={"Nat": "Nation"})
+
         # Map area to taf area code
         if arearecordFile or arealeadFile:
-            df["Country"] = df["Nat"]
+            df["Country"] = df["Nation"]
             df = pd.merge(df, areaMapping, on="Country", how="left")
             df = df.drop(columns=["area", "Country"], errors="ignore")
             df = df.rename(columns={"AreaId": "Type"})
             df["Type"] = df["Type"].fillna(0)
-
-        if "Nat" in df.columns:
-            df = df.rename(columns={"Nat": "Nation"})
 
         # Bei nationalen Rekorden und Bestleistungen wird die Nation als Typ verwendet 
         # damit die Rekorde nur für Athleten aus dem eigenen Land angezeigt werden
