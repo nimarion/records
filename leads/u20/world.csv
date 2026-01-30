@@ -1,6 +1,5 @@
 Code;Type;Discipline;Class;Result;Wind;Venue;Venue Country;Environment;Date;Firstname;Lastname;Nation;YOB;Sex;WorldathleticsId
 WL;;HAM;WJU20;59.26;;Stade A. Delaune;FRA;Outdoor;2026-01-17;Kenza-Gwendolyn;Falana;GAB;;Female;15099326
-WL;;40H;MJU20;51.1;;Jamaica College Ashenheim Stadium;JAM;Outdoor;2026-01-10;Robert;Miller;JAM;2008;Male;15068759
 WL;;200;WJU20;23.18;1.7;QSAC State Athletics Facility;AUS;Outdoor;2026-01-10;Zara;Hagan;AUS;2007;Female;14920646
 WL;;DIS;MJU20;50.28;;AlAnsar Club;KSA;Outdoor;2026-01-22;Masatafy;Aboshahin;KSA;;Male;15269786
 WL;;5G;MJU20;19:59.42;;AIS Athletics Track;AUS;Outdoor;2026-01-25;Owen;Toyne;AUS;2007;Male;14961118
@@ -33,7 +32,7 @@ WL;;5K0;MJU20;14:36.18;;USC Athletics Track;AUS;Outdoor;2026-01-27;Jett;Allen;AU
 WL;;4×4;MJU20;3:11.41;;Dempsey Indoor;USA;Indoor;2026-01-17;GLS;Speed Tc;USA;;Male;
 WL;;400;MJU20;44.62;;Clemson Indoor Track & Field Complex;USA;Indoor;2026-01-10;Jonathan;Simms;USA;;Male;14993480
 WL;;800;MJU20;1:45.23;;Armory Track&Field Center;USA;Indoor;2026-01-24;Cooper;Lutkenhaus;USA;2008;Male;15152457
-WL;;60H;MJU20;7.68;;Clemson Indoor Track & Field Complex;USA;Indoor;2026-01-10;Leezra;Brown;USA;2007;Male;14993481
+WL;;60H;MJU20;7.59;;Convention Center;USA;Indoor;2026-01-24;Leezra;Brown;USA;2007;Male;14993481
 WL;;50H;WJU20;7.43;;Salle du Centre Mondial du Cyclisme;SUI;Indoor;2026-01-17;Nessa;Burkhardt;SUI;;Female;15061158
 WL;;DIS;WJU20;50.58;;Barden Park;AUS;Outdoor;2026-01-17;Chelsy;Wayne;AUS;2007;Female;14964129
 WL;;4×1;MJU20;39.47;;QSAC State Athletics Facility;AUS;Outdoor;2026-01-10;Australia;B;AUS;;Male;
@@ -52,7 +51,7 @@ WL;;MEI;WJU20;4:38.97;;The Track at New Balance;USA;Indoor;2026-01-24;Braelyn;Co
 WL;;1K5;WJU20;4:05.38;;The Track at New Balance;USA;Indoor;2026-01-24;Elsabet;Amare;ETH;2009;Female;15024103
 WL;;KUG;MJU20;16.12;;Cooks Gardens;NZL;Outdoor;2026-01-24;Frazer;Hazeldine;NZL;2009;Male;15190290
 WL;;STA;WJU20;4.4;;Coque Sport Center;LUX;Indoor;2026-01-18;Allika;Inkeri Moser;EST;2008;Female;15059664
-WL;;60H;WJU20;8.1;;Clemson Indoor Track & Field Complex;USA;Indoor;2026-01-10;Madeline;Cooper;USA;2007;Female;15039881
+WL;;60H;WJU20;7.99;;Convention Center;USA;Indoor;2026-01-24;Madeline;Cooper;USA;2007;Female;15039881
 WL;;WEI;WJU20;6.35;;Festivalna;BUL;Indoor;2026-01-10;Siyana;Brâmbarova;BUL;2007;Female;14951865
 WL;;3G;MJU20;12:41.12;;Kujawsko-Pomorska Arena;POL;Indoor;2026-01-18;Mateusz;Margiel;POL;2007;Male;15060884
 WL;;SPE;MJU20;62.74;;Stadio Guidobaldi;ITA;Outdoor;2026-01-17;Pietro;Villa;ITA;2007;Male;15058772
@@ -61,4 +60,4 @@ WL;;2K0;WJU20;6:02.83;;Expocentro;POR;Indoor;2026-01-25;Mariana;Moreira;POR;2008
 WL;;600;WJU20;1:28.21;;Ashenfelter Indoor Track;USA;Indoor;2026-01-17;Boh;Ritchie;NZL;2007;Female;14960191
 WL;;200;MJU20;20.99;1.7;The Bahamas National Stadium;BAH;Outdoor;2026-01-17;Zion;Davis;BAH;2007;Male;15076578
 WL;;2K0;MJU20;5:27.76;;Kujawsko-Pomorska Arena;POL;Indoor;2026-01-18;Michał;Winiarski;POL;2007;Male;15063798
-WL;;SPE;WJU20;41.84;;T. Robinson Stadium;BAH;Outdoor;2026-01-24;Kamera;Strachan;BAH;2008;Female;15021255
+WL;;SPE;WJU20;47.78;;McArthur Stadium;RSA;Outdoor;2026-01-27;Stephane;Hook;RSA;2008;Female;15024412
