@@ -1,10 +1,10 @@
 Code;Type;Discipline;Class;Result;Wind;Venue;Venue Country;Environment;Date;Firstname;Lastname;Nation;YOB;Sex;WorldathleticsId
 NL;GER;HOC;W;1.93;;Městská sportovní hala;CZE;Indoor;2026-02-07;Imke;Onnen;GER;1994;Female;14401199
 NL;GER;200;W;23.26;;Coque Sport Center;LUX;Indoor;2026-01-18;Jessica-Bianca;Wessolly;GER;1996;Female;14507608
-NL;GER;DIS;W;56.2;;Werferzentrum Brandberge;GER;Outdoor;2026-01-31;Antonia;Kinzel;GER;2000;Female;14698081
+NL;GER;DIS;W;58.73;;Alter Sportplatz;GER;Outdoor;2026-02-08;Leia;Braunagel;GER;2000;Female;14684815
 NL;GER;KUG;W;19.86;;Wiedigsburghalle;GER;Indoor;2026-01-31;Yemisi;Ogunleye;GER;1998;Female;14565871
 NL;GER;WEI;W;6.58;;Arena Gorzów;POL;Indoor;2026-01-31;Libby;Buder;GER;2004;Female;14812595
-NL;GER;3K0;W;9:06.96;;Europahalle;GER;Indoor;2026-02-01;Elena;Burkard;GER;1992;Female;14420240
+NL;GER;3K0;W;9:02.12;;Europahalle;GER;Indoor;2026-02-08;Elena;Burkard;GER;1992;Female;14420240
 NL;GER;300;M;35.03;;Gately Indoor TF Center;USA;Indoor;2026-01-10;Lorenz;Forsmann;GER;2007;Male;15164714
 NL;GER;1K0;W;2:51.90;;Ashenfelter Indoor Track;USA;Indoor;2026-01-31;Annika;Metzger;GER;2005;Female;15038936
 NL;GER;600;W;1:28.04;;Halle End der Welt;SUI;Indoor;2026-01-31;Alica;Schmidt;GER;1998;Female;14592274
@@ -28,7 +28,7 @@ NL;GER;60M;W;7.21;;Leichtathletikhalle Luftschiffhafen;GER;Indoor;2026-01-25;Phi
 NL;GER;DRE;M;15.85;;Leichtathletikhalle im Sportforum;GER;Indoor;2026-01-24;Mohammad;Amin Alsalami;GER;1994;Male;14738672
 NL;GER;KUG;M;19.95;;Turnhalle Am Regenbogen;GER;Indoor;2026-02-01;Xaver;Hastenrath;GER;2003;Male;14927961
 NL;GER;50M;W;6.83;;Salle du Centre Mondial du Cyclisme;SUI;Indoor;2026-01-24;Myah;Kouoga;GER;;Female;15197164
-NL;GER;60H;W;8.06;;PSD Bank Dome;GER;Indoor;2026-01-24;Rosina;Schneider;GER;2004;Female;14909224
+NL;GER;60H;W;8.02;;Europahalle;GER;Indoor;2026-02-08;Rosina;Schneider;GER;2004;Female;14909224
 NL;GER;5K0;W;17:38.52;;Ashenfelter Indoor Track;USA;Indoor;2026-01-30;Annika;Leineweber;GER;;Female;14804797
 NL;GER;HAM;M;67.65;;Wartbergstadion;GER;Outdoor;2026-01-31;Tim;Steinfurth;GER;2004;Male;14927805
 NL;GER;STA;M;5.7;;Lausitz-Arena;GER;Indoor;2026-01-28;Bo;Kanda Lita Baehre;GER;1999;Male;14649117
@@ -37,14 +37,14 @@ NL;GER;200;M;21.13;;Werner-von-Linde-Halle;GER;Indoor;2026-02-01;Karl;Gattinger;
 NL;GER;800;W;2:01.42;;Stade couvert Jesse Owens;FRA;Indoor;2026-02-01;Majtie;Kolberg;GER;1999;Female;14593204
 NL;GER;DRE;W;13.94;;Leichtathletikhalle im Sportforum;GER;Indoor;2026-01-24;Kira;Wittmann;GER;2000;Female;14650718
 NL;GER;MEI;W;4:49.35;;Dempsey Indoor;USA;Indoor;2026-01-30;Bianca;Böhnke;GER;2005;Female;14944929
-NL;GER;60M;M;6.59;;Sportzentrum Kalbach;GER;Indoor;2026-01-31;Kevin;Kranz;GER;1998;Male;14684801
+NL;GER;60M;M;6.55;;Europahalle;GER;Indoor;2026-02-08;Owen;Ansah;GER;2000;Male;14812323
 NL;GER;HOC;M;2.21;;Městská sportovní hala;CZE;Indoor;2026-02-07;Falk;Wendrich;GER;1995;Male;14429742
 NL;GER;60H;M;7.75;;Leichtathletikhallen Manfort;GER;Indoor;2026-01-31;Stefan;Volzer;GER;2000;Male;14717468
-NL;GER;800;M;1:47.18;;Halle Stéphane Diagana;FRA;Indoor;2026-01-24;Alexander;Stepanov;GER;2004;Male;14984080
-NL;GER;STA;W;4.55;;Europahalle;GER;Indoor;2026-01-31;Anjuli;Knäsche;GER;1993;Female;14373304
+NL;GER;800;M;1:45.95;;Helmut-Körnig-Halle;GER;Indoor;2026-02-08;Malik;Skupin-Alfa;GER;2004;Male;14914521
+NL;GER;STA;W;4.6;;Helmut-Körnig-Halle;GER;Indoor;2026-02-08;Jacqueline;Otchere;GER;1996;Female;14479327
 NL;GER;400;M;45.94;;Coque Sport Center;LUX;Indoor;2026-01-18;Jean;Paul Bredau;GER;1999;Male;14771929
 NL;GER;5K0;M;13:34.23;;Boston Univ. Track & Tennis Center;USA;Indoor;2026-01-31;Davor;Aaron Bienenfeld;GER;1997;Male;14716024
-NL;GER;3K0;M;7:50.51;;Boston Univ. Track & Tennis Center;USA;Indoor;2026-01-31;Benne;C. Anderson;GER;2004;Male;15119677
+NL;GER;3K0;M;7:40.39;;Europahalle;GER;Indoor;2026-02-08;Florian;Bremm;GER;2000;Male;14755523
 NL;GER;HAM;W;62.79;;München;GER;Outdoor;2026-01-31;Johanna;Marrwitz;GER;2006;Female;14981184
-NL;GER;400;W;53.05;;Leichtathletikhalle im Sportforum;GER;Indoor;2026-01-24;Johanna;Martin;GER;2006;Female;14996565
-NL;GER;1K5;W;4:07.15;;Atletická hala;CZE;Indoor;2026-02-03;Nele;Weßel;GER;1999;Female;14625525
+NL;GER;400;W;52.56;;Europahalle;GER;Indoor;2026-02-08;Johanna;Martin;GER;2006;Female;14996565
+NL;GER;1K5;W;4:05.47;;Europahalle;GER;Indoor;2026-02-08;Nele;Weßel;GER;1999;Female;14625525
