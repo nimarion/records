@@ -6302,7 +6302,7 @@ NR;CMR;200;M;20.47;;Aubière;FRA;Indoor;2003-03-02;Joseph;Batangdon;CMR;1978;Mal
 NR;COD;200;M;21.23;;Blacksburg;USA;Indoor;2003-01-18;Gary;Kikaya;COD;1980;Male;
 NR;COL;200;M;20.99;;Metz;FRA;Indoor;2019-02-10;Bernardo;Baloyes;COL;1994;Male;
 NR;COM;200;M;20.8;;Aubière;FRA;Indoor;2024-02-10;Hachim;Maaroufou;COM;1997;Male;
-NR;CRO;200;M;21.09;;Ostrava;CZE;Indoor;2024-01-30;Roko;Farkaš;CRO;2005;Male;
+NR;CRO;200;M;21.07;;Ostrava;CZE;Indoor;2026-02-12;Karlo;Marciuš;CRO;1999;Male;
 NR;CUB;200;M;20.46;;Paris;FRA;Indoor;1997-03-08;Iván;García;CUB;1972;Male;
 NR;CYP;200;M;20.65;;Valencia;ESP;Indoor;1998-03-01;Anninos;Marcoullides;CYP;1971;Male;
 NR;CZE;200;M;20.52;;Praha;CZE;Indoor;2014-02-16;Pavel;Maslák;CZE;1991;Male;
@@ -7419,7 +7419,7 @@ NR;TJK;100;W;11.62;1.5;Dushanbe;TJK;Outdoor;2021-04-09;Gulsunbi;Sharifova;TJK;19
 NR;TKM;100;W;11.56;1.7;Almaty;KAZ;Outdoor;2008-06-07;Valentina;Meredova;TKM;1984;Female;
 NR;TKS;100;W;11.99;1.2;Barranquilla;COL;Outdoor;2018-07-29;Akia;Guerrier;TKS;1998;Female;
 NR;TLS;100;W;13.57;;Darwin;AUS;Outdoor;2001-05-20;Cesaltilna;De Yesus Guterres;TLS;;Female;
-NR;TOG;100;W;11.82;-0.2;Douala;CMR;Outdoor;2021-05-22;Akouvi;Judith Koumedzina;TOG;2001;Female;
+NR;TOG;100;W;11.82;;Douala;CMR;Outdoor;2021-05-22;Akouvi;Judith Koumedzina;TOG;2001;Female;
 NR;TPE;100;W;11.22;1.9;Wien;AUT;Outdoor;1970-07-18;Chi;Cheng;TPE;1944;Female;
 NR;TTO;100;W;10.82;0.9;Port of Spain;TTO;Outdoor;2017-06-24;Michelle-Lee;Ahye;TTO;1992;Female;
 NR;TUN;100;W;11.68;1.0;Alger;ALG;Outdoor;2000-08-06;Awatef;Hamrouni;TUN;1981;Female;
@@ -7702,7 +7702,7 @@ NR;CMR;400;W;52.62;;Aubière;FRA;Indoor;2003-03-02;Mireille;Nguimgo;CMR;1976;Fem
 NR;COL;400;W;52.12;;Indianapolis;USA;Indoor;1991-03-09;Ximena;Restrepo;COL;1969;Female;
 NR;COM;400;W;56.15;;Eaubonne;FRA;Indoor;2005-01-21;Salhate;Djamalidine;COM;1978;Female;
 NR;CRC;400;W;56.43;;Lincoln;USA;Indoor;1999-02-27;Zoila;Stewart Lee;CRC;1968;Female;
-NR;CRO;400;W;52.47;;München;FRG;Indoor;1976-02-22;Jelica;Pavlicic;CRO;1954;Female;
+NR;CRO;400;W;52.46;;Ostrava;CZE;Indoor;2026-02-12;Veronika;Drljačić;CRO;2001;Female;
 NR;CUB;400;W;52.02;;Metz;FRA;Indoor;2013-02-24;Indira;Terrero;CUB;1985;Female;
 NR;CYP;400;W;52.91;;Athína;GRE;Indoor;2004-02-07;Andri;Sialou;CYP;1973;Female;
 NR;CZE;400;W;49.59;;Milano;ITA;Indoor;1982-03-07;Jarmila;Kratochvílová;CZE;1951;Female;
@@ -7854,7 +7854,7 @@ NR;HON;3KH;W;11:28.96;;Tegucigalpa;HON;Outdoor;2014-06-20;Aldy;Jimena Gonzales;H
 NR;HUN;3KH;W;9:26.59;;Budapest;HUN;Outdoor;2019-08-31;Zita;Kácser;HUN;1988;Female;
 NR;INA;3KH;W;9:49.46;;Incheon;KOR;Outdoor;2014-09-27;Rini;Budiarti;INA;1983;Female;
 NR;IND;3KH;W;9:12.46;;Gumi;KOR;Outdoor;2025-05-30;Parul;Chaudhary;IND;1995;Female;
-NR;IRI;3KH;W;10:29.24;;Shiraz;IRI;Outdoor;2025-07-11;Hanieh;Shahpari;IRI;2007;Female;
+NR;IRI;3KH;W;10:29.24;;Arak;IRI;Outdoor;2025-07-11;Hanieh;Shahpari;IRI;2007;Female;
 NR;IRL;3KH;W;9:28.29;;Heusden;BEL;Outdoor;2007-07-28;Roísín;Mcgettigan;IRL;1980;Female;
 NR;IRQ;3KH;W;13:34.4;;Baghdad;IRQ;Outdoor;2012-04-27;Dalya;Ahmed Mohammed;IRQ;;Female;
 NR;ISL;3KH;W;10:07.38;;Maribor;SLO;Outdoor;2025-06-24;Andrea;Kolbeinsdóttir;ISL;1999;Female;
@@ -11583,7 +11583,7 @@ NR;NIU;HOC;W;1.49;;Sydney;AUS;Outdoor;2005-05-08;Jade;Roughan;NIU;1988;Female;
 NR;NMI;HOC;W;1.38;;Pohnpei;FSM;Outdoor;2014-07-23;Rachel;Abrams;NMI;1995;Female;
 NR;NOR;HOC;W;2.01;;Zürich;SUI;Outdoor;1997-08-13;Hanne;Haugland;NOR;1967;Female;
 NR;NRU;HOC;W;1.26;;Yaren;NRU;Outdoor;2007-03-04;Arrora;De Paune;NRU;;Female;
-NR;NZL;HOC;W;1.92;;Dunedin;NZL;Outdoor;1991-01-26;Tania;Dixon;NZL;1970;Female;
+NR;NZL;HOC;W;1.92;;Auckland;NZL;Outdoor;1991-01-26;Tania;Dixon;NZL;1970;Female;
 NR;OMA;HOC;W;1.74;;Muscat;OMA;Outdoor;2026-01-30;Aliya;Faiq Fua'Ad Al Mughairi;OMA;2003;Female;
 NR;PAK;HOC;W;1.69;;Kathmandu;NEP;Outdoor;1999-09-27;Rehana;Kausar;PAK;;Female;
 NR;PAN;HOC;W;1.84;;Managua;NCA;Outdoor;2012-06-16;Kashani;Ríos Miller;PAN;1991;Female;
@@ -12826,6 +12826,7 @@ NR;COL;200;W;23.6;;Fayetteville;USA;Indoor;2025-02-15;Samantha;Gonzalez;COL;1996
 NR;COM;200;W;25.3;;Eaubonne;FRA;Indoor;2005-01-14;Salhate;Djamalidine;COM;1978;Female;
 NR;CRC;200;W;24.87;;Lincoln;USA;Indoor;1998-02-28;Zoila;Stewart Lee;CRC;1968;Female;
 NR;CRO;200;W;23.76;;Novo Mesto;SLO;Indoor;2026-01-18;Veronika;Drljačić;CRO;2001;Female;
+NR;CUB;200;W;23.63;;Ostrava;CZE;Indoor;2026-02-12;Yarima;García;CUB;2004;Female;
 NR;CYP;200;W;23.23;;Pireás;GRE;Indoor;2024-02-18;Olivia;Fotopoulou;CYP;1996;Female;
 NR;CZE;200;W;22.76;;Wien;AUT;Indoor;1981-01-28;Jarmila;Kratochvílová;CZE;1951;Female;
 NR;DEN;200;W;23.22;;Uppsala;SWE;Indoor;2022-02-13;Ida;Kathrine Karstoft;DEN;1995;Female;
