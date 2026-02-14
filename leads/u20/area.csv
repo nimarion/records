@@ -11,8 +11,7 @@ AL;1;60M;WJU20;7.28;;AccorHotels Arena de Bercy;FRA;Indoor;2026-01-25;Kelly;Ann 
 AL;1;600;MJU20;1:17.14;;Velesajam Hall;CRO;Indoor;2026-01-31;Benjamin;Lakošeljac;SLO;2007;Male;15068514
 AL;1;3K0;WJU20;9:05.82;;Eva Lisa Holtz Arena;SWE;Indoor;2026-02-01;Carmen;Cernjul;SWE;2007;Female;14953813
 AL;1;100;MJU20;11.32;;Sandneshallen;NOR;Indoor;2026-01-31;Christopher;Sandvik;NOR;2009;Male;15163193
-AL;1;5G;WJU20;24:38.34;;Nyíregyházi Atlétikai Centrum;HUN;Indoor;2026-01-24;Sára;Kata Alföldi;HUN;2009;Female;15111138
-AL;1;5G;WJU20;24:38.34;;Nyíregyházi Atlétikai Centrum;HUN;Indoor;2026-01-24;Sára;Kata Alföldi;HUN;2009;Female;15111138
+AL;1;5G;WJU20;24:32.35;;Olimpiyets Arena;BLR;Indoor;2026-01-24;Valeryia;Nasikaila;BLR;2007;Female;15056265
 AL;1;KUG;WJU20;16.33;;Field House;CAN;Indoor;2026-01-24;Maria;Rafailidou;GRE;2007;Female;14978785
 AL;1;KUG;WJU20;16.33;;Field House;CAN;Indoor;2026-01-24;Maria;Rafailidou;GRE;2007;Female;14978785
 AL;1;KUG;WJU20;16.33;;Jahnsportforum;GER;Indoor;2026-02-07;Emily;Scherf;GER;2007;Female;14987509
@@ -54,7 +53,7 @@ AL;1;400;MJU20;46.31;;Atletická hala;CZE;Indoor;2026-02-03;Tomáš;Horák;CZE;2
 AL;1;50H;WJU20;7.43;;Salle du Centre Mondial du Cyclisme;SUI;Indoor;2026-01-17;Nessa;Burkhardt;SUI;;Female;15061158
 AL;1;DRE;MJU20;16.02;;Kujawsko-Pomorska Arena;POL;Indoor;2026-01-18;Krzysztof;Rybnik;POL;2007;Male;15124767
 AL;1;400;WJU20;53.59;;Atletická hala;CZE;Indoor;2026-01-20;Johanka;Šafářová;CZE;2007;Female;14986228
-AL;1;1K5;MJU20;3:46.85;;Sportzentrum Kalbach;GER;Indoor;2026-01-31;Piet;Hoyer;GER;2007;Male;15043394
+AL;1;1K5;MJU20;3:43.05;;Atletická hala;CZE;Indoor;2026-02-12;Filip;Toul;CZE;2007;Male;15035511
 AL;1;KUG;MJU20;15.94;;KMSHVSM Arena;UKR;Indoor;2026-01-31;Maksym;Lavryk;UKR;2007;Male;15069148
 AL;1;HOC;MJU20;2.16;;Sportovní gymnázium Ludvíka Daňka;CZE;Indoor;2026-01-11;Vojtěch;Zajíček;CZE;2008;Male;15127145
 AL;4;STA;MJU20;4.55;;Universiade Pavilion;CAN;Indoor;2026-02-01;Jaden;Van Der Linde;RSA;2007;Male;15143364
@@ -212,6 +211,7 @@ AL;2;STA;WJU20;4.47;;Rector Fieldhouse;USA;Indoor;2026-02-07;Mya;Strahm;USA;2007
 AL;4;100;WJU20;11.34;0.8;Jamaica College Ashenheim Stadium;JAM;Outdoor;2026-01-10;Alexxe;Henry;TTO;2007;Female;14975085
 AL;2;60H;MJU20;7.59;;Convention Center;USA;Indoor;2026-01-24;Leezra;Brown;USA;2007;Male;14993481
 AL;2;1K0;WJU20;2:43.63;;Boston Univ. Track & Tennis Center;USA;Indoor;2026-01-30;McKenzie;Charlize-Trinity;USA;2007;Female;14948570
+AL;2;3KH;WJU20;12:11.75;;Macrocentro Deportivo León;MEX;Outdoor;2026-01-30;Grettel;Rosario Chia;MEX;;Female;15074497
 AL;2;1K5;WJU20;4:20.53;;Armory Track&Field Center;USA;Indoor;2026-02-01;Jaelyn;Williams;USA;;Female;15161942
 AL;2;200;WJU20;23.13;;Randal Tyson Indoor Center;USA;Indoor;2026-01-30;Elise;Cooper;USA;2007;Female;14852192
 AL;2;4×4;MJU20;3:11.41;;Dempsey Indoor;USA;Indoor;2026-01-17;GLS;Speed Tc;USA;;Male;
@@ -254,7 +254,7 @@ AL;5;STA;WJU20;4.05;;Track & Field complex;KAZ;Indoor;2026-01-10;Anna;Cherkashin
 AL;5;100;WJU20;12.09;2.0;Wan Chai Sports Ground;HKG;Outdoor;2026-01-24;Sin;Ting Yau;HKG;2007;Female;15063883
 AL;5;60H;MJU20;8.07;;Track & Field complex;KAZ;Indoor;2026-01-10;Bogdan;Goncharov;KAZ;2007;Male;15063423
 AL;5;1K0;WJU20;3:01.26;;Loftus Sports Center;USA;Indoor;2026-01-24;Natalya;Kuchenbuch;SGP;2007;Female;15088270
-AL;5;1K5;WJU20;4:22.92;;Tuanbo Sports Center;CHN;Indoor;2026-02-06;Rong;Rong;CHN;2007;Female;15034343
+AL;5;1K5;WJU20;4:18.28;;Atletická hala;CZE;Indoor;2026-02-12;Sherry;Drury;JPN;2007;Female;14997151
 AL;5;200;WJU20;24.5;1.2;Wan Chai Sports Ground;HKG;Outdoor;2026-01-25;Sin;Ting Yau;HKG;2007;Female;15063883
 AL;5;4×4;MJU20;3:14.73;;Tuanbo Sports Center;CHN;Indoor;2026-02-08;Saudi;Arabia;KSA;;Male;
 AL;5;11H;MJU20;14.62;1.8;Wan Chai Sports Ground;HKG;Outdoor;2026-02-07;Wai;Kwan Leung;HKG;2008;Male;15152685
