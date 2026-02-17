@@ -55,7 +55,10 @@ AL;1;50H;WJU20;7.43;;Salle du Centre Mondial du Cyclisme;SUI;Indoor;2026-01-17;N
 AL;1;DRE;MJU20;16.02;;Kujawsko-Pomorska Arena;POL;Indoor;2026-01-18;Krzysztof;Rybnik;POL;2007;Male;15124767
 AL;1;400;WJU20;53.46;;Hala Uniwersytetu;POL;Indoor;2026-02-15;Anastazja;Kuś;POL;2007;Female;14954279
 AL;1;1K5;MJU20;3:43.05;;Atletická hala;CZE;Indoor;2026-02-12;Filip;Toul;CZE;2007;Male;15035511
-AL;1;KUG;MJU20;15.94;;KMSHVSM Arena;UKR;Indoor;2026-01-31;Maksym;Lavryk;UKR;2007;Male;15069148
+AL;1;KUG;MJU20;16.81;;Olympic Sports Complex of Paiania;GRE;Indoor;2026-02-14;Aristion;Anastasios Papadopoulos;GRE;2008;Male;15159999
+AL;1;KUG;MJU20;16.81;;Olympic Sports Complex of Paiania;GRE;Indoor;2026-02-14;Aristion;Anastasios Papadopoulos;GRE;2008;Male;15159999
+AL;1;HOC;MJU20;2.19;;Olympic Sports Complex of Paiania;GRE;Indoor;2026-02-14;Charalampos;Alivizatos;GRE;2008;Male;15104472
+AL;1;HOC;MJU20;2.19;;Olympic Sports Complex of Paiania;GRE;Indoor;2026-02-14;Charalampos;Alivizatos;GRE;2008;Male;15104472
 AL;1;HOC;MJU20;2.19;;Arena Birmingham;GBR;Indoor;2026-02-15;Regan;Corrin;GBR;2007;Male;15063556
 AL;4;STA;MJU20;4.55;;Universiade Pavilion;CAN;Indoor;2026-02-01;Jaden;Van Der Linde;RSA;2007;Male;15143364
 AL;4;5K0;MJU20;14:54.41;;Complexe Olympique Mohamed Boudiaf;ALG;Outdoor;2026-02-06;Zakaria;Touahria;ALG;2008;Male;15150225
@@ -195,22 +198,23 @@ AL;2;100;MJU20;10.46;-2.2;National Stadium;JAM;Outdoor;2026-02-14;Riquelme;Reid;
 AL;2;KUG;WJU20;18.45;;Ott Center for Track & Field;USA;Indoor;2026-01-24;Jessica;Oji;USA;2007;Female;15165163
 AL;2;3K0;MJU20;8:03.02;;Boston Univ. Track & Tennis Center;USA;Indoor;2026-01-31;Sawyer;Leblanc;CAN;;Male;15044148
 AL;2;60M;MJU20;6.6;0.4;GC Foster College;JAM;Outdoor;2026-01-17;Gary;Card;JAM;2007;Male;15010819
-AL;2;200;MJU20;20.88;;Randal Tyson Indoor Center;USA;Indoor;2026-02-14;Jayden;Mims;USA;;Male;14993737
+AL;2;60M;MJU20;6.6;;Sports Performance Center;USA;Indoor;2026-02-14;Ja'Shaun;Lloyd;USA;2007;Male;15082445
+AL;2;200;MJU20;20.72;;Convention Center;USA;Indoor;2026-02-13;Richard;Lee;USA;;Male;15238503
 AL;2;1K0;MJU20;2:21.37;;Rector Fieldhouse;USA;Indoor;2026-02-07;Cole;Boone;USA;;Male;15125271
 AL;2;DIS;WJU20;58.45;;Estadio Panamericano;CUB;Outdoor;2026-02-12;Neilyn;De La C. Rodríguez;CUB;2007;Female;15099876
 AL;2;2K0;WJU20;6:32.00;;Track and Field Centre Indoor Track;CAN;Indoor;2026-01-10;Daniela;Posluszny;CAN;;Female;15211922
 AL;2;DIS;MJU20;57.79;;National Stadium;JAM;Outdoor;2026-02-07;Joseph;Richard Salmon;JAM;2007;Male;15068708
 AL;2;WEI;WJU20;6.45;;South Carolina Indoor T&F Complex;USA;Indoor;2026-02-07;Tristen;Harris;USA;2007;Female;15044653
-AL;2;5K0;WJU20;16:58.08;;Boston Univ. Track & Tennis Center;USA;Indoor;2026-01-30;Athena;Andrecyk;CAN;2008;Female;15098450
+AL;2;5K0;WJU20;16:39.67;;Dempsey Indoor;USA;Indoor;2026-02-13;Kylah;Madariaga;USA;2007;Female;15278106
 AL;2;SPE;MJU20;62.27;;National Stadium;JAM;Outdoor;2026-02-07;Addison;Alickson James;DMA;2007;Male;15026330
-AL;2;MEI;MJU20;4:01.70;;Vanderbilt Multipurpose Facility;USA;Indoor;2026-02-13;Brady;Keller;USA;;Male;15044145
+AL;2;MEI;MJU20;3:56.35;;Dempsey Indoor;USA;Indoor;2026-02-13;Lawi;Kiplangat Ngetich;USA;2008;Male;15129487
 AL;2;4×4;WJU20;3:46.06;;Armory Track&Field Center;USA;Indoor;2026-02-01;Winslow;Tc-Nj;USA;;Female;
 AL;2;HOC;WJU20;1.81;;Randal Tyson Indoor Center;USA;Indoor;2026-02-14;Brianna;Rivers;USA;2007;Female;14993816
 AL;2;HOC;WJU20;1.81;;Cliff Rovelto Indoor Track;USA;Indoor;2026-01-30;Shanniqua;Williams;JAM;2007;Female;14925411
 AL;2;DRE;WJU20;13.07;;Convention Center;USA;Indoor;2026-01-31;Camaria;Corder;USA;;Female;15077177
 AL;2;300;MJU20;32.1;;Clemson Indoor Track & Field Complex;USA;Indoor;2026-01-10;Sidi;Njie;USA;2007;Male;15027039
 AL;2;HAM;WJU20;50.85;;Estadio Panamericano;CUB;Outdoor;2026-02-13;Camila;Mainet;CUB;2009;Female;15290789
-AL;2;800;WJU20;2:05.75;;Armory Track&Field Center;USA;Indoor;2026-01-23;Chloe;Symon;CAN;2007;Female;14980650
+AL;2;800;WJU20;2:03.70;;Dempsey Indoor;USA;Indoor;2026-02-14;Chloe;Symon;CAN;2007;Female;14980650
 AL;2;WEI;MJU20;7.75;;Randal Tyson Indoor Center;USA;Indoor;2026-02-13;Luke;Stradley;USA;2007;Male;15161929
 AL;2;800;MJU20;1:44.03;;JDL Fast Track;USA;Indoor;2026-02-14;Cooper;Lutkenhaus;USA;2008;Male;15152457
 AL;2;60H;WJU20;7.99;;Convention Center;USA;Indoor;2026-01-24;Madeline;Cooper;USA;2007;Female;15039881
