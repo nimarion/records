@@ -38,7 +38,7 @@ AL;1;800;M;1:43.83;;Atletická hala;CZE;Indoor;2026-02-03;Eliott;Crestan;BEL;199
 AL;1;MEI;W;4:21.04;;Boston Univ. Track & Tennis Center;USA;Indoor;2026-02-14;Wilma;Nielsen;SWE;2001;Female;14653693
 AL;1;400;W;50.51;;Randal Tyson Indoor Center;USA;Indoor;2026-02-07;Amber;Anning;GBR;2000;Female;14632781
 AL;1;HAM;M;74.38;;Lugnets kastplan;SWE;Outdoor;2026-02-02;Hilmar;Örn Jónsson;ISL;1996;Male;14486453
-AL;1;HAM;W;72.2;;Yunost Stadium;RUS;Outdoor;2026-02-08;Anastasiya;Grigoryeva;RUS;2002;Female;14784662
+AL;1;HAM;W;72.38;;Campus Pino Dordoni;ITA;Outdoor;2026-02-15;Sara;Fantini;ITA;1997;Female;14593885
 AL;1;2K0;M;4:52.41;;The Track at New Balance;USA;Indoor;2026-01-24;Pieter;Sisk;BEL;1999;Male;14681333
 AL;1;400;M;45.01;;Atletická hala;CZE;Indoor;2026-02-03;Attila;Molnár;HUN;2002;Male;14712930
 AL;1;400;M;45.01;;Atletická hala;CZE;Indoor;2026-02-03;Attila;Molnár;HUN;2002;Male;14712930
@@ -62,8 +62,8 @@ AL;1;3G;W;12:31.81;;Palaindoor Ancona;ITA;Indoor;2026-02-07;Giulia;Gabriele;ITA;
 AL;1;STA;M;5.93;;Atlas Arena;POL;Indoor;2026-01-25;Emmanouil;Karalis;GRE;1999;Male;14669731
 AL;1;STA;M;5.93;;Atlas Arena;POL;Indoor;2026-01-25;Emmanouil;Karalis;GRE;1999;Male;14669731
 AL;1;1K5;M;3:33.32;;Boston Univ. Track & Tennis Center;USA;Indoor;2026-01-31;Pieter;Sisk;BEL;1999;Male;14681333
-AL;1;STA;W;4.8;;L'Anneau-Halle d'athlétisme de Metz;FRA;Indoor;2026-02-08;Tina;Šutej;SLO;1988;Female;14300261
 AL;1;STA;W;4.8;;LFK;RUS;Indoor;2026-02-07;Polina;Knoroz;RUS;1999;Female;14623073
+AL;1;STA;W;4.8;;L'Anneau-Halle d'athlétisme de Metz;FRA;Indoor;2026-02-08;Tina;Šutej;SLO;1988;Female;14300261
 AL;4;60H;M;7.6;;Stadium Pierre-Quinon;FRA;Indoor;2026-01-23;Jeremie;Lararaudeuse;MRI;2001;Male;14852149
 AL;4;60H;M;7.6;;Stadium Miramas Métropole;FRA;Indoor;2026-01-30;Franco;Le Roux;RSA;2005;Male;14973251
 AL;4;300;M;32.46;;Clemson Indoor Track & Field Complex;USA;Indoor;2026-01-10;Saad;Hinti;MAR;2002;Male;14900889
@@ -91,7 +91,7 @@ AL;4;100;M;10.07;1.8;Germiston Stadium;RSA;Outdoor;2026-02-07;Udeme;Okon;RSA;200
 AL;4;100;W;11.76;1.0;Germiston Stadium;RSA;Outdoor;2026-02-07;Precious;Molepo;RSA;2005;Female;14890434
 AL;4;1K0;W;2:35.50;;Armory Track&Field Center;USA;Indoor;2026-02-01;Tsige;Duguma;ETH;2001;Female;14774192
 AL;4;2KH;M;6:09.68;;National Stadium;JAM;Outdoor;2026-02-07;Evans;Tetteh;GHA;2008;Male;15127111
-AL;4;40H;W;1:06.06;;Pilditch Stadium;RSA;Outdoor;2026-01-17;Lara;Van Der Poll;RSA;2010;Female;15145417
+AL;4;40H;W;59.29;;Pilditch Stadium;RSA;Outdoor;2026-01-28;Janelle;Kirkpatrick;RSA;2010;Female;15116123
 AL;4;1K0;M;2:17.36;;Clemson Indoor Track & Field Complex;USA;Indoor;2026-01-23;Jaouad;Khchina;MAR;2006;Male;15050867
 AL;4;200;W;22.9;;South Carolina Indoor T&F Complex;USA;Indoor;2026-02-07;Kelly;Ufodiama;NGR;2006;Female;15093814
 AL;4;800;W;1:58.81;;Boston Univ. Track & Tennis Center;USA;Indoor;2026-01-30;Gladys;Chepngetich;KEN;2001;Female;15035928
@@ -184,7 +184,7 @@ AL;6;10K;M;32:14.42;;Domain Athletic Centre;AUS;Outdoor;2026-02-01;Brad;Tennick;
 AL;6;3G;M;11:49.64;;Newtown Park Stadium;NZL;Outdoor;2026-02-01;Jonah;Cropp;NZL;2005;Male;14962208
 AL;6;WEI;M;7.95;0.2;WA Athletics Stadium;AUS;Outdoor;2026-02-14;Alex;Epitropakis;AUS;2005;Male;15127738
 AL;6;11H;M;13.99;1.8;Performance Centre;AUS;Outdoor;2026-02-07;Sam;Hurwood;AUS;2001;Male;14782777
-AL;6;5G;W;23:25.46;;AIS Athletics Track;AUS;Outdoor;2026-01-26;Zoe;Woods;AUS;2007;Female;15018606
+AL;6;5G;W;22:10.69;;SOPAC Warm Up Arena;AUS;Outdoor;2026-02-14;Zoe;Woods;AUS;2007;Female;15018606
 AL;6;60H;W;7.98;-0.2;Lakeside Stadium;AUS;Outdoor;2026-02-07;Michelle;Jenneke;AUS;1993;Female;14365887
 AL;6;KUG;W;17.22;;Northern Arizona-Skydome;USA;Indoor;2026-01-09;Tapenisa;Havea;NZL;2003;Female;14815849
 AL;6;10G;W;42:50.13;;AIS Athletics Track;AUS;Outdoor;2026-01-25;Elizabeth;Mcmillen;AUS;2004;Female;14771862
@@ -224,10 +224,10 @@ AL;6;1K5;W;4:01.79;;The Track at New Balance;USA;Indoor;2026-01-24;Sarah;Billing
 AL;6;600;M;1:20.52;;Convention Center;USA;Indoor;2026-02-06;Adolf;Kauba;PNG;2002;Male;14964988
 AL;6;4×1;W;44.07;;QSAC State Athletics Facility;AUS;Outdoor;2026-01-10;Australia;;AUS;;Female;
 AL;6;WEI;W;6.41;0.2;Lakeside Stadium;AUS;Outdoor;2026-02-07;Delta;Amidzovski;AUS;2006;Female;14815546
-AL;6;5K0;W;16:14.25;;Vanderbilt Multipurpose Facility;USA;Indoor;2026-02-13;Bethany;Arentz;AUS;2001;Female;14668507
+AL;6;5K0;W;16:09.24;;SOPAC Warm Up Arena;AUS;Outdoor;2026-02-14;Zoe;Melhuish;AUS;2002;Female;14817466
 AL;6;40H;M;49.95;;AIS Athletics Track;AUS;Outdoor;2026-01-24;Matthew;Hunt;AUS;2006;Male;15018618
 AL;6;60M;W;7.17;0.8;AIS Athletics Track;AUS;Outdoor;2026-01-24;Olivia;Dodds;AUS;2006;Female;14816622
-AL;6;3G;W;14:17.67;;Newtown Park Stadium;NZL;Outdoor;2026-02-01;Laura;Langley;NZL;1997;Female;14730211
+AL;6;3G;W;13:39.98;;SOPAC Warm Up Arena;AUS;Outdoor;2026-02-14;Avia;Luketic;AUS;;Female;15185820
 AL;6;STA;M;5.83;;WA Athletics Stadium;AUS;Outdoor;2026-02-14;Kurtis;Marschall;AUS;1997;Male;14565327
 AL;6;1K5;M;3:32.78;;Armory Track&Field Center;USA;Indoor;2026-02-01;Cameron;Myers;AUS;2006;Male;14962470
 AL;6;STA;W;4.7;;Palais des Sports Caen la Mer;FRA;Indoor;2026-01-30;Imogen;Ayris;NZL;2000;Female;14668954
@@ -316,8 +316,8 @@ AL;5;KUG;M;20.07;;Tuanbo Sports Center;CHN;Indoor;2026-02-08;Chengyu;Chen;CHN;20
 AL;5;5G;M;21:54.63;;Wan Chai Sports Ground;HKG;Outdoor;2026-01-25;Man;Kit Chin;HKG;1991;Male;14735134
 AL;5;3K0;M;7:43.13;;Boston Univ. Track & Tennis Center;USA;Indoor;2026-01-31;Hyuga;Endo;JPN;1998;Male;14671549
 AL;5;10K;M;29:10.21;;Mikio Oda Memorial Athletic Field;JPN;Outdoor;2026-02-14;Nayabu;Naoki Yoshikura;JPN;2005;Male;14996875
-AL;5;WEI;M;8.01;;Tuanbo Sports Center;CHN;Indoor;2026-02-08;Mingkun;Zhang;CHN;2000;Male;14884079
 AL;5;WEI;M;8.01;;Randal Tyson Indoor Center;USA;Indoor;2026-02-13;Lokesh;Sathyanathan;IND;1999;Male;14734782
+AL;5;WEI;M;8.01;;Tuanbo Sports Center;CHN;Indoor;2026-02-08;Mingkun;Zhang;CHN;2000;Male;14884079
 AL;5;11H;M;13.93;1.8;Wan Chai Sports Ground;HKG;Outdoor;2026-02-07;Siu;Hang Cheung;HKG;2002;Male;14832000
 AL;5;5G;W;27:01.85;;Wan Chai Sports Ground;HKG;Outdoor;2026-01-25;Sze;Wai Luna Wong;HKG;1989;Female;15273955
 AL;5;60H;W;8.12;;Tuanbo Sports Center;CHN;Indoor;2026-02-08;Bo-Ya;Zhang;TPE;2003;Female;14902578
