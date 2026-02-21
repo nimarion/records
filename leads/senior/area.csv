@@ -69,8 +69,8 @@ AL;1;300;M;32.64;;Virginia Beach Sports Center;USA;Indoor;2026-01-17;Jake;Odey-J
 AL;1;1K0;W;2:35.17;;Cliff Rovelto Indoor Track;USA;Indoor;2026-01-16;Gabija;Galvydytė;LTU;2000;Female;14675493.0
 AL;1;600;W;1:25.06;;Convention Center;USA;Indoor;2026-01-30;Rebecca;Grieve;GBR;2005;Female;14834449
 AL;1;SPE;M;78.55;;Olympic Training and Sports Center;UKR;Outdoor;2026-02-15;Artur;Felfner;UKR;2003;Male;14830537
-AL;1;4×4;W;3:39.71;;Atletska dvorana;SRB;Indoor;2026-01-28;Croatia;;CRO;;Female;
-AL;1;4×4;M;3:13.81;;Velódromo Luis Puig;ESP;Indoor;2026-02-14;FC;Barcelona;ESP;;Male;
+AL;1;4×4;W;3:38.91;;Altice Forum;POR;Indoor;2026-02-15;Sporting;Clube De Portugal (Scp);POR;;Female;
+AL;1;4×4;M;3:11.13;;Altice Forum;POR;Indoor;2026-02-15;SL;Benfica (Slb);POR;;Male;
 AL;1;1K0;M;2:14.52;;Gallur;ESP;Indoor;2026-02-06;Mohamed;Attaoui;ESP;2001;Male;14929058
 AL;1;WEI;M;8.45;;Atletska dvorana;SRB;Indoor;2026-02-11;Bozhidar;Sarâboyukov;BUL;2004;Male;14927349
 AL;1;3G;M;10:59.49;;Stade couvert Jesse Owens;FRA;Indoor;2026-02-01;Aurélien;Quinion;FRA;1993;Male;14404859
@@ -329,7 +329,7 @@ AL;3;WEI;W;6.46;;AccorHotels Arena de Bercy;FRA;Indoor;2026-01-25;Leticia;Oro Me
 AL;3;3K0;W;9:31.12;;Hearnes Center;USA;Indoor;2026-01-31;Anastasia;Kirillov;ARG;2002;Female;14835303
 AL;3;1K0;W;2:46.49;;Cliff Rovelto Indoor Track;USA;Indoor;2026-01-31;Aaliyah;Moore;GUY;2001;Female;14887320
 AL;3;600;W;1:33.86;;Sparks Convention Center Halls;USA;Indoor;2026-01-10;Malena;Galvan;ARG;2006;Female;15043872
-AL;3;1K0;M;2:29.47;;Ashenfelter Indoor Track;USA;Indoor;2026-01-31;Samuel;De La Riva;BOL;2004;Male;15111403
+AL;3;1K0;M;2:28.83;;COTP Stadium;BRA;Outdoor;2026-02-18;Kayque;De Arruda;BRA;2003;Male;14992191
 AL;3;WEI;M;7.98;1.3;CNDA;BRA;Outdoor;2026-01-31;Alexsandro;Melo;BRA;1995;Male;14543320
 AL;3;SPE;W;48.04;;Pista de Atletismo Justo Román;ARG;Outdoor;2026-02-08;Milagros;Rosas;ARG;2007;Female;15006431
 AL;3;DIS;M;57.09;;SPIRE Institute Indoor Track & Field Facility;USA;Indoor;2026-01-10;Alan;Christian De Falchi;BRA;2000;Male;14755057
@@ -339,11 +339,11 @@ AL;3;40H;W;1:05.61;;Pista de Atletismo Justo Román;ARG;Outdoor;2026-02-08;Malen
 AL;3;300;W;37.43;;Randal Tyson Indoor Center;USA;Indoor;2026-02-14;Gianna;Woodruff;PAN;1993;Female;14423522
 AL;3;1K5;M;3:35.50;;Arena Stade Couvert;FRA;Indoor;2026-02-19;Valentin;Soca;URU;2002;Male;14887362
 AL;3;600;M;1:20.45;;Convention Center;USA;Indoor;2026-01-30;Matthew;Gordon;GUY;2003;Male;14912232
-AL;3;60M;W;7.14;1.0;CNDA;BRA;Outdoor;2026-01-31;Gabriela;Mourão;BRA;1999;Female;14662604
+AL;3;60M;W;7.05;0.0;COTP Stadium;BRA;Outdoor;2026-02-18;Ana;Carolina Azevedo;BRA;1998;Female;14579558
 AL;3;DRE;M;16.74;;Halle Stéphane Diagana;FRA;Indoor;2026-01-24;Almir;Dos Santos;BRA;1993;Male;14429487
-AL;3;KUG;M;19.74;;CNDA;BRA;Outdoor;2026-01-31;Welington;Morais;BRA;1996;Male;14543298
+AL;3;KUG;M;20.26;;COTP Stadium;BRA;Outdoor;2026-02-18;Welington;Morais;BRA;1996;Male;14543298
 AL;3;60H;W;8.04;;Convention Center;USA;Indoor;2026-02-14;Micaela;Rosa De Mello;BRA;2000;Female;14720717
-AL;3;5K0;W;16:33.90;;Boston Univ. Track & Tennis Center;USA;Indoor;2026-01-30;Vanessa;Alder;ECU;2005;Female;14991927
+AL;3;5K0;W;16:20.40;;COTP Stadium;BRA;Outdoor;2026-02-18;Amanda;Aparecida De Oliveira;BRA;1997;Female;14811366
 AL;3;HAM;M;67.86;;Pista de Atletismo Justo Román;ARG;Outdoor;2026-02-07;Lautaro;Vouilloz;ARG;2003;Male;14921282
 AL;3;STA;M;5.68;;Rector Fieldhouse;USA;Indoor;2026-02-06;Ricardo;David Montes;VEN;2006;Male;14999232
 AL;3;200;M;20.63;;Ott Center for Track & Field;USA;Indoor;2026-01-24;Jackson;Clarke;GUY;2005;Male;15077923
@@ -354,7 +354,7 @@ AL;3;2KH;W;6:29.57;;Pista de Atletismo Justo Román;ARG;Outdoor;2026-02-08;Micae
 AL;3;DRE;W;14.95;;Velódromo Luis Puig;ESP;Indoor;2026-02-14;Yulimar;Rojas;VEN;1995;Female;14436431
 AL;3;MEI;W;4:45.22;;Randal Tyson Indoor Center;USA;Indoor;2026-01-31;Isabel;Conde Frankenberg;ARG;2005;Female;14808039
 AL;3;100;M;10.75;0.5;Pista de Atletismo;PAR;Outdoor;2026-02-14;Joan;Roberto Bordenave;PAR;1999;Male;14767913
-AL;3;60M;M;6.56;1.2;CNDA;BRA;Outdoor;2026-01-31;Gabriel;Aparecido Dos Santos;BRA;1997;Male;14715918
+AL;3;60M;M;6.49;-0.3;COTP Stadium;BRA;Outdoor;2026-02-18;Erik;Cardoso;BRA;2000;Male;14718734
 AL;3;HOC;M;2.21;;Městská sportovní hala;CZE;Indoor;2026-02-07;Thiago;Moura;BRA;1995;Male;14488481
 AL;3;60H;M;7.62;1.4;CNDA;BRA;Outdoor;2026-01-31;Eduardo;Rodrigues;BRA;1995;Male;14546452
 AL;3;800;M;1:46.36;;CNDA;BRA;Outdoor;2026-01-31;Guilherme;Orenhas;BRA;1998;Male;14717831
