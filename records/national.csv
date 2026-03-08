@@ -398,7 +398,7 @@ NR;NZL;60H;M;8.2;;Joplin;USA;Indoor;2017-02-11;Cody;Thomas;NZL;1991;Male;
 NR;OMA;60H;M;8.16;;Doha;QAT;Indoor;2012-01-25;Jalal;Salem Al-Ghabshi;OMA;1983;Male;
 NR;PAN;60H;M;7.79;;Houston;USA;Indoor;1998-01-31;Curt;Young;PAN;1974;Male;
 NR;PER;60H;M;7.87;;Cochabamba;BOL;Indoor;2022-02-20;Mauricio;Garrido;PER;1996;Male;
-NR;POL;60H;M;7.39;;Łódź;POL;Indoor;2025-02-08;Jakub;Szymański;POL;2002;Male;
+NR;POL;60H;M;7.37;;Berlin;GER;Indoor;2026-03-06;Jakub;Szymański;POL;2002;Male;
 NR;POR;60H;M;7.66;;Metz;FRA;Indoor;2014-02-28;Rasul;Dabó;POR;1989;Male;
 NR;POR;60H;M;7.66;;Praha;CZE;Indoor;2015-03-06;João;Almeida;POR;1988;Male;
 NR;PUR;60H;M;7.71;;Flagstaff;USA;Indoor;2014-02-08;Héctor;Cotto;PUR;1984;Male;
@@ -1498,7 +1498,7 @@ NR;MON;STA;M;3.3;;Nice;FRA;Indoor;2003-12-14;Anthony;De Sevelinges;MON;1978;Male
 NR;MRI;STA;M;5.6;;Liévin;FRA;Indoor;1998-01-15;Kersley;Gardenne;MRI;1972;Male;
 NR;NED;STA;M;5.96;;Aubière;FRA;Indoor;2021-02-27;Menno;Vloon;NED;1994;Male;
 NR;NGR;STA;M;4.55;;Indianapolis;USA;Indoor;2026-02-22;Jami;Schlueter;NGR;2002;Male;
-NR;NOR;STA;M;6.0;;Albuquerque;USA;Indoor;2023-03-10;Sondre;Guttormsen;NOR;1999;Male;
+NR;NOR;STA;M;6.06;;Rouen;FRA;Indoor;2026-03-07;Sondre;Guttormsen;NOR;1999;Male;
 NR;NZL;STA;M;5.25;;Jamor;POR;Indoor;2016-05-21;Nick;Southgate;NZL;1994;Male;
 NR;PAK;STA;M;4.8;;Astana;KAZ;Indoor;2023-02-12;Jaffar;Ashraf;PAK;1998;Male;
 NR;PER;STA;M;5.1;;Reno;USA;Indoor;2004-01-10;Francisco;León;PER;1979;Male;
@@ -7418,7 +7418,7 @@ NR;TJK;100;W;11.62;1.5;Dushanbe;TJK;Outdoor;2021-04-09;Gulsunbi;Sharifova;TJK;19
 NR;TKM;100;W;11.56;1.7;Almaty;KAZ;Outdoor;2008-06-07;Valentina;Meredova;TKM;1984;Female;
 NR;TKS;100;W;11.99;1.2;Barranquilla;COL;Outdoor;2018-07-29;Akia;Guerrier;TKS;1998;Female;
 NR;TLS;100;W;13.57;;Darwin;AUS;Outdoor;2001-05-20;Cesaltilna;De Yesus Guterres;TLS;;Female;
-NR;TOG;100;W;11.82;;Douala;CMR;Outdoor;2021-05-22;Akouvi;Judith Koumedzina;TOG;2001;Female;
+NR;TOG;100;W;11.82;-0.2;Douala;CMR;Outdoor;2021-05-22;Akouvi;Judith Koumedzina;TOG;2001;Female;
 NR;TPE;100;W;11.22;1.9;Wien;AUT;Outdoor;1970-07-18;Chi;Cheng;TPE;1944;Female;
 NR;TTO;100;W;10.82;0.9;Port of Spain;TTO;Outdoor;2017-06-24;Michelle-Lee;Ahye;TTO;1992;Female;
 NR;TUN;100;W;11.68;1.0;Alger;ALG;Outdoor;2000-08-06;Awatef;Hamrouni;TUN;1981;Female;
@@ -8247,7 +8247,7 @@ NR;LCA;60M;W;6.94;;Albuquerque;USA;Indoor;2023-03-11;Julien;Alfred;LCA;2001;Fema
 NR;LIE;60M;W;7.6;;Magglingen;SUI;Indoor;2026-02-21;Fiona;Matt;LIE;2009;Female;
 NR;LTU;60M;W;7.23;;Kaunas;LTU;Indoor;2003-02-21;Agnė;Eggerth;LTU;1978;Female;
 NR;LUX;60M;W;7.01;;Toruń;POL;Indoor;2026-02-22;Patrizia;Van Der Weken;LUX;1999;Female;
-NR;MAC;60M;W;7.45;;Astana;KAZ;Indoor;2023-02-10;Loi;Im Lan;MAC;1998;Female;
+NR;MAC;60M;W;7.4;;Xi'an;CHN;Indoor;2026-03-07;Loi;Im Lan;MAC;1998;Female;
 NR;MAD;60M;W;7.21;;Barcelona;ESP;Indoor;1995-03-10;Laloa;Ravaonirina;MAD;1963;Female;
 NR;MAR;60M;W;7.48;;Val-de-Reuil;FRA;Indoor;2026-02-21;Maria;Saadi;MAR;2010;Female;
 NR;MDA;60M;W;7.42;;Chelyabinsk;URS;Indoor;1990-02-06;Lilia;Mocanu;MDA;;Female;
@@ -8395,9 +8395,9 @@ NR;GUI;10H;W;12.96;1.8;Sacramento;USA;Outdoor;2007-06-08;Fatmata;Fofanah;GUI;198
 NR;GUM;10H;W;15.65;;Manenggon Hills;GUM;Outdoor;2012-05-18;Stefani;Loisel;GUM;;Female;
 NR;GUY;10H;W;13.27;1.7;Barranquilla;COL;Outdoor;2018-07-30;Jenea;Mccammon;GUY;1991;Female;
 NR;HAI;10H;W;12.74;1.7;Athína;GRE;Outdoor;2004-08-23;Nadine;Faustin-Parker;HAI;1976;Female;
-NR;HKG;10H;W;13.14;0.0;Walnut, Ca;USA;Outdoor;1994-04-17;Chan;Sau-Ying;HKG;1970;Female;
+NR;HKG;10H;W;13.14;;Walnut;USA;Outdoor;1994-04-17;Chan;Sau-Ying;HKG;1970;Female;
 NR;HON;10H;W;13.83;-0.6;Toluca;MEX;Outdoor;2008-07-21;Jeimy;J. Bernárdez;HON;1986;Female;
-NR;HUN;10H;W;12.69;0.3;München;GER;Outdoor;2022-08-21;Luca;Kozák;HUN;1996;Female;
+NR;HUN;10H;W;12.69;-0.1;München;GER;Outdoor;2022-08-21;Luca;Kozák;HUN;1996;Female;
 NR;INA;10H;W;12.72;;Bangkok;THA;Outdoor;2025-12-12;Dina;Aulia;INA;2003;Female;
 NR;IND;10H;W;12.78;1.0;Chengdu;CHN;Outdoor;2023-08-04;Jyothi;Yarraji;IND;1999;Female;
 NR;IRI;10H;W;13.64;0.2;Tehran;IRI;Outdoor;2023-08-18;Elnaz;Kompani;IRI;1989;Female;
