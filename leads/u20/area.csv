@@ -50,6 +50,7 @@ AL;1;1K5;WJU20;4:11.24;;Friidrottens Hus;SWE;Indoor;2026-02-14;Carmen;Cernjul;SW
 AL;1;200;WJU20;23.28;;English Institute of Sport;GBR;Indoor;2026-02-08;Sophie;Thomas;GBR;2007;Female;15034140
 AL;1;4×4;MJU20;3:10.96;;Sala de Atletism Ioan Soter;ROU;Indoor;2026-03-08;CS;Orasenesc Voluntari;ROU;;Male;
 AL;1;4×4;XJU20;3:30.64;;President Valdas Adamkus athletics indoor arena;LTU;Indoor;2026-02-14;Latvia;U20;LAT;;Mixed;
+AL;1;40H;WJU20;1:04.18;;National Stadium;TPE;Outdoor;2026-03-05;Myriam;Lahousse;BEL;2008;Female;15121381
 AL;1;3G;WJU20;12:31.40;;Palaindoor Ancona;ITA;Indoor;2026-02-28;Serena;Di Fabio;ITA;2007;Female;14975796
 AL;1;300;WJU20;37.75;;Atletická hala;CZE;Indoor;2026-01-03;Johanka;Šafářová;CZE;2007;Female;14986228
 AL;1;400;MJU20;45.64;;Atletická hala;CZE;Indoor;2026-02-22;Tomáš;Horák;CZE;2008;Male;15111690
@@ -275,10 +276,9 @@ AL;2;1K5;MJU20;3:41.12;;Boston Univ. Track & Tennis Center;USA;Indoor;2026-02-13
 AL;2;KUG;MJU20;16.35;;Houston-Yeoman;USA;Indoor;2026-02-13;Samson;Black;USA;2007;Male;15093529
 AL;2;HOC;MJU20;2.25;;Cliff Rovelto Indoor Track;USA;Indoor;2026-01-16;Alan;Hanna;BAH;2007;Male;15086679
 AL;2;10K;MJU20;31:54.78;;Pista del Centro Deportivo Borregos;MEX;Outdoor;2026-03-07;Yulian;Alexander Galindo;MEX;;Male;15141756
-AL;5;STA;MJU20;4.8;;Aspire Academy Warm Up Track;QAT;Outdoor;2026-02-23;Abdulla;Saad Al-Abdulla;QAT;2008;Male;15091202
-AL;5;STA;MJU20;4.8;;Track & Field complex;KAZ;Indoor;2026-01-11;Dmitriy;Shkerdin;KAZ;2008;Male;15167654
+AL;5;STA;MJU20;4.9;;National Stadium;TPE;Outdoor;2026-03-03;Qi-Lun;Lin;TPE;2007;Male;15146952
 AL;5;5K0;MJU20;14:52.47;;Taipei Municipal Stadium;TPE;Outdoor;2026-01-31;Cheng;Yu Wang;TPE;2009;Male;15171281
-AL;5;SPE;WJU20;53.69;;Taipei Municipal Stadium;TPE;Outdoor;2026-02-03;Yu-Chin;Tai;TPE;2007;Female;15052183
+AL;5;SPE;WJU20;55.69;;National Stadium;TPE;Outdoor;2026-03-05;Yu-Chin;Tai;TPE;2007;Female;15052183
 AL;5;MEI;WJU20;5:15.85;;Ott Center for Track & Field;USA;Indoor;2026-03-07;Noora;Shihab Ahmad Kuran;JOR;2007;Female;15272503
 AL;5;HAM;MJU20;62.8;;Kyushu Kyoritsu University Stadium;JPN;Outdoor;2026-02-21;Andrew;Atuobeng;JPN;2007;Male;15112740
 AL;5;60M;WJU20;7.24;;Shanxi Athletics Administrative Center;CHN;Indoor;2026-03-07;Yujie;Chen;CHN;2008;Female;15138450
@@ -302,7 +302,7 @@ AL;5;10G;MJU20;48:58.48;;Wan Chai Sports Ground;HKG;Outdoor;2026-02-08;Sean;Wang
 AL;5;HOC;WJU20;1.87;;Tuanbo Sports Center;CHN;Indoor;2026-02-08;POOJA;;IND;2007;Female;15053572
 AL;5;DRE;WJU20;12.87;;Shanxi Athletics Administrative Center;CHN;Indoor;2026-03-08;Jinghan;Feng;CHN;2010;Female;15300288
 AL;5;300;MJU20;33.76;;KGHM Sleza Arena;POL;Indoor;2026-01-10;Youssouf;Abdelaziz Djibrine;QAT;2007;Male;15076371
-AL;5;HAM;WJU20;54.74;;Jack Rose Track;USA;Outdoor;2026-03-06;Amanda;Javellana;PHI;2007;Female;15165405
+AL;5;HAM;WJU20;55.07;;National Stadium;TPE;Outdoor;2026-03-02;Chiao-Jo;Shih;TPE;2007;Female;15052182
 AL;5;2KH;WJU20;7:41.85;;Taipei Municipal Stadium;TPE;Outdoor;2026-02-03;Cai;Jie Peng;TPE;2012;Female;15266919
 AL;5;800;WJU20;2:10.94;;Shanxi Athletics Administrative Center;CHN;Indoor;2026-03-08;Rong;Rong;CHN;2007;Female;15034343
 AL;5;WEI;MJU20;7.7;;Tuanbo Sports Center;CHN;Indoor;2026-02-08;.;Shahnavaz;IND;2008;Male;15139285
@@ -323,8 +323,9 @@ AL;5;4×4;MJU20;3:14.73;;Tuanbo Sports Center;CHN;Indoor;2026-02-08;Saudi;Arabia
 AL;5;11H;MJU20;14.62;1.8;Wan Chai Sports Ground;HKG;Outdoor;2026-02-07;Wai;Kwan Leung;HKG;2008;Male;15152685
 AL;5;4×4;XJU20;3:37.02;;Taipei Municipal Stadium;TPE;Outdoor;2026-02-02;Stella;Maris Ursuline High School;TPE;;Mixed;
 AL;5;40H;WJU20;58.47;;Taipei Municipal Stadium;TPE;Outdoor;2026-02-04;Chen-Yu;Liu;TPE;2007;Female;14965286
+AL;5;300;WJU20;41.06;;Prefectural Stadium;JPN;Outdoor;2026-03-08;Aimi;Oganeku;JPN;2008;Female;15264067
 AL;5;400;MJU20;46.65;;Diyagama Stadium;SRI;Outdoor;2026-02-27;S.M.S.V;Rajakaruna;SRI;2007;Male;15157524
-AL;5;10H;WJU20;14.31;-0.4;Taipei Municipal Stadium;TPE;Outdoor;2026-02-03;Yu-Ching;Jang;TPE;2007;Female;15110222
+AL;5;10H;WJU20;14.16;-0.5;National Stadium;TPE;Outdoor;2026-03-03;Chieh;Hsiao;TPE;2008;Female;15052179
 AL;5;DRE;MJU20;15.88;;Shanxi Athletics Administrative Center;CHN;Indoor;2026-03-07;Zhuoyue;Wang;CHN;2007;Male;15137255
 AL;5;400;WJU20;54.16;;Pilditch Stadium;RSA;Outdoor;2026-02-21;Aisha;Tariq Muhammad;UAE;2009;Female;15231929
 AL;5;1K5;MJU20;3:42.72;;Aspire Academy Warm Up Track;QAT;Outdoor;2026-02-24;Mubarik;Abdi Said;QAT;2008;Male;15140395
