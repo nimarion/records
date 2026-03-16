@@ -17,7 +17,7 @@ AL;1;10K;M;31:15.53;;Centro Desportivo da Madeira;POR;Outdoor;2026-02-28;Paulo;C
 AL;1;50H;W;7.24;;Palalottici;ITA;Indoor;2026-01-10;Chiara;Minotti;ITA;2004;Female;14903106
 AL;1;3G;M;11:34.99;;Stade Couvert Stephane Diagana;FRA;Indoor;2026-01-17;Aurélien;Quinion;FRA;1993;Male;14404859
 AL;1;WEI;M;8.45;;Atletska dvorana;SRB;Indoor;2026-02-11;Bozhidar;Sarâboyukov;BUL;2004;Male;14927349
-AL;1;11H;M;14.46;1.8;Performance Centre;AUS;Outdoor;2026-02-07;Matthew;Behan;IRL;1996;Male;14638108
+AL;1;11H;M;13.77;2.0;Stade du;FRA;Outdoor;2026-03-14;Ulric;Portier;FRA;2003;Male;14887731
 AL;1;5G;W;19:53.61;;KMSHVSM Arena;UKR;Indoor;2026-02-27;Lyudmila;Olyanovska;UKR;1993;Female;14388489
 AL;1;60H;W;7.78;;Atletická hala;CZE;Indoor;2026-02-03;Pia;Skrzyszowska;POL;2001;Female;14736349
 AL;1;60H;W;7.78;;Kujawsko-Pomorska Arena;POL;Indoor;2026-02-22;Ditaji;Kambundji;SUI;2002;Female;14739461
@@ -28,7 +28,7 @@ AL;1;SPE;M;82.03;;Floschenstadion;GER;Outdoor;2026-02-22;Nick;Thumm;GER;2004;Mal
 AL;1;50M;W;6.09;;Atletická hala;CZE;Indoor;2026-02-03;Zaynab;Dosso;ITA;1999;Female;14622202
 AL;1;10G;M;39:23.55;;Olimpiyets Arena;BLR;Indoor;2026-02-20;Mikita;Kaliada;BLR;2000;Male;14723505
 AL;1;DIS;W;64.12;;Floschenstadion;GER;Outdoor;2026-02-22;Marike;Steinacker;GER;1992;Female;14373479
-AL;1;100;M;10.54;0.9;WA Athletics Stadium;AUS;Outdoor;2026-03-07;Kyle;Ennis;GBR;1991;Male;14514361
+AL;1;100;M;10.26;0.0;CSU Titan Track Complex;USA;Outdoor;2026-03-13;Abel;Jordan;ESP;2003;Male;14909209
 AL;1;100;W;11.72;;Lee Valley Athletics Centre;GBR;Indoor;2026-03-08;Sarah;Leahy;IRL;1999;Female;14659813
 AL;1;1K0;W;2:35.17;;Cliff Rovelto Indoor Track;USA;Indoor;2026-01-16;Gabija;Galvydytė;LTU;2000;Female;14675493.0
 AL;1;40H;W;1:00.78;;Elon University’s Irwin Belk Track;USA;Outdoor;2026-03-13;Duna;Viñals;AND;2006;Female;14984641
@@ -45,8 +45,7 @@ AL;1;4×4;X;3:23.58;;Velódromo Luis Puig;ESP;Indoor;2026-03-01;Trops-Cueva;De N
 AL;1;800;M;1:43.83;;Atletická hala;CZE;Indoor;2026-02-03;Eliott;Crestan;BEL;1999;Male;14634371
 AL;1;MEI;W;4:21.04;;Boston Univ. Track & Tennis Center;USA;Indoor;2026-02-14;Wilma;Nielsen;SWE;2001;Female;14653693
 AL;1;400;W;50.51;;Randal Tyson Indoor Center;USA;Indoor;2026-02-07;Amber;Anning;GBR;2000;Female;14632781
-AL;1;HAM;M;80.66;;Nyíregyházi Atlétikai Centrum;HUN;Outdoor;2026-03-01;Bence;Halász;HUN;1997;Male;14424480
-AL;1;HAM;M;80.66;;Nyíregyházi Atlétikai Centrum;HUN;Outdoor;2026-03-01;Bence;Halász;HUN;1997;Male;14424480
+AL;1;HAM;M;80.69;;GPS Stadium;CYP;Outdoor;2026-03-15;Volodymyr;Myslyvčuk;CZE;1996;Male;14524329
 AL;1;HAM;W;75.52;;GPS Stadium;CYP;Outdoor;2026-03-14;Katrine;Koch Jacobsen;DEN;1999;Female;14577396
 AL;1;2K0;M;4:52.41;;The Track at New Balance;USA;Indoor;2026-01-24;Pieter;Sisk;BEL;1999;Male;14681333
 AL;1;400;M;45.01;;Atletická hala;CZE;Indoor;2026-02-03;Attila;Molnár;HUN;2002;Male;14712930
@@ -60,7 +59,7 @@ AL;1;4×4;W;3:34.12;;Spartak Stadium;RUS;Indoor;2026-03-03;Moskva;;RUS;;Female;
 AL;1;4×4;M;3:09.95;;Spartak Stadium;RUS;Indoor;2026-03-03;St.;Petersburg;RUS;;Male;
 AL;1;2KH;W;7:13.97;;QSAC State Athletics Facility;AUS;Outdoor;2026-01-17;Gemma;Tutton;GBR;1994;Female;15083377
 AL;1;DRE;M;17.0;;Spartak Stadium;RUS;Indoor;2026-03-02;Ilya;Telkunov;RUS;2003;Male;14935249
-AL;1;10H;W;14.62;0.2;Jack Rose Track;USA;Outdoor;2026-03-07;Emilia;Mandela;POL;2005;Female;14936708
+AL;1;10H;W;14.17;1.0;Doug Shaw Memorial Stadium;USA;Outdoor;2026-03-14;María;Helga Högnadóttir;ISL;;Female;14947547
 AL;1;1K5;W;4:00.04;;Europahalle;GER;Indoor;2026-02-08;Georgia;Hunter Bell;GBR;1993;Female;14329797
 AL;1;600;M;1:15.80;;National Indoor Arena;IRL;Indoor;2026-01-14;Mark;English;IRL;1993;Male;14377494
 AL;1;WEI;W;6.97;;Gallur;ESP;Indoor;2026-02-06;Agate;De Sousa;POR;2000;Female;14816707
@@ -266,7 +265,7 @@ AL;2;300;M;32.1;;The Podium;USA;Indoor;2026-01-16;Garrett;Kaalund;USA;2004;Male;
 AL;2;MEI;M;3:45.94;;JDL Fast Track;USA;Indoor;2026-02-14;Cole;Hocker;USA;2001;Male;14905834
 AL;2;3K0;W;8:26.54;;The Track at New Balance;USA;Indoor;2026-01-24;Elle;St. Pierre;USA;1995;Female;14627694
 AL;2;5K0;M;12:59.09;;Boston Univ. Track & Tennis Center;USA;Indoor;2026-02-22;Parker;Wolfe;USA;2003;Male;14907166
-AL;2;200;M;20.06;;Fall Creek Pavilion;USA;Indoor;2026-02-28;Garrett;Kaalund;USA;2004;Male;14988823
+AL;2;200;M;20.06;;Fall Creek Pavilion;USA;Indoor;2026-02-28;Garrett;Kaalund;USA;2004;Male;14988823.0
 AL;2;DIS;M;62.75;;National Stadium;JAM;Outdoor;2026-02-07;Chad;Wright;JAM;1991;Male;14413487
 AL;2;3KH;M;8:38.62;;Pista del Centro Deportivo Borregos;MEX;Outdoor;2026-03-08;César;Daniel Gomez Ponce;MEX;2001;Male;14837147
 AL;0;4×2;W;1:34.88;;National Stadium;JAM;Outdoor;2026-02-28;Edwin;Allen High U20;INT;;Female;
@@ -277,7 +276,7 @@ AL;2;10K;M;29:41.03;;Pista del Centro Deportivo Borregos;MEX;Outdoor;2026-03-07;
 AL;2;3G;M;11:51.71;;Alachua County Sports Complex;USA;Indoor;2026-03-06;Owen;Nolte;USA;;Male;15279123
 AL;2;WEI;M;8.29;;Mosier Indoor Facility;USA;Indoor;2026-01-16;Kennedy;Stringfellow;USA;2005;Male;15127683
 AL;2;WEI;M;8.29;;Randal Tyson Indoor Center;USA;Indoor;2026-02-13;Cordell;Tinch;USA;2000;Male;14719972
-AL;2;11H;M;13.91;-0.2;Estadio Panamericano;CUB;Outdoor;2026-02-12;Yovany;De La Canuet;CUB;2000;Male;14842869
+AL;2;11H;M;13.9;0.0;Estadio Panamericano;CUB;Outdoor;2026-03-12;Yovany;De La Canuet;CUB;2000;Male;14842869
 AL;2;5G;W;22:14.69;;Ocean Breeze Athl. Complex;USA;Indoor;2026-02-28;Lauren;Harris;USA;1999;Female;14698819
 AL;2;60H;W;7.77;;Kujawsko-Pomorska Arena;POL;Indoor;2026-02-22;Devynne;Charlton;BAH;1995;Female;14414505
 AL;2;KUG;W;20.44;;Ocean Breeze Athl. Complex;USA;Indoor;2026-02-28;Chase;Jackson;USA;1994;Female;14533525
@@ -290,7 +289,7 @@ AL;2;100;M;10.16;1.3;National Stadium;JAM;Outdoor;2026-03-06;Riquelme;Reid;JAM;2
 AL;2;100;W;11.06;1.5;National Stadium;JAM;Outdoor;2026-03-06;Shanoya;Mikalia Douglas;JAM;2007;Female;15063835
 AL;2;1K0;W;2:35.77;;Armory Track&Field Center;USA;Indoor;2026-02-01;Addison;Wiley;USA;2003;Female;14907337
 AL;2;2KH;M;6:21.93;;National Stadium;JAM;Outdoor;2026-02-21;Christopher;Anderson;JAM;;Male;15131134
-AL;2;40H;W;57.76;;Kim Collins Athletic Stadium;SKN;Outdoor;2026-01-31;Grace;Claxton;PUR;1993;Female;14414638
+AL;2;40H;W;56.52;;Pista Basilio Rodriguez;PUR;Outdoor;2026-03-14;Grace;Claxton;PUR;1993;Female;14414638
 AL;2;1K0;M;2:16.30;;Rector Fieldhouse;USA;Indoor;2026-02-07;Cole;Hocker;USA;2001;Male;14905834.0
 AL;2;4×2;M;1:23.30;;National Stadium;JAM;Outdoor;2026-02-28;Kingston;College U20;JAM;;Male;
 AL;2;200;W;22.32;;"R.A. ""Murray"" Fasken Indoor Track Stadium";USA;Indoor;2026-02-26;Adaejah;Hodge;IVB;2006;Female;14845422
@@ -301,7 +300,7 @@ AL;2;HOC;W;1.96;;Športová hala Dukla;SVK;Indoor;2026-02-24;Lamara;Distin;JAM;2
 AL;2;DRE;W;14.75;;LFK;RUS;Indoor;2026-02-07;Leyanis;Pérez Hernández;CUB;2002;Female;14828679
 AL;2;50M;M;5.78;;Field House;CAN;Indoor;2026-01-23;Norris;Spike;CAN;1996;Male;14541575
 AL;2;600;W;1:24.44;;Ashenfelter Indoor Track;USA;Indoor;2026-01-31;Kelly-Ann;Beckford;JAM;2000;Female;14691439
-AL;2;4×4;X;3:21.66;;Pista Atletica Raul Rodriguez;PUR;Outdoor;2026-03-07;Universidad;Ana G Mendez;PUR;;Mixed;
+AL;2;4×4;X;3:21.39;;Estadio Panamericano;CUB;Outdoor;2026-03-13;Cuba;;CUB;;Mixed;
 AL;2;800;M;1:42.50;;The Track at New Balance;USA;Indoor;2026-01-24;Josh;Hoey;USA;1999;Male;14695060
 AL;2;MEI;W;4:17.83;;Boston Univ. Track & Tennis Center;USA;Indoor;2026-02-14;Elle;St. Pierre;USA;1995;Female;14627694
 AL;2;400;W;50.66;;Randal Tyson Indoor Center;USA;Indoor;2026-02-13;Britton;Wilson;USA;2000;Female;14716862
@@ -314,13 +313,13 @@ AL;2;SPE;W;53.89;;Jack Rose Track;USA;Outdoor;2026-03-06;Rori;Denness-Lamont;CAN
 AL;2;4×8;M;7:10.29;;Ott Center for Track & Field;USA;Indoor;2026-02-06;United;States;USA;;Male;
 AL;2;60M;M;6.43;;Randal Tyson Indoor Center;USA;Indoor;2026-02-13;Jordan;Anthony;USA;2004;Male;14961803
 AL;2;4×8;W;8:38.57;;Boston Univ. Track & Tennis Center;USA;Indoor;2026-02-28;Army;West Point;USA;;Female;
-AL;2;3KH;W;10:04.92;;Pista del Centro Deportivo Borregos;MEX;Outdoor;2026-03-08;Sabrina;Salcedo García;MEX;2003;Female;14818646
+AL;2;3KH;W;9:51.43;;Estadio Panamericano;CUB;Outdoor;2026-03-12;Anisleidis;Ochoa;CUB;2000;Female;14785990
 AL;2;4×4;W;3:26.85;;"R.A. ""Murray"" Fasken Indoor Track Stadium";USA;Indoor;2026-02-26;South;Carolina;USA;;Female;
 AL;0;4×4;M;3:00.86;;Clemson Indoor Track & Field Complex;USA;Indoor;2026-02-13;South;Carolina;INT;;Male;
 AL;2;2KH;W;7:00.30;;Pauley Track & Field Complex UC Santa Barbara;USA;Outdoor;2026-03-07;Ryann;Strawn;USA;;Female;15205759
-AL;2;DRE;M;17.11;;Arena Stade Couvert;FRA;Indoor;2026-02-19;Jordan;Scott;JAM;1997;Male;14569308
+AL;2;DRE;M;17.34;0.1;Estadio Panamericano;CUB;Outdoor;2026-03-13;Andy;Hechavarría;CUB;2000;Male;14819255
 AL;0;4×1;M;38.39;;National Stadium;JAM;Outdoor;2026-02-28;Sprint;Tech Track Club;INT;;Male;
-AL;2;10H;W;13.13;1.0;Estadio Panamericano;CUB;Outdoor;2026-02-20;Lisyanet;Ruiz;CUB;2002;Female;14831178
+AL;2;10H;W;12.96;-1.4;Estadio Panamericano;CUB;Outdoor;2026-03-12;Lisyanet;Ruiz;CUB;2002;Female;14831178
 AL;2;1K5;W;3:59.33;;Boston Univ. Track & Tennis Center;USA;Indoor;2026-02-14;Elle;St. Pierre;USA;1995;Female;14627694
 AL;2;600;M;1:14.15;;Armory Track&Field Center;USA;Indoor;2026-02-01;Cooper;Lutkenhaus;USA;2008;Male;15152457
 AL;2;4×1;W;42.92;;National Stadium;JAM;Outdoor;2026-02-28;Jamaica;;JAM;;Female;

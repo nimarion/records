@@ -26,7 +26,7 @@ AL;1;3G;MJU20;12:21.98;;Olimpiyets Arena;BLR;Indoor;2026-01-25;Vadzim;Yatsyna;BL
 AL;1;WEI;WJU20;6.45;;Olympic Sports Complex of Paiania;GRE;Indoor;2026-03-01;Evelyn;Mitropoulou;GRE;2008;Female;15109329
 AL;1;WEI;WJU20;6.45;;Olympic Sports Complex of Paiania;GRE;Indoor;2026-03-01;Evelyn;Mitropoulou;GRE;2008;Female;15109329
 AL;1;5K0;WJU20;16:26.59;;Boston Univ. Track & Tennis Center;USA;Indoor;2026-02-14;Carolina;Correia;POR;2007;Female;15014242
-AL;1;SPE;MJU20;71.76;;Floschenstadion;GER;Outdoor;2026-02-21;Moritz;Schönherr;GER;2007;Male;15063321
+AL;1;SPE;MJU20;73.37;;GPS Stadium;CYP;Outdoor;2026-03-15;Pietro;Villa;ITA;2007;Male;15058772
 AL;1;10G;MJU20;42:31.4;;Slava Metreveli Stadium;RUS;Outdoor;2026-02-17;Konstantin;Pozdnyakov;RUS;2010;Male;15177100
 AL;1;MEI;MJU20;3:58.89;;Boston Univ. Track & Tennis Center;USA;Indoor;2026-02-13;Pol;Molins;ESP;2007;Male;15105361
 AL;1;4×4;WJU20;3:38.01;;Sala de Atletism Ioan Soter;ROU;Indoor;2026-03-08;CS;Dinamo;ROU;;Female;
@@ -43,6 +43,7 @@ AL;1;800;MJU20;1:47.19;;Emirates Arena;GBR;Indoor;2026-03-01;Matthew;Mckenna;GBR
 AL;1;60H;WJU20;8.08;;Palaindoor Ancona;ITA;Indoor;2026-02-28;Alessia;Succo;ITA;2009;Female;15025212
 AL;1;STA;WJU20;4.45;;Stadium Jean-Pellez;FRA;Indoor;2026-02-28;Moana;Peyrard;FRA;2008;Female;15130808
 AL;1;5G;MJU20;19:30.77;;Palaindoor Ancona;ITA;Indoor;2026-02-07;Alessio;Coppola;ITA;2007;Male;15012668
+AL;1;100;WJU20;11.93;0.7;Stade du;FRA;Outdoor;2026-03-14;Aaliyah;Vanoukia;FRA;2007;Female;15048927
 AL;1;100;WJU20;11.93;;Lee Valley Athletics Centre;GBR;Indoor;2026-03-08;Honor;Oteng;GBR;;Female;15121646
 AL;1;60H;MJU20;7.64;;Bærum Idrettspark;NOR;Indoor;2026-02-14;Anthony;Ommundsen Johnsen;NOR;2007;Male;15099049
 AL;1;1K0;WJU20;2:44.15;;Kujawsko-Pomorska Arena;POL;Indoor;2026-01-18;Oksana;Pestka;POL;2008;Female;14985598
@@ -221,12 +222,13 @@ AL;2;5K0;MJU20;14:42.53;;Boston Univ. Track & Tennis Center;USA;Indoor;2026-01-3
 AL;2;SPE;WJU20;46.95;;National Stadium;JAM;Outdoor;2026-03-08;Zoelle;Jamel;JAM;2009;Female;15078078
 AL;2;MEI;WJU20;4:34.55;;Ott Center for Track & Field;USA;Indoor;2026-02-28;Blair;Bartlett;USA;2009;Female;15138651
 AL;2;600;WJU20;1:28.10;;Armory Track&Field Center;USA;Indoor;2026-02-01;Natalie;Dumas;USA;;Female;15137056.0
-AL;2;HAM;MJU20;52.11;;Jack Rose Track;USA;Outdoor;2026-03-06;Isaiah;Butler;USA;;Male;15142517
+AL;2;HAM;MJU20;55.51;;CSU Titan Track Complex;USA;Outdoor;2026-03-12;Isaiah;Butler;USA;;Male;15142517
 AL;2;60M;WJU20;7.13;;Ocean Breeze Athl. Complex;USA;Indoor;2026-03-01;Mia;Maxwell;USA;;Female;15082962
 AL;2;4×1;MJU20;39.69;;National Stadium;JAM;Outdoor;2026-02-28;Excelsior;High U20;JAM;;Male;
 AL;2;600;MJU20;1:14.15;;Armory Track&Field Center;USA;Indoor;2026-02-01;Cooper;Lutkenhaus;USA;2008;Male;15152457
 AL;2;3KH;MJU20;9:08.27;;Pista del Centro Deportivo Borregos;MEX;Outdoor;2026-03-08;Mario;Francisco Vazquez;MEX;2007;Male;15153821
 AL;2;3K0;WJU20;9:02.77;;Boston Univ. Track & Tennis Center;USA;Indoor;2026-02-14;Abigail;Hennessy;USA;;Female;15076680
+AL;2;10K;WJU20;38:55.58;;Doug Shaw Memorial Stadium;USA;Outdoor;2026-03-13;Lexi;Greene;USA;2007;Female;15301947
 AL;2;100;MJU20;10.16;1.3;National Stadium;JAM;Outdoor;2026-03-06;Riquelme;Reid;JAM;2007;Male;15081959
 AL;2;5G;WJU20;23:44.60;;Estadio Olímpico de la Cd. Deportiva;MEX;Outdoor;2026-02-13;Natalia;Mendiola;MEX;;Female;15089983
 AL;2;KUG;WJU20;18.45;;Ott Center for Track & Field;USA;Indoor;2026-01-24;Jessica;Oji;USA;2007;Female;15165163
@@ -248,6 +250,7 @@ AL;2;HOC;WJU20;1.81;;Cliff Rovelto Indoor Track;USA;Indoor;2026-01-30;Shanniqua;
 AL;2;DRE;WJU20;13.16;1.4;Pista del Centro Deportivo Borregos;MEX;Outdoor;2026-03-08;Paola;Del Real;MEX;2007;Female;15153808
 AL;2;300;MJU20;32.1;;Clemson Indoor Track & Field Complex;USA;Indoor;2026-01-10;Sidi;Njie;USA;2007;Male;15027039
 AL;2;HAM;WJU20;59.29;;Jack Rose Track;USA;Outdoor;2026-03-06;Kim;Beard;USA;2007;Female;15023491
+AL;2;50M;WJU20;7.12;;Field House;CAN;Indoor;2026-03-14;Michaela;Illah;CAN;;Female;15222841
 AL;2;2KH;WJU20;7:05.51;;GC Foster College;JAM;Outdoor;2026-02-25;Sushana;Johnson;JAM;2007;Female;14979457
 AL;2;800;WJU20;2:02.35;;Ocean Breeze Athl. Complex;USA;Indoor;2026-02-28;Paige;Sheppard;USA;;Female;15016989
 AL;2;WEI;MJU20;8.18;;Pista de atletismo Cuberta de Ourense;ESP;Indoor;2026-02-21;Jorge;A. Hodelín;CUB;2007;Male;15111238
