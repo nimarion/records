@@ -66,7 +66,7 @@ AL;1;HOC;MJU20;2.25;;Olympic Sports Complex of Paiania;GRE;Indoor;2026-03-01;Cha
 AL;1;HOC;MJU20;2.25;;Olympic Sports Complex of Paiania;GRE;Indoor;2026-03-01;Charalampos;Alivizatos;GRE;2008;Male;15104472
 AL;4;STA;MJU20;4.55;;Universiade Pavilion;CAN;Indoor;2026-02-01;Jaden;Van Der Linde;RSA;2007;Male;15143364
 AL;4;5K0;MJU20;14:48.23;;Pilditch Stadium;RSA;Outdoor;2026-02-21;Njabulo;Hlatswayo;RSA;2007;Male;15079262
-AL;4;SPE;WJU20;50.06;;Pilditch Stadium;RSA;Outdoor;2026-02-13;Stephane;Hook;RSA;2008;Female;15024412
+AL;4;SPE;WJU20;52.21;;McArthur Stadium;RSA;Outdoor;2026-03-14;Stephane;Hook;RSA;2008;Female;15024412
 AL;4;MEI;WJU20;4:33.60;;"R.A. ""Murray"" Fasken Indoor Track Stadium";USA;Indoor;2026-02-26;Mary;Nyaboke Ogwoka;KEN;2007;Female;14989695
 AL;4;600;WJU20;1:28.46;;Pilditch Stadium;RSA;Outdoor;2026-02-14;Carise;Van Rooyen;RSA;2007;Female;15081618
 AL;4;HAM;MJU20;53.26;;Suez Canal Authority Stadium;EGY;Outdoor;2026-02-23;Mohamed;Salah Abdel-Alad Abdel-Majeed;EGY;2008;Male;15142160
@@ -77,6 +77,7 @@ AL;4;600;MJU20;1:16.65;;Pilditch Stadium;RSA;Outdoor;2026-02-14;Werner;Gouws;RSA
 AL;4;3KH;MJU20;9:19.51;;Pilditch Stadium;RSA;Outdoor;2026-02-28;Leon;Stoltz;RSA;2008;Male;15139505
 AL;4;3K0;WJU20;8:38.90;;Europahalle;GER;Indoor;2026-02-08;Yenawa;Nbret;ETH;2007;Female;15090391
 AL;4;100;MJU20;10.2;-0.1;Pilditch Stadium;RSA;Outdoor;2026-02-14;Mukona;Manavhela;RSA;2008;Male;15076540
+AL;4;5G;WJU20;26:47.85;;McArthur Stadium;RSA;Outdoor;2026-03-14;Renate;Van Der Merwe;RSA;2010;Female;15143558
 AL;4;KUG;WJU20;18.5;;Armory Track&Field Center;USA;Indoor;2026-03-01;Jessica;Oji;NGR;2007;Female;15165163
 AL;4;3K0;MJU20;7:43.01;;Arena Stade Couvert;FRA;Indoor;2026-02-19;Frankline;Kibet;KEN;2007;Male;15223756
 AL;4;60M;MJU20;6.58;;Aspire Dome;QAT;Indoor;2026-01-08;Farooque;Aman;NGR;2007;Male;14933009
@@ -97,7 +98,7 @@ AL;4;50M;WJU20;6.64;;Salle du Centre Mondial du Cyclisme;SUI;Indoor;2026-01-17;M
 AL;4;2KH;WJU20;7:14.64;;Pilditch Stadium;RSA;Outdoor;2026-02-28;Zanta;Lourens;RSA;2010;Female;15184023
 AL;4;800;WJU20;2:01.25;;Pilditch Stadium;RSA;Outdoor;2026-02-28;Nancy;Jepngetich;KEN;2007;Female;15228251
 AL;4;WEI;MJU20;7.67;-1.2;Pilditch Stadium;RSA;Outdoor;2026-01-17;Keamogetswe;Monyeki;RSA;2007;Male;15116080
-AL;4;800;MJU20;1:49.16;;Hoërskool Stadium;RSA;Outdoor;2026-03-06;Werner;Gouws;RSA;2007;Male;15021094
+AL;4;800;MJU20;1:48.88;;McArthur Stadium;RSA;Outdoor;2026-03-17;Werner;Gouws;RSA;2007;Male;15021094
 AL;4;2KH;MJU20;6:09.68;;National Stadium;JAM;Outdoor;2026-02-07;Evans;Tetteh;GHA;2008;Male;15127111
 AL;4;60H;WJU20;8.23;;"R.A. ""Murray"" Fasken Indoor Track Stadium";USA;Indoor;2026-02-26;Osamuyi;Faith;NGR;2007;Female;15023578
 AL;4;40H;MJU20;50.21;;Pilditch Stadium;RSA;Outdoor;2026-02-14;Stiaan;Myburgh;RSA;2008;Male;15141315
@@ -182,7 +183,7 @@ AL;6;KUG;WJU20;14.84;;Lakeside Stadium;AUS;Outdoor;2026-02-07;Lauren;Kelly;AUS;2
 AL;6;3K0;MJU20;7:43.16;;Boston Univ. Track & Tennis Center;USA;Indoor;2026-02-22;Sam;Ruthe;NZL;2009;Male;15131581
 AL;6;10G;WJU20;49:49.00;;QSAC State Athletics Facility;AUS;Outdoor;2026-02-21;Milly;Sharpe;AUS;2008;Female;14965350
 AL;6;60M;MJU20;6.73;0.6;Lakeside Stadium;AUS;Outdoor;2026-02-07;Hugh;Kabengele;AUS;2007;Male;15052141
-AL;6;200;MJU20;20.89;1.0;WA Athletics Stadium;AUS;Outdoor;2026-02-14;Zavier;Peacock;AUS;2008;Male;15122792
+AL;6;200;MJU20;20.42;-2.1;QSAC State Athletics Facility;AUS;Outdoor;2026-03-15;Gout;Gout;AUS;2007;Male;15006779
 AL;6;1K0;MJU20;2:28.15;;Domain Athletic Centre;AUS;Outdoor;2026-02-14;Luke;Palmer;AUS;2007;Male;15012980
 AL;6;DIS;WJU20;51.66;;Nga Puna Wai Sports Hub;NZL;Outdoor;2026-02-21;Melelosaline;Lose;NZL;2007;Female;14960184
 AL;6;DIS;MJU20;47.42;;SA Athletic Stadium;AUS;Outdoor;2026-03-07;Noah;Schoepf;AUS;2007;Male;14968500
@@ -220,7 +221,7 @@ AL;6;DRE;MJU20;15.86;1.9;Domain Athletic Centre;AUS;Outdoor;2026-02-28;Daniel;Ok
 AL;6;400;WJU20;53.6;;Reno Livestock Events Center;USA;Indoor;2026-02-28;Shari;Hurdman;AUS;2007;Female;14862081
 AL;6;1K5;MJU20;3:33.25;;Boston Univ. Track & Tennis Center;USA;Indoor;2026-01-31;Sam;Ruthe;NZL;2009;Male;15131581
 AL;6;KUG;MJU20;16.12;;Cooks Gardens;NZL;Outdoor;2026-01-24;Frazer;Hazeldine;NZL;2009;Male;15190290
-AL;6;HOC;MJU20;2.07;;WA Athletics Stadium;AUS;Outdoor;2026-02-14;Jonathan;Waddingham;AUS;2007;Male;15017043
+AL;6;HOC;MJU20;2.08;;QSAC State Athletics Facility;AUS;Outdoor;2026-03-15;Alikana;Malish;AUS;2011;Male;15184385
 AL;2;50M;MJU20;5.89;;Field House;CAN;Indoor;2026-01-23;Olufemi;Akinloye;CAN;;Male;15041707
 AL;2;2K0;MJU20;5:21.03;;JDL Fast Track;USA;Indoor;2026-02-14;Owen;Munn;USA;2008;Male;15292979
 AL;2;STA;MJU20;5.36;;Bob Devaney Sports Center;USA;Indoor;2026-02-06;Caelan;Harland;USA;2007;Male;15067923
@@ -294,11 +295,11 @@ AL;5;60M;WJU20;7.24;;Shanxi Athletics Administrative Center;CHN;Indoor;2026-03-0
 AL;5;4×1;MJU20;40.88;;National Stadium;TPE;Outdoor;2026-03-03;Taoyuan;Municipal Ping Jen Senior High School;TPE;;Male;
 AL;5;600;MJU20;1:19.51;;KGHM Sleza Arena;POL;Indoor;2026-01-10;Samer;Moosa Hassan;QAT;2008;Male;15157303
 AL;5;3KH;MJU20;9:24.96;;King Fahd Sports City Stadium;KSA;Outdoor;2026-03-07;Ammar;Omar Alshanqiti;KSA;2007;Male;15089367
-AL;5;3K0;WJU20;9:52.23;;Shanxi Athletics Administrative Center;CHN;Indoor;2026-03-08;Yaowen;Xing;CHN;2008;Female;15247982
+AL;5;3K0;WJU20;9:20.56;;Xipu Training Base Indoor Athletics Stadium;CHN;Indoor;2026-03-12;Shuanglu;Pan;CHN;2007;Female;15155551
 AL;5;100;MJU20;10.55;;JATCO Indoor Stadium;JPN;Indoor;2026-02-15;Ibuki;Yasuda;JPN;2008;Male;15054506
 AL;5;5G;WJU20;23:52.48;;Athletic Center Olga Rypakova;KAZ;Indoor;2026-02-18;Margarita;Storozhenko;KAZ;2008;Female;15019874
-AL;5;KUG;WJU20;15.57;;Shanxi Athletics Administrative Center;CHN;Indoor;2026-03-08;Yuxiao;He;CHN;2007;Female;15072912
-AL;5;3K0;MJU20;8:21.19;;Shanxi Athletics Administrative Center;CHN;Indoor;2026-03-08;Boyang;Li;CHN;2007;Male;15096937
+AL;5;KUG;WJU20;16.02;;Xipu Training Base Indoor Athletics Stadium;CHN;Indoor;2026-03-11;Xiaohan;Zhai;CHN;2008;Female;15221578
+AL;5;3K0;MJU20;8:20.61;;Xipu Training Base Indoor Athletics Stadium;CHN;Indoor;2026-03-12;Jiahao;Wang;CHN;2007;Male;15140973
 AL;5;60M;MJU20;6.52;;Aspire Dome;QAT;Indoor;2026-01-08;Jabar;Khamis;QAT;2007;Male;15137193
 AL;5;200;MJU20;20.67;1.1;Pilditch Stadium;RSA;Outdoor;2026-02-28;Suleiman;Abdulrahman;UAE;2007;Male;15122281
 AL;5;1K0;MJU20;2:34.41;;Dennis Fairall Fieldhouse;CAN;Indoor;2026-02-07;Thomas;Tse;HKG;;Male;15195092
@@ -316,7 +317,7 @@ AL;5;300;MJU20;33.76;;KGHM Sleza Arena;POL;Indoor;2026-01-10;Youssouf;Abdelaziz 
 AL;5;HAM;WJU20;55.07;;National Stadium;TPE;Outdoor;2026-03-02;Chiao-Jo;Shih;TPE;2007;Female;15052182
 AL;5;2KH;WJU20;7:34.08;;National Stadium;TPE;Outdoor;2026-03-01;Liang;Liang Chen;TPE;2010;Female;15259877
 AL;5;800;WJU20;2:10.94;;Shanxi Athletics Administrative Center;CHN;Indoor;2026-03-08;Rong;Rong;CHN;2007;Female;15034343
-AL;5;WEI;MJU20;7.7;;Tuanbo Sports Center;CHN;Indoor;2026-02-08;.;Shahnavaz;IND;2008;Male;15139285
+AL;5;WEI;MJU20;7.87;;Xipu Training Base Indoor Athletics Stadium;CHN;Indoor;2026-03-11;Chengyi;Zhou;CHN;2008;Male;15138386
 AL;5;800;MJU20;1:49.55;;Aspire Academy Warm Up Track;QAT;Outdoor;2026-02-24;Samer;Ismail Ismail;QAT;2008;Male;15158847
 AL;5;2KH;MJU20;6:17.74;;Prince Faisal Bin Fahad Stadium;KSA;Outdoor;2026-02-14;Aboud;Faqihi;KSA;;Male;15292820
 AL;5;60H;WJU20;8.5;;Athletic Center Olga Rypakova;KAZ;Indoor;2026-02-14;Antonina;Chernyshova;KAZ;2007;Female;15019872
