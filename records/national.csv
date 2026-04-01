@@ -3250,7 +3250,7 @@ NR;GUY;10H;W;13.27;1.7;Barranquilla;COL;Outdoor;2018-07-30;Jenea;Mccammon;GUY;19
 NR;HAI;10H;W;12.74;1.7;Athína;GRE;Outdoor;2004-08-23;Nadine;Faustin-Parker;HAI;1976;Female;
 NR;HKG;10H;W;13.14;;Walnut;USA;Outdoor;1994-04-17;Chan;Sau-Ying;HKG;1970;Female;
 NR;HON;10H;W;13.83;-0.6;Toluca;MEX;Outdoor;2008-07-21;Jeimy;J. Bernárdez;HON;1986;Female;
-NR;HUN;10H;W;12.69;0.3;München;GER;Outdoor;2022-08-21;Luca;Kozák;HUN;1996;Female;
+NR;HUN;10H;W;12.69;-0.1;München;GER;Outdoor;2022-08-21;Luca;Kozák;HUN;1996;Female;
 NR;INA;10H;W;12.72;;Bangkok;THA;Outdoor;2025-12-12;Dina;Aulia;INA;2003;Female;
 NR;IND;10H;W;12.78;1.0;Chengdu;CHN;Outdoor;2023-08-04;Jyothi;Yarraji;IND;1999;Female;
 NR;IRI;10H;W;13.64;0.2;Tehran;IRI;Outdoor;2023-08-18;Elnaz;Kompani;IRI;1989;Female;
@@ -9268,7 +9268,7 @@ NR;TKM;STA;M;4.61;;Ashkhabad;TKM;Outdoor;1981-05-17;Oleg;Tsirtsenis;TKM;1957;Mal
 NR;TKS;STA;M;3.95;;Kingston;JAM;Outdoor;2018-03-22;Fenelon;Wikenson;TKS;1999;Male;
 NR;TKS;STA;M;3.95;;Kingston;JAM;Outdoor;2018-03-22;Wilkenson;Fenelon;TKS;;Male;
 NR;TOG;STA;M;5.2;;Regensburg;GER;Outdoor;2010-08-15;Amdaniou;Traore;TOG;1988;Male;
-NR;TPE;STA;M;5.38;;New Taipei City;TPE;Outdoor;2023-09-24;Lin;Chih-Cheng;TPE;2001;Male;
+NR;TPE;STA;M;5.5;;Nantou City;TPE;Outdoor;2026-03-22;Wu;Yen-Han;TPE;2005;Male;
 NR;TTO;STA;M;4.65;;Ithaca;USA;Outdoor;1995-08-04;Eddison;Toby;TTO;;Male;
 NR;TUN;STA;M;5.4;;Radès;TUN;Outdoor;2017-06-18;Mohamed;Amin Habib Romdhana;TUN;1993;Male;
 NR;TUR;STA;M;5.92;;Berlin;GER;Outdoor;2025-07-27;Ersu;Şaşma;TUR;1999;Male;
@@ -9374,8 +9374,7 @@ NR;SVK;STA;M;5.3;;Praha;CZE;Indoor;2004-02-21;Rudolf;Haraksim;SVK;1981;Male;
 NR;SWE;STA;M;6.31;;Uppsala;SWE;Indoor;2026-03-12;Armand;Duplantis;SWE;1999;Male;
 NR;THA;STA;M;5.45;;Tehran;IRI;Indoor;2024-02-18;Phassapong;Unsum-Ang;THA;1997;Male;
 NR;TOG;STA;M;4.26;;Valenciennes;FRA;Indoor;2001-03-18;Latif;Adeothy;TOG;1984;Male;
-NR;TPE;STA;M;5.3;;Reno;USA;Indoor;2014-01-18;Hsieh;Chia-Han;TPE;1988;Male;
-NR;TPE;STA;M;5.3;;Provo;USA;Indoor;2024-01-13;Hsu;Teh-Ying;TPE;1999;Male;
+NR;TPE;STA;M;5.5;;Nantou City;TPE;Indoor;2026-03-25;Huang;Yung-Fu;TPE;2000;Male;
 NR;TUN;STA;M;5.35;;Niort;FRA;Indoor;2017-03-11;Mohamed;Amin Habib Romdhana;TUN;1993;Male;
 NR;TUR;STA;M;5.82;;Roubaix;FRA;Indoor;2024-02-14;Ersu;Şaşma;TUR;1999;Male;
 NR;UKR;STA;M;6.15;;Donetsk;UKR;Indoor;1993-02-21;Sergey;Bubka;UKR;1963;Male;
