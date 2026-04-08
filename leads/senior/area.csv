@@ -23,7 +23,7 @@ AL;2;STA;M;6.01;;Ocean Breeze Athl. Complex;USA;Indoor;2026-02-28;Zachery;Bradfo
 AL;2;STA;W;4.88;;Dempsey Indoor;USA;Indoor;2026-01-30;Hana;Moll;USA;2005;Female;14912947
 AL;2;60H;W;7.65;;Kujawsko-Pomorska Arena;POL;Indoor;2026-03-22;Devynne;Charlton;BAH;1995;Female;14414505
 AL;0;4×1;M;38.39;;National Stadium;JAM;Outdoor;2026-02-28;Sprint;Tech Track Club;INT;;Male;
-AL;2;100;W;11.05;-2.1;Estadio Luguelín Santos;DOM;Outdoor;2026-03-28;Liranyi;Alonso;DOM;2005;Female;15040816
+AL;2;100;W;11.0;1.9;Mike A. Myers Stadium;USA;Outdoor;2026-04-04;Gabrielle;Thomas;USA;1996;Female;14733520
 AL;2;2K0;W;5:32.68;;Arena Stade Couvert;FRA;Indoor;2026-02-19;Lucia;Stafford;CAN;1998;Female;14464956
 AL;2;40H;W;54.22;;Percy Beard Track;USA;Outdoor;2026-04-04;Akala;Garrett;USA;2005;Female;14807195
 AL;2;3K0;W;8:26.54;;The Track at New Balance;USA;Indoor;2026-01-24;Elle;St. Pierre;USA;1995;Female;14627694
@@ -63,7 +63,7 @@ AL;2;DRE;M;17.34;0.1;Estadio Panamericano;CUB;Outdoor;2026-03-13;Andy;Hechavarr�
 AL;2;WEI;M;8.29;;Randal Tyson Indoor Center;USA;Indoor;2026-02-13;Cordell;Tinch;USA;2000;Male;14719972
 AL;2;WEI;M;8.29;;Mosier Indoor Facility;USA;Indoor;2026-01-16;Kennedy;Stringfellow;USA;2005;Male;15127683
 AL;2;2KH;W;6:43.77;;UCF Soccer and Track Complex;USA;Outdoor;2026-03-21;Hannah;Pricco;USA;;Female;15120702
-AL;2;200;W;22.22;;Randal Tyson Indoor Center;USA;Indoor;2026-03-14;Adaejah;Hodge;IVB;2006;Female;14845422
+AL;2;200;W;22.11;1.9;Kirani James Athletic Stadium;GRN;Outdoor;2026-04-06;Shanoya;Mikalia Douglas;JAM;2007;Female;15063835
 AL;2;DIS;M;65.83;;Univ. of Arizona Roy P. Drachman Stadium;USA;Outdoor;2026-03-28;Reggie;Jagers Iii;USA;1994;Male;14530244
 AL;2;2KH;M;5:53.95;;Ole Miss T&F Complex;USA;Outdoor;2026-03-20;Samuel;Ferguson;USA;;Male;15076967
 AL;2;MEI;M;3:45.94;;JDL Fast Track;USA;Indoor;2026-02-14;Cole;Hocker;USA;2001;Male;14905834
@@ -160,6 +160,7 @@ AL;1;STA;M;6.31;;IFU Arena;SWE;Indoor;2026-03-12;Armand;Duplantis;SWE;1999;Male;
 AL;1;STA;W;4.85;;Kujawsko-Pomorska Arena;POL;Indoor;2026-03-22;Molly;Caudery;GBR;2000;Female;14688948
 AL;1;60H;W;7.73;;Kujawsko-Pomorska Arena;POL;Indoor;2026-03-22;Nadine;Visser;NED;1995;Female;14451249
 AL;1;60H;W;7.73;;Kujawsko-Pomorska Arena;POL;Indoor;2026-03-22;Pia;Skrzyszowska;POL;2001;Female;14736349
+AL;1;4×1;M;41.47;;Kirani James Athletic Stadium;GRN;Outdoor;2026-04-05;Martinique;U20;FRA;;Male;
 AL;1;100;W;11.34;0.9;National Stadium;JAM;Outdoor;2026-03-21;Nia;Wedderburn-Goodison;GBR;2005;Female;14781167
 AL;1;2K0;W;5:30.31;;Arena Stade Couvert;FRA;Indoor;2026-02-19;Salomé;Afonso;POR;1997;Female;14594593
 AL;1;40H;W;55.71;;Terry & Linda Fuller T&F Complex;USA;Outdoor;2026-03-26;Vanessa;Baldé;GER;2003;Female;14910221.0
@@ -228,7 +229,7 @@ AL;3;10H;W;13.67;1.8;Pista da Universidade Estadual de Londrina;BRA;Outdoor;2026
 AL;3;STA;M;5.68;;Rector Fieldhouse;USA;Indoor;2026-02-06;Ricardo;David Montes;VEN;2006;Male;14999232
 AL;3;STA;W;4.7;;Kujawsko-Pomorska Arena;POL;Indoor;2026-03-22;Juliana;De Menis Campos;BRA;1996;Female;14545924
 AL;3;60H;W;7.95;;Kujawsko-Pomorska Arena;POL;Indoor;2026-03-22;María;Fernanda Murillo;COL;1999;Female;14597657
-AL;3;4×1;M;42.12;;Pista Atlética Jefferson Pérez;ECU;Outdoor;2026-03-28;Guayas;;ECU;;Male;
+AL;3;4×1;M;40.91;;Kirani James Athletic Stadium;GRN;Outdoor;2026-04-05;Guyana;U20;GUY;;Male;
 AL;3;100;W;11.21;0.0;Eesporte Clube Pinheros;BRA;Outdoor;2026-04-04;Ana;Azevedo;BRA;1998;Female;14579558
 AL;3;40H;W;1:00.45;;COTP Stadium;BRA;Outdoor;2026-03-28;Nykolli;Alves;BRA;2006;Female;15050880
 AL;3;3K0;W;9:20.60;;Parque Municipal;CHI;Outdoor;2026-03-07;Micaela;Levaggi;ARG;1998;Female;14545494
@@ -367,7 +368,7 @@ AL;5;10K;M;27:24.18;;JSerra Catholic;USA;Outdoor;2026-03-28;Gulveer;Singh;IND;19
 AL;5;HAM;M;73.42;;Sichuan Xipu Training Base;CHN;Outdoor;2026-04-03;Qi;Wang;CHN;2001;Male;14788582
 AL;5;3KH;M;8:33.77;;SA Athletic Stadium;AUS;Outdoor;2026-03-14;Yutaro;Niinae;JPN;2001;Male;14902797
 AL;5;10G;W;49:22.89;;Fujisawa;JPN;Outdoor;2026-03-18;Natsuki;Arai;JPN;2007;Female;15168257
-AL;5;5G;M;20:05.59;;National Stadium;TPE;Outdoor;2026-03-03;Sheng-Chin;Lo;TPE;2008;Male;15094324
+AL;5;5G;M;19:36.78;;Hakatanomori Athletic Stadium;JPN;Outdoor;2026-04-05;Kanta;Tokuyama;JPN;2001;Male;14830696
 AL;5;100;M;10.22;1.1;Percy Beard Track;USA;Outdoor;2026-04-04;Chun-Han;Yang;TPE;1997;Male;14547735
 AL;5;1K0;W;3:01.26;;Loftus Sports Center;USA;Indoor;2026-01-24;Natalya;Kuchenbuch;SGP;2007;Female;15088270
 AL;5;5G;W;23:52.48;;Athletic Center Olga Rypakova;KAZ;Indoor;2026-02-18;Margarita;Storozhenko;KAZ;2008;Female;15019874
@@ -380,8 +381,8 @@ AL;5;SPE;W;59.17;;Kyushu Kyoritsu University Stadium;JPN;Outdoor;2026-03-21;Yuki
 AL;5;1K5;W;4:06.39;;WA Athletics Stadium;AUS;Outdoor;2026-02-14;Nozomi;Tanaka;JPN;1999;Female;14632538
 AL;5;400;W;52.86;;Diyagama Stadium;SRI;Outdoor;2026-02-28;M.A.N.;Harshani Fernando;SRI;2000;Female;14966408
 AL;5;HOC;M;2.3;;Športová hala Dukla;SVK;Indoor;2026-02-24;Sanghyeok;Woo;KOR;1996;Male;14532326
-AL;5;HOC;M;2.3;;Športová hala Dukla;SVK;Indoor;2026-02-24;Tomohiro;Shinno;JPN;1996;Male;14671473
 AL;5;HOC;M;2.3;;Městská sportovní hala;CZE;Indoor;2026-02-07;Naoto;Hasegawa;JPN;1996;Male;14722758
+AL;5;HOC;M;2.3;;Športová hala Dukla;SVK;Indoor;2026-02-24;Tomohiro;Shinno;JPN;1996;Male;14671473
 AL;5;800;M;1:45.17;;Ashenfelter Indoor Track;USA;Indoor;2026-01-30;Allon;Tatsunami Clay;JPN;2002;Male;14851854.0
 AL;5;SPE;M;83.07;;WA Athletics Stadium;AUS;Outdoor;2026-02-14;Rumesh;Tharanga Pathirage;SRI;2003;Male;14886862
 AL;5;DIS;W;62.34;;Sichuan Xipu Training Base;CHN;Outdoor;2026-04-03;Fang;Wang;CHN;2000;Female;14888995
@@ -391,7 +392,7 @@ AL;5;1K0;M;2:17.29;;Boston Univ. Track & Tennis Center;USA;Indoor;2026-02-13;All
 AL;5;300;W;36.83;;Prefectural Yamanokuchi Athletics Stadium;JPN;Outdoor;2026-03-20;Abigeirufuka;Ido;JPN;2001;Female;14817771
 AL;5;DRE;M;17.11;;Shanxi Athletics Administrative Center;CHN;Indoor;2026-03-07;Wen;Su;CHN;1999;Male;14839808
 AL;5;WEI;M;8.21;;Randal Tyson Indoor Center;USA;Indoor;2026-03-13;Lokesh;Sathyanathan;IND;1999;Male;14734782
-AL;5;2KH;W;7:34.08;;National Stadium;TPE;Outdoor;2026-03-01;Liang;Liang Chen;TPE;2010;Female;15259877
+AL;5;2KH;W;6:55.55;;Hakatanomori Athletic Stadium;JPN;Outdoor;2026-04-04;Niko;Ryoke;JPN;2008;Female;15148444
 AL;5;200;W;23.18;-0.2;Barden Ridge Athletics Track;AUS;Outdoor;2026-02-07;Jessica;Laurance;PHI;2003;Female;14765816
 AL;5;DIS;M;60.54;;Sichuan Xipu Training Base;CHN;Outdoor;2026-04-03;Zehao;Jiang;CHN;2006;Male;15096776
 AL;5;2KH;M;6:17.74;;Prince Faisal Bin Fahad Stadium;KSA;Outdoor;2026-02-14;Aboud;Faqihi;KSA;;Male;15292820
@@ -400,6 +401,6 @@ AL;5;4×4;W;3:32.81;;Sports Complex;IND;Outdoor;2026-03-28;India;;IND;;Female;
 AL;5;4×4;X;3:18.90;;Sports Complex;IND;Outdoor;2026-03-28;India;;IND;;Mixed;
 AL;5;800;W;2:04.32;;Boston Univ. Track & Tennis Center;USA;Indoor;2026-01-30;Nozomi;Tanaka;JPN;1999;Female;14632538
 AL;5;60M;W;7.24;;Shanxi Athletics Administrative Center;CHN;Indoor;2026-03-07;Yujie;Chen;CHN;2008;Female;15138450
-AL;5;60M;M;6.52;;Aspire Dome;QAT;Indoor;2026-01-08;Jabar;Khamis;QAT;2007;Male;15137193
 AL;5;60M;M;6.52;;AccorHotels Arena de Bercy;FRA;Indoor;2026-01-25;Ali;Al Balushi;OMA;2002;Male;14844149
+AL;5;60M;M;6.52;;Aspire Dome;QAT;Indoor;2026-01-08;Jabar;Khamis;QAT;2007;Male;15137193
 AL;5;600;M;1:15.47;;Fall Creek Pavilion;USA;Indoor;2026-02-27;Allon;Tatsunami Clay;JPN;2002;Male;14851854
