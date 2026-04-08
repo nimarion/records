@@ -1753,7 +1753,7 @@ NR;KGZ;100;W;11.37;0.7;Tashkent;UZB;Outdoor;2004-05-20;Yelena;Bobrovskaya;KGZ;19
 NR;KIR;100;W;13.07;-0.1;Athína;GRE;Outdoor;2004-08-20;Kaitinano;Mwemweata;KIR;1984;Female;
 NR;KOR;100;W;11.49;0.8;Seoul;KOR;Outdoor;1994-06-17;Lee;Young-Sook;KOR;;Female;
 NR;KOS;100;W;12.03;1.0;Chorzów;POL;Outdoor;2023-06-20;Sara;Susuri;KOS;2004;Female;
-NR;KSA;100;W;12.24;-0.2;Basra;IRQ;Outdoor;2024-05-29;Hiba;Mallam;KSA;2001;Female;
+NR;KSA;100;W;12.22;0.0;Medina;KSA;Outdoor;2026-04-02;Hibah;Aamar;KSA;;Female;
 NR;KUW;100;W;11.52;1.8;Al-Kuwait;KUW;Outdoor;2022-05-16;Mudhawi;Al-Shammari;KUW;1998;Female;
 NR;LAO;100;W;12.31;-0.1;New Clark City;PHI;Outdoor;2019-12-08;Silina;Pha Aphay;LAO;1996;Female;
 NR;LAT;100;W;11.29;1.1;Rīga;LAT;Outdoor;2018-05-29;Sindija;Bukša;LAT;1997;Female;
@@ -1845,7 +1845,7 @@ NR;TJK;100;W;11.62;1.5;Dushanbe;TJK;Outdoor;2021-04-09;Gulsunbi;Sharifova;TJK;19
 NR;TKM;100;W;11.56;1.7;Almaty;KAZ;Outdoor;2008-06-07;Valentina;Meredova;TKM;1984;Female;
 NR;TKS;100;W;11.99;1.2;Barranquilla;COL;Outdoor;2018-07-29;Akia;Guerrier;TKS;1998;Female;
 NR;TLS;100;W;13.57;;Darwin;AUS;Outdoor;2001-05-20;Cesaltilna;De Yesus Guterres;TLS;;Female;
-NR;TOG;100;W;11.82;;Douala;CMR;Outdoor;2021-05-22;Akouvi;Judith Koumedzina;TOG;2001;Female;
+NR;TOG;100;W;11.82;-0.2;Douala;CMR;Outdoor;2021-05-22;Akouvi;Judith Koumedzina;TOG;2001;Female;
 NR;TPE;100;W;11.22;1.9;Wien;AUT;Outdoor;1970-07-18;Chi;Cheng;TPE;1944;Female;
 NR;TTO;100;W;10.82;0.9;Port of Spain;TTO;Outdoor;2017-06-24;Michelle-Lee;Ahye;TTO;1992;Female;
 NR;TUN;100;W;11.68;1.0;Alger;ALG;Outdoor;2000-08-06;Awatef;Hamrouni;TUN;1981;Female;
@@ -5444,7 +5444,7 @@ NR;KGZ;3K0;W;9:05.18;;Bryansk;URS;Outdoor;1987-07-17;Irina;Bogacheva;KGZ;;Female
 NR;KIR;3K0;W;12:31.2;;Bairiki;KIR;Outdoor;2004-07-08;Banrenga;Baikia;KIR;1989;Female;
 NR;KOR;3K0;W;9:00.30;;Seoul;KOR;Outdoor;1992-09-20;Jung;Young-Im;KOR;1975;Female;
 NR;KOS;3K0;W;9:17.80;;Vólos;GRE;Outdoor;2025-07-26;Greza;Bakraqi;KOS;1995;Female;
-NR;KSA;3K0;W;11:27.30;;Northridge;USA;Outdoor;2013-03-16;Sarah;Attar;KSA;1992;Female;
+NR;KSA;3K0;W;9:34.00;;Medina;KSA;Outdoor;2026-04-04;Feulla;Motoseu;KSA;;Female;
 NR;KUW;3K0;W;12:04.21;;Al-Kuwait;KUW;Outdoor;2024-03-14;Lulwa;Ghanem Saqir;KUW;;Female;
 NR;LAO;3K0;W;10:51.73;;Oudomxay;LAO;Outdoor;2014-12-12;Lodkeo;Inthakoumman;LAO;1995;Female;
 NR;LAT;3K0;W;8:39.78;;Chorzów;POL;Outdoor;2023-07-16;Agate;Caune;LAT;2004;Female;
