@@ -137,7 +137,7 @@ AL;5;STA;WJU20;4.2;;Hubei Olympic Sports Center;CHN;Outdoor;2026-04-11;Keni;Mou;
 AL;5;4×4;XJU20;3:32.25;;National Stadium;TPE;Outdoor;2026-03-01;Stella;Maris Ursuline High School;TPE;;Mixed;
 AL;5;DRE;MJU20;15.88;;Shanxi Athletics Administrative Center;CHN;Indoor;2026-03-07;Zhuoyue;Wang;CHN;2007;Male;15137255
 AL;5;3G;MJU20;13:39.10;;Athletic Center Olga Rypakova;KAZ;Indoor;2026-02-19;Yuriy;Volkov;KAZ;2009;Male;15295442
-AL;5;40H;WJU20;58.20;;Banqiao Stadium;TPE;Outdoor;2026-03-10;Chen-Yu;Liu;TPE;2007;Female;14965286
+AL;5;40H;WJU20;57.39;;Ethiopian Sport Academy;ETH;Outdoor;2026-04-18;Mariam;Kareem;UAE;2008;Female;15122282
 AL;5;HAM;MJU20;64.76;;Kyushu Kyoritsu University Stadium;JPN;Outdoor;2026-04-02;Andrew;Atuobeng;JPN;2007;Male;15112740
 AL;5;3K0;WJU20;9:14.40;;Shandong Sports Training Center;CHN;Indoor;2026-03-29;Rongli;Su;CHN;2010;Female;15172672
 AL;5;SPE;MJU20;74.49;;Netaji Subhas National Institute of Sports;IND;Outdoor;2026-03-08;Ashish;Yadav;IND;2007;Male;15300055
@@ -182,14 +182,13 @@ AL;6;10H;WJU20;13.66;1.4;AIS Athletics Track;AUS;Outdoor;2026-01-25;Jamison;Hard
 AL;6;HAM;WJU20;56.77;;Douglas Track & Field;NZL;Outdoor;2026-03-05;Arielle;Cannell;AUS;2008;Female;14960556
 AL;6;5K0;MJU20;13:53.15;;Hagenauer Reserve;AUS;Outdoor;2026-02-19;Charles;Barrett;AUS;2007;Male;15009396
 AL;6;800;WJU20;2:01.60;;Ashenfelter Indoor Track;USA;Indoor;2026-01-30;Boh;Ritchie;NZL;2007;Female;14960191
-AL;6;400;MJU20;46.73;;AIS Athletics Track;AUS;Outdoor;2026-01-25;Chase;Grant;AUS;2007;Male;15061050
-AL;6;400;MJU20;46.73;;WA Athletics Stadium;AUS;Outdoor;2026-02-14;Seth;Kennedy;AUS;2008;Male;15018275
+AL;6;400;MJU20;46.21;;QSAC State Athletics Facility;AUS;Outdoor;2026-04-17;Chase;Grant;AUS;2007;Male;15061050
 AL;6;MEI;WJU20;4:43.16;;Lakeside Stadium;AUS;Outdoor;2026-02-07;Imogen;Baker;AUS;2007;Female;14923911
 AL;6;3K0;MJU20;7:43.16;;Boston Univ. Track & Tennis Center;USA;Indoor;2026-02-22;Sam;Ruthe;NZL;2009;Male;15131581
 AL;6;800;MJU20;1:44.37;;SA Athletic Stadium;AUS;Outdoor;2026-03-14;Daniel;Williams;AUS;2007;Male;15008740
 AL;6;5G;MJU20;19:42.80;;SOPAC;AUS;Outdoor;2026-03-12;Isaac;Beacroft;AUS;2007;Male;14963962
 AL;6;600;WJU20;1:28.21;;Ashenfelter Indoor Track;USA;Indoor;2026-01-17;Boh;Ritchie;NZL;2007;Female;14960191
-AL;6;2KH;WJU20;6:52.29;;SOPAC;AUS;Outdoor;2026-03-12;Annabelle;Vella;AUS;2010;Female;15115329
+AL;6;2KH;WJU20;6:46.35;;QSAC State Athletics Facility;AUS;Outdoor;2026-04-16;Helena;Butler;AUS;2009;Female;15184640
 AL;6;4×1;WJU20;46.94;;Douglas Track & Field;NZL;Outdoor;2026-03-06;Waikato;Bay Of Plenty U20;NZL;;Female;
 AL;6;1K5;WJU20;4:12.81;;SA Athletic Stadium;AUS;Outdoor;2026-03-14;Milla;Roberts;AUS;2007;Female;14952789
 AL;6;STA;WJU20;4.27;;Rawlinson Track – Melbourne Uni;AUS;Outdoor;2026-03-31;Jamison;Harding;AUS;2009;Female;15051314
@@ -198,7 +197,7 @@ AL;6;3G;MJU20;11:58.75;;SOPAC;AUS;Outdoor;2026-03-12;Callum;Martin;AUS;2011;Male
 AL;6;40H;WJU20;58.80;;WA Athletics Stadium;AUS;Outdoor;2026-02-14;Maiya;Hewitt;AUS;2009;Female;15008731
 AL;6;HAM;MJU20;62.21;;SA Athletic Stadium;AUS;Outdoor;2026-03-13;Connor;Hopgood;AUS;2008;Male;15013013
 AL;6;3K0;WJU20;9:09.76;;Domain Athletic Centre;AUS;Outdoor;2026-02-28;Milla;Roberts;AUS;2007;Female;14952789
-AL;6;SPE;MJU20;62.1;;WA Athletics Stadium;AUS;Outdoor;2026-01-24;Wyatt;Hill;AUS;2008;Male;15076097
+AL;6;SPE;MJU20;65.8;;QSAC State Athletics Facility;AUS;Outdoor;2026-04-18;Caden;Andrews;AUS;2009;Male;15085700
 AL;6;11H;MJU20;15.19;1.7;WA Athletics Stadium;AUS;Outdoor;2026-01-24;Rylan;Scott;AUS;2007;Male;15121961
 AL;6;1K5;MJU20;3:33.25;;Boston Univ. Track & Tennis Center;USA;Indoor;2026-01-31;Sam;Ruthe;NZL;2009;Male;15131581
 AL;6;1K0;WJU20;2:50.22;;Domain Athletic Centre;AUS;Outdoor;2026-02-14;Violet;Owen;AUS;2009;Female;14960593
@@ -209,6 +208,7 @@ AL;6;DIS;MJU20;47.42;;SA Athletic Stadium;AUS;Outdoor;2026-03-09;Noah;Schoepf;AU
 AL;6;10G;WJU20;49:49.00;;QSAC State Athletics Facility;AUS;Outdoor;2026-02-21;Milly;Sharpe;AUS;2008;Female;14965350
 AL;6;WEI;MJU20;7.77;-1.1;SOPAC;AUS;Outdoor;2026-03-22;Mason;Mcgroder;AUS;2008;Male;15073596
 AL;6;HOC;MJU20;2.08;;QSAC State Athletics Facility;AUS;Outdoor;2026-03-15;Alikana;Malish;AUS;2011;Male;15184385
+AL;6;HOC;MJU20;2.08;;QSAC State Athletics Facility;AUS;Outdoor;2026-04-17;Emry;Pitman;AUS;;Male;15195446
 AL;6;60M;WJU20;7.24;0.9;Lakeside Stadium;AUS;Outdoor;2026-02-07;Thewbelle;Philp;AUS;2008;Female;14968458
 AL;6;3KH;WJU20;10:05.26;;SA Athletic Stadium;AUS;Outdoor;2026-03-13;Tessa;Ebert;AUS;2008;Female;14960634
 AL;6;1K0;MJU20;2:28.15;;Domain Athletic Centre;AUS;Outdoor;2026-02-14;Luke;Palmer;AUS;2007;Male;15012980
@@ -226,7 +226,7 @@ AL;6;KUG;WJU20;14.84;;Lakeside Stadium;AUS;Outdoor;2026-02-07;Lauren;Kelly;AUS;2
 AL;6;SPE;WJU20;46.88;;Douglas Track & Field;NZL;Outdoor;2026-03-08;Rebecca;Bailey;NZL;2007;Female;15185830
 AL;6;10G;MJU20;38:54.11;;AIS Athletics Track;AUS;Outdoor;2026-01-26;Isaac;Beacroft;AUS;2007;Male;14963962
 AL;6;4×1;MJU20;39.47;;QSAC State Athletics Facility;AUS;Outdoor;2026-01-10;Australia;B;AUS;;Male;
-AL;6;DRE;WJU20;13.31;0.3;AIS Athletics Track;AUS;Outdoor;2026-01-26;Izobelle;Louison-Roe;AUS;2007;Female;14963976
+AL;6;DRE;WJU20;13.36;1.0;QSAC State Athletics Facility;AUS;Outdoor;2026-04-18;Izobelle;Louison-Roe;AUS;2007;Female;14963976
 AL;6;3KH;MJU20;8:56.28;;SA Athletic Stadium;AUS;Outdoor;2026-03-14;Jonathan;Neethling;AUS;2008;Male;15081544
 AL;6;60M;MJU20;6.73;0.6;Lakeside Stadium;AUS;Outdoor;2026-02-07;Hugh;Kabengele;AUS;2007;Male;15052141
 AL;6;HOC;WJU20;1.95;;AIS Athletics Track;AUS;Outdoor;2026-01-25;Izobelle;Louison-Roe;AUS;2007;Female;14963976
@@ -272,7 +272,7 @@ AL;4;WEI;MJU20;7.67;-1.2;Pilditch Stadium;RSA;Outdoor;2026-01-17;Keamogetswe;Mon
 AL;4;HOC;MJU20;2.28;;TSG-Halle;GER;Indoor;2026-02-06;Younes;Ayachi;ALG;2008;Male;15137966
 AL;4;60M;WJU20;7.48;;Clemson Indoor Track & Field Complex;USA;Indoor;2026-01-23;Faith;Osamuyi;NGR;2007;Female;15023578
 AL;4;60M;WJU20;7.48;;Stade couvert Jesse Owens;FRA;Indoor;2026-02-21;Maria;Saadi;MAR;2010;Female;15162494
-AL;4;3KH;WJU20;10:47.55;;The Olympic Center For Training National Teams;EGY;Outdoor;2026-03-29;Malak;Abdul-Ghani Abdullah Ibrahim;EGY;2008;Female;15142151
+AL;4;3KH;WJU20;9:44.99;;Ethiopian Sport Academy;ETH;Outdoor;2026-04-18;Wosane;Asefa;ETH;2007;Female;15148796
 AL;4;100;WJU20;11.26;1.9;New Jos Stadium;NGR;Outdoor;2026-03-27;Miracle;Ezechukwu;NGR;2008;Female;15023534
 AL;4;KUG;MJU20;17.85;;Samuel Ogbemudia Stadium;NGR;Outdoor;2026-02-21;Emmanuel;Audu;NGR;2008;Male;15105541
 AL;4;200;WJU20;22.91;1.4;New Jos Stadium;NGR;Outdoor;2026-03-28;Miracle;Ezechukwu;NGR;2008;Female;15023534
