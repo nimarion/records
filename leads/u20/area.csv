@@ -117,7 +117,7 @@ AL;3;HOC;WJU20;1.71;;Pista Atlética Mario Recordón;CHI;Outdoor;2026-03-22;Anto
 AL;3;40H;MJU20;51.96;;Pista Atlética Mario Recordón;CHI;Outdoor;2026-04-19;Alonso;Guzman;CHI;2008;Male;15148295
 AL;3;400;WJU20;51.69;;Percy Beard Track;USA;Outdoor;2026-04-18;Tianna;Springer;GUY;2007;Female;15018026
 AL;5;5K0;WJU20;16:05.07;;Hubei Olympic Sports Center;CHN;Outdoor;2026-04-11;Rongli;Su;CHN;2010;Female;15172672
-AL;5;5G;WJU20;23:43.05;;Oi Stadium;JPN;Outdoor;2026-04-05;Maya;Konno;JPN;2007;Female;15072351
+AL;5;5G;WJU20;23:26.59;;Kazhymukan Munaitpasov Stadium;KAZ;Outdoor;2026-04-22;Margarita;Storozhenko;KAZ;2008;Female;15019874
 AL;5;10H;WJU20;13.82;2.0;NITTAIDAI Athletic Stadium;JPN;Outdoor;2026-04-19;Nagisa;Inoue;JPN;2007;Female;15049931
 AL;5;HAM;WJU20;66.48;;Sichuan Xipu Training Base;CHN;Outdoor;2026-04-03;Jiajun;Chen;CHN;2008;Female;15144607
 AL;5;5K0;MJU20;13:22.87;;Egao Kenko Stadium;JPN;Outdoor;2026-04-11;Youta;Mashiko;JPN;2007;Male;15050329
@@ -225,7 +225,7 @@ AL;6;MEI;MJU20;3:48.88;;Boston Univ. Track & Tennis Center;USA;Indoor;2026-01-31
 AL;6;60H;WJU20;8.61;-0.7;AIS Athletics Track;AUS;Outdoor;2026-01-26;Tammin;Lampret;AUS;2008;Female;14964055
 AL;6;4×4;MJU20;3:13.91;;QSAC State Athletics Facility;AUS;Outdoor;2026-04-17;New;South Wales U18;AUS;;Male;
 AL;6;KUG;WJU20;15.04;;QSAC State Athletics Facility;AUS;Outdoor;2026-04-20;Karmen-Elizabeth;Maritz;NZL;2008;Female;14961230
-AL;6;SPE;WJU20;46.88;;Douglas Track & Field;NZL;Outdoor;2026-03-08;Rebecca;Bailey;NZL;2007;Female;15185830
+AL;6;SPE;WJU20;47.14;;Performance Centre;AUS;Outdoor;2026-04-24;Emma;Kempson;AUS;2007;Female;14958997
 AL;6;10G;MJU20;38:54.11;;AIS Athletics Track;AUS;Outdoor;2026-01-26;Isaac;Beacroft;AUS;2007;Male;14963962
 AL;6;4×1;MJU20;39.47;;QSAC State Athletics Facility;AUS;Outdoor;2026-01-10;Australia;B;AUS;;Male;
 AL;6;DRE;WJU20;13.36;1.0;QSAC State Athletics Facility;AUS;Outdoor;2026-04-18;Izobelle;Louison-Roe;AUS;2007;Female;14963976
@@ -238,8 +238,8 @@ AL;4;5K0;WJU20;15:15.98;;Kentner Stadium Wake Forest University;USA;Outdoor;2026
 AL;4;5G;WJU20;23:46.71;;Complexe Olympique Mohamed Boudiaf;ALG;Outdoor;2026-04-03;Aya;Zenkhri;ALG;2007;Female;15071269
 AL;4;10H;WJU20;12.93;0.9;Germiston Stadium;RSA;Outdoor;2026-03-27;Tumi;Ramokgopa;RSA;2007;Female;14975442
 AL;4;HAM;WJU20;59.46;;Parc des Sports C. Ehrmann;FRA;Outdoor;2026-02-21;Kenza-Gwendolyn;Falana;GAB;2007;Female;15099326
-AL;4;5K0;MJU20;13:22.90;;Egao Kenko Stadium;JPN;Outdoor;2026-04-11;Nehemiah;Kipngeno;KEN;2007;Male;15252718
-AL;4;800;WJU20;2:01.25;;Pilditch Stadium;RSA;Outdoor;2026-02-28;Nancy;Jepngetich;KEN;2007;Female;15228251
+AL;4;5K0;MJU20;13:10.70;;Nyayo National Stadium;KEN;Outdoor;2026-04-24;Frankline;Kibet;KEN;2007;Male;15223756
+AL;4;800;WJU20;1:59.72;;Nyayo National Stadium;KEN;Outdoor;2026-04-24;Habtam;Gebeyehu;ETH;2007;Female;15174528
 AL;4;600;MJU20;1:16.65;;Pilditch Stadium;RSA;Outdoor;2026-02-14;Werner;Gouws;RSA;2007;Male;15021094
 AL;4;400;MJU20;45.33;;Cape Coast Sports Stadium;GHA;Outdoor;2026-03-14;Jonathan;Nkrumah Ofori;GHA;;Male;15302657
 AL;4;MEI;WJU20;4:33.60;;"R.A. ""Murray"" Fasken Indoor Track Stadium";USA;Indoor;2026-02-26;Mary;Nyaboke Ogwoka;KEN;2007;Female;14989695
@@ -292,7 +292,7 @@ AL;4;SPE;WJU20;56.2;;The Olympic Center For Training National Teams;EGY;Outdoor;
 AL;4;10G;MJU20;45:56.43;;UJ Stadium;RSA;Outdoor;2026-03-14;Yamkela;Luthsa Shosha;RSA;2007;Male;15090795
 AL;4;4×1;MJU20;40.55;;Samuel Ogbemudia Stadium;NGR;Outdoor;2026-02-25;Delta;;NGR;;Male;
 AL;4;DRE;WJU20;12.78;0.1;Ethiopian Sport Academy;ETH;Outdoor;2026-03-26;Betselot;Alemayehu Kibret;ETH;2007;Female;15142035
-AL;4;3KH;MJU20;8:29.64;;Paul Derr TF Facility;USA;Outdoor;2026-03-26;Ezekiel;Piitreng;KEN;2007;Male;15102093
+AL;4;3KH;MJU20;8:25.85;;Nyayo National Stadium;KEN;Outdoor;2026-04-24;Edmund;Serem;KEN;2007;Male;15102091
 AL;4;60M;MJU20;6.58;;Aspire Dome;QAT;Indoor;2026-01-08;Farooque;Aman;NGR;2007;Male;14933009
 AL;4;HOC;WJU20;1.81;;Germiston Stadium;RSA;Outdoor;2026-03-28;Michaela;Spocter;RSA;2008;Female;15081455
 AL;4;10K;MJU20;28:58.07;;Ethiopian Sport Academy;ETH;Outdoor;2026-03-25;Lemi;Teshome;ETH;2007;Male;15266595
