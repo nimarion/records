@@ -54,7 +54,7 @@ AL;1;HOC;MJU20;2.25;;Olympic Sports Complex of Paiania;GRE;Indoor;2026-03-01;Cha
 AL;1;HOC;MJU20;2.25;;Olympic Sports Complex of Paiania;GRE;Indoor;2026-03-01;Charalampos;Alivizatos;GRE;2008;Male;15104472
 AL;1;3G;MJU20;11:50.33;;Olimpiyets Arena;BLR;Indoor;2026-03-14;Ilya;Mamaika;BLR;2009;Male;15138040
 AL;1;2K0;MJU20;5:22.39;;Arēna Ogre;LAT;Indoor;2026-02-20;Rūdolfs;Vanadziņš;LAT;2007;Male;15037935
-AL;1;3G;WJU20;12:29.87;;Stadium Jean-Pellez;FRA;Indoor;2026-03-01;Chloe;Le Roch;FRA;2007;Female;14986498
+AL;1;3G;WJU20;12:29.17;;Stade de Courtemanche;FRA;Outdoor;2026-05-17;Chloe;Le Roch;FRA;2007;Female;14986498
 AL;1;2K0;WJU20;6:02.83;;Expocentro;POR;Indoor;2026-01-25;Mariana;Moreira;POR;2008;Female;15009659
 AL;1;1K5;WJU20;4:05.53;;Longford Stadium Trafford;GBR;Outdoor;2026-05-16;Phoebe;Gill;GBR;2007;Female;14914622
 AL;1;DIS;WJU20;57.22;;Werferzentrum Brandberge;GER;Outdoor;2026-05-16;Favour;Adesokan;GER;2008;Female;15020720
@@ -238,7 +238,7 @@ AL;2;11H;MJU20;13.22;1.5;Spec Towns Track;USA;Outdoor;2026-04-11;Leezra;Brown;US
 AL;2;4×4;WJU20;3:29.71;;Percy Beard Track;USA;Outdoor;2026-04-04;Nike;Elite;USA;;Female;
 AL;2;MEI;MJU20;3:56.81;;Boston Univ. Track & Tennis Center;USA;Indoor;2026-02-13;Henry;Dixon;USA;2007;Male;15140038
 AL;2;400;WJU20;51.24;;Mike A. Myers Stadium;USA;Outdoor;2026-05-01;Elise;Cooper;USA;2007;Female;14852192
-AL;2;HOC;MJU20;2.25;;Cliff Rovelto Indoor Track;USA;Indoor;2026-01-16;Alan;Hanna;BAH;2007;Male;15086679
+AL;2;HOC;MJU20;2.27;;Dean A. Hayes Track and Soccer Stadium;USA;Outdoor;2026-05-15;Gage;Voyles;USA;2007;Male;15234875
 AL;2;3G;MJU20;13:41.47;;Gordon Indoor Track;USA;Indoor;2026-02-22;Ian;Britt;USA;2008;Male;15213572
 AL;2;2K0;MJU20;5:21.03;;JDL Fast Track;USA;Indoor;2026-02-14;Owen;Munn;USA;2008;Male;15292979
 AL;2;2K0;WJU20;6:15.32;;Track and Field Centre Indoor Track;CAN;Indoor;2026-02-27;Sawyer;Nicholson;CAN;;Female;15105629
@@ -259,7 +259,7 @@ AL;2;4×4;MJU20;3:05.49;;Kirani James Athletic Stadium;GRN;Outdoor;2026-04-06;Ba
 AL;2;50M;WJU20;7.12;;Field House;CAN;Indoor;2026-03-14;Michaela;Illah;CAN;;Female;15222841
 AL;2;KUG;WJU20;18.45;;Ott Center for Track & Field;USA;Indoor;2026-01-24;Jessica;Oji;USA;2007;Female;15165163.0
 AL;2;1K5;MJU20;3:38.70;;Paul Derr TF Facility;USA;Outdoor;2026-03-26;Henry;Dixon;USA;2007;Male;15140038
-AL;5;DRE;MJU20;15.88;;Shanxi Athletics Administrative Center;CHN;Indoor;2026-03-07;Zhuoyue;Wang;CHN;2007;Male;15137255
+AL;5;DRE;MJU20;15.9;-0.2;Guoxin Sports Center;CHN;Outdoor;2026-05-16;Zhuoyue;Wang;CHN;2007;Male;15137255
 AL;5;300;WJU20;39.15;;Hamayama Park Athletic Field;JPN;Outdoor;2026-04-12;Akari;Saito;JPN;2007;Female;15050903
 AL;5;DRE;WJU20;13.12;;Shandong Sports Training Center;CHN;Indoor;2026-03-28;Jinghan;Feng;CHN;2010;Female;15300288
 AL;5;4×1;MJU20;40.67;;Home of Athletics;SGP;Outdoor;2026-05-03;Singapore;;SGP;;Male;
