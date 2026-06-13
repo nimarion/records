@@ -238,8 +238,8 @@ AL;5;200;M;20.03;0.2;Banqiao Stadium;TPE;Outdoor;2026-06-07;Puripol;Boonson;THA;
 AL;5;10K;W;31:41.22;;Yanmar Stadium Nagai;JPN;Outdoor;2026-05-10;Nozomi;Tanaka;JPN;1999;Female;14632538
 AL;5;400;W;50.28;;Addis Ababa Stadium;ETH;Outdoor;2026-04-18;Kemi;Adekoya;BRN;1993;Female;14419510
 AL;5;KUG;W;18.89;;Sichuan Xipu Training Base;CHN;Outdoor;2026-03-29;Jiayuan;Song;CHN;1997;Female;14668306
-AL;5;60M;M;6.52;;AccorHotels Arena de Bercy;FRA;Indoor;2026-01-25;Ali;Al Balushi;OMA;2002;Male;14844149
 AL;5;60M;M;6.52;;Aspire Dome;QAT;Indoor;2026-01-08;Jabar;Khamis;QAT;2007;Male;15137193
+AL;5;60M;M;6.52;;AccorHotels Arena de Bercy;FRA;Indoor;2026-01-25;Ali;Al Balushi;OMA;2002;Male;14844149
 AL;5;5G;M;17:59.32;;Oi Stadium;JPN;Outdoor;2026-04-05;Riku;Kaneko;JPN;2005;Male;15021517
 AL;5;DIS;W;65.03;;Egret Stadium;CHN;Outdoor;2026-05-23;Bin;Feng;CHN;1994;Female;14430151
 AL;5;10K;M;27:20.11;;Yanmar Stadium Nagai;JPN;Outdoor;2026-05-10;Mebuki;Suzuki;JPN;2001;Male;14854889
@@ -257,9 +257,9 @@ AL;5;3G;M;10:49.34;;Nishishina Athletic Stadium;JPN;Outdoor;2026-05-04;Masatora;
 AL;5;SPE;W;71.74;;Egret Stadium;CHN;Outdoor;2026-05-23;Ziyi;Yan;CHN;2008;Female;15144603
 AL;5;STA;M;5.86;;Shanghai Sports University Indoor Athletics Stadium;CHN;Indoor;2026-03-25;Chenyang;Li;CHN;2003;Male;14974804
 AL;5;KUG;M;21.03;;Jawaharlal Nehru Stadium;IND;Outdoor;2026-04-11;Tajinderpal;Singh Toor;IND;1994;Male;14624702
-AL;5;HOC;M;2.3;;Športová hala Dukla;SVK;Indoor;2026-02-24;Tomohiro;Shinno;JPN;1996;Male;14671473
-AL;5;HOC;M;2.3;;Športová hala Dukla;SVK;Indoor;2026-02-24;Sanghyeok;Woo;KOR;1996;Male;14532326
 AL;5;HOC;M;2.3;;Městská sportovní hala;CZE;Indoor;2026-02-07;Naoto;Hasegawa;JPN;1996;Male;14722758
+AL;5;HOC;M;2.3;;Športová hala Dukla;SVK;Indoor;2026-02-24;Sanghyeok;Woo;KOR;1996;Male;14532326
+AL;5;HOC;M;2.3;;Športová hala Dukla;SVK;Indoor;2026-02-24;Tomohiro;Shinno;JPN;1996;Male;14671473
 AL;5;600;M;1:15.47;;Fall Creek Pavilion;USA;Indoor;2026-02-27;Allon;Tatsunami Clay;JPN;2002;Male;14851854
 AL;5;60H;M;7.49;;Kujawsko-Pomorska Arena;POL;Indoor;2026-03-21;Shusei;Nomoto;JPN;1995;Male;14547896
 AL;5;300;W;36.83;;Prefectural Yamanokuchi Athletics Stadium;JPN;Outdoor;2026-03-20;Abigeirufuka;Ido;JPN;2001;Female;14817771
@@ -278,7 +278,7 @@ AL;2;HOC;W;1.96;;Športová hala Dukla;SVK;Indoor;2026-02-24;Lamara;Distin;JAM;2
 AL;2;2K0;W;5:32.68;;Arena Stade Couvert;FRA;Indoor;2026-02-19;Lucia;Stafford;CAN;1998;Female;14464956
 AL;2;DRE;M;17.66;0.0;Paseo de los Artistas;PUR;Outdoor;2026-05-17;Jordan;Scott;JAM;1997;Male;14569308
 AL;2;10G;M;39:56.51;;Alumni Stadium;CAN;Outdoor;2026-06-03;Evan;Dunfee;CAN;1990;Male;14174336
-AL;2;100;W;10.77;1.7;Percy Beard Track;USA;Outdoor;2026-04-18;Adaejah;Hodge;IVB;2006;Female;14845422
+AL;2;100;W;10.63;1.9;Hayward Field;USA;Outdoor;2026-06-11;Adaejah;Hodge;IVB;2006;Female;14845422
 AL;2;4×4;X;3:07.47;;National Stadium;BOT;Outdoor;2026-05-03;United;States;USA;;Mixed;
 AL;2;2KH;M;5:53.95;;Ole Miss T&F Complex;USA;Outdoor;2026-03-20;Samuel;Ferguson;USA;;Male;15076967
 AL;2;1K0;M;2:16.30;;Rector Fieldhouse;USA;Indoor;2026-02-07;Cole;Hocker;USA;2001;Male;14905834.0
@@ -323,8 +323,8 @@ AL;2;40H;M;47.37;;Cushing Stadium;USA;Outdoor;2026-06-06;Trevor;Bassitt;USA;1998
 AL;2;10G;W;44:35.33;;Pista;PUR;Outdoor;2026-03-20;Sharon;Lisseth Herrera Soto;CRC;2004;Female;14819426
 AL;2;HAM;W;81.13;;Mike A. Myers Stadium;USA;Outdoor;2026-04-02;Camryn;Rogers;CAN;1999;Female;14607142
 AL;0;4×4;M;2:57.33;;Percy Beard Track;USA;Outdoor;2026-04-18;Pure;Athletics;INT;;Male;
-AL;2;300;M;32.1;;Clemson Indoor Track & Field Complex;USA;Indoor;2026-01-10;Sidi;Njie;USA;2007;Male;15027039
 AL;2;300;M;32.1;;The Podium;USA;Indoor;2026-01-16;Garrett;Kaalund;USA;2004;Male;14988823
+AL;2;300;M;32.1;;Clemson Indoor Track & Field Complex;USA;Indoor;2026-01-10;Sidi;Njie;USA;2007;Male;15027039
 AL;2;3G;M;11:51.71;;Alachua County Sports Complex;USA;Indoor;2026-03-06;Owen;Nolte;USA;;Male;15279123
 AL;2;SPE;W;63.88;;Univ. of Arizona Roy P. Drachman Stadium;USA;Outdoor;2026-05-23;Madison;Wiltrout;USA;1999;Female;14647649
 AL;2;STA;M;6.01;;Ocean Breeze Athl. Complex;USA;Indoor;2026-02-28;Zachery;Bradford;USA;1999;Male;14717685

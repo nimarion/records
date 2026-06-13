@@ -1,11 +1,11 @@
 Code;Type;Discipline;Class;Result;Wind;Venue;Venue Country;Environment;Date;Firstname;Lastname;Nation;YOB;Sex;WorldathleticsId
 AL;1;100;WJU20;11.36;1.9;Universitätsstadion Am Biopark;GER;Outdoor;2026-06-06;Emma;Goretzka;GER;2007;Female;15062495
 AL;1;100;WJU20;11.36;1.9;Universitätsstadion Am Biopark;GER;Outdoor;2026-06-06;Delisha;Benelisa Domingos;GER;2009;Female;15019158
-AL;1;DIS;WJU20;57.22;;Werferzentrum Brandberge;GER;Outdoor;2026-05-16;Favour;Adesokan;GER;2008;Female;15020720
+AL;1;DIS;WJU20;57.8;;Regional Sport Complex;BLR;Outdoor;2026-06-04;Darya;Vasilchyk;BLR;2007;Female;15056241
 AL;1;600;MJU20;1:16.99;;Stadion Zygmunta Szelesta;POL;Outdoor;2026-05-16;Iwo;Urbanowicz;POL;2008;Male;15045207
 AL;1;400;WJU20;51.64;;Stade Delort;FRA;Outdoor;2026-06-10;Anastazja;Kuś;POL;2007;Female;14954279
 AL;1;SPE;WJU20;59.12;;Stadion OSiR;POL;Outdoor;2026-06-06;Vita;Barbić;CRO;2007;Female;14955305
-AL;1;DIS;MJU20;55.77;;Stadion 650-lecia;POL;Outdoor;2026-06-06;Adrian;Borowicz;POL;2009;Male;15203163
+AL;1;DIS;MJU20;57.18;;Regional Sport Complex;BLR;Outdoor;2026-06-04;Artsiom;Pilatau;BLR;2007;Male;15127126
 AL;1;200;MJU20;20.33;0.5;Percy Beard Track;USA;Outdoor;2026-04-17;Jake;Odey-Jordan;GBR;2007;Male;15077435
 AL;1;10G;MJU20;42:29.84;;Campo di Atletica Mario Agosti;ITA;Outdoor;2026-05-17;Alessio;Coppola;ITA;2007;Male;15012668
 AL;1;4×1;MJU20;39.83;;Schönbuchstadion;GER;Outdoor;2026-05-17;Germany;;GER;;Male;
@@ -310,7 +310,7 @@ AL;2;100;MJU20;10.03;1.8;Franklin Field;USA;Outdoor;2026-04-24;Gary;Card;JAM;200
 AL;2;60M;MJU20;6.52;1.4;National Stadium;JAM;Outdoor;2026-02-28;Gary;Card;JAM;2007;Male;15010819
 AL;2;HOC;WJU20;1.81;;Cliff Rovelto Indoor Track;USA;Indoor;2026-01-30;Shanniqua;Williams;JAM;2007;Female;14925411
 AL;2;HOC;WJU20;1.81;;Randal Tyson Indoor Center;USA;Indoor;2026-02-14;Brianna;Rivers;USA;2007;Female;14993816
-AL;2;STA;WJU20;4.52;;Tom Black Track at LaPorte Stadium;USA;Outdoor;2026-04-10;Hannah;Grace;USA;2007;Female;15040354
+AL;2;STA;WJU20;4.54;;Hayward Field;USA;Outdoor;2026-06-11;Hannah;Grace;USA;2007;Female;15040354
 AL;2;4×4;WJU20;3:29.71;;Percy Beard Track;USA;Outdoor;2026-04-04;Nike;Elite;USA;;Female;
 AL;2;10H;WJU20;12.97;0.0;Un. of Kentucky Outdoor Track Facility;USA;Outdoor;2026-05-28;Madeline;Cooper;USA;2007;Female;15039881
 AL;2;50M;MJU20;5.89;;Field House;CAN;Indoor;2026-01-23;Olufemi;Akinloye;CAN;;Male;15041707
