@@ -1,6 +1,5 @@
 Code;Type;Discipline;Class;Result;Wind;Venue;Venue Country;Environment;Date;Firstname;Lastname;Nation;YOB;Sex;WorldathleticsId
-NL;GER;100;WJU20;11.36;1.9;Universitätsstadion Am Biopark;GER;Outdoor;2026-06-06;Emma;Goretzka;GER;2007;Female;15062495
-NL;GER;100;WJU20;11.36;1.9;Universitätsstadion Am Biopark;GER;Outdoor;2026-06-06;Delisha;Benelisa Domingos;GER;2009;Female;15019158
+NL;GER;100;WJU20;11.33;1.1;Michael-Hoffmann-Stadion;GER;Outdoor;2026-06-13;Emma;Goretzka;GER;2007;Female;15062495
 NL;GER;DIS;WJU20;57.22;;Werferzentrum Brandberge;GER;Outdoor;2026-05-16;Favour;Adesokan;GER;2008;Female;15020720
 NL;GER;600;MJU20;1:21.10;;Schönbuchstadion;GER;Outdoor;2026-05-17;Simon;Nüß;GER;;Male;15174633
 NL;GER;400;WJU20;53.15;;Universitätsstadion Am Biopark;GER;Outdoor;2026-06-06;Luna;Fischer;GER;2007;Female;15010855
@@ -11,7 +10,7 @@ NL;GER;800;MJU20;1:48.80;;Jahnstadion;GER;Outdoor;2026-06-05;Piet;Hoyer;GER;2007
 NL;GER;3K0;WJU20;9:14.76;;Schönbuchstadion;GER;Outdoor;2026-05-17;Julia;Ehrle;GER;2007;Female;15034614
 NL;GER;11H;MJU20;14.18;0.0;Ludwig-Jahn-Stadion;GER;Outdoor;2026-05-02;Ben;Sky Fischer;GER;2008;Male;15154178
 NL;GER;1K5;MJU20;3:42.23;;Boudewijnstadion;BEL;Outdoor;2026-05-24;Piet;Hoyer;GER;2007;Male;15043394
-NL;GER;40H;MJU20;52.17;;Universitätsstadion Am Biopark;GER;Outdoor;2026-06-06;Paul;Ulland;GER;2008;Male;15240898
+NL;GER;40H;MJU20;51.48;;Michael-Hoffmann-Stadion;GER;Outdoor;2026-06-13;Nikolas;Raeth;GER;2007;Male;15064573
 NL;GER;3KH;WJU20;10:20.70;;Carl-Kaufmann-Stadion;GER;Outdoor;2026-05-30;Lena;Rossmanith;GER;2008;Female;15155224
 NL;GER;1K0;WJU20;2:48.79;;Schönbuchstadion;GER;Outdoor;2026-05-17;Leni;Hirt;GER;;Female;15100796
 NL;GER;WEI;WJU20;6.18;1.1;Raiffeisen Arena;ITA;Outdoor;2026-05-31;Amelie;Giese;GER;;Female;15132704
@@ -21,19 +20,20 @@ NL;GER;MEI;WJU20;5:01.75;;CrossPlex Athletic Facility;USA;Indoor;2026-02-23;Lenj
 NL;GER;300;WJU20;39.33;;Sportplatz Allee der Kosmonauten 131;GER;Outdoor;2026-04-25;Lilith;Belau;GER;2007;Female;14995131
 NL;GER;5K0;WJU20;16:05.35;;Boudewijnstadion;BEL;Outdoor;2026-05-23;Julia;Ehrle;GER;2007;Female;15034614
 NL;GER;HAM;WJU20;69.81;;Betty Heidler Arena;GER;Outdoor;2026-05-24;Clara;Hegemann;GER;2007;Female;15012658
-NL;GER;40H;WJU20;57.82;;Universitätsstadion Am Biopark;GER;Outdoor;2026-06-06;Rebekka;Feirle;GER;2007;Female;14998656
+NL;GER;40H;WJU20;57.55;;Michael-Hoffmann-Stadion;GER;Outdoor;2026-06-13;Rebekka;Feirle;GER;2007;Female;14998656
 NL;GER;1K0;MJU20;2:27.01;;Schönbuchstadion;GER;Outdoor;2026-05-17;Valentin;Oblupin;GER;;Male;15154559
 NL;GER;1K0;MJU20;2:27.01;;Schönbuchstadion;GER;Outdoor;2026-05-17;Dominik;Wiedenmann;GER;2009;Male;15234044
 NL;GER;STA;MJU20;5.15;;Glaspalast;GER;Indoor;2026-02-21;Ben;Duwenbeck;GER;2008;Male;15106357
 NL;GER;5K0;MJU20;14:11.51;;Carl-Kaufmann-Stadion;GER;Outdoor;2026-05-30;Levin;Saveur;GER;2007;Male;15100039
 NL;GER;HAM;MJU20;61.11;;Wartbergstadion;GER;Outdoor;2026-01-31;Max;Baier;GER;2007;Male;15009669
-NL;GER;300;MJU20;34.85;;Schönbuchstadion;GER;Outdoor;2026-05-17;Lorenz;Forsmann;GER;2007;Male;15164714
+NL;GER;300;MJU20;34.28;;Schönbuchstadion;GER;Outdoor;2026-05-17;Amir;Bilal Chaib Cuti;GER;2008;Male;15200123
+NL;GER;4×4;XJU20;3:28.24;;Michael-Hoffmann-Stadion;GER;Outdoor;2026-06-14;Germany;U20 B;GER;;Mixed;
 NL;GER;200;WJU20;23.53;0.0;Sportanlage an der Kanalstraße;GER;Outdoor;2026-05-24;Lena;Anochili;GER;2007;Female;15001548
 NL;GER;4×1;WJU20;43.92;;Universitätsstadion Am Biopark;GER;Outdoor;2026-06-06;Germany;U20;GER;;Female;
 NL;GER;2KH;WJU20;6:41.23;;Schönbuchstadion;GER;Outdoor;2026-05-17;Lena;Rossmanith;GER;2008;Female;15155224
 NL;GER;60H;MJU20;8.15;;Helmut-Körnig-Halle;GER;Indoor;2026-02-28;Max;Arnold;GER;2007;Male;15064556
 NL;GER;5G;MJU20;23:55.22;;Hartwig-Gauder-Halle;GER;Indoor;2026-01-17;Matti;Schmidt;GER;2007;Male;15115084
-NL;GER;DRE;WJU20;13.05;1.1;Cougar Athletic Stadium;USA;Outdoor;2026-04-17;Lotta;Edzards;GER;2007;Female;14997773
+NL;GER;DRE;WJU20;13.65;0.2;Michael-Hoffmann-Stadion;GER;Outdoor;2026-06-13;Antonia;Bronnert;GER;2007;Female;15034468
 NL;GER;3K0;MJU20;8:04.99;;Schönbuchstadion;GER;Outdoor;2026-05-17;Levin;Saveur;GER;2007;Male;15100039
 NL;GER;2KH;MJU20;5:46.58;;Schönbuchstadion;GER;Outdoor;2026-05-17;Marco;Voggenreiter;GER;2007;Male;15092880
 NL;GER;5G;WJU20;26:25.16;;Raiffeisen Arena;ITA;Outdoor;2026-05-31;Clara;Heinzl;GER;;Female;15318391
@@ -45,14 +45,16 @@ NL;GER;3G;MJU20;13:34.70;;LA-Halle Brandberge;GER;Indoor;2026-01-31;Matti;Schmid
 NL;GER;60M;WJU20;7.27;;Glaspalast;GER;Indoor;2026-02-21;Lena;Anochili;GER;2007;Female;15001548
 NL;GER;60M;WJU20;7.27;;Glaspalast;GER;Indoor;2026-02-21;Emma;Goretzka;GER;2007;Female;15062495
 NL;GER;800;WJU20;2:03.60;;Carl-Kaufmann-Stadion;GER;Outdoor;2026-05-30;Helena;Guttke;GER;2008;Female;15062506
+NL;GER;4×4;MJU20;3:09.74;;Michael-Hoffmann-Stadion;GER;Outdoor;2026-06-14;Germany;U20;GER;;Male;
 NL;GER;3KH;MJU20;8:44.55;;Boudewijnstadion;BEL;Outdoor;2026-05-24;Levin;Saveur;GER;2007;Male;15100039
 NL;GER;WEI;MJU20;7.54;;Sportleistungszentrum;GER;Indoor;2026-01-25;Julian;Karsten;GER;;Male;15012682
-NL;GER;DRE;MJU20;15.52;;Glaspalast;GER;Indoor;2026-02-21;Benedikt;Maurer;GER;2007;Male;15041729
+NL;GER;DRE;MJU20;15.65;0.2;Michael-Hoffmann-Stadion;GER;Outdoor;2026-06-13;Benedikt;Maurer;GER;2007;Male;15041729
 NL;GER;600;WJU20;1:28.22;;Schönbuchstadion;GER;Outdoor;2026-05-17;Helena;Guttke;GER;2008;Female;15062506
-NL;GER;100;MJU20;10.27;1.0;Sepp-Herberger-Stadion;GER;Outdoor;2026-05-23;Jakob;Kemminer;GER;2007;Male;14981842
+NL;GER;100;MJU20;10.23;0.7;Michael-Hoffmann-Stadion;GER;Outdoor;2026-06-13;Jakob;Kemminer;GER;2007;Male;14981842
 NL;GER;60M;MJU20;6.72;;Glaspalast;GER;Indoor;2026-02-21;Louis;Schuster;GER;2007;Male;15042385
 NL;GER;HOC;WJU20;1.83;;TSG-Halle;GER;Indoor;2026-02-06;Sina;Stoll;GER;2008;Female;15042251
 NL;GER;STA;WJU20;4.22;;Un. of Kentucky Outdoor Track Facility;USA;Outdoor;2026-05-28;Lotte;Gretzler;GER;2007;Female;14994725
+NL;GER;4×4;WJU20;3:34.87;;Michael-Hoffmann-Stadion;GER;Outdoor;2026-06-14;Germany;U20;GER;;Female;
 NL;GER;10H;WJU20;13.24;-0.5;Sportzentrum Niederösterreich;AUT;Outdoor;2026-06-04;Daryl;Ndasi;GER;2008;Female;15044321
 NL;GER;3G;WJU20;14:04.15;;LA-Halle Brandberge;GER;Indoor;2026-01-31;Nika;Helene Illing;GER;2007;Female;15182179
 NL;GER;SPE;MJU20;71.76;;Floschenstadion;GER;Outdoor;2026-02-21;Moritz;Schönherr;GER;2007;Male;15063321
