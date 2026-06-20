@@ -11,7 +11,7 @@ AL;1;4×1;MJU20;39.67;;Mestský Stadion;CZE;Outdoor;2026-06-16;Czech;Republic U2
 AL;1;800;MJU20;1:46.59;;Stadio Luigi Ridolfi;ITA;Outdoor;2026-05-09;Alessandro;Casoni;ITA;2007;Male;15024991
 AL;1;3K0;WJU20;8:54.26;;Sollentunavallen;SWE;Outdoor;2026-06-14;Carmen;Cernjul;SWE;2007;Female;14953813
 AL;1;10K;WJU20;34:14.74;;Cardinal Park;USA;Outdoor;2026-05-14;Carolina;Correia;POR;2007;Female;15014242
-AL;1;10G;WJU20;46:00.10;;Luzhniki Stadion;RUS;Outdoor;2026-06-05;Kristina;Yegorova;RUS;2007;Female;14907481
+AL;1;10G;WJU20;45:26.42;;Olympic Stadium;RUS;Outdoor;2026-06-18;Alena;Kozhevnikova;RUS;2008;Female;15014194
 AL;1;11H;MJU20;13.86;-1.5;Atatürk Stadyumu;TUR;Outdoor;2026-06-06;Koray;Uygun;TUR;2008;Male;14995150
 AL;1;1K5;MJU20;3:38.62;;Mestský Stadion;CZE;Outdoor;2026-06-16;Filip;Toul;CZE;2007;Male;15035511
 AL;1;40H;MJU20;49.06;;Mestský Stadion;CZE;Outdoor;2026-06-16;Michal;Rada;CZE;2007;Male;15035794
@@ -260,7 +260,7 @@ AL;2;10G;MJU20;47:47.36;;Pista de Atletismo del Centro Deportivo Benito Juárez;
 AL;4;4×1;MJU20;39.64;;Kirani James Athletic Stadium;GRN;Outdoor;2026-04-05;Trinidad;And Tobago U20;TTO;;Male;
 AL;2;800;MJU20;1:42.08;;Bislett Stadion;NOR;Outdoor;2026-06-10;Cooper;Lutkenhaus;USA;2008;Male;15152457
 AL;2;3K0;WJU20;9:02.77;;Boston Univ. Track & Tennis Center;USA;Indoor;2026-02-14;Abigail;Hennessy;USA;;Female;15076680.0
-AL;2;10K;WJU20;35:07.06;;Cougar Athletic Stadium;USA;Outdoor;2026-04-16;Kylah;Madariaga;USA;2007;Female;15278106
+AL;2;10K;WJU20;32:08.83;;Hayward Field;USA;Outdoor;2026-06-11;Rylee;Blade;USA;2007;Female;15085822
 AL;2;11H;MJU20;13.22;1.5;Spec Towns Track;USA;Outdoor;2026-04-11;Leezra;Brown;USA;2007;Male;14993481
 AL;2;1K5;MJU20;3:38.70;;Paul Derr TF Facility;USA;Outdoor;2026-03-26;Henry;Dixon;USA;2007;Male;15140038
 AL;2;40H;MJU20;50.35;;Kirani James Athletic Stadium;GRN;Outdoor;2026-04-05;Jahvanie;K. Tyrell;JAM;2008;Male;15068760
@@ -271,10 +271,10 @@ AL;2;HOC;MJU20;2.27;;Dean A. Hayes Track and Soccer Stadium;USA;Outdoor;2026-05-
 AL;2;50M;WJU20;7.12;;Field House;CAN;Indoor;2026-03-14;Michaela;Illah;CAN;;Female;15222841
 AL;2;MEI;WJU20;4:25.91;;Boston Univ. Track & Tennis Center;USA;Indoor;2026-02-14;Claire;Stegall;USA;2007;Female;15036906
 AL;2;300;WJU20;36.24;;Virginia Beach Sports Center;USA;Indoor;2026-01-17;Mariah;Maxwell;USA;;Female;15215189
-AL;2;5K0;WJU20;15:55.57;;Kentner Stadium Wake Forest University;USA;Outdoor;2026-04-17;Daniela;Scheffler;USA;2007;Female;15139401.0
-AL;2;HAM;WJU20;67.99;;Univ. of Arizona Roy P. Drachman Stadium;USA;Outdoor;2026-05-14;Burklie;Burton;USA;;Female;15197112
+AL;2;5K0;WJU20;15:29.45;;Franklin Field;USA;Outdoor;2026-04-23;Rylee;Blade;USA;2007;Female;15085822.0
+AL;2;HAM;WJU20;67.99;;Univ. of Arizona Roy P. Drachman Stadium;USA;Outdoor;2026-05-14;Burklie;Burton;USA;2007;Female;15197112
 AL;2;40H;WJU20;56.57;;Un. of Kentucky Outdoor Track Facility;USA;Outdoor;2026-05-30;Tatum;Lynn;USA;;Female;15069976
-AL;2;1K0;MJU20;2:21.37;;Rector Fieldhouse;USA;Indoor;2026-02-07;Cole;Boone;USA;;Male;15125271
+AL;2;1K0;MJU20;2:21.37;;Rector Fieldhouse;USA;Indoor;2026-02-07;Cole;Boone;USA;2007;Male;15125271
 AL;2;STA;MJU20;5.56;;Drake Stadium;USA;Outdoor;2026-04-24;Caelan;Harland;USA;2007;Male;15067923
 AL;2;STA;MJU20;5.56;;IMG Academy;USA;Outdoor;2026-05-30;Jaxon;Jerabek;USA;2008;Male;15243098
 AL;2;10K;MJU20;28:59.76;;Cougar Athletic Stadium;USA;Outdoor;2026-04-16;Aidan;Torres;USA;2007;Male;15272509
@@ -368,7 +368,7 @@ AL;4;800;WJU20;1:59.72;;Nyayo National Stadium;KEN;Outdoor;2026-04-24;Habtam;Geb
 AL;4;4×4;MJU20;3:11.52;;Stadion Radés;TUN;Outdoor;2026-04-30;Algeria;U20;ALG;;Male;
 AL;4;3KH;MJU20;8:01.61;;Complexe Sportif Prince Moulay Abdellah;MAR;Outdoor;2026-05-31;Edmund;Serem;KEN;2007;Male;15102091
 AL;4;WEI;MJU20;7.79;1.3;Pilditch Stadium;RSA;Outdoor;2026-04-30;Levi;Luke Fick;RSA;2009;Male;15216537
-AL;4;DRE;MJU20;16.53;1.5;Al Rayyan Club Stadium;QAT;Outdoor;2026-02-11;Dawoud;Jok;SSD;2007;Male;15330954
+AL;4;DRE;MJU20;16.67;1.0;Suhaim bin Hamad Stadium;QAT;Outdoor;2026-06-19;Dawoud;Jok;SSD;2007;Male;15330954
 AL;4;600;WJU20;1:28.46;;Pilditch Stadium;RSA;Outdoor;2026-02-14;Carise;Van Rooyen;RSA;2007;Female;15081618
 AL;4;100;MJU20;10.0;2.0;Percy Beard Track;USA;Outdoor;2026-04-18;John;Caleb;NGR;2007;Male;15049783
 AL;4;60M;MJU20;6.58;;Aspire Dome;QAT;Indoor;2026-01-08;Farooque;Aman;NGR;2007;Male;14933009
