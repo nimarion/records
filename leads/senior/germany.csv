@@ -2,7 +2,7 @@ Code;Type;Discipline;Class;Result;Wind;Venue;Venue Country;Environment;Date;Firs
 NL;GER;3K0;W;8:45.34;;Sports Park Mladost;CRO;Outdoor;2026-06-26;Gesa;Felicitas Krause;GER;1992;Female;14329341
 NL;GER;HOC;W;1.94;;Stade Christian Plaziat;FRA;Outdoor;2026-06-13;Christina;Honsel;GER;1997;Female;14497298
 NL;GER;2K0;W;6:13.75;;Donaustadion;GER;Outdoor;2026-05-09;Emma;Simpson;GER;;Female;15080689
-NL;GER;DRE;M;15.8;;Helmut-Körnig-Halle;GER;Indoor;2026-03-01;Peter;Osazee;GER;2006;Male;15068647
+NL;GER;DRE;M;15.9;0.0;Lohrheidestadion;GER;Outdoor;2026-07-04;Steven;Freund;GER;2005;Male;14967803
 NL;GER;10G;M;43:53.38;;New Clark City Stadium;PHI;Outdoor;2026-06-11;Nathaniel;Seiler;GER;1996;Male;14569067
 NL;GER;100;W;11.04;0.9;Sportzentrum Niederösterreich;AUT;Outdoor;2026-06-04;Rebekka;Haase;GER;1993;Female;14360165
 NL;GER;4×4;X;3:12.99;;National Stadium;BOT;Outdoor;2026-05-03;Germany;;GER;;Mixed;
@@ -15,7 +15,7 @@ NL;GER;400;M;45.04;;Mommsenstadion;GER;Outdoor;2026-06-20;Jean;Paul Bredau;GER;1
 NL;GER;100;M;9.98;0.8;Universitätsstadion Am Biopark;GER;Outdoor;2026-06-06;Owen;Ansah;GER;2000;Male;14812323
 NL;GER;40H;W;54.91;;Suhaim bin Hamad Stadium;QAT;Outdoor;2026-06-19;Eileen;Demes;GER;1997;Female;14506023
 NL;GER;HAM;M;81.27;;Betty Heidler Arena;GER;Outdoor;2026-05-24;Merlin;Hummel;GER;2002;Male;14753981
-NL;GER;WEI;W;6.87;1.0;Heinz-Steyer-Stadion;GER;Outdoor;2026-05-31;Malaika;Mihambo;GER;1994;Female;14377384
+NL;GER;WEI;W;6.92;1.9;Hayward Field;USA;Outdoor;2026-07-04;Malaika;Mihambo;GER;1994;Female;14377384
 NL;GER;4×1;M;37.67;;National Stadium;BOT;Outdoor;2026-05-02;Germany;;GER;;Male;
 NL;GER;3KH;M;7:57.80;;Complexe Sportif Prince Moulay Abdellah;MAR;Outdoor;2026-05-31;Frederik;Ruppert;GER;1997;Male;14627121
 NL;GER;60H;W;7.9;;Kujawsko-Pomorska Arena;POL;Indoor;2026-03-22;Marlene;Meier;GER;2002;Female;14778624
@@ -26,13 +26,13 @@ NL;GER;60M;W;7.16;;Helmut-Körnig-Halle;GER;Indoor;2026-02-28;Philina;Marianne S
 NL;GER;4×4;W;3:25.76;;National Stadium;BOT;Outdoor;2026-05-02;Germany;;GER;;Female;
 NL;GER;WEI;M;8.18;;Arena Gorzów;POL;Indoor;2026-01-31;Luka;Herden;GER;2000;Male;14717467
 NL;GER;5K0;W;15:10.81;;LAZ Wien;AUT;Outdoor;2026-06-20;Lisa;Merkel;GER;2003;Female;14878272
-NL;GER;MEI;M;3:49.74;;Bislett Stadion;NOR;Outdoor;2026-06-10;Robert;Farken;GER;1997;Male;14597052
+NL;GER;MEI;M;3:47.76;;Hayward Field;USA;Outdoor;2026-07-04;Robert;Farken;GER;1997;Male;14597052
 NL;GER;600;W;1:27.76;;Schönbuchstadion;GER;Outdoor;2026-05-17;Elena;Kelety;GER;1999;Female;14584926
 NL;GER;DRE;W;14.22;0.7;Kennedyplatz;GER;Outdoor;2026-06-21;Caroline;Joyeux;GER;2001;Female;14736473
 NL;GER;200;M;20.29;1.6;Dean A. Hayes Track and Soccer Stadium;USA;Outdoor;2026-05-16;Kameron;Horton;GER;2005;Male;15045962
 NL;GER;4×2;W;1:35.11;;Helmut-Körnig-Halle;GER;Indoor;2026-02-28;SCC;Berlin;GER;;Female;
 NL;GER;10K;W;31:32.25;;JSerra Catholic;USA;Outdoor;2026-03-28;Lisa;Merkel;GER;2003;Female;14878272
-NL;GER;400;W;51.3;;Bungertstadion;GER;Outdoor;2026-05-24;Johanna;Martin;GER;2006;Female;14996565
+NL;GER;400;W;50.57;;Lohrheidestadion;GER;Outdoor;2026-07-03;Johanna;Martin;GER;2006;Female;14996565
 NL;GER;KUG;W;20.37;;Helmut-Körnig-Halle;GER;Indoor;2026-02-27;Yemisi;Ogunleye;GER;1998;Female;14565871
 NL;GER;60M;M;6.55;;Europahalle;GER;Indoor;2026-02-08;Owen;Ansah;GER;2000;Male;14812323
 NL;GER;5G;M;21:17.50;;Stadion der Freundschaft;GER;Outdoor;2026-06-21;Arvid;Kockel;GER;2005;Male;14981346
@@ -55,7 +55,7 @@ NL;GER;600;M;1:16.50;;McArthur Stadium;RSA;Outdoor;2026-02-03;Manuel;Sanders;GER
 NL;GER;60H;M;7.75;;Leichtathletikhallen Manfort;GER;Indoor;2026-01-31;Stefan;Volzer;GER;2000;Male;14717468
 NL;GER;60H;M;7.75;;Helmut-Körnig-Halle;GER;Indoor;2026-02-28;Fred;Isaac Fleurisson;GER;2003;Male;14874152
 NL;GER;300;W;37.13;;McArthur Stadium;RSA;Outdoor;2026-02-03;Skadi;Schier;GER;2000;Female;14705532
-NL;GER;3KH;W;9:13.67;;Olympiastadion;SWE;Outdoor;2026-06-07;Lea;Meyer;GER;1997;Female;14509240
+NL;GER;3KH;W;9:07.50;;Hayward Field;USA;Outdoor;2026-07-04;Gesa;Felicitas Krause;GER;1992;Female;14329341
 NL;GER;800;M;1:45.13;;Golęcin Stadion;POL;Outdoor;2026-06-28;Alexander;Stepanov;GER;2004;Male;14984080
 NL;GER;1K5;M;3:32.99;;Olympiastadion;SWE;Outdoor;2026-06-07;Robert;Farken;GER;1997;Male;14597052
 NL;GER;5G;W;23:46.99;;Friedrich-Ludwig-Jahn-Sportplatz;GER;Outdoor;2026-06-12;Maria-Lena;Carniel;GER;2008;Female;15145843
