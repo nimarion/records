@@ -162,8 +162,8 @@ AL;3;4×1;M;38.61;;National Stadium;BOT;Outdoor;2026-05-02;Brazil;;BRA;;Male;
 AL;3;3KH;M;8:41.78;;Boudewijnstadion;BEL;Outdoor;2026-05-24;Frank;Geovani Duran;COL;2001;Male;15050465.0
 AL;3;60H;W;7.95;;Kujawsko-Pomorska Arena;POL;Indoor;2026-03-22;María;Fernanda Murillo;COL;1999;Female;14597657
 AL;3;3G;W;14:36.41;;Pista da;BRA;Outdoor;2026-06-20;Bruna;Batista De Oliveira;BRA;2002;Female;14931621
-AL;3;11H;M;13.39;0.1;Pista Atlética Mario Recordón;CHI;Outdoor;2026-04-19;Rafael;Pereira;BRA;1997;Male;14662635
 AL;3;11H;M;13.39;-0.2;Stade Jean Delbert;FRA;Outdoor;2026-06-17;Marcos;Herrera;ECU;1999;Male;14701525
+AL;3;11H;M;13.39;0.1;Pista Atlética Mario Recordón;CHI;Outdoor;2026-04-19;Rafael;Pereira;BRA;1997;Male;14662635
 AL;3;1K5;W;4:05.50;;Altamira estadioa;ESP;Outdoor;2026-07-04;Micaela;Levaggi;ARG;1998;Female;14545494
 AL;3;60M;W;7.05;0.0;COTP Stadium;BRA;Outdoor;2026-02-18;Ana;Azevedo;BRA;1998;Female;14579558
 AL;3;4×4;W;3:28.59;;National Stadium;BOT;Outdoor;2026-05-03;Brazil;;BRA;;Female;
@@ -236,13 +236,13 @@ AL;5;WEI;M;8.38;-0.8;Kalinga Stadium;IND;Outdoor;2026-06-28;SREESHANKAR;;IND;199
 AL;5;5K0;W;14:30.06;;Stadio Olimpico;ITA;Outdoor;2026-06-04;Winfred;Yavi;BRN;1999;Female;14695622
 AL;5;MEI;M;3:55.63;;Ray Conn Sports Complex;USA;Outdoor;2026-05-29;Gulveer;Singh;IND;1998;Male;15023839
 AL;5;600;W;1:28.92;;Convention Center;USA;Indoor;2026-02-13;Tharushi;Karunarathna;SRI;2004;Female;14917748
-AL;5;DRE;W;14.16;0.0;Changshou Sports Center;CHN;Outdoor;2026-05-19;Yi;Li;CHN;2005;Female;15052012
+AL;1;DRE;W;14.24;0.1;Sport Development Center Stadium;CHN;Outdoor;2026-07-12;Sharifa;Davronova;UZB;2006;Female;14956284
 AL;5;200;M;20.03;0.2;Banqiao Stadium;TPE;Outdoor;2026-06-07;Puripol;Boonson;THA;2006;Male;14992965
 AL;5;10K;W;31:37.27;;Aoba Park Athletic Field;JPN;Outdoor;2026-07-05;Nanaka;Izawa;JPN;1991;Female;14335034
 AL;5;400;W;50.28;;Addis Ababa Stadium;ETH;Outdoor;2026-04-18;Kemi;Adekoya;BRN;1993;Female;14419510
 AL;5;KUG;W;19.36;;Kuishan Sports Center;CHN;Outdoor;2026-06-26;Linru;Zhang;CHN;1999;Female;14745178
-AL;5;60M;M;6.52;;Aspire Dome;QAT;Indoor;2026-01-08;Jabar;Khamis;QAT;2007;Male;15137193
 AL;5;60M;M;6.52;;AccorHotels Arena de Bercy;FRA;Indoor;2026-01-25;Ali;Al Balushi;OMA;2002;Male;14844149
+AL;5;60M;M;6.52;;Aspire Dome;QAT;Indoor;2026-01-08;Jabar;Khamis;QAT;2007;Male;15137193
 AL;5;5G;M;17:59.32;;Oi Stadium;JPN;Outdoor;2026-04-05;Riku;Kaneko;JPN;2005;Male;15021517
 AL;5;DIS;W;65.03;;Egret Stadium;CHN;Outdoor;2026-05-23;Bin;Feng;CHN;1994;Female;14430151
 AL;5;10K;M;27:20.11;;Yanmar Stadium Nagai;JPN;Outdoor;2026-05-10;Mebuki;Suzuki;JPN;2001;Male;14854889
@@ -324,8 +324,8 @@ AL;2;40H;M;47.37;;Cushing Stadium;USA;Outdoor;2026-06-06;Trevor;Bassitt;USA;1998
 AL;2;10G;W;44:35.33;;Pista;PUR;Outdoor;2026-03-20;Sharon;Lisseth Herrera Soto;CRC;2004;Female;14819426
 AL;2;HAM;W;81.13;;Mike A. Myers Stadium;USA;Outdoor;2026-04-02;Camryn;Rogers;CAN;1999;Female;14607142
 AL;0;4×4;M;2:57.33;;Percy Beard Track;USA;Outdoor;2026-04-18;Pure;Athletics;INT;;Male;
-AL;2;300;M;32.1;;The Podium;USA;Indoor;2026-01-16;Garrett;Kaalund;USA;2004;Male;14988823
 AL;2;300;M;32.1;;Clemson Indoor Track & Field Complex;USA;Indoor;2026-01-10;Sidi;Njie;USA;2007;Male;15027039
+AL;2;300;M;32.1;;The Podium;USA;Indoor;2026-01-16;Garrett;Kaalund;USA;2004;Male;14988823
 AL;2;3G;M;11:51.71;;Alachua County Sports Complex;USA;Indoor;2026-03-06;Owen;Nolte;USA;;Male;15279123
 AL;2;SPE;W;63.88;;Univ. of Arizona Roy P. Drachman Stadium;USA;Outdoor;2026-05-23;Madison;Wiltrout;USA;1999;Female;14647649
 AL;2;STA;M;6.01;;Ocean Breeze Athl. Complex;USA;Indoor;2026-02-28;Zachery;Bradford;USA;1999;Male;14717685
@@ -379,7 +379,7 @@ AL;4;MEI;M;3:47.39;;Hayward Field;USA;Outdoor;2026-07-04;Timothy;Cheruiyot;KEN;1
 AL;4;600;W;1:24.19;;Randal Tyson Indoor Center;USA;Indoor;2026-01-16;Sanu;Jallow;GAM;2003;Female;14880079
 AL;4;DRE;W;14.99;0.7;Stade Louis;MON;Outdoor;2026-07-10;Saly;Sarr;SEN;2002;Female;14894836
 AL;4;200;M;19.74;1.8;Suhaim bin Hamad Stadium;QAT;Outdoor;2026-06-19;Sinesipho;Dambile;RSA;2002;Male;14789650
-AL;4;10K;W;30:29.16;;Aoba Park Athletic Field;JPN;Outdoor;2026-07-05;Janeth;Nyiva Mutungi;KEN;2004;Female;14849583
+AL;4;10K;W;30:29.16;;Aoba Park Athletic Field;JPN;Outdoor;2026-07-05;Janeth;Nyiva Mutungi;KEN;2003;Female;14849583
 AL;4;400;W;49.47;;Cushing Stadium;USA;Outdoor;2026-06-06;Ella;Onojuvwevwo;NGR;2005;Female;14888449
 AL;4;KUG;W;18.5;;Armory Track&Field Center;USA;Indoor;2026-03-01;Jessica;Oji;NGR;2007;Female;15165163.0
 AL;4;60M;M;6.43;0.2;Notre Dame;USA;Outdoor;2026-06-27;Benjamin;Azamati;GHA;1998;Male;14873268
