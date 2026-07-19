@@ -6,13 +6,13 @@ NL;GER;10K;W;31:32.25;;JSerra Catholic;USA;Outdoor;2026-03-28;Lisa;Merkel;GER;20
 NL;GER;4×1;M;37.67;;National Stadium;BOT;Outdoor;2026-05-02;Germany;;GER;;Male;
 NL;GER;60H;W;7.9;;Kujawsko-Pomorska Arena;POL;Indoor;2026-03-22;Marlene;Meier;GER;2002;Female;14778624
 NL;GER;DRE;W;14.22;0.7;Kennedyplatz;GER;Outdoor;2026-06-21;Caroline;Joyeux;GER;2001;Female;14736473
-NL;GER;MEI;M;3:47.76;;Hayward Field;USA;Outdoor;2026-07-04;Robert;Farken;GER;1997;Male;14597052
+NL;GER;MEI;M;3:46.82;;Olympic Stadium;GBR;Outdoor;2026-07-18;Robert;Farken;GER;1997;Male;14597052
 NL;GER;KUG;W;20.37;;Helmut-Körnig-Halle;GER;Indoor;2026-02-27;Yemisi;Ogunleye;GER;1998;Female;14565871
 NL;GER;SPE;W;60.58;;Jahnstadion;GER;Outdoor;2026-06-05;Julia;Ulbricht;GER;2000;Female;14653702
 NL;GER;4×4;W;3:25.76;;National Stadium;BOT;Outdoor;2026-05-02;Germany;;GER;;Female;
 NL;GER;4×1;W;42.44;;National Stadium;BOT;Outdoor;2026-05-02;Germany;;GER;;Female;
 NL;GER;800;W;1:58.67;;TSV Stadion;GER;Outdoor;2026-06-13;Majtie;Kolberg;GER;1999;Female;14593204
-NL;GER;1K5;M;3:32.46;;Hayward Field;USA;Outdoor;2026-07-04;Robert;Farken;GER;1997;Male;14597052
+NL;GER;1K5;M;3:30.09;;Olympic Stadium;GBR;Outdoor;2026-07-18;Robert;Farken;GER;1997;Male;14597052
 NL;GER;5G;M;21:17.50;;Stadion der Freundschaft;GER;Outdoor;2026-06-21;Arvid;Kockel;GER;2005;Male;14981346
 NL;GER;3G;M;13:34.70;;LA-Halle Brandberge;GER;Indoor;2026-01-31;Matti;Schmidt;GER;2007;Male;15115084
 NL;GER;4×2;W;1:35.11;;Helmut-Körnig-Halle;GER;Indoor;2026-02-28;SCC;Berlin;GER;;Female;
@@ -22,7 +22,7 @@ NL;GER;60H;M;7.75;;Leichtathletikhallen Manfort;GER;Indoor;2026-01-31;Stefan;Vol
 NL;GER;60H;M;7.75;;Helmut-Körnig-Halle;GER;Indoor;2026-02-28;Fred;Isaac Fleurisson;GER;2003;Male;14874152
 NL;GER;4×4;M;3:02.21;;National Stadium;BOT;Outdoor;2026-05-03;Germany;;GER;;Male;
 NL;GER;2KH;M;5:18.29;;Heinz-Steyer-Stadion;GER;Outdoor;2026-05-31;Karl;Bebendorf;GER;1996;Male;14597064
-NL;GER;40H;M;47.58;;Nemzeti Atlétikai Központ;HUN;Outdoor;2026-07-14;Emil;Agyekum;GER;1999;Male;14679384
+NL;GER;40H;M;47.45;;Olympic Stadium;GBR;Outdoor;2026-07-18;Emil;Agyekum;GER;1999;Male;14679384
 NL;GER;200;W;22.76;1.9;Enwag-Stadion;GER;Outdoor;2026-07-10;Sophia;Junk;GER;1999;Female;14593203
 NL;GER;STA;M;5.9;;Estadio Vallehermoso;ESP;Outdoor;2026-07-16;Bo;Kanda Lita Baehre;GER;1999;Male;14649117
 NL;GER;SPE;M;87.04;;Stadion Allmend;SUI;Outdoor;2026-07-16;Julian;Weber;GER;1994;Male;14420076
@@ -47,7 +47,7 @@ NL;GER;4×4;X;3:12.99;;National Stadium;BOT;Outdoor;2026-05-03;Germany;;GER;;Mix
 NL;GER;400;W;50.57;;Lohrheidestadion;GER;Outdoor;2026-07-03;Johanna;Martin;GER;2006;Female;14996565
 NL;GER;800;M;1:45.13;;Golęcin Stadion;POL;Outdoor;2026-06-28;Alexander;Stepanov;GER;2004;Male;14984080
 NL;GER;WEI;M;8.18;;Arena Gorzów;POL;Indoor;2026-01-31;Luka;Herden;GER;2000;Male;14717467
-NL;GER;2KH;W;6:41.23;;Schönbuchstadion;GER;Outdoor;2026-05-17;Lena;Rossmanith;GER;2008;Female;15155224
+NL;GER;2KH;W;6:36.03;;Stadio Guidobaldi;ITA;Outdoor;2026-07-18;Franziska;Gräter;GER;2010;Female;15242242
 NL;GER;600;W;1:27.76;;Schönbuchstadion;GER;Outdoor;2026-05-17;Elena;Kelety;GER;1999;Female;14584926
 NL;GER;3KH;W;9:07.50;;Hayward Field;USA;Outdoor;2026-07-04;Gesa;Felicitas Krause;GER;1992;Female;14329341
 NL;GER;100;M;9.98;0.8;Universitätsstadion Am Biopark;GER;Outdoor;2026-06-06;Owen;Ansah;GER;2000;Male;14812323
@@ -64,6 +64,6 @@ NL;GER;3KH;M;7:57.80;;Complexe Sportif Prince Moulay Abdellah;MAR;Outdoor;2026-0
 NL;GER;HAM;M;81.74;;Nemzeti Atlétikai Központ;HUN;Outdoor;2026-07-14;Merlin;Hummel;GER;2002;Male;14753981
 NL;GER;DIS;W;66.55;;Millican Field at Throw Town;USA;Outdoor;2026-04-09;Marike;Steinacker;GER;1992;Female;14373479
 NL;GER;1K0;M;2:17.17;;Heinz-Steyer-Stadion;GER;Outdoor;2026-05-31;Robert;Farken;GER;1997;Male;14597052
-NL;GER;WEI;W;6.92;1.9;Hayward Field;USA;Outdoor;2026-07-04;Malaika;Mihambo;GER;1994;Female;14377384
+NL;GER;WEI;W;7.05;1.2;Olympic Stadium;GBR;Outdoor;2026-07-18;Malaika;Mihambo;GER;1994;Female;14377384
 NL;GER;400;M;45.04;;Mommsenstadion;GER;Outdoor;2026-06-20;Jean;Paul Bredau;GER;1999;Male;14771929
 NL;GER;100;W;11.04;0.9;Sportzentrum Niederösterreich;AUT;Outdoor;2026-06-04;Rebekka;Haase;GER;1993;Female;14360165
