@@ -6,8 +6,8 @@ AL;2;KUG;W;20.74;;Bislett Stadion;NOR;Outdoor;2026-06-10;Chase;Jackson;USA;1994;
 AL;2;HAM;W;81.13;;Mike A. Myers Stadium;USA;Outdoor;2026-04-02;Camryn;Rogers;CAN;1999;Female;14607142
 AL;2;4×1;M;37.43;;National Stadium;BOT;Outdoor;2026-05-03;United;States;USA;;Male;
 AL;2;100;M;9.79;0.8;Icahn Stadium;USA;Outdoor;2026-07-24;Noah;Lyles;USA;1997;Male;14536762
-AL;2;HOC;W;1.96;;Gallur;ESP;Indoor;2026-02-06;Charity;Hufnagel;USA;2001;Female;14888087
 AL;2;HOC;W;1.96;;Športová hala Dukla;SVK;Indoor;2026-02-24;Lamara;Distin;JAM;2000;Female;14630614
+AL;2;HOC;W;1.96;;Gallur;ESP;Indoor;2026-02-06;Charity;Hufnagel;USA;2001;Female;14888087
 AL;2;40H;W;52.77;;Stadio Olimpico;ITA;Outdoor;2026-06-04;Anna;Cockrell;USA;1997;Female;14486939
 AL;2;10H;W;12.14;0.5;Egret Stadium;CHN;Outdoor;2026-05-23;Masai;Russell;USA;2000;Female;14659011
 AL;2;200;W;21.51;0.9;Stade Louis;MON;Outdoor;2026-07-10;Julien;Alfred;LCA;2001;Female;14646562
@@ -189,7 +189,7 @@ AL;1;MEI;M;3:42.66;;Olympic Stadium;GBR;Outdoor;2026-07-18;Josh;Kerr;GBR;1997;Ma
 AL;1;60M;W;6.99;;Arena Toruń;POL;Indoor;2026-02-22;Zaynab;Dosso;ITA;1999;Female;14622202
 AL;1;STA;W;4.91;;Olympic Stadium;RUS;Outdoor;2026-06-20;Polina;Knoroz;RUS;1999;Female;14623073
 AL;1;DRE;W;14.56;1.9;"Stadionul de atletism ""Nicolae Mărășescu""";ROU;Outdoor;2026-07-04;Diana;Ana Maria Ion;ROU;2000;Female;14629838
-AL;1;4×4;X;3:09.69;;National Stadium;BOT;Outdoor;2026-05-02;Great;Britain & Ni;GBR;;Mixed;
+AL;1;4×4;X;3:09.62;;Alexander Stadium;GBR;Outdoor;2026-08-10;Norway;;NOR;;Mixed;
 AL;1;4×1;W;42.06;;Olympic Stadium;GBR;Outdoor;2026-07-18;Great;Britain & Ni;GBR;;Female;
 AL;1;DIS;W;70.99;;Millican Field at Throw Town;USA;Outdoor;2026-04-11;Jorinde;Van Klinken;NED;2000;Female;14676577
 AL;1;4×4;W;3:20.96;;National Stadium;BOT;Outdoor;2026-05-03;Norway;;NOR;;Female;
@@ -322,7 +322,7 @@ AL;3;DRE;M;17.24;-1.0;Alfonso Galvis Duque Stadium;COL;Outdoor;2026-06-28;Almir;
 AL;3;10G;M;40:01.15;;Estadio Atlético de la;PER;Outdoor;2026-05-30;Saul;Wamputsrik;ECU;2004;Male;14885196
 AL;3;3KH;M;8:38.81;;Estadio Olimpico Juan Pablo Duarte;DOM;Outdoor;2026-08-07;Didier;Rodriguez;PAN;1998;Male;14909352.0
 AL;3;2KH;M;5:34.65;;Heinz-Steyer-Stadion;GER;Outdoor;2026-05-31;Didier;Rodriguez;PAN;1998;Male;14909352
-AL;3;SPE;M;82.62;;Aztrack Sports Deck;USA;Outdoor;2026-04-09;Luiz;Mauricio Da Silva;BRA;2000;Male;14723385
+AL;3;SPE;M;82.65;;Pista de Atletismo;PAR;Outdoor;2026-08-08;Lars;Anthony Flaming;PAR;2003;Male;14964840
 AL;3;5K0;W;15:13.20;;Estádio 1o de Maio;POR;Outdoor;2026-07-11;Micaela;Levaggi;ARG;1998;Female;14545494.0
 AL;3;3K0;W;9:20.60;;Parque Municipal;CHI;Outdoor;2026-03-07;Micaela;Levaggi;ARG;1998;Female;14545494
 AL;3;MEI;M;3:55.52;;Østerbro Stadium;DEN;Outdoor;2026-06-22;Valentin;Soca;URU;2002;Male;14887362
