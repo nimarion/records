@@ -54,7 +54,7 @@ AL;5;4×4;W;3:31.16;;Shangyu Stadium;CHN;Outdoor;2026-06-21;Vietnam;;VIE;;Female
 AL;5;HAM;W;78.22;;Sichuan Xipu Training Base;CHN;Outdoor;2026-04-03;Jie;Zhao;CHN;2002;Female;14889043
 AL;5;2K0;M;5:09.91;;Rector Fieldhouse;USA;Indoor;2026-01-23;Yacine;Guermali;PHI;1999;Male;14697159
 AL;5;SPE;M;92.62;;Stadio Olimpico;ITA;Outdoor;2026-06-04;Rumesh;Tharanga Pathirage;SRI;2003;Male;14886862
-AL;5;10H;W;12.72;-0.2;Municipal Mizuho Stadium;JPN;Outdoor;2026-06-12;Mako;Fukube;JPN;1995;Female;14521635
+AL;5;10H;W;12.6;0.7;Prefectural Stadium;JPN;Outdoor;2026-08-15;Hitomi;Nakajima;JPN;1995;Female;14444487
 AL;5;STA;W;4.73;;Sports Center;CHN;Outdoor;2026-05-31;Chunge;Niu;CHN;2000;Female;14744719
 AL;5;200;M;20.03;0.2;Banqiao Stadium;TPE;Outdoor;2026-06-07;Puripol;Boonson;THA;2006;Male;14992965
 AL;5;SPE;W;71.74;;Egret Stadium;CHN;Outdoor;2026-05-23;Ziyi;Yan;CHN;2008;Female;15144603
@@ -270,7 +270,7 @@ AL;2;MEI;W;4:17.49;;Hayward Field;USA;Outdoor;2026-07-04;Nikki;Hiltz;USA;1994;Fe
 AL;2;MEI;M;3:45.69;;Olympic Stadium;GBR;Outdoor;2026-07-18;Yared;Nuguse;USA;1999;Male;14798735
 AL;1;1K0;M;2:12.77;;Stade Louis;MON;Outdoor;2026-07-10;Jake;Wightman;GBR;1994;Male;14522654
 AL;1;40H;M;46.61;;Olympic Stadium;GBR;Outdoor;2026-07-18;Karsten;Warholm;NOR;1996;Male;14479487
-AL;1;4×1;W;42.06;;Olympic Stadium;GBR;Outdoor;2026-07-18;Great;Britain & Ni;GBR;;Female;
+AL;1;4×1;W;42.05;;Alexander Stadium;GBR;Outdoor;2026-08-15;Great;Britain & Ni;GBR;;Female;
 AL;1;300;W;35.49;;Fana Stadion;NOR;Outdoor;2026-05-28;Henriette;Jæger;NOR;2003;Female;14780807
 AL;1;WEI;M;8.66;1.0;Panthessaliko Stadium;GRE;Outdoor;2026-07-26;Miltiadis;Tentoglou;GRE;1998;Male;14669734
 AL;1;WEI;M;8.66;1.0;Panthessaliko Stadium;GRE;Outdoor;2026-07-26;Miltiadis;Tentoglou;GRE;1998;Male;14669734
@@ -295,13 +295,13 @@ AL;1;4×2;W;1:35.11;;Helmut-Körnig-Halle;GER;Indoor;2026-02-28;SCC;Berlin;GER;;
 AL;1;4×4;X;3:09.62;;Alexander Stadium;GBR;Outdoor;2026-08-10;Norway;;NOR;;Mixed;
 AL;1;60M;M;6.45;;Kujawsko-Pomorska Arena;POL;Indoor;2026-03-20;Jeremiah;Azu;GBR;2001;Male;14771648
 AL;1;300;M;32.27;;Fana Stadion;NOR;Outdoor;2026-05-28;Muhammad;Abdallah Kounta;FRA;1994;Male;14679916
-AL;1;DRE;M;17.87;0.7;Stadio Luigi Ridolfi;ITA;Outdoor;2026-07-25;Andy;Díaz Hernández;ITA;1995;Male;14587743
+AL;1;DRE;M;18.15;1.7;Alexander Stadium;GBR;Outdoor;2026-08-15;Andy;Díaz Hernández;ITA;1995;Male;14587743
 AL;1;5K0;W;14:33.56;;Stadio Olimpico;ITA;Outdoor;2026-06-04;Maureen;Koster;NED;1992;Female;14372338
 AL;1;DRE;W;14.6;1.9;Alexander Stadium;GBR;Outdoor;2026-08-13;Dariya;Derkach;ITA;1993;Female;14363463
 AL;1;1K5;W;3:55.63;;Stade Charléty;FRA;Outdoor;2026-06-28;Georgia;Hunter Bell;GBR;1993;Female;14329797
 AL;1;5K0;M;12:48.61;;Bislett Stadion;NOR;Outdoor;2026-06-10;Andreas;Almgren;SWE;1995;Male;14460738
 AL;1;1K5;M;3:27.62;;Olympic Stadium;GBR;Outdoor;2026-07-18;Josh;Kerr;GBR;1997;Male;14533464
-AL;1;400;W;49.15;;Olympic Stadium;GBR;Outdoor;2026-07-18;Henriette;Jæger;NOR;2003;Female;14780807
+AL;1;400;W;49.04;;Alexander Stadium;GBR;Outdoor;2026-08-15;Henriette;Jæger;NOR;2003;Female;14780807
 AL;1;100;M;9.96;0.1;Stade Charléty;FRA;Outdoor;2026-06-28;Lamont;Marcell Jacobs;ITA;1994;Male;14453864
 AL;1;3KH;W;9:05.45;;Scotstoun Stadium;GBR;Outdoor;2026-07-29;Elise;Thorner;GBR;2001;Female;14648621
 AL;1;600;M;1:13.53;;Province Naimette Arena;BEL;Outdoor;2026-07-15;Eliott;Crestan;BEL;1999;Male;14634371
@@ -334,7 +334,7 @@ AL;1;3G;W;11:56.74;;Palaindoor Ancona;ITA;Indoor;2026-02-28;Antonella;Palmisano;
 AL;1;4×4;W;3:20.96;;National Stadium;BOT;Outdoor;2026-05-03;Norway;;NOR;;Female;
 AL;1;HAM;W;77.67;;Regional Sport Complex;BLR;Outdoor;2026-05-07;Anastasiya;Maslova;BLR;1997;Female;14677647
 AL;1;2K0;M;4:52.41;;The Track at New Balance;USA;Indoor;2026-01-24;Pieter;Sisk;BEL;1999;Male;14681333
-AL;1;SPE;M;87.04;;Stadion Allmend;SUI;Outdoor;2026-07-16;Julian;Weber;GER;1994;Male;14420076
+AL;1;SPE;M;90.4;;Alexander Stadium;GBR;Outdoor;2026-08-15;Julian;Weber;GER;1994;Male;14420076
 AL;1;10H;W;12.41;0.7;Stade Charléty;FRA;Outdoor;2026-06-28;Nadine;Visser;NED;1995;Female;14451249
 AL;1;STA;W;4.91;;Olympic Stadium;RUS;Outdoor;2026-06-20;Polina;Knoroz;RUS;1999;Female;14623073
 AL;1;200;M;20.04;-0.5;Alexander Stadium;GBR;Outdoor;2026-06-21;Zharnel;Hughes;GBR;1995;Male;14414524
