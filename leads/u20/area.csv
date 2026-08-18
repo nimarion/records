@@ -1,6 +1,7 @@
 Code;Type;Discipline;Class;Result;Wind;Venue;Venue Country;Environment;Date;Firstname;Lastname;Nation;YOB;Sex;WorldathleticsId
 AL;5;60H;WJU20;8.5;;Athletic Center Olga Rypakova;KAZ;Indoor;2026-02-14;Antonina;Chernyshova;KAZ;2007;Female;15019872
 AL;5;DRE;WJU20;13.36;1.3;Kai Tak Youth Sports Ground;HKG;Outdoor;2026-05-29;Yiqing;Xie;CHN;2009;Female;15172594.0
+AL;5;DRE;WJU20;13.36;-0.2;Sports Center;CHN;Outdoor;2026-08-12;Yixuan;Han;CHN;2008;Female;15138388.0
 AL;5;400;WJU20;52.72;;Kai Tak Youth Sports Ground;HKG;Outdoor;2026-05-29;Aminat;Kamarudeen;UAE;2007;Female;15152920
 AL;5;STA;MJU20;5.5;;Municipal Mizuho Stadium;JPN;Outdoor;2026-06-13;Naoya;Inoue;JPN;2007;Male;15046800
 AL;5;STA;MJU20;5.5;;Pole Vault Stadium of Haining Junior Sports School;CHN;Indoor;2026-03-14;Liang;Zeng;CHN;2007;Male;15096791
@@ -320,7 +321,7 @@ AL;1;MEI;WJU20;4:40.61;;Fall Creek Pavilion;USA;Indoor;2026-03-02;Pauline;Schedl
 AL;1;KUG;WJU20;17.3;;Percy Beard Track;USA;Outdoor;2026-04-17;Nafy;Thiam;BEL;2007;Female;14995344
 AL;4;60H;WJU20;8.58;;Robert W. Plaster Center;USA;Indoor;2026-02-27;Chika;Bakwunye;NGR;2007;Female;15033695
 AL;4;DRE;WJU20;13.21;0.0;Addis Ababa;ETH;Outdoor;2026-05-02;Poch;Umed;ETH;;Female;15174590
-AL;4;400;WJU20;51.24;;Percy Beard Track;USA;Outdoor;2026-04-18;Chioma;Nwachukwu;NGR;2008;Female;15023596
+AL;4;400;WJU20;50.95;;Yabatech Sport Complex;NGR;Outdoor;2026-08-15;Iyanuoluwa;Aderemi;NGR;2008;Female;15301396
 AL;4;STA;MJU20;4.6;;Foote Field;CAN;Outdoor;2026-06-13;Jaden;Van Der Linde;RSA;2007;Male;15143364
 AL;4;STA;MJU20;4.6;;Lala Setti Athletics Stadium;ALG;Outdoor;2026-07-08;Adem;Sadok;ALG;2009;Male;15239927
 AL;4;4×1;WJU20;43.65;;Hayward Field;USA;Outdoor;2026-08-08;Nigeria;U20;NGR;;Female;
