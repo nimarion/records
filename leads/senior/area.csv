@@ -41,7 +41,7 @@ AL;5;300;W;36.83;;Prefectural Yamanokuchi Athletics Stadium;JPN;Outdoor;2026-03-
 AL;5;2KH;M;5:53.98;;New Clark City Stadium;PHI;Outdoor;2026-05-05;Edzel;Baritua;PHI;;Male;15221467
 AL;5;10G;M;38:07.06;;Lemon Gas Stadium;JPN;Outdoor;2026-04-26;Taisei;Yoshizako;JPN;2005;Male;15052837
 AL;5;40H;W;53.67;;Suhaim bin Hamad Stadium;QAT;Outdoor;2026-06-19;Kemi;Adekoya;BRN;1993;Female;14419510
-AL;1;DRE;W;14.24;0.1;Sport Development Center Stadium;CHN;Outdoor;2026-07-12;Sharifa;Davronova;UZB;2006;Female;14956284
+AL;1;DRE;W;14.35;0.9;Municipal Mizuho Stadium;JPN;Outdoor;2026-09-24;Sharifa;Davronova;UZB;2006;Female;14956284
 AL;5;SPE;M;92.62;;Stadio Olimpico;ITA;Outdoor;2026-06-04;Rumesh;Tharanga Pathirage;SRI;2003;Male;14886862
 AL;5;1K5;W;3:57.61;;Stade Charléty;FRA;Outdoor;2026-06-28;Nelly;Jepkosgei;BRN;1991;Female;14373314
 AL;5;STA;W;4.73;;Sports Center;CHN;Outdoor;2026-05-31;Chunge;Niu;CHN;2000;Female;14744719
@@ -55,7 +55,7 @@ AL;5;800;M;1:43.45;;Okura Sports Park Athletics Field;JPN;Outdoor;2026-05-30;Ko;
 AL;5;10H;W;12.6;0.7;Prefectural Stadium;JPN;Outdoor;2026-08-15;Hitomi;Nakajima;JPN;1995;Female;14444487
 AL;5;200;M;20.03;0.2;Banqiao Stadium;TPE;Outdoor;2026-06-07;Puripol;Boonson;THA;2006;Male;14992965
 AL;5;HOC;W;1.93;;Kai Tak Youth Sports Ground;HKG;Outdoor;2026-05-29;POOJA;;IND;2007;Female;15053572
-AL;5;100;M;9.99;1.4;Městský stadión Černá hora;CZE;Outdoor;2026-08-01;Puripol;Boonson;THA;2006;Male;14992965
+AL;5;100;M;9.95;-0.2;Municipal Mizuho Stadium;JPN;Outdoor;2026-09-24;Puripol;Boonson;THA;2006;Male;14992965
 AL;5;2KH;W;6:19.19;;Olympiastadion;GER;Outdoor;2026-08-30;Miu;Saito;JPN;2002;Female;14931241
 AL;5;4×4;X;3:12.86;;National Stadium;BOT;Outdoor;2026-05-03;Japan;;JPN;;Mixed;
 AL;5;4×4;M;3:00.19;;National Stadium;BOT;Outdoor;2026-05-03;Japan;;JPN;;Male;
@@ -178,13 +178,12 @@ AL;3;2KH;M;5:34.65;;Heinz-Steyer-Stadion;GER;Outdoor;2026-05-31;Didier;Rodriguez
 AL;3;10G;M;40:01.15;;Estadio Atlético de la;PER;Outdoor;2026-05-30;Saul;Wamputsrik;ECU;2004;Male;14885196
 AL;3;40H;W;53.56;;Boudewijnstadion;BEL;Outdoor;2026-09-04;Gianna;Woodruff;PAN;1993;Female;14423522
 AL;3;DRE;W;14.95;;Velódromo Luis Puig;ESP;Indoor;2026-02-14;Yulimar;Rojas;VEN;1995;Female;14436431
-AL;3;SPE;M;82.65;;Pista de Atletismo;PAR;Outdoor;2026-08-08;Lars;Anthony Flaming;PAR;2003;Male;14964840
+AL;3;SPE;M;84.36;;CARD Pedro Candioti;ARG;Outdoor;2026-09-24;Lars;Anthony Flaming;PAR;2003;Male;14964840
 AL;3;1K5;W;4:05.50;;Altamira estadioa;ESP;Outdoor;2026-07-04;Micaela;Levaggi;ARG;1998;Female;14545494
 AL;3;STA;W;4.7;;Kujawsko-Pomorska Arena;POL;Indoor;2026-03-22;Juliana;De Menis Campos;BRA;1996;Female;14545924
 AL;3;100;W;11.08;0.7;Estadio Atlético de la;PER;Outdoor;2026-05-29;Ana;Azevedo;BRA;1998;Female;14579558
 AL;3;KUG;W;18.36;;Pista Atlética Mario Recordón;CHI;Outdoor;2026-04-19;Ana;Caroline Silva;BRA;1999;Female;14718731
-AL;3;200;W;22.66;1.5;CNDA;BRA;Outdoor;2026-04-26;Ana;Azevedo;BRA;1998;Female;14579558
-AL;3;200;W;22.66;1.9;New Mexico;USA;Outdoor;2026-05-15;Gabriela;Anahi Suarez;ECU;2001;Female;14701514
+AL;3;200;W;22.63;0.2;CARD Pedro Candioti;ARG;Outdoor;2026-09-24;Orangy;Jiménez;VEN;2001;Female;14719366
 AL;3;10K;M;28:12.91;;JSerra Catholic;USA;Outdoor;2026-03-28;Pedro;Alejandro Marin;COL;2004;Male;14977381
 AL;3;5G;M;18:37.35;;CNDA;BRA;Outdoor;2026-04-24;Caio;Bonfim;BRA;1991;Male;14175843
 AL;3;300;M;33.69;;Norton Sports Center;USA;Indoor;2026-01-10;Oscar;Manuel Baltan;COL;2003;Male;14859733
