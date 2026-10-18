@@ -19,13 +19,17 @@ def determine_environment(row):
     return "Outdoor"
 
 def getRecords(sex, discipline):
-    url = f'https://www.tilastopaja.info/api/nationalrecords/world/{sex}?indoor=all&event={discipline}'
-    response = requests.get(url, headers=headers)
-    json = response.json()
-    if (json['templates'] is None):
+    dfs = []
+    for indoor in ["", "indoor"]:
+        url = f'https://www.tilastopaja.info/api/nationalrecords/world/{sex}/senior?indoor={indoor}&event={discipline}'
+        response = requests.get(url, headers=headers)
+        json = response.json()
+        if json['templates'] is not None:
+            records = json['templates'][0]["divs"][0]["tables"][0]["body"]
+            dfs.append(pd.DataFrame(records))
+    if not dfs:
         return None
-    records = json['templates'][0]["divs"][0]["tables"][0]["body"]
-    df = pd.DataFrame(records)
+    df = pd.concat(dfs, ignore_index=True)
 
     df = df.rename(columns={'country': 'nation'})
 
