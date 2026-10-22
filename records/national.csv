@@ -357,7 +357,7 @@ NR;MOZ;200;M;21.29;1.2;Germiston;RSA;Outdoor;2023-02-04;Edson;Ndeve;MOZ;1995;Mal
 NR;MRI;200;M;19.89;1.3;Albi;FRA;Outdoor;2022-07-10;Noah;Bibi;MRI;2000;Male;
 NR;MTN;200;M;21.4;1.6;Hérouville;FRA;Outdoor;2006-06-24;Cheikh;Diagana;MTN;1976;Male;
 NR;MTN;200;M;21.4;;Riyadh;KSA;Outdoor;2014-05-17;Abderrahmane;Samba;MTN;1995;Male;
-NR;MYA;200;M;21.52;;Yangon;MYA;Outdoor;1969-12-08;Soe;Win;MYA;1942;Male;
+NR;MYA;200;M;21.52;;Yangon;MYA;Outdoor;1969-12-08;Soe;Win;MYA;;Male;
 NR;NAM;200;M;19.68;0.4;Atlanta;USA;Outdoor;1996-08-01;Frank;Fredericks;NAM;1967;Male;
 NR;NCA;200;M;21.18;1.4;Managua;NCA;Outdoor;2022-07-03;Yeykell;Romero;NCA;2002;Male;
 NR;NED;200;M;19.81;0.4;Lausanne;SUI;Outdoor;2016-08-25;Churandy;Martina;NED;1984;Male;
@@ -675,7 +675,7 @@ NR;GUI;KUG;M;12.68;;Conakry;GUI;Outdoor;1988-05-27;Fode;Sidibe;GUI;1967;Male;
 NR;GUM;KUG;M;14.63;;Santa Rita;GUM;Outdoor;1999-09-06;René;Delamar;GUM;1962;Male;
 NR;GUY;KUG;M;17.17;;Tuscaloosa;USA;Outdoor;2001-03-25;Patrick;Harding;GUY;1980;Male;
 NR;HAI;KUG;M;18.84;;Auburn;USA;Outdoor;2021-03-20;Rickssen;Opont;HAI;1997;Male;
-NR;HKG;KUG;M;15.7;;Hongkong;HKG;Outdoor;2010-12-12;Chiu;Lap San;HKG;1986;Male;
+NR;HKG;KUG;M;15.7;;Hongkong;HKG;Outdoor;2010-12-12;Chiu;Lap San;HKG;;Male;
 NR;HON;KUG;M;19.8;;Eugene;USA;Outdoor;2022-03-12;Zack;Short;HON;1997;Male;
 NR;HUN;KUG;M;20.56;;Debrecen;HUN;Outdoor;2002-07-26;Szilard;Kiss;HUN;1975;Male;
 NR;INA;KUG;M;16.87;;Jakarta;INA;Outdoor;1999-07-01;Sukraj;Singh;INA;1975;Male;
@@ -4218,7 +4218,7 @@ NR;LCA;100;M;10.17;1.6;El Paso;USA;Outdoor;2000-05-06;Ronald;Promesse;LCA;1974;M
 NR;LES;100;M;10.07;1.4;Glasgow;GBR;Outdoor;2026-07-27;Mojela;Koneshe;LES;2001;Male;
 NR;LIE;100;M;10.53;0.6;Bellinzona;SUI;Outdoor;1996-07-12;Martin;Frick;LIE;1972;Male;
 NR;LTU;100;M;10.14;-0.2;Shenzhen;CHN;Outdoor;2011-08-17;Rytis;Sakalauskas;LTU;1987;Male;
-NR;LUX;100;M;10.41;;Ciudad de México;MEX;Outdoor;1979-09-08;Roland;Bombardella;LUX;1957;Male;
+NR;LUX;100;M;10.41;0.2;Ciudad de México;MEX;Outdoor;1979-09-08;Roland;Bombardella;LUX;1957;Male;
 NR;LUX;100;M;10.41;1.7;Tomblaine;FRA;Outdoor;2006-07-21;Daniel;Abenzoar-Foule;LUX;1981;Male;
 NR;MAC;100;M;10.51;-0.1;Macau;MAC;Outdoor;2026-05-16;Leong;Lok Io;MAC;2008;Male;
 NR;MAD;100;M;10.18;2.0;Ciudad de México;MEX;Outdoor;1968-10-13;Jean-Louis;Ravelomamantsoa;MAD;1943;Male;
@@ -7874,7 +7874,7 @@ NR;GUI;10H;W;12.96;1.8;Sacramento;USA;Outdoor;2007-06-08;Fatmata;Fofanah;GUI;198
 NR;GUM;10H;W;15.56;0.7;Eugene;USA;Outdoor;2026-08-07;Hazel;Wilson;GUM;2007;Female;
 NR;GUY;10H;W;13.27;1.7;Barranquilla;COL;Outdoor;2018-07-30;Jenea;Mccammon;GUY;1991;Female;
 NR;HAI;10H;W;12.74;1.7;Athína;GRE;Outdoor;2004-08-23;Nadine;Faustin-Parker;HAI;1976;Female;
-NR;HKG;10H;W;13.14;0.0;Walnut, Ca;USA;Outdoor;1994-04-17;Chan;Sau-Ying;HKG;1970;Female;
+NR;HKG;10H;W;13.14;;Walnut;USA;Outdoor;1994-04-17;Chan;Sau-Ying;HKG;1970;Female;
 NR;HON;10H;W;13.83;-0.6;Toluca;MEX;Outdoor;2008-07-21;Jeimy;J. Bernárdez;HON;1986;Female;
 NR;HUN;10H;W;12.59;-0.4;Budapest;HUN;Outdoor;2026-07-14;Luca;Kozák;HUN;1996;Female;
 NR;INA;10H;W;13.11;0.0;Gumi;KOR;Outdoor;2025-05-28;Dina;Aulia;INA;2003;Female;
@@ -7977,7 +7977,7 @@ NR;TGA;10H;W;14.35;;Melbourne;AUS;Outdoor;1997-03-02;Siulolo;Liku;TGA;1974;Femal
 NR;THA;10H;W;12.83;1.9;Sevilla;ESP;Outdoor;1999-08-27;Trecia;Roberts;THA;1971;Female;
 NR;TJK;10H;W;12.65;0.0;Sochi;URS;Outdoor;1984-05-19;Nadezhda;Bodrova;TJK;1961;Female;
 NR;TKM;10H;W;12.89;-0.8;Moskva;RUS;Outdoor;1994-05-29;Natalya;Yudakova;TKM;1965;Female;
-NR;TKS;10H;W;17.33;1.7;Basseterre;SKN;Outdoor;2015-04-04;Sanadia;Forbes;TKS;1998;Female;
+NR;TKS;10H;W;17.33;1.7;Basseterre;SKN;Outdoor;2015-04-04;Sanadia;Forbes;TKS;;Female;
 NR;TOG;10H;W;13.6;-0.2;Caen;FRA;Outdoor;2022-06-26;Naomi;Akakpo;TOG;2000;Female;
 NR;TPE;10H;W;12.93;0.0;München;FRG;Outdoor;1970-07-12;Chi;Cheng;TPE;1944;Female;
 NR;TTO;10H;W;12.85;1.1;Greensboro;USA;Outdoor;2010-05-29;Aleesha;Barber;TTO;1987;Female;
@@ -10325,7 +10325,7 @@ NR;GHA;STA;W;2.5;;Réduit;MRI;Outdoor;2007-04-19;Margaret;Simpson;GHA;1982;Femal
 NR;GRE;STA;W;4.91;;London;GBR;Outdoor;2017-08-06;Ekateríni;Stefanídi;GRE;1990;Female;
 NR;GUA;STA;W;3.5;;St. Charles;USA;Outdoor;2005-05-14;Peggy;Ovalle;GUA;1976;Female;
 NR;HAI;STA;W;2.2;;Gagny;FRA;Outdoor;2019-05-04;Kentiana;Sémexant;HAI;;Female;
-NR;HKG;STA;W;3.55;;Hongkong;HKG;Outdoor;2017-04-23;Choi;Sin Ting;HKG;;Female;
+NR;HKG;STA;W;3.55;;Hongkong;HKG;Outdoor;2017-04-23;Choi;Sin Ting;HKG;1989;Female;
 NR;HON;STA;W;2.7;;Tegucigalpa;HON;Outdoor;2017-07-01;Aimee;Zelaya;HON;;Female;
 NR;HON;STA;W;2.7;;Ciudad de Guatemala;GUA;Outdoor;2018-07-13;Aimee;Zelaya;HON;;Female;
 NR;HUN;STA;W;4.6;;Budapest;HUN;Outdoor;2025-08-02;Hanga;Klekner;HUN;1999;Female;
@@ -12583,7 +12583,7 @@ NR;GUA;HAM;W;62.28;;Ciudad de Guatemala;GUA;Outdoor;2025-05-24;Sophie;Pérez;GUA
 NR;GUI;HAM;W;25.92;;Châteauroux;FRA;Outdoor;2017-05-21;Fatoumata;Keita;GUI;;Female;
 NR;GUM;HAM;W;49.22;;Eugene;USA;Outdoor;2023-05-05;Tahnisha;Manibusan;GUM;2000;Female;
 NR;HAI;HAM;W;67.88;;Gainesville;USA;Outdoor;2026-04-03;Michaelle;Valentin;HAI;2001;Female;
-NR;HKG;HAM;W;52.59;;Taoyuan;TPE;Outdoor;2016-05-19;Lam;Sau Kwan;HKG;;Female;
+NR;HKG;HAM;W;52.59;;Taoyuan;TPE;Outdoor;2016-05-19;Lam;Sau Kwan;HKG;1981;Female;
 NR;HON;HAM;W;62.24;;Ashland;USA;Outdoor;2022-04-29;Gabrielle;Figueroa;HON;1996;Female;
 NR;HUN;HAM;W;73.44;;Halle;GER;Outdoor;2013-05-25;Éva;Orbán;HUN;1984;Female;
 NR;INA;HAM;W;54.12;;Vientiane;LAO;Outdoor;2009-12-15;Rose;Herlinda;INA;1982;Female;
