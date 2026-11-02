@@ -211,7 +211,7 @@ AL;3;10H;WJU20;13.9;1.6;Pista Atlética Mario Recordón;CHI;Outdoor;2026-04-11;L
 AL;3;DRE;WJU20;13.38;1.6;Estadio Brigido Iriarte;VEN;Outdoor;2026-06-06;Yenifer;Mendoza;VEN;2007;Female;15163423
 AL;3;5G;MJU20;19:27.12;;Estadio Atlético de la;PER;Outdoor;2026-07-11;José;Duvan Ccoscco Sueldo;PER;2007;Male;15146972
 AL;3;DIS;WJU20;55.46;;Estadio de Atletismo de la Unidad Deportiva Centenario;COL;Outdoor;2026-05-10;Isabella;Mosquera;COL;2007;Female;15177965.0
-AL;3;11H;MJU20;13.94;2.0;La Vicentina;ECU;Outdoor;2026-07-11;Jose;Luis Guevara;ECU;2008;Male;15075663
+AL;3;11H;MJU20;13.94;2.0;La Vicentina;ECU;Outdoor;2026-07-11;Jose;Luis Guevara;ECU;2008;Male;15075663.0
 AL;3;2K0;WJU20;6:40.81;;Estádio Olímpico do Ibirapuera - Ícaro de Castro Melo;BRA;Outdoor;2026-10-10;Masiel;Flamand;BRA;2011;Female;15184297
 AL;3;800;MJU20;1:49.08;;Estadio Monumental de Puerto La Cruz José Antonio Anzoátegui;VEN;Outdoor;2026-05-21;Julio;Cesar Chirinos;VEN;2008;Male;15163416.0
 AL;3;3K0;MJU20;8:26.19;;Estadio Atlético de la;PER;Outdoor;2026-06-14;Edwar;Rely Marquez;PER;2007;Male;15189404.0
@@ -228,10 +228,10 @@ AL;3;800;WJU20;2:05.59;;Icahn Stadium;USA;Outdoor;2026-05-01;Olivia;Solomon;GUY;
 AL;3;100;MJU20;10.13;1.2;Lenora Track and Field Centre;GUY;Outdoor;2026-05-23;Onesi;Dunn;GUY;2008;Male;15251326
 AL;3;60M;WJU20;7.16;;"R.A. ""Murray"" Fasken Indoor Track Stadium";USA;Indoor;2026-02-26;Athaleyha;Hinckson;GUY;2008;Female;15018025
 AL;3;1K0;MJU20;2:29.0;;Centro Esportivo Joao do Pulo;BRA;Outdoor;2026-09-26;Miguel;Gomes;BRA;2011;Male;15300922
-AL;3;DIS;MJU20;52.41;;Complexo Esportivo Murilo Barreto de Souza;BRA;Outdoor;2026-06-06;Ciao;Francisco Moreira;BRA;2008;Male;15081874
+AL;3;DIS;MJU20;52.44;;Estadio de Atletismo La Flora;COL;Outdoor;2026-11-01;Julián;Alejandro Ortiz;COL;2008;Male;15246250
 AL;3;1K5;MJU20;3:46.78;;Estadio Atlético de la;PER;Outdoor;2026-05-31;Pablo;Antonio Ñauta;ECU;2008;Male;15141810
 AL;3;SPE;WJU20;51.07;;CARD Pedro Candioti;ARG;Outdoor;2026-10-18;Kimberly;Flores;PER;2008;Female;15111202
-AL;3;WEI;MJU20;7.74;1.1;Lenora Track and Field Centre;GUY;Outdoor;2026-06-26;Yohance;Bourne;GUY;;Male;15122742
+AL;3;WEI;MJU20;7.77;0.8;Estadio de Atletismo La Flora;COL;Outdoor;2026-10-31;Jhon;David Valencia;COL;2007;Male;15136108
 AL;3;200;WJU20;23.03;-0.8;Percy Beard Track;USA;Outdoor;2026-04-17;Athaleyha;Hinckson;GUY;2008;Female;15018025
 AL;3;4×1;WJU20;45.76;;Pista Atlética Mario Recordón;CHI;Outdoor;2026-05-16;Chile;U20;CHI;;Female;
 AL;3;300;MJU20;34.95;;Pista Municipal Prof. Mário Moniz Pereira;POR;Outdoor;2026-04-25;Lucca;Reis;BRA;;Male;15159563
@@ -248,6 +248,7 @@ AL;3;HOC;WJU20;1.81;;Pista de Atletismo Armando Garlippe;BRA;Outdoor;2026-07-18;
 AL;3;KUG;WJU20;17.9;;Hayward Field;USA;Outdoor;2026-08-06;Belsy;Jenniffer Quiñonez;ECU;2007;Female;15045421
 AL;3;400;MJU20;44.87;;Un. of Kentucky Outdoor Track Facility;USA;Outdoor;2026-05-29;Malachi;Austin;GUY;2007;Male;15018031
 AL;3;40H;WJU20;58.16;;University of North Florda Jax Track at Hodges Stadium;USA;Outdoor;2026-05-22;Kyara;Belfort;BRA;2009;Female;15168885
+AL;3;40H;WJU20;58.16;;Estadio de Atletismo La Flora;COL;Outdoor;2026-10-31;Michell;Carolina Gomez;COL;2009;Female;15246179
 AL;3;5G;WJU20;22:39.99;;Hayward Field;USA;Outdoor;2026-08-08;Nelci;Rojas;BOL;2007;Female;15217964
 AL;3;KUG;MJU20;18.8;;CARD Pedro Candioti;ARG;Outdoor;2026-10-18;Alessandro;Borges;BRA;2007;Male;15038772
 AL;3;60H;WJU20;9.02;1.0;CNDA;BRA;Outdoor;2026-01-31;Luiza;Teixeira;BRA;2009;Female;15177594
