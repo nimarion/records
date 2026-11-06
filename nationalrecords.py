@@ -5,11 +5,16 @@ import os
 headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36'}
 
 def getDisciplines(sex):
-    url = f'https://www.tilastopaja.info/api/inputs/events/nationalrecords/senior/{sex}'
-    response = requests.get(url, headers=headers)
-    json = response.json()
-    data = json["data"]
-    return [x["value"] for x in data]
+    disciplines = []
+    for indoor in ["", "indoor"]:
+        url = f'https://www.tilastopaja.info/api/inputs/events/nationalrecords/senior/{sex}?indoor={indoor}'
+        response = requests.get(url, headers=headers)
+        json = response.json()
+        data = json["data"]
+        for x in data:
+            if x["value"] not in disciplines:
+                disciplines.append(x["value"])
+    return disciplines
 
 def determine_environment(row):
     if 'rowTitle' in row and row['rowTitle'] == "indoor":
@@ -24,9 +29,14 @@ def getRecords(sex, discipline):
         url = f'https://www.tilastopaja.info/api/nationalrecords/world/{sex}/senior?indoor={indoor}&event={discipline}'
         response = requests.get(url, headers=headers)
         json = response.json()
-        if json['templates'] is not None:
-            records = json['templates'][0]["divs"][0]["tables"][0]["body"]
-            dfs.append(pd.DataFrame(records))
+        templates = json.get('templates')
+        if templates and templates[0].get("divs") and templates[0]["divs"][0].get("tables"):
+            records = templates[0]["divs"][0]["tables"][0].get("body", [])
+            if records:
+                part_df = pd.DataFrame(records)
+                if indoor == "indoor":
+                    part_df['rowTitle'] = "indoor"
+                dfs.append(part_df)
     if not dfs:
         return None
     df = pd.concat(dfs, ignore_index=True)
